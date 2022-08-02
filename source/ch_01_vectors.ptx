@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_vectors" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Vectors</title>
+  <introduction>
+    <p>We start by discussing the mathematics of vectors.</p>
+		<exercises>
+		<title>Introductory Activity</title>
+		  <exercise>
+			  <p>//Come up with a good one</p>
+			</exercise>
+		</exercises>
+  </introduction>
+	
+  <xi:include href="./vec/sec_what-are-vectors.ptx" />
+	
+</chapter>
