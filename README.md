@@ -1,8 +1,10 @@
 # OSU_physics_OER
-I. Abstract
+**I. Abstract**
+
 Modern pedagogies for teaching physics require new curricular resources that go beyond what is offered by traditional textbooks. We will replace the required publisher’s textbook for calculus-based introductory physics with open-source, free-to-student text. We plan to survey existing resources and adopt those that best address our learning objectives via interactive learning, make the most use of modern technologies, and directly promote the inclusion of underrepresented populations. We will continuously monitor the implementation of these resources by checking directly with students to see that their needs are being met and by comparing student performance to longstanding baselines.
 
-II. Project Description 
+**II. Project Description **
+
 Recent innovations in physics education have produced reforms to our curriculum that have progressed much faster than our supporting resources. The long-term objective of our project is to help those supporting resources catch up to our modern curriculum. This grant represents the first step in that project: to replace the publisher’s traditional textbook with an open set of resources that (1) aligns with modern pedagogy, (2) incorporates diverse resource types, and (3) focuses on inclusion.
 
 Align with Modern Pedagogy  
