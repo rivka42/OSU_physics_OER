@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_motion" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Motion</title>
+  <introduction>
+    <p>Our first physics topic is motion.</p>
+		<exercises>
+		<title>Introductory Activity</title>
+		  <exercise>
+			  <p>Find a blank sheet of paper and make a list of everything you know about motion.  Your list can include anything you want: words, symbols, equations, pictures, experiences, questions, <em>etc.</em>  Try to base what you write as much on your everyday personal experience as on any previous formal instruction on motion.</p>
+			</exercise>
+		</exercises>
+  </introduction>
+	
+  <xi:include href="./mot/sec_what-is-motion.ptx" />
+	<xi:include href="./mot/sec_position.ptx" />
+	<xi:include href="./mot/sec_velocity.ptx" />
+	<xi:include href="./mot/sec_motion-diagrams1.ptx" />
+	<xi:include href="./mot/sec_acceleration.ptx" />
+	<xi:include href="./mot/sec_motion-diagrams2.ptx" />
+	<xi:include href="./mot/sec_motion-graphs.ptx" />
+	<xi:include href="./mot/sec_relative-motion.ptx" />
+	<xi:include href="./mot/sec_kinematics-1d.ptx" />
+	<xi:include href="./mot/sec_kinematics-2d.ptx" />
+	<xi:include href="./mot/sec_summary.ptx" />
+	
+</chapter>
