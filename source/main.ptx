@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- This is the main file of the pretext template book provided -->
+<!-- by the `pretext new book` command.  The main.ptx here always-->
+<!-- starts with <pretext> tags.  In this example, the main file -->
+<!-- just imports other .ptx files which contain content. Open   -->
+<!-- those files to see more pretext features                    -->
+
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+  <!-- we first include a file which contains the docinfo element: -->
+  <xi:include href="./meta_docinfo.ptx" />
+
+  <book xml:id="LIPA">
+    <!-- The book needs a title and can have a subtitle  -->
+    <title>Learning Introductory Physics with Activities</title>
+   <!--  <subtitle>Subtitle</subtitle> -->
+
+
+
+    <!-- First a frontmatter for prefaces and such. Maybe comment  -->
+    <!-- out for now and write this when the book is more complete -->
+		
+    <xi:include href="./meta_frontmatter.ptx" />
+
+
+    <xi:include href="./ch_01_vectors.ptx" />
+    <xi:include href="./ch_02_motion.ptx" />
+		<xi:include href="./ch_03_forces.ptx" />
+		<!-- <xi:include href="./ch_04_energy.ptx" /> -->
+		<!-- <xi:include href="./ch_05_momentum.ptx" /> -->
+
+
+
+  
+    <!-- This chapter includes several features that require pregeneration   -->
+    <!-- of assets with `pretext generate` or similar. Some features require -->
+    <!-- internet access; others require local installs not automatically    -->
+    <!-- provided by the CLI. Uncomment to view this chapter, and comment    -->
+    <!-- features you don't wish to generate.                                -->
+    <!-- <xi:include href="./ch_generate.ptx" /> -->
+
+    <!-- Finally we place the backmatter in its own file and inlcude-->
+    <xi:include href="./meta_backmatter.ptx" />
+  </book>
+</pretext>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_forces" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Forces</title>
+  <introduction>
+    <p>We will now begin a new topic, perhaps the most foundational in all of physics: Forces.</p>
+		<exercises>
+		<title>Introductory Activity</title>
+		  <exercise>
+			  <p>Write a short (2-3 sentence) description of how you use the term <em>force</em> in your everyday life. You might want to include an example.</p>
+			</exercise>
+		  <exercise>
+				<figure xml:id="for_ball">
+					<caption>Dr. Paws gets a ball.</caption>
+					<video youtube="_bhzaBtdUIE">
+						<description>Dr. Paws gets a ball.</description>
+					</video>
+				</figure>
+				
+			</exercise>
+			<exercise>
+			  <p>Identify and describe the different types of forces you believe are acting on Dr. Paws in the video above as she chases the ball.</p>
+			</exercise>
+		</exercises>
+  </introduction>
+	
+  <xi:include href="./for/sec_what-are-forces.ptx" />
+	
+</chapter>
