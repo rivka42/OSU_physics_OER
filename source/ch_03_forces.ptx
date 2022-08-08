@@ -25,5 +25,17 @@
   </introduction>
 	
   <xi:include href="./for/sec_what-are-forces.ptx" />
+	<xi:include href="./for/sec_fbds.ptx" />
+	<xi:include href="./for/sec_N1L.ptx" />
+	<xi:include href="./for/sec_N2L.ptx" />
+	<xi:include href="./for/sec_normal-force.ptx" />
+	<xi:include href="./for/sec_gravity.ptx" />
+	<xi:include href="./for/sec_gravity-near-earth.ptx" />
+	<xi:include href="./for/sec_static-friction.ptx" />
+	<xi:include href="./for/sec_kinetic-friction.ptx" />
+	<xi:include href="./for/sec_elastic-force.ptx" />
+	<xi:include href="./for/sec_N3L.ptx" />
+	<xi:include href="./for/sec_tension.ptx" />
+	<xi:include href="./for/sec_forces-summary.ptx" />
 	
 </chapter>

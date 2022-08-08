@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_fbds" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Free-body Diagrams</title>
+  <introduction>
+    <p>
+      Start by watching the video briefing on forces. {NOTE: Keep only second half of this video.}
+    </p>
+		
+		<figure xml:id="for_vb-forces-intro">
+      <video youtube="xb0sR7Q0JtM">
+        <description>Paul introduces forces.</description>
+      </video>
+    </figure>
+		
+  </introduction>
+	
+		<!-- From Kathy's website -->
+	<p>
+	A free body diagram is a pictorial way to represent the forces acting on an object. It should include one object with all force vectors acting on it with relatively correct lengths as well as coordinate axes and any angles.  One of the most important things to understand when drawing free-body diagrams is knowing what things are forces acting on an object and what things are not forces.
+	</p>
+		
+		<p>
+		  In a free-body diagram, each force should be labeled using the following symbol <m>\vec{F}_{BC}^A</m>, where <m>\vec{F}</m> indicates that the symbol represents a force, the superscript <m>A</m> represents the type of force (for example, <m>G</m> for gravity), <m>B</m> represents the object (or system) on which the force is acted, and <m>C</m> represents the object (or system) that is exerting the force.
+		</p>
+		
+    <p>
+      <em>Exercise: </em>  Choose an instant in the video of Dr. Paws from the start of <xref ref="ch_forces"/> and draw a free-body diagram for the dog using what you learned in the video briefing.
+    </p>
+  
+
+	
+</section>
+

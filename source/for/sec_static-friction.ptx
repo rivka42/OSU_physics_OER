@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_static-friction" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Force of Static Friction</title>
+  <introduction>
+    <p>
+      Start by watching the video briefing on the force of static friction.  {NOTE: UPLOAD CORRECT VIDEO.}
+    </p>
+		
+		<figure xml:id="for_vb-sf">
+      <video youtube="xb0sR7Q0JtM">
+        <description>Paul introduces forces.</description>
+      </video>
+    </figure>
+		
+  </introduction>
+	
+		
+		<exercises>
+			<exercise>
+			  <p>A small car might have a mass of around 1000 kg and a coefficient of static friction of about 0.9. What is the largest possible force that static friction can exert on this car? (in N)</p>
+			</exercise>
+			<exercise>
+			  <p>A small car might have a mass of around 1000 kg and a coefficient of static friction of about 0.9.  What is the smallest possible force that static friction can exert on this car? (in N)</p>
+			</exercise>
+			<exercise>
+			  <p>Describe situations when each of the previous cases (the largest and smallest possible forces from static friction) would occur.</p>
+			</exercise>
+		</exercises>
+
+	
+</section>
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_N2L" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Law of Motion (Newton's Second Law)</title>
+  <introduction>
+    <p>
+      Start by watching the video briefing on the Law of Motion (also known commonly as Newton's 2nd Law).
+    </p>
+		
+		<figure xml:id="for_vb-n2l">
+      <video youtube="WvWPCCcci2k">
+        <description>Paul introduces Newton's 2nd Law.</description>
+      </video>
+    </figure>
+		
+  </introduction>
+	
+		<!-- From Kathy's website -->
+	<principle>
+	<title>The Law of Motion</title>
+	<statement>
+	<p>The net force on an object or system is equivalent to the product of object's mass and its acceleration: <m>\vec{F}_{net} = m\vec{a}</m>.</p>
+	</statement>
+	</principle>
+	
+	<definition>
+	<title>Net force</title>
+	<statement>
+	<p>The net force on an object or system is equal to the (vector) sum of all forces acting on it: <m>\vec{F}_{net} = \sum_i \vec{F}_i</m>.</p>
+	</statement>
+	</definition>
+	
+			<exercises>
+
+		   <exercise>
+			  <p>In the video briefing, you learned a relationship between force and acceleration. This is a Building Block (and a very important one, at that). Write a 2-3 sentence description of what this symbolic equation says in your own words.</p>
+			</exercise>
+			<exercise>
+			  <p>Using what you learned in the video, how would you write the units of a force (Newtons) in terms of other units you are familiar with? </p>
+			</exercise>
+			<exercise>
+			  <p>A car’s maximum acceleration is about 6 m/s<m>^2</m>.  If the mass of the driver is about 80 kg, what is the magnitude of the net force exerted on the driver (in Newtons)?</p>
+			</exercise>
+				<exercise>
+			  <p>Consider the following three situations: </p>
+				<p>A: You are in a car when the speed limit changes from 35 mph to 45 mph.</p>
+				<p>B: You are in a car on the freeway driving at a constant speed of 70 mph.</p>
+				<p>C: You are in a car waiting for a red light to turn green.</p>
+				<p>Rank the three situations by the magnitude of the net force on the car from largest to smallest.  Explain your reasoning.</p>
+			</exercise>
+		</exercises>
+  
+
+	
+</section>
+

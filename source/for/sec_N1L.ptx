@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_N1L" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Law of Inertia (Newton's First Law)</title>
+  <introduction>
+    <p>
+      Start by watching the video briefing on the Law of Inertia (also known commonly as Newton's 1st Law).
+    </p>
+		
+		<figure xml:id="for_vb-n1l">
+      <video youtube="9_Pw2O_IZdM">
+        <description>Paul introduces Newton's 1st Law.</description>
+      </video>
+    </figure>
+		
+  </introduction>
+	
+	<!-- From Kathy's website -->
+	<principle>
+	<title>The Law of Inertia</title>
+	<statement>
+	An object at rest stays at rest. An object in motion stays in motion at a constant speed in a straight line unless acted upon by an unbalanced force.
+	</statement>
+	</principle>
+	
+	<p>The first law states something fundamental about the behavior of objects. An object doesn't have a natural state of rest.</p>
+	
+	<p>{Is there a way to make this next paragraph openable?</p>
+	
+	<p>Before Newton, people thought that the natural state of an object was to be at rest as close as possible to the center of the universe (which was, of course, the center of the earth). They thought that if an object was disturbed, it would move and then return to rest.</p>
+		
+    <p>
+      <em>Exercise:</em>  {Need a good one!}
+    </p>
+  
+
+	
+</section>
+

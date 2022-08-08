@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_N3L" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Action-Reaction Pairs (Newton's Third Law)</title>
+  <introduction>
+    <p>
+      Start by watching the video briefing on Action-Reaction Pairs (Newton's 3rd Law).  {NOTE: UPLOAD CORRECT VIDEO.}
+    </p>
+		
+		<figure xml:id="for_vb-n3l">
+      <video youtube="xb0sR7Q0JtM">
+        <description>Paul introduces action-reaction pairs (Newton's 3rd Law).</description>
+      </video>
+    </figure>
+		
+  </introduction>
+	
+		<!-- From Kathy's website -->
+	<principle>
+	<title>Action-Reaction Pairs</title>
+	<statement>
+	<p>Forces come in pairs. For every force, there exists and equal and opposite force.</p>
+	</statement>
+	</principle>
+	
+		
+			<exercises>
+			<exercise>
+			  <p>When a book is sitting at rest on a flat table, there are two forces acting on it. Identify these two forces and explain why they are not Newton's 3rd Law pairs.</p>
+			</exercise>
+			<exercise>
+			  <p>Identify the Newton's 3rd Law pair for each force acting on the book from the previous question, which is sitting at rest on a flat table.</p>
+			</exercise>
+		</exercises>
+  
+
+	
+</section>
+

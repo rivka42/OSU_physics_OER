@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_gravity-near-earth" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Gravity Near the Surface of the Earth</title>
+  <introduction>
+    <p>
+      Start by watching the video briefing on the gravitational field.  {NOTE: UPLOAD CORRECT VIDEO.}
+    </p>
+		
+		<figure xml:id="for_vb-grav2">
+      <video youtube="xb0sR7Q0JtM">
+        <description>Paul discusses the gravitational field.</description>
+      </video>
+    </figure>
+		
+  </introduction>
+	
+		
+			<exercises>
+			<exercise>
+			  <p>At the end of the video, we introduced the Newtonian model for the gravitational field.  One common gravitational field we want to know is the field created by the Earth at the surface of the Earth.  Look up numerical facts about the size and mass of the Earth and use them to determine the magnitude of Earth's gravitational field at the surface of the Earth.</p>
+			</exercise>
+		<exercise>
+			  <p>In the previous question you found the magnitude of the Earth's gravitational field at the surface of the Earth.  Imagine that you wanted to move farther away from the center of the Earth (for example, by climbing a mountain) so that the Earth's gravitational field decreases by about 1%.  How far up do you think you would need to move?  Explain your thinking.</p>
+			</exercise>
+			</exercises>
+			
+		<p>
+      Now watch the video briefing on the gravitational force near the surface of the Earth.  {NOTE: UPLOAD CORRECT VIDEO.}
+    </p>
+		
+		<figure xml:id="for_vb-grav3">
+      <video youtube="xb0sR7Q0JtM">
+        <description>Paul discusses the gravitational force near the surface of the Earth.</description>
+      </video>
+    </figure>
+  
+
+	
+</section>
+

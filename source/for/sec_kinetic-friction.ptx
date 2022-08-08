@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_kinetic-friction" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Force of Kinetic Friction</title>
+  <introduction>
+    <p>
+      Start by watching the video briefing on the force of kinetic friction.  {NOTE: UPLOAD CORRECT VIDEO.}
+    </p>
+		
+		<figure xml:id="for_vb-kf">
+      <video youtube="xb0sR7Q0JtM">
+        <description>Paul introduces forces.</description>
+      </video>
+    </figure>
+		
+  </introduction>
+	
+		
+		<exercises>
+			<exercise>
+			  <p>Give a one- or two-sentence explanation of the difference between static and kinetic friction, aimed at someone who has never taken a physics course.</p>
+			</exercise>
+			<exercise>
+			  <p>Play with this forces simulation: <url href="https://phet.colorado.edu/en/simulations/forces-and-motion-basics"/>.  Make sure to investigate all four tabs.</p>
+			</exercise>
+			<exercise>
+			  <p>Describe an observation you were able to make using the simulation, especially if you observed anything that you consider unexpected or surprising.</p>
+			</exercise>
+			<exercise>
+			  <p>Design and carry out a (simple) experiment to test something using the simulation. Describe your experiment, your results, and what you feel you learned from carrying out your experiment.</p>
+			</exercise>
+		</exercises>
+  
+
+	
+</section>
+

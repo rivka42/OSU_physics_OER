@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_gravity" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Gravitational Force</title>
+  <introduction>
+    <p>
+      Start by watching the video briefing on the gravitational force.  {NOTE: UPLOAD CORRECT VIDEO.}
+    </p>
+		
+		<figure xml:id="for_vb-grav1">
+      <video youtube="xb0sR7Q0JtM">
+        <description>Paul introduces forces.</description>
+      </video>
+    </figure>
+		
+  </introduction>
+	
+		
+			<exercises>
+			<exercise>
+			  <p>At the end of the video, we ask you to think about what kind of quantity the gravitational field is.  Take a moment to think about the name, symbol, and equation.  Then, write down 2-3 things you think might be true for the gravitational field.</p>
+			</exercise>
+		</exercises>
+  
+
+	
+</section>
+

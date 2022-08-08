@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_what-are-forces" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>What are Forces?</title>
+  <introduction>
+    <p>
+      Start by watching the video briefing on forces.  {NOTE: Keep only first half of this video.}
+    </p>
+		
+		<figure xml:id="for_vb-forces-intro">
+      <video youtube="xb0sR7Q0JtM">
+        <description>Paul introduces forces.</description>
+      </video>
+    </figure>
+		
+  </introduction>
+	
+	<!-- From Kathy's website -->
+    <p>
+      Simply stated, a force is something that pushes or pulls a massive object.  Isaac Newton originated the concept of forces, encapsulating the theory in terms of three laws, known as Newton's laws.  Force is a vector. It has a magnitude and a direction. In the simplest terms, you can think of a force as a push or a pull. An object can have more than one force acting on it. If we add up all of the forces acting on an object, we call this the net force. It can be a tricky business, since the forces can be acting in different directions. An object can have two forces acting on it and still have a net force of zero if the two forces are acting in different directions and have the same magnitude.
+    </p>
+	
+	
+    <p>
+      <em>Exercise:</em> Write a short (2-3 sentence) description of how we use the term force in physics. Highlight any differences between your physics description and your personal description from the start of this chapter.
+    </p>
+  
+
+	
+</section>
+
