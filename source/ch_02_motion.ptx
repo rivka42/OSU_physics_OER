@@ -15,13 +15,14 @@
   <xi:include href="./mot/sec_what-is-motion.ptx" />
 	<xi:include href="./mot/sec_position.ptx" />
 	<xi:include href="./mot/sec_velocity.ptx" />
-	<xi:include href="./mot/sec_motion-diagrams1.ptx" />
+	<xi:include href="./mot/sec_motion-diagrams.ptx" />
 	<xi:include href="./mot/sec_acceleration.ptx" />
-	<xi:include href="./mot/sec_motion-diagrams2.ptx" />
+	<xi:include href="./mot/sec_sensemaking1.ptx" />
+	<xi:include href="./mot/sec_calc1.ptx" />
 	<xi:include href="./mot/sec_motion-graphs.ptx" />
 	<xi:include href="./mot/sec_relative-motion.ptx" />
 	<xi:include href="./mot/sec_kinematics-1d.ptx" />
 	<xi:include href="./mot/sec_kinematics-2d.ptx" />
-	<xi:include href="./mot/sec_summary.ptx" />
+	<xi:include href="./mot/sec_motion-summary.ptx" />
 	
 </chapter>
