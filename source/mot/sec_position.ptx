@@ -4,16 +4,43 @@
   <title>Position</title>
   <introduction>
     <p>
-      //unwritten
-    </p>
-		
-		
+      {Define position in words}
+    </p>	
   </introduction>
 	
+	<definition>
+		<title>Motion Diagram (Representation)</title>
+		<statement>
+			<p>A <term>motion diagram</term> is a physical representation in which an object is represented at different <em>positions</em> that are separated by <em>equal time intervals</em>.</p>
+		</statement>
+	</definition>
+	
+	<p>
+      Watch the video briefing showing the construction of a simple motion diagram. {ADD CORRECT VIDEO LINK}
+  </p>
 		
-    <p>
-      <em>Exercise:</em> 
-    </p>
+	<figure xml:id="for_vb-md">
+		 <caption>An example of a simple motion diagram being created.</caption>
+     <video youtube="WvWPCCcci2k"></video>
+  </figure>
+
+	<exercises>
+			
+			<p>Watch the video below of an instructor rolling a ball across the floor.</p>
+				
+			<figure xml:id="for_vb-ball-floor">
+						<caption>A ball rolls across the floor.</caption>
+						<video youtube="q6xrhpbduns"></video>
+      </figure>
+
+			<exercise>
+			  <p>Describe the motion of the ball between the green markers in words (use complete sentences).​  Did you make any assumptions or idealizations about the ball's motion? </p>
+			</exercise>
+			<exercise>
+			  <p>Draw a motion diagram for the ball (when it is between the green markers).</p>
+			</exercise>
+			
+		</exercises>
   
 
 	

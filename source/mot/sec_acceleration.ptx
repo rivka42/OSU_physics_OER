@@ -2,18 +2,43 @@
 
 <section xml:id="sec_acceleration" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Acceleration</title>
+	
   <introduction>
+	
     <p>
-      //unwritten
+     Watch the Video Briefing below about acceleration.  {ADD CORRECT VIDEO LINK}
     </p>
 		
+		<figure xml:id="for_vb-acceleration">
+		  <caption>Defining acceleration.</caption>
+      <video youtube="WvWPCCcci2k"></video>
+    </figure>
 		
   </introduction>
 	
-		
-    <p>
-      <em>Exercise:</em> 
-    </p>
+	<p>{Add definitions and text!}</p>
+
+	<exercises>
+
+			<exercise>
+			  <p>Write a 1-2 sentence description of what the definition of acceleration says in words. </p>
+			</exercise>
+			<exercise>
+			  <p>What are the units of acceleration? Explain how these units are consistent with the units of other quantities you have learned about.</p>
+			</exercise>
+			<p>In the previous section, you saw the motion diagram below.</p>
+					<figure xml:id="for_vb-md-acc2">
+		  <caption>A more complicated motion diagram.</caption>
+      <image source="images/MotionA.png"></image>
+			<description>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.</description>
+    </figure>
+			<exercise>
+			  <p>Complete the motion diagram for the ball at the beginning of this activity by sketching velocity and acceleration vectors at each point.  (Your vectors should be at qualitatively accurate!  That is, vectors with larger magnitudes should have greater length.)</p>
+				<p>{I have a solution video with motion diagrams and a graph of position vs time if we want to include it here.}</p>
+			</exercise>
+			
+		</exercises>
+
   
 
 	

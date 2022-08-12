@@ -3,19 +3,34 @@
 <section xml:id="sec_velocity" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Velocity</title>
   <introduction>
+	
     <p>
-      //unwritten
+     In the previous section, you drew a <em>motion diagram</em> for a ball rolling across the floor.  While thinking about this situation, you may have thought about one or more of the following ideas: position, time, displacement, speed, or velocity.  The Video Briefing below introduces these concepts formally.  {ADD CORRECT VIDEO LINK}
     </p>
 		
+		<figure xml:id="for_vb-velocity">
+		  <caption>Defining velocity and speed.</caption>
+      <video youtube="WvWPCCcci2k"></video>
+    </figure>
 		
   </introduction>
 	
-		
-    <p>
-      <em>Exercise: You glance at the speedometer of a car and observe that it reads 27 miles per hour. Write 1-2 sentences about the meaning of the speedometer reading. Does the meaning depend on whether you are in the car for longer or shorter than one hour?</em> 
-    </p>
-  
+	<p>{Add definitions and text!}</p>
 
+	<exercises>
+
+			<exercise>
+			  <p>Write a 1-2 sentence description of what the definition of average velocity says in words. </p>
+			</exercise>
+			<p>With definitions like the one above, you should aim to understand each mathematical symbol in the symbolic equation, along with how those symbols work together.  You should also know the kind of quantity that each symbol represents, and the units associated with that quantity.  Below are two questions that give you a chance to think more about velocity.</p>
+			<exercise>
+			  <p>What are the units of average velocity? Explain how these units are consistent with the units of the other quantities in the definition of average velocity given above.</p>
+			</exercise>
+			<exercise>
+			  <p>In physics we will use both the idea of velocity and the idea of speed. In everyday language, these two words are often used interchangeably, but in physics they have distinct meanings. Write 1-2 sentences aimed at explaining the difference between velocity and speed to a child.</p>
+			</exercise>
+			
+		</exercises>
 	
 </section>
 
