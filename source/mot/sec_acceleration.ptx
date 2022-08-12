@@ -29,7 +29,7 @@
 			<p>In the previous section, you saw the motion diagram below.</p>
 					<figure xml:id="for_vb-md-acc2">
 		  <caption>A more complicated motion diagram.</caption>
-      <image source="images/MotionA.png"></image>
+      <image source="MotionA.png"></image>
 			<description>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.</description>
     </figure>
 			<exercise>
