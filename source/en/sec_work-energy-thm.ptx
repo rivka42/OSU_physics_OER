@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_work-energy-thm" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Work-Energy Theorem</title>
+  <introduction>
+	
+		<p>
+     Watch the video briefing below on the Work-Energy Theorem. {ADD CORRECT VIDEO LINK}
+    </p>
+		
+		<figure xml:id="for_vb-work-energy-thm">
+		  <caption>Defining work.</caption>
+      <video youtube="WvWPCCcci2k"></video>
+    </figure>
+		
+  </introduction>
+	
+	<principle>
+	<title>The Work-Energy Theorem</title>
+	<statement>
+	  <p>The net work done by external forces on an object or system is equal to the change in total energy of that system: <m>W_{net,external} = \Delta E</m>. </p>
+	</statement>
+	</principle>
+
+	<exercises>
+
+			<exercise>
+			  <p>How do you think you would calculate the net work if more than one force were acting on an object or system? </p>
+			</exercise>
+			
+			<exercise>
+			  <p>What are some different kinds of energy you could imagine changing? </p>
+			</exercise>
+		
+		</exercises>
+	
+</section>
+
+

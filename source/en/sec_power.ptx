@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_power" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Power</title>
+  <introduction>
+	
+    <p>
+     Watch the video briefing below on power.  {ADD CORRECT VIDEO LINK}
+    </p>
+		
+		<figure xml:id="for_vb-ower">
+		  <caption>Defining power.</caption>
+      <video youtube="WvWPCCcci2k"></video>
+    </figure>
+		
+  </introduction>
+	
+	<definition>
+	<title>Power</title>
+	<statement>
+	<p><m>P = \frac{dE}{dt}</m>.</p>
+	</statement>
+	</definition>
+
+	<exercises>
+
+			<exercise>
+			  <p>When you get a bill from the power company, you pay for kilowatt-hours. What are you actually paying for, and how do you know? </p>
+			</exercise>
+			
+		</exercises>
+	
+</section>
+

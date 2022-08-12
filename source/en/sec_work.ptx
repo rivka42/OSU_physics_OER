@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_work" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Work</title>
+  <introduction>
+	
+    <p>
+     One way to change the energy of an object is to do work on it.  Work is a change in energy that arises when an external force acts on an object that moves through some distance.
+    </p>
+		
+  </introduction>
+	
+	<definition>
+	<title>Work</title>
+	<statement>
+	<p>The <term>work</term> done by a single force on an object is: <m>W = \int_i^f {\vec{F} \cdot d\vec{x}}</m>. </p>
+	</statement>
+	</definition>
+
+	<exercises>
+
+			<exercise>
+			  <p>The definition of work can look pretty complicated the first time you see it! Describe something you see in this equation that you aren't entirely sure about. </p>
+			</exercise>
+			
+		<p>
+     Watch the video briefing below on work. {ADD CORRECT VIDEO LINK}
+    </p>
+		
+		<figure xml:id="for_vb-work">
+		  <caption>Defining work.</caption>
+      <video youtube="WvWPCCcci2k"></video>
+    </figure>
+			
+			<exercise>
+			  <p>You are pulling a box across the floor using a horizontal rope with a tension force of 250 N.</p>
+				
+				<p>How much work (in J) have you done after the box has slid 3 m along the floor?</p>
+			</exercise>
+			<exercise>
+			  <p>Suppose you were to angle your rope so that it makes an angle of <m>20^o</m> with the horizontal (the magnitude of the tension is unchanged).</p>
+				
+				<p>How much work (in J) have you done after the box has slid 3 m along the floor?</p>
+			</exercise>
+			<exercise>
+				<p>Why is the work you calculated for the two situations above not the same?</p>
+			</exercise>
+			
+		</exercises>
+	
+</section>
+
+

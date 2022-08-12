@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_ke" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Kinetic Energy</title>
+  <introduction>
+	
+    <p>
+     Watch the video briefing below on kinetic energy  {ADD CORRECT VIDEO LINK}
+    </p>
+		
+		<figure xml:id="for_vb-ke">
+		  <caption>Defining kinetic energy.</caption>
+      <video youtube="WvWPCCcci2k"></video>
+    </figure>
+		
+  </introduction>
+	
+	<definition>
+	<title>Kinetic Energy</title>
+	<statement>
+	<p>The <term>kinetic energy</term> of a point object is: <m>K = 1/2mv^2</m>.</p>
+	</statement>
+	</definition>
+
+	<exercises>
+
+			<exercise>
+			  <p>Write a 1-2 sentence description of what the definition of kinetic energy says in words and why it makes sense given your everyday experience. </p>
+			</exercise>
+			<exercise>
+			  <p>We will measure energy in Joules (J).  Use the definition of kinetic energy to write a Joule in terms of other units you are familiar with.</p>
+			</exercise>
+			<exercise>
+			  			<p>Many cars have a mass that is somewhere around 1200 kg. Estimate the kinetic energy (in J) of such a car that is traveling down a highway at 70 mph.</p>
+			</exercise>
+			
+		</exercises>
+	
+</section>
+
