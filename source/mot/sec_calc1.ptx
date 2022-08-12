@@ -23,8 +23,6 @@
 			  <p>Look at the following equation for the position of an object: <m>x_f = x_i + \int_{t_i}^{t_f}v_x(t)dt</m>. </p>
 				<p>Why do we need an integral to find position?  Why can't we just use <m>x_f = x_i + v_x\Delta t</m>? </p>
 			</exercise>
-
-			</exercise>
 			
 		</exercises>
 	
