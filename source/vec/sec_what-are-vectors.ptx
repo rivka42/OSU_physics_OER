@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_what-are-vectors" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>What are Vectors?</title>
+  <introduction>
+    <p>
+      Start by watching the video briefing on forces.
+    </p>
+		
+		<figure>
+      <video youtube="5ucfHd8FWKw">
+        <description>MIT vectors vs. scalars.</description>
+      </video>
+    </figure>
+		
+  </introduction>
+	
+	<!-- From what Rebecka wrote (needs figures) -->
+    <p>
+     Vector analysis is an important aspect of quantifying motion that occurs in more than one physical dimension. Driving a car on the surface of the planet is an example of motion in two dimensions, whereas, flying a plane through some volume of atmosphere is an example of three-dimensional motion.
+		</p>
+
+		<p>
+		A mathematical object which has a both a magnitude (length), and a direction is called a vector.  It is essential that we learn to take into account how both the magnitude and direction of a vector quantity changes when we analyze motion. A quantity that only has a magnitude is called a scalar.
+		</p>
+
+		<p>
+		In diagrams, vectors are represented by arrows. The length of the arrow represents the magnitude of the vector and the arrowhead indicates the direction of the vector.  In text, we will use an arrow on top of a symbol to denote a vector quantity.  Suppose that we have a vector .  The vector  has the same magnitude as vector , but points in the opposite direction. Once we understand how to visually represent and perform operation on vectors, we will move on to understand how to manipulate them algebraically.
+    </p>
+	
+	
+    <p>
+      <em>Exercise:</em> 
+    </p>
+  
+
+	
+</section>
+
