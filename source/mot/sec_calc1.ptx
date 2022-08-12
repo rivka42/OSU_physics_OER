@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_calc1" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Using Calculus in Physics</title>
+  <introduction>
+	
+    <p>
+     Watch the video below on using calculus in physics. {ADD CORRECT VIDEO LINK}
+    </p>
+		
+		<figure xml:id="for_vb-valc1">
+		  <caption>Defining velocity and speed.</caption>
+      <video youtube="WvWPCCcci2k"></video>
+    </figure>
+		
+  </introduction>
+	
+	<p>{Add definitions and text!}</p>
+
+	<exercises>
+
+			<exercise>
+			  <p>Look at the following equation for the position of an object: <m>x_f = x_i + \int_{t_i}^{t_f}v_x(t)dt</m>. </p>
+				<p>Why do we need an integral to find position?  Why can't we just use <m>x_f = x_i + v_x\Delta t</m>? </p>
+			</exercise>
+
+			</exercise>
+			
+		</exercises>
+	
+</section>
+
