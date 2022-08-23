@@ -6,9 +6,9 @@
     <p>
       The motion diagram below shows a ball moving from left to right.  A total of 1 s has passed between each successive dot.
     </p>
-		<figure xml:id="for_vb-md-acc">
+		<figure xml:id="mot_MotionA">
 		  <caption>A more complicated motion diagram.</caption>
-      <image source="MotionA.emf"></image>
+      <image source="MotionA.png"></image>
 			<description>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.</description>
     </figure>
 		

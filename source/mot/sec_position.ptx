@@ -19,7 +19,7 @@
       Watch the video briefing showing the construction of a simple motion diagram. {ADD CORRECT VIDEO LINK}
   </p>
 		
-	<figure xml:id="for_vb-md">
+	<figure xml:id="mot_vb-md">
 		 <caption>An example of a simple motion diagram being created.</caption>
      <video youtube="WvWPCCcci2k"></video>
   </figure>
@@ -28,7 +28,7 @@
 			
 			<p>Watch the video below of an instructor rolling a ball across the floor.</p>
 				
-			<figure xml:id="for_vb-ball-floor">
+			<figure xml:id="mot_vb-ball-floor">
 						<caption>A ball rolls across the floor.</caption>
 						<video youtube="q6xrhpbduns"></video>
       </figure>
