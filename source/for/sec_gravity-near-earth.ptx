@@ -4,16 +4,23 @@
   <title>Gravity Near the Surface of the Earth</title>
   <introduction>
     <p>
-      Start by watching the video briefing on the gravitational field.  {NOTE: UPLOAD CORRECT VIDEO.}
+      Start by watching the video briefing on the gravitational field.
     </p>
 		
 		<figure xml:id="for_vb-grav2">
-      <video youtube="xb0sR7Q0JtM">
-        <description>Paul discusses the gravitational field.</description>
+		<caption>Introducing the gravitational field.</caption>
+      <video youtube="XUrUBts_ivE">
       </video>
     </figure>
 		
   </introduction>
+	
+	<definition>
+	<title>The Gravitational Field</title>
+	<statement>
+	<p>The <term>gravitational field</term> created by a spherical object with mass <m>m_B</m> is: <m>\vec{g}_{B} = \frac{GM_B}{r^2}(-\hat{r})</m>.</p>
+	</statement>
+	</definition>
 	
 		
 			<exercises>
@@ -26,12 +33,12 @@
 			</exercises>
 			
 		<p>
-      Now watch the video briefing on the gravitational force near the surface of the Earth.  {NOTE: UPLOAD CORRECT VIDEO.}
+      Now watch the video briefing on the gravitational force near the surface of the Earth.
     </p>
 		
 		<figure xml:id="for_vb-grav3">
-      <video youtube="xb0sR7Q0JtM">
-        <description>Paul discusses the gravitational force near the surface of the Earth.</description>
+		        <caption>The gravitational force near the surface of the Earth.</caption>
+      <video youtube="1gDZC8lOaKI">
       </video>
     </figure>
   

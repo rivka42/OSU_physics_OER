@@ -4,17 +4,23 @@
   <title>The Gravitational Force</title>
   <introduction>
     <p>
-      Start by watching the video briefing on the gravitational force.  {NOTE: UPLOAD CORRECT VIDEO.}
+      Start by watching the video briefing on the gravitational force.
     </p>
 		
 		<figure xml:id="for_vb-grav1">
-      <video youtube="xb0sR7Q0JtM">
-        <description>Paul introduces forces.</description>
+		<caption>Introducing the gravitational force.</caption>
+      <video youtube="eaPGC3rYA_E">
       </video>
     </figure>
 		
   </introduction>
 	
+		<definition>
+	<title>The Gravitational Force</title>
+	<statement>
+	<p>The <term>gravitational force</term> on an object with mass <m>m_A</m> in the presence of a gravitational field <m>\vec{g}_B</m> is: <m>\vec{F}^{G}_{AB} = m_A\vec{g}_B</m>.</p>
+	</statement>
+	</definition>
 		
 			<exercises>
 			<exercise>
