@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_vector_algebra" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Vector Algebra</title>
+  <introduction>
+<p>
+Representing vectors as arrows is a good way to get a geometric understanding and also for creating a good physics diagram of a physical situation we are interested in understanding. However, if we want to quantify the physics, we need to work algebraically within a particular coordinate system. Consider the vector  <m>\vec{A}</m> written in terms of components and the unit vectors <m> \hat{x} </m>, <m> \hat{y} </m> and <m> \hat{z} </m>
+</p>
+
+<me>
+\vec{A} = a_x\hat{x}+a_y\hat{y}+a_z\hat{z}
+</me>
+    
+ <p>
+Now let's learn how to <em>algebraically</em> compute the vector operations we learned previously 
+</p>
+
+<exercises>
+ <title> Vector Addition</title>
+ </exercises>
+  
+<p>
+To add vectors algebraically, we simply add/subtract like components.
+</p>
+
+<md>
+<mrow> \vec{A} + \vec{B} \amp = (A_x \hat{x} + A_y \hat{y}+ A_z\hat{z}) + (B_x \hat{x} + B_y \hat{y}+ B_z\hat{z}) </mrow>
+<mrow> \amp = (A_x +B_x)\hat{x} + (A_y + B_y)\hat{y} + (A_z+B_z) \hat{z}</mrow>
+</md>
+
+ 
+  <exercises>
+ <title> Vector Subtraction</title>
+ </exercises>
+ 
+ <p>
+To subtract vectors algebraically, we simple subtract like components.
+</p>
+ 
+ <md>
+<mrow> \vec{A} - \vec{B} \amp = (A_x \hat{x} + A_y \hat{y}+ A_z\hat{z}) - (B_x \hat{x} + B_y \hat{y}+ B_z\hat{z}) </mrow>
+<mrow> \amp = (A_x - B_x)\hat{x} + (A_y - B_y)\hat{y} + (A_z - B_z) \hat{z} </mrow>
+</md>
+
+ 
+ <exercises>
+ <title> Multiplication of a vector by a scalar</title>
+ </exercises>
+ 
+ <p>
+ To algebraically multiply a vector by a scalar we multiply each component.
+ </p>
+ 
+ <me>
+ a\vec{A} = (aA_x)\hat{x} + (aA_y)\hat{y} + (aA_z)\hat{z}
+ </me>
+ 
+ <exercises>
+ <title> The dot product of two vectors</title>
+ </exercises>
+ 
+ <p>
+ To compute the dot product algebraically, we multiply like components and add them together.
+ </p>
+ 
+ <md>
+<mrow> \vec{A} \cdot \vec{B} \amp = (A_x \hat{x} + A_y \hat{y}+ A_z\hat{z}) \cdot (B_x \hat{x} + B_y \hat{y}+ B_z\hat{z})</mrow>
+<mrow> \amp = A_xB_x(\hat{x} \cdot \hat{x}) + A_yB_y(\hat{y} \cdot \hat{y}) + A_zB_z (\hat{z} \cdot \hat{z}) </mrow>
+<mrow>\amp = A_xB_x + A_yB_y+A_zB_z </mrow>
+</md>
+ 
+ Recall: <m>\hat{x} \cdot \hat{x} = \hat{y} \cdot \hat{y} = \hat{z} \cdot \hat{z} = 1</m>
+ 
+ <p>
+ This concludes our chapter on vectors. Understanding vector operations is fundamental to all of physics. It is of utmost importance that we learn to use multiple representations of vectors (diagrams, graphs, words, equations) and be able to move back and forth between those representations. 
+ </p>
+
+  
+ </introduction>
+	
+</section>
+

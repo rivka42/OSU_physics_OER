@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_vector_operations" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Vector Operations</title>
+  <introduction>
+    <p>
+     In this course we will become comfortable performing several vector operations.
+    </p>
+    
+ <exercises>
+ <title> Vector Addition</title>
+ </exercises>
+
+ <p>
+Suppose we have two vectors <m> \vec{A}</m> and <m> \vec{B}</m>. To add the two vectors, we will place the tail of <m> \vec{B}</m> at the head of <m> \vec{A}</m>. The vector connecting the tail of  <m> \vec{A}</m> to the head of <m> \vec{B}</m> is the sum <m> \vec{A} + \vec{B}</m>.
+</p>
+		
+    <figure xml:id="vec_addition">
+    	<caption>A representation of vector addition using arrows.</caption>
+    		<image source="vectors/vec_addition.png" width = "25%" ></image>
+    </figure>
+    
+ <exercises>
+ <title> Vector Subtraction</title>
+ </exercises>
+
+<p>
+To subtract two vectors, we can simply add the negative <m> \vec{A} + (-\vec{B})</m>. Recall that the negative vector points in the opposite direction but has the same length. 
+ </p>
+ 
+     <figure xml:id="vec_subtraction">
+    	<caption>A representation of vector subtraction using arrows.</caption>
+    		<image source="vectors/vec_subtraction.png" width = "25%" ></image>
+    </figure>
+
+ <exercises>
+ <title> Multiplication of a vector by a scalar</title>
+ </exercises>
+
+<p>
+Multiplication of a vector with a positive scalar will <em>scale</em> the magnitude of the vector but leave the direction unchanged. Multiplication by a negative scalar will <em>reverse</em> the direction in addition to scaling the vector magnitude.
+</p>
+
+     <figure xml:id="vec_scalar_mult">
+    	<caption>An arrow representing vector A is shown. The scalar multiplication of A by -1/2 and 2 is also shown.</caption>
+    		<image source="vectors/vec_scalar_mult.png" width = "100%" ></image>
+    </figure>
+
+
+ <exercises>
+ <title> The dot product of two vectors</title>
+ </exercises>
+
+<p>
+Vectors do not multiply in the same way as scalars due to their inherent directionality. The dot product of two vectors is itself a scalar value, <m>\vec{A} \cdot \vec{B} = AB sin\theta</m>.
+</p>
+
+     <figure xml:id="vec_dot_product">
+    	<caption>A representation of vectors A and B and the angle between them illustrating the dot product fo tweo vectors.</caption>
+    		<image source="vectors/vec_dot_product.png" width = "25%" ></image>
+    </figure>
+    
+<p>
+Here, <m> \theta</m> represents the angle between the two vectors when they are placed tail to tail. A and B represent the magnitude of the vectors <m> \vec{A}</m> and <m> \vec{B}</m>.
+</p>
+<p>
+Conceptually, the dot product quantifies how much of one vector is in the same direction as another vector, or how parallel two vectors are. The dot product is the magnitude of <m> \vec{B}</m> multiplied by the projection of  <m> \vec{A}</m> along <m> \vec{B}</m>. We can think of a projection as the length of the shadow that <m> \vec{A}</m> would cast on <m> \vec{B}</m> if we were to shine a light from above.
+</p>
+<p>
+Many physical quantities (work, torque, angular momentum) depend on how parallel or how perpendicular two vector quantities are with respect to each other. The underlying conceptual framework of what a dot product tells us about nature is geometric. In this class we will be exploring many situations which will require us to build our geometric reasoning skills.
+  </p>
+  
+  <p> Please watch this short video about vector operations:</p>	
+      <video source="/vectors/vector_operations.mp4"> </video>
+      
+</introduction>
+</section>
+

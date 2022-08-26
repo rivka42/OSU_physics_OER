@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_vector_components" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Vector Componenets</title>
+  <introduction>
+    <p>
+Previously, we claimed that vector analysis is an important aspect of quantifying motion that occurs in more than one physical dimension. Once useful property of vectors is that they can be broken down into components along the axes of a coordinate system using unit vectors. 
+    </p>
+    
+ <p>
+Consider a <alert>position</alert> vector <m>\vec{r}</m> shown in the two-dimensional cartesian coordinate system below.
+</p>
+
+    <figure xml:id="vec_2D_position_vec_w_angle">
+    	<caption>A representation of a position vector in an xy-coordiante system showing the positive angle from the x-axis and the components of <m>\vec{r}</m> along the x and y-axes .</caption>
+    		<image source="vectors/vec_2D_position_vec_w_angle.png" width = "50%" ></image>
+    </figure>
+    
+<p>
+We can write <m> \vec{r}</m> in terms of its <em>components</em> in the x and y-directions using unit vectors.
+</p>
+
+<me>
+\vec{r} = r_x \hat{x} + r_y\hat{y} 
+</me>	
+
+<p>
+The scalar quantities <m> r_x</m> and <m> r_y </m> are called the <alert>components</alert> of <m> \vec{r}</m>. When multiplied by the unit vectors  <m> \hat{x}</m> and  <m> \hat{y}</m> they form a vector quantity. The scalar quantities <m> r_x</m> and <m> r_y </m> tell us how far we must move in the x and y-direction to be at position <m> \vec{r}</m>.
+</p>
+
+<p>
+The magnitude, r, of vector <m> \vec{r}</m>  (magnitudes will be written without the vector arrows overhead) is the hypotenuse of a right triangle with legs of length <m> r_x</m> and <m> r_y </m>.
+</p>
+
+<me>
+r = \sqrt{r_x^2 + r_y^2}
+</me>	
+
+<p>
+Magnitudes are also sometimes written symbolically using bars <m> |\vec{r}|</m> around the vector. Both representations are equivalent. Simply writing r to represent the magnitude of <m> \vec{r} </m> is less cumbersome notation and so we will adopt it for this course. 	
+</p>
+
+
+<p> Please watch this short video on vector componenets: </p>	
+      <video source="/vectors/vector_components.mp4"> </video>
+  
+ </introduction>
+	
+</section>
+
