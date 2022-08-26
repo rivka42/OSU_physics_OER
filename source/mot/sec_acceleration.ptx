@@ -9,7 +9,7 @@
      Watch the Video Briefing below about acceleration.  {ADD CORRECT VIDEO LINK}
     </p>
 		
-		<figure xml:id="for_vb-acceleration">
+		<figure xml:id="mot_vb-acceleration">
 		  <caption>Defining acceleration.</caption>
       <video youtube="WvWPCCcci2k"></video>
     </figure>
@@ -27,7 +27,7 @@
 			  <p>What are the units of acceleration? Explain how these units are consistent with the units of other quantities you have learned about.</p>
 			</exercise>
 			<p>In the previous section, you saw the motion diagram below.</p>
-					<figure xml:id="for_vb-md-acc2">
+					<figure xml:id="mot_MotionA2">
 		  <caption>A more complicated motion diagram.</caption>
       <image source="MotionA.png"></image>
 			<description>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.</description>

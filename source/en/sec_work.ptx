@@ -24,12 +24,21 @@
 			</exercise>
 			
 		<p>
-     Watch the video briefing below on work. {ADD CORRECT VIDEO LINK}
+     Watch the video briefing below on work.
     </p>
 		
-		<figure xml:id="for_vb-work">
+		<figure xml:id="en_vb-work">
 		  <caption>Defining work.</caption>
-      <video youtube="WvWPCCcci2k"></video>
+      <video youtube="ZN3597-5_NU"></video>
+    </figure>
+		
+				<p>
+     If you need a refresher on the dot product, see <section xml:id="vec_dot_product"></section> or watch the short video below.
+    </p>
+		
+		<figure xml:id="en_vb-dot">
+		  <caption>Recalling the dot product.</caption>
+      <video youtube="09lGQ0qCaCo"></video>
     </figure>
 			
 			<exercise>
