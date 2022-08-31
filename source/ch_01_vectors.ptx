@@ -3,15 +3,41 @@
 <chapter xml:id="ch_vectors" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Vectors</title>
   <introduction>
-    <p>We start by discussing the mathematics of vectors.</p>
-		<exercises>
-		<title>Introductory Activity</title>
-		  <exercise>
-			  <p>//Come up with a good one</p>
-			</exercise>
-		</exercises>
+    <p>
+Vector analysis is an important aspect of quantifying motion that occurs in more than one physical dimension. Driving a car on the surface of the planet is an example of motion in two dimensions, whereas, flying a plane through some volume of atmosphere is an example of three-dimensional motion.
+    </p>
+    
+    <p> 
+Let's begin our study of motion by gaining a foundational understanding of what vectors are and how to represent them visually and mathematically. 
+    </p>
+    
+    <exercises>
+    <title>Vector Learning Outcomes</title>
+    </exercises> 
+    
+    <p>After successful completion of this chapter, students will be able to:
+ <ol>
+<li>Explain the difference between a vector and a scalar</li>
+<li>List common vectors and scalars</li>
+<li>Represent vectors using multiple representations (diagrams, graphs, words, equations)</li>
+<li>Resolve a vector into components</li>
+<li>Define and use unit vector notation</li>
+<li>Add and subtract vectors graphically and mathematically</li>
+<li>Multiply a vector by a scalar quantity</li>
+<li>Take the dot product between two vectors</li>
+<li>Move between the component representation and the magnitude and direction angle representation of vectors. </li>
+</ol>
+
+</p>
+    
+    
   </introduction>
 	
-  <xi:include href="./vec/sec_what-are-vectors.ptx" />
-	
+  <xi:include href="./vec/sec_introduction_to_vectors.ptx" />
+  <xi:include href="./vec/sec_vector_operations.ptx" />
+  <xi:include href="./vec/sec_unit_vector.ptx" />
+  <xi:include href="./vec/sec_vector_components.ptx" />
+   <xi:include href="./vec/sec_trig_relations.ptx" />
+   <xi:include href="./vec/sec_vector_algebra.ptx" />
+  	
 </chapter>

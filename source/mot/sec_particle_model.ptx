@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_particle_model" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Particle Model</title>
+  <introduction>
+ <p>
+Most real motion of objects is extremely complicated. Consider tossing a coin, as it rotates through space different parts of the object move at different speeds, and in different directions. 
+</p>
+
+<p>
+To begin to investigate motion, we will make a <em>simplifying</em> assumption that an object in motion can be treated as a <alert>particle</alert>. We will use the concept, or model, of an object as an idealized mathematical point which has no spatial extent (size) and can only undergo translational motion (motion without rotation). By assuming objects are particles, we are neglecting information about size, extent and rotation. If you throw a rotating extended object, such as a coin, the <alert>center of mass</alert> of the object will follow a simple parabolic trajectory. By treating the object as a point particle, we are investigating the motion of its center of mass only. The particle model is extremely useful for analyzing objects undergoing translational motion. Once we have a firm understanding of translational motion, we can amend our model to include rotations. Let's get the basics down first, and then add layers of complexity to our model. 
+</p>
+		
+		
+  </introduction>
+	
+		
+    <p>
+      <em>Exercise:</em> 
+    </p>
+  
+
+	
+</section>
+

@@ -10,6 +10,7 @@ A mathematical object which has a both a <em>magnitude</em> (length), and a <em>
     <p>
 In diagrams, vectors are represented by arrows. The length of the arrow represents the magnitude of the vector and the arrowhead indicates the direction of the vector. In text, we will use an arrow on top of a symbol to denote a vector quantity. 
      </p>
+     
      <p>
 Suppose that we have a vector <m>\vec{A}</m> . The  negative vector <m>-\vec{A}</m>  has the same magnitude as vector <m>\vec{A}</m> , but points in the opposite direction. Once we understand how to visually represent and perform operations on vectors, we will move on to understand how to manipulate them algebraically.   
     </p>
