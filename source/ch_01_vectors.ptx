@@ -13,5 +13,6 @@
   </introduction>
 	
   <xi:include href="./vec/sec_what-are-vectors.ptx" />
+	<xi:include href="./vec/sec_what-is-a-vector.ptx" />
 	
 </chapter>
