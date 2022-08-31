@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_what-is-energy" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="sec_introduction_to_energy" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>What is Energy?</title>
-  <introduction>
-    <p>
-      Start by watching the video briefing on forces.
-    </p>
+<introduction>
+  
+<p>
+Thus far we have been analyzing motion using the concepts of force and Newton's laws of motion. However, we will now consider an alternative approach in terms of <em>energy</em>. 
+</p>
+
+<p>
+We all know what it feels like to have "a lot of energy" but how do we define energy in physics? Energy comes in many forms, making the fundamental concept hard to grasp. It may exist in potential, kinetic, thermal, electrical, chemical, nuclear, and it can transform from one form to another. However, nature seems to have one strict rule in place: <alert> energy is conserved</alert>.  This means that energy can be neither created nor destroyed. However, it can change from one form to another, or be transferred from one object to another via certain processes. Conservation laws are powerful natural laws which describe which processes simply can or cannot occur.
+</p>
+
+<p>
+In physics, <em> we define energy as the ability to do work </em>. Work and energy are scalar quantities, and so they are often easier to manipulate than vector quantities. Energy becomes especially valuable when you have systems of many objects interacting where a detailed consideration of all the forces may be difficult or impossible. 
+</p>
+
+<p>
+Historically, Aristotle of Stagira (384–322 BCE) in ancient Greece was the first known writer to use the word energeia (ενεργεια) in his text Nicomachean Ethics. Energeia literally means "in work" or "to contain work". 
+</p>
 		
   </introduction>
 	

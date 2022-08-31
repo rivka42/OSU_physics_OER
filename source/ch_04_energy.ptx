@@ -3,13 +3,26 @@
 <chapter xml:id="ch_energy" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Energy</title>
   <introduction>
-    <p>{UNWRITTEN}</p>
+    <p> In this chapter we will focus on the topics of energy including work and kinetic energy. Then we will move onto discussing potential energy and conservation of energy in the following chapter.
+    </p>
 		<exercises>
-		  <p>{UNWRITTEN}</p>
+		  <p>Learning Outcomes</p>
 		</exercises>
-  </introduction>
-	
-  <xi:include href="./en/sec_what-is-energy.ptx" />
+  
+  
+<p>After successful completion of this chapter, students will be able to:
+ <ol>
+<li>Define work</li>
+<li>Define kinetic energy</li>
+<li>Evaluate the relationship between work and kinetic energy</li>
+<li>Represent energy concepts using multiple representations (diagrams, graphs, words, equations)</li>
+</ol>
+
+</p>
+
+</introduction>	
+
+        <xi:include href="./en/sec_what-is-energy.ptx" />
 	<xi:include href="./en/sec_ke.ptx" />
 	<xi:include href="./en/sec_work.ptx" />
 	<xi:include href="./en/sec_work-energy-thm.ptx" />

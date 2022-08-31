@@ -3,9 +3,13 @@
 <section xml:id="sec_what-is-motion" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>What is Motion?</title>
   <introduction>
-    <p>
-      //unwritten
-    </p>
+<p>
+The study of the motion of objects including the related ideas of force, energy and momentum comprises a field of physics called mechanics. Mechanics is divided into two branches: kinematics and dynamics. Kinematics is the mathematical description of how objects move through space. The explanation of why objects move due to forces is called dynamics. 
+</p>
+
+<p>
+To begin our study of motion, we will only consider object that move without rotating. Motion without rotation is called translational motion. We will begin by describing the motion of objects along a straight-line path, which is called one-dimensional translational motion. Later, we will move onto describing translational motion in two and three-dimensions.     
+</p>
 		
 		
   </introduction>
