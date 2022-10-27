@@ -8,7 +8,22 @@
     </p>	
   </introduction>
 	
+<definition>
+	<title>Position</title>
+	<statement>
+		<p>The <term>position</term> of an object describes the location of that object relative to some origin as a vector quantity.</p>
+	</statement>
+</definition>
 
+<p>In general, position is three-dimensional, but for now, we will stick to two dimensions.  As with any vector, position can be written either by giving a magnitude and a direction, or by writing it in terms of components: <m>\vec{r}= r_x\hat{x} + r_y \hat{y}</m>.  A graphical representation of such a vector is shown below.</p>
+
+<p>{We need to add in the actual figure!}</p>
+
+	<figure xml:id="for_pos-vec">
+		<caption>A graphical representation of a position vector.</caption>
+		<!-- <image source=".png"></image> -->
+		<description>A two-dimensional position vector within an <m>xy</m>-coordinate system.</description>
+   </figure>
   
 
 	
