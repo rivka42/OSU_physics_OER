@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_vel-reps" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Representing Velocity</title>
+  <introduction>
+    <p>
+      The motion diagram below shows a ball moving from left to right.  A total of 1 s has passed between each successive dot.
+    </p>
+		<figure xml:id="mot_MotionA">
+		  <caption>A more complicated motion diagram.</caption>
+      <image source="MotionA.png"></image>
+			<description>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.</description>
+    </figure>
+		
+  </introduction>
+	
+	<exercises>
+
+			<exercise>
+			  <p>Describe how the velocity of the ball is changing. Explain how you can tell from the motion diagram.</p>
+			</exercise>
+			<p>If the distance between the first and last points is 12 m, what is the average speed during the motion (in m/s)?</p>
+			<exercise>
+			  <p>Is the instantaneous speed at the point in the middle greater than, less than, or equal to the average speed?  Explain your reasoning.</p>
+			</exercise>
+			<exercise>
+			  <p>In physics we will use both the idea of velocity and the idea of speed. In everyday language, these two words are often used interchangeably, but in physics they have distinct meanings. Write 1-2 sentences aimed at explaining the difference between velocity and speed to a child.</p>
+			</exercise>
+			
+		</exercises>
+  
+
+	
+</section>
+
