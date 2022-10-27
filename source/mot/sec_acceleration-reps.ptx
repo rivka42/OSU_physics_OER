@@ -16,18 +16,19 @@
 	
 	<exercises>
 
+			<p>In <section xml:id="vec_dot_product"></section>, you saw the motion diagram below.</p>
+					<figure xml:id="mot_MotionA2">
+		  <caption>A more complicated motion diagram.</caption>
+      <image source="MotionA.png"></image>
+			<description>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.</description>
+    </figure>
 			<exercise>
-			  <p>Describe how the velocity of the ball is changing. Explain how you can tell from the motion diagram.</p>
-			</exercise>
-			<p>If the distance between the first and last points is 12 m, what is the average speed during the motion (in m/s)?</p>
-			<exercise>
-			  <p>Is the instantaneous speed at the point in the middle greater than, less than, or equal to the average speed?  Explain your reasoning.</p>
-			</exercise>
-			<exercise>
-			  <p>In physics we will use both the idea of velocity and the idea of speed. In everyday language, these two words are often used interchangeably, but in physics they have distinct meanings. Write 1-2 sentences aimed at explaining the difference between velocity and speed to a child.</p>
+			  <p>Complete the motion diagram for the ball at the beginning of this activity by sketching velocity and acceleration vectors at each point.  (Your vectors should be at qualitatively accurate!  That is, vectors with larger magnitudes should have greater length.)</p>
+				<p>{I have a solution video with motion diagrams and a graph of position vs time if we want to include it here.}</p>
 			</exercise>
 			
 		</exercises>
+
   
 
 	

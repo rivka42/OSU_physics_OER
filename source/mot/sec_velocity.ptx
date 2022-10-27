@@ -5,7 +5,7 @@
   <introduction>
 	
     <p>
-     In the previous section, you drew a <em>motion diagram</em> for a ball rolling across the floor.  While thinking about this situation, you may have thought about one or more of the following ideas: position, time, displacement, speed, or velocity.  The Video Briefing below introduces these concepts formally.  {ADD CORRECT VIDEO LINK}
+     Watch the video briefing on velocity below.  {ADD CORRECT VIDEO LINK}
     </p>
 		
 		<figure xml:id="mot_vb-velocity">
@@ -15,22 +15,52 @@
 		
   </introduction>
 	
-	<p>{Add definitions and text!}</p>
+	<definition>
+	<title>Average Velocity</title>
+	<statement>
+		<p>The <term>average velocity</term> of an object is the object's displacement divided by the interval of time required to move through that displacement: <m>\vec{v}_{ave} = \frac{\Delta \vec{r}}{\Delta t}</m>.</p>
+	</statement>
+</definition>
+
+<p>When speaking to a friend or colleague we may not make a distinction between <emph>speed</emph> and <emph>velocity</emph>, but in physics the words are distinct.  Where <emph>velocity</emph> is a vector, indicating both magnitude and direction, the word <emph>speed</emph> refers only to the magnitude of the velocity.</p>
+
+<p>Physics also distinguishes between <emph>average</emph> quantities for intervals of definite time, and <emph>instantaneous</emph> quantities for infinitesimal intervals.  To signal the difference, we will use the symbol <m>d</m> for an infinitesimal quantity instead of the <m>\Delta</m> symbol that we use for a definite change.</p>
+
+	<definition>
+	<title>Instantaneous Velocity</title>
+	<statement>
+		<p>The <term>instantaneous velocity</term> of an object is given by <m>\vec{v} = \frac{d \vec{r}}{d t}</m>.</p>
+	</statement>
+</definition>
 
 	<exercises>
-
+	<p>With definitions like the one above, you should aim to understand each mathematical symbol in the symbolic equation, along with how those symbols work together.  You should also know the kind of quantity each symbol represents, and the units associated with that quantity.  The exercises below are intended to help you build this understanding.</p>
 			<exercise>
 			  <p>Write a 1-2 sentence description of what the definition of average velocity says in words. </p>
 			</exercise>
-			<p>With definitions like the one above, you should aim to understand each mathematical symbol in the symbolic equation, along with how those symbols work together.  You should also know the kind of quantity that each symbol represents, and the units associated with that quantity.  Below are two questions that give you a chance to think more about velocity.</p>
 			<exercise>
-			  <p>What are the units of average velocity? Explain how these units are consistent with the units of the other quantities in the definition of average velocity given above.</p>
+			 <statement>
+			  <p>What are the units of velocity? Explain how these units are consistent with the units of the other quantities in the definition of average velocity given above.</p>
+				</statement>
+				<answer>
+				<p>m/s</p>
+				</answer>
+			</exercise>
+			<exercise>
+			<statement>
+			  <p>How does the direction of the average velocity vector compare to the direction of the displacement vector?</p>
+				</statement>
+				<answer>
+				<p>The average velocity vector points in the same direction as the displacement vector and tells us the direction of motion the object.</p>
+				</answer>
 			</exercise>
 			<exercise>
 			  <p>In physics we will use both the idea of velocity and the idea of speed. In everyday language, these two words are often used interchangeably, but in physics they have distinct meanings. Write 1-2 sentences aimed at explaining the difference between velocity and speed to a child.</p>
 			</exercise>
 			
 		</exercises>
+		
+		
 	
 </section>
 
