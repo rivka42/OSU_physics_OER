@@ -4,12 +4,12 @@
   <title>Motion Diagrams</title>
 	
 	<p>
-      Watch the video briefing showing the construction of a simple motion diagram. {ADD CORRECT VIDEO LINK}
+      Watch the video briefing showing the construction of a simple motion diagram.
   </p>
 		
 	<figure xml:id="mot_vb-md">
 		 <caption>An example of a simple motion diagram being created.</caption>
-     <video youtube="WvWPCCcci2k"></video>
+     <video youtube="_nO9GlsTdfU"></video>
   </figure>
 	
 		<lemma>
@@ -29,10 +29,10 @@
       </figure>
 
 			<exercise>
-			  <p>Describe the motion of the ball between the green markers in words (use complete sentences).​  Did you make any assumptions or idealizations about the ball's motion? </p>
+			  <p>Describe the motion of the ball <em>between the green markers</em> in words.  Use complete sentences.​  Did you make any assumptions or idealizations about the ball's motion? </p>
 			</exercise>
 			<exercise>
-			  <p>Draw a motion diagram for the ball (when it is between the green markers).</p>
+			  <p>Draw a motion diagram for the ball when it is between the green markers.</p>
 			</exercise>
 			
 		</exercises>

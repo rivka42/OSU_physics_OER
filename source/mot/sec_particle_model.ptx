@@ -4,20 +4,38 @@
   <title>The Particle Model</title>
   <introduction>
  <p>
-Most real motion of objects is extremely complicated. Consider tossing a coin, as it rotates through space different parts of the object move at different speeds, and in different directions. 
+The motion of real objects is often extremely complicated.  For example, when you toss a coin, it will likely rotate so that different parts of the coin move at different speeds, and in different directions. 
 </p>
 
 <p>
-To begin to investigate motion, we will make a <em>simplifying</em> assumption that an object in motion can be treated as a <alert>particle</alert>. We will use the concept, or model, of an object as an idealized mathematical point which has no spatial extent (size) and can only undergo translational motion (motion without rotation). By assuming objects are particles, we are neglecting information about size, extent and rotation. If you throw a rotating extended object, such as a coin, the <alert>center of mass</alert> of the object will follow a simple parabolic trajectory. By treating the object as a point particle, we are investigating the motion of its center of mass only. The particle model is extremely useful for analyzing objects undergoing translational motion. Once we have a firm understanding of translational motion, we can amend our model to include rotations. Let's get the basics down first, and then add layers of complexity to our model. 
+To begin to investigate motion, we will make a <em>simplifying assumption</em> that an object in motion can be treated as a <alert>particle</alert>.  When we make this assumption, we say that we are using the particle model because we are <em>modeling</em> the motion of an object as if it were a <em>particle</em>.
+</p>
+
+<proposition>
+	<title>The Particle Model</title>
+	<statement>
+		<p>When you assume that an object or system can be treated as a <term>point particle</term>, you treat it as if it has no physical extent and that it can only undergo <alert>translational motion</alert> (motion without rotation).</p>
+	</statement>
+</proposition>
+
+<p>
+Whenever we decide whether or not to make an assumption, consider two question: (1) is the assumption useful for our situation and (2) is the assumption reasonable for our situation?  The particle model is almost always useful because it is extremely simple (like many of the assumptions we will make).  However, by assuming an object is a particle, we are neglecting information about its size, extent, and rotation.  The particle model is most reasonable when these properties <em>do not have a substantial impact</em> on its translational motion.  Once we have a firm understanding of translational motion, we can amend our model to include other kinds of motion.  Within the particle model, we will start by considering motion along a straight-line path (one-dimensional translational motion) before describing translational motion in two- or even three-dimensions.     
 </p>
 		
 		
   </introduction>
 	
 		
-    <p>
-      <em>Exercise:</em> 
-    </p>
+	<exercises>
+		
+			<exercise>
+			  <p>{ADD ME: practice with when it is or is not reasonable to use the particle model???} </p>
+			</exercise>
+			<exercise>
+			  <p>{ADD ME}</p>
+			</exercise>
+			
+		</exercises>
   
 
 	

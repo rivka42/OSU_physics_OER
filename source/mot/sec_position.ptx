@@ -2,11 +2,6 @@
 
 <section xml:id="sec_position" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Position</title>
-  <introduction>
-    <p>
-      {Define position in words}
-    </p>	
-  </introduction>
 	
 <definition>
 	<title>Position</title>
@@ -25,7 +20,16 @@
 		<description>A two-dimensional position vector within an <m>xy</m>-coordinate system.</description>
    </figure>
   
-
+	<exercises>
+		
+			<exercise>
+			  <p>{ADD ME} </p>
+			</exercise>
+			<exercise>
+			  <p>{ADD ME}</p>
+			</exercise>
+			
+		</exercises>
 	
 </section>
 
