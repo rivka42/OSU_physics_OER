@@ -2,18 +2,55 @@
 
 <section xml:id="sec_relative-motion" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Relative Motion</title>
-  <introduction>
+
+ <introduction>
+	
     <p>
-      //unwritten
+     Watch the Video Briefing below about relative motion.
     </p>
 		
+		<figure xml:id="mot_rel-mot">
+		  <caption>Introducing relative motion.</caption>
+      <video youtube="sN-m5WkbMyI"></video>
+    </figure>
+		
+		 <p>
+     Then, check out the video below from our friends at Mythbusters.
+    </p>
+		
+		<figure xml:id="mot_rel-mot-myth">
+		  <caption>The Mythbusters test relative motion.</caption>
+      <video youtube="BLuI118nhzc"></video>
+    </figure>
 		
   </introduction>
 	
+	<p>Any measurement of position or speed needs to be made with respect to a specific frame of reference. Suppose a person is walking past you at 5 km/hr toward the front of an airplane which is traveling west at 150 km/hr. The speed of 5 km/hr is with respect to the plane's frame of reference. With respect to the ground, this person is actually moving at speed (150 km/hr + 5 km/hr = 155 km/hr). Just as it is always important to specify the units of a quantity when reporting a number, it is equally important to specify the frame of reference from which you are making a measurement.</p>
+	
+	<p>Imagine you threw and caught a ball while you were sitting on a train moving at a constant velocity past a train station. To you, the ball appears to simply travel vertically up and then down under the influence of gravity. However, to an observer who stood on the station platform the ball would appear to travel in a parabola, with a constant horizontal component of velocity equal to the velocity of the train. This is illustrated in the figure below.</p>
+	
+	<p>{We need to add in the actual figures!}</p>
+
+	<figure xml:id="mot_rel-mot-fig">
+		<caption>Motion in two different reference frames.</caption>
+		<!-- <image source=".png"></image> -->
+		<description>{ADD ME}.</description>
+   </figure>
+	
+	<p>The different observations occur because the two observers are in different <em>frames of reference</em>. A frame of reference is a set of coordinates that can be used to determine positions and velocities of objects in that frame; different frames of reference move relative to one another.</p>
+	
+	<p>The laws of physics are the same in all inertial frames (this is known as Galilean invariance). Put in another way, there is no experiment that you could do to determine which reference frame you are in (Einstein used this hypothesis to devise the theory of Special Relativity). This means that we can address problems in any reference frame to give an equivalent solution, but we must specify the coordinate system (frame of reference) we are using whenever we are solving a problem in physics.</p>
 		
-    <p>
-      <em>Exercise:</em> 
-    </p>
+	<exercises>
+			<exercise>
+			  <p>You are running down a straight track at a speed of 8 m/s (relative to the track).  Two friends, one in front of you and one behind, each throw a baseball horizontally toward you at a speed of 24 m/s (relative to the track).  Relative to <em>you</em>, which baseball, if either, has a greater speed?  Explain your reasoning.</p>
+			</exercise>
+			<exercise>
+			<statement>
+			  <p>You are running down a straight track at a speed of 8 m/s (relative to the track).  Two friends, one in front of you and one behind, each throw a baseball horizontally toward you.  Relative to you, each baseball has a speed of 24 m/s.  Relative to the <em>track</em>, which baseball has a greater speed?   Explain your reasoning.</p>
+				</statement>
+			</exercise>
+		</exercises>
   
 
 	

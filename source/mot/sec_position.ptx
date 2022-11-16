@@ -14,7 +14,7 @@
 
 <p>{We need to add in the actual figure!}</p>
 
-	<figure xml:id="for_pos-vec">
+	<figure xml:id="mot_pos-vec">
 		<caption>A graphical representation of a position vector.</caption>
 		<!-- <image source=".png"></image> -->
 		<description>A two-dimensional position vector within an <m>xy</m>-coordinate system.</description>

@@ -18,6 +18,8 @@
 				<p>A <term>motion diagram</term> is a physical representation in which an object is represented at different <em>positions</em> that are separated by <em>equal time intervals</em>.</p>
 			</statement>
 		</lemma>
+		
+		<p>{INCLUDE TEXT/FIGURE EXAMPLE???}</p>
 
 	<exercises>
 			
@@ -25,14 +27,14 @@
 				
 			<figure xml:id="mot_vb-ball-floor">
 						<caption>A ball rolls across the floor.</caption>
-						<video youtube="q6xrhpbduns"></video>
+						<video youtube="n4hoKgGRx_k"></video>
       </figure>
 
 			<exercise>
 			  <p>Describe the motion of the ball <em>between the green markers</em> in words.  Use complete sentences.​  Did you make any assumptions or idealizations about the ball's motion? </p>
 			</exercise>
 			<exercise>
-			  <p>Draw a motion diagram for the ball when it is between the green markers.</p>
+			  <p>Draw a motion diagram for the ball when it is between the green markers.  {I have a solution video for this at: https://youtu.be/K2-CUYB0PTA}</p>
 			</exercise>
 			
 		</exercises>

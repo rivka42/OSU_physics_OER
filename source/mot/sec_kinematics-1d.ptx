@@ -2,18 +2,27 @@
 
 <section xml:id="sec_kinematics-1d" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Kinematics in One Dimension</title>
-  <introduction>
+
+ <introduction>
+	
     <p>
-      //unwritten
+     Watch the Video Briefing below about one-dimensional motion with constant acceleration.
     </p>
 		
+		<figure xml:id="mot_vb-1dkin">
+		  <caption>Motion with constant acceleration in one dimension.</caption>
+      <video youtube="BHJjLZ-sf-A"></video>
+    </figure>
 		
   </introduction>
 	
 		
-    <p>
-      <em>Exercise:</em> 
-    </p>
+	<exercises>
+			<exercise>
+			  <p>{ADD ME} </p>
+			</exercise>
+		</exercises>
+
   
 
 	
