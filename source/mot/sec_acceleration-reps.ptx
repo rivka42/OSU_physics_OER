@@ -16,12 +16,7 @@
 	
 	<exercises>
 
-			<p>In <section xml:id="vec_dot_product"></section>, you saw the motion diagram below.</p>
-					<figure xml:id="mot_MotionA2">
-		  <caption>A more complicated motion diagram.</caption>
-      <image source="MotionA.png"></image>
-			<description>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.</description>
-    </figure>
+			<p>Recall <xref ref="mot_MotionA"></xref>.</p>
 			<exercise>
 			  <p>Complete the motion diagram for the ball at the beginning of this activity by sketching velocity and acceleration vectors at each point.  (Your vectors should be at qualitatively accurate!  That is, vectors with larger magnitudes should have greater length.)</p>
 				<p>{I have a solution video with motion diagrams and a graph of position vs time if we want to include it here.}</p>

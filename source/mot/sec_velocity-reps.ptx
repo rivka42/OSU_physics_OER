@@ -2,20 +2,37 @@
 
 <section xml:id="sec_vel-reps" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Representing Velocity</title>
-  <introduction>
+	
+			<p>The simplest possible motion is motion along a straight-line path with a constant, unvarying speed. Let's imagine a car that is driving to the right at a constant speed. Suppose we take images at a regular time interval, once every second:</p>
+		
+  <figure xml:id="mot_car-with-constant-v">
+		 <caption>A stroboscopic diagram of a car moving at constant speed.</caption>
+		<image source="car with constant velocity.png" width = "75%">
+			<description>Six pictures of a car arranged horizontally.  A blue arrow above each car points to the right.</description></image>
+  </figure>
+	
+	<p>We can apply the particle model and represent the car as a point object, creating a motion diagram showing the position of the car at each instant of time and the corresponding displacement vectors.</p>
+	
+  <figure xml:id="mot_car-with-constant-v-diagram">
+		 <caption>A motion diagram of a car moving at constant speed.</caption>
+		<image source="motion diagram car constant velocity.png" width = "75%">
+			<description>Six horizontally spaced dots, each dot separated by a labeled arrow.</description></image>
+  </figure>	
+	
+	<p>Notice that the displacement vectors are equal in length when the car moves at constant speed.</p>
+	
+	
+	
+	<exercises>
     <p>
       The motion diagram below shows a ball moving from left to right.  A total of 1 s has passed between each successive dot.
     </p>
 		<figure xml:id="mot_MotionA">
 		  <caption>A more complicated motion diagram.</caption>
-      <image source="MotionA.png"></image>
+      <image source="MotionA.png" width = "75%">
 			<description>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.</description>
+			</image>
     </figure>
-		
-  </introduction>
-	
-	<exercises>
-
 			<exercise>
 			  <p>Describe how the velocity of the ball is changing. Explain how you can tell from the motion diagram.</p>
 			</exercise>
@@ -26,7 +43,6 @@
 			<exercise>
 			  <p>In physics we will use both the idea of velocity and the idea of speed. In everyday language, these two words are often used interchangeably, but in physics they have distinct meanings. Write 1-2 sentences aimed at explaining the difference between velocity and speed to a child.</p>
 			</exercise>
-			
 		</exercises>
   
 
