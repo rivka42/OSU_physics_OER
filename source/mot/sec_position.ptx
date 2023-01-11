@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_position" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Position</title>
+  <title>Position and Displacement</title>
 	
 <definition>
 	<title>Position</title>
@@ -14,19 +14,47 @@
 
   <figure xml:id="mot_position-vector">
 		 <caption>A two-dimensional position vector within an <m>xy</m>-coordinate system.</caption>
-		<image source="2D position vector with angle.png" width = "35%">
+		<image source="2D position vector with angle.png" width = "50%">
 			<description>On an xy axis, an arrow pointing up and to the right, labeled with magnitude r and angle theta.</description></image>
+  </figure>	
+	
+<definition>
+	<title>Displacement</title>
+	<statement>
+		<p>The <term>displacement</term> of an object describes the change in that object's position: <m>\Delta \vec{r} = \vec{r}_f - \vec{r}_i</m>.</p>
+	</statement>
+</definition>
+	
+	<p>Suppose an object is initially located at position <m>\vec{r}_0</m> at some initial time <m>t_0</m> and the object is moving through space over an interval of time <m>\Delta t = t_f - t_0</m>. The symbol <m>\Delta</m> (the capital Greek letter "Delta") represents a change in a quantity.  The time interval <m>\Delta t</m> measures the elapsed time as the object moves from an initial position <m>\vec{r}_0</m>  at initial time <m>t_0</m> to a final position <m>\vec{r}_0</m> and some final time <m>t_f</m>. The vector <m>\Delta \vec{r}</m> is called the displacement of the object over the time interval <m>\Delta t</m>.  Here, we have used the subscript 0 to refer to some initial time: in some cases, we will instead use the subscript <m>o</m> ("naught") or the subscript <m>i</m> (for "initial") instead of 0.</p>
+
+  <figure xml:id="mot_displacement-vector">
+		 <caption>A displacement vector.</caption>
+		<image source="displacement.png" width = "50%">
+			<description>On an xy axis, two arrows labeled r0 and rf point up and to the right, with a third vector labeled Delta r completing a triangle between them.</description></image>
   </figure>	
   
 	<exercises>
-		
 			<exercise>
-			  <p>{ADD ME} </p>
+			  <p>We defined a large number of quantities in this section.  Make a list of all the different quantities we used and write yourself a brief description along with the symbol(s) we used for each quantity.  In particular, note which quantities are <em>vectors</em> and which quantities are <em>scalars</em>.</p>
+			</exercise>
+			<exercisegroup>
+			<title>Vectors in the Park</title>
+			<introduction>
+			<p>You and your friend are each standing at opposite ends of a 125 m long park.  Your friend, who is initially due south of you, walks 50 m east and stops to wait for you.  Then, you walk in a straight line until you reach your friend.</p>
+			</introduction>
+			<exercise>
+			  <p>Choose an origin of coordinates for this problem and make a sketch of the situation.</p>
 			</exercise>
 			<exercise>
-			  <p>{ADD ME}</p>
+			  <p>Write initial and final position vectors for both you and your friend.</p>
 			</exercise>
-			
+			<exercise>
+			  <p>Find the displacement vector for both you and your friend.</p>
+			</exercise>
+			<exercise>
+			  <p>Reflect on your choice of origin for this problem.  What impact did your choice have on how you solved it?  Could you have made a different choice?</p>
+			</exercise>
+			</exercisegroup>
 		</exercises>
 	
 </section>

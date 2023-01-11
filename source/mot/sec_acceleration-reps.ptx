@@ -4,22 +4,29 @@
   <title>Representing Acceleration</title>
   <introduction>
     <p>
-      The motion diagram below shows a ball moving from left to right.  A total of 1 s has passed between each successive dot.
+      In previous sections, we defined two important motion representations: <term>motion diagrams</term> and <term>motion graphs</term>.  Either of these representations can feature acceleration as well as velocity and position.
     </p>
-		<figure xml:id="mot_MotionA">
-		  <caption>A more complicated motion diagram.</caption>
-      <image source="MotionA.png"></image>
-			<description>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.</description>
-    </figure>
-		
   </introduction>
+	
+	<p>A motion graph for acceleration is straightforward: simply graph acceleration on the vertical axis vs. time on the horizontal axis!</p>
+	
+	<p>A motion diagram can be extended to include acceleration by sketching and labeling acceleration vectors for each point.</p>
 	
 	<exercises>
 
 			<p>Recall <xref ref="mot_MotionA"></xref>.</p>
 			<exercise>
-			  <p>Complete the motion diagram for the ball at the beginning of this activity by sketching velocity and acceleration vectors at each point.  (Your vectors should be at qualitatively accurate!  That is, vectors with larger magnitudes should have greater length.)</p>
-				<p>{I have a solution video with motion diagrams and a graph of position vs time if we want to include it here.}</p>
+			<statement>
+			  <p>Complete the motion diagram for the ball by sketching velocity and acceleration vectors at each point.  (Your vectors should be at qualitatively accurate!  That is, vectors with larger magnitudes should have greater length.)</p>
+			</statement>
+			
+			<!--<solution>
+			  <figure xml:id="mot_vb-sol-acc">
+		  <caption>Discussion the solution.</caption>
+      <video youtube="uT8YJjViSto"></video>
+    </figure>
+			</solution> -->
+			
 			</exercise>
 			
 		</exercises>

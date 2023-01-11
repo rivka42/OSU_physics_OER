@@ -4,17 +4,36 @@
   <title>Motion Graphs</title>
   <introduction>
     <p>
-      //unwritten
+      In general, quantities of motion like position and velocity are <em>functions of time</em>, in which case they might be written as <m>\vec{r}(t)</m> and <m>\vec{v}(t)</m>.  When written in this way, it is often useful to graph position or velocity vs. time.  Such a graph is known as a <term>motion graph</term>.
     </p>
-		
-		
   </introduction>
 	
+				<lemma>
+			<title>Motion Graph</title>
+			<statement>
+				<p>A <term>motion graph</term> is a graphical representation showing a motion quantity (like position or velocity) on the vertical axis and <em>time</em> on the horizontal axis.</p>
+			</statement>
+		</lemma>
 		
     <p>
-      <em>Exercise:</em> 
+		It is often useful to create motion graphs alongside motion diagrams to provide multiple ways of representing the same motion. Below are motion diagrams and motion graphs for the same car undergoing three different possible kinds of motion.
     </p>
   
+<figure xml:id="mot_car-1">
+		 <caption>Representations of a car moving at constant speed.</caption>
+		<image source="motion graph constant speed.png" width = "75%">
+			<description>To be filled.</description></image>
+  </figure>	
+	
+	<p>WE NEED TO UPDATE THE OTHERS AND INCLUDE THEM.</p>
+	
+	<p>Note that there is a distinction between the two diagrams: the strobe diagram has one image for each equal <m>\Delta t</m>. The x-position vs. time and velocity vs. time graphs also have equally spaced time increments, but unlike the strobe diagram, they are equally spaced along the axes. The two ways of visualizing motion are qualitatively correct, but you cannot make a direct vertical comparison.</p>
+	
+		<exercises>
+			<exercise>
+			  <p>WRITE ME.</p>
+			</exercise>
+		</exercises>
 
 	
 </section>

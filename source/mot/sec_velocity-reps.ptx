@@ -3,6 +3,17 @@
 <section xml:id="sec_vel-reps" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Representing Velocity</title>
 	
+	<introduction>
+	  We now have two major quantities for describing motion: <em>position</em> and <em>velocity</em>.  We want to make sure both kinds of quantities can be encoded in our <em>motion diagrams</em>.
+	</introduction>
+	
+			<lemma>
+			<title>Motion Diagram</title>
+			<statement>
+				<p>A <term>motion diagram</term> is a physical representation in which an object is represented at different <em>positions</em> that are separated by <em>equal time intervals</em>.  For each instant, we can draw and label a vector indicating the velocity of our object of interest.</p>
+			</statement>
+		</lemma>
+	
 			<p>The simplest possible motion is motion along a straight-line path with a constant, unvarying speed. Let's imagine a car that is driving to the right at a constant speed. Suppose we take images at a regular time interval, once every second:</p>
 		
   <figure xml:id="mot_car-with-constant-v">

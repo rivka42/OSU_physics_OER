@@ -18,6 +18,8 @@
 				<p>A <term>motion diagram</term> is a physical representation in which an object is represented at different <em>positions</em> that are separated by <em>equal time intervals</em>.</p>
 			</statement>
 		</lemma>
+		
+		<p>Practice making a full motion diagram below.</p>
 
 	<exercises>
 			
@@ -32,7 +34,15 @@
 			  <p>Describe the motion of the ball <em>between the green markers</em> in words.  Use complete sentences.​  Did you make any assumptions or idealizations about the ball's motion? </p>
 			</exercise>
 			<exercise>
-			  <p>Draw a motion diagram for the ball when it is between the green markers.  {I have a solution video for this at: https://youtu.be/K2-CUYB0PTA}</p>
+			<statement>
+			  <p>Draw a motion diagram for the ball when it is between the green markers.</p>
+				</statement>
+				<solution>
+							<figure xml:id="mot_vel-sol">
+						<caption>Solution discussion.</caption>
+						<video youtube="K2-CUYB0PTA"></video>
+      </figure>
+				</solution>
 			</exercise>
 			
 		</exercises>
