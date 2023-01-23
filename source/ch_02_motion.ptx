@@ -4,16 +4,7 @@
   <title>Motion</title>
   <introduction>
     <p>Our first physics topic is motion.</p>
-			<exercises>
-				<title>Introductory Activity</title>
-					<exercise>
-						<statement>
-							<p>Find a blank sheet of paper and make a list of everything you know about motion.  Your list can include anything you want: words, symbols, equations, pictures, experiences, questions, <em>etc.</em>  Try to base what you write as much on your everyday personal experience as on any previous formal instruction on motion.</p>
-						</statement>
-					</exercise>
-				</exercises>
-		</introduction>
-		
+				
 		 <exercises>
     <title>Learning Outcomes for Motion</title>
     </exercises> 
@@ -32,6 +23,8 @@
 <li>Determine the sign of position, velocity and acceleration within a defined coordinate system. </li>
 <li>Determine position, distance, velocity and speed from graphs of position and velocity versus time. </li>
 </ol>
+
+		</introduction>
 	
   <xi:include href="./mot/sec_what-is-motion.ptx" />
   <xi:include href="./mot/sec_particle_model.ptx" />

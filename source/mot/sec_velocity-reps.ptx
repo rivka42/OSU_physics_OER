@@ -35,16 +35,17 @@
 	
 	
 	<exercises>
+	<title>Practice Representing Velocity</title>
     <p>
       The motion diagram below shows a ball moving from left to right.  A total of 1 s has passed between each successive dot.
     </p>
 		<figure xml:id="mot_MotionA">
 		  <caption>A more complicated motion diagram.</caption>
-      <image source="MotionA.png" width = "75%">
+      <image source="MotionA.png" width = "60%">
 			<description>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.</description>
 			</image>
     </figure>
-			<exercise>
+			<exercise xml:id="x_practice-rep-vel">
 			  <p>Describe how the velocity of the ball is changing. Explain how you can tell from the motion diagram.</p>
 			</exercise>
 			<p>If the distance between the first and last points is 12 m, what is the average speed during the motion (in m/s)?</p>

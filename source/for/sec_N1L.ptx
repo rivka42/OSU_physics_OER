@@ -8,9 +8,8 @@
     </p>
 		
 		<figure xml:id="for_vb-n1l">
-      <video youtube="9_Pw2O_IZdM">
-        <description>Paul introduces Newton's 1st Law.</description>
-      </video>
+		        <caption>An introduction to Newton's 1st Law.</caption>
+      <video youtube="9_Pw2O_IZdM"></video>
     </figure>
 		
   </introduction>
@@ -23,11 +22,12 @@
 	</statement>
 	</principle>
 	
-	<p>The first law states something fundamental about the behavior of objects. An object doesn't have a natural state of rest.</p>
-	
-	<p>{Is there a way to make this next paragraph openable?</p>
-	
+		<historical>
 	<p>Before Newton, people thought that the natural state of an object was to be at rest as close as possible to the center of the universe (which was, of course, the center of the earth). They thought that if an object was disturbed, it would move and then return to rest.</p>
+	</historical>
+	
+	<p>The first law states something fundamental about the behavior of objects. An object does not have a natural state of rest.</p>
+	
 		
     <p>
       <em>Exercise:</em>  {Need a good one!}

@@ -36,8 +36,9 @@ The particle model is almost always useful because it is extremely simple (like 
 	
 		
 	<exercises>
+					<title>Particle Model Examples</title>
 		<p>For each of the following situations, do you think it is reasonable to use the particle model?  Why or why not?  What object or system are you treating as a particle?</p>
-			<exercise>
+			<exercise xml:id="x_particle-examples">
 			  <p>You drive your car from Corvallis to Portland.</p>
 			</exercise>
 			<exercise>

@@ -4,13 +4,12 @@
   <title>The Law of Motion (Newton's Second Law)</title>
   <introduction>
     <p>
-      Start by watching the video briefing on the Law of Motion (also known commonly as Newton's 2nd Law).
+      Start by watching the video briefing on the Law of Motion (also commonly known as Newton's 2nd Law).
     </p>
 		
 		<figure xml:id="for_vb-n2l">
-      <video youtube="WvWPCCcci2k">
-        <description>Paul introduces Newton's 2nd Law.</description>
-      </video>
+		        <caption>An introduction to Newton's 2nd Law.</caption>
+      <video youtube="WvWPCCcci2k">      </video>
     </figure>
 		
   </introduction>
@@ -31,21 +30,28 @@
 	</definition>
 	
 			<exercises>
+			<title>Summarize What You Learned - Law of Motion</title>
 
-		   <exercise>
+		   <exercise xml:id="x_summarize-n2l">
 			  <p>In the video briefing, you learned a relationship between force and acceleration. This is a Building Block (and a very important one, at that). Write a 2-3 sentence description of what this symbolic equation says in your own words.</p>
 			</exercise>
 			<exercise>
 			  <p>Using what you learned in the video, how would you write the units of a force (Newtons) in terms of other units you are familiar with? </p>
 			</exercise>
-			<exercise>
+			</exercises>
+			<exercises>
+			<exercise xml:id="x_forces-driver">
+			<title>Net Force on a Driver</title>
 			  <p>A car’s maximum acceleration is about 6 m/s<m>^2</m>.  If the mass of the driver is about 80 kg, what is the magnitude of the net force exerted on the driver (in Newtons)?</p>
 			</exercise>
-				<exercise>
+				<exercise  xml:id="x_three-cars">
+				<title>Three Cars</title>
 			  <p>Consider the following three situations: </p>
-				<p>A: You are in a car when the speed limit changes from 35 mph to 45 mph.</p>
-				<p>B: You are in a car on the freeway driving at a constant speed of 70 mph.</p>
-				<p>C: You are in a car waiting for a red light to turn green.</p>
+				<ol marker="A">
+				<li>You are in a car when the speed limit changes from 35 mph to 45 mph.</li>
+				<li>You are in a car on the freeway driving at a constant speed of 70 mph.</li>
+				<li>You are in a car waiting for a red light to turn green.</li>
+				</ol>
 				<p>Rank the three situations by the magnitude of the net force on the car from largest to smallest.  Explain your reasoning.</p>
 			</exercise>
 		</exercises>

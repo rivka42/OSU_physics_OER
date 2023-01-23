@@ -19,9 +19,10 @@
 			</statement>
 		</lemma>
 		
-		<p>Practice making a full motion diagram below.</p>
+		<p>Practice making a full motion diagram in the exercises below.</p>
 
 	<exercises>
+	<title>Motion Diagram Practice</title>
 			
 			<p>Watch the video below of an instructor rolling a ball across the floor.</p>
 				
@@ -30,7 +31,7 @@
 						<video youtube="n4hoKgGRx_k"></video>
       </figure>
 
-			<exercise>
+			<exercise xml:id="x_md-ball">
 			  <p>Describe the motion of the ball <em>between the green markers</em> in words.  Use complete sentences.​  Did you make any assumptions or idealizations about the ball's motion? </p>
 			</exercise>
 			<exercise>

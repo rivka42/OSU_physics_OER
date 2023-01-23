@@ -24,7 +24,8 @@
 	
 		
 			<exercises>
-			<exercise>
+			<title>Practice with the Gravitational Field</title>
+			<exercise xml:id="x_practice-gravity">
 			  <p>At the end of the video, we introduced the Newtonian model for the gravitational field.  One common gravitational field we want to know is the field created by the Earth at the surface of the Earth.  Look up numerical facts about the size and mass of the Earth and use them to determine the magnitude of Earth's gravitational field at the surface of the Earth.</p>
 			</exercise>
 		<exercise>

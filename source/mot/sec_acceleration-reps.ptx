@@ -13,9 +13,10 @@
 	<p>A motion diagram can be extended to include acceleration by sketching and labeling acceleration vectors for each point.</p>
 	
 	<exercises>
+	<title>Practice Representing Acceleration</title>
 
 			<p>Recall <xref ref="mot_MotionA"></xref>.</p>
-			<exercise>
+			<exercise xml:id="x_practice-rep-acc">
 			<statement>
 			  <p>Complete the motion diagram for the ball by sketching velocity and acceleration vectors at each point.  (Your vectors should be at qualitatively accurate!  That is, vectors with larger magnitudes should have greater length.)</p>
 			</statement>

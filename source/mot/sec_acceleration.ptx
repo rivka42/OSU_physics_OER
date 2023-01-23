@@ -34,7 +34,8 @@
 
 
 	<exercises>
-			<exercise>
+	<title>Summarize What You Learned - Acceleration</title>
+			<exercise xml:id="x_summarize-acceleration">
 			  <p>Write a 1-2 sentence description of what the definition of acceleration says in words. </p>
 			</exercise>
 			<exercise>

@@ -4,24 +4,26 @@
   <title>Forces</title>
   <introduction>
     <p>We will now begin a new topic, perhaps the most foundational in all of physics: Forces.</p>
-		<exercises>
-		<title>Introductory Activity</title>
-		  <exercise>
-			  <p>Write a short (2-3 sentence) description of how you use the term <em>force</em> in your everyday life. You might want to include an example.</p>
-			</exercise>
-		  <exercise>
-				<figure xml:id="for_ball">
-					<caption>Dr. Paws gets a ball.</caption>
-					<video youtube="_bhzaBtdUIE">
-						<description>Dr. Paws gets a ball.</description>
-					</video>
-				</figure>
-				
-			</exercise>
-			<exercise>
-			  <p>Identify and describe the different types of forces you believe are acting on Dr. Paws in the video above as she chases the ball.</p>
-			</exercise>
-		</exercises>
+		
+		    <exercises>
+    <title>Learning Outcomes for Forces</title>
+    </exercises> 
+		
+		<p>After successful completion of this chapter, students will be able to:
+		<ol>
+		  <li>Differentiate between contact forces and non-contact forces</li>
+		  <li>State and apply Newton's laws</li>
+		  <li>Draw a free-body diagram of an object or multiple objects in a system</li>
+		  <li>Define the normal force acting on an object in various situations</li>
+		  <li>Define tension in a system</li>
+		  <li>Construct net force equations in multiple dimensions for an object based on its acceleration and its free-body diagram</li>
+		  <li>Solve net force equations symbolically in terms of given variables</li>
+		  <li>Include friction force acting between two objects at rest or in motion</li>
+		  <li>Identify Newton's third law force pairs</li>
+		  <li>Analyze systems of massive objects and pulleys of negligible mass using a force approach</li>
+		</ol>
+		</p>
+		
   </introduction>
 	
   <xi:include href="./for/sec_what-are-forces.ptx" />
