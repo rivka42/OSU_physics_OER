@@ -10,7 +10,7 @@
 		
 		<figure xml:id="mot_vb-velocity">
 		  <caption>Defining velocity and speed.</caption>
-      <video youtube="uT8YJjViSto"></video>
+      <video youtube="I8uZpimzHzg"></video>
     </figure>
 		
   </introduction>
@@ -21,6 +21,13 @@
 		<p>The <term>average velocity</term> of an object is the object's displacement divided by the interval of time required to move through that displacement: <m>\vec{v}_{ave} = \frac{\Delta \vec{r}}{\Delta t}</m>.</p>
 	</statement>
 </definition>
+
+<aside>
+<title>Time</title>
+<p>
+Time is a quantity you will encounter throughout your study of physics.  In fact, most of physics is concerned with predicting what will happen to a system at some future or time, or looking back to see the status of a system at some previous time.
+</p>
+</aside>
 
 <p>When speaking to a friend or colleague we may not make a distinction between <emph>speed</emph> and <emph>velocity</emph>, but in physics the words are distinct.  Where <emph>velocity</emph> is a vector, indicating both magnitude and direction, the word <emph>speed</emph> refers only to the magnitude of the velocity.</p>
 

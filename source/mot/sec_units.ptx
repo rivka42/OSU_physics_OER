@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_units" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Units</title>
+  <introduction>
+	
+    <p>
+     The measurement of any quantity is made with respect to specific standard or physical unit. When reporting a quantity, this physical unit must be specified along with the numerical value of the quantity. For example, a student in a physics lab reports that the length of an object has been measured to be 17.4, but what does this number tell us? Unfortunately, the number is meaningless unless they specify a specific unit for that measurement. They could mean that the length is 17.4 centimeters, inches or miles. 
+		</p>
+		
+<p>
+In science, we use the SI unit system (le Systéme Internationale d'Unités), also commonly referred to as the metric system. All measurements must be made with respect to some reproducible standard. The history of how standards of measurement were made is a fascinating subject. In the united States, we have an entire <url href="https://www.nist.gov/">government agency</url> dedicated to upholding standards of measurement. 
+    </p>
+		
+		  </introduction>
+			
+<p>
+Physical quantities can be divided into two categories: base quantities and derived quantities. Interestingly, we only need three base quantities to fully describe all quantities related to mechanics. These base quantities are length, time and mass. All other quantities are derived from these basics units. For example, the units of force are given their own name, the Newton, however, a Newton is a combination of the base units of length, time and mass. The units of energy, the Joule, are also derived from base units of length, time and mass.
+</p>
+
+<figure xml:id="mot_car-1">
+		 <caption>An image of the kilogram standard held in Paris, France.</caption>
+		<image source="Le Grand K-1.png" width = "75%">
+			<description>To be filled.</description></image>
+  </figure>	
+
+ 
+<p>
+<term>Time:</term> The SI unit of time is the second. Throughout most of history, the standard of time was based on the mean solar day. However, scientists needed a way to make incredibly high precision measurements of time and so physicists began developing a device called an atomic clock. Atomic clocks work on the principle that subatomic particles called electrons will move back and forth between different energy states when exposed to certain frequencies of radiation. The United States' standard atomic clock is said to be so accurate that in 30 million years it would neither gain nor lose a second. One second is defined as the time it takes for 9,192,631,770 oscillations of a radio wave absorbed by the cesium-133 atom. The abbreviation for the second is the lower case letter s. 
+</p>
+
+<p>
+<term>Length:</term> The SI unit of length is the meter. One meter is the distance light can travel in a vacuum during 1/299,792,458 of a second. The abbreviation for the meter is the lower case m. 
+</p>
+
+<p>
+<term>Mass:</term> The unit of mass is the kilogram. For many years, one kilogram was the mass of a polished platinum-iridium cylinder, the international standard kilogram, which is stored in Paris, France.  Since 2019, the kilogram has been defined even more precisely using the above definitions for length and time along with a fundamental quantum mechanical property of the universe called Planck's constant.
+</p>
+
+<heuristic>
+	<title>Check Units</title>
+	<statement>
+		<p>For any equation, including at any point while you are solving a problem, you should be able to <term>check the units</term> to make sure the units accurately describe all relevant quantities.</p>
+	</statement>
+</heuristic>
+
+<p>
+When we speak about the units of a quantity, we are referring to the base units which make it up. Often times it will be our job as scientists to determine a symbolic equation which gives information about a particular physical situation. Unit analysis can be used as a quick tool for checking whether an equation we have derived is correct. Suppose that we have derived the escape speed of a rocket from a planet of mass <m>M</m> and radius <m>R</m> (escape speed is the speed at which an object must reach to escape the gravitational pull): <m>v_{esc} = \sqrt{\frac{2GM}{R}}</m>.
+</p>
+
+<aside>
+<title>Dimensions</title>
+<p>
+Sometimes, the physics will use the word dimensions to refer to the class of unit for a quantity.  For example, speed can be measured in units of km/hr, m/s, or mi/hr but the base <em>dimensions</em>, represented in square brackets, are always a length [L] divided by a time [T].
+</p>
+</aside>
+
+<p>
+Here, <m>G</m> represents the universal gravitational constant with units <m>G</m> are m<m>^3</m>/s<m>^2</m>kg. Since there is an equal sign, this implies that the base units of either side of the equal sign must be the same. If they are not, then we have made a mistake in our derivation of the escape speed. We can perform a unit analysis to determine if we have the same base units for each side of the equal sign.
+</p>
+
+<p>
+<m>\frac{\text{m}}{\text{s}} \stackrel{?}{=} \sqrt{\frac{\frac{\text{m}^3}{\text{s}^2\text{kg}}\text{kg}}{\text{m}}}=\sqrt{\frac{\text{m}^2}{\text{s}^2}}=\frac{\text{m}}{\text{s}} \checkmark</m>
+</p>
+
+<p>
+We can see that the physical quantities under the square root indeed have base units of [L] divided by a time [T] and so our equation holds true.
+</p>
+
+	<exercises>
+	<title>Practice Checking Units</title>
+
+			<exercise>
+			  <p>Below is a list of symbols we commonly use in physics to represent physical quantities.  For each symbol, indicate the units you would expect for the corresponding quantity.</p>
+				<ol>
+				<li><m>t</m> (time)</li>
+				<li><m>L</m> or <m>l</m> (length)</li>
+				<li><m>d</m> (distance)</li>
+				<li><m>m</m> (mass)</li>
+				<li><m>\Delta t</m> (change in time)</li>
+				<li><m>\Delta \vec{r}</m> (displacement)</li>
+				<li><m>\vec{r}</m> (position)</li>
+				<li><m>A</m> (area)</li>
+				</ol>
+			</exercise>
+			<exercise>
+			  <p>Your friend has developed a new engine that creates carbon dioxide gas.  Your friend shows you an equation they created relating the volume of gas created (<m>V</m>) to the width of the engine (<m>w</m>), the amount of time the engine has been running (<m>\Delta t</m>), and the mass of a single molecule of carbon dioxide (<m>m_{CO2}</m>): <m>V = k\frac{tw^2}{m_{CO2}}</m>.  Use what you know about the other symbols in the problem to determine the units of <m>k</m>.</p>
+			</exercise>
+			<exercise>
+			  <p>While looking through a mathematics textbook, you come across the following equation for the surface area of a cylinder: <m>A = 2\pi rh^2 + 2\pi r^2</m>.  You suspect this equation must have a mistake in it.  How can you use units to tell what the mistake is?  How could you use units to <em>fix</em> the mistake?</p>
+			</exercise>
+			
+		</exercises>
+	
+</section>
+

@@ -11,19 +11,26 @@ The motion of real objects is often extremely complicated.  For example, when yo
 To begin to investigate motion, we will make a <em>simplifying assumption</em> that an object in motion can be treated as a <alert>particle</alert>.  When we make this assumption, we say that we are using the particle model because we are <em>modeling</em> the motion of an object as if it were a <em>particle</em>.
 </p>
 
-<proposition>
+<assumption>
 	<title>The Particle Model</title>
 	<statement>
-		<p>When you assume that an object or system can be treated as a <term>point particle</term>, you treat it as if it has no physical extent and that it can only undergo <alert>translational motion</alert> (motion without rotation).</p>
+		<p>When you assume that a system can be treated as a <term>point particle</term>, you treat it as only undergoing <alert>translational motion</alert> (motion without rotation).  Under this assumption, you treat all the mass of the system as existing at the object's center of mass<fn>center of mass is a property we will not need until we begin studying rotational motion</fn>.</p>
 	</statement>
-</proposition>
+</assumption>
+
+<aside>
+<title>When does an assumption fail?</title>
+<p>
+When you encounter a new assumption, you might want to consider not just when it is good to make the assumption, but instead when the assumption might fail.  As an assumption, the particle model tends to fail when there is (important) rotational motion or when your system has multiple pieces that are moving differently.
+</p>
+</aside>
 
 <p>
 Whenever we decide whether or not to make an assumption, consider two questions: 
 </p>
 <p>
 <ol>
-<li>Is the assumption useful for our situation </li>
+<li>Is the assumption useful for our situation? </li>
 <li>Is the assumption reasonable for our situation? </li>
 </ol>
 </p>
