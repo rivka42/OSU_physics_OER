@@ -79,9 +79,10 @@ We can see that the physical quantities under the square root indeed have base u
 
 
 	<exercises>
-	<title>Practice Checking Units</title>
+	<title>Exercises</title>
 
 			<exercise>
+			<title>Practice Identifying Units</title>
 			  <p>Below is a list of symbols we commonly use in physics to represent physical quantities.  For each symbol, indicate the units you would expect for the corresponding quantity.</p>
 				<ol>
 				<li><m>t</m> (time)</li>
@@ -93,9 +94,11 @@ We can see that the physical quantities under the square root indeed have base u
 				</ol>
 			</exercise>
 			<exercise>
+			<title>Practice Checking Units</title>
 			  <p>Your friend has developed a new engine that creates carbon dioxide gas.  Your friend shows you an equation they created relating the volume of gas created (<m>V</m>) to the width of the engine (<m>w</m>), the amount of time the engine has been running (<m>\Delta t</m>), and the mass of a single molecule of carbon dioxide (<m>M</m>): <m>V = k\frac{tw^2}{M}</m>.  Use what you know about the other symbols in the problem to determine the units of <m>k</m>.</p>
 			</exercise>
 			<exercise>
+			<title>Practice Identifying an Error with Units</title>
 			  <p>While looking through a mathematics textbook, you come across the following equation for the surface area of a cylinder: <m>A = 2\pi rh^2 + 2\pi r^2</m>.  You suspect this equation must have a mistake in it.  How can you use units to tell what the mistake is?  How could you use units to <em>fix</em> the mistake?</p>
 			</exercise>
 			

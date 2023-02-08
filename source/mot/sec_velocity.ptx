@@ -34,12 +34,13 @@ Time is a quantity you will encounter throughout your study of physics.  In fact
 </definition>
 
 	<exercises>
-	<title>Summarize What You Learned - Velocity</title>
 	<p>With definitions like the one above, you should aim to understand each mathematical symbol in the symbolic equation, along with how those symbols work together.  You should also know the kind of quantity each symbol represents, and the units associated with that quantity.  The exercises below are intended to help you build this understanding.</p>
 			<exercise xml:id="x_summarize-velocity">
+			<title>Summarize What You Learned - Velocity</title>
 			  <p>Write a 1-2 sentence description of what the definition of average velocity says in words. </p>
 			</exercise>
 			<exercise>
+			<title>Sensemaking: Units</title>
 			 <statement>
 			  <p>What are the units of velocity? Explain how these units are consistent with the units of the other quantities in the definition of average velocity given above.</p>
 				</statement>
@@ -47,15 +48,18 @@ Time is a quantity you will encounter throughout your study of physics.  In fact
 				<p>m/s</p>
 				</answer>
 			</exercise>
+			<p>For the next two exercises, make sure to remember all the steps for Explanations in Physics from <xref ref="fig_explanation"></xref>.</p>
 			<exercise>
+			<title>Explanation: Direction of Velocity</title>
 			<statement>
-			  <p>How does the direction of the average velocity vector compare to the direction of the displacement vector?</p>
+			  <p>How does the direction of the average velocity vector compare to the direction of the displacement vector?  Explain your reasoning.</p>
 				</statement>
 				<answer>
-				<p>The average velocity vector points in the same direction as the displacement vector and tells us the direction of motion the object.</p>
+				<p>The average velocity vector points in the same direction as the displacement vector and tells us the direction of the object's motion.</p>
 				</answer>
 			</exercise>
 			<exercise>
+			<title>Explanation: Velocity or Speed</title>
 			  <p>In physics we will use both the idea of velocity and the idea of speed. In everyday language, these two words are often used interchangeably, but in physics they have distinct meanings. Write 1-2 sentences aimed at explaining the difference between velocity and speed to a child.</p>
 			</exercise>
 		

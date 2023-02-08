@@ -27,11 +27,12 @@
 
 
 	<exercises>
-	<title>Summarize What You Learned - Acceleration</title>
 			<exercise xml:id="x_summarize-acceleration">
+			<title>Summarize What You Learned - Acceleration</title>
 			  <p>Write a 1-2 sentence description of what the definition of acceleration says in words. </p>
 			</exercise>
 			<exercise>
+			<title>Sensemaking: Units</title>
 			<statement>
 			  <p>What are the units of acceleration? Explain how these units are consistent with the units of other quantities you have learned about.</p>
 				</statement>
@@ -40,6 +41,7 @@
 				</answer>
 			</exercise>
 						<exercise>
+						<title>Explanation: Direction</title>
 			<statement>
 			  <p>How does the direction of the average acceleration vector compare to the direction of the change in velocity vector?</p>
 				</statement>
@@ -47,7 +49,7 @@
 				<p>Does your acceleration have to point in the same direction as your velocity?</p>
 				</hint>
 				<answer>
-				<p>The average acceleration vector points in the same direction as the <emph>change</emph> in the velocity</p>
+				<p>The average acceleration vector points in the same direction as the <emph>change</emph> in velocity!</p>
 				</answer>
 			</exercise>
 		</exercises>

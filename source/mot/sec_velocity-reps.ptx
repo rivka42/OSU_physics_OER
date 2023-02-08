@@ -33,15 +33,12 @@
 	<p>Notice that the displacement vectors are equal in length when the car moves at constant speed.</p>
 	
 	<exercises>
-	<title>Extending Previous Work</title>
-	<p>Recall the motion diagram you made for the ball rolling across the floor: <xref ref="mot_vb-ball-floor"></xref>.</p>
+	<title>Practice Exercises</title>
 	<exercise>
+	<title>Extending Your Previous Work</title>
+	<p>Recall the motion diagram you made for the ball rolling across the floor: <xref ref="mot_vb-ball-floor"></xref>.</p>
 	<p>At each point on your diagram, add a vector representing the instantaneous velocity at that instant.  You should be able to explain how you used the position vectors you have already drawn to determine both the magnitude and the direction of your new velocity vectors.</p>
 	</exercise>
-	</exercises>
-	
-	<exercises>
-	<title>Practice Representing Velocity</title>
     <p>
       The strobe diagram below shows a ball moving from left to right.  A total of 1 s has passed between each successive dot.
     </p>
@@ -52,17 +49,26 @@
 			</image>
     </figure>
 			<exercise xml:id="x_practice-rep-vel">
+			<title>Practice Creating a Motion Diagram</title>
 			<p>
 			Use the strobe diagram to make a <term>motion diagram</term> with both position and velocity vectors.
 			</p>
 			</exercise>
 			<exercise>
+			<title>Explanation</title>
 			  <p>Describe how the velocity of the ball is changing. Explain how you can tell from the strobe diagram.</p>
 			</exercise>
 			<exercise>
-			<p>If the distance between the first and last points is 12 m, what is the average speed during the motion (in m/s)?</p>
+			<title>Calculation</title>
+			<statement>
+			<p>If the distance between the first and last points is <m>d = 12 \text{ m}</m>, what is the average speed during the motion?</p>
+			</statement>
+			<hint>
+			<p>Recall the steps for performing a calculation from <xref ref="fig_calculation"></xref>.</p>
+			</hint>
 			</exercise>
 			<exercise>
+			<title>Explanation</title>
 			  <p>Is the instantaneous speed at the point in the middle greater than, less than, or equal to the average speed?  Explain your reasoning.</p>
 			</exercise>
 		</exercises>

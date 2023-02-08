@@ -31,14 +31,15 @@ You will start by using the Cartesian coordinates that are probably familiar fro
   </figure>
 	
 		<exercises>
-		<title>Practice What You Learned</title>
+		<!-- <title>Practice Exercises</title> -->
 		<exercise xml:id="x_positions-comps">
+		<title>Practice: Position Components</title>
 		<statement>
 		<p>As with any other vector, a position vector can be broken into components, as shown in the figure above.  Use what you know about triangles and vector components to write equations relating <m>r_x</m> and <m>r_y</m> to <m>r</m> (the magnitude of the position) and <m>\theta</m>.</p>
 		</statement>
 		</exercise>
 			<exercise xml:id="x_state-vectors">
-			<title>State Vectors</title>
+			<title>Practice: State Vectors</title>
 			<p>Choose a different state (or country) than Oregon and find a simple map.  Mark a few of the major cities or landmarks on the map (at least three).
 			<ol marker="a">
 			<li>
