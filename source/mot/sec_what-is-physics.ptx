@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_what-is-physics" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>What is Physics?</title>
+
+	<p>THIS SECTION MAY BELONG SOMEWHERE ELSE!!!</p>
+	
+	<exercise>
+	<title>What Do You Think Physics Is?</title>
+	<p>
+	Take just a moment to write down what <em>you</em> think physics is, in your own words.
+	</p>
+	</exercise>
+	
+	<p>Physics is ...</p>
+	
+	<p>In physics, you will use many everyday words that have extremely precise meanings.  For example, you will often consider a physics <term>context</term>, which in general describes a situation, usually with some connection to the real world.  Within a context, you might decide to focus on one or more <term>systems</term>: a system might then have one or more objects in it.  As you consider the context, you may decide to make <term>assumptions</term> or <term>idealizations</term>, make graphs or diagrams, write laws and equations, solve for one or more quantities, estimate or plug in numbers, and perform physics <term>sensemaking</term>.</p>
+	
+  <figure xml:id="fig_assumptions">
+		 <caption>Questions to ask when you make an assumption.</caption>
+		<image source="AssumptionsSteps.png" width = "75%">
+			<description>Assumptions and Idealizations. 1 Is the assumption useful for the context?  2 Is the assumption reasonable for the context?  3 Are there any limitations for the context?</description></image>
+  </figure>	
+
+  <figure xml:id="fig_sensemaking">
+		 <caption>Steps to follow when sensemaking.</caption>
+		<image source="SensemakingSteps.png" width = "75%">
+			<description>Physics Sensemaking.  1. Choose a sensemaking strategy.  2a. What should this strategy say about the context?  2b. Give a physical reason for why it says this.  3a. What does your answer actually say?  3b. Show what it says explicitly. 4. Compare what your answer actually says and what it should say!</description></image>
+  </figure>	
+
+  
+
+	
+</section>
+

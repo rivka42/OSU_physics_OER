@@ -26,17 +26,16 @@ When you encounter a new assumption, you might want to consider not just when it
 </aside>
 
 <p>
-Whenever we decide whether or not to make an assumption, consider two questions: 
+Whenever we decide whether or not to make an assumption or idealization, consider the three questions from <xref ref="fig_assumptions"></xref>.
 </p>
+
+
+
 <p>
-<ol>
-<li>Is the assumption useful for our situation? </li>
-<li>Is the assumption reasonable for our situation? </li>
-</ol>
+The particle model is almost always useful because it is extremely simple (like many of the assumptions we will make).  However, by assuming an object is a particle, we are neglecting information about its size, extent, and rotation.  The particle model is most reasonable when these properties <em>do not have a substantial impact</em> on its translational motion.  Once we have a firm understanding of translational motion, we can amend our model to include other kinds of motion.  Within the particle model, we will start by considering motion along a straight-line path (one-dimensional translational motion) before describing translational motion in two- or even three-dimensions.  Restricting the kind of motion you are considering to one or two dimensions is another assumption!   
 </p>
-<p>
-The particle model is almost always useful because it is extremely simple (like many of the assumptions we will make).  However, by assuming an object is a particle, we are neglecting information about its size, extent, and rotation.  The particle model is most reasonable when these properties <em>do not have a substantial impact</em> on its translational motion.  Once we have a firm understanding of translational motion, we can amend our model to include other kinds of motion.  Within the particle model, we will start by considering motion along a straight-line path (one-dimensional translational motion) before describing translational motion in two- or even three-dimensions.     
-</p>
+
+
 		
 		
   </introduction>
@@ -44,7 +43,7 @@ The particle model is almost always useful because it is extremely simple (like 
 		
 	<exercises>
 					<title>Particle Model Examples</title>
-		<p>For each of the following situations, do you think it is reasonable to use the particle model?  Why or why not?  What object or system are you treating as a particle?</p>
+		<p>For each of the following contexts, do you think it is reasonable to use the particle model?  Why or why not?  What object or system are you treating as a particle?</p>
 			<exercise xml:id="x_particle-examples">
 			  <p>You drive your car from Corvallis to Portland.</p>
 			</exercise>

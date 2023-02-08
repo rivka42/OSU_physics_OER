@@ -44,10 +44,6 @@ Physical quantities can be divided into two categories: base quantities and deri
 	</statement>
 </heuristic>
 
-<p>
-When we speak about the units of a quantity, we are referring to the base units which make it up. Often times it will be our job as scientists to determine a symbolic equation which gives information about a particular physical situation. Unit analysis can be used as a quick tool for checking whether an equation we have derived is correct. Suppose that we have derived the escape speed of a rocket from a planet of mass <m>M</m> and radius <m>R</m> (escape speed is the speed at which an object must reach to escape the gravitational pull): <m>v_{esc} = \sqrt{\frac{2GM}{R}}</m>.
-</p>
-
 <aside>
 <title>Dimensions</title>
 <p>
@@ -56,7 +52,17 @@ Sometimes, the physics will use the word dimensions to refer to the class of uni
 </aside>
 
 <p>
-Here, <m>G</m> represents the universal gravitational constant with units <m>G</m> are m<m>^3</m>/s<m>^2</m>kg. Since there is an equal sign, this implies that the base units of either side of the equal sign must be the same. If they are not, then we have made a mistake in our derivation of the escape speed. We can perform a unit analysis to determine if we have the same base units for each side of the equal sign.
+When we speak about the units of a quantity, we are referring to the base units which make it up. Often times it will be our job as scientists to determine a symbolic equation which gives information about a particular physical situation. Unit analysis can be used as a quick tool for checking whether an equation we have derived is correct.
+</p>
+
+<example>
+  <title>How to Check Units</title>
+<p>
+Suppose that we have derived the escape speed of a rocket from a planet of mass <m>M</m> and radius <m>R</m> (escape speed is the speed at which an object must reach to escape the gravitational pull): <m>v_{esc} = \sqrt{\frac{2GM}{R}}</m>.  As a speed, <m>v_{esc}</m> should have units like m/s (distance divided by time).
+</p>
+
+<p>
+Here, <m>G</m> represents the universal gravitational constant with units <m>\frac{\text{m}^3}{text{s}^2kg}</m>. Since there is an equal sign, this implies that the base units of either side of the equal sign must be the same. If they are not, then we have made a mistake in our derivation of the escape speed. We can perform a unit analysis to determine if we have the same base units for each side of the equal sign.
 </p>
 
 <p>
@@ -64,8 +70,13 @@ Here, <m>G</m> represents the universal gravitational constant with units <m>G</
 </p>
 
 <p>
-We can see that the physical quantities under the square root indeed have base units of [L] divided by a time [T] and so our equation holds true.
+We can see that the physical quantities under the square root indeed have base units of [L] divided by a time [T] and so our equation holds true.  Notice that we have followed the general sensemaking steps from <xref ref="fig_sensemaking"></xref>: we chose a strategy (checking units), determined what units we <em>should</em> get, found the units we <em>actually</em> have, and compared the two to see that they are the same!
 </p>
+
+</example>
+
+
+
 
 	<exercises>
 	<title>Practice Checking Units</title>
@@ -74,17 +85,15 @@ We can see that the physical quantities under the square root indeed have base u
 			  <p>Below is a list of symbols we commonly use in physics to represent physical quantities.  For each symbol, indicate the units you would expect for the corresponding quantity.</p>
 				<ol>
 				<li><m>t</m> (time)</li>
-				<li><m>L</m> or <m>l</m> (length)</li>
 				<li><m>d</m> (distance)</li>
 				<li><m>m</m> (mass)</li>
-				<li><m>\Delta t</m> (change in time)</li>
-				<li><m>\Delta \vec{r}</m> (displacement)</li>
+				<li><m>t_f</m> (final time)</li>
 				<li><m>\vec{r}</m> (position)</li>
 				<li><m>A</m> (area)</li>
 				</ol>
 			</exercise>
 			<exercise>
-			  <p>Your friend has developed a new engine that creates carbon dioxide gas.  Your friend shows you an equation they created relating the volume of gas created (<m>V</m>) to the width of the engine (<m>w</m>), the amount of time the engine has been running (<m>\Delta t</m>), and the mass of a single molecule of carbon dioxide (<m>m_{CO2}</m>): <m>V = k\frac{tw^2}{m_{CO2}}</m>.  Use what you know about the other symbols in the problem to determine the units of <m>k</m>.</p>
+			  <p>Your friend has developed a new engine that creates carbon dioxide gas.  Your friend shows you an equation they created relating the volume of gas created (<m>V</m>) to the width of the engine (<m>w</m>), the amount of time the engine has been running (<m>\Delta t</m>), and the mass of a single molecule of carbon dioxide (<m>M</m>): <m>V = k\frac{tw^2}{M}</m>.  Use what you know about the other symbols in the problem to determine the units of <m>k</m>.</p>
 			</exercise>
 			<exercise>
 			  <p>While looking through a mathematics textbook, you come across the following equation for the surface area of a cylinder: <m>A = 2\pi rh^2 + 2\pi r^2</m>.  You suspect this equation must have a mistake in it.  How can you use units to tell what the mistake is?  How could you use units to <em>fix</em> the mistake?</p>

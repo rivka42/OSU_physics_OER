@@ -8,9 +8,11 @@
     </p>
   </introduction>
 	
-	<p>A motion graph for acceleration is straightforward: simply graph acceleration on the vertical axis vs. time on the horizontal axis!</p>
+	<p>A motion diagram can be extended to include acceleration by sketching and labeling acceleration vectors for each point using the definition for acceleration.</p>
 	
-	<p>A motion diagram can be extended to include acceleration by sketching and labeling acceleration vectors for each point.</p>
+	<p>A motion graph for acceleration is also pretty straightforward: simply graph acceleration on the vertical axis vs. time on the horizontal axis!  When you make motion graphs, you usually want to graph all three quantities: position, velocity, and acceleration.<fn>When you are just starting out, making each graph on its own set of axes is very helpful, but professional physicists sometimes graph all three on the same set of axes!</fn>  Once you have all three graphs, you can then leverage your calculus understanding to confirm the relationship between them.  For example, since acceleration is the derivative of velocity, the graph of acceleration vs. time should match the slope of the graph of velocity vs. time!</p>
+	
+
 	
 	<exercises>
 	<title>Practice Representing Acceleration</title>
@@ -18,18 +20,15 @@
 			<p>Recall <xref ref="mot_MotionA"></xref>.</p>
 			<exercise xml:id="x_practice-rep-acc">
 			<statement>
-			  <p>Complete the motion diagram for the ball by sketching velocity and acceleration vectors at each point.  (Your vectors should be at qualitatively accurate!  That is, vectors with larger magnitudes should have greater length.)</p>
+			  <p>Complete the motion diagram for the ball by sketching acceleration vectors at each point.  (Your vectors should be at qualitatively accurate!  That is, vectors with larger magnitudes should have greater length.)</p>
 			</statement>
-			
-			<!--<solution>
-			  <figure xml:id="mot_vb-sol-acc">
-		  <caption>Discussion the solution.</caption>
-      <video youtube="uT8YJjViSto"></video>
-    </figure>
-			</solution> -->
-			
 			</exercise>
-			
+			<exercise>
+			<p>Sketch a motion graph for the ball showing acceleration vs. time.</p>
+			</exercise>
+			<exercise>
+			<p>Compare your graph to the graphs of velocity and position vs. time you made in <xref ref="x_practice-making-motion-graphs"></xref>.  Confirm that your graph agrees with the derivative relationships between position, velocity, and acceleration.</p>
+			</exercise>
 		</exercises>
 
   

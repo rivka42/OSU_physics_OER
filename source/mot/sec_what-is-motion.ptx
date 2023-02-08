@@ -8,8 +8,9 @@
 	<p>The study of the motion of objects comprises a field of physics called mechanics.  Mechanics is an expansive field that includes many related ideas, including forces, energy, and momentum.  We divide mechanics into two branches.  First, we will study <alert>how</alert> objects move through space (this is sometimes known as kinematics, but we will typically just use the word motion).  Later, we will study <alert>why</alert> objects move (this is called dynamics).</p>
 	
 				<exercises>
+				<title>Introductory Activity</title>
 					<exercise xml:id="x_intro-motion">
-									<title>Introductory Activity</title>
+									<title>What You Know about Motion</title>
 						<statement>
 							<p>Find a blank sheet of paper and make a list of everything you know about motion.  Your list can include anything you want: words, symbols, equations, pictures, experiences, questions, <em>etc.</em>  Try to base what you write as much on your everyday personal experience as on any previous formal instruction on motion.</p>
 						</statement>

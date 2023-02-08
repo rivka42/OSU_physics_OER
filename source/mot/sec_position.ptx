@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_position" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Position and Displacement</title>
+  <title>Position</title>
 	
-			<figure xml:id="mot_vb-position">
+		<figure xml:id="mot_vb-position">
 		  <caption>Defining position.</caption>
       <video youtube="iJoZIbjRrYA"></video>
     </figure>
@@ -20,7 +20,7 @@
 <aside>
 <title>Coordinates</title>
 <p>
-You will start by using the Cartesian coordinates that are probably familiar from math: <m>x</m> along the horizontal axis and <m>y</m> along the vertical axis (plus <m>z</m> if you need it!).  Although these coordinates are familiar, they are also arbitrary, and you will soon find that physics likes to use other coordinates when it is convenient for a situation.  This may mean rotating the Cartesian coordinates so they are tilted, using different coordinates for two different objects in the same situation, or even using non-Cartesian coordinates such as circular (polar) coordinates.
+You will start by using the Cartesian coordinates that are probably familiar from math: <m>x</m> along the horizontal axis and <m>y</m> along the vertical axis (plus <m>z</m> if you need it!).  Although these coordinates are familiar, they are also arbitrary, and you will soon find that physics likes to use other coordinates when it is convenient for a situation.  This may mean rotating the Cartesian coordinates so they are tilted, using different coordinates for two different objects in the same context, or even using non-Cartesian coordinates such as circular (polar) coordinates.
 </p>
 </aside>
 
@@ -28,60 +28,36 @@ You will start by using the Cartesian coordinates that are probably familiar fro
 		 <caption>A two-dimensional position vector within an <m>xy</m>-coordinate system.</caption>
 		<image source="2D position vector with angle.png" width = "50%">
 			<description>On an xy axis, an arrow pointing up and to the right, labeled with magnitude r and angle theta.</description></image>
-  </figure>	
+  </figure>
 	
-				<figure xml:id="mot_vb-displacement">
-		  <caption>Defining displacement.</caption>
-      <video youtube="Uc5fC3HN2eQ"></video>
-    </figure>
-	
-<definition>
-	<title>Displacement</title>
-	<statement>
-		<p>The <term>displacement</term> of an object describes the change in that object's position: <m>\Delta \vec{r} = \vec{r}_f - \vec{r}_i</m>.</p>
-	</statement>
-</definition>
-	
-	<p>Suppose an object is initially located at position <m>\vec{r}_0</m> at some initial time <m>t_0</m> and the object is moving through space over an interval of time <m>\Delta t = t_f - t_0</m>. The symbol <m>\Delta</m> (the capital Greek letter "Delta") represents a change in a quantity.  The time interval <m>\Delta t</m> measures the elapsed time as the object moves from an initial position <m>\vec{r}_0</m>  at initial time <m>t_0</m> to a final position <m>\vec{r}_0</m> and some final time <m>t_f</m>. The vector <m>\Delta \vec{r}</m> is called the displacement of the object over the time interval <m>\Delta t</m>.  Here, we have used the subscript 0 to refer to some initial time: in some cases, we will instead use the subscript <m>o</m> ("naught") or the subscript <m>i</m> (for "initial") instead of 0.</p>
-	
-	<aside>
-<title>Subscripts</title>
-<p>
-You have probably noticed that physics notation uses subscripts to mean a lot of different things!  In general, physics symbols try to be descriptive, choosing evocative letters like <m>m</m> for mass and <m>t</m> for time.  Physics symbols also try to be specific (<m>m_1</m> for the mass of object 1, <m>m_2</m> for the mass of object 2, <em>etc.</em>) and detailed (<m>t_i</m> for the initial time and <m>t_f</m> for the final time).  Sometimes, subcripts might even be combined: <m>r_{x3i}</m> for the <m>x</m>-component of object 3's initial position.  As you practice, you will start to get a sense for all the different things you can use a subscript for.
-</p>
-</aside>
-
-  <figure xml:id="mot_displacement-vector">
-		 <caption>A displacement vector.</caption>
-		<image source="displacement.png" width = "50%">
-			<description>On an xy axis, two arrows labeled r0 and rf point up and to the right, with a third vector labeled Delta r completing a triangle between them.</description></image>
-  </figure>	
-  
-	<exercises>
-			<exercise xml:id="x_summarize-position">
-			<title>Summarize What You Learned - Position</title>
-			  <p>We defined a large number of quantities in this section.  Make a list of all the different quantities we used and write yourself a brief description along with the symbol(s) we used for each quantity.  In particular, note which quantities are <em>vectors</em> and which quantities are <em>scalars</em>.</p>
-			</exercise>
-			<exercise xml:id="x_vectors-park">
-			<title>Vectors in the Park</title>
-			<p>You and your friend are each standing at opposite ends of a 125 m long park.  Your friend, who is initially due south of you, walks 50 m east and stops to wait for you.  Then, you walk in a straight line until you reach your friend.
+		<exercises>
+		<title>Practice What You Learned</title>
+		<exercise xml:id="x_positions-comps">
+		<statement>
+		<p>As with any other vector, a position vector can be broken into components, as shown in the figure above.  Use what you know about triangles and vector components to write equations relating <m>r_x</m> and <m>r_y</m> to <m>r</m> (the magnitude of the position) and <m>\theta</m>.</p>
+		</statement>
+		</exercise>
+			<exercise xml:id="x_state-vectors">
+			<title>State Vectors</title>
+			<p>Choose a different state (or country) than Oregon and find a simple map.  Mark a few of the major cities or landmarks on the map (at least three).
 			<ol marker="a">
 			<li>
-			  <p>Choose an origin of coordinates for this problem and make a sketch of the situation.</p>
+			  <p>Choose a coordinate system and an origin and mark them on your map.</p>
 			</li>
 			<li>
-			  <p>Write initial and final position vectors for both you and your friend.</p>
+			  <p>Draw position vectors for each of the locations you marked on your map.</p>
 			</li>
 			<li>
-			  <p>Find the displacement vector for both you and your friend.</p>
+			  <p>Write each position vector in rectangular form like <m>\vec{r} = r_x\hat{x} + r_y\hat{y}</m>.</p>
 			</li>
 			<li>
-			  <p>Reflect on your choice of origin for this problem.  What impact did your choice have on how you solved it?  Could you have made a different choice?</p>
+			  <p>Look up any appropriate numbers and estimate any necessary angles to find an actual, numerical position vector for each point.</p>
 			</li>
 			</ol>
 			</p>
 			</exercise>
 		</exercises>
+
 	
 </section>
 

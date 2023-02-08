@@ -2,19 +2,12 @@
 
 <section xml:id="sec_acceleration" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Acceleration</title>
-	
-  <introduction>
-	
-    <p>
-     Watch the Video Briefing below about acceleration.
-    </p>
 		
 		<figure xml:id="mot_vb-acceleration">
 		  <caption>Defining acceleration.</caption>
       <video youtube="EBR5gYniK2c"></video>
     </figure>
-		
-  </introduction>
+	
 	
 	<p>We use the term acceleration to describe the rate of change of an object's velocity.  Like velocity (the rate of change of an object's position), acceleration can be either average or instantaneous.</p>
 	

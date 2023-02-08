@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_displacement" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Displacement</title>
+	
+	<figure xml:id="mot_vb-displacement">
+		  <caption>Defining displacement.</caption>
+      <video youtube="Uc5fC3HN2eQ"></video>
+    </figure>
+	
+<definition>
+	<title>Displacement</title>
+	<statement>
+		<p>The <term>displacement</term> of an object describes the change in that object's position: <m>\Delta \vec{r} = \vec{r}_f - \vec{r}_i</m>.</p>
+	</statement>
+</definition>
+	
+	<p>Suppose an object is initially located at position <m>\vec{r}_0</m> at some initial time <m>t_0</m> and the object is moving through space over an interval of time <m>\Delta t = t_f - t_0</m>. The symbol <m>\Delta</m> (the capital Greek letter "Delta") represents a change in a quantity.  The time interval <m>\Delta t</m> measures the elapsed time as the object moves from an initial position <m>\vec{r}_0</m>  at initial time <m>t_0</m> to a final position <m>\vec{r}_0</m> and some final time <m>t_f</m>. The vector <m>\Delta \vec{r}</m> is called the displacement of the object over the time interval <m>\Delta t</m>.  Here, we have used the subscript 0 to refer to some initial time: in some cases, we will instead use the subscript <m>o</m> ("naught") or the subscript <m>i</m> (for "initial") instead of 0.</p>
+	
+	<aside>
+<title>Subscripts</title>
+<p>
+You have probably noticed that physics notation uses subscripts to mean a lot of different things!  In general, physics symbols try to be descriptive, choosing evocative letters like <m>m</m> for mass and <m>t</m> for time.  Physics symbols also try to be specific (<m>m_1</m> for the mass of object 1, <m>m_2</m> for the mass of object 2, <em>etc.</em>) and detailed (<m>t_i</m> for the initial time and <m>t_f</m> for the final time).  Sometimes, subcripts might even be combined: <m>r_{x3i}</m> for the <m>x</m>-component of object 3's initial position.  As you practice, you will start to get a sense for all the different things you can use a subscript for.
+</p>
+</aside>
+
+  <figure xml:id="mot_displacement-vector">
+		 <caption>A displacement vector.</caption>
+		<image source="displacement.png" width = "50%">
+			<description>On an xy axis, two arrows labeled r0 and rf point up and to the right, with a third vector labeled Delta r completing a triangle between them.</description></image>
+  </figure>	
+  
+	<exercises>
+			<exercise xml:id="x_vectors-park">
+			<title>Vectors in the Park</title>
+			<p>You and your friend are each standing at opposite ends of a 125 m long park.  Your friend, who is initially due south of you, walks 50 m east and stops to wait for you.  Then, you walk in a straight line until you reach your friend.
+			<ol marker="a">
+			<li>
+			  <p>Choose an origin of coordinates for this problem and make a sketch of the context.</p>
+			</li>
+			<li>
+			  <p>Write initial and final position vectors for both you and your friend.</p>
+			</li>
+			<li>
+			  <p>Find the displacement vector for both you and your friend.</p>
+			</li>
+			<li>
+			  <p>Reflect on your choice of origin for this problem.  What impact did your choice have on how you solved it?  Could you have made a different choice?</p>
+			</li>
+			</ol>
+			</p>
+			</exercise>
+		</exercises>
+	
+	
+</section>
+

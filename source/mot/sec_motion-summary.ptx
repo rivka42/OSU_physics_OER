@@ -2,18 +2,28 @@
 
 <section xml:id="sec_motion-summary" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Motion Summary</title>
-  <introduction>
+		
+		<exercises>
+		<title>Summarize What You Learned</title>
+		<exercise xml:id="x_summarize-motion">
+		<title>Quantities</title>
     <p>
-      //unwritten
+      You saw many new quantities in learning about motion.  Make a list of all the different quantities you have observed and write yourself a brief description along with the symbol(s) for each quantity.  In particular, note which quantities are <em>vectors</em> and which quantities are <em>scalars</em>.  What laws and definitions connect the quantities you learned about?
     </p>
-		
-		
-  </introduction>
-	
-		
+		</exercise>
+		<exercise>
+		<title>Representations</title>
     <p>
-      <em>Exercise:</em> 
+      As you explored motion, you used a variety of representations.  Make a list of these representations and their important features.  What do you find advantageous about each representation?  What were the limitations of each representation?
     </p>
+		</exercise>
+		<exercise>
+		<title>Sensemaking</title>
+    <p>
+      If physics is going to describe the world you live in, it should make sense in the context of your everyday experiences.  Make a list of the strategies you have for making sense of physics contexts, systems, equations, and more.  Your list can have more than just the things you have learned about in this course.  As you make your list, think about the strengths and weaknesses of the different strategies.  What do you think will be especially useful for you going forward?
+    </p>
+		</exercise>
+		</exercises>
   
 
 	
