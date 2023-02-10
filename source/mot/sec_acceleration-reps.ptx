@@ -2,11 +2,16 @@
 
 <section xml:id="acc-reps" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Representing Acceleration</title>
-  <introduction>
+
+		<figure xml:id="mot_vb-rep-acc">
+		  <caption>An example of representing acceleration.</caption>
+      <video youtube="X3w7v56hOS0"></video>
+    </figure>
+
     <p>
       In previous sections, we defined two important motion representations: <term>motion diagrams</term> and <term>motion graphs</term>.  Either of these representations can feature acceleration as well as velocity and position.
     </p>
-  </introduction>
+
 	
 	<p>A motion diagram can be extended to include acceleration by sketching and labeling acceleration vectors for each point using the definition for acceleration.</p>
 	

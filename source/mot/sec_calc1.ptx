@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_calc1" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Using Calculus in Physics</title>
-  <introduction>
-	
-    <p>
-     Watch the video below on using calculus in physics. {ADD CORRECT VIDEO LINK}
-    </p>
+  <title>Using Integrals in Physics</title>
 		
 		<figure xml:id="mot_vb-valc1">
 		  <caption>Defining velocity and speed.</caption>
-      <video youtube="WvWPCCcci2k"></video>
+      <video youtube="26vbUjdFpBk"></video>
     </figure>
 		
-  </introduction>
 	
 	<p>{Add definitions and text!}</p>
 
