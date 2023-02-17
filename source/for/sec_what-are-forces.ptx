@@ -2,12 +2,10 @@
 
 <section xml:id="sec_what-are-forces" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>What are Forces?</title>
-  <introduction>
 
-				<exercises>
-		<title>Introductory Activity</title>
-			</exercises>
-			  <p>Start by writing a short (2-3 sentence) description of how you use the term <em>force</em> in your everyday life. You might want to include an example.</p>
+
+		<p><em>Introductory Activity:</em> Start by writing a short (2-3 sentence) description of how you use the term <em>force</em> in your everyday life. You might want to include an example.</p>
+			  
 
 
 			    <p>
@@ -38,16 +36,19 @@
 					</video>
 									</figure>
 <exercises>
-	<title></title>
+	<title>Explore forces</title>
 			<exercise xml:id="x_intro-forces">
 			  <p>Identify and describe the different types of forces you believe are acting on Dr. Paws in the video above as she chases the ball.</p>
 			</exercise>
 			<exercise>
 			  <p>Write a short (2-3 sentence) description of how we use the term force in <em>physics</em>. Highlight any differences between your physics description and your personal description from the first exercise.</p>
 			</exercise>
+			<exercise>
+			<p>Brainstorm a list of possible different types of forces you can imagine acting on something.</p>
+			</exercise>
 		</exercises>
   
-  </introduction>
+
 	
 </section>
 

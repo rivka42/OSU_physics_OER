@@ -2,18 +2,29 @@
 
 <section xml:id="sec_forces-summary" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Forces Summary</title>
-  <introduction>
+
+
+		<exercises>
+		<title>Summarize What You Learned</title>
+		<exercise xml:id="x_summarize-forces">
+		<title>Laws</title>
     <p>
-      //unwritten
+      You saw a few new laws when learning about forces.  Make a list of these laws and write yourself a brief description of each law, when to use it, and how to use it. 
     </p>
-		
-		
-  </introduction>
-	
-		
+		</exercise>
+		<exercise>
+		<title>Types of Forces</title>
     <p>
-      <em>Exercise:</em> 
+      There are many different types of forces in the world.  Make a list of all the forces you know.  If you have a quantitative model for a force, add a brief description of how to use it.
     </p>
+		</exercise>
+		<exercise>
+		<title>Sensemaking</title>
+    <p>
+      Physics is supposed to make sense of the real world, but sometimes it tells us surprising things that might seem to contradict our everyday experience.  Were there any situations where you observed an apparent difference between something you have experienced and something physics was telling you?  How were you able to resolve the difference?
+    </p>
+		</exercise>
+		</exercises>
   
 
 	

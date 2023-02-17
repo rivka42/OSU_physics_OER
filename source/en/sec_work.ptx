@@ -2,13 +2,11 @@
 
 <section xml:id="sec_work" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Work</title>
-  <introduction>
 	
     <p>
      One way to change the energy of an object is to do work on it.  Work is a change in energy that arises when an external force acts on an object that moves through some distance.
     </p>
 		
-  </introduction>
 	
 	<definition>
 	<title>Work</title>
@@ -18,9 +16,10 @@
 	</definition>
 
 	<exercises>
+	<title>Exploring Work</title>
 
 			<exercise>
-			  <p>The definition of work can look pretty complicated the first time you see it! Describe something you see in this equation that you aren't entirely sure about. </p>
+			  <p>The definition of work can look pretty complicated the first time you see it!  Make a list of all the <em>symbols</em> you see in the equation.  For each symbol, write a short description of what you think that symbol means in the context of this equation.</p>
 			</exercise>
 			
 		<p>
@@ -33,7 +32,7 @@
     </figure>
 		
 				<p>
-     If you need a refresher on the dot product, see <section xml:id="vec_dot_product"></section> or watch the short video below.
+     If you need a refresher on the dot product, see <xref ref="vec_dot_product"></xref> or watch the short video below.
     </p>
 		
 		<figure xml:id="en_vb-dot">
