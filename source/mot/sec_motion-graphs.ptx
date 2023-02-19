@@ -8,7 +8,7 @@
     </p>
   </introduction>
 	
-				<lemma>
+				<lemma xml:id="rep_motion-graphs">
 			<title>Motion Graph</title>
 			<statement>
 				<p>A <term>motion graph</term> is a graphical representation showing a motion quantity (like position or velocity) on the vertical axis and <em>time</em> on the horizontal axis.</p>

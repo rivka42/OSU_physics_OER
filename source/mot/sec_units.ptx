@@ -1,41 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_units" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Units</title>
-  <introduction>
+  <title>Numbers and Units</title>
 	
     <p>
-     The measurement of any quantity is made with respect to specific standard or physical unit. When reporting a quantity, this physical unit must be specified along with the numerical value of the quantity. For example, a student in a physics lab reports that the length of an object has been measured to be 17.4, but what does this number tell us? Unfortunately, the number is meaningless unless they specify a specific unit for that measurement. They could mean that the length is 17.4 centimeters, inches or miles. 
+     The measurement of any quantity is reported as a number in terms of some standard, physical unit.  For example, you might measure the length of an object in a physics lab to be 17.4.  Without a specific unit of measurement, the number itself is almost meaningless.  You might mean the length is 17.4 centimeters, 17.4 inches, or 17.4 miles. 
 		</p>
 		
 <p>
-In science, we use the SI unit system (le Systéme Internationale d'Unités), also commonly referred to as the metric system. All measurements must be made with respect to some reproducible standard. The history of how standards of measurement were made is a fascinating subject. In the united States, we have an entire <url href="https://www.nist.gov/">government agency</url> dedicated to upholding standards of measurement. 
+In science, we use the SI unit system (le Systéme Internationale d'Unités), commonly referred to as the metric system<fn>In the united States, we have an entire <url href="https://www.nist.gov/">government agency</url> dedicated to upholding standards of measurement</fn>.  Within the metric system, all quantities will be given in terms of base units, such as the three below, which are typically written using non-italic letters<fn><url href="https://en.wikipedia.org/wiki/Metric_prefix">prefixes</url> can be used as an easy way to express units that are substantially different</fn>.
     </p>
 		
-		  </introduction>
-			
+<historical>
+<title>Base units and derived units</title>
 <p>
-Physical quantities can be divided into two categories: base quantities and derived quantities. Interestingly, we only need three base quantities to fully describe all quantities related to mechanics. These base quantities are length, time and mass. All other quantities are derived from these basics units. For example, the units of force are given their own name, the Newton, however, a Newton is a combination of the base units of length, time and mass. The units of energy, the Joule, are also derived from base units of length, time and mass.
+Units for physical quantities can be divided into two categories: base units and derived units. Examples of derived units, which are often given their own name, include force (the Newton) and energy (the Joule), each of which is a specific combination of the base units of length, time and mass.
 </p>
-
-<figure xml:id="mot_car-1">
-		 <caption>An image of the kilogram standard held in Paris, France.</caption>
-		<image source="Le Grand K-1.png" width = "75%">
-			<description>To be filled.</description></image>
-  </figure>	
-
+</historical>
  
 <p>
-<term>Time:</term> The SI unit of time is the second. Throughout most of history, the standard of time was based on the mean solar day. However, scientists needed a way to make incredibly high precision measurements of time and so physicists began developing a device called an atomic clock. Atomic clocks work on the principle that subatomic particles called electrons will move back and forth between different energy states when exposed to certain frequencies of radiation. The United States' standard atomic clock is said to be so accurate that in 30 million years it would neither gain nor lose a second. One second is defined as the time it takes for 9,192,631,770 oscillations of a radio wave absorbed by the cesium-133 atom. The abbreviation for the second is the lower case letter s. 
-</p>
+<term>Time:</term> The SI unit of time is the second.  The abbreviation for the second is the lower case letter s.</p>
 
 <p>
-<term>Length:</term> The SI unit of length is the meter. One meter is the distance light can travel in a vacuum during 1/299,792,458 of a second. The abbreviation for the meter is the lower case m. 
-</p>
+<term>Length:</term> The SI unit of length is the meter.  The abbreviation for the meter is the lower case m.</p>
 
 <p>
-<term>Mass:</term> The unit of mass is the kilogram. For many years, one kilogram was the mass of a polished platinum-iridium cylinder, the international standard kilogram, which is stored in Paris, France.  Since 2019, the kilogram has been defined even more precisely using the above definitions for length and time along with a fundamental quantum mechanical property of the universe called Planck's constant.
+<term>Mass:</term> The unit of mass is the kilogram.  The abbreviation for the meter is lower case kg.</p>
+<insight>
+<p>
+<term>Time:</term> Throughout most of history, the standard of time was based on the mean solar day. However, scientists needed a way to make incredibly high precision measurements of time and so physicists began developing a device called an atomic clock. Atomic clocks work on the principle that subatomic particles called electrons will move back and forth between different energy states when exposed to certain frequencies of radiation. The United States' standard atomic clock is said to be so accurate that in 30 million years it would neither gain nor lose a second. One second is defined as the time it takes for 9,192,631,770 oscillations of a radio wave absorbed by the cesium-133 atom.  
 </p>
+<p>
+<term>Length:</term> One meter is the distance light can travel in a vacuum during 1/299,792,458 of a second.
+</p>
+<p>
+<term>Mass:</term> For many years, one kilogram was the mass of a polished platinum-iridium cylinder, the international standard kilogram, which is stored in Paris, France.  Since 2019, the kilogram has been defined even more precisely using the above definitions for length and time along with a fundamental quantum mechanical property of the universe called Planck's constant.
+</p>
+<figure xml:id="mot_car-1">
+		 <caption>An image of the kilogram standard held in Paris, France.</caption>
+		<image source="Le Grand K-1.png" width = "50%">
+			<description>A small cylindrical object inside a glass container.</description></image>
+  </figure>	
+
+</insight>
+
+<p>Checking units or numbers are two of the easiest and most powerful ways to <term>make sense</term> of something in physics.  When you make sense of something, your objective is evaluate whether or not what physics says about a context aligns with your physical understanding and reasoning about that context.  The steps below will help give you a process to follow for physics sensemaking.</p>
+
+  <figure xml:id="fig_sensemaking">
+		 <caption>Steps to follow when sensemaking.</caption>
+		<image source="SensemakingSteps.png" width = "75%">
+			<description>Physics Sensemaking.  1. Choose a sensemaking strategy.  2a. What should this strategy say about the context?  2b. Give a physical reason for why it says this.  3a. What does your answer actually say?  3b. Show what it says explicitly. 4. Compare what your answer actually says and what it should say!</description></image>
+  </figure>	
 
 <heuristic>
 	<title>Check Units</title>
@@ -44,7 +59,16 @@ Physical quantities can be divided into two categories: base quantities and deri
 	</statement>
 </heuristic>
 
-<aside>
+<!--
+<p>
+When we speak about the units of a quantity, we are referring to the base units which make it up. Often times it will be our job as scientists to determine a symbolic equation which gives information about a particular physical situation. Unit analysis can be used as a quick tool for checking whether an equation we have derived is correct.
+</p>
+-->
+
+<example>
+  <title>How to Check Units</title>
+	
+	<aside>
 <title>Dimensions</title>
 <p>
 Sometimes, the physics will use the word dimensions to refer to the class of unit for a quantity.  For example, speed can be measured in units of km/hr, m/s, or mi/hr but the base <em>dimensions</em>, represented in square brackets, are always a length [L] divided by a time [T].
@@ -52,17 +76,11 @@ Sometimes, the physics will use the word dimensions to refer to the class of uni
 </aside>
 
 <p>
-When we speak about the units of a quantity, we are referring to the base units which make it up. Often times it will be our job as scientists to determine a symbolic equation which gives information about a particular physical situation. Unit analysis can be used as a quick tool for checking whether an equation we have derived is correct.
-</p>
-
-<example>
-  <title>How to Check Units</title>
-<p>
 Suppose that we have derived the escape speed of a rocket from a planet of mass <m>M</m> and radius <m>R</m> (escape speed is the speed at which an object must reach to escape the gravitational pull): <m>v_{esc} = \sqrt{\frac{2GM}{R}}</m>.  As a speed, <m>v_{esc}</m> should have units like m/s (distance divided by time).
 </p>
 
 <p>
-Here, <m>G</m> represents the universal gravitational constant with units <m>\frac{\text{m}^3}{text{s}^2kg}</m>. Since there is an equal sign, this implies that the base units of either side of the equal sign must be the same. If they are not, then we have made a mistake in our derivation of the escape speed. We can perform a unit analysis to determine if we have the same base units for each side of the equal sign.
+Here, <m>G</m> represents the universal gravitational constant with units <m>\frac{\text{m}^3}{\text{s}^2\text{kg}}</m>. Since there is an equal sign, this implies that the base units of either side of the equal sign must be the same. If they are not, then we have made a mistake in our derivation of the escape speed. We can perform a unit analysis to determine if we have the same base units for each side of the equal sign.
 </p>
 
 <p>
@@ -70,18 +88,31 @@ Here, <m>G</m> represents the universal gravitational constant with units <m>\fr
 </p>
 
 <p>
-We can see that the physical quantities under the square root indeed have base units of [L] divided by a time [T] and so our equation holds true.  Notice that we have followed the general sensemaking steps from <xref ref="fig_sensemaking"></xref>: we chose a strategy (checking units), determined what units we <em>should</em> get, found the units we <em>actually</em> have, and compared the two to see that they are the same!
+We can see that the physical quantities under the square root indeed have base units of [L] divided by a time [T] and so our equation holds true.  Observe that we followed the sensemaking steps outlined above: we chose a strategy (checking units), determined what units we <em>should</em> get, found the units we <em>actually</em> have, and compared the two to see that they are the same!
 </p>
 
+</example>
+
+<heuristic>
+	<title>Check Numbers</title>
+	<statement>
+		<p>For any numerical value (with units), you want to have a sense for how reasonable the value is given numerical values for other (possibly related) contexts with the same units.</p>
+	</statement>
+</heuristic>
+
+<example>
+<title>How to Check Numbers</title>
+<p>Consider the example from the start of this section, where you measured the length of an object in a physics lab to be 17.4 cm.  You may want to compare this number to the length of other objects that you might expect to find in a physics lab.  For example, you might expect that many objects in a physics lab can be held in one hand; you would then want to compare the 17.4 cm measurement to the size of a human hand to evaluate its reasonableness.  The search term "human hand size" results in a measurement of between 6.8 and 7.6 inches, which you might approximate to about 7 inches<fn>when checking numbers, you do not need to be precise, just approximate</fn>.  Converting this 7 inches to SI units gives approximately 17.8 cm.  This is very close to the object you measured in the lab, so it seems like this measurement was pretty reasonable!</p>
+<p>You might be asking yourself: what would an <em>unreasonable</em> answer have looked like?  Perhaps your measurement had been 174 cm instead of 17.4 cm.  This is only about ten times bigger, and still seems like a reasonable measurement for a physics lab (something about the height of a person).  On the other hand, measuring something like 17.4 km would be fairly unreasonable for an ordinary physics lab: 100,000 times bigger than a person's hand!</p>
 </example>
 
 
 
 
 	<exercises>
-	<title>Exercises</title>
+	<title>Units Exercises</title>
 
-			<exercise>
+			<exercise xml:id="x_identifying-units">
 			<title>Practice Identifying Units</title>
 			  <p>Below is a list of symbols we commonly use in physics to represent physical quantities.  For each symbol, indicate the units you would expect for the corresponding quantity.</p>
 				<ol>
@@ -93,13 +124,44 @@ We can see that the physical quantities under the square root indeed have base u
 				<li><m>A</m> (area)</li>
 				</ol>
 			</exercise>
+			
 			<exercise>
 			<title>Practice Checking Units</title>
-			  <p>Your friend has developed a new engine that creates carbon dioxide gas.  Your friend shows you an equation they created relating the volume of gas created (<m>V</m>) to the width of the engine (<m>w</m>), the amount of time the engine has been running (<m>\Delta t</m>), and the mass of a single molecule of carbon dioxide (<m>M</m>): <m>V = k\frac{tw^2}{M}</m>.  Use what you know about the other symbols in the problem to determine the units of <m>k</m>.</p>
+			  <p>Your friend has developed a new engine that creates carbon dioxide gas.  Your friend shows you an equation they created relating the volume of gas created (<m>V</m>) to the width of the engine (<m>w</m>), the amount of time the engine has been running (<m>\Delta t</m>), and the mass of a single molecule of carbon dioxide (<m>M</m>): <m>V = k\frac{w^2\Delta t}{M}</m>.  Use what you know about the other symbols in the problem to determine the units of <m>k</m>.</p>
 			</exercise>
 			<exercise>
 			<title>Practice Identifying an Error with Units</title>
 			  <p>While looking through a mathematics textbook, you come across the following equation for the surface area of a cylinder: <m>A = 2\pi rh^2 + 2\pi r^2</m>.  You suspect this equation must have a mistake in it.  How can you use units to tell what the mistake is?  How could you use units to <em>fix</em> the mistake?</p>
+			</exercise>
+			
+		</exercises>
+		
+			<exercises>
+	<title>Numbers Exercises</title>
+
+			<exercise xml:id="x_identifying-numbers">
+			<title>Practice Identifying Numbers</title>
+			  <p>Below is a list of numbers with units.  For each number, find a real-world object or system with a measurement that is reasonably close<fn><m>\mu</m> is the symbol for the prefix micro-; you can search for how big it is</fn>.</p>
+				<ol>
+				<li>900,000 kg</li>
+				<li><m>25 \text{ } \mu\text{m}</m></li>
+				<li><m>3.2 \times 10^7 \text{ s}</m></li>
+				<li>110 m</li>
+				<li>60 mg</li>
+				<li>0.3 s</li>
+				</ol>
+			</exercise>
+			<exercise>
+			<title>Practice Checking Numbers and Identifying Errors</title>
+			  <p>Imagine that you came upon the following numbers while reading an article.  Try to identify whether or not each number is reasonable <term>without</term> directly looking up the quantity in question.</p>
+				<ol>
+				<li>It takes light around 8.5 minutes to reach Earth from the Sun</li>
+				<li>A semitruck was declared to be overloaded at a mass of 5000 kg</li>
+				<li>The distance from the Earth to the Moon is <m>384\times10^6\text{ }\mu</m>m.</li>
+				<li>The mass of a pea is 0.2 g</li>
+				<li>An Olympic marathon is 42 km</li>
+				<li>An Orca can hold its breath underwater for 10,000 s</li>
+				</ol>
 			</exercise>
 			
 		</exercises>

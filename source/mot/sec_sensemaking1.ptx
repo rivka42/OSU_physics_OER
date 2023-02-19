@@ -1,25 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_sensemaking1" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Sensemaking in Physics</title>
-  <introduction>
+<section xml:id="sec_covariation" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Covariational Sensemaking</title>
 	
-    <p>
-     Perhaps the most important aspect of problem solving in physics is making sense of your answer.  Practice making sense of answers to physics problems by identifying the error in each of the following exercises.
+    <p>You have previously learned how to make sense of both units and numbers in <xref ref="sec_units"/>.  Perhaps the most powerful type of physics sensemaking is <em>symbolic</em>, since so much of physics is concerned with symbolic equations.  The most general way to make sense of a symbolic equation is with covariational reasoning.
     </p>
 		
-		  </introduction>
+		<heuristic>
+	<title>Covariational Reasoning</title>
+	<statement>
+		<p><term>Covariational Reasoning</term>, or <term>Covariation</term>, involves examining the relationship between two (or more) quantities to see how they are changing together<fn>"co" meaning together and "variation" meaning changing</fn>.  The objective is to state <em>how</em> the quantities are related and <em>why</em> that relationship makes sense.</p>
+	</statement>
+</heuristic>
+
+<p>When you use covariational reasoning, continue to follow the sensemaking steps you saw in <xref ref="fig_sensemaking"/>.  In particular, you want to know both what <em>should</em> be true physically<fn>often, drawing a picture or a graph can help your physical reasoning</fn> and what the equation actually says.  As an example, consider the equation for the area of a circle in terms of its radius: <m>A_{circle} = \pi r^2</m>.  Thinking physically first, you might think about all the various circles you have drawn or seen.  You might even draw a few circles with different radii to see how they behave.  Together, physical reasoning should tell you that increasing the radius of a circle will also lead to an increase in the area, since radius and area are both measures of the size of a circle.  Examining the equation next, <m>A_{circle}</m> clearly <em>depends on</em> <m>r</m>; in fact, increasing <m>r</m> leads to an <em>increase</em> in <m>A_{circle}</m>.  In this instance, the physical reasoning and the equation agree with each other.  You can actually probably say a little more: the symbolic relationship is <em>quadratic</em>, so doubling <m>r</m> actually increases <m>A_{circle}</m> by a factor of four!   This agrees with the physical behavior of a circle because changing the radius changes the size of the circle in <em>all</em> directions!</p>
+
+<example>
+<title>How to Use Covariational Reasoning</title>
+<p>Consider the equation <m>\Delta x = v\Delta t</m>, rewritten from the definition of average velocity.  This equation relates <m>\Delta x</m> to two other quantities: velocity <m>v</m> and time <m>\Delta t</m>.  We can investigate each relationship with <m>\Delta x</m> separately by holding the other quantity constant.</p>
+<p>Physically, velocity is a measure of how fast something is traveling.  In general, a faster object with travel a greater distance in the same amount of time than a slower object: you might think about a race or a car chase.  On the other hand, two objects with the same speed can travel different distances if they travel for different times, and the more time spent traveling, the farther something will travel.  The equation agrees with both becasue <m>\Delta x</m> is the product of <m>v</m> and <m>\Delta t</m>.  If either <m>v</m> or <m>\Delta t</m> had been <em>divided</em> instead, we would have seen a different relationship.</p>
+</example>
+
 
 	<exercises>
-
+	<title>Practice Sensemaking</title>
+  <p>The statements below are incorrect.  For each statement, use a sensemaking strategy to determine why it is incorrect.</p>
 			<exercise>
-			  <p>Your friend has built a rocket and reports that it has a top speed of <m>v=700</m> m/s<m>^2</m>.</p>
+			  <p>Your friend has built a rocket and reports that it has a top speed of <m>v=700 \text{ m/s}^2</m>.</p>
+			</exercise>
+			<exercise>
+			  <p>The Wizard of Oz claims the volume of his balloon <m>V</m> is related to the temperature <m>T</m> by a constant <m>\alpha</m>: <m>V = \frac{\alpha}{T}</m>.</p>
 			</exercise>
 			<exercise>
    			<p>A car dealer claims that a certain new car has a mass of 4000 g.</p>
 			</exercise>
 			<exercise>
-			  <p>A manufacturer claims that an office space with length x and width y can fit the following number of their cubicles:<m>N=5\frac{y}{x}</m>.</p>
+			  <p>A manufacturer claims that an office space with length <m>x</m> and width <m>y</m> can fit the following number of their cubicles: <m>N=5\frac{y}{x}</m>.</p>
 			</exercise>
 			
 		</exercises>

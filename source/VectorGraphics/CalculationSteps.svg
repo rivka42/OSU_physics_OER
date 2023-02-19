@@ -9,14 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="335.79349mm"
+   width="350mm"
    height="59.95295mm"
-   viewBox="0 0 335.79348 59.952949"
+   viewBox="0 0 349.99999 59.952949"
    version="1.1"
    id="svg5"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="SolutionSteps.svg"
-   inkscape:export-filename="C:\Users\HP\OER\source\VectorGraphics\SolutionSteps.png"
+   sodipodi:docname="CalculationSteps.svg"
+   inkscape:export-filename="C:\Users\HP\OER\source\VectorGraphics\CalculationSteps.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,7 +46,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.5"
-     inkscape:cx="739.54437"
+     inkscape:cx="35.54437"
      inkscape:cy="-111.16942"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
@@ -693,7 +693,7 @@
            id="tspan1792"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.26458299"
            x="-4.3673515"
-           y="30.801781">Calculating an Unknown Quantity</tspan></text>
+           y="30.801781">2. Calculating an Unknown Quantity</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:8.46667004px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
@@ -704,26 +704,26 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667004px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.26458299"
            x="-28.055561"
            y="46.130821"
-           id="tspan1301">1. <tspan
+           id="tspan1301">2a. <tspan
    style="font-weight:bold"
    id="tspan1328">Represent principles</tspan> – identify relevant concepts, laws, or definitions.  </tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667004px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.26458299"
            x="-28.055561"
            y="56.959629"
-           id="tspan1362">2. <tspan
+           id="tspan964">2b. <tspan
    style="font-weight:bold"
-   id="tspan1330">Find unknown(s) symbolically</tspan> – without numbers, find any</tspan><tspan
+   id="tspan1330">Find unknown(s) symbolically</tspan> – without numbers, find any unknown(s)</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667004px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.26458299"
            x="-28.055561"
            y="67.788437"
-           id="tspan1306">unknown(s) in terms of symbols representing known quantities.  </tspan><tspan
+           id="tspan970">in terms of symbols representing known quantities.  </tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667004px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.26458299"
            x="-28.055561"
            y="78.580978"
-           id="tspan1364">3. <tspan
+           id="tspan1364">2c. <tspan
    style="font-weight:bold"
    id="tspan1332">Plug in numbers</tspan> – plug numbers (with units) into your symbolic answer! </tspan></text>
     </g>

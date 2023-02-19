@@ -2,7 +2,7 @@
 
 <section xml:id="sec_what-is-motion" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>What is Motion?</title>
-  <introduction>
+
 	<p>In physics, we will use the term <em>motion</em> to refer to the movement of one or more objects through space.  When you are done with the activity above, click on Solution to see additional information about motion in physics.</p>
 	
 	<p>The study of the motion of objects comprises a field of physics called mechanics.  Mechanics is an expansive field that includes many related ideas, including forces, energy, and momentum.  We divide mechanics into two branches.  First, we will study <alert>how</alert> objects move through space (this is sometimes known as kinematics, but we will typically just use the word motion).  Later, we will study <alert>why</alert> objects move (this is called dynamics).</p>
@@ -21,7 +21,6 @@
 
 
 		
-  </introduction>
   
 
 	
