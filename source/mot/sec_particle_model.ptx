@@ -2,7 +2,14 @@
 
 <section xml:id="sec_particle_model" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Particle Model</title>
-  <introduction>
+
+	<figure xml:id="mot_vb-particle-model">
+		  <caption>Introducing the particle model.</caption>
+      <video youtube="XHKygCac7tg"></video>
+    </figure>
+
+
+
  <p>
 The motion of real objects is often extremely complicated.  For example, when you toss a coin, it will likely rotate so that different parts of the coin move at different speeds, and in different directions. 
 </p>
@@ -38,7 +45,7 @@ The particle model is almost always useful because it is extremely simple (like 
 
 		
 		
-  </introduction>
+
 	
 		
 	<exercises>
