@@ -4,18 +4,25 @@
   <title>Using Integrals in Physics</title>
 		
 		<figure xml:id="mot_vb-valc1">
-		  <caption>Defining velocity and speed.</caption>
+		  <caption>Using integrals in physics.</caption>
       <video youtube="26vbUjdFpBk"></video>
     </figure>
 		
 	
-	<p>{Add definitions and text!}</p>
+	<p>A strategy you will use to solve a variety of physics problems can be thought of as a sequence of steps called <term>Chop-Multiply-Add</term>.  You can see these steps outlined in the video above for one example.  Below is another example: if you know an object's acceleration as a function of time and you want to find the change in velocity between some initial and final time.</p>
+	
+	<p><term>Chop:</term> You can start by chopping up a time interval into small pieces.  Each piece of time is represented by the expression <m>dt</m>, where the <m>d</m> indicates that the actual amount of time is <em>infinitesimally small</em>.</p>
+	
+	<p><term>Multiply:</term> You want to know about velocity, but you know about acceleration.  Although you want <m>\Delta \vec{v}</m>, the change in velocity over a whole time interval, you can start by trying to find an infinitesimal change in velocity <m>d\vec{v}</m>.  By rewriting the definition of instantaneous acceleration as <m>d \vec{v} = \vec{a}(t) dt</m>, you can see that a way to get <m>d\vec{v}</m> is to <em>multiply</em> <m>\vec{a}(t)</m> and <m>dt</m>.</p>
+	
+		<p><term>Add:</term> Last, once you have the infinitesimal <m>d\vec{v}</m>, you need to <em>add</em> together every <m>d\vec{v}</m> over the full times of interest, which can be done with an integral: <m>\int_{v_i}^{v_f}d \vec{v} = \int_{t_i}^{t_f} \vec{a}(t) dt</m>.  The left hand side of this equation can be easily evaluated to give <m>\Delta \vec{v} = \int_{t_i}^{t_f} \vec{a}(t) dt</m>.</p>
+	
 
 	<exercises>
 
 			<exercise>
-			  <p>Look at the following equation for the position of an object: <m>x_f = x_i + \int_{t_i}^{t_f}v_x(t)dt</m>. </p>
-				<p>Why do we need an integral to find position?  Why can't we just use <m>x_f = x_i + v_x\Delta t</m>? </p>
+			  <p>The following two equations are both reasonable to write down: <m>\Delta \vec{r} = \int_{t_i}^{t_f}\vec{v}(t)dt</m> and <m>\Delta \vec{r}= \vec{v}\Delta t</m>. </p>
+				<p>What is the difference between them?  In what situations would you use the first equation?  In what situations would you use the second equation?</p>
 			</exercise>
 			
 		</exercises>

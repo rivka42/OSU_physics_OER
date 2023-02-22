@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_kinematics-2d" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Kinematics in Two Dimensions</title>
+  <title>Constant Acceleration - 2D</title>
 		
 		<figure xml:id="mot_vb-2dkin">
 		  <caption>Motion with constant acceleration in two dimensions.</caption>

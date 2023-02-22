@@ -21,6 +21,13 @@
 		<image source="RealworldSteps.png" width = "100%">
 			<description></description></image>
   </figure>	
+	
+	<p>Below is an example of using all of these steps to approach a Real-world Context.</p>
+	
+			<figure xml:id="mot_vb-rwc">
+		  <caption>An example of using the Real-world Context steps.</caption>
+      <video youtube="kJ9qrl0SrPI"></video>
+    </figure>
 		
 	<exercises>
 	<title>Practice</title>

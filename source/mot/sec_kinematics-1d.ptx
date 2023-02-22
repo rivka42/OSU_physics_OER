@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_kinematics-1d" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Kinematics in One Dimension</title>
+  <title>Constant Acceleration - 1D</title>
 		
 		<figure xml:id="mot_vb-1dkin">
 		  <caption>Motion with constant acceleration in one dimension.</caption>
