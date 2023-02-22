@@ -8,14 +8,14 @@
       <video youtube="iJoZIbjRrYA"></video>
     </figure>
 	
-<definition>
+<definition xml:id="def_position">
 	<title>Position</title>
 	<statement>
 		<p>The <term>position</term> of an object describes the location of that object relative to some origin as a vector quantity.</p>
 	</statement>
 </definition>
 
-<p>As described above, a position vector is always measured relative to some <term>origin</term> (a fixed location in space) and using some set of <term>coordinates</term>.  In general, position is three-dimensional, but for now, we will stick to two dimensions.  As with any vector, position can be written either by giving a magnitude and a direction, or by writing it in terms of components: <m>\vec{r}= r_x\hat{x} + r_y \hat{y}</m>.  A graphical representation of such a vector is shown below.</p>
+<p>As described above, a position vector is always measured relative to some <term>origin</term> (a fixed location in space) and using some set of <term>coordinates</term>.  In general, position is three-dimensional, but for now, we will stick to two dimensions.  As with any vector, position can be written either by giving a magnitude and a direction, or by writing it in terms of components: <m>\vec{r}= r_x\hat{x} + r_y \hat{y}</m>.  A graphical representation of such a vector is shown below.  Various letters can be used for position, including the generic <m>\vec{r}</m> used above and the generic Cartesian letters <m>\vec{x}</m>, <m>\vec{y}</m>, and <m>\vec{z}</m>.</p>
 
 <aside>
 <title>Coordinates</title>
@@ -52,7 +52,7 @@ You will start by using the Cartesian coordinates that are probably familiar fro
 			  <p>Write each position vector in rectangular form like <m>\vec{r} = r_x\hat{x} + r_y\hat{y}</m>.</p>
 			</li>
 			<li>
-			  <p>Look up any appropriate numbers and estimate any necessary angles to find an actual, numerical position vector for each point.</p>
+			  <p>Look up any appropriate numbers and estimate any necessary angles to find a numerical position vector for each point.</p>
 			</li>
 			</ol>
 			</p>

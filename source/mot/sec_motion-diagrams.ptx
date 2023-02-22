@@ -8,14 +8,18 @@
      <video youtube="_nO9GlsTdfU"></video>
   </figure>
 	
-		<lemma>
+		<lemma xml:id="r_motion-diagram">
 			<title>Motion Diagram</title>
 			<statement>
-				<p>A <term>motion diagram</term> is a physical representation in which an object is represented at different <em>positions</em> that are separated by <em>equal time intervals</em>.</p>
+				<p>A <term>motion diagram</term> is a physical representation in which an object is represented at different <em>instants in time</em> that are separated by <em>equal time intervals</em>.  For each instant, you should draw a vector representing the object's <term>position</term>.</p>
 			</statement>
 		</lemma>
 		
-		<p>Practice making a full motion diagram in the exercises below.</p>
+		<p>You will encounter many different representations in physics.  In fact, you have already seen several other representations, including numerical values, symbolic equations, and even verbal descriptions!  Diagrams, graphs, and other visual representations are especially common and useful, as they give you alternative ways to display information in a way that is often compact, simple, and useful.</p>
+		
+		<!--
+		<p>Practice making a motion diagram of your own in the exercises below.</p>
+		-->
 
 	<exercises>
 	<title>Practice Drawing a Motion Diagram</title>
@@ -28,7 +32,12 @@
       </figure>
 
 			<exercise xml:id="x_md-ball">
+			<statement>
 			  <p>Describe the motion of the ball <em>between the green markers</em> in words.  Use complete sentences.​  Did you make any assumptions or idealizations about the ball's motion? </p>
+				</statement>
+				<hint>
+				<p>When you make an assumption or idealization, remember to follow the steps in <xref ref="fig_assumptions"/>.</p>
+				</hint>
 			</exercise>
 			<exercise>
 			<statement>

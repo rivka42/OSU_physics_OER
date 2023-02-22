@@ -1,25 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_what-is-motion" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>What is Motion?</title>
-
-	<p>In physics, we will use the term <em>motion</em> to refer to the movement of one or more objects through space.  When you are done with the activity above, click on Solution to see additional information about motion in physics.</p>
+  <title>Motion and Physics</title>
 	
-	<p>The study of the motion of objects comprises a field of physics called mechanics.  Mechanics is an expansive field that includes many related ideas, including forces, energy, and momentum.  We divide mechanics into two branches.  First, we will study <alert>how</alert> objects move through space (this is sometimes known as kinematics, but we will typically just use the word motion).  Later, we will study <alert>why</alert> objects move (this is called dynamics).</p>
+	<p>You can find many different definitions for the subject of physics.  One way to define physics is by listing the <em>aspects of the real world</em> that physics aims to describe.  Such aspects typically include motion, forces, and energy, along with many other topics that may or may not fall within those three terms.  You will start by studying <em>motion</em>: the movement of one or more objects through space.</p>
+	
+	<aside>
+	<title>Mechanics</title>
+	<p>The study of the motion is sometimes called mechanics.  Mechanics is an expansive name that itself includes many related ideas, including forces, energy, and momentum.  You will study two branches of mechanics: first, you will study <alert>how</alert> objects move through space (sometimes called kinematics); then you will study <alert>why</alert> objects move (sometimes called dynamics).</p>
+	</aside>
+	
+	<p>Another way to define physics is as a collection of practices.  Physics is a systematic way of looking at the world that involves building <em>quantitative models</em> and <em>mechanistic explanations</em> for why real-world objects and systems behave the way they do.  Eventually, such models and explanations will be rich and detailed, including one or more systems, assumptions or idealizations, graphs or diagrams, laws and equations, and calculations or estimates.  You will start with a core idea that will inform your future work: how to construct an <term>explanation</term>.</p>
+
+	  <figure xml:id="fig_explanation">
+		 <caption>Steps to follow when giving an explanation.</caption>
+		<image source="ExplanationSteps.png" width = "85%">
+			<description>Explanations in Physics.  1. Principles – what fundamental physics concepts, laws, or definitions did you start with?  2. Reasoning – explain all the reasoning steps to go from your starting point to your conclusion.  3. Conclusion – state your conclusion clearly.</description></image>
+  </figure>	
 	
 				<exercises>
-				<title>Introductory Exercise</title>
+				<title>Introductory Exercises</title>
 					<exercise xml:id="x_intro-motion">
 									<title>Explore What You Already Know about Motion</title>
 						<statement>
-							<p>Find a blank sheet of paper and make a list of everything you know about motion.  Your list can include anything you want: words, symbols, equations, pictures, experiences, questions, <em>etc.</em>  Try to base what you write as much on your everyday personal experience as on any previous formal instruction on motion.</p>
+							<p>Make a list of everything you know about motion.  Your list can include anything you want: words, symbols, equations, pictures, experiences, questions, <em>etc.</em>  Try to base what you write as much on your everyday personal experience as on any previous formal instruction on motion.  (Your list can be as long as you want, but you might aim to fill up a decent part of one sheet of paper.)</p>
 						</statement>
 					</exercise>
+					
+					<exercise xml:id="x_intro-explanation">
+									<title>Explanation</title>
+						<statement>
+							<p>ADD ME</p>
+						</statement>
+					</exercise>
+					
 				</exercises>
 
 
 
-
+<p></p>
 		
   
 

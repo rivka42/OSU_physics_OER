@@ -2,6 +2,8 @@
 
 <chapter xml:id="ch_energy" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Energy</title>
+	
+	<introduction>
 
     <p> In this chapter we will focus on the topics of energy including work and kinetic energy. Then we will move onto discussing potential energy and conservation of energy in the following chapter.
     </p>
@@ -19,6 +21,8 @@
 </ol>
 
 </p>
+
+</introduction>
 
 
 

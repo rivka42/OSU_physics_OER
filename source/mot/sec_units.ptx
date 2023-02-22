@@ -36,6 +36,7 @@ Units for physical quantities can be divided into two categories: base units and
 <p>
 <term>Mass:</term> For many years, one kilogram was the mass of a polished platinum-iridium cylinder, the international standard kilogram, which is stored in Paris, France.  Since 2019, the kilogram has been defined even more precisely using the above definitions for length and time along with a fundamental quantum mechanical property of the universe called Planck's constant.
 </p>
+
 <figure xml:id="mot_car-1">
 		 <caption>An image of the kilogram standard held in Paris, France.</caption>
 		<image source="Le Grand K-1.png" width = "50%">
@@ -52,7 +53,7 @@ Units for physical quantities can be divided into two categories: base units and
 			<description>Physics Sensemaking.  1. Choose a sensemaking strategy.  2a. What should this strategy say about the context?  2b. Give a physical reason for why it says this.  3a. What does your answer actually say?  3b. Show what it says explicitly. 4. Compare what your answer actually says and what it should say!</description></image>
   </figure>	
 
-<heuristic>
+<heuristic xml:id="sm_units">
 	<title>Check Units</title>
 	<statement>
 		<p>For any equation, including at any point while you are solving a problem, you should be able to <term>check the units</term> to make sure the units accurately describe all relevant quantities.</p>
@@ -93,7 +94,7 @@ We can see that the physical quantities under the square root indeed have base u
 
 </example>
 
-<heuristic>
+<heuristic xml:id="sm_numbers">
 	<title>Check Numbers</title>
 	<statement>
 		<p>For any numerical value (with units), you want to have a sense for how reasonable the value is given numerical values for other (possibly related) contexts with the same units.</p>

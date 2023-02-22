@@ -25,8 +25,9 @@
 </ol>
 
 		</introduction>
-	
+	<!--
 	<xi:include href="./mot/sec_what-is-physics.ptx" />
+	-->
   <xi:include href="./mot/sec_what-is-motion.ptx" />
   <xi:include href="./mot/sec_particle_model.ptx" />
 	<xi:include href="./mot/sec_position.ptx" />

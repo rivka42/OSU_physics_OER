@@ -8,14 +8,14 @@
       <video youtube="Uc5fC3HN2eQ"></video>
     </figure>
 	
-<definition>
+<definition xml:id="def_displacement">
 	<title>Displacement</title>
 	<statement>
 		<p>The <term>displacement</term> of an object describes the change in that object's position: <m>\Delta \vec{r} = \vec{r}_f - \vec{r}_i</m>.</p>
 	</statement>
 </definition>
 	
-	<p>Suppose an object is initially located at position <m>\vec{r}_0</m> at some initial time <m>t_0</m> and the object is moving through space over an interval of time <m>\Delta t = t_f - t_0</m>. The symbol <m>\Delta</m> (the capital Greek letter "Delta") represents a change in a quantity.  The time interval <m>\Delta t</m> measures the elapsed time as the object moves from an initial position <m>\vec{r}_0</m>  at initial time <m>t_0</m> to a final position <m>\vec{r}_0</m> and some final time <m>t_f</m>. The vector <m>\Delta \vec{r}</m> is called the displacement of the object over the time interval <m>\Delta t</m>.  Here, we have used the subscript 0 to refer to some initial time: in some cases, we will instead use the subscript <m>o</m> ("naught") or the subscript <m>i</m> (for "initial") instead of 0.</p>
+	<p>Suppose an object is initially located at position <m>\vec{r}_0</m> at some initial time <m>t_0</m> and the object is moving through space over an interval of time <m>\Delta t = t_f - t_0</m>. The symbol <m>\Delta</m> (the capital Greek letter "Delta") represents a change in a quantity.  The time interval <m>\Delta t</m> measures the elapsed time as the object moves from an initial position <m>\vec{r}_0</m>  at initial time <m>t_0</m> to a final position <m>\vec{r}_0</m> and some final time <m>t_f</m>. The vector <m>\Delta \vec{r}</m> is called the displacement of the object over the time interval <m>\Delta t</m>.  Here, the subscript 0 refers to some initial time: in some cases, the subscript <m>o</m> ("naught") or <m>i</m> (for "initial") is used instead of 0.</p>
 	
 	<aside>
 <title>Subscripts</title>

@@ -7,7 +7,7 @@
 	  We now have two major quantities for describing motion: <em>position</em> and <em>velocity</em>.  We want to make sure both kinds of quantities can be encoded in our <em>motion diagrams</em>.
 	</introduction>
 	
-			<lemma>
+			<lemma xml:id="rep_motion-diagrams-velocity">
 			<title>Motion Diagram</title>
 			<statement>
 				<p>A <term>motion diagram</term> is a physical representation in which an object is represented at different <em>positions</em> that are separated by <em>equal time intervals</em>.  For each instant, we can draw and label a vector indicating the velocity of our object of interest.</p>
@@ -40,7 +40,7 @@
 	<p>At each point on your diagram, add a vector representing the instantaneous velocity at that instant.  You should be able to explain how you used the position vectors you have already drawn to determine both the magnitude and the direction of your new velocity vectors.</p>
 	</exercise>
     <p>
-      The strobe diagram below shows a ball moving from left to right.  A total of 1 s has passed between each successive dot.
+      <alert>Use the strobe diagram below for the remaining exercises.</alert>  The diagram shows a ball moving from left to right.  A total of 1 s has passed between each successive dot.  The distance between the left and right points is <m>12 \text{ m}</m>.
     </p>
 		<figure xml:id="mot_MotionA">
 		  <caption>A strobe diagram.</caption>
@@ -61,7 +61,7 @@
 			<exercise>
 			<title>Calculation</title>
 			<statement>
-			<p>If the distance between the first and last points is <m>d = 12 \text{ m}</m>, what is the average speed during the motion?</p>
+			<p>What is the average speed during the motion?</p>
 			</statement>
 			<hint>
 			<p>Recall the steps for performing a calculation from <xref ref="fig_calculation"></xref>.</p>
