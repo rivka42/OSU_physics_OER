@@ -58,7 +58,14 @@ You will start by using the Cartesian coordinates that are probably familiar fro
 			</p>
 			</exercise>
 		</exercises>
+		
+		<p>The State Vectors exercise above is a good example of a <term>calculation</term>.  When you are doing calculations in physics, you should follow the steps below.</p>
 
+		  <figure xml:id="fig_calculation">
+		 <caption>Steps to follow when performing a calculation.</caption>
+		<image source="CalculationSteps.png" width = "85%">
+			<description>2. Calculating an Unknown Quantity.  2a. Represent principles – identify relevant concepts, laws, or definitions.  2b. Find unknown(s) symbolically – without numbers, find any unknown(s) in terms of symbols representing known quantities.  2c. Plug in numbers – plug numbers (with units) into your symbolic answer! </description></image>
+  </figure>	
 	
 </section>
 

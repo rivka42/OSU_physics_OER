@@ -8,7 +8,7 @@
 		</p>
 		
 <p>
-In science, we use the SI unit system (le Systéme Internationale d'Unités), commonly referred to as the metric system<fn>In the united States, we have an entire <url href="https://www.nist.gov/">government agency</url> dedicated to upholding standards of measurement</fn>.  Within the metric system, all quantities will be given in terms of base units, such as the three below, which are typically written using non-italic letters<fn><url href="https://en.wikipedia.org/wiki/Metric_prefix">prefixes</url> can be used as an easy way to express units that are substantially different</fn>.
+In science, we use the SI unit system (le Systéme Internationale d'Unités), commonly referred to as the metric system<fn>In the united States, we have an entire <url href="https://www.nist.gov/" visual="nist.gov">government agency</url> dedicated to upholding standards of measurement</fn>.  Within the metric system, all quantities will be given in terms of base units, such as the three below, which are typically written using non-italic letters<fn><url href="https://en.wikipedia.org/wiki/Metric_prefix" visual="wikipedia.org/wiki/Metric_prefix">prefixes</url> can be used as an easy way to express units that are substantially different</fn>.
     </p>
 		
 <historical>
@@ -37,7 +37,7 @@ Units for physical quantities can be divided into two categories: base units and
 <term>Mass:</term> For many years, one kilogram was the mass of a polished platinum-iridium cylinder, the international standard kilogram, which is stored in Paris, France.  Since 2019, the kilogram has been defined even more precisely using the above definitions for length and time along with a fundamental quantum mechanical property of the universe called Planck's constant.
 </p>
 
-<figure xml:id="mot_car-1">
+<figure xml:id="fig_kilogram">
 		 <caption>An image of the kilogram standard held in Paris, France.</caption>
 		<image source="Le Grand K-1.png" width = "50%">
 			<description>A small cylindrical object inside a glass container.</description></image>

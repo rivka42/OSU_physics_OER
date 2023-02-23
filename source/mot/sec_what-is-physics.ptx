@@ -26,11 +26,7 @@
 			<description>1. Understand and plan.  1a. Understand the problem – identify quantities by symbol and number.  1b. Identify Assumptions – identify importan simplifications and assumptions.  1c. Represent physically – draw and label one or more appropriate diagrams and/or graphs that might help you solve the problem.</description></image>
   </figure>	
 	
-		  <figure xml:id="fig_calculation">
-		 <caption>Steps to follow when performing a calculation.</caption>
-		<image source="CalculationSteps.png" width = "85%">
-			<description>2. Calculating an Unknown Quantity.  2a. Represent principles – identify relevant concepts, laws, or definitions.  2b. Find unknown(s) symbolically – without numbers, find any unknown(s) in terms of symbols representing known quantities.  2c. Plug in numbers – plug numbers (with units) into your symbolic answer! </description></image>
-  </figure>	
+
 	
 
 
