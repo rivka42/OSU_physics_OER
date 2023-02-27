@@ -24,18 +24,34 @@
 	<p>In contrast, the Law of Inertia states something fundamental about the behavior of objects: that an object <alert>does not</alert> have a natural state of rest.</p>
 	</historical>
 	
-	<p>The term inertia--more commonly referred to as <term>mass</term>--is the capacity of an object to resist any change to its motion.  The more mass something has, the more net external force it is going to take to change the object's motion.</p>
+	<p>The term inertia&#8212;more commonly referred to as <term>mass</term>&#8212;is the capacity of an object to resist any change to its motion.  The more mass something has, the more net external force it is going to take to change the object's motion.</p>
 	
 		<definition xml:id="def_mass">
 	<title>Mass</title>
 	<statement>
-	<p>The <term>mass</term> on an object, typically represented using <m>m</m>, is the capacity of that object to resist changes to its motion.</p>
+	<p>The <term>mass</term> of an object, typically represented by <m>m</m>, is the capacity of that object to resist changes to its motion<fn>as you will see in the next section, mass can be operationally defined as the amount of net force per acceleration required to speed up or slow down the object</fn>.</p>
 	</statement>
 	</definition>
 		
-    <p>
-      <em>Exercise:</em>  {Need a good one!}
-    </p>
+	<exercises>
+					<title>Explanation Practice</title>
+		<p>For each of the following contexts, predict whether or not you expect the system's velocity to change.  Explain your reasoning using the steps from <xref ref="fig_explanation"></xref>.  Clearly state any assumptions you make about each context!</p>
+			<exercise xml:id="x_inertia">
+			  <p>You are riding your bicycle down a flat street (not pedaling).  <alert>System</alert>: you and the bicycle.</p>
+			</exercise>
+			<exercise>
+			  <p>You are driving down the highway in your car, obeying the speed limit.  <alert>System</alert>: you and your car.</p>
+			</exercise>
+			<exercise>
+			  <p>A heavy book sits on a table in your house.  <alert>System</alert>: the book.</p>
+			</exercise>
+			<exercise>
+			  <p>A fully loaded delivery truck is parked on an icy hill when it's emergency brake fails.  <alert>System</alert>: the delivery truck.</p>
+			</exercise>						
+			<exercise>
+			  <p>A spaceship with its engines off is traveling from Mars back home to Earth.  <alert>System</alert>: the spaceship.</p>
+			</exercise>
+		</exercises>
   
 
 	

@@ -2,10 +2,6 @@
 
 <section xml:id="sec_gravity" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Gravitational Force</title>
-  <introduction>
-    <p>
-      Start by watching the video briefing on the gravitational force.
-    </p>
 		
 		<figure xml:id="for_vb-grav1">
 		<caption>Introducing the gravitational force.</caption>
@@ -13,21 +9,33 @@
       </video>
     </figure>
 		
-  </introduction>
+	<aside>
+	<title>Gravity acting on a system</title>
+	<p>In general, a system might contain multiple objects, each with its own mass.  For the purpose of finding the gravitational force on such a system, you can simply use the total mass of the system (by adding together the masses of all the objects in the system).  You can then assume the gravitational force acts on the system's <term>center of mass</term>, a term you will define when you begin learning about rotational motion.</p>
+	</aside>
 	
 		<definition>
 	<title>The Gravitational Force</title>
 	<statement>
-	<p>The <term>gravitational force</term> on an object with mass <m>m_A</m> in the presence of a gravitational field <m>\vec{g}_B</m> is: <m>\vec{F}^{G}_{AB} = m_A\vec{g}_B</m>.</p>
+	<p>The <term>gravitational force</term> on a system with mass <m>m_A</m> in the presence of a gravitational field <m>\vec{g}_B</m> is: <m>\vec{F}^{G}_{AB} = m_A\vec{g}_B</m>.</p>
 	</statement>
 	</definition>
+	
+	<p>The gravitational force uses a form that is common in physics: a product of a property of the system <em>feeling</em> the force (here, mass <m>m_A</m>) and a property of the system <em>exerting</em> the force (here, gravitational field <m>\vec{g}_B</m>).  This aligns with the general model for forces, which always involves <em>two</em> systems!</p>
+	
+
 		
 			<exercises>
-			<title>Summarize What You Learned - Gravitational Field</title>
 			<exercise xml:id="x_summarize-grav-field">
-			  <p>At the end of the video, we ask you to think about what kind of quantity the gravitational field is.  Take a moment to think about the name, symbol, and equation.  Then, write down 2-3 things you think might be true for the gravitational field.</p>
+			<title>Summarize What You Learned - Gravitational Field</title>
+			  <p>At the end of the video, you are asked to think about what kind of quantity the gravitational field is.  Take a moment to think about the name, symbol, and equation.  Then, write down 2-3 things you think might be true for the gravitational field.</p>
 			</exercise>
-			<exercise>
+		<exercise xml:id="x_grav-alert">
+			<title>Sensemaking - Equations</title>
+	<p>The equation for the gravitational force given above looks a lot like the Law of Motion: <m>\vec{F}_{net} = m\vec{a}</m>.  However, these two equations are not the same.  Identify at least two differences between the equations.</p>
+			</exercise>
+			<exercise xml:id="x_units-grav-field">
+			<title>Sensemaking - Units</title>
 			<statement>
 			<p>What are the units of the gravitational field?  What do you think the units mean here?</p>
 			</statement>
@@ -35,9 +43,17 @@
 			Either N/kg or m/s<m>^2</m>.
 			</answer>
 			</exercise>
+						<exercise xml:id="x_practice-grav-field">
+			<title>Practice - Gravitational Field</title>
+			<statement>
+			<p>Your friend claims they have a gravitational field generator that can create a gravitational field throughout their physics lab.  You decide to test it by placing a 12 kg object in the lab and measuring a gravitational force of 7.8 N acting on the object.  What is the magnitude of the gravitational field your friend has created?</p>
+			</statement>
+			<answer>
+			0.65 N/kg
+			</answer>
+			</exercise>
 		</exercises>
-  
-
+ 
 	
 </section>
 

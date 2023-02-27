@@ -2,46 +2,33 @@
 
 <section xml:id="sec_gravity-near-earth" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Gravity Near the Surface of the Earth</title>
-  <introduction>
-    <p>
-      Start by watching the video briefing on the gravitational field.
-    </p>
-		
-		<figure xml:id="for_vb-grav2">
-		<caption>Introducing the gravitational field.</caption>
-      <video youtube="XUrUBts_ivE">
-      </video>
-    </figure>
-		
-  </introduction>
 	
-	<definition>
-	<title>The Gravitational Field</title>
-	<statement>
-	<p>The <term>gravitational field</term> created by a spherical object with mass <m>m_B</m> is: <m>\vec{g}_{B} = \frac{GM_B}{r^2}(-\hat{r})</m>.</p>
-	</statement>
-	</definition>
-	
-		
-			<exercises>
-			<title>Practice with the Gravitational Field</title>
-			<exercise xml:id="x_practice-gravity">
-			  <p>At the end of the video, we introduced the Newtonian model for the gravitational field.  One common gravitational field we want to know is the field created by the Earth at the surface of the Earth.  Look up numerical facts about the size and mass of the Earth and use them to determine the magnitude of Earth's gravitational field at the surface of the Earth.</p>
-			</exercise>
-		<exercise>
-			  <p>In the previous question you found the magnitude of the Earth's gravitational field at the surface of the Earth.  Imagine that you wanted to move farther away from the center of the Earth (for example, by climbing a mountain) so that the Earth's gravitational field decreases by about 1%.  How far up do you think you would need to move?  Explain your thinking.</p>
-			</exercise>
-			</exercises>
-			
-		<p>
-      Now watch the video briefing on the gravitational force near the surface of the Earth.
-    </p>
-		
-		<figure xml:id="for_vb-grav3">
+			<figure xml:id="for_vb-grav3">
 		        <caption>The gravitational force near the surface of the Earth.</caption>
       <video youtube="1gDZC8lOaKI">
       </video>
     </figure>
+	
+	<assumption xml:id="a_near-earth">
+	<title>Near the Surface of the Earth</title>
+	<statement>
+		<p>The gravitational field due to the Earth near the surface of the Earth is uniform: <m>\vec{g} = g (-\hat{y})</m>, where <m>g = 9.81 \text{ m/s}^2 \approx 10 \text{ m/s}^2</m>.</p>
+	</statement>
+</assumption>
+	
+	<p>How does this assumption hold up to the questions in <xref ref="fig_assumptions"></xref>?  It certainly looks useful, since the magnitude <m>g</m> looks like a much easier expression than <m>\frac{GM_B}{r^2}</m>.  Most of the physics you will think about takes place near the surface of the Earth, so it is going to be reasonable much of the time.  The most obvious limitation is how far you are from the surface of the Earth, which will limit how accurate the approximation is.  Additionally, if you are near the surface of an object other than Earth, the gravitational field would still be uniform, but you would need to calculate the magnitude of the field for that object.</p>
+		
+			<exercises>
+			<exercise xml:id="x_gravity-directions">
+						<title>Sensemaking - Direction</title>
+			  <p>How is it possible that both <m>-\hat{y}</m> and <m>\-\hat{r}</m> can both be reasonable directions for the Earth's gravitational field.</p>
+			</exercise>
+		<exercise>
+		<title>Real-world Context - Mars</title>
+			  <p>You are going to be the first person on Mars, and you want to know how the gravity on Mars compares to the gravity on Earth.  Calculate the gravitational field near the surface on Mars and how far from the surface you can get before the gravitational field changes by about 0.1%.</p>
+			</exercise>
+			</exercises>
+			
   
 
 	

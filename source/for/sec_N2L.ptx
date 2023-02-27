@@ -9,6 +9,12 @@
       <video youtube="JXxc0o1iAH4">      </video>
     </figure>
 
+	<definition xml:id="def_net-force">
+	<title>Net force</title>
+	<statement>
+	<p>The <term>net force</term> on an object or system is equal to the (vector) sum of all forces acting on it: <m>\vec{F}_{net} = \sum_i \vec{F}_i = \vec{F}_1 + \vec{F}_2 + \vec{F}_3 + \dots</m>.</p>
+	</statement>
+	</definition>
 	
 		<!-- From Kathy's website -->
 	<principle xml:id="law_N2L">
@@ -18,30 +24,28 @@
 	</statement>
 	</principle>
 	
-	<definition xml:id="def_net-force">
-	<title>Net force</title>
-	<statement>
-	<p>The <term>net force</term> on an object or system is equal to the (vector) sum of all forces acting on it: <m>\vec{F}_{net} = \sum_i \vec{F}_i</m>.</p>
-	</statement>
-	</definition>
+
 	
 			<exercises>
-			<title>Summarize What You Learned - Law of Motion</title>
-
 		   <exercise xml:id="x_summarize-n2l">
-			  <p>In the video briefing, you learned a relationship between force and acceleration. This is a Building Block (and a very important one, at that). Write a 2-3 sentence description of what this symbolic equation says in your own words.</p>
+			<title>Summarize What You Learned - Law of Motion</title>
+			  <p>Above, you learned a relationship between force and acceleration.  Write a 2-3 sentence description of what this symbolic equation says in your own words.</p>
 			</exercise>
-			<exercise>
-			  <p>Using what you learned in the video, how would you write the units of a force (Newtons) in terms of other units you are familiar with? </p>
+			<exercise xml:id="x_force-units">
+			<title>Sensemaking - Units of Force</title>
+			  <p>Using what you learned above, how would you write the units of a force (Newtons) in terms of other units you are familiar with? </p>
 			</exercise>
-			</exercises>
-			<exercises>
 			<exercise xml:id="x_forces-driver">
-			<title>Net Force on a Driver</title>
-			  <p>A car’s maximum acceleration is about 6 m/s<m>^2</m>.  If the mass of the driver is about 80 kg, what is the magnitude of the net force exerted on the driver (in Newtons)?</p>
+			<title>Real-world Context: Net Force on a Driver</title>
+			<statement>
+			  <p>You are driving in an everyday car when you decide to hit the accelerator to make your car begin to move with its maximum acceleration.  Estimate the magnitude of the net force exerted on you, the driver.  Remember to use the Real-world Context steps from <xref ref="fig_realworld"></xref>.</p>
+				</statement>
+				<answer>
+				<p>For a driver with a mass of 80 kg and a car with a maximum acceleration of 6 m/s<m>^2</m>, the net force on the driver would be 480 N.</p>
+				</answer>
 			</exercise>
 				<exercise  xml:id="x_three-cars">
-				<title>Three Cars</title>
+				<title>Explanation - Three Cars</title>
 			  <p>Consider the following three situations: </p>
 				<ol marker="A">
 				<li>You are in a car when the speed limit changes from 35 mph to 45 mph.</li>

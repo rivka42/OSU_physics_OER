@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_gravitational-field" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Gravitational Field</title>
+
+		<figure xml:id="for_vb-grav2">
+		<caption>Introducing the gravitational field.</caption>
+      <video youtube="XUrUBts_ivE">
+      </video>
+    </figure>
+	
+	<definition>
+	<title>The Gravitational Field</title>
+	<statement>
+	<p>The <term>gravitational field</term> created by a spherical object<fn>if you are going to use this equation, you must assume your object has its mass distributed with spherical symmetry</fn> with mass <m>m_B</m> a distance <m>r</m> from its center is: <m>\vec{g}_{B} = \frac{GM_B}{r^2}(-\hat{r})</m>, where the universal gravitational constant <m>G = 6.67 \times 10^{-11}\frac{\text{m}^3}{\text{kgs}^2}</m>.</p>
+	</statement>
+	</definition>
+	
+	<p>Most gravitational fields you will study are created by objects that have their mass distributed with spherical symmetry, such as moons, planets, and stars.  Most such objects are, of course, not exactly spherical, but they are usually close enough that the approximation above is a very good one.  Of particular note in the expression above is the <alert>direction</alert> of the gravitational field: <m>-\hat{r}</m>.  Here, <m>\hat{r}</m> is the direction in which <m>r</m> increases, which points away from the center of the object.  Since the gravitational field is negative, it always points <alert>toward</alert> the center of the object creating the gravitational field.</p>
+	
+		
+			<exercises>
+			<exercise xml:id="x_units-G">
+			<title>Sensemaking - Units</title>
+			  <p>Verify that the units of the universal gravitational constant <m>G</m> given above are correct.</p>
+			</exercise>
+			<exercise xml:id="x_practice-gravity">
+			<title>Practice with the Gravitational Field</title>
+			  <p>The most common gravitational field you will need is the field created by the Earth at the surface of the Earth.  Look up numerical facts about the size and mass of the Earth and use them to determine the magnitude of Earth's gravitational field at the surface of the Earth.</p>
+			</exercise>
+		<exercise xml:id="x_gravity-explanation">
+			<title>Exploring the Gravitational Field - Covariation</title>
+			  <p>Does the magnitude of the Earth's gravitational field increase, decrease, or stay the same as you get farther from the surface of the Earth?  Explain your reasoning.</p>
+			</exercise>
+		<exercise>
+		<title>Predicting Changes to the Gravitational Field</title>
+			  <p>Above, you found the magnitude of the Earth's gravitational field at the surface of the Earth.  Imagine that you wanted to move farther away from the center of the Earth (for example, by climbing a mountain) so that the Earth's gravitational field changes by about 0.1%.  Without calculating, predict how far up you would need to move to make this change.</p>
+			</exercise>
+			</exercises>
+			
+  
+
+	
+</section>
+
+
+
+
+
+
+
+

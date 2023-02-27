@@ -32,6 +32,7 @@
 	<xi:include href="./for/sec_N2L.ptx" />
 	<xi:include href="./for/sec_normal-force.ptx" />
 	<xi:include href="./for/sec_gravity.ptx" />
+	<xi:include href="./for/sec_gravitational-field.ptx" />
 	<xi:include href="./for/sec_gravity-near-earth.ptx" />
 	<xi:include href="./for/sec_static-friction.ptx" />
 	<xi:include href="./for/sec_kinetic-friction.ptx" />
