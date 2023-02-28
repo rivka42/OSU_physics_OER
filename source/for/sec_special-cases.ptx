@@ -3,10 +3,35 @@
 <section xml:id="sec_special-cases" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Special-case Analysis</title>
 
-	
+			<figure xml:id="for_vb-special-cases">
+		        <caption>An introduction to Special-case Analysis.</caption>
+      <video youtube="dlprnaTxgGc"></video>
+    </figure>
+		
+				<heuristic xml:id="sense_special-cases">
+	<title>Special-case Analysis</title>
+	<statement>
+		<p><term>Special-case Analysis</term> allows you to make sense of a symbolic equation in physics.  The objective is to choose a case that is <em>special</em> because the answer is obvious or the context becomes straightforward and check to see if your equation matches your intuition.</p>
+	</statement>
+</heuristic>
 
+<p>When you use Special-case Analysis, continue to follow the sensemaking steps you saw in <xref ref="fig_sensemaking"/>.  In particular, the chart below can help you keep track of how to use these sensemaking steps when you are using Special-case Analysis.</p>
+
+  <figure xml:id="fig_special-cases">
+		 <caption>Steps to follow when using Special-case Analysis.</caption>
+		<image source="SpecialCases.png" width = "50%">
+			<description>A flow chart with the steps for Special-case Analysis.</description></image>
+  </figure>	
   
-
+	<exercises>
+			<exercise>
+			  <p>When you are making sense of something in physics, it can be tempting to just say "`Yes, this makes sense to me."'  Why do you think you should say more when sensemaking?</p>
+			</exercise>
+			<exercise xml:id="x_special-cases">
+			<title>Practice with Special-case Analysis</title>
+			  <p>WRITE ME</p>
+			</exercise>
+		</exercises>
 	
 </section>
 
