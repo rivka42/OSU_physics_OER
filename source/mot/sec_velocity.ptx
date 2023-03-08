@@ -3,11 +3,8 @@
 <section xml:id="sec_velocity" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Velocity</title>
 		
-		<figure xml:id="mot_vb-velocity">
-		  <caption>Defining velocity and speed.</caption>
-      <video youtube="I8uZpimzHzg"></video>
-    </figure>
-	
+      <video youtube="I8uZpimzHzg"><description>Defining velocity and speed.</description></video>
+    
 	<definition>
 	<title>Average Velocity</title>
 	<statement>

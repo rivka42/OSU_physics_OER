@@ -2,9 +2,9 @@
 
 <section xml:id="sec_vector_algebra" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Vector Algebra</title>
-  <introduction>
+
 <p>
-Representing vectors as arrows is a good way to get a geometric understanding and also for creating a good physics diagram of a physical situation we are interested in understanding. However, if we want to quantify the physics, we need to work algebraically within a particular coordinate system. Consider the vector  <m>\vec{A}</m> written in terms of components and the unit vectors <m> \hat{x} </m>, <m> \hat{y} </m> and <m> \hat{z} </m>
+Representing vectors as arrows is a good way to get a geometric understanding and also for creating a good physics diagram of a physical situation you are interested in understanding. However, if you want to quantify the physics, you need to work algebraically within a particular coordinate system. Consider the vector  <m>\vec{A}</m> written in terms of components and the unit vectors <m> \hat{x} </m>, <m> \hat{y} </m> and <m> \hat{z} </m>
 </p>
 
 <me>
@@ -12,7 +12,7 @@ Representing vectors as arrows is a good way to get a geometric understanding an
 </me>
     
  <p>
-Now let's learn how to <em>algebraically</em> compute the vector operations we learned previously 
+Now let's learn how to <em>algebraically</em> compute the vector operations you learned previously 
 </p>
 
 <exercises>
@@ -20,7 +20,7 @@ Now let's learn how to <em>algebraically</em> compute the vector operations we l
  </exercises>
   
 <p>
-To add vectors algebraically, we simply add/subtract like components.
+To add vectors algebraically, you simply add/subtract like components.
 </p>
 
 <md>
@@ -34,7 +34,7 @@ To add vectors algebraically, we simply add/subtract like components.
  </exercises>
  
  <p>
-To subtract vectors algebraically, we simple subtract like components.
+To subtract vectors algebraically, you simple subtract like components.
 </p>
  
  <md>
@@ -48,7 +48,7 @@ To subtract vectors algebraically, we simple subtract like components.
  </exercises>
  
  <p>
- To algebraically multiply a vector by a scalar we multiply each component.
+ To algebraically multiply a vector by a scalar you multiply each component.
  </p>
  
  <me>
@@ -60,7 +60,7 @@ To subtract vectors algebraically, we simple subtract like components.
  </exercises>
  
  <p>
- To compute the dot product algebraically, we multiply like components and add them together.
+ To compute the dot product algebraically, you multiply like components and add them together.
  </p>
  
  <md>
@@ -71,12 +71,12 @@ To subtract vectors algebraically, we simple subtract like components.
  
  Recall: <m>\hat{x} \cdot \hat{x} = \hat{y} \cdot \hat{y} = \hat{z} \cdot \hat{z} = 1</m>
  
+<!-- Omitted for brevity
  <p>
- This concludes our chapter on vectors. Understanding vector operations is fundamental to all of physics. It is of utmost importance that we learn to use multiple representations of vectors (diagrams, graphs, words, equations) and be able to move back and forth between those representations. 
+ This concludes our chapter on vectors. Understanding vector operations is fundamental to all of physics. It is of utmost importance that you learn to use multiple representations of vectors (diagrams, graphs, words, equations) and be able to move back and forth between those representations. 
  </p>
-
+-->
   
- </introduction>
 	
 </section>
 

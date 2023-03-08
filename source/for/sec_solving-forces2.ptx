@@ -2,11 +2,9 @@
 
 <section xml:id="sec_solving-forces2" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Force Analysis for Interacting Systems</title>
-
-			<figure xml:id="for_vb-solving-forces2">
-		        <caption>A refined strategy for using forces to solve physics problems.</caption>
-      <video youtube="dlprnaTxgGc"></video>
-    </figure>
+	
+      <video xml:id="for_vb-solving-forces2" youtube="iZTNDzuC7A4"><description>A refined strategy for using forces to solve physics problems.</description></video>
+  
 
 <p>Force analysis can be particularly powerful when you use it to examine interacting systems.  The steps below are very similar to what you saw in <xref ref="sec_solving-forces1"/>, but will help you account for multiple systems of interest.</p>
 
@@ -16,17 +14,21 @@
 
 <p><alert>Sensemaking:</alert> All the sensemaking strategies you have will work, but a new strategy called Special-case Analysis (see <xref ref="sec_special-cases"/>) can be especially useful.</p>
 
-
   
 	<exercises>
+      <video xml:id="for_vb-dog-on-stool" youtube="zTqmp750d2E"><description>Dr. Paws is pushed across the floor.</description></video>
 			<exercise>
-			  <p></p>
-			</exercise>
-			<exercise xml:id="x_">
-			<title>Practice ...</title>
-			  <p>WRITE ME</p>
+			<title>Real-world Context: Uh-Oh Dr. Paws</title>
+			<statement>
+			  <p>In the video, a footstool is pushed across the floor so that Dr. Paws and the footstool speed up together.  How much force can the person pushing the footstool exert before Dr. Paws begins sliding?</p>
+				</statement>
+				<hint>
+				What kind of friction acts on Dr. Paws before she begins to slide?
+				</hint>
 			</exercise>
 		</exercises>
+		
+
 	
 </section>
 

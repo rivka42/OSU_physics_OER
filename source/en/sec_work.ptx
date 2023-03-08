@@ -26,19 +26,11 @@
      Watch the video briefing below on work.
     </p>
 		
-		<figure xml:id="en_vb-work">
-		  <caption>Defining work.</caption>
-      <video youtube="ZN3597-5_NU"></video>
-    </figure>
-		
+      <video xml:id="en_vb-work" youtube="ZN3597-5_NU"><description>Defining work.</description></video>
+    
 				<p>
-     If you need a refresher on the dot product, see <xref ref="vec_dot_product"></xref> or watch the short video below.
+     If you need a refresher on the dot product, see <xref ref="sec_dot-product"></xref>, especially the video: <xref ref="vec_vb-dot"></xref>.
     </p>
-		
-		<figure xml:id="en_vb-dot">
-		  <caption>Recalling the dot product.</caption>
-      <video youtube="09lGQ0qCaCo"></video>
-    </figure>
 			
 			<exercise>
 			  <p>You are pulling a box across the floor using a horizontal rope with a tension force of 250 N.</p>

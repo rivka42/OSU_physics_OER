@@ -5,7 +5,7 @@
 
 			<figure xml:id="for_vb-solving-forces1">
 		        <caption>A strategy for using forces to solve physics problems.</caption>
-      <video youtube="dlprnaTxgGc"></video>
+      <video youtube="i6yXnUEO82k"></video>
     </figure>
 
 <p>At this point, you have approached several Real-world Contexts using the steps in <xref ref="fig_realworld"></xref>, mostly by analyzing the motion of a system.  Now you need to be able to use the same structure when analyzing the <em>forces</em> acting on a system.  The steps below can be extremely helpful.</p>
@@ -18,6 +18,10 @@
   
 	<exercises>
 	<title>Practice with Force Analysis</title>
+	<exercise>
+	<title>Solving for a Different Quantity</title>
+	<p>Using the context given in the video above, find the magnitude of the normal force acting on the skateboarder.</p>
+	</exercise>
 			<exercise>
 			<title>Exploring Systems of Equations</title>
 			  <p>It is very common in physics (and especially when using Force Analysis) to end up with a <term>system of equations</term>.  Suppose you are in the middle of using Force Analysis and you end up finding a system of two equations that contain three different unknown quantities.  How do you think you could make further progress on such a problem?</p>

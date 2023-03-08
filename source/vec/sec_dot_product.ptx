@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_dot-product" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Dot Product</title>
+
+<!--THIS VIDEOS IS INTENTIONALLY IN A FIGURE FOR CROSS-REFERENCE PURPOSES.  NORMAL VIDEOS CANNOT BE CROSS-REFERENCED AND SO DO NOT NEED AN XML:ID -->
+		<figure xml:id="vec_vb-dot">
+		  <caption>Introducing the dot product.</caption>
+      <video youtube="09lGQ0qCaCo"></video>
+    </figure>
+
+    			<p>
+Vectors do not multiply in the same way as scalars due to their inherent directionality.  One way to multiply vectors is the <em>dot product</em>, named because you will use a dot to represent the multiplication. The dot product of two vectors is itself a <alert>scalar</alert> value, not a new vector.
+</p>
+
+<definition >
+<title>The Dot Product</title>
+<statement>
+<p>The dot product between two vectors is given by <m>\vec{A} \cdot \vec{B} = AB sin\theta</m>, where <m>\theta</m> is the angle between the vectors when placed tail-to-tail.</p>
+</statement>
+</definition>
+
+     <figure xml:id="vec_dot_product">
+    	<caption>A representation of vectors A and B and the angle between them illustrating the dot product for two vectors.</caption>
+    		<image source="vectors/vec_dot_product.png" width = "25%" ></image>
+    </figure>
+    
+<p>
+Here, <m> \theta</m> represents the angle between the two vectors when they are placed tail to tail. A and B represent the magnitude of the vectors <m> \vec{A}</m> and <m> \vec{B}</m>.
+</p>
+<p>
+Conceptually, the dot product quantifies how much of one vector is in the same direction as another vector, or how parallel two vectors are. The dot product is the magnitude of <m> \vec{B}</m> multiplied by the projection of  <m> \vec{A}</m> along <m> \vec{B}</m>. You can think of a projection as the length of the shadow that <m> \vec{A}</m> would cast on <m> \vec{B}</m> if you were to shine a light from above.
+</p>
+
+<insight>
+<p>
+Many physical quantities (work, torque, angular momentum) depend on how parallel or how perpendicular two vector quantities are with respect to each other. The underlying conceptual framework of what a dot product tells us about nature is geometric. In this class you will be exploring many situations which will require us to build our geometric reasoning skills.
+  </p>
+	</insight>
+  
+
+      
+
+
+</section>
+

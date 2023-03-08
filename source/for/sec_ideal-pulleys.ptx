@@ -22,8 +22,12 @@
 
   
 	<exercises>
-	<title>Two Blocks on a Pulley (the Atwood's Machine)</title>
 			<exercise>
+			<title>Explanation</title>
+			  <p>Block A is accelerated across a frictionless table by a hanging 10 N weight. An identical block B is accelerated by a constant 10 N tension in the string.  Neglect friction in both cases.  Predict whether the acceleration of block B is greater than, less than, or equal to the acceleration of block A?  Explain your reasoning.</p>
+			</exercise>
+			<exercise>
+				<title>Two Blocks on a Pulley (the Atwood's Machine)</title>
 			  <p>What grade (A, B, C, etc.) would you give to the work presented in the video?  (Feel free to review the steps for approaching a Real-world Context: <xref ref="fig_realworld"></xref>.)  Is there anything you think is missing?  Is there anything you think the instructor in the video did particularly well?</p>
 			</exercise>
 			<exercise>
@@ -39,6 +43,12 @@
 			  <p>At the end of the video, the instructor did some physics sensemaking.  What sensemaking strategies did the instructor use?  Do you think they were helpful?  Are there any different strategies that you want to try?</p>
 			</exercise>
 		</exercises>
+	
+			<references>
+<biblio xml:id="ref_mit-pulleys">
+<p>Solving pulley systems by Dr. Dr. Peter Dourmashkin from MIT 8.01 Classical Mechanics, Fall 2016, used under Creative Commons BY-NC-SA.</p>
+</biblio>
+</references>
 	
 </section>
 

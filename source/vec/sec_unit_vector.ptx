@@ -2,13 +2,13 @@
 
 <section xml:id="sec_unit_vector" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Unit Vector</title>
-  <introduction>
+
     <p>
-We will often need to orient a vector within a particular coordinate system. To do so we introduce the concept of a unit vector. A unit vector is a vector that has magnitude (length) of one. For this reason, unit vectors are often called direction vectors.
+You will often need to orient a vector within a particular coordinate system. A unit vector is a vector that has magnitude (length) of one. For this reason, unit vectors are often called direction vectors.
     </p>
     
  <p>
-We symbolically represent unit vector with "hats." Most commonly, unit vectors are used for indicating the directions of a coordinate system. For example <m> \hat{x} </m>, <m> \hat{y} </m> and <m> \hat{z} </m> are unit vectors which point parallel to the positive x-direction, positive y-direction and positive z-direction (these are often called basis vectors in a mathematics class).
+You represent a unit vector symbolically with a "hat." Most commonly, unit vectors are used for indicating the directions of a coordinate system. For example <m> \hat{x} </m>, <m> \hat{y} </m> and <m> \hat{z} </m> are unit vectors which point parallel to the positive x-direction, positive y-direction and positive z-direction (these are often called basis vectors in a mathematics class).
 </p>
 
 <p>
@@ -27,10 +27,17 @@ Since <m> \hat{x} </m>, <m> \hat{y} </m> and <m> \hat{z} </m> are mutually perpe
 Many textbooks, and authors use different notation for the unit vectors. Often, you will see unit vectors written using <m> \hat{i} </m>, <m> \hat{j} </m> and <m> \hat{k} </m> to represent the positive x-direction, positive y-direction and positive z-direction. Both notations are equivalent, and are just a convention. Use whatever notation is more comfortable for you. 
 </p>
 
-<p> Please watch this short video on unit vectors: </p>	
-      <video source="/vectors/unit_vector.mp4"> </video>
+<p>This short video includes a brief summary of unit vectors:</p>	
+
+      <video youtube="Bq0fDYtbfBA">
+        <description>MIT Coordinate systems and unit vectors.</description>
+      </video>
   
- </introduction>
+<references>
+<biblio xml:id="ref_mit-vectors3">
+<p>Coordinate systems and unit vectors by Dr. Michelle Tomasik from MIT 8.01 Classical Mechanics, Fall 2016, used under Creative Commons BY-NC-SA.</p>
+</biblio>
+</references>
 	
 </section>
 

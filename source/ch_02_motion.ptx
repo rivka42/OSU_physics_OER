@@ -25,7 +25,7 @@
 </ol>
 
 		</introduction>
-	<!--
+	<!-- THIS SECTION SHOULD NOT BE INCLUDED IN THE BOOK, IT IS SIMPLY STORING THINGS THAT HAVE NOT BEEN LOCATED ANYWHERE
 	<xi:include href="./mot/sec_what-is-physics.ptx" />
 	-->
   <xi:include href="./mot/sec_what-is-motion.ptx" />
