@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_tension" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>The Tension Force</title>
-  <introduction>
-    <p>
-      //unwritten
-    </p>
-		
-		
-  </introduction>
-	
-		
-    <p>
-      <em>Exercise:</em> 
-    </p>
-  
+  <title>Tension Forces</title>
+
+				<figure xml:id="for_vb-tension">
+		        <caption>An introduction to the tension force.</caption>
+      <video youtube="yLdrVot7WmY"></video>
+    </figure>  
+
+<p>As you saw in <xref ref="sec_contact-forces"></xref>, tension is a force between a rope or a string and another system that pulls along the direction of the rope at the surface of contact.  In fact, tension is also the name of the internal force between the different molecules that make up the rope or string.  You usually want to be able to assume the tension in the rope is uniform (equal throughout the rope and at both ends), which requires that all of the following be true.</p>
+
+<assumption xml:id="a_tension">
+	<title>Ideal Rope</title>
+	<statement>
+		<p>An ideal rope will have a uniform tension only if it is (1) massless, (2) inextensible, and (3) free of forces acting on the middle of the rope.</p>
+	</statement>
+</assumption>
+
+	<exercises>
+			<exercise xml:id="x_rope">
+			  <p>For each of the three requirements for the ideal rope assumption, describe an everyday context where that requirement is not met.</p>
+			</exercise>
+	</exercises>
 
 	
 </section>

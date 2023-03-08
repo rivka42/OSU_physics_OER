@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_ideal-pulleys" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Ideal Pulleys</title>
+	
+	<p>In many physics contexts, you will encounter a rope or string draped over a pulley.  A pulley is usually a small, grooved cylinder that is used to change the direction of a rope or string.  Using a pulley breaks one of the assumptions we made about ideal ropes, because the pulley can act a force on the middle of the rope.  Fortunately, we can make a further assumption to neglect the impact of the pulley.</p>
+	
+	<assumption>
+	<title>Ideal Pulley</title>
+	<statement>
+	<p>An ideal pulley is frictionless, massless, and does not accelerate, in which case it will act no force on the rope and thus allowing us to assume that the rope is ideal (if it meets all other necessary criteria).</p>
+	</statement>
+	</assumption>
+	
+	<p>The video below shows an example problem being solved using an ideal pulley.  You should watch the entire video before attempting the exercises below.</p>
+
+			<figure xml:id="for_mit-pulleys">
+		        <caption>An example problem involving a pulley.</caption>
+      <video youtube="dHMGV_WOG7w"></video>
+    </figure>
+
+
+  
+	<exercises>
+	<title>Two Blocks on a Pulley (the Atwood's Machine)</title>
+			<exercise>
+			  <p>What grade (A, B, C, etc.) would you give to the work presented in the video?  (Feel free to review the steps for approaching a Real-world Context: <xref ref="fig_realworld"></xref>.)  Is there anything you think is missing?  Is there anything you think the instructor in the video did particularly well?</p>
+			</exercise>
+			<exercise>
+			  <p>In the video, the instructor chooses to use <alert>different</alert> coordinates for the two objects.  Why did the instructor make this choice?  What consequences did it have during the calculation?</p>
+			</exercise>
+			<exercise>
+			  <p>During the video, the instructor makes an argument that <m>a_1 = a_2</m>.  Why was this necessary?  Can you think of a situation with a rope and pulley where this would not be true?</p>
+			</exercise>
+			<exercise>
+			  <p>If your goal is to solve for the tension in the rope, it can be tempting to reach an answer like <m>T = m_2a + m_2g</m> and then stop.  Why is this an incomplete answer?</p>
+			</exercise>
+			<exercise>
+			  <p>At the end of the video, the instructor did some physics sensemaking.  What sensemaking strategies did the instructor use?  Do you think they were helpful?  Are there any different strategies that you want to try?</p>
+			</exercise>
+		</exercises>
+	
+</section>
+
+
+
+
+
+
+

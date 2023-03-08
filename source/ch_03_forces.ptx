@@ -39,9 +39,10 @@
 	<xi:include href="./for/sec_static-friction.ptx" />
 	<xi:include href="./for/sec_kinetic-friction.ptx" />
 	<xi:include href="./for/sec_elastic-force.ptx" />
-	<xi:include href="./for/sec_N3L.ptx" />
 	<xi:include href="./for/sec_tension.ptx" />
+	<xi:include href="./for/sec_N3L.ptx" />
 	<xi:include href="./for/sec_solving-forces2.ptx" />
+	<xi:include href="./for/sec_ideal-pulleys.ptx" />
 	<xi:include href="./for/sec_forces-summary.ptx" />
 	
 </chapter>

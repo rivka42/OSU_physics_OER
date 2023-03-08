@@ -2,25 +2,35 @@
 
 <section xml:id="sec_kinetic-friction" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Force of Kinetic Friction</title>
-  <introduction>
-    <p>
-      Start by watching the video briefing on the force of kinetic friction.  {NOTE: UPLOAD CORRECT VIDEO.}
-    </p>
-		
+
 		<figure xml:id="for_vb-kf">
-      <video youtube="xb0sR7Q0JtM">
-        <description>Paul introduces forces.</description>
+		<caption>An introduction to kinetic friction.</caption>
+      <video youtube="tUtIkpymzkg">
       </video>
     </figure>
 		
-  </introduction>
+				<definition>
+	<title>Kinetic Friction</title>
+	<statement>
+		<p>The magnitude of any <term>kinetic friction</term> force is related to the corresponding normal force<m>|\vec{F}^{kf}_{12}| = |\mu_k \vec{F}^{N}_{12}|</m>.  The kinetic friction will act in a direction that opposes the actual relative motion of the objects involved.</p>
+	</statement>
+</definition>
+
+<p>The constant <m>\mu_k</m> is called the coefficient of kinetic friction; it is a property of the substances involved in the force that is usually smaller than the corresponding <m>\mu_s</m>.</p>
+
 	
 		
 		<exercises>
 			<exercise>
+			<title>Explaining Friction</title>
 			  <p>Give a one- or two-sentence explanation of the difference between static and kinetic friction, aimed at someone who has never taken a physics course.</p>
 			</exercise>
+						<exercise>
+			<title>Exploring Coefficients of Friction</title>
+			  <p>Do a search to find a table of coefficients of friction (both static and kinetic) for different substances.  What is the general range of values that you see?</p>
+			</exercise>
 			<exercise>
+			<title>Explore Friction</title>
 			  <p>Play with this forces simulation: <url href="https://phet.colorado.edu/en/simulations/forces-and-motion-basics"/>.  Make sure to investigate all four tabs.</p>
 			</exercise>
 			<exercise>

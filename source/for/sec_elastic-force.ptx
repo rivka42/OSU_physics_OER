@@ -1,23 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_elastic-force" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>The Elastic Force (Springs)</title>
+<section xml:id="sec_spring-forces" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Spring Forces</title>
+	
 		<exercises>
+		<title>Exploring Spring Forces</title>
 			<exercise>
 			  <p>Play with this spring simulation: <url href="https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics_en.html"/>.  Play around with it for at least a few minutes.</p>
 			</exercise>
 			<exercise>
 			  <p>With the simulation from the previous question, investigate how the spring force appears to be related to the displacement of the spring.</p>
-			<solution>
-			  <p>A model for describing the force that a spring exerts on something is to treat the force as linearly proportional to the displacement, which can be written <m>F^{elastic} = -k(x_f - x_i)</m>.</p>
-				</solution>
-			</exercise>
-			<exercise>
-			  <p>Explain how the expression in the solution to the previous exercise is consistent with your observations from the simulation (cite a specific observation!).</p>
-			</exercise>
+				</exercise>
 		</exercises>
   
-
+					<figure xml:id="for_vb-spring-forces">
+		        <caption>An introduction to spring forces.</caption>
+      <video youtube="lG4ixrdnEQ4"></video>
+    </figure>
+		
+		<definition xml:id="def_spring">
+	<title>Hooke's Law</title>
+	<statement>
+		<p>An ideal spring that does not deform when displaced from equilibrium will obey Hooke's Law, with a force that is linearly proportional to the displacement from equilibrium: <m>\vec{F}^{S} = -k(\vec{x} - \vec{x}_{eq})</m>.</p>
+	</statement>
+</definition>
 	
+			<exercises>
+		<title>Practice with Spring Forces</title>
+			<exercise>
+			  <p>Explain how the expression in Hooke's Law is consistent with your observations from the simulation (cite a specific observation!).</p>
+			</exercise>
+			<exercise>
+			<statement>
+			  <p>Determine the units of the spring constant <m>k</m>.  Why do you think these are appropriate units for this quantity?</p>
+				</statement>
+				<answer>
+				<p>N/m</p>
+				</answer>
+			</exercise>
+		</exercises>
+		
 </section>
+
+
+
+
+
+
 

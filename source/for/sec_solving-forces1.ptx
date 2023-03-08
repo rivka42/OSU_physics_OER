@@ -8,19 +8,37 @@
       <video youtube="dlprnaTxgGc"></video>
     </figure>
 
-<p>.</p>
+<p>At this point, you have approached several Real-world Contexts using the steps in <xref ref="fig_realworld"></xref>, mostly by analyzing the motion of a system.  Now you need to be able to use the same structure when analyzing the <em>forces</em> acting on a system.  The steps below can be extremely helpful.</p>
 
+<p><alert>Understanding:</alert> Identify a system and draw a Free-body Diagram.</p>
 
+<p><alert>Calculating:</alert> Is the acceleration 0 (static or dynamic equilibrium) or not 0 (dynamics)?  Once you know, use the Law of Motion!</p>
+
+<p><alert>Sensemaking:</alert> All the sensemaking strategies you have will work, but a new strategy called <xref ref="sec_special-cases"/> can be especially useful.</p>
   
 	<exercises>
+	<title>Practice with Force Analysis</title>
 			<exercise>
-			  <p></p>
+			<title>Exploring Systems of Equations</title>
+			  <p>It is very common in physics (and especially when using Force Analysis) to end up with a <term>system of equations</term>.  Suppose you are in the middle of using Force Analysis and you end up finding a system of two equations that contain three different unknown quantities.  How do you think you could make further progress on such a problem?</p>
 			</exercise>
-			<exercise xml:id="x_">
-			<title>Practice ...</title>
-			  <p>WRITE ME</p>
+			<p>Use the Real-world Context format along with the steps above!</p>
+			<exercise xml:id="x_force-analysis">
+			<title>Practice with Force Analysis</title>
+			<statement>
+			  <p>A child in a wagon is trailing a large kite behind her at a low angle while her father pulls the wagon forward so it moves at constant speed.  Find the force the father exerts on the wagon.</p>
+				</statement>
+				<hint>
+				<p>Model both the force from the kite and the force from the father as constant.</p>
+				</hint>
 			</exercise>
 		</exercises>
 	
 </section>
+
+
+
+
+
+
 

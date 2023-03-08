@@ -2,24 +2,19 @@
 
 <section xml:id="sec_N3L" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Action-Reaction Pairs (Newton's Third Law)</title>
-  <introduction>
-    <p>
-      Start by watching the video briefing on Action-Reaction Pairs (Newton's 3rd Law).  {NOTE: UPLOAD CORRECT VIDEO.}
-    </p>
 		
 		<figure xml:id="for_vb-n3l">
-      <video youtube="xb0sR7Q0JtM">
-        <description>Paul introduces action-reaction pairs (Newton's 3rd Law).</description>
+		<caption>An introduction to Action-Reaction Pairs, sometimes known as Newton's 3rd Law.</caption>
+      <video youtube="eGYlzV8E5AM">
       </video>
     </figure>
-		
-  </introduction>
 	
-		<!-- From Kathy's website -->
+	
+		<!-- From Kathy's website, edited -->
 	<principle>
 	<title>Action-Reaction Pairs</title>
 	<statement>
-	<p>Forces come in pairs. For every force, there exists and equal and opposite force.</p>
+	<p>Forces come in pairs known as <term>Action-Reaction Pairs</term>.  Since all forces arise from an interaction between two different systems, you can always find an Action-Reaction Pair to any force.  This idea is sometimes known as Newton's Third Law of Motion.</p>
 	</statement>
 	</principle>
 	
