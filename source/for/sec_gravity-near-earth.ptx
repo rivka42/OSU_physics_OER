@@ -3,11 +3,10 @@
 <section xml:id="sec_gravity-near-earth" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Gravity Near the Surface of the Earth</title>
 	
-			<figure xml:id="for_vb-grav3">
-		        <caption>The gravitational force near the surface of the Earth.</caption>
-      <video youtube="1gDZC8lOaKI">
+		        
+      <video youtube="1gDZC8lOaKI"><description>The gravitational force near the surface of the Earth.</description>
       </video>
-    </figure>
+
 	
 	<assumption xml:id="a_near-earth">
 	<title>Near the Surface of the Earth</title>
@@ -19,6 +18,7 @@
 	<p>How does this assumption hold up to the questions in <xref ref="fig_assumptions"></xref>?  It certainly looks useful, since the magnitude <m>g</m> looks like a much easier expression than <m>\frac{GM_B}{r^2}</m>.  Most of the physics you will think about takes place near the surface of the Earth, so it is going to be reasonable much of the time.  The most obvious limitation is how far you are from the surface of the Earth, which will limit how accurate the approximation is.  Additionally, if you are near the surface of an object other than Earth, the gravitational field would still be uniform, but you would need to calculate the magnitude of the field for that object.</p>
 		
 			<exercises>
+			<title>Activities</title>
 			<exercise xml:id="x_gravity-directions">
 						<title>Sensemaking - Direction</title>
 			  <p>How is it possible that both <m>-\hat{y}</m> and <m>\-\hat{r}</m> can both be reasonable directions for the Earth's gravitational field.</p>

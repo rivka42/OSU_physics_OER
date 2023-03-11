@@ -3,11 +3,9 @@
 <section xml:id="sec_motion-diagrams" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Motion Diagrams</title>
 	
-	<figure xml:id="mot_vb-md">
-		 <caption>An example of a simple motion diagram being created.</caption>
-     <video youtube="_nO9GlsTdfU"></video>
-  </figure>
-	
+		 
+     <video youtube="_nO9GlsTdfU"><description>An example of a simple motion diagram being created.</description></video>
+  
 		<lemma xml:id="r_motion-diagram">
 			<title>Motion Diagram</title>
 			<statement>
@@ -22,7 +20,7 @@
 		-->
 
 	<exercises>
-	<title>Practice Drawing a Motion Diagram</title>
+	<title>Activities: Practice Drawing a Motion Diagram</title>
 			
 			<p>Watch the video below of an instructor rolling a ball across the floor.</p>
 				

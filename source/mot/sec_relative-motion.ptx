@@ -3,27 +3,20 @@
 <section xml:id="sec_relative-motion" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Relative Motion</title>
 
- <introduction>
 	
     <p>
      Watch the Video Briefing below about relative motion.
     </p>
 		
-		<figure xml:id="mot_rel-mot">
-		  <caption>Introducing relative motion.</caption>
-      <video youtube="sN-m5WkbMyI"></video>
-    </figure>
+      <video youtube="sN-m5WkbMyI"><description>Introducing relative motion.</description></video>
 		
 		 <p>
      Then, check out the video below from our friends at Mythbusters.
     </p>
 		
-		<figure xml:id="mot_rel-mot-myth">
-		  <caption>The Mythbusters test relative motion.</caption>
-      <video youtube="BLuI118nhzc"></video>
-    </figure>
+      <video youtube="BLuI118nhzc"><description>The Mythbusters test relative motion.</description></video>
+ 
 		
-  </introduction>
 	
 	<p>Any measurement of position or speed needs to be made with respect to a specific frame of reference. Suppose a person is walking past you at 5 km/hr toward the front of an airplane which is traveling west at 150 km/hr. The speed of 5 km/hr is with respect to the plane's frame of reference. With respect to the ground, this person is actually moving at speed (150 km/hr + 5 km/hr = 155 km/hr). Just as it is always important to specify the units of a quantity when reporting a number, it is equally important to specify the frame of reference from which you are making a measurement.</p>
 	
@@ -42,6 +35,7 @@
 	<p>The laws of physics are the same in all inertial frames (this is known as Galilean invariance). Put in another way, there is no experiment that you could do to determine which reference frame you are in (Einstein used this hypothesis to devise the theory of Special Relativity). This means that we can address problems in any reference frame to give an equivalent solution, but we must specify the coordinate system (frame of reference) we are using whenever we are solving a problem in physics.</p>
 		
 	<exercises>
+	<title>Activities</title>
 			<exercise>
 			  <p>You are running down a straight track at a speed of 8 m/s (relative to the track).  Two friends, one in front of you and one behind, each throw a baseball horizontally toward you at a speed of 24 m/s (relative to the track).  Relative to <em>you</em>, which baseball, if either, has a greater speed?  Explain your reasoning.</p>
 			</exercise>

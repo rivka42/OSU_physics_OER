@@ -4,10 +4,9 @@
   <title>The Law of Motion (Newton's Second Law)</title>
 
 		
-		<figure xml:id="for_vb-n2l">
-		        <caption>An introduction to Newton's 2nd Law.</caption>
-      <video youtube="JXxc0o1iAH4">      </video>
-    </figure>
+		        
+      <video youtube="JXxc0o1iAH4">      <description>An introduction to Newton's 2nd Law.</description></video>
+    
 
 	<definition xml:id="def_net-force">
 	<title>Net force</title>
@@ -27,6 +26,7 @@
 
 	
 			<exercises>
+			<title>Activities</title>
 		   <exercise xml:id="x_summarize-n2l">
 			<title>Summarize What You Learned - Law of Motion</title>
 			  <p>Above, you learned a relationship between force and acceleration.  Write a 2-3 sentence description of what this symbolic equation says in your own words.</p>

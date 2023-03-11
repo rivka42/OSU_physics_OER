@@ -3,14 +3,13 @@
 <section xml:id="sec_kinematics-2d" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Constant Acceleration - 2D</title>
 		
-		<figure xml:id="mot_vb-2dkin">
-		  <caption>Motion with constant acceleration in two dimensions.</caption>
-      <video youtube="FJE5RVCgXGg"></video>
-    </figure>
-		
+		  
+      <video youtube="FJE5RVCgXGg"><description>Motion with constant acceleration in two dimensions.</description></video>
+    
 	
 		
 	<exercises>
+	<title>Activities</title>
 		<exercise xml:id="x_realworld-ball">
 			<title>Real-world Context - Throwing a Ball</title>
 			<statement>

@@ -3,10 +3,7 @@
 <section xml:id="sec_position" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Position</title>
 	
-		<figure xml:id="mot_vb-position">
-		  <caption>Defining position.</caption>
-      <video youtube="iJoZIbjRrYA"></video>
-    </figure>
+		  <video youtube="iJoZIbjRrYA"><description>Defining position.</description></video>
 	
 <definition xml:id="def_position">
 	<title>Position</title>
@@ -31,7 +28,7 @@ You will start by using the Cartesian coordinates that are probably familiar fro
   </figure>
 	
 		<exercises>
-		<!-- <title>Practice Exercises</title> -->
+		<title>Activities</title>
 		<exercise xml:id="x_positions-comps">
 		<title>Practice: Position Components</title>
 		<statement>

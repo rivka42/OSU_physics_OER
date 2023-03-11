@@ -3,11 +3,10 @@
 <section xml:id="sec_kinetic-friction" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Force of Kinetic Friction</title>
 
-		<figure xml:id="for_vb-kf">
-		<caption>An introduction to kinetic friction.</caption>
-      <video youtube="tUtIkpymzkg">
+		
+      <video youtube="tUtIkpymzkg"><description>An introduction to kinetic friction.</description>
       </video>
-    </figure>
+
 		
 				<definition>
 	<title>Kinetic Friction</title>
@@ -21,6 +20,7 @@
 	
 		
 		<exercises>
+		<title>Activities</title>
 			<exercise>
 			<title>Explaining Friction</title>
 			  <p>Give a one- or two-sentence explanation of the difference between static and kinetic friction, aimed at someone who has never taken a physics course.</p>

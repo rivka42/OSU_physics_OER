@@ -3,11 +3,10 @@
 <section xml:id="sec_gravity" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Gravitational Force</title>
 		
-		<figure xml:id="for_vb-grav1">
-		<caption>Introducing the gravitational force.</caption>
-      <video youtube="eaPGC3rYA_E">
+		
+      <video youtube="eaPGC3rYA_E"><description>Introducing the gravitational force.</description>
       </video>
-    </figure>
+
 		
 	<aside>
 	<title>Gravity acting on a system</title>
@@ -26,6 +25,7 @@
 
 		
 			<exercises>
+			<title>Activities</title>
 			<exercise xml:id="x_summarize-grav-field">
 			<title>Summarize What You Learned - Gravitational Field</title>
 			  <p>At the end of the video, you are asked to think about what kind of quantity the gravitational field is.  Take a moment to think about the name, symbol, and equation.  Then, write down 2-3 things you think might be true for the gravitational field.</p>

@@ -3,10 +3,9 @@
 <section xml:id="sec_kinematics-1d" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Constant Acceleration - 1D</title>
 		
-		<figure xml:id="mot_vb-1dkin">
-		  <caption>Motion with constant acceleration in one dimension.</caption>
-      <video youtube="u67tATWkDQk"></video>
-    </figure>
+		  
+      <video youtube="u67tATWkDQk"><description>Motion with constant acceleration in one dimension.</description></video>
+   
 		
 	<p></p>
 	
@@ -23,6 +22,7 @@
 </assumption>
 		
 	<exercises>
+	<title>Activities</title>
 			<exercise xml:id="x_sensemaking-kinematics">
 			<title>Sensemaking - Covariation</title>
 			<statement>

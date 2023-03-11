@@ -3,18 +3,16 @@
 <section xml:id="sec_vel-reps" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Representing Velocity</title>
 	
-	<introduction>
-	  We now have two major quantities for describing motion: <em>position</em> and <em>velocity</em>.  We want to make sure both kinds of quantities can be encoded in our <em>motion diagrams</em>.
-	</introduction>
+	<p>You now have two major quantities for describing motion: <em>position</em> and <em>velocity</em>.  You want to make sure both kinds of quantities can be encoded in a <em>motion diagram</em>.</p>
 	
 			<lemma xml:id="rep_motion-diagrams-velocity">
 			<title>Motion Diagram</title>
 			<statement>
-				<p>A <term>motion diagram</term> is a physical representation in which an object is represented at different <em>positions</em> that are separated by <em>equal time intervals</em>.  For each instant, we can draw and label a vector indicating the velocity of our object of interest.</p>
+				<p>A <term>motion diagram</term> is a physical representation in which an object is represented at different <em>positions</em> that are separated by <em>equal time intervals</em>.  For each instant, you can draw and label a vector indicating the velocity of our object of interest.</p>
 			</statement>
 		</lemma>
 	
-			<p>The simplest possible motion is motion along a straight-line path with a constant, unvarying speed. Let's imagine a car that is driving to the right at a constant speed. Suppose we take images at a regular time interval, once every second:</p>
+			<p>The simplest possible motion is motion along a straight-line path with a constant, unvarying speed. Let's imagine a car that is driving to the right at a constant speed. Suppose you take images at a regular time interval, once every second:</p>
 		
   <figure xml:id="mot_car-with-constant-v">
 		 <caption>A stroboscopic diagram of a car moving at constant speed.</caption>
@@ -22,7 +20,7 @@
 			<description>Six pictures of a car arranged horizontally.  A blue arrow above each car points to the right.</description></image>
   </figure>
 	
-	<p>We can apply the particle model and represent the car as a point object, creating a motion diagram showing the position of the car at each instant of time and the corresponding displacement vectors.</p>
+	<p>You can apply the particle model and represent the car as a point object, creating a motion diagram showing the position of the car at each instant of time and the corresponding displacement vectors.</p>
 	
   <figure xml:id="mot_car-with-constant-v-diagram">
 		 <caption>A motion diagram of a car moving at constant speed.</caption>
@@ -33,7 +31,7 @@
 	<p>Notice that the displacement vectors are equal in length when the car moves at constant speed.</p>
 	
 	<exercises>
-	<title>Practice Exercises</title>
+	<title>Practice Activities</title>
 	<exercise>
 	<title>Extending Your Previous Work</title>
 	<p>Recall the motion diagram you made for the ball rolling across the floor: <xref ref="mot_vb-ball-floor"></xref>.</p>

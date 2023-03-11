@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_system-diagrams" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Energy System Diagrams</title>	
+		
+		<p>ADD ME:</p>
+        
+      <video youtube="KEmhb2gHr1U"><description>An introduction to energy system diagrams.</description></video>
+
+				<lemma>
+			<title>Energy System Diagram</title>
+			<statement>
+				<p>An <term>Energy System Diagram</term> is a pictorial way to represent both the transfer of energy between systems and the transformation of energy within those systems.  Each system of interest is drawn as a large circle or oval labeled with a list of objects in the system.  Small boxes represent each form of energy within each system.  Large arrows connecting the systems represent the transfer of energy between systems, while small arrows between the boxes represent the transformation of energy from one form to another.</p>
+			</statement>
+		</lemma>
+		
+		<p>The study of energy is even more strongly concerned with systems (<xref ref="def_system"></xref>) than the study of forces.  When you identify a system of interest, you want to know which things are internal and which are external to that system.  <em>Internal</em> interactions result in the transformation of energy from one form to another, while <em>external</em> interactions result in the transfer of energy from one system to another.</p>
+				
+		<exercises>
+		<title>Activities</title>
+		<exercise xml:id="x_practice-system-diagrams">
+    <p>
+      Add me
+    </p>
+		</exercise>
+		<exercise>
+		<p>
+		Add me
+		</p>
+		</exercise>
+		</exercises>
+  
+
+	
+</section>
+

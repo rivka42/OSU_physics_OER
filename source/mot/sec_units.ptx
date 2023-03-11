@@ -11,12 +11,12 @@
 In science, we use the SI unit system (le Systéme Internationale d'Unités), commonly referred to as the metric system<fn>In the united States, we have an entire <url href="https://www.nist.gov/" visual="nist.gov">government agency</url> dedicated to upholding standards of measurement</fn>.  Within the metric system, all quantities will be given in terms of base units, such as the three below, which are typically written using non-italic letters<fn><url href="https://en.wikipedia.org/wiki/Metric_prefix" visual="wikipedia.org/wiki/Metric_prefix">prefixes</url> can be used as an easy way to express units that are substantially different</fn>.
     </p>
 		
-<historical>
+<aside>
 <title>Base units and derived units</title>
 <p>
 Units for physical quantities can be divided into two categories: base units and derived units. Examples of derived units, which are often given their own name, include force (the Newton) and energy (the Joule), each of which is a specific combination of the base units of length, time and mass.
 </p>
-</historical>
+</aside>
  
 <p>
 <term>Time:</term> The SI unit of time is the second.  The abbreviation for the second is the lower case letter s.</p>
@@ -26,6 +26,8 @@ Units for physical quantities can be divided into two categories: base units and
 
 <p>
 <term>Mass:</term> The unit of mass is the kilogram.  The abbreviation for the meter is lower case kg.</p>
+
+
 <insight>
 <p>
 <term>Time:</term> Throughout most of history, the standard of time was based on the mean solar day. However, scientists needed a way to make incredibly high precision measurements of time and so physicists began developing a device called an atomic clock. Atomic clocks work on the principle that subatomic particles called electrons will move back and forth between different energy states when exposed to certain frequencies of radiation. The United States' standard atomic clock is said to be so accurate that in 30 million years it would neither gain nor lose a second. One second is defined as the time it takes for 9,192,631,770 oscillations of a radio wave absorbed by the cesium-133 atom.  
@@ -111,7 +113,7 @@ We can see that the physical quantities under the square root indeed have base u
 
 
 	<exercises>
-	<title>Units Exercises</title>
+	<title>Units Activities</title>
 
 			<exercise xml:id="x_identifying-units">
 			<title>Practice Identifying Units</title>

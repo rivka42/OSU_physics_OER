@@ -3,10 +3,9 @@
 <section xml:id="sec_N1L" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Law of Inertia (Newton's First Law)</title>
 		
-		<figure xml:id="for_vb-n1l">
-		        <caption>An introduction to Newton's 1st Law.</caption>
-      <video youtube="3g51mt8Iaz0"></video>
-    </figure>
+		        
+      <video youtube="3g51mt8Iaz0"><description>An introduction to Newton's 1st Law.</description></video>
+    
 
 	
 	<!-- From Kathy's website -->
@@ -34,7 +33,7 @@
 	</definition>
 		
 	<exercises>
-					<title>Explanation Practice</title>
+					<title>Activity: Explanation Practice</title>
 		<p>For each of the following contexts, predict whether or not you expect the system's velocity to change.  Explain your reasoning using the steps from <xref ref="fig_explanation"></xref>.  Clearly state any assumptions you make about each context!</p>
 			<exercise xml:id="x_inertia">
 			  <p>You are riding your bicycle down a flat street (not pedaling).  <alert>System</alert>: you and the bicycle.</p>

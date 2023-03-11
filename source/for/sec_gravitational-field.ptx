@@ -3,11 +3,8 @@
 <section xml:id="sec_gravitational-field" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Gravitational Field</title>
 
-		<figure xml:id="for_vb-grav2">
-		<caption>Introducing the gravitational field.</caption>
-      <video youtube="XUrUBts_ivE">
+      <video youtube="XUrUBts_ivE">		<description>Introducing the gravitational field.</description>
       </video>
-    </figure>
 	
 	<definition>
 	<title>The Gravitational Field</title>
@@ -20,6 +17,7 @@
 	
 		
 			<exercises>
+			<title>Activities</title>
 			<exercise xml:id="x_units-G">
 			<title>Sensemaking - Units</title>
 			  <p>Verify that the units of the universal gravitational constant <m>G</m> given above are correct.</p>

@@ -3,10 +3,8 @@
 <section xml:id="sec_solving-forces1" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Force Analysis for a Single System</title>
 
-			<figure xml:id="for_vb-solving-forces1">
-		        <caption>A strategy for using forces to solve physics problems.</caption>
-      <video youtube="i6yXnUEO82k"></video>
-    </figure>
+      <video youtube="i6yXnUEO82k"><description>A strategy for using forces to solve physics problems.</description></video>
+    
 
 <p>At this point, you have approached several Real-world Contexts using the steps in <xref ref="fig_realworld"></xref>, mostly by analyzing the motion of a system.  Now you need to be able to use the same structure when analyzing the <em>forces</em> acting on a system.  The steps below can be extremely helpful.</p>
 
@@ -17,7 +15,7 @@
 <p><alert>Sensemaking:</alert> All the sensemaking strategies you have will work, but a new strategy called <xref ref="sec_special-cases"/> can be especially useful.</p>
   
 	<exercises>
-	<title>Practice with Force Analysis</title>
+	<title>Activities: Practice with Force Analysis</title>
 	<exercise>
 	<title>Solving for a Different Quantity</title>
 	<p>Using the context given in the video above, find the magnitude of the normal force acting on the skateboarder.</p>

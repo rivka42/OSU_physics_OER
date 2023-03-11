@@ -13,11 +13,9 @@
 				</exercise>
 		</exercises>
   
-					<figure xml:id="for_vb-spring-forces">
-		        <caption>An introduction to spring forces.</caption>
-      <video youtube="lG4ixrdnEQ4"></video>
-    </figure>
-		
+		        
+      <video youtube="lG4ixrdnEQ4"><description>An introduction to spring forces.</description></video>
+    
 		<definition xml:id="def_spring">
 	<title>Hooke's Law</title>
 	<statement>
@@ -26,7 +24,7 @@
 </definition>
 	
 			<exercises>
-		<title>Practice with Spring Forces</title>
+		<title>Activities: Practice with Spring Forces</title>
 			<exercise>
 			  <p>Explain how the expression in Hooke's Law is consistent with your observations from the simulation (cite a specific observation!).</p>
 			</exercise>

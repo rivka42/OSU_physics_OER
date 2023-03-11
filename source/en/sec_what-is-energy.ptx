@@ -2,30 +2,82 @@
 
 <section xml:id="sec_introduction_to_energy" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>What is Energy?</title>
-<introduction>
+
+		<p><alert>Introductory Activity:</alert> Start by writing 2-4 things you already know about energy, each as a single complete sentence.</p>
   
+	<!--OMITTED FOR BREVITY
 <p>
-Thus far we have been analyzing motion using the concepts of force and Newton's laws of motion. However, we will now consider an alternative approach in terms of <em>energy</em>. 
+Thus far you have been analyzing motion using the concepts of force and Newton's laws of motion. However, we will now consider an alternative approach in terms of <em>energy</em>. 
 </p>
+-->
+
+		<p>ADD ME:</p>
+        
+      <video youtube="KEmhb2gHr1U"><description>An introduction to energy.</description></video>
 
 <p>
-We all know what it feels like to have "a lot of energy" but how do we define energy in physics? Energy comes in many forms, making the fundamental concept hard to grasp. It may exist in potential, kinetic, thermal, electrical, chemical, nuclear, and it can transform from one form to another. However, nature seems to have one strict rule in place: <alert> energy is conserved</alert>.  This means that energy can be neither created nor destroyed. However, it can change from one form to another, or be transferred from one object to another via certain processes. Conservation laws are powerful natural laws which describe which processes simply can or cannot occur.
+Like many words used in physics, you probably use the word "`energy"' in your everyday life.  For example, you likely know what it feels like to have "`a lot of energy"' or you might talk about being "`low on energy."'  Colloquially, energy can be thought of as the capacity to do something.  The physics definition of energy will try to take this idea and make it more specific and quantifiable.
 </p>
 
-<p>
-In physics, <em> we define energy as the ability to do work </em>. Work and energy are scalar quantities, and so they are often easier to manipulate than vector quantities. Energy becomes especially valuable when you have systems of many objects interacting where a detailed consideration of all the forces may be difficult or impossible. 
-</p>
+		<definition>
+	<title>Energy</title>
+	<statement>
+		<p>The <term>Energy</term> of a system is a physical property measuring its ability to <em>exert forces</em> that can <em>impact the displacement</em> of other systems.  Energy is a scalar quantity measured in Joules (J).</p>
+	</statement>
+</definition>
+
+<exercises>
+<title>Forms of Energy</title>
+</exercises>
 
 <p>
-Historically, Aristotle of Stagira (384–322 BCE) in ancient Greece was the first known writer to use the word energeia (ενεργεια) in his text Nicomachean Ethics. Energeia literally means "in work" or "to contain work". 
+Energy comes in many types known as <term>forms</term>.  The primary forms you will encounter in physics are <alert>kinetic energy</alert> (energy associated with motion, including translational, rotational, and thermal kinetic energy) and <alert>potential energy</alert> (including gravitational, electrical, chemical, and nuclear potential energies).  Within a system, energy can <em>transform</em> from one form to another form.  You can add together all the different forms of energy in a system to get that system's <term>total energy</term>, usually symbolized by <m>E_{\text{total}}</m> or just <m>E</m>.</p>
+
+<exercises>
+<title>Energy Transfer</title>
+</exercises>
+
+<p>
+Energy can be transferred from one system to another when those two systems interact with each other in certain ways.  When energy is transferred from one system to another, the total energy of one system will increase and the total energy of the other system will decrease by the same amount.  The primary means of energy transfer in physics are <alert>work</alert> (energy transfer associated with a force) and <alert>heat</alert> (energy transfer associated with a difference in temperature).  If a system is not interacting with anything external (or if all external energy transfers sum to zero), you can say that the total energy of the system is <term>conserved</term>, or constant in time.  If you were to choose a system consisting of everything in the universe, since there is nothing external to interact with the universe, you can say that the total energy in the universe should be conserved.
 </p>
-		
-  </introduction>
-	
-	
-    <p>
-      <em>Exercise:</em> 
-    </p>
+
+<aside>
+<title>Conservation</title>
+<p>Conservation laws are powerful natural laws which describe which processes simply can or cannot occur.  Energy becomes especially valuable when you have systems of many objects interacting where a detailed consideration of all the forces may be difficult or impossible.</p>
+</aside>
+
+<insight>
+<title>Origins of Energy as a Concept</title>
+<p>
+Historically, Aristotle of Stagira (384–322 BCE) in ancient Greece was the first known writer to use the word energeia (ενεργεια) in his text Nicomachean Ethics. Energeia literally means "in work" or "to contain work".  In physics, <em>energy is often defined as the ability to do work</em>. 
+</p>
+</insight>
+
+
+<exercises>
+	<title>Energy Activities</title>
+			<exercise xml:id="x_intro-energy-scalar">
+			<title>Sensemaking: Type of Quantity</title>
+			<statement>
+			  <p>In contrast to the many <em>vector</em> quantities you have studied, energy is a <em>scalar</em> quantity.  What is the primary difference between a vector quantity and a scalar quantity?</p>
+				</statement>
+				<answer>
+				<p>A vector quantity has both a magnitude and a direction, and can be represented by an arrow in space.  A scalar quantity is represented only by a single number, and so it does not have a direction, although that number can be positive, negative, or zero.</p>
+				</answer>
+			</exercise>
+			<exercise xml:id="x_intro-energy-forms">
+			<title>Exploration: Energy Forms for a Skier</title>
+			  <p>Just before you start skiing down a mountain, your system starts with a large amount of gravitational potential energy.  As you ski down the mountain, your system's gravitational potential energy <em>decreases</em>, transforming into other forms.  What other forms of your system's energy do you think are changing as you ski down the mountain?  Are they increasing or decreasing?  Do you expect any forms of energy to change in more than one way?</p>
+			</exercise>
+			<exercise xml:id="x_intro-energy-transfers">
+			<title>Practice: Energy Transfer</title>
+			<p>Suppose you have three systems: A, B, and C.  Each system begins with a total energy of 50 J.  The systems then interact so that system A transfers 20 J to system B and system B transfers 35 J to system C.  Find the total energy of each system after the energy transfers.</p>
+			</exercise>
+									<exercise>
+			<title>Sensemaking: Unit Conversion</title>
+			  <p>Another common unit for energy is the kilocalorie (known colloquially as the Calorie).  Look up the number of Joules in a kilocalorie.  How many Joules are in a typical 2000 Calorie daily diet?</p>
+			</exercise>
+		</exercises>
   
 
 	

@@ -2,42 +2,63 @@
 
 <section xml:id="sec_ke" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Kinetic Energy</title>
-  <introduction>
   
-  <p>
-  Kinetic energy is the <alert>energy of motion</alert>. 
-  </p>
+      <video youtube="bzi7R6AW5vA"><description>Defining kinetic energy.</description></video>
   	
-    <p>
-     Watch the video briefing below on kinetic energy.  With extra test language//.
-    </p>
-		
-		<figure xml:id="en_vb-ke">
-		  <caption>Defining kinetic energy.</caption>
-      <video youtube="bzi7R6AW5vA"></video>
-    </figure>
-		
-  </introduction>
 	
 	<definition>
 	<title>Kinetic Energy</title>
 	<statement>
-	<p>The <term>kinetic energy</term> of a point object is: <m>K = 1/2mv^2</m>.</p>
+	<p>The <term>translational kinetic energy</term> of an object is: <m>K_t = 1/2mv^2</m>.  When you make the Particle Model <xref ref="a_particle"></xref> (that is, no rotational motion), all kinetic energy is translational, and it is often simply called <term>kinetic energy</term> and written <m>K = 1/2mv^2</m>.</p>
 	</statement>
 	</definition>
 
-	<exercises>
+  <p>
+  Kinetic energy is the <alert>energy of motion</alert>.  Most kinetic energy you will work with is translational, due to the motion of an object in a straight line.  Objects that are rotating (which you will study later) will have <term>rotational kinetic energy</term>, possibly in addition to translational kinetic energy.
+  </p>
+	
+	<aside>
+	<title>Thermal Energy</title>
+	<p>Thermal energy is a unique form of kinetic energy related to the internal motion of the individual molecules that make up an object or substance.  An object's thermal energy is related to its temperature: as an object grows warmer, it has more thermal energy.  Internally, energy can transform from other forms into thermal energy, usually when there is a dissipative internal force like friction or air resistance.  Externally, thermal energy can be transferred from one system to a colder object as <term>heat</term>.</p>
+	</aside>
 
-			<exercise>
+	<exercises>
+<title>Kinetic Energy Activities</title>
+			<exercise xml:id="x_summarize-ke">
+			<title>Summarize What You Learned - Kinetic Energy</title>
 			  <p>Write a 1-2 sentence description of what the definition of kinetic energy says in words and why it makes sense given your everyday experience. </p>
 			</exercise>
 			<exercise>
+			<title>Sensemaking: Units</title>
 			  <p>We will measure energy in Joules (J).  Use the definition of kinetic energy to write a Joule in terms of other units you are familiar with.</p>
 			</exercise>
-			<exercise>
-			  			<p>Many cars have a mass that is somewhere around 1200 kg. Estimate the kinetic energy (in J) of such a car that is traveling down a highway at 70 mph.</p>
+				<exercise>
+			<title>Extension: Systems with Multiple Objects</title>
+			<statement>
+			  			<p>Many systems include more than one object.  In general, the different objects could have different masses and different velocities.  How do you think you could find the kinetic energy for such a system?  Write an equation for the total kinetic energy.</p>
+							</statement>
+							<answer>
+							<p><m>K_{\text{total}} = \Sigma K_i = K_1 + K_2 + K_3 + \dots = 1/2m_1v_1^2 + 1/2m_2v_2^2 + 1/2m_3v_3^2 + \dots</m></p>
+							</answer>
 			</exercise>
-			
+			<exercise>
+			<title>Sensemaking: Numbers for a Car</title>
+			<statement>
+			  			<p>Estimate the kinetic energy (in J) of a car traveling down a highway at the speed limit.  Make sense of this number using <xref ref="sm_numbers"></xref>.</p>
+							</statement>
+							<answer>
+							<p>I estimated around 576,000 J.  (Many cars have a mass that is somewhere around 1200 kg, and a typical highway speed limit is 70 mph, which is about 31 m/s.)</p>
+							</answer>
+			</exercise>
+						<exercise>
+			<title>Explanation: Numbers for Two Cars</title>
+			<statement>
+			  			<p>Estimate the kinetic energy (in J) of a system consisting of two identical cars traveling toward each other, both traveling at the same speed.  Is your answer greather than, less than, or equal to the kinetic energy for a single car you found in the previous activity?  Explain why this makes sense.</p>
+							</statement>
+							<answer>
+							<p>You simply add the kinetic energies for the two cars: 576,000 J + 576,000 J = 1,152,000 J.</p>
+							</answer>
+			</exercise>
 		</exercises>
 	
 </section>

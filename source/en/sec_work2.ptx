@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_work2" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Chop-Multiply-Add: Work for Non-Constant Forces</title>
+	
+    <p>
+     In <xref ref="sec_calc1"></xref>, you learned the Chop-Multiply-Add strategy for constructing physics integrals.  You can use this strategy to help find the work done by non-constant forces.
+    </p>
+			
+	<p><term>Chop:</term> Work involves multiplying force and displacement along some path traveled by an object.  You can start by chopping up the path into small steps.  Each step along the path is given by an infinitesimal vector displacement <m>\vec{dr}</m>.</p>
+	
+	<p><term>Multiply:</term> You can then multiply the force acting on the object by the displacement step above to get the infinitesimal amount of work done along only that step <m>dW = \vec{F} \cdot \vec{dr}</m>.</p>
+	
+		<p><term>Add:</term> Last, you <em>add</em> up all the infinitesimal works with an integral along the entire path: <m>W = \int_{i}^{f}\vec{F} \cdot \vec{dr}</m>.</p>
+
+	<exercises>
+	<title>Activities</title>
+
+			<exercise>
+			  <p>Write me.</p>
+			</exercise>
+			
+			</exercises>
+	
+</section>
+
+

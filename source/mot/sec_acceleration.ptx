@@ -3,13 +3,9 @@
 <section xml:id="sec_acceleration" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Acceleration</title>
 		
-		<figure xml:id="mot_vb-acceleration">
-		  <caption>Defining acceleration.</caption>
-      <video youtube="Kn4wcsWCXgY"></video>
-    </figure>
+      <video youtube="Kn4wcsWCXgY"><description>Defining acceleration.</description></video>
 	
-	
-	<p>We use the term acceleration to describe the rate of change of an object's velocity.  Like velocity (the rate of change of an object's position), acceleration can be either average or instantaneous.</p>
+	<p>The term acceleration describes the rate of change of an object's velocity.  Like velocity (the rate of change of an object's position), acceleration can be either average or instantaneous.</p>
 	
 	<definition>
 	<title>Average Acceleration</title>
@@ -27,6 +23,7 @@
 
 
 	<exercises>
+	<title>Activities</title>
 			<exercise xml:id="x_summarize-acceleration">
 			<title>Summarize What You Learned - Acceleration</title>
 			  <p>Write a 1-2 sentence description of what the definition of acceleration says in words. </p>

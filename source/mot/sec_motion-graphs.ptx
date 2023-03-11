@@ -2,11 +2,10 @@
 
 <section xml:id="sec_motion-graphs" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Motion Graphs</title>
-  <introduction>
+ 
     <p>
       In general, quantities of motion like position and velocity are <em>functions of time</em>, in which case they might be written as <m>\vec{r}(t)</m> and <m>\vec{v}(t)</m>.  When written in this way, it is often useful to graph position or velocity vs. time.  Such a graph is known as a <term>motion graph</term>.
     </p>
-  </introduction>
 	
 				<lemma xml:id="rep_motion-graphs">
 			<title>Motion Graph</title>
@@ -30,6 +29,7 @@
 	<p>Note that there is a distinction between the two diagrams: the strobe diagram has one image for each equal <m>\Delta t</m>. The <m>x</m>-position vs. time and velocity vs. time graphs also have equally spaced time increments, but unlike the strobe diagram, they are equally spaced along the axes. The two ways of visualizing motion are qualitatively correct, but you cannot make a direct vertical comparison.</p>
 	
 		<exercises>
+		<title>Activities</title>
 			<exercise xml:id="x_summarize-motion-graphs">
 			<title>Summarize What You Learned</title>
 			<p>You know that velocity and position are related by <m>\vec{v} = \frac{d\vec{r}}{dt}</m>.  How does this relationship appear on graphs of velocity and position vs. time for the same object?</p>

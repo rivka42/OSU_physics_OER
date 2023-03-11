@@ -3,10 +3,8 @@
 <section xml:id="sec_special-cases" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Special-case Analysis</title>
 
-			<figure xml:id="for_vb-special-cases">
-		        <caption>An introduction to Special-case Analysis.</caption>
-      <video youtube="dlprnaTxgGc"></video>
-    </figure>
+      <video youtube="dlprnaTxgGc"><description>An introduction to Special-case Analysis.</description></video>
+    
 		
 				<heuristic xml:id="sense_special-cases">
 	<title>Special-case Analysis</title>
@@ -24,6 +22,7 @@
   </figure>	
   
 	<exercises>
+	<title>Activities</title>
 			<exercise>
 			  <p>When you are making sense of something in physics, it can be tempting to just say "`Yes, this makes sense to me."'  Why do you think you should say more when sensemaking?</p>
 			</exercise>

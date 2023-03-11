@@ -3,11 +3,9 @@
 <section xml:id="sec_calc1" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Using Integrals in Physics</title>
 		
-		<figure xml:id="mot_vb-valc1">
-		  <caption>Using integrals in physics.</caption>
-      <video youtube="26vbUjdFpBk"></video>
-    </figure>
-		
+		  
+      <video youtube="26vbUjdFpBk"><description>Using integrals in physics.</description></video>
+    
 	
 	<p>A strategy you will use to solve a variety of physics problems can be thought of as a sequence of steps called <term>Chop-Multiply-Add</term>.  You can see these steps outlined in the video above for one example.  Below is another example: if you know an object's acceleration as a function of time and you want to find the change in velocity between some initial and final time.</p>
 	
@@ -19,9 +17,11 @@
 	
 
 	<exercises>
-
+<title>Activities</title>
 			<exercise>
-			  <p>The following two equations are both reasonable to write down: <m>\Delta \vec{r} = \int_{t_i}^{t_f}\vec{v}(t)dt</m> and <m>\Delta \vec{r}= \vec{v}\Delta t</m>. </p>
+			  <p>The following two equations are both reasonable to write down: </p>
+				<p>1: <m>\Delta \vec{r} = \int_{t_i}^{t_f}\vec{v}(t)dt</m></p>
+				<p>2: <m>\Delta \vec{r}= \vec{v}\Delta t</m>. </p>
 				<p>What is the difference between them?  In what situations would you use the first equation?  In what situations would you use the second equation?</p>
 			</exercise>
 			

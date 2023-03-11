@@ -2,30 +2,31 @@
 
 <section xml:id="sec_power" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Power</title>
-  <introduction>
-	
-    <p>
-     Watch the video briefing below on power.
-    </p>
 		
-		<figure xml:id="en_vb-power">
-		  <caption>Defining power.</caption>
-      <video youtube="bTf1uglBaEQ"></video>
-    </figure>
-		
-  </introduction>
+      <video youtube="bTf1uglBaEQ"><description>Introducing power.</description></video>
 	
 	<definition>
 	<title>Power</title>
 	<statement>
-	<p><m>P = \frac{dE}{dt}</m>.</p>
+	<p>The time rate of change of energy is known as <term>power</term>: <m>P = \frac{dE}{dt}</m>.  Power is measured in Watts (W).</p>
 	</statement>
 	</definition>
 
 	<exercises>
+  <title>Activities</title>
+				<exercise xml:id="x_summarize-power">
+			<title>Summarize What You Learned - Power</title>
+			  <p>Write a 1-2 sentence description of what the definition of power says in words. </p>
+			</exercise>
+			<exercise>
+			<title>Sensemaking: Units</title>
+			 <statement>
+			  <p>Write the units of power in terms of other units you are familiar with in at least three different ways? Which do you think might be the most useful way of writing them?</p>
+				</statement>
+			</exercise>
 
 			<exercise>
-			  <p>When you get a bill from the power company, you pay for kilowatt-hours. What are you actually paying for, and how do you know? </p>
+			  <p>When you get a bill from the power company, you pay for kilowatt-hours, not Watts. What are you actually paying for, and how do you know? </p>
 			</exercise>
 			
 		</exercises>

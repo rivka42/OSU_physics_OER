@@ -3,11 +3,10 @@
 <section xml:id="sec_N3L" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Action-Reaction Pairs (Newton's Third Law)</title>
 		
-		<figure xml:id="for_vb-n3l">
-		<caption>An introduction to Action-Reaction Pairs, sometimes known as Newton's 3rd Law.</caption>
-      <video youtube="eGYlzV8E5AM">
+		
+      <video youtube="eGYlzV8E5AM"><description>An introduction to Action-Reaction Pairs, sometimes known as Newton's 3rd Law.</description>
       </video>
-    </figure>
+
 	
 	
 		<!-- From Kathy's website, edited -->
@@ -20,6 +19,7 @@
 	
 		
 			<exercises>
+			<title>Activities</title>
 			<exercise>
 			  <p>When a book is sitting at rest on a flat table, there are two forces acting on it. Identify these two forces and explain why they are not Newton's 3rd Law pairs.</p>
 			</exercise>

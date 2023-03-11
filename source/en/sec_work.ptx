@@ -4,19 +4,19 @@
   <title>Work</title>
 	
     <p>
-     One way to change the energy of an object is to do work on it.  Work is a change in energy that arises when an external force acts on an object that moves through some distance.
+     As you saw in previous sections, one way to change the energy of an object is to do work on it.  Work arises when a force acts on an object that moves through some distance.
     </p>
 		
 	
-	<definition>
+	<definition xml:id="def_work">
 	<title>Work</title>
 	<statement>
-	<p>The <term>work</term> done by a single force on an object is: <m>W = \int_i^f {\vec{F} \cdot d\vec{x}}</m>. </p>
+	<p>The <term>work</term> done by a single force <m>\vec{F}</m> on an object moving with displacement <m>\vec{dr}</m> is: <m>W = \int_i^f {\vec{F} \cdot \vec{dr}}</m>. </p>
 	</statement>
 	</definition>
 
 	<exercises>
-	<title>Exploring Work</title>
+	<title>Activities: Exploring Work</title>
 
 			<exercise>
 			  <p>The definition of work can look pretty complicated the first time you see it!  Make a list of all the <em>symbols</em> you see in the equation.  For each symbol, write a short description of what you think that symbol means in the context of this equation.</p>
@@ -28,22 +28,45 @@
 		
       <video xml:id="en_vb-work" youtube="ZN3597-5_NU"><description>Defining work.</description></video>
     
+			<exercise>
+			<title>Explore: Constant Forces</title>
+			<statement>
+			  <p>Suppose you want to calculate the work done by a force that is <alert>constant</alert> (not changing in either magnitude or direction).  Use this fact to simplify the definition above.</p>
+			</statement>
+			<answer>
+			<p><m>W = \vec{F} \cdot \Delta\vec{r}</m></p>
+			</answer>
+			</exercise>
+			
+			<exercise xml:id="x_work-box">
+			<title>Practice Calculating Work</title>
+			<statement>
+			<ol>
+			  <li><p>You are pulling a box across the floor using a horizontal rope with a constant tension force of 250 N.  How much work have you done after the box has slid 3 m along the floor?</p></li>
+			  <li><p>Suppose you were to angle your rope so that it makes an angle of <m>20^o</m> with the horizontal (the magnitude of the tension is unchanged).  How much work have you done after the box has slid 3 m along the floor?</p></li>
+				<li><p>Suppose you were to angle your rope so that it is oriented vertically (the magnitude of the tension is unchanged).  How much work have you done after the box has slid 3 m along the floor?</p></li>
+				<li><p>Why is the work you calculated for the three situations above not the same?</p></li>
+				</ol>
+				</statement>
+				<hint>
 				<p>
      If you need a refresher on the dot product, see <xref ref="sec_dot-product"></xref>, especially the video: <xref ref="vec_vb-dot"></xref>.
     </p>
+				</hint>
+			</exercise>
 			
-			<exercise>
-			  <p>You are pulling a box across the floor using a horizontal rope with a tension force of 250 N.</p>
+						<exercise>
+			<title>Extension: Multiple External Forces</title>
+			<statement>
+			  <p>Suppose you have a system with two objects, <m>A</m> and <m>B</m>.  Different <alert>constant</alert> external forces, <m>\vec{F}_A</m> and <m>\vec{F}_B</m>, act on the two objects, which undergo different displacements <m>\Delta \vec{r}_A</m> and <m>\Delta\vec{r}_B</m>.  Which of the following expressions do you think correctly describes the net work on this system?  Why?</p>
 				
-				<p>How much work (in J) have you done after the box has slid 3 m along the floor?</p>
-			</exercise>
-			<exercise>
-			  <p>Suppose you were to angle your rope so that it makes an angle of <m>20^o</m> with the horizontal (the magnitude of the tension is unchanged).</p>
+				<p>Option 1: <m>W_{\text{net,external}} = \vec{F}_A \cdot \Delta\vec{r}_A + \vec{F}_B \cdot \Delta\vec{r}_B</m></p>
 				
-				<p>How much work (in J) have you done after the box has slid 3 m along the floor?</p>
-			</exercise>
-			<exercise>
-				<p>Why is the work you calculated for the two situations above not the same?</p>
+				<p>Option 2: <m>W_{\text{net,external}} = (\vec{F}_A + \vec{F}_B) \cdot (\Delta\vec{r}_A + \Delta\vec{r}_B)</m></p>
+				</statement>
+				<answer>
+				<p>Option 1 is right because it separately calculates the work by each force before adding them together!</p>
+				</answer>
 			</exercise>
 			
 		</exercises>

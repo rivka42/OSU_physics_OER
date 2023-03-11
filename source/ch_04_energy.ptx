@@ -26,10 +26,21 @@
 
 
 
-        <xi:include href="./en/sec_what-is-energy.ptx" />
-	<xi:include href="./en/sec_ke.ptx" />
-	<xi:include href="./en/sec_work.ptx" />
+  <xi:include href="./en/sec_what-is-energy.ptx" />
+	<xi:include href="./en/sec_system-diagrams.ptx" />
 	<xi:include href="./en/sec_work-energy-thm.ptx" />
+	<xi:include href="./en/sec_work.ptx" />
+	<xi:include href="./en/sec_work2.ptx" />
+	<xi:include href="./en/sec_ke.ptx" />
 	<xi:include href="./en/sec_power.ptx" />
+	<xi:include href="./en/sec_energy-analysis.ptx" />
 	
 </chapter>
+
+
+
+
+
+
+
+
