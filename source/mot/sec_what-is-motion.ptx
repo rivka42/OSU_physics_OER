@@ -3,6 +3,20 @@
 <section xml:id="sec_what-is-motion" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Motion and Physics</title>
 	
+					<exercises>
+				<title>Introductory Activities</title>
+					<exercise xml:id="x_intro-motion">
+									<title>Explore What You Already Know about Motion</title>
+						<statement>
+							<p>Make a list of everything you know about motion.  Your list can include anything you want: words, symbols, equations, pictures, experiences, questions, <em>etc.</em>  Try to base what you write as much on your everyday personal experience as on any previous formal instruction on motion.  (Your list can be as long as you want, but you might aim to fill up a decent part of one sheet of paper.)</p>
+						</statement>
+					</exercise>
+					<exercise>
+					<title>Explore Everyday Motion</title>
+					<p>You glance at the speedometer of a car and observe that it reads 27 miles per hour. Write 1-2 sentences about the meaning of the speedometer reading. Does the meaning depend on whether you are in the car for longer or shorter than one hour?</p>
+					</exercise>			
+				</exercises>
+	
 	<p>You can find many different definitions for the subject of physics.  One way to define physics is by listing the <em>aspects of the real world</em> that physics aims to describe.  Such aspects typically include motion, forces, and energy, along with many other topics that may or may not fall within those three terms.  You will start by studying <em>motion</em>: the movement of one or more objects through space.</p>
 	
 	<aside>
@@ -19,30 +33,20 @@
   </figure>	
 	
 				<exercises>
-				<title>Introductory Activities</title>
-					<exercise xml:id="x_intro-motion">
-									<title>Explore What You Already Know about Motion</title>
-						<statement>
-							<p>Make a list of everything you know about motion.  Your list can include anything you want: words, symbols, equations, pictures, experiences, questions, <em>etc.</em>  Try to base what you write as much on your everyday personal experience as on any previous formal instruction on motion.  (Your list can be as long as you want, but you might aim to fill up a decent part of one sheet of paper.)</p>
-						</statement>
-					</exercise>
-					<exercise>
-					<title>Explore Everyday Motion</title>
-					<p>You glance at the speedometer of a car and observe that it reads 27 miles per hour. Write 1-2 sentences about the meaning of the speedometer reading. Does the meaning depend on whether you are in the car for longer or shorter than one hour?</p>
-					</exercise>
+				<title>Explanation Activity</title>
 					<exercise xml:id="x_intro-explanation">
-									<title>Explanation</title>
 						<statement>
-							<p>ADD ME</p>
+							<p>An example of how you might talk about motion in your everyday life is the expression "`distance equals rate times time."'  Use this as a fundamental concept to practice constructing an explanation for the context below.</p>
+							<p>You and a friend are driving in separate cars from the city of Corvallis to its neighboring city of Albany.  You travel at a speed that is just under the speed limit, while your friend travels at a speed that is just over the speed limit.  Which of you arrives in Albany first.</p>
 						</statement>
+						<hint>Sometimes you need to make additional assumptions in order to answer a question.  What assumptions might be important here?</hint>
+						<answer>Your friend arrives first!</answer>
+						<solution>In addition to "`distance equals rate times time,"' try these two assumptions: that the distance traveled is the same (both drivers take the same route) and that the drivers leave at the same time.  Since the product of speed (rate) and time must be a constant (the distance driven), the driver with the larger speed must complete the drive in the smaller time.  Your friend is the driver with the higher speed, so they must take less time, arriving before you!</solution>
 					</exercise>
 					
 				</exercises>
 
 
-
-<p></p>
-		
   
 
 	
