@@ -44,7 +44,7 @@ Now, consider the cosine of angle <m> \theta</m> and its relationship to the sid
 </me>	
 
 <p>
-To find the x-component of the position vector <m>\vec{r} </m> you can use the above relationship where <m> r_x = r\cos\theta</m>. 
+To find the <m>x</m>-component of the position vector <m>\vec{r} </m> you can use the above relationship where <m> r_x = r\cos\theta</m>. 
 </p>
 
 <p>
@@ -56,7 +56,7 @@ tan \theta = \frac{\text{opposite}}{\text{adjacent}} = \frac{r_y}{r_x}  \rightar
 </me>	
 
 <p>
-Note that vectors are intimately related to right triangle trigonometry. In fact, geometrically the magnitude (length) of a vector is simply the length of the hypotenuse which can be determined using the familiar Pythagorean theorem.
+Note that vectors are intimately related to right triangle trigonometry. In fact, geometrically the magnitude of a vector is simply the hypotenuse, which can be determined using the familiar Pythagorean theorem.
 </p>
 
 <me>
@@ -64,8 +64,19 @@ r = |\vec{r}| = \sqrt{r_x^2 + r_y^2}
 </me>	
 
 
-
-
+			<exercises>
+		<title>Practice Activities</title>
+				<exercise xml:id="x_vector-lengths">
+		<statement>
+		<p>Find the length of the vectors <m>\vec{v_1}= 3\hat{x}-4\hat{y}</m> and <m>\vec{v_2}= -12\hat{x}-5\hat{y}</m>.  Find their direction as an angle relative to an axis of your choice.</p>
+		</statement>
+		</exercise>
+		<exercise>
+		<statement>
+		<p>A vector with length 12 m points 10 degrees west of south.  Sketch this vector and find its <m>x</m>- and <m>y</m>-components.</p>
+		</statement>
+		</exercise>
+		</exercises>
 
 
 <references>

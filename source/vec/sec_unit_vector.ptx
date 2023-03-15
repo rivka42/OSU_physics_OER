@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_unit_vector" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>The Unit Vector</title>
+  <title>Unit Vectors</title>
 
     <p>
-You will often need to orient a vector within a particular coordinate system. A unit vector is a vector that has magnitude (length) of one. For this reason, unit vectors are often called direction vectors.
+You will often need to orient a vector within a particular coordinate system. A unit vector is a vector that has magnitude of one. For this reason, unit vectors are often called direction vectors.
     </p>
     
  <p>
-You represent a unit vector symbolically with a "hat." Most commonly, unit vectors are used for indicating the directions of a coordinate system. For example <m> \hat{x} </m>, <m> \hat{y} </m> and <m> \hat{z} </m> are unit vectors which point parallel to the positive x-direction, positive y-direction and positive z-direction (these are often called basis vectors in a mathematics class).
+You represent a unit vector symbolically with a "hat." Most commonly, unit vectors are used for indicating the directions of a coordinate system. For example <m> \hat{x} </m>, <m> \hat{y} </m> and <m> \hat{z} </m> are unit vectors which point parallel to the positive <m>x</m>-direction, positive <m>y</m>-direction and positive <m>z</m>-direction (these are often called basis vectors in a mathematics class).
 </p>
 
 <p>
@@ -24,7 +24,7 @@ Since <m> \hat{x} </m>, <m> \hat{y} </m> and <m> \hat{z} </m> are mutually perpe
 </me>		
 
 <p>
-Many textbooks, and authors use different notation for the unit vectors. Often, you will see unit vectors written using <m> \hat{i} </m>, <m> \hat{j} </m> and <m> \hat{k} </m> to represent the positive x-direction, positive y-direction and positive z-direction. Both notations are equivalent, and are just a convention. Use whatever notation is more comfortable for you. 
+Many textbooks, and authors use different notation for the unit vectors. Often, you will see unit vectors written using <m> \hat{i} </m>, <m> \hat{j} </m> and <m> \hat{k} </m> to represent the positive <m>x</m>-direction, positive <m>y</m>-direction, and positive <m>z</m>-direction. Both notations are equivalent, and are just a convention. Use whatever notation is more comfortable for you. 
 </p>
 
 <p>This short video includes a brief summary of unit vectors:</p>	
@@ -32,6 +32,20 @@ Many textbooks, and authors use different notation for the unit vectors. Often, 
       <video youtube="Bq0fDYtbfBA">
         <description>MIT Coordinate systems and unit vectors.</description>
       </video>
+			
+			<exercises>
+		<title>Practice Activities</title>
+				<exercise xml:id="x_unit-vector">
+		<statement>
+		<p>Sketch a unit vector that points in the same direction as the vector <m>\vec{v_1}= 3\hat{x}-4\hat{y}</m>.</p>
+		</statement>
+		</exercise>
+		<exercise>
+		<statement>
+		<p>Sketch a unit vector that points perpendicular to the vector <m>\vec{v_2}= -12\hat{x}-5\hat{y}</m>.</p>
+		</statement>
+		</exercise>
+		</exercises>
   
 <references>
 <biblio xml:id="ref_mit-vectors3">

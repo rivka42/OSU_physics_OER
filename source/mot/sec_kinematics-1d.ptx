@@ -5,10 +5,7 @@
 		
 		  
       <video youtube="u67tATWkDQk"><description>Motion with constant acceleration in one dimension.</description></video>
-   
-		
-	<p></p>
-	
+   	
 	<assumption>
 	<title>Motion with Constant Acceleration</title>
 	<statement>
@@ -26,7 +23,7 @@
 			<exercise xml:id="x_sensemaking-kinematics">
 			<title>Sensemaking - Covariation</title>
 			<statement>
-			  <p>Explore the relationship between the quantities in the constant-acceleration equations by considering how changing the <em>value</em> of the constant acceleration might impact the other quantities.  For example, if an object's acceleration is larger, what do the equations say about the final velocity and position of the object?  Do your answers depend on any of the other quantities in the equations?  Does this agree with your everyday experience of accelerating objects?</p>
+			  <p>Explore the relationship between the quantities in the constant-acceleration equations by considering how changing the <em>value</em> of the constant acceleration might impact the other quantities.  For example, if the magnitude of an object's acceleration is larger, what do the equations say about the final velocity and position of the object?  Do your answers depend on any of the other quantities in the equations?  Does this agree with your everyday experience of accelerating objects?</p>
 				</statement>
 				<hint>
 				<p>Remember to follow the sensemaking steps from <xref ref="fig_sensemaking"/>.</p>
@@ -36,8 +33,11 @@
 			<exercise xml:id="x_practice-kinematics">
 			<title>Practice - Tricycle</title>
 			<statement>
-			<p>Consider a child on a tricycle accelerating from rest at a rate of <m>0.75 \text{m/s^2}</m> for a total of 9 s.  Find the child's final velocity and position.</p>
+			<p>Consider a child on a tricycle accelerating from rest<fn>the initial velocity is 0</fn> at a rate of <m>0.75 \text{ m/s^2}</m> for a total of 9 s.  Find the child's final velocity and final position.</p>
 			</statement>
+			<hint>
+			<p>You can define the child's initial position to be 0.</p>
+			</hint>
 			</exercise>
 			
 			<exercise xml:id="x_extension-kinematics">

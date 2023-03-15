@@ -26,7 +26,7 @@
 	
 	<p>WE NEED TO UPDATE THE OTHERS AND INCLUDE THEM.</p>
 	
-	<p>Note that there is a distinction between the two diagrams: the strobe diagram has one image for each equal <m>\Delta t</m>. The <m>x</m>-position vs. time and velocity vs. time graphs also have equally spaced time increments, but unlike the strobe diagram, they are equally spaced along the axes. The two ways of visualizing motion are qualitatively correct, but you cannot make a direct vertical comparison.</p>
+	<p>Note that there is a distinction between the two diagrams: the strobe diagram has one image for each equal <m>\Delta t</m>. The position vs. time and velocity vs. time graphs also have equally spaced time increments, but unlike the strobe diagram, they are equally spaced along the axes. The two ways of visualizing motion are qualitatively correct, but you cannot make a direct vertical comparison.</p>
 	
 		<exercises>
 		<title>Activities</title>
@@ -36,7 +36,7 @@
 			</exercise>
 			<exercise xml:id="x_practice-making-motion-graphs">
 			<title>Practice Creating a Motion Graph</title>
-			<p>Recall <xref ref="mot_MotionA"></xref>.  Sketch motion graphs for the ball showing position and velocity vs. time.</p>
+			<p>Recall <xref ref="mot_MotionA"></xref>.  Sketch motion graphs for the ball showing position vs. time and velocity vs. time.</p>
 			</exercise>
 			<exercise xml:id="x_practice-int-motion-graphs">
 			<title>Practice Interpreting a Motion Graph</title>

@@ -20,7 +20,7 @@ Now let's learn how to <em>algebraically</em> compute the vector operations you 
  </exercises>
   
 <p>
-To add vectors algebraically, you simply add/subtract like components.
+To add vectors algebraically, you simply add like components.
 </p>
 
 <md>
@@ -76,6 +76,26 @@ To subtract vectors algebraically, you simple subtract like components.
  This concludes our chapter on vectors. Understanding vector operations is fundamental to all of physics. It is of utmost importance that you learn to use multiple representations of vectors (diagrams, graphs, words, equations) and be able to move back and forth between those representations. 
  </p>
 -->
+
+			  		<exercises>
+		<title>Practice Activities</title>
+		<p>Use the following two vectors for these activities: <m>\vec{A}=-5\hat{x}-\hat{y}</m> and <m>\vec{B}=-2\hat{x}+3\hat{y} </m> </p>
+				<exercise xml:id="x_vector-operations">
+		<statement>
+		<p>Find <m>-\vec{B}/5</m>.</p>
+		</statement>
+		</exercise>
+		<exercise>
+		<statement>
+		<p>Find <m>\vec{A} + 2\vec{B}</m>.</p>
+		</statement>
+		</exercise>
+		<exercise>
+		<statement>
+		<p>Find <m>\vec{A} - \vec{B}</m>.</p>
+		</statement>
+		</exercise>
+		</exercises>
   
 	
 </section>

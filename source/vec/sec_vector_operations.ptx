@@ -53,7 +53,25 @@ Multiplication of a vector with a positive scalar will <em>scale</em> the magnit
     </figure>
 
 
-  
+  		<exercises>
+		<title>Practice Activities</title>
+		<p>Given the vector <m>\vec{A}</m> in <xref ref="vec_scalar_mult"></xref>, find each of the following and sketch the resulting vector.</p>
+				<exercise>
+		<statement>
+		<p><m>\vec{C} = -3\vec{A}</m></p>
+		</statement>
+		</exercise>
+		<exercise>
+		<statement>
+		<p>Find <m>2\vec{A} + 3\vec{A}</m>.</p>
+		</statement>
+		</exercise>
+		<exercise>
+		<statement>
+		<p>Find <m>\vec{C} - \vec{A}</m>.</p>
+		</statement>
+		</exercise>
+		</exercises>
 
       
 <references>

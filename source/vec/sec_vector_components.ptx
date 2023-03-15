@@ -16,7 +16,7 @@ Consider a <alert>position</alert> vector <m>\vec{r}</m> shown in the two-dimens
 </p>
 
     <figure xml:id="vec_2D_position_vec_w_angle">
-    	<caption>A representation of a position vector in an <m>xy</m>-coordinate system showing the positive angle from the x-axis and the components of <m>\vec{r}</m> along the <m>x</m>- and <m>y</m>-axes .</caption>
+    	<caption>A representation of a position vector in an <m>xy</m>-coordinate system showing the positive angle from the <m>x</m>-axis and the components of <m>\vec{r}</m> along the <m>x</m>- and <m>y</m>-axes .</caption>
     		<image source="vectors/vec_2D_position_vec_w_angle.png" width = "50%" ></image>
     </figure>
     
@@ -47,6 +47,15 @@ r = \sqrt{r_x^2 + r_y^2}
 <p>
 Magnitudes are also sometimes written symbolically using bars <m> |\vec{r}|</m> around the vector. Both representations are equivalent. 	
 </p>
+
+			<exercises>
+		<title>Practice Activities</title>
+				<exercise xml:id="x_vector-comps">
+		<statement>
+		<p>Sketch four different vectors so that each vector points in a different quadrant<fn>the vector shown above is in the first quadrant; the second quadrant has a negative <m>x</m>-component; the third quadrant has both components negative; and the fourth quadrant has negative <m>y</m>-component</fn>.  For each vector, choose an angle and sketch a right triangle whose legs are the components of the vector, like the one in the figure above.</p>
+		</statement>
+		</exercise>
+		</exercises>
 
   
 <references>
