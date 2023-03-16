@@ -19,7 +19,7 @@
 		<definition xml:id="def_spring">
 	<title>Hooke's Law</title>
 	<statement>
-		<p>An ideal spring that does not deform when displaced from equilibrium will obey Hooke's Law, with a force that is linearly proportional to the displacement from equilibrium: <m>\vec{F}^{S} = -k(\vec{x} - \vec{x}_{eq})</m>.</p>
+		<p>An ideal spring<fn>a spring that is massless and does not deform when displaced from equilibrium</fn> obeys Hooke's Law, with a force that is linearly proportional to the displacement from equilibrium: <m>\vec{F}^{S} = -k(\vec{x} - \vec{x}_{eq})</m>.</p>
 	</statement>
 </definition>
 	

@@ -12,7 +12,7 @@
 	<ul>
 	<li> A <alert>normal force</alert> is a force between two objects that acts <em>perpendicular</em> to the surface of contact between them.<fn>the word <em>normal</em> here is used in a mathematical sense that means <em>perpendicular</em></fn>  Normal forces always push away from the surface of contact.  There is no model for the magnitude of a normal force: if you do not know the magnitude of a normal force from some external source, you can probably determine it by exploring the context. </li>
 	<li> A <alert>friction force</alert> is a force between two objects that acts <em>parallel</em> to the surface of contact between them, in contrast to the normal force above.  You will learn more about the force of friction starting in <xref ref="sec_static-friction"></xref>.</li>
-	<li> A <alert>tension forces</alert> is a force between a rope or a string and another system.  Tension forces always pull along the direction of the rope at the surface of contact.  You will learn more about the force of friction in <xref ref="sec_tension"></xref>.</li>
+	<li> A <alert>tension force</alert> is a force between a rope or a string and another system.  Tension forces always pull along the direction of the rope or string at the surface of contact.  You will learn more about the force of friction in <xref ref="sec_tension"></xref>.</li>
 	</ul>
 	</p>
 

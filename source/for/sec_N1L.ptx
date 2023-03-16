@@ -18,9 +18,9 @@
 	
 		<historical>
 		<title>Aristotelian Motion</title>
-	<p>Before Newton's Laws of Motion, a prevailing theory of motion was put forth by Aristotle: that the natural state of an object was to be at rest as close as possible to the center of the universe (which was, of course, the center of the earth), and that if an object was disturbed, it would move and then return to rest.</p>
+	<p>Before Newton's Laws of Motion, a prevailing theory of motion was put forth by Aristotle: that the natural state of an object was to be at rest as close as possible to the center of the universe (which was, of course, the center of the Earth), and that if an object was disturbed, it would move and then return to rest.</p>
 	
-	<p>In contrast, the Law of Inertia states something fundamental about the behavior of objects: that an object <alert>does not</alert> have a natural state of rest.</p>
+	<p>In contrast, the Law of Inertia states something fundamental about the behavior of objects: that an object has two possible natural states: at rest or moving in a straight line at constant speed.</p>
 	</historical>
 	
 	<p>The term inertia&#8212;more commonly referred to as <term>mass</term>&#8212;is the capacity of an object to resist any change to its motion.  The more mass something has, the more net external force it is going to take to change the object's motion.</p>
@@ -45,7 +45,7 @@
 			  <p>A heavy book sits on a table in your house.  <alert>System</alert>: the book.</p>
 			</exercise>
 			<exercise>
-			  <p>A fully loaded delivery truck is parked on an icy hill when it's emergency brake fails.  <alert>System</alert>: the delivery truck.</p>
+			  <p>A fully loaded delivery truck is parked on an icy hill when its emergency brake fails.  <alert>System</alert>: the delivery truck and everything in it.</p>
 			</exercise>						
 			<exercise>
 			  <p>A spaceship with its engines off is traveling from Mars back home to Earth.  <alert>System</alert>: the spaceship.</p>

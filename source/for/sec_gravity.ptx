@@ -46,7 +46,7 @@
 						<exercise xml:id="x_practice-grav-field">
 			<title>Practice - Gravitational Field</title>
 			<statement>
-			<p>Your friend claims they have a gravitational field generator that can create a gravitational field throughout their physics lab.  You decide to test it by placing a 12 kg object in the lab and measuring a gravitational force of 7.8 N acting on the object.  What is the magnitude of the gravitational field your friend has created?</p>
+			<p>Your friend claims they have a gravitational field generator that can create a gravitational field throughout their physics lab.  You decide to test it by placing a 12 kg object in the lab and measuring a gravitational force with magnitude 7.8 N acting on the object.  What is the magnitude of the gravitational field your friend has created?</p>
 			</statement>
 			<answer>
 			0.65 N/kg

@@ -11,11 +11,11 @@
 				<definition>
 	<title>Kinetic Friction</title>
 	<statement>
-		<p>The magnitude of any <term>kinetic friction</term> force is related to the corresponding normal force<m>|\vec{F}^{kf}_{12}| = |\mu_k \vec{F}^{N}_{12}|</m>.  The kinetic friction will act in a direction that opposes the actual relative motion of the objects involved.</p>
+		<p>The magnitude of any <term>kinetic friction</term> force is related to the corresponding normal force<m>|\vec{F}^{kf}_{12}| = |\mu_k \vec{F}^{N}_{12}|</m>.  The kinetic friction will act in a direction that opposes the relative motion of the objects involved.</p>
 	</statement>
 </definition>
 
-<p>The constant <m>\mu_k</m> is called the coefficient of kinetic friction; it is a property of the substances involved in the force that is usually smaller than the corresponding <m>\mu_s</m>.</p>
+<p>The constant <m>\mu_k</m> is called the coefficient of kinetic friction; it is a property of the surfaces of the two objects involved in the force that is usually smaller than the corresponding <m>\mu_s</m>.</p>
 
 	
 		

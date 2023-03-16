@@ -10,7 +10,7 @@
 
 <p><alert>Understanding:</alert> Identify all relevant systems and draw a Free-body Diagram for each.</p>
 
-<p><alert>Calculating:</alert> Is the acceleration of each system 0 (static or dynamic equilibrium) or not 0 (dynamics)?  In addition to the Law of Motion, use any action/reaction pairs between the interacting systems.</p>
+<p><alert>Calculating:</alert> Is the acceleration of each system 0 <m>0 \text{ m/s^2}</m> (static or dynamic equilibrium) or not 0 <m>0 \text{ m/s^2}</m> (dynamics)?  In addition to the Law of Motion, use any action/reaction pairs between the interacting systems.</p>
 
 <p><alert>Sensemaking:</alert> All the sensemaking strategies you have will work, but a new strategy called Special-case Analysis (see <xref ref="sec_special-cases"/>) can be especially useful.</p>
 
@@ -21,7 +21,7 @@
 			<exercise>
 			<title>Real-world Context: Uh-Oh Dr. Paws</title>
 			<statement>
-			  <p>In the video, a footstool is pushed across the floor so that Dr. Paws and the footstool speed up together.  How much force can the person pushing the footstool exert before Dr. Paws begins sliding?</p>
+			  <p>In the video, a footstool is pushed across the floor so that Dr. Paws and the footstool speed up together.  What is the maximum magnitude of the force the person could exert on the footstool before Dr. Paws begins sliding?</p>
 				</statement>
 				<hint>
 				What kind of friction acts on Dr. Paws before she begins to slide?

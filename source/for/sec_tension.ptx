@@ -10,7 +10,7 @@
 <assumption xml:id="a_tension">
 	<title>Ideal Rope</title>
 	<statement>
-		<p>An ideal rope will have a uniform tension only if it is (1) massless, (2) inextensible, and (3) free of forces acting on the middle of the rope.</p>
+		<p>An ideal rope will have a uniform tension only if it is (1) massless, (2) inextensible, and (3) free of forces other than tension acting on the middle of the rope.</p>
 	</statement>
 </assumption>
 
