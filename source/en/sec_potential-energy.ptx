@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_potential-energy" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Potential Energy</title>
+	
+	<exercises>
+	<title>Activities</title>
+
+	  <p>ADD ME:</p>
+      <video youtube="ZN3597-5_NU"><description>What happens when you pull on a Bungee cord?</description></video>
+
+<p>In the video, a bungee cord<fn>a bungee cord can be treated like a spring or a rubber band</fn> is initially at rest at its equilibrium position.  Then, an instructor pulls on both ends of the cord for a short time, ending with the cord stretched but at rest.  Consider the system consisting only of the bungee cord.</p>
+
+			<exercise>
+<title>Explanation: Work</title>
+			  <p>The work done by each hand is positive (and thus, the net work on the system is positive). Explain why this must be true using our definition for work.</p>
+			</exercise>
+			<exercise>
+<title>Explanation: Total Energy</title>
+			  <p>Is the change in total energy of the system positive, negative, or zero?  Explain your reasoning.</p>
+			</exercise>
+			<exercise>
+<title>Explanation: Energy Forms</title>
+			  <p>If you answered that the total energy of the system changes, what is the form of that energy in the system? If you answered that the total energy of the system stays the same, were there any changes in energy outside the system?</p>
+			</exercise>
+
+	  <p>ADD ME:</p>
+      <video youtube="ZN3597-5_NU"><description>Introducing potential energy.</description></video>
+		
+	<definition>
+	<title>Potential Energy</title>
+	<statement>
+	<p>The change in <term>potential energy</term> is the negative of the work done by an internal <em>conservative</em> force<fn>the work done by a conservative force between any two points in space must be independent of the path taken between those points</fn> is: <m>\Delta U = -W_{internal} = -\int_i^f {\vec{F}_{internal} \cdot d\vec{r}}</m>. </p>
+	</statement>
+	</definition>
+		
+			<exercise>
+			  <p>Explain the meaning of the negative sign in the definition of the change in potential energy given above.</p>
+			</exercise>		
+		</exercises>
+	
+</section>

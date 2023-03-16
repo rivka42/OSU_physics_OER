@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_calculating-u" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Spring Potential Energy</title>
+
+	  <p>ADD ME:</p>
+      <video youtube="ZN3597-5_NU"><description>Calculating the Spring Potential Energy</description></video>
+
+<definition>
+	<title>Spring Potential Energy</title>
+	<statement>
+	<p>The potential energy for an ideal spring is <m>U_{spring} = \frac{1}{2}kx^2</m>, where <m>x</m> is the displacement of the spring from its equilibrium position. </p>
+	</statement>
+	</definition>
+	
+
+
+	<exercises>
+	<title>Activities</title>
+			<exercise>
+<title>Explanation</title>
+			  <p>Is the following statement true or false: “If you compress or extend the same spring by the same distance, the potential energy stored in the spring is the same.”  Explain your reasoning.</p>
+			</exercise>
+			<exercise>
+<title>Calculation</title>
+<statement>
+			  <p>Many mattresses can be approximated as ideal springs.  Estimate the potential energy stored in such a mattress when one person lies down on the mattress.</p>
+</statement>
+<hint>
+<p>Try searching “mattress spring constant” and estimating the distance a mattress might compress from everyday experience.</p>
+</hint>
+			</exercise>
+			</exercises>
+	
+</section>

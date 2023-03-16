@@ -32,8 +32,12 @@
 	<xi:include href="./en/sec_work.ptx" />
 	<xi:include href="./en/sec_work2.ptx" />
 	<xi:include href="./en/sec_ke.ptx" />
-	<xi:include href="./en/sec_power.ptx" />
 	<xi:include href="./en/sec_energy-analysis.ptx" />
+	<xi:include href="./en/sec_power.ptx" />
+	<xi:include href="./en/sec_potential-energy.ptx" />
+	<xi:include href="./en/sec_spring-potential-energy.ptx" />
+	<xi:include href="./en/sec_energy-bar-charts.ptx" />
+	<xi:include href="./en/sec_potential-energy-diagrams.ptx" />
 	
 </chapter>
 
