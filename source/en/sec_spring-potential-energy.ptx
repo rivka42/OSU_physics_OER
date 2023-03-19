@@ -6,7 +6,7 @@
 	  <p>ADD ME:</p>
       <video youtube="ZN3597-5_NU"><description>Calculating the Spring Potential Energy</description></video>
 
-<definition>
+<definition xml:id="def_spring-potential-energy">
 	<title>Spring Potential Energy</title>
 	<statement>
 	<p>The potential energy for an ideal spring is <m>U_{spring} = \frac{1}{2}kx^2</m>, where <m>x</m> is the displacement of the spring from its equilibrium position. </p>

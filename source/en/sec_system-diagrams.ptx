@@ -2,30 +2,31 @@
 
 <section xml:id="sec_system-diagrams" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Energy System Diagrams</title>	
-		
-		<p>ADD ME:</p>
-        
-      <video youtube="KEmhb2gHr1U"><description>An introduction to energy system diagrams.</description></video>
+		      
+      <video youtube="D8MzvLM2m64"><description>An introduction to energy system diagrams.</description></video>
 
 				<lemma>
 			<title>Energy System Diagram</title>
 			<statement>
-				<p>An <term>Energy System Diagram</term> is a pictorial way to represent both the transfer of energy between systems and the transformation of energy within those systems.  Each system of interest is drawn as a large circle or oval labeled with a list of objects in the system.  Small boxes represent each form of energy within each system.  Large arrows connecting the systems represent the transfer of energy between systems, while small arrows between the boxes represent the transformation of energy from one form to another.</p>
+				<p>An <term>Energy System Diagram</term> is a pictorial way to represent both the transfer of energy between systems and the transformation of energy within those systems.  Each system of interest is drawn as a large circle or oval labeled with a list of objects in the system.  Small boxes represent each form of energy within each system.  Arrows connecting the systems represent the transfer of energy between systems, while arrows between the boxes represent the transformation of energy from one form to another within a system.</p>
 			</statement>
 		</lemma>
 		
 		<p>The study of energy is even more strongly concerned with systems (<xref ref="def_system"></xref>) than the study of forces.  When you identify a system of interest, you want to know which things are internal and which are external to that system.  <em>Internal</em> interactions result in the transformation of energy from one form to another, while <em>external</em> interactions result in the transfer of energy from one system to another.</p>
 				
 		<exercises>
-		<title>Activities</title>
+		<title>Activity: A Falling Apple</title>
+		<p>
+      An apple is initially attached to a branch on an apple tree.  A gust of wind dislodges the apple at noon, which falls to the base of the tree, where it rolls along flat ground into a patch of grass.  At nightfall, a grazing horse eats and digests the apple.
+    </p>
 		<exercise xml:id="x_practice-system-diagrams">
     <p>
-      Add me
+      List all the objects of interest in this context.  For each object, describe the different forms of energy it possesses or can possess.  Which forms of energy change?  When is energy transferred from one object to another?
     </p>
 		</exercise>
 		<exercise>
 		<p>
-		Add me
+		Draw an Energy System Diagram for this context.  Make sure your diagram is consistent with your previous answers.
 		</p>
 		</exercise>
 		</exercises>

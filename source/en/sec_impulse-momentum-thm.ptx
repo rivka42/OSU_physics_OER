@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_impulse-momentum-thm" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Impulse-Momentum Theorem</title>
+
+      <video youtube="Mun7c6RB140"><description>Introducing the Impulse-Momentum Theorem.</description></video>
+
+	<definition>
+	<title>Impulse</title>
+	<statement>
+	  <p>An external force <m>\vec{F}</m> acting on a system from <m>t_i</m> to <m>t_f</m> will deliver an impulse to the system of: <m>\vec{J} = \int_{t_i}^{t_f} \vec{F}dt</m>. </p>
+	</statement>
+	</definition>
+	
+	<principle>
+	<title>The Impulse-Momentum Theorem</title>
+	<statement>
+	  <p>The net impulse delivered to a system is equal to the change in momentum for that system: <m>\vec{J}_{net} = \Delta \vec{p}</m>. </p>
+	</statement>
+	</principle>
+	
+	<p></p>
+	
+
+
+	<exercises>
+	<title>Activities</title>
+			<exercise>
+<p>ADD ME</p>
+			</exercise>
+		</exercises>
+	
+</section>
+
+
+
+
+
+
+
+

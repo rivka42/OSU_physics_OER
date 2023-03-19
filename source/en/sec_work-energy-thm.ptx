@@ -16,7 +16,7 @@
 	
 		<assumption>
 	<title>No Heat Transfer</title>
-	<p>The Work-Energy Theorem assumes that no heat is transferred to the system of interest.  If heat is transferred into or out of the system, you can use an alternate formulation known as the First Law of Thermodynamics: <m>W_{net,external} + Q_{net,external} = \Delta E</m>, where <m>Q_{net,external}</m> is the net heat transferred to the system.</p>
+	<p>The Work-Energy Theorem assumes that no heat is transferred into or out of the system of interest.<fn>If heat is transferred, you can use the First Law of Thermodynamics instead of the Work-Energy Theorem: <m>W_{net,external} + Q_{net,external} = \Delta E</m>, where <m>Q_{net,external}</m> is the net heat transferred to the system.</fn></p>
 	</assumption>
 
 	<exercises>
@@ -31,11 +31,21 @@
 			</exercise>
 			<exercise>
 			<title>Explanation: Changing Energies</title>
+			<statement>
 			  <p>Suppose you have a system that initially includes some kinetic energy and some potential energy.  You observe that the potential energy decreases by 7000 Joules and the kinetic energy increases by 4500 J.  Is the net external work on this system positive, negative, or zero?  Explain your reasoning.</p>
+				</statement>
+				<hint>
+				<p>Draw an Energy System Diagram to help keep track of the changes.  How is the Work-Energy Theorem represented in an Energy System Diagram?</p>
+				</hint>
 			</exercise>
 			<exercise>
 			<title>Explanation: Conserved Energy</title>
+			<statement>
 			  <p>Suppose you have a system with two objects, each with some initial kinetic energy.  The net external work on the system is equal to zero.  If the kinetic energy of the first object increases, what happens to the kinetic energy of the second object?  Explain your reasoning.</p>
+								</statement>
+				<hint>
+				<p>Draw an Energy System Diagram to help keep track of the changes.  How is the Work-Energy Theorem represented in an Energy System Diagram?</p>
+				</hint>
 			</exercise>
 		</exercises>
 	

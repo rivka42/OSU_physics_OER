@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_force-and-potential-energy" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Force and Potential Energy</title>
+
+      <video youtube="tIn6UMjLXTo"><description>Discussing the relationship between force and potential energy.</description></video>
+
+<definition xml:id="def_force-pe">
+	<title>Potential Energy Diagrams</title>
+	<statement>
+	<p>Potential energy and the corresponding conservative force are related (in one dimension, <m>x</m>) by <m>\vec{F} = -\frac{dU}{dx}\hat{x}</m>.</p>
+	</statement>
+	</definition>
+
+<exercises>
+	<title>Activity: Practice Diagram</title>
+	<p>Below is a potential energy diagram for some system.</p>
+	  <figure xml:id="en_U-vs-x">
+		 <caption>A motion diagram of a car moving at constant speed.</caption>
+		<image source="motion diagram car constant velocity.png" width = "75%">
+			<description>Six horizontally spaced dots, each dot separated by a labeled arrow.</description></image>
+  </figure>	
+						<exercise>
+			<statement>
+			  <p>What property of the graph can you use to identify the force that this particle experiences?  Explain your reasoning.</p>
+				</statement>
+			</exercise>
+			<exercise>
+			<statement>
+			<p>At what position(s) is the force on the particle zero?</p>
+			</statement>
+			</exercise>
+				</exercises>
+	
+</section>

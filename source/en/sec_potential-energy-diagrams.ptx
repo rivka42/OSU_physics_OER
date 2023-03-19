@@ -3,41 +3,40 @@
 <section xml:id="sec_potential-energy-diagrams" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Potential Energy Diagrams</title>
 
-
-	  <p>ADD ME:</p>
-      <video youtube="ZN3597-5_NU"><description>Introducing potential energy diagrams</description></video>
+      <video youtube="plP2MLFQZNY"><description>Introducing potential energy diagrams.</description></video>
 
 <lemma xml:id="r_potential-energy-diagrams">
 	<title>Potential Energy Diagrams</title>
 	<statement>
-	<p>A potential energy diagram is a graph of the potential energy <m>U(x)</m> vs. <m>x</m> for some system of interest.</p>
+	<p>A potential energy diagram is a graph of the potential energy <m>U(x)</m> vs. <m>x</m> for some system of interest.  It is also often useful to indicate the total energy of a system.</p>
 	</statement>
 	</lemma>
 
-<p>On a potential energy diagram, it is often useful to indicate the total energy of a system.</p>
-
 <exercises>
-	<title>Activities</title>
+	<title>Activity: Spring Potential Energy Diagram</title>
+			<p>A block on a frictionless, horizontal table is connected to a spring (the other end of the spring is fixed to a wall).  The spring is initially compressed from its equilibrium position by a distance of <m>x_i</m>.</p>
 			<exercise>
-<title>Exploration</title>
-			  <p> Visit the following simulation.  Play around with it for at least a few minutes.</p>
-<p>Describe two observations you were able to make using the simulation, especially if you observed anything that you consider unexpected or surprising. Specifically describe why they were interesting to you.</p>
+			<statement>
+			  <p>Sketch and label a potential energy diagram for this system.</p>
+				</statement>
+				<hint>
+				<p>Recall the definition of the spring potential energy from <xref ref="def_spring-potential-energy"></xref>.</p>
+				</hint>
 			</exercise>
-
 			<exercise>
-<title>Representation: Energy Bar Chart</title>
-<statement>
-			  <p>Explain what information the bar graph representation (from the simulation) displays and how it displays this information.</p>
-</statement>
-<answer>
-<definition>
-	<title>Energy Bar Chart</title>
-	<statement>
-	<p>An energy bar chart is a graphical representation where each form of energy in a system is represented by a vertical bar.  It is often common to draw a different bar chart for each instant of interest.</p>
-	</statement>
-	</definition>
-</answer>
+			<statement>
+			<p>On your diagram, find the location(s) where the potential energy is (a) largest and (b) smallest.  Explain how you can tell from the diagram.</p>
+			</statement>
+			<hint>
+			<p>If you have not done so already, sketch the total energy on your diagram.  How does the total energy change as the block moves?</p>
+			</hint>
 			</exercise>
-			</exercises>
+			<exercise>
+			<p>On your diagram, find the location(s) where the kinetic energy is (a) largest and (b) smallest.  Explain how you can tell from the diagram.</p>
+			</exercise>
+						<exercise>
+			<p>On your diagram, find the location(s) where the spring force is (a) largest and (b) smallest.  Do you think there is a way to tell this from the diagram alone?</p>
+			</exercise>
+				</exercises>
 	
 </section>

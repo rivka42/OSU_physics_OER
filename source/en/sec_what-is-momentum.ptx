@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_introduction_to_momentum" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>What is Momentum?</title>
+
+<exercises>
+	<title>Activities</title>
+	<exercise>
+	<title>Introductory Activity:</title>
+	<statement>
+	<p>A tennis ball and a baseball have about the same radius, but the baseball has a mass that is three times greater than the mass of the tennis ball.  The baseball is sitting at rest on a table and you roll the tennis ball so that the two collide.  After the collision, you observe that the baseball is moving forward but the tennis ball is moving backward.  Which object do you think will have a larger change in velocity?  Give a detailed description, using your model for forces, for how you determined your answer above, as you would for any Explanation Task.</p>
+	</statement>
+	<solution>
+	<video youtube="7Pqm1T-Ijgk"><description>Examining a collision between a baseball and a tennis ball.</description></video>
+	</solution>
+	</exercise>
+		<p>ADD ME:</p>	
+	<video youtube="7Pqm1T-Ijgk"><description>An introduction to momentum.</description></video>
+
+		<definition>
+	<title>Momentum</title>
+	<statement>
+		<p>The <term>momentum</term> of a single object is defined as the mass of the object times its velocity: <m>\vec{p} = m\vec{v}</m>.  For a system with multiple objects, the momenta of each object in the system can be summed: <m>\vec{p}_{system} = \Sigma \vec{p}_i = \vec{p}_1 + \vec{p}_2 + \vec{p}_3 + \dots</m>.</p>
+	</statement>
+</definition>
+
+
+<exercise xml:id="x_summarize-momentum">
+			<title>Summarize What You Learned - Momentum</title>
+			  <p>Write a 1-2 sentence description of what the definition of momentum says in words. </p>
+			</exercise>
+			<exercise>
+			<title>Sensemaking: Units</title>
+			 <statement>
+			  <p>What are the units of momentum?</p>
+				</statement>
+				<answer>
+				<p>kgm/s</p>
+				</answer>
+			</exercise>
+			<exercise>
+			<title>Sensemaking: Direction</title>
+			<statement>
+			  <p>Unlike energy, momentum is a vector quantity.  What direction does the momentum for a single object point?  Explain your reasoning.</p>
+				</statement>
+				<answer>
+				<p>The momentum for a single object always points in the same direction as the object's velocity!</p>
+				</answer>
+			</exercise>
+			<exercise>
+			<title>Calculation</title>
+			<statement>
+			  <p>Estimate the magnitude of the momentum of a car traveling down a highway.</p>
+				</statement>
+											<answer>
+							<p>I estimated around 37,200 kgm/s.  (Many cars have a mass that is somewhere around 1200 kg, and a typical highway speed limit is 70 mph, which is about 31 m/s.)</p>
+							</answer>
+			</exercise>
+		</exercises>
+  
+
+	
+</section>
+

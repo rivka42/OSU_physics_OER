@@ -15,9 +15,13 @@
 
 	<exercises>
 	<title>Activities</title>
-
 			<exercise>
-			  <p>Write me.</p>
+			<statement>
+			  <p>You have a winch<fn>a machine that uses a rope to pull on another object</fn> that can be set to exert a changing force.  You decide to set your winch to produce the force <m>\vec{F}^{winch} = \frac{F_o}{L^2} (xL - x^2)\hat{x}</m>, where <m>F_o</m> and <m>L</m> are constants and <m>x</m> is the position of the object being pulled.  Sketch a graph of this force vs. position and use it to find the work done by the winch between <m>x_i = 0</m> and <m>x_f = L</m>.</p>
+				</statement>
+				<answer>
+				<p><m>W_{winch} = \frac{F_o L}{6}</m></p>
+				</answer>
 			</exercise>
 			
 			</exercises>

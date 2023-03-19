@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_momentum-vector-diagrams" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Momentum Vector Diagrams</title>
+
+<p>ADD ME:</p>
+      <video xml:id="en_vb-mvd" youtube="ZN3597-5_NU"><description>An introduction to momentum vector diagrams.</description></video>
+			
+<lemma xml:id="r_momentum-vector-diagram">
+	<title>Momentum Vector Diagram</title>
+	<statement>
+	<p>A momentum vector diagram shows the momentum of each object in a system at some initial and later time.  Typically, you should also include the system's total momentum and any impulse delivered to the system.</p>
+	</statement>
+	</lemma>
+
+
+<exercises>
+	<title>Activities</title>
+			<exercise>
+<p>ADD ME!</p>
+			</exercise>
+			</exercises>
+	
+</section>

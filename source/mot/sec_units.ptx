@@ -99,13 +99,13 @@ We can see that the physical quantities under the square root indeed have base u
 <heuristic xml:id="sm_numbers">
 	<title>Check Numbers</title>
 	<statement>
-		<p>For any numerical value (with units), you want to have a sense for how reasonable the value is given numerical values for other (possibly related) contexts with the same units.</p>
+		<p>For any numerical value (with units), you want to have a sense for how reasonable the value is given numerical values for other (possibly related) contexts with the same units.  You also want to know whether the number should be positive or negative (if it is a scalar) or what direction it should point (if it is a vector).</p>
 	</statement>
 </heuristic>
 
 <example>
 <title>How to Check Numbers</title>
-<p>Consider the example from the start of this section, where you measured the length of an object in a physics lab to be 17.4 cm.  You may want to compare this number to the length of other objects that you might expect to find in a physics lab.  For example, you might expect that many objects in a physics lab can be held in one hand; you would then want to compare the 17.4 cm measurement to the size of a human hand to evaluate its reasonableness.  The search term "human hand size" results in a measurement of between 6.8 and 7.6 inches, which you might approximate to about 7 inches<fn>when checking numbers, you do not need to be precise, just approximate</fn>.  Converting this 7 inches to SI units gives approximately 17.8 cm.  This is very close to the object you measured in the lab, so it seems like this measurement was pretty reasonable!</p>
+<p>Consider the example from the start of this section, where you measured the length of an object in a physics lab to be 17.4 cm.  You may want to compare this number to the length of other objects that you might expect to find in a physics lab.  For example, you might expect that many objects in a physics lab can be held in one hand; you would then want to compare the 17.4 cm measurement to the size of a human hand to evaluate its reasonableness.  The search term "human hand size" results in a measurement of between 6.8 and 7.6 inches, which you might approximate to about 7 inches<fn>when checking numbers, you do not need to be precise, just approximate</fn>.  Converting this 7 inches to SI units gives approximately 17.8 cm.  This is very close to the object you measured in the lab, so it seems like this measurement was pretty reasonable!  It is also worth noting here that length is usually given as a positive number, which this measurement is.</p>
 <p>You might be asking yourself: what would an <em>unreasonable</em> answer have looked like?  Perhaps your measurement had been 174 cm instead of 17.4 cm.  This is only about ten times bigger, and still seems like a reasonable measurement for a physics lab (something about the height of a person).  On the other hand, measuring something like 17.4 km would be fairly unreasonable for an ordinary physics lab: 100,000 times bigger than a person's hand!</p>
 </example>
 
