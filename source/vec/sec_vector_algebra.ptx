@@ -12,7 +12,7 @@ Representing vectors as arrows is a good way to get a geometric understanding an
 </me>
     
  <p>
-Now let's learn how to <em>algebraically</em> compute the vector operations you learned previously 
+Now you can <em>algebraically</em> compute the vector operations you learned previously!
 </p>
 
 <exercises>
@@ -48,7 +48,7 @@ To subtract vectors algebraically, you simple subtract like components.
  </exercises>
  
  <p>
- To algebraically multiply a vector by a scalar you multiply each component.
+ To multiply a vector by a scalar algebraically you multiply each component.
  </p>
  
  <me>

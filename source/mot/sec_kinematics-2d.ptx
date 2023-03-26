@@ -26,23 +26,7 @@
     </figure>
 		</solution>
 			</exercise>
-			
-			<p>You throw three marbles off the same table, each with the same initial speed but a different initial direction, as shown in the figure below.  The floor in front of the marbles is flat.</p>
-					<figure xml:id="mot_Marbles">
-		  <caption>A marble launched with three different possible initial velocities.</caption>
-      <image source="Marbles.png" width = "50%">
-			<description>A dot representing a marble with three velocity vectors: v1 partly upward, v2 horizontally to the right, and v3 partly downward.</description>
-			</image>
-    </figure>
-		<exercise xml:id="x_explore-marbles">
-		<title>Explore - Marbles</title>
-			  <p><term>Make predictions for each of the following.</term>  For each prediction, give a supporting explanation.</p>
-				<ol marker="a">
-				<li><p>Which marble do you think will travel the farthest from the table?</p></li>
-				<li><p>Which marble do you think will be in the air for the most time before it hits the floor?</p></li>
-				<li><p>Which marble do you think will have the greatest speed right before hitting the floor?</p></li>
-				</ol>
-			</exercise>
+
 
 			</exercises>
 	
