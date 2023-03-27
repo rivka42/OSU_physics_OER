@@ -21,7 +21,7 @@ Time is a quantity you will encounter throughout your study of physics.  In fact
 
 <p>When speaking to a friend or colleague we may not make a distinction between <emph>speed</emph> and <emph>velocity</emph>, but in physics the words are distinct.  Where <emph>velocity</emph> is a vector, indicating both magnitude and direction, the word <emph>speed</emph> refers only to the magnitude of the velocity.</p>
 
-<p>Physics also distinguishes between <emph>average</emph> quantities for intervals of definite time, and <emph>instantaneous</emph> quantities for infinitesimal intervals.  To signal the difference, we will use the symbol <m>d</m> for an infinitesimal quantity instead of the <m>\Delta</m> symbol that we use for a definite change.</p>
+<p>Physics also distinguishes between <emph>average</emph> quantities for intervals of definite time, and <emph>instantaneous</emph> quantities for infinitesimal intervals.  To signal the difference, you will use the symbol <m>d</m> for an infinitesimal quantity instead of the <m>\Delta</m> symbol that you use for a definite change.</p>
 
 	<definition>
 	<title>Instantaneous Velocity</title>
@@ -29,6 +29,8 @@ Time is a quantity you will encounter throughout your study of physics.  In fact
 		<p>The <term>instantaneous velocity</term> of an object is given by <m>\vec{v} = \frac{d \vec{r}}{d t}</m>.</p>
 	</statement>
 </definition>
+
+<p>Note that when you make this change in notation, the velocity suddenly becomes a <alert>derivative</alert>!</p>
 
 	<exercises>
 	<title>Activities</title>
