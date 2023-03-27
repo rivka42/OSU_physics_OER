@@ -5,6 +5,11 @@
 	
 		 
      <video youtube="_nO9GlsTdfU"><description>An example of a simple motion diagram being created.</description></video>
+		
+		<note>
+		<title>Dr. Paws on the Run</title>
+		<video youtube="nz5rkCiBcso"><description>Dr. Paws on the run.</description></video>
+		</note>
   
 		<lemma xml:id="r_motion-diagram">
 			<title>Motion Diagram</title>

@@ -31,11 +31,21 @@ Suppose you have two vectors <m> \vec{A}</m> and <m> \vec{B}</m>. To add the two
  </exercises>
 
 <p>
-To subtract two vectors, you can simply add the negative <m> \vec{A} + (-\vec{B})</m>. Recall that the negative vector points in the opposite direction but has the same length. 
+To subtract two vectors, you again start by placing the vectors tail-to-tail.  Then, you can rewrite the vector <m>\vec{C} = \vec{A} - \vec{B}</m> as <m>\vec{B} = \vec{A} + \vec{C}</m>. Now you can use vector addition to find <m>\vec{C})</m>, which is the vector that must be added to <m>\vec{A}</m> so that the sum of <m>\vec{A}</m> and <m>\vec{C}</m> is <m>\vec{B}</m>.
+ </p>
+ 
+     <figure xml:id="vec_subtraction2">
+    	<caption>A representation of vector subtraction using arrows.</caption>
+    		<image source="vectors/vec_subtraction.png" width = "25%" ></image>
+    </figure>
+
+
+<p>
+Alternatively, you can add the negative <m> \vec{A} + (-\vec{B})</m>. Recall that the negative vector points in the opposite direction but has the same length. 
  </p>
  
      <figure xml:id="vec_subtraction">
-    	<caption>A representation of vector subtraction using arrows.</caption>
+    	<caption>Another representation of vector subtraction using arrows.</caption>
     		<image source="vectors/vec_subtraction.png" width = "25%" ></image>
     </figure>
 

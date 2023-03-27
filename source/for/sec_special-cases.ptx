@@ -28,7 +28,12 @@
 			</exercise>
 			<exercise xml:id="x_special-cases">
 			<title>Practice with Special-case Analysis</title>
-			  <p>WRITE ME</p>
+			<statement>
+			  <p>Recall <xref ref="x_force-analysis"></xref> from the previous section.  Use Special-Case Analysis to make sense of your original solution to this context.  There are several possible special cases you might try here!</p>
+				</statement>
+				<hint>
+				<p>Remember that the goal is to find a case that is truly special in the sense that the answer seems obvious or intuitive.  For example, if the kite string is horizontal, the force by the kite and the force by the father must directly cancel out if the wagon is to move at constant speed.  (Angles often make good special cases--are there any other special angles here?)</p>
+				</hint>
 			</exercise>
 		</exercises>
 	

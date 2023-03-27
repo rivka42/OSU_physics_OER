@@ -10,7 +10,7 @@
 
 <p><alert>Understanding:</alert> Identify a system and draw a Free-body Diagram.</p>
 
-<p><alert>Calculating:</alert> Is the acceleration <m>0 \text{ m/s^2}</m> (static or dynamic equilibrium) or not 0 <m>0 \text{ m/s^2}</m> (dynamics)?  Once you know, use the Law of Motion!</p>
+<p><alert>Calculating:</alert> Is the acceleration 0 <m>\text{m/s^2}</m> (static or dynamic equilibrium) or not 0 <m>\text{m/s^2}</m> (dynamics)?  Once you know, use the Law of Motion!</p>
 
 <p><alert>Sensemaking:</alert> All the sensemaking strategies you have will work, but a new strategy called Special-case Analysis (see <xref ref="sec_special-cases"/>) can be especially useful.</p>
   
@@ -24,14 +24,14 @@
 			<title>Exploring Systems of Equations</title>
 			  <p>It is very common in physics (and especially when using Force Analysis) to end up with a <term>system of equations</term>.  Suppose you are in the middle of using Force Analysis and you end up finding a system of two equations that contain three different unknown quantities.  How do you think you could make further progress on such a problem?</p>
 			</exercise>
-			<p>Use the Real-world Context format along with the steps above!</p>
+			
 			<exercise xml:id="x_force-analysis">
 			<title>Practice with Force Analysis</title>
 			<statement>
 			  <p>A child in a wagon is trailing a large kite behind her at a low angle while her father pulls the wagon forward so it moves at constant speed.  Find the force the father exerts on the wagon.</p>
 				</statement>
 				<hint>
-				<p>Model both the force from the kite and the force from the father as constant.</p>
+				<p>Model both the force from the kite and the force from the father as constant.  (Don't forget to use the Real-world Context format along with the steps above!)</p>
 				</hint>
 			</exercise>
 		</exercises>

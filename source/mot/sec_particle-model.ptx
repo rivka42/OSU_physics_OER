@@ -35,12 +35,13 @@ To begin to investigate motion, we will make a <em>simplifying assumption</em> t
 	</statement>
 </assumption>
 
-<aside>
+<note>
 <title>When does an assumption fail?</title>
 <p>
-When you encounter a new assumption, you might want to consider not just when it is good to make the assumption, but instead when the assumption might fail.  As an assumption, the particle model tends to fail when there is (important) rotational motion or when your system has multiple pieces that are moving differently.
+When you encounter a new assumption, you might want to consider not just when it is good to make the assumption, but instead when the assumption might fail.  As an assumption, the particle model tends to fail when there is (important) rotational motion or when your system has multiple pieces that are moving differently.  For example, sliding a spinning top may not be a good example for the particle model, as the translational motion is deeply tied with both the top’s shape and rotation.
 </p>
-</aside>
+<!--This last counterexample provided by undergraduate student reviewer Ian Busby -->
+</note>
 
 
 
