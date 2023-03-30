@@ -38,7 +38,7 @@
 	<p>At each point on your diagram, add a vector representing the instantaneous velocity at that instant.  You should be able to explain how you used the position vectors you have already drawn to determine both the magnitude and the direction of your new velocity vectors.</p>
 	</exercise>
     <p>
-      <alert>Use the strobe diagram below for the remaining exercises.</alert>  The diagram shows a ball moving from left to right.  A total of 1 s has passed between each successive dot.  The distance between the left and right points is <m>12 \text{ m}</m>.
+      <alert>Use the strobe diagram below for the remaining exercises.</alert>  The diagram shows a ball moving from left to right.  A total of 1 s has passed between each successive dot.  The distance between the leftmost and rightmost points is <m>12 \text{ m}</m>.
     </p>
 		<figure xml:id="mot_MotionA">
 		  <caption>A strobe diagram.</caption>

@@ -19,12 +19,14 @@
     </p>
   
 <figure xml:id="mot_car-1">
-		 <caption>Representations of a car moving at constant speed.</caption>
+		 <caption>Representations of a car moving at constant speed (top), with increasing speed (middle), and with decreasing speed (bottom).</caption>
 		<image source="motion graph constant speed.png" width = "75%">
 			<description>To be filled.</description></image>
+					<image source="motion graph speeding up.png" width = "75%">
+			<description>To be filled.</description></image>
+					<image source="motion graph slowing down.png" width = "75%">
+			<description>To be filled.</description></image>
   </figure>	
-	
-	<p>WE NEED TO UPDATE THE OTHERS AND INCLUDE THEM.</p>
 	
 	<p>Note that there is a distinction between the two diagrams: the strobe diagram has one image for each equal <m>\Delta t</m>. The position vs. time and velocity vs. time graphs also have equally spaced time increments, but unlike the strobe diagram, they are equally spaced along the axes. The two ways of visualizing motion are qualitatively correct, but you cannot make a direct vertical comparison.</p>
 	
