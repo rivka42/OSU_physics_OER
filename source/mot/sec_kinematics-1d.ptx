@@ -33,11 +33,14 @@
 			<exercise xml:id="x_practice-kinematics">
 			<title>Practice - Tricycle</title>
 			<statement>
-			<p>Consider a child on a tricycle accelerating from rest<fn>the initial velocity is 0</fn> at a rate of <m>0.75 \text{ m/s^2}</m> for a total of 9 s.  Find the child's final velocity and final position.</p>
+			<p>Consider a child on a tricycle accelerating from rest<fn>the initial velocity is 0</fn> at a rate of <m>0.75 \text{ m/s}^2</m> for a total of 9 s.  Find the child's final velocity and final position.</p>
 			</statement>
 			<hint>
-			<p>You can define the child's initial position to be 0.</p>
+			<p>You can define the child's initial position to be 0.  Don't forget to pick a coordinate system!</p>
 			</hint>
+			<answer>
+			<p>Choosing <m>\vec{a} = a\hat{x} = 0.75 \text{ m/s}^2</m>, we end up with <m>\vec{v}_f = \vec{a}t = 6.75 \text{ m/s} \hat{x}</m> and <m>\vec{r}_f = \frac{1}{2}\vec{a}t^2 = 30.375 \text{ m} \hat{x}</m></p>
+			</answer>
 			</exercise>
 			
 			<exercise xml:id="x_extension-kinematics">
@@ -50,7 +53,7 @@
 			</hint>
 			<answer>
 			<p><m>v_{xf}^2 = v_{xi}^2 + 2a_x \Delta x</m></p>
-			<p>This answer is often considered as useful as the other constant acceleration equations, and all three are sometimes named <term>kinematics equations</term>, though we will continue to use the more descriptive name <term>equations for constant acceleration</term>.</p>
+			<p>This answer is often considered as useful as the other constant acceleration equations, and all three are sometimes named <term>kinematics equations</term>, though the name <term>equations for constant acceleration</term>is more descriptive.</p>
 			</answer>
 			</exercise>
 			

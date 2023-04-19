@@ -37,7 +37,7 @@
 			<p>You are driving a car on a residential street when a ball bounces in front of you and you slam on the brakes.  How much time does it take for you to stop?  How much distance have you traveled in this time?</p>
 			</statement>
 			<hint>
-			<p>In particular, you should estimate a reasonable initial velocity for a car on a residential street and a reasonable acceleration for a car slamming on its brakes<fn>perhaps try searching "how fast can a car brake?"</fn>.</p>
+			<p><xref ref="x_practice-kinematics"></xref> for constant acceleration will probably be helpful!  You should also estimate a reasonable initial velocity for a car on a residential street and a reasonable acceleration for a car slamming on its brakes<fn>perhaps try searching "how fast can a car brake?"</fn>.</p>
 			</hint>
 			</exercise>
 			
