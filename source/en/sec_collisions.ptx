@@ -3,20 +3,40 @@
 <section xml:id="sec_collisions" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Collisions</title>
 	
+      <video youtube="7qSLI0p2lpw"><description>An introduction to collisions.</description></video>
 
-
-	  <p>ADD ME:</p>
-      <video youtube="ZN3597-5_NU"><description>An introduction to collisions.</description></video>
+	<definition>
+	<title>Collision</title>
+	<statement>
+		<p>A collision is a situation in which two (or more) object hit each other, usually during a small amount of time.  Collisions can be categorized by whether or not the <em>kinetic energy</em> of the system changes or not:</p>
+		<p>
+		<ul>
+		<li><term>Elastic collision</term>: The kinetic energy does not change (no kinetic energy is "lost").</li>
+		<li><term>Inelastic collision</term>: The kinetic energy of the system decreases (some kinetic energy is lost, usually transforming into heat, sound, or internal energy).  When two colliding objects stick together afterward, the collision is said to be <em>perfectly</em> inelastic.</li>
+		<li><term>Super-elastic collision</term>: The kinetic energy of the system increases (some kinetic energy is gained, usually transforming from internal potential energy).</li>
+		</ul>
+		</p>
+	</statement>
+</definition>
 
 <p></p>
 
 
 	<exercises>
 	<title>Activities</title>
+<p>Two bicycles initially moving toward each other get in a low-speed accident in which they bounce off each other so that each bicycle is now moving at the same speed but in the opposite direction!</p>
 			<exercise>
-<title></title>
-			  <p>ADD ME!</p>
+			  <p>Choose a system for this context for which momentum is conserved.  How do you know momentum is conserved for your system?</p>
 			</exercise>
-		</exercises>
+			<exercise>
+			  <p>For your system, does the kinetic energy change?  How can you tell?</p>
+			</exercise>
+			<exercise>
+			  <p>What kind of collision is this?  Explain.</p>
+			</exercise>
+			<exercise>
+			  <p>How could you change the context into a different form of collision?  See if you can figure how two bicycles colliding could give you all three kinds of collisions!</p>
+			</exercise>
+					</exercises>
 	
 </section>

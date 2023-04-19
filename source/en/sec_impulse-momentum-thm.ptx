@@ -3,7 +3,7 @@
 <section xml:id="sec_impulse-momentum-thm" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Impulse-Momentum Theorem</title>
 
-      <video youtube="Mun7c6RB140"><description>Introducing the Impulse-Momentum Theorem.</description></video>
+      <video youtube="wKb79stvmsQ"><description>Introducing the Impulse-Momentum Theorem.</description></video>
 
 	<definition>
 	<title>Impulse</title>
@@ -19,14 +19,10 @@
 	</statement>
 	</principle>
 	
-	<p></p>
-	
-
-
 	<exercises>
 	<title>Activities</title>
 			<exercise>
-<p>ADD ME</p>
+<p>When would it be appropriate to say that the momentum of a system is conserved?  Give an example of a context where you think the momentum of a system is conserved.  Give a different example of a context where you think the momentum of a system is <em>not</em> conserved.  Do you think your answers depend on what systems you choose?</p>
 			</exercise>
 		</exercises>
 	

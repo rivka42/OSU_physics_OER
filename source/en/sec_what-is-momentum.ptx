@@ -6,7 +6,7 @@
 <exercises>
 	<title>Activities</title>
 	<exercise>
-	<title>Introductory Activity:</title>
+	<title>Introductory Activity</title>
 	<statement>
 	<p>A tennis ball and a baseball have about the same radius, but the baseball has a mass that is three times greater than the mass of the tennis ball.  The baseball is sitting at rest on a table and you roll the tennis ball so that the two collide.  After the collision, you observe that the baseball is moving forward but the tennis ball is moving backward.  Which object do you think will have a larger change in velocity?  Give a detailed description, using your model for forces, for how you determined your answer above, as you would for any Explanation Task.</p>
 	</statement>
@@ -14,8 +14,12 @@
 	<video youtube="7Pqm1T-Ijgk"><description>Examining a collision between a baseball and a tennis ball.</description></video>
 	</solution>
 	</exercise>
-		<p>ADD ME:</p>	
-	<video youtube="7Pqm1T-Ijgk"><description>An introduction to momentum.</description></video>
+	
+	
+	<alert>After you complete the activity above and watch the solution video, continue to the introduction video below.</alert>
+	
+
+	<video youtube="5y9oHu5_2_4"><description>An introduction to momentum.</description></video>
 
 		<definition>
 	<title>Momentum</title>

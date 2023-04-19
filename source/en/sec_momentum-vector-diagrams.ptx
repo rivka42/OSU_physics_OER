@@ -3,13 +3,12 @@
 <section xml:id="sec_momentum-vector-diagrams" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Momentum Vector Diagrams</title>
 
-<p>ADD ME:</p>
-      <video xml:id="en_vb-mvd" youtube="ZN3597-5_NU"><description>An introduction to momentum vector diagrams.</description></video>
+      <video xml:id="en_vb-mvd" youtube="tVYO30-lkVI"><description>An introduction to momentum vector diagrams.</description></video>
 			
 <lemma xml:id="r_momentum-vector-diagram">
 	<title>Momentum Vector Diagram</title>
 	<statement>
-	<p>A momentum vector diagram shows the momentum of each object in a system at some initial and later time.  Typically, you should also include the system's total momentum and any impulse delivered to the system.</p>
+	<p>A momentum vector diagram shows the momentum of each object in a system at some initial and later time.  Typically, you should also include the system's total momentum and any changes in momentum.</p>
 	</statement>
 	</lemma>
 
@@ -17,7 +16,7 @@
 <exercises>
 	<title>Activities</title>
 			<exercise>
-<p>ADD ME!</p>
+<p>Two objects are moving toward each other.  Object 1 has a large mass and is initially moving to the right.  Object 2 has a smaller mass and is initially moving to the left.  They collide and end up not moving!  Draw and label a momentum vector diagram for this context.</p>
 			</exercise>
 			</exercises>
 	
