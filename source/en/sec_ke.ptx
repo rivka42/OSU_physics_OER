@@ -14,7 +14,7 @@
 	</definition>
 
   <p>
-  Kinetic energy is the <alert>energy of motion</alert>.  Most kinetic energy you will work with is translational, due to the motion of an object in a straight line.  Objects that are rotating (which you will study later) have <term>rotational kinetic energy</term>, possibly in addition to translational kinetic energy.
+  Kinetic energy is the <alert>energy of motion</alert>.  Most kinetic energy you will work with is translational.  Objects that are rotating (which you will study later) have <term>rotational kinetic energy</term>, possibly in addition to translational kinetic energy.
   </p>
 	
 	<aside>
@@ -35,7 +35,7 @@
 				<exercise>
 			<title>Extension: Systems with Multiple Objects</title>
 			<statement>
-			  			<p>Many systems include more than one object.  In general, the different objects could have different masses and different velocities.  How do you think you could find the kinetic energy for such a system?  Write an equation for the total kinetic energy.</p>
+			  			<p>Many systems include more than one object.  In general, the different objects could have different masses and different speeds.  How do you think you could find the kinetic energy for such a system?  Write an equation for the total kinetic energy.</p>
 							</statement>
 							<answer>
 							<p><m>K_{\text{total}} = \Sigma K_i = K_1 + K_2 + K_3 + \dots = 1/2m_1v_1^2 + 1/2m_2v_2^2 + 1/2m_3v_3^2 + \dots</m></p>

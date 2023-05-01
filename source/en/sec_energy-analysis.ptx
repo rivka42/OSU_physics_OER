@@ -3,9 +3,11 @@
 <section xml:id="sec_energy-analysis" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Energy Analysis</title>
 	
+	<video youtube="hMlkGos6HA0"><description>Energy Analysis.</description></video>
+	
 <p>In <xref ref="sec_solving-forces1"></xref>, you saw a strategy for force analysis.  Approaching a context from an energy perspective follows a similar structure, but the goals are often different. The steps below can be extremely helpful.</p>
 
-<p><alert>Understanding:</alert> Identify a system and draw an Energy System Diagram.</p>
+<p><alert>Understanding:</alert> Identify a system and draw an Energy System Diagram (and/or Energy Bar Diagrams or Potential Energy Diagrams, once you learn how to use them).</p>
 
 <p><alert>Calculating:</alert> Is your system's energy conserved or not?  Once you know, use the Work-energy Theorem!</p>
 

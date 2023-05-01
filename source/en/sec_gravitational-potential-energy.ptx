@@ -30,7 +30,7 @@
 <definition>
 	<title>Gravitational Potential Energy near the Surface of the Earth</title>
 	<statement>
-	<p>For a system with a small massive object (mass <m>m</m>) close to the surface of the Earth, the <term>gravitational potential energy</term> is <m>U_{grav} = mgy</m>, where <m>y</m> is the vertical distance from the location where <m>U = 0</m>.</p>
+	<p>For a system with a small massive object (mass <m>m</m>) close to the surface of the Earth, the <term>gravitational potential energy</term> is <m>U_{grav} = mgy</m>, where <m>y</m> is the vertical distance from the location where <m>U_{grav} = 0</m>.</p>
 	</statement>
 	</definition>
 </answer>

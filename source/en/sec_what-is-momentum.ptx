@@ -39,13 +39,13 @@
 			  <p>What are the units of momentum?</p>
 				</statement>
 				<answer>
-				<p>kgm/s</p>
+				<p>kg m/s</p>
 				</answer>
 			</exercise>
 			<exercise>
 			<title>Sensemaking: Direction</title>
 			<statement>
-			  <p>Unlike energy, momentum is a vector quantity.  What direction does the momentum for a single object point?  Explain your reasoning.</p>
+			  <p>Unlike energy, momentum is a vector quantity.  In what direction does the momentum for a single object point?  Explain your reasoning.</p>
 				</statement>
 				<answer>
 				<p>The momentum for a single object always points in the same direction as the object's velocity!</p>
@@ -57,7 +57,7 @@
 			  <p>Estimate the magnitude of the momentum of a car traveling down a highway.</p>
 				</statement>
 											<answer>
-							<p>I estimated around 37,200 kgm/s.  (Many cars have a mass that is somewhere around 1200 kg, and a typical highway speed limit is 70 mph, which is about 31 m/s.)</p>
+							<p>I estimated around 37,200 kg m/s.  (Many cars have a mass that is somewhere around 1200 kg, and a typical highway speed limit is 70 mph, which is about 31 m/s.)</p>
 							</answer>
 			</exercise>
 		</exercises>
