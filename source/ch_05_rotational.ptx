@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_rotational" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Rotational Motion</title>
+	
+	<introduction>
+
+    <p> In this chapter you will focus on applying physics models to rotational motion.</p>
+		<exercises>
+		  <title>Learning Outcomes</title>
+		</exercises>
+  
+  
+<p>CHANGE ME After successful completion of this chapter, you will be able to:
+ <ol>
+<li>Define work</li>
+<li>Define kinetic energy</li>
+<li>Evaluate the relationship between work and kinetic energy</li>
+<li>Represent energy concepts using multiple representations (diagrams, graphs, words, equations)</li>
+<li>Define a system</li>
+<li>Define potential energy for a system</li>
+<li>Define mechanical energy and determine when mechanical energy is conserved in a system</li>
+<li>Analyze a system using a conservation of energy approach</li>
+<li>Draw diagrams useful for analysis of a system using an energy approach</li>
+<li>Analyze energy diagrams depicting the total energy as the sum of potential and kinetic energy</li>
+<li>Analyze systems with work done by dissipative forces such as friction</li>
+<li>Differentiate between conservative and non-conservative forces in an energy framework</li>
+<li>Define momentum</li>
+<li>Define impulse</li>
+<li>Evaluate the relationship between impulse and momentum</li>
+<li>Determine when momentum is conserved</li>
+<li>Analyze systems using a conservation of momentum approach</li>
+<li>Analyze elastic and inelastic collisions</li>
+<li>Analyze explosions using a conservation of momentum approach</li>
+<li>Draw diagrams useful for analysis of a system using momentum approach</li>
+<li>Analyze systems that independently conserve momentum and energy</li>
+</ol>
+
+</p>
+
+</introduction>
+
+
+
+ <xi:include href="./rot/sec_models.ptx" /> 
+	<xi:include href="./rot/sec_centripetal.ptx" /> 
+	<xi:include href="./rot/sec_tangential.ptx" /> 
+	<xi:include href="./rot/sec_ang-motion.ptx" /> 
+	
+</chapter>
+
+
+
+
+
+
+
+
