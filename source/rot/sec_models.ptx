@@ -16,9 +16,11 @@
 									<title>Exploration - Curved Road</title>
 						<statement>
 							<p>Suppose you are in the right seat of a car driving along a curved road.  Use everyday language to explain what happens as the car is turning to the left along a curved road. In particular:</p>
-							<p>What direction do you move relative to the car?</p>
-							<p>What direction do you move relative to the ground?</p>
-							<p>What do you feel as the car turns?</p>
+							<ol>
+							<li><p>What direction do you move relative to the car?</p></li>
+							<li><p>What direction do you move relative to the ground?</p></li>
+							<li><p>What do you feel as the car turns?</p></li>
+							</ol>
 						</statement>
 					</exercise>
 					<exercise>

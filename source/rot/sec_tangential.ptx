@@ -3,9 +3,9 @@
 <section xml:id="sec_tangential" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Tangential Acceleration</title>
 		
-      <video youtube="Kn4wcsWCXgY"><description>ADD MEDefining tangential acceleration.</description></video>
+      <video youtube="Kn4wcsWCXgY"><description>ADD ME Defining tangential acceleration.</description></video>
 	
-	<p>ADD WORDS.</p>
+	<p>ADD VIDEO AND WORDS.</p>
 	
 	<definition>
 	<title>Tangential Acceleration</title>
@@ -14,39 +14,20 @@
 	</statement>
 </definition>
 
-
-
 	<exercises>
-	<title>Activities</title>
-			<exercise xml:id="x_z">
-			<title>Summarize What You Learned - Acceleration</title>
-			  <p>Write a 1-2 sentence description of what the definition of acceleration says in words. </p>
+			<title>Centripetal and Tangential Acceleration</title>
+	    <p>Recall <xref ref="rot_curved-road"></xref>, which shows a car moving counterclockwise while slowing down. </p>
+			<exercise xml:id="x_forest-road">
+			  <p>Indicate the direction of the centripetal acceleration of the car.</p>
 			</exercise>
 			<exercise>
-			<title>Sensemaking: Units</title>
-			<statement>
-			  <p>What are the units of acceleration? Explain how these units are consistent with the units of other quantities you have learned about.</p>
-				</statement>
-				<answer>
-				<p>m/s<m>^2</m></p>
-				</answer>
+			  <p>Indicate the direction of the tangential acceleration of the car.</p>
 			</exercise>
-						<exercise>
-						<title>Explanation: Direction</title>
-			<statement>
-			  <p>How does the direction of the average acceleration vector compare to the direction of the change in velocity vector?</p>
-				</statement>
-				<hint>
-				<p>Does your acceleration have to point in the same direction as your velocity?</p>
-				</hint>
-				<answer>
-				<p>The average acceleration vector points in the same direction as the <emph>change</emph> in velocity!</p>
-				</answer>
+			<exercise>
+			  <p>Draw a vector for the instantaneous acceleration of the car.  How did you use the previous answers?</p>
 			</exercise>
 		</exercises>
 
-  
-
-	
+  	
 </section>
 
