@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_models" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Applying Physics Models</title>
+			
+	<p>You now have a foundational model for how objects move, the interactions between objects that cause changes in motion, and the changes in energy and momentum that result from these interactions.  Most of physics involves applying this model to new contexts, adding to this model to account for new interactions, or building alternative models to account for situations where the existing model is insufficient.  As you encounter new situations, it can be very useful to think about what aspects of your model already apply to the new situation, what aspects definitely do not apply, and what aspects might need to change.</p>
+
+	<exercises>
+	<title>Introductory Activities</title>
+			<exercise xml:id="x_summarize-model">
+			<title>Summarize Your Model</title>
+			  <p>Take this opportunity to synthesize and summarize the model you have already built in a way that makes sense to you.  Such a synthesis is often most useful when you use multiple representations (such as words, equations, and graphs or diagrams) to highlight key concepts and connections between key concepts.</p>
+			</exercise>
+			<p>The questions below will introduce you to the first new situation in which you will be applying your physics models.</p>
+								<exercise xml:id="x_intro-rotation">
+									<title>Exploration - Curved Road</title>
+						<statement>
+							<p>Suppose you are in the right seat of a car driving along a curved road.  Use everyday language to explain what happens as the car is turning to the left along a curved road. In particular:</p>
+							<p>What direction do you move relative to the car?</p>
+							<p>What direction do you move relative to the ground?</p>
+							<p>What do you feel as the car turns?</p>
+						</statement>
+					</exercise>
+					<exercise>
+					<title>Prediction - Car Turning</title>
+					<p>A car moves counterclockwise at constant speed along the curved road shown below.  Choose an origin and coordinates and use them to sketch vectors you believe best represent the directions of the (a) instantaneous position, (b) instantaneous velocity, and (c) instantaneous acceleration of the car at the instant shown.  Explain how you predicted the direction of each vector.</p>
+					</exercise>
+					  <figure xml:id="rot_curved-road">
+		 <caption>A car moving along a curved road.</caption>
+		<image source="CurvedPath.png" width = "20%">
+			<description>A top-view diagram of a road curving from the bottom of the screen to the top left.</description></image>
+  </figure>
+						<exercise>
+					<title>Prediction - Car Slowing Down</title>
+					<p>Suppose the car in the previous activity were instead slowing down.  How if at all would you expect the three vectors to change?</p>
+					</exercise>
+		</exercises>
+
+  
+
+	
+</section>
+

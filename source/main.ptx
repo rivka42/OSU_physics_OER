@@ -27,7 +27,7 @@
     <xi:include href="./ch_02_motion.ptx" />
 		<xi:include href="./ch_03_forces.ptx" />
 		<xi:include href="./ch_04_energy.ptx" />
-		<!-- <xi:include href="./ch_05_momentum.ptx" /> -->
+		<xi:include href="./ch_05_rotational.ptx" />
 
 
 

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_centripetal" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Centripetal Acceleration</title>
+
+      <video youtube="Kn4wcsWCXgY"><description>ADD ME Velocity for motion along a curved path.</description></video>
+	
+	<p>When an object moves along a curved path, the instantaneous velocity always points tangent to the curve.</p>
+				
+	<exercises>
+	<title>Model Application - Acceleration Direction</title>
+	<p>The figure below shows four different instants (A-D) for a car moving clockwise along a curved path at constant speed.</p>
+	<figure xml:id="rot_centa">
+		<image source="CurvedPathX1.png" width = "75%">
+			<description>Three cases, each showing a car moving clockwise around a curved path, with points A and B far apart, A and C closer together, and A and D very close together.</description></image>
+  </figure>
+			<exercise xml:id="x_path-acceleration">
+			  <p>Sketch vectors for the instantaneous velocity at each instant.</p>
+			</exercise>
+			<exercise>
+			  <p>Sketch vectors for the change in velocity for each case.</p>
+			</exercise>
+					<exercise>
+			  <p>Use the definition of instantaneous acceleration to determine the direction of the car's acceleration at instant A.</p>
+			</exercise>
+		</exercises>
+			
+      <video youtube="Kn4wcsWCXgY"><description>ADD ME Defining centripetal acceleration.</description></video>
+			
+				<exercises>
+	<title>Model Application - Acceleration Magnitude</title>
+	<p>The figure below shows three identical cars, each moving around a circular track.  Cars A and B move at different constant speeds around tracks with the same radius.  Cars A and C move at the same speed around tracks with different radius.</p>
+		<figure xml:id="rot_centb">
+		<image source="CurvedPathX2.png" width = "75%">
+			<description>Three cases, each showing a car moving clockwise around a circular path of radius d.  Car A moves at constant speed v, Car B moves at constant speed 2v, and Car C moves at constant speed v around a circle of radius d/2.</description></image>
+  </figure>
+			<exercise xml:id="x_path-acceleration2">
+			  <p>Predict which of the three cars has an acceleration with the largest magnitude.  Explain your reasoning</p>
+			</exercise>
+			<p>The figure below shows several instants for the cars described above.  In each case, the two points are separated by the same distance along the path.</p>
+								<figure xml:id="rot_centc">
+					<image source="CurvedPathX3.png" width = "75%">
+			<description>Three cases, each showing a car moving clockwise around a circular path of radius r.  Car A moves at constant speed v, Car B moves at constant speed 2v, and Car C moves at constant speed v around a circle of radius r/2.</description></image>
+  </figure>
+			<exercise>
+			  <p>Sketch vectors for the instantaneous velocity for each point.</p>
+			</exercise>
+			<exercise>
+			  <p>Sketch vectors for the change in velocity for each case.</p>
+			</exercise>
+					<exercise>
+			  <p>Use the definition of instantaneous acceleration to rank the magnitudes of the cars' accelerations.</p>
+			</exercise>
+		</exercises>
+		
+		      <video youtube="Kn4wcsWCXgY"><description>ADD ME Defining centripetal acceleration.</description></video>
+	
+	<p>ADD WORDS.</p>
+	
+	<definition>
+	<title>Centripetal Acceleration</title>
+	<statement>
+		<p>An object moving along a curved path experiences a <term>centripetal acceleration</term> that points perpendicular to the path (inward) with magnitude <m>a_{c} = \frac{v^2}{r}</m>, where <m>r</m> is the local radius of curvature.  If the object is moving at constant speed, the acceleration is entirely centripetal.</p>
+	</statement>
+</definition>
+
+
+
+
+  
+
+	
+</section>
+

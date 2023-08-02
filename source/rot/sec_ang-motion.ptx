@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_ang-motion" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Angular Motion</title>
+		
+      <video youtube="Kn4wcsWCXgY"><description>Introducing angular motion.</description></video>
+	
+	<p>ADD VIDEO //</p>
+	
+				<lemma xml:id="rep_angular-vectors">
+			<title>Direction of Angular Vectors</title>
+			<statement>
+				<p>The direction of an angular vector points along the axis of rotation.  For an object moving in the <m>xy</m>-plane, the vector pointing outward (in the <m>+z</m>-direction) corresponds to counterclockwise while the vector pointing inward (in the <m>-z</m>-direction) corresponds to clockwise.</p>
+			</statement>
+		</lemma>
+	
+	<definition>
+	<title>Angular Position</title>
+	<statement>
+		<p>The <term>angular position</term> of an object moving around a circle is <m>\vec{\theta}</m>.</p>
+	</statement>
+</definition>
+
+	<definition>
+	<title>Angular Velocity</title>
+	<statement>
+		<p>The <term>angular velocity</term> of an object moving around a circle is given by <m>\vec{\omega} = \frac{d \vec{\theta}}{d t}</m>.</p>
+	</statement>
+</definition>
+
+	<definition>
+	<title>Angular Acceleration</title>
+	<statement>
+		<p>The <term>angular acceleration</term> of an object moving around a circle is given by <m>\vec{\alpha} = \frac{d \vec{\omega}}{d t}</m>.</p>
+	</statement>
+</definition>
+
+
+	<exercises>
+	<title>Activities</title>
+			<exercise xml:id="x_x">
+			<title>ADD ME</title>
+			  <p>ADD ME</p>
+			</exercise>
+		</exercises>
+
+  
+
+	
+</section>
+

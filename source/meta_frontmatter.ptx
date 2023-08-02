@@ -20,6 +20,11 @@
       <department>Department of Physics</department>
       <institution>Oregon State University</institution>
     </author>
+				<author>
+      <personname>Danielle Skinner</personname>
+      <department>Department of Physics</department>
+      <institution>Oregon State University</institution>
+    </author>
     <date><today/></date>
   </titlepage>
 
@@ -50,6 +55,8 @@
 
   </colophon>
 
+<!--
+
   <dedication>
     <p>
       For ...
@@ -61,22 +68,34 @@
       I would like to thank...
     </p>
   </acknowledgement>
+	
+-->
 
-  <preface xml:id="meta_frontmatter-preface">
+<!--  <preface xml:id="meta_frontmatter-preface"> -->
     <!-- You should be a little careful about what you put here -->
     <!-- Avoid elements that should have a number, for example  -->
+
+<!--
+		
     <p>
       About this book:
     </p>
   </preface>
+	
+-->
 
   <!-- You can have more than one preface. -->
+
+	<!--
+	
   <preface>
     <title>Not just that..</title>
     <p>
       I still have more to say!
     </p>
   </preface>
+	
+-->
 
 </frontmatter>
 
