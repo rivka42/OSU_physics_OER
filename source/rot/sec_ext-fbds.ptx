@@ -1,53 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_acceleration" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Acceleration</title>
+<section xml:id="sec_extended-fbds" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Extended Free-body Diagrams</title>
 		
-      <video youtube="Kn4wcsWCXgY"><description>Defining acceleration.</description></video>
+      <video youtube="Kn4wcsWCXgY"><description>Introducing extended free-body diagrams.</description></video>
 	
-	<p>The term acceleration describes the rate of change of an object's velocity.  Like velocity (the rate of change of an object's position), acceleration can be either average or instantaneous.</p>
+	<p>ADD TEXT AND VIDEO</p>
 	
-	<definition>
-	<title>Average Acceleration</title>
+	<assumption xml:id="a_rigid-body">
+	<title>The Rigid-body Model</title>
 	<statement>
-		<p>The <term>average acceleration</term> of an object is the object's change in velocity divided by the interval of time required to change the velocity: <m>\vec{a}_{ave} = \frac{\Delta \vec{v}}{\Delta t}</m>.</p>
+		<p>When you assume that a system can be treated as a <term>rigid body</term>, you treat it as undergoing both <alert>translational motion</alert> and <alert>rotational motion</alert>.  Under this assumption, you treat all parts of the system as moving with the same angular velocity, while the center of mass of the object is treated as moving with the translational velocity.</p>
 	</statement>
-</definition>
-
-	<definition>
-	<title>Instantaneous Acceleration</title>
-	<statement>
-		<p>The <term>instantaneous acceleration</term> of an object is given by <m>\vec{a} = \frac{d \vec{v}}{d t}</m>.</p>
-	</statement>
-</definition>
-
+</assumption>
+	
+				<lemma>
+			<title>Extended Free-body Diagram</title>
+			<statement>
+	<p>
+	An <term>Extended Free-body Diagram</term> is a more detailed pictorial way to represent the forces acting on an object in which the object is represented as a shape and each force is shown acting at its point of contact.  As in a free-body diagram, each force should be labeled using the following symbol <m>\vec{F}_{BC}^A</m>, where <m>\vec{F}</m> indicates that the symbol represents a force, the superscript <m>A</m> represents the type of force (for example, <m>G</m> for gravity), <m>B</m> represents the system on which the force is acted, and <m>C</m> represents the system that is exerting the force.</p>
+			</statement>
+		</lemma>
 
 	<exercises>
 	<title>Activities</title>
-			<exercise xml:id="x_summarize-acceleration">
-			<title>Summarize What You Learned - Acceleration</title>
-			  <p>Write a 1-2 sentence description of what the definition of acceleration says in words. </p>
-			</exercise>
 			<exercise>
-			<title>Sensemaking: Units</title>
-			<statement>
-			  <p>What are the units of acceleration? Explain how these units are consistent with the units of other quantities you have learned about.</p>
-				</statement>
-				<answer>
-				<p>m/s<m>^2</m></p>
-				</answer>
-			</exercise>
-						<exercise>
-						<title>Explanation: Direction</title>
-			<statement>
-			  <p>How does the direction of the average acceleration vector compare to the direction of the change in velocity vector?</p>
-				</statement>
-				<hint>
-				<p>Does your acceleration have to point in the same direction as your velocity?</p>
-				</hint>
-				<answer>
-				<p>The average acceleration vector points in the same direction as the <emph>change</emph> in velocity!</p>
-				</answer>
+			<p>ADD ME</p>
 			</exercise>
 		</exercises>
 

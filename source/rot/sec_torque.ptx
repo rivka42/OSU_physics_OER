@@ -1,53 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_acceleration" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Acceleration</title>
+<section xml:id="sec_torque" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Torque</title>
 		
-      <video youtube="Kn4wcsWCXgY"><description>Defining acceleration.</description></video>
+      <video youtube="Kn4wcsWCXgY"><description>Defining torque.</description></video>
 	
-	<p>The term acceleration describes the rate of change of an object's velocity.  Like velocity (the rate of change of an object's position), acceleration can be either average or instantaneous.</p>
+	<p>ADD TEXT AND VIDEO</p>
 	
 	<definition>
-	<title>Average Acceleration</title>
+	<title>Torque</title>
 	<statement>
-		<p>The <term>average acceleration</term> of an object is the object's change in velocity divided by the interval of time required to change the velocity: <m>\vec{a}_{ave} = \frac{\Delta \vec{v}}{\Delta t}</m>.</p>
+		<p>The <term>torque</term> exerted by a force <m>\vec{F}</m> acting on a rigid body about a given axis is <m>\vec{\tau} = \vec{r} \times \vec{F}</m>, where <m>\vec{r}</m> is the vector from the axis to the point of contact of the force.</p>
 	</statement>
 </definition>
 
-	<definition>
-	<title>Instantaneous Acceleration</title>
-	<statement>
-		<p>The <term>instantaneous acceleration</term> of an object is given by <m>\vec{a} = \frac{d \vec{v}}{d t}</m>.</p>
-	</statement>
-</definition>
+
 
 
 	<exercises>
 	<title>Activities</title>
-			<exercise xml:id="x_summarize-acceleration">
-			<title>Summarize What You Learned - Acceleration</title>
-			  <p>Write a 1-2 sentence description of what the definition of acceleration says in words. </p>
-			</exercise>
-			<exercise>
-			<title>Sensemaking: Units</title>
-			<statement>
-			  <p>What are the units of acceleration? Explain how these units are consistent with the units of other quantities you have learned about.</p>
-				</statement>
-				<answer>
-				<p>m/s<m>^2</m></p>
-				</answer>
-			</exercise>
-						<exercise>
-						<title>Explanation: Direction</title>
-			<statement>
-			  <p>How does the direction of the average acceleration vector compare to the direction of the change in velocity vector?</p>
-				</statement>
-				<hint>
-				<p>Does your acceleration have to point in the same direction as your velocity?</p>
-				</hint>
-				<answer>
-				<p>The average acceleration vector points in the same direction as the <emph>change</emph> in velocity!</p>
-				</answer>
+		<exercise>
+			<p></p>
 			</exercise>
 		</exercises>
 

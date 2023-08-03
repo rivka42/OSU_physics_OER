@@ -3,44 +3,55 @@
 <section xml:id="sec_ang-motion" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Angular Motion</title>
 		
-      <video youtube="Kn4wcsWCXgY"><description>Introducing angular motion.</description></video>
+      <video youtube="qMJK_sjdUCw"><description>Introducing angular motion.</description></video>
 	
-	<p>ADD VIDEO //</p>
+	<p>ADD TEXT</p>
 	
-				<lemma xml:id="rep_angular-vectors">
-			<title>Direction of Angular Vectors</title>
-			<statement>
-				<p>The direction of an angular vector points along the axis of rotation.  For an object moving in the <m>xy</m>-plane, the vector pointing outward (in the <m>+z</m>-direction) corresponds to counterclockwise while the vector pointing inward (in the <m>-z</m>-direction) corresponds to clockwise.</p>
-			</statement>
-		</lemma>
+
 	
 	<definition>
 	<title>Angular Position</title>
 	<statement>
-		<p>The <term>angular position</term> of an object moving around a circle is <m>\vec{\theta}</m>.</p>
+		<p>The <term>angular position</term> of an object moving around a circle is <m>\vec{\theta} = \frac{s}{r}</m>, where <m>s</m> is the arc length and <m>r</m> is the radius.</p>
 	</statement>
 </definition>
 
 	<definition>
 	<title>Angular Velocity</title>
 	<statement>
-		<p>The <term>angular velocity</term> of an object moving around a circle is given by <m>\vec{\omega} = \frac{d \vec{\theta}}{d t}</m>.</p>
+		<p>The <term>angular velocity</term> of an object moving around a circle is given by <m>\vec{\omega} = \frac{d \vec{\theta}}{d t}</m>.  Combining this with the definition of angular position allows you to relate angular and tangential velocity as <m>\omega = \frac{v_t}{r}</m>.</p>
 	</statement>
 </definition>
 
 	<definition>
 	<title>Angular Acceleration</title>
 	<statement>
-		<p>The <term>angular acceleration</term> of an object moving around a circle is given by <m>\vec{\alpha} = \frac{d \vec{\omega}}{d t}</m>.</p>
+		<p>The <term>angular acceleration</term> of an object moving around a circle is given by <m>\vec{\alpha} = \frac{d \vec{\omega}}{d t}</m>.  Combining this with the definition of angular position allows you to relate angular and tangential acceleration as <m>\alpha = \frac{a_t}{r}</m>.</p>
 	</statement>
 </definition>
 
+				<lemma xml:id="rep_angular-vectors">
+			<title>Direction of Angular Vectors</title>
+			<statement>
+				<p>The direction of an angular vector points along the axis of rotation.  For an object moving in the <m>xy</m>-plane, the vector pointing outward (in the <m>+z</m>-direction) corresponds to counterclockwise while the vector pointing inward (in the <m>-z</m>-direction) corresponds to clockwise.</p>
+			</statement>
+		</lemma>
+
 
 	<exercises>
-	<title>Activities</title>
-			<exercise xml:id="x_x">
-			<title>ADD ME</title>
-			  <p>ADD ME</p>
+	<title>Activities - Circling Helicopter</title>
+	<p>A helicopter is flying in a horizontal circle of radius 50 m with an initial angular velocity of 200 rad/s upward.</p>
+			<exercise>
+			  <p>When viewed from above, is the helicopter moving clockwise or counterclockwise?</p>
+			</exercise>
+						<exercise>
+			  <p>How long does it take for the helicopter to complete three full rotations?</p>
+			</exercise>
+			<exercise>
+			  <p>What is the helicopter's tangential speed?</p>
+			</exercise>
+			<exercise>
+			  <p>Suppose the helicopter begins slowing down with an angular acceleration that has a magnitude of <m>20 \frac{\text{rad}}{\text{s}^2}</m>.  What is the helicopter's angular acceleration (magnitude and direction!)?</p>
 			</exercise>
 		</exercises>
 

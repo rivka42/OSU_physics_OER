@@ -1,53 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_acceleration" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Acceleration</title>
+<section xml:id="sec_rot-ke" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Rotational Kinetic Energy</title>
 		
-      <video youtube="Kn4wcsWCXgY"><description>Defining acceleration.</description></video>
+      <video youtube="SipNcjteILg"><description>Defining rotational kinetic energy.</description></video>
 	
-	<p>The term acceleration describes the rate of change of an object's velocity.  Like velocity (the rate of change of an object's position), acceleration can be either average or instantaneous.</p>
+	<p>ADD ME.</p>
 	
 	<definition>
-	<title>Average Acceleration</title>
+	<title>Rotational Kinetic Energy</title>
 	<statement>
-		<p>The <term>average acceleration</term> of an object is the object's change in velocity divided by the interval of time required to change the velocity: <m>\vec{a}_{ave} = \frac{\Delta \vec{v}}{\Delta t}</m>.</p>
-	</statement>
-</definition>
-
-	<definition>
-	<title>Instantaneous Acceleration</title>
-	<statement>
-		<p>The <term>instantaneous acceleration</term> of an object is given by <m>\vec{a} = \frac{d \vec{v}}{d t}</m>.</p>
+		<p>The <term>rotational kinetic energy</term> of a rigid object with angular speed <m>\omega</m> and moment of inertia <m>I</m> is given by: <m>K_{rot} = \frac{1}{2}I\omega^2</m>.</p>
 	</statement>
 </definition>
 
 
 	<exercises>
 	<title>Activities</title>
-			<exercise xml:id="x_summarize-acceleration">
-			<title>Summarize What You Learned - Acceleration</title>
-			  <p>Write a 1-2 sentence description of what the definition of acceleration says in words. </p>
-			</exercise>
 			<exercise>
-			<title>Sensemaking: Units</title>
-			<statement>
-			  <p>What are the units of acceleration? Explain how these units are consistent with the units of other quantities you have learned about.</p>
-				</statement>
-				<answer>
-				<p>m/s<m>^2</m></p>
-				</answer>
-			</exercise>
-						<exercise>
-						<title>Explanation: Direction</title>
-			<statement>
-			  <p>How does the direction of the average acceleration vector compare to the direction of the change in velocity vector?</p>
-				</statement>
-				<hint>
-				<p>Does your acceleration have to point in the same direction as your velocity?</p>
-				</hint>
-				<answer>
-				<p>The average acceleration vector points in the same direction as the <emph>change</emph> in velocity!</p>
-				</answer>
+			<p></p>
 			</exercise>
 		</exercises>
 

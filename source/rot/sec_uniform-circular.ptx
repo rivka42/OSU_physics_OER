@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_uniform-circular" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Uniform Circular Motion</title>
+		
+      <video youtube="qMJK_sjdUCw"><description>Defining uniform circular motion.</description></video>
+	
+	<p>ADD VIDEO</p>
+	
+	<p>An object moving in a circle with a constant speed is said to undergo <em>uniform circular motion</em>.  Since the acceleration of such an object is entirely centripetal, the centripetal acceleration may be used in combination with the Law of Motion to determine the net force acting on the object.</p>
+
+
+	<exercises>
+	<title>Activity - Turning Truck</title>
+	<p>You see a truck with known mass <m>M</m> driving along a flat road at a constant speed <m>v_{truck}</m>.  The truck reaches a part of the road that follows a circular path with radius <m>R</m>.</p>
+			<exercise xml:id="x_truck-circle">
+			<title>Representation</title>
+			<statement>
+			  <p>Sketch a free-body diagram for the truck.  What force points in the same direction as the acceleration?</p>
+				</statement>
+				<hint>
+				<p>The only object in contact with the truck is the ground, so (static) friction between the ground and the truck's tires must point in the direction of the acceleration.</p>
+				</hint>
+			</exercise>
+			<exercise>
+			<title>Calculation</title>
+			<p>Suppose you also know the coefficient of static friction <m>\mu_s</m> between the ground and the truck's tires.  Find two possible expressions for the magnitude of the force of static friction on the truck.  Which expression is more informative?</p>
+			</exercise>
+		</exercises>
+
+  
+
+	
+</section>
+

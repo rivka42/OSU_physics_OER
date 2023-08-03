@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_constant-alpha" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Motion with Constant Angular Acceleration</title>
+		
+      <video youtube="qMJK_sjdUCw"><description>Introducing angular motion.</description></video>
+	
+	<p>ADD VIDEO AND TEXT</p>
+	
+
+
+	<exercises>
+	<title>Activity - The Go-kart</title>
+	<p>You are on a Go-kart at a circular track such that the Go-kart's angular acceleration is a constant <m>0.6 \frac{\text{rad}}{\text{s}^2}</m>.  Your initial angular speed is <m>-1.2</m> rad/s.</p>
+			<exercise xml:id="x_go-kart">
+			<title>Representations</title>
+			  <p>Sketch graphs of the angular acceleration, angular velocity, and angular position vs. time.</p>
+			</exercise>
+			<exercise>
+			<title>Calculations</title>
+			  <p>Find equations for the angular position, angular velocity, and angular acceleration as functions of time.</p>
+			</exercise>
+			<exercise>
+			<title>Understanding</title>
+			  <p>How does the centripetal acceleration of your Go-kart change as you go?</p>
+			</exercise>
+		</exercises>
+
+  
+
+	
+</section>
+

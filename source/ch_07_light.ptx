@@ -1,16 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 
-<chapter xml:id="ch_energy" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Energy and Momentum</title>
-	
-<introduction>
-    <p> In this chapter you will focus on the topics of energy and momentum.</p>
+<chapter xml:id="ch_light" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Light</title>
+	<introduction>
+    <p> In this chapter you will focus on applying physics models to light.</p>
 		<exercises>
 		  <title>Learning Outcomes</title>
 		</exercises>
   
   
-<p>After successful completion of this chapter, you will be able to:
+<p>CHANGE ME After successful completion of this chapter, you will be able to:
  <ol>
 <li>Define work</li>
 <li>Define kinetic energy</li>
@@ -37,29 +36,22 @@
 
 </p>
 
-
 </introduction>
 
-  <xi:include href="./en/sec_what-is-energy.ptx" />
-	<xi:include href="./en/sec_system-diagrams.ptx" />
-	<xi:include href="./en/sec_work-energy-thm.ptx" />
-	<xi:include href="./en/sec_work.ptx" />
-	<xi:include href="./en/sec_work2.ptx" />
-	<xi:include href="./en/sec_ke.ptx" />
-	<xi:include href="./en/sec_power.ptx" />
-	<xi:include href="./en/sec_potential-energy.ptx" />
-	<xi:include href="./en/sec_spring-potential-energy.ptx" />
-	<xi:include href="./en/sec_gravitational-potential-energy.ptx" />
-	<xi:include href="./en/sec_energy-analysis.ptx" />
-	<xi:include href="./en/sec_energy-bar-charts.ptx" />
-	<xi:include href="./en/sec_potential-energy-diagrams.ptx" />
-	<xi:include href="./en/sec_force-and-potential-energy.ptx" />
-	<xi:include href="./en/sec_what-is-momentum.ptx" />
-	<xi:include href="./en/sec_impulse-momentum-thm.ptx" />
-	<xi:include href="./en/sec_momentum-vector-diagrams.ptx" />
-	<xi:include href="./en/sec_collisions.ptx" />
-	<xi:include href="./en/sec_energy-summary.ptx" />
-	
+<!--
+<xi:include href="./rot/sec_models.ptx" /> 
+<xi:include href="./rot/sec_centripetal.ptx" /> 
+<xi:include href="./rot/sec_tangential.ptx" /> 
+<xi:include href="./rot/sec_ang-motion.ptx" />
+<xi:include href="./rot/sec_uniform-circular.ptx" />
+<xi:include href="./rot/sec_constant-alpha.ptx" />
+<xi:include href="./rot/sec_orbital.ptx" />
+<xi:include href="./rot/sec_rolling-slipping.ptx" />
+<xi:include href="./rot/sec_ext-fbds.ptx" />
+<xi:include href="./rot/sec_law-of-motion-angular.ptx" />
+<xi:include href="./rot/sec_moment-of-inertia.ptx" />
+<xi:include href="./rot/sec_torque.ptx" />
+	-->
 </chapter>
 
 

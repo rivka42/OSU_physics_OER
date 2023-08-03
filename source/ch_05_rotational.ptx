@@ -2,7 +2,7 @@
 
 <chapter xml:id="ch_rotational" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Rotational Motion</title>
-	
+	<introduction>
     <p> In this chapter you will focus on applying physics models to rotational motion.</p>
 		<exercises>
 		  <title>Learning Outcomes</title>
@@ -36,12 +36,20 @@
 
 </p>
 
+</introduction>
 
-
- <xi:include href="./rot/sec_models.ptx" /> 
-	<xi:include href="./rot/sec_centripetal.ptx" /> 
-	<xi:include href="./rot/sec_tangential.ptx" /> 
-	<xi:include href="./rot/sec_ang-motion.ptx" /> 
+<xi:include href="./rot/sec_models.ptx" /> 
+<xi:include href="./rot/sec_centripetal.ptx" /> 
+<xi:include href="./rot/sec_tangential.ptx" /> 
+<xi:include href="./rot/sec_ang-motion.ptx" />
+<xi:include href="./rot/sec_uniform-circular.ptx" />
+<xi:include href="./rot/sec_constant-alpha.ptx" />
+<xi:include href="./rot/sec_orbital.ptx" />
+<xi:include href="./rot/sec_rolling-slipping.ptx" />
+<xi:include href="./rot/sec_ext-fbds.ptx" />
+<xi:include href="./rot/sec_law-of-motion-angular.ptx" />
+<xi:include href="./rot/sec_moment-of-inertia.ptx" />
+<xi:include href="./rot/sec_torque.ptx" />
 	
 </chapter>
 

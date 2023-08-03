@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_cross-product" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Cross Product</title>
+
+<!--THIS VIDEOS IS INTENTIONALLY IN A FIGURE FOR CROSS-REFERENCE PURPOSES.  NORMAL VIDEOS CANNOT BE CROSS-REFERENCED AND SO DO NOT NEED AN XML:ID -->
+		<figure xml:id="vec_vb-cross">
+		  <caption>Introducing the cross product.</caption>
+      <video youtube="ohX0ywFbPXY"></video>
+    </figure>
+
+    			<p>
+In a previous section you learned about the dot product as one way to multiply vectors.  Another way to multiply vectors is the <em>cross product</em>, named because you will use <m>\times</m> to represent the multiplication. Unlike the dot product, the cross product of two vectors is a <alert>vector</alert>, not a scalar.
+</p>
+
+<definition >
+<title>The Cross Product</title>
+<statement>
+<p>The magnitude of the cross product between two vectors is given by <m>|\vec{A} \times \vec{B}| = AB \sin\theta</m>, where <m>\theta</m> is the angle between the vectors when placed tail-to-tail.  The direction is always perpendicular to both <m>\vec{A}</m> and <m>\vec{B}</m>, and is given by the right hand rule (see below).</p>
+</statement>
+</definition>
+
+     <figure xml:id="vec_cross_product">
+    	<caption>A representation of vectors A and B and the angle between them illustrating the cross product for two vectors.</caption>
+    		<image source="vectors/vec_dot_product.png" width = "25%" ></image>
+    </figure>
+    
+<p>
+Here, <m> \theta</m> represents the angle between the two vectors when they are placed tail to tail. A and B represent the magnitudes of the vectors <m> \vec{A}</m> and <m> \vec{B}</m>.
+</p>
+
+<!--THIS VIDEOS IS INTENTIONALLY IN A FIGURE FOR CROSS-REFERENCE PURPOSES.  NORMAL VIDEOS CANNOT BE CROSS-REFERENCED AND SO DO NOT NEED AN XML:ID -->
+		<figure xml:id="vec_vb-rhr">
+		  <caption>Introducing the right hand rule.</caption>
+      <video youtube="GMl09Qfmo8c"></video>
+    </figure>
+
+				<lemma xml:id="rep_rhr">
+			<title>The Right Hand Rule</title>
+			<statement>
+				<p>ADD FIGURE The direction of the vector <m>\vec{C}</m> that results from the cross product <m>\vec{C} = \vec{A} \times \vec{B}</m> can be determined using the <term>right hand rule</term>.  To use the right hand rule, align your thumb in the direction of <m>\vec{A}</m>, your index finger in the direction of vector <m>\vec{B}</m>, and your remaining fingers will point in the direction of vector <m>\vec{C}</m>.</p>
+			</statement>
+		</lemma>
+		
+<p>
+Conceptually, the magnitude of the cross product quantifies how perpendicular two vectors are. The magnitude of the cross product is the magnitude of <m> \vec{B}</m> multiplied by the projection of  <m> \vec{A}</m> perpendicular to<m> \vec{B}</m>. You can think of a projection as the length of the shadow that <m> \vec{A}</m> would cast perpendicular to <m> \vec{B}</m> if you were to shine a light from above.
+</p>
+
+<figure xml:id="vec_in-and-out">
+    	<caption></caption>
+    		<image source="InAndOutVectors.png" width = "25%" ></image>
+    </figure>
+
+  
+			<exercises>
+		<title>Practice Activities</title>
+		<exercise xml:id="x_cross">
+		<statement>
+		<p>Indicate the direction of the cross product of the two vectors in the figure above, <m>\vec{A} \times \vec{B}</m>.</p>
+		</statement>
+		<answer><p>Into the screen!</p></answer>
+		</exercise>
+				<p>Use the two vectors shown below for the remaining questions.</p>
+				     <figure xml:id="vec_x-cross-product">
+    	<caption></caption>
+    		<image source="CrossProductVectors.png" width = "25%" ></image>
+    </figure>
+		<exercise xml:id="x_cross2">
+		<statement>
+		<p>Indicate the direction of the cross product <m>\vec{v}_1 \times \vec{v}_2</m>.</p>
+		</statement>
+		</exercise>
+				<exercise xml:id="x_cross3">
+		<statement>
+		<p>Label the appropriate angle <m>\theta</m> and estimate its value.  Use your estimate and the value <m>a</m> for the magnitude of both vectors to estimate the magnitude of <m>\vec{v}_1 \times \vec{v}_2</m>.</p>
+		</statement>
+		</exercise>
+		</exercises>
+      
+
+
+</section>
+
