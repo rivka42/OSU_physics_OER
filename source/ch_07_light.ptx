@@ -39,18 +39,13 @@
 </introduction>
 
 <!--
-<xi:include href="./rot/sec_models.ptx" /> 
-<xi:include href="./rot/sec_centripetal.ptx" /> 
-<xi:include href="./rot/sec_tangential.ptx" /> 
-<xi:include href="./rot/sec_ang-motion.ptx" />
-<xi:include href="./rot/sec_uniform-circular.ptx" />
-<xi:include href="./rot/sec_constant-alpha.ptx" />
-<xi:include href="./rot/sec_orbital.ptx" />
-<xi:include href="./rot/sec_rolling-slipping.ptx" />
-<xi:include href="./rot/sec_ext-fbds.ptx" />
-<xi:include href="./rot/sec_law-of-motion-angular.ptx" />
-<xi:include href="./rot/sec_moment-of-inertia.ptx" />
-<xi:include href="./rot/sec_torque.ptx" />
+<xi:include href="./light/sec_ray-model.ptx" /> 
+<xi:include href="./light/sec_reflection.ptx" /> 
+<xi:include href="./light/sec_refraction.ptx" /> 
+<xi:include href="./light/sec_images.ptx" />
+<xi:include href="./light/sec_wave-model.ptx" />
+<xi:include href="./light/sec_two-slit-interference.ptx" />
+<xi:include href="./light/sec_single-slit-diffraction.ptx" />
 	-->
 </chapter>
 

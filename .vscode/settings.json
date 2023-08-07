@@ -1,0 +1,8 @@
+{
+    "xml.fileAssociations": [
+        {
+            "pattern": "**/source/**.ptx",
+            "systemId": "/home/drenniks/.ptx/schema/pretext.rng"
+        }
+    ]
+}
