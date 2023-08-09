@@ -1,5 +1,0 @@
-/home/drenniks/Documents/OSU/OER_book/source/main.ptx:4:0:ERROR:RELAXNGV:RELAXNG_ERR_NOTELEM: Expecting an element got text
-/home/drenniks/Documents/OSU/OER_book/source/main.ptx:5:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element introduction there
-/home/drenniks/Documents/OSU/OER_book/source/main.ptx:5:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element sidebyside, got introduction
-/home/drenniks/Documents/OSU/OER_book/source/main.ptx:5:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element proof, got introduction
-/home/drenniks/Documents/OSU/OER_book/source/main.ptx:5:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element exercise, got introduction
