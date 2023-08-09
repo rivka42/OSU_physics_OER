@@ -17,3 +17,4 @@ examples/webwork/minimal/generated/*
 **/cli.log
 **/rsbuild
 **/build
+**/generated-assets
