@@ -3844,13 +3844,49 @@ var ptx_lunr_docs = [
   "body": ""
 },
 {
-  "id": "ch_waves",
+  "id": "sec_simpleHM",
   "level": "1",
-  "url": "ch_waves.html",
-  "type": "Chapter",
-  "number": "6",
-  "title": "Oscillations and Waves",
-  "body": " Oscillations and Waves   In this chapter you will focus on applying physics models to oscillations and waves.   Learning Outcomes   CHANGE ME After successful completion of this chapter, you will be able to:  Define work  Define kinetic energy  Evaluate the relationship between work and kinetic energy  Represent energy concepts using multiple representations (diagrams, graphs, words, equations)  Define a system  Define potential energy for a system  Define mechanical energy and determine when mechanical energy is conserved in a system  Analyze a system using a conservation of energy approach  Draw diagrams useful for analysis of a system using an energy approach  Analyze energy diagrams depicting the total energy as the sum of potential and kinetic energy  Analyze systems with work done by dissipative forces such as friction  Differentiate between conservative and non-conservative forces in an energy framework  Define momentum  Define impulse  Evaluate the relationship between impulse and momentum  Determine when momentum is conserved  Analyze systems using a conservation of momentum approach  Analyze elastic and inelastic collisions  Analyze explosions using a conservation of momentum approach  Draw diagrams useful for analysis of a system using momentum approach  Analyze systems that independently conserve momentum and energy      "
+  "url": "sec_simpleHM.html",
+  "type": "Section",
+  "number": "6.1",
+  "title": "Simple Harmonic Motion",
+  "body": " Simple Harmonic Motion  A mathematical object which has a both a magnitude (a size or amount) and a direction is called a vector . It is essential to take into account how both the magnitude and direction of a vector quantity changes when you analyze motion. A quantity that only has a magnitude is called a scalar . Suppose you have a vector . The negative vector has the same magnitude as vector , but points in the opposite direction. Once you understand how to visually represent and perform operations on vectors, you will move on to understand how to manipulate them algebraically.   A representation of vectors as arrows showing a vector and also the negative of that vector.     How are vectors related to motion?  Suppose that you drive North for 40 miles and then head West for 30 miles. You have now driven a total of 70 miles, yet your total displacement is only 50 miles Northwest from where you started. Displacement is a vector quantity. It has a magnitude, 50 miles, and a direction (which happens to be 53 degrees north of west).   The displacement vector for an object that moves North 40 km and then West 30 km.    Another, common example of a vector is velocity . Velocity is a quantity that not only contains information about the speed of an object (the magnitude), velocity also gives information about the direction an object is moving. Speed does not have a \"directionality\" and can be fully described with just a number value. Therefore, speed is a scalar. For example, a speedometer reads a number, 60 km\/hr, but gives no information about the direction of motion of the vehicle.    Activities  Explore Vectors and Scalars  Make a list of physical quantities you are familiar with from your everyday experience. For each quantity, do you think it would be better to represent it as a scalar or as a vector ?   Magnitude  A vector is typically represented graphically by an arrow. Which property of the arrow do you think represents the magnitude of the vector? How would you represent two vectors that have the same direction but different magnitudes?      Vectors vs. Scalars by Dr. Michelle Tomasik from MIT 8.01 Classical Mechanics, Fall 2016, used under Creative Commons BY-NC-SA.    "
+},
+{
+  "id": "vec_neg_vec",
+  "level": "2",
+  "url": "sec_simpleHM.html#vec_neg_vec",
+  "type": "Figure",
+  "number": "6.1.1",
+  "title": "",
+  "body": " A representation of vectors as arrows showing a vector and also the negative of that vector.   "
+},
+{
+  "id": "insight-5",
+  "level": "2",
+  "url": "sec_simpleHM.html#insight-5",
+  "type": "Historical Note",
+  "number": "6.1.2",
+  "title": "How are vectors related to motion?",
+  "body": " How are vectors related to motion?  Suppose that you drive North for 40 miles and then head West for 30 miles. You have now driven a total of 70 miles, yet your total displacement is only 50 miles Northwest from where you started. Displacement is a vector quantity. It has a magnitude, 50 miles, and a direction (which happens to be 53 degrees north of west).   The displacement vector for an object that moves North 40 km and then West 30 km.    Another, common example of a vector is velocity . Velocity is a quantity that not only contains information about the speed of an object (the magnitude), velocity also gives information about the direction an object is moving. Speed does not have a \"directionality\" and can be fully described with just a number value. Therefore, speed is a scalar. For example, a speedometer reads a number, 60 km\/hr, but gives no information about the direction of motion of the vehicle.  "
+},
+{
+  "id": "x_vectors-scalars",
+  "level": "2",
+  "url": "sec_simpleHM.html#x_vectors-scalars",
+  "type": "Exercise",
+  "number": "6.1.1",
+  "title": "Explore Vectors and Scalars.",
+  "body": "Explore Vectors and Scalars  Make a list of physical quantities you are familiar with from your everyday experience. For each quantity, do you think it would be better to represent it as a scalar or as a vector ?  "
+},
+{
+  "id": "x_length",
+  "level": "2",
+  "url": "sec_simpleHM.html#x_length",
+  "type": "Exercise",
+  "number": "6.1.2",
+  "title": "Magnitude.",
+  "body": "Magnitude  A vector is typically represented graphically by an arrow. Which property of the arrow do you think represents the magnitude of the vector? How would you represent two vectors that have the same direction but different magnitudes?  "
 },
 {
   "id": "ch_light",
