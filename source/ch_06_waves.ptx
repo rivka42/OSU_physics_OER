@@ -3,15 +3,15 @@
 <chapter xml:id="ch_waves" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Oscillations and Waves</title>
 	<introduction>
-    <p> Oscillations are ubiquitous in nature. The swaying of a tree in the wind, the motion of a child in the In this chapter you will focus on applying physics models to oscillations and waves.</p>
+    <p> Oscillations are ubiquitous in nature. The swaying of a tree in the wind, the motion of a child playing on a swing, springs, pendulums and musical instruments all undergo oscillatory motion. Oscillatory motion occurs when an object is displaced away from its natural resting position. In many situations forces act to push the object back to its resting position but overshoot resulting in an oscillation. Additionally, oscillatory motion In this chapter you will focus on applying physics models to oscillations and waves.</p>
 		<exercises>
 		  <title>Learning Outcomes</title>
 		</exercises>
   
   
-<p>CHANGE ME After successful completion of this chapter, you will be able to:
+<p> After successful completion of this chapter, you will be able to:
  <ol>
-<li>Define work</li>
+<li>Define simple harmonic motion</li>
 <li>Define kinetic energy</li>
 <li>Evaluate the relationship between work and kinetic energy</li>
 <li>Represent energy concepts using multiple representations (diagrams, graphs, words, equations)</li>
