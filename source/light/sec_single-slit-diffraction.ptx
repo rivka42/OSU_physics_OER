@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_single-slit-diffraction" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Single-Slit Diffraction</title>
+  
+    <video youtube="Mun7c6RB140"><description>Video description.</description></video>
+
+    <p>
+        Short description.
+    </p>
+
+    <exercises>
+        <title>Single-Slit Diffraction Activities</title>
+    </exercises>
+</section>

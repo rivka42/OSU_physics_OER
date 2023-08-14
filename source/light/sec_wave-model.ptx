@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_wave-model" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Wave Model for Light</title>
+  
+    <video youtube="Mun7c6RB140"><description>Video description.</description></video>
+
+    <p>
+        Short description.
+    </p>
+
+    <principle>
+        <title>Huygen's Principle</title>
+        <statement>
+          <p>Every point along a wave front can be considered a source of a waves emanating from that point in the direction of light propagation.</p>
+        </statement>
+    </principle>
+
+    <exercises>
+        <title>Wave Model Activities</title>
+    </exercises>
+</section>

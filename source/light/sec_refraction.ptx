@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_refraction" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Refraction</title>
+
+    <exercises>
+		<title>Exploring Refraction</title>
+			<exercise>
+			  <p>Play with this light simulation: <url href="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html"/>.  Play around with it for at least a few minutes.</p>
+			</exercise>
+			<exercise>
+			<p>Simulation question.</p>
+			</exercise>
+		</exercises>
+  
+    <video youtube="Mun7c6RB140"><description>Video description.</description></video>
+
+    <p>
+        Short description.
+    </p>
+
+    <principle>
+        <title>The Law of Refraction (Snell's Law)</title>
+        <statement>
+          <p>Light refracts (bends) when it enters into a different medium: <m>n_1 \mathrm{sin}(\theta_1) = n_2 \mathrm{sin}(\theta_2)</m>.</p>
+        </statement>
+    </principle>
+
+    <definition>
+        <title>Index of Refraction</title>
+        <statement>
+            <p>The <term>Index of Refraction</term> is defined as <m>n = c/v</m>, a ratio of the speed of light over the velocity of light propagation inside a medium. This number tells us something about how much a light ray will bend within a certain medium.</p>
+        </statement>
+    </definition>
+
+    <exercises>
+        <title>Refraction Activities</title>
+            <exercise xml:id="x_total-internal-reflection">
+                <title>Total Internal Reflection</title>
+            </exercise>
+
+            <exercise xml:id="x_dispersion">
+                <title>Dispersion</title>
+            </exercise>
+    </exercises>
+</section>

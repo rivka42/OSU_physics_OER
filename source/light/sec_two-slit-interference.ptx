@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_two-slit-interference" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Two-Slit Interference</title>
+  
+    <video youtube="Mun7c6RB140"><description>Video description.</description></video>
+
+    <p>
+        Short description.
+    </p>
+
+    <exercises>
+        <title>Two-Slit Interference Activities</title>
+            <exercise xml:id="x_two-slit-interference">
+                <title>Two-Slit Interference Simulation</title>
+                <p>
+                    <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html"/>
+                </p>
+            </exercise>
+    </exercises>
+</section>

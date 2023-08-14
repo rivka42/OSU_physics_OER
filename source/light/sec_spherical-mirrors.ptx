@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_spherical-mirrors" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Spherical Mirrors</title>
+  
+    <video youtube="Mun7c6RB140"><description>Video description.</description></video>
+
+    <p>
+        Short description.
+    </p>
+    <exercises>
+        <title>Spherical Mirror Activities</title>
+            <exercise xml:id="x_spherical-mirror">
+                <title>Spherical Mirrors</title>
+                <p>
+                    <url href="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html"/>
+                </p>
+            </exercise>
+    </exercises>
+</section>
