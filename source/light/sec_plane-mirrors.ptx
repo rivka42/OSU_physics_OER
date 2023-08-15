@@ -5,9 +5,7 @@
   
     <video youtube="Mun7c6RB140"><description>Video description.</description></video>
 
-    <p>
-        Short description.
-    </p>
+    <p>We will use the ray model for light to understand how images are created in plane mirrors.</p>
 
     <principle>
         <title>Image Distance</title>
@@ -37,6 +35,19 @@
                 <p>
                     <url href="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html"/>
                 </p>
+            </exercise>
+            <exercise xml:id="x_mirror-illusion">
+                <title>Mirror Illusion</title>
+                
+                <p>Watch this video about a supposed "mirror illusion".</p>
+
+                <video youtube="gNgSlGn59xA"><description>Mirror Illusion</description></video>
+                <p>Answer the following questions:</p>
+                <ol>
+                    <li>What is the illusion here?</li>
+                    <li>Draw a ray diagram to explain how you can still see the object in the mirror.</li>
+                    <li>How would you explain this to someone that doesn't know anything about the ray model for light and reflections?</li>
+                </ol>
             </exercise>
     </exercises>
 </section>

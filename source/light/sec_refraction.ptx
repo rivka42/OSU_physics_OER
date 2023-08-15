@@ -9,15 +9,16 @@
 			  <p>Play with this light simulation: <url href="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html"/>.  Play around with it for at least a few minutes.</p>
 			</exercise>
 			<exercise>
-			<p>Simulation question.</p>
+                <!--
+                    From Paul's get-ready activity.
+                -->
+			<p>Make a list of your observations as you go. Design and carry out an experiment to investigate one of your observations.</p>
 			</exercise>
 		</exercises>
   
     <video youtube="Mun7c6RB140"><description>Video description.</description></video>
 
-    <p>
-        Short description.
-    </p>
+    <p>Why does a straw in a glass of water look bent? Why do people look shorter in swimming pools? Why do mirages happen? The answer to all of these questions is refraction! Light bends when moving from one medium to another.</p>
 
     <principle>
         <title>The Law of Refraction (Snell's Law)</title>

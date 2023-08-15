@@ -5,9 +5,7 @@
   
     <video youtube="Mun7c6RB140"><description>Video description.</description></video>
 
-    <p>
-        Short description.
-    </p>
+    <p>Light can also be described as a wave! The wave-particle duality of light is extremely useful, especially when the wavelength of light is comparable to the size of any mechanism or object the light is interacting with. In these cases, we will use the wave nature of light to explain what we are seeing.</p>
 
     <principle>
         <title>Huygen's Principle</title>
@@ -18,5 +16,10 @@
 
     <exercises>
         <title>Wave Model Activities</title>
+        <p>Spend some time playing with the following simulation. Click on the "Interference" simulation, and on the right hand side, choose the laser pointer option.</p>
+        <p>
+            <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html"/>
+        </p>
+        <p>Make some observations as you are playing with the simulation. What happens if you separate the lasers as far as possible? What happens if you bring them as close together as possible? What happens when you change the frequency?</p>
     </exercises>
 </section>

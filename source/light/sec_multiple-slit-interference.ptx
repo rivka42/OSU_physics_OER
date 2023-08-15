@@ -5,10 +5,6 @@
   
     <video youtube="Mun7c6RB140"><description>Video description.</description></video>
 
-    <p>
-        Short description.
-    </p>
-
     <exercises>
         <title>Multiple-Slit Interference Activities</title>
             <exercise xml:id="x_multiple-slit-interference">

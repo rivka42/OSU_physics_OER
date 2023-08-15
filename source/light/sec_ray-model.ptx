@@ -7,17 +7,13 @@
 
     <video youtube="Mun7c6RB140"><description>Ray model for light.</description></video>
 
-    <p>
-        Light is a critical aspect of our lives, and it's behavior in different circumstances is important to model and understand. In this section, we will learn about the Ray Model for light, where we assume that light travels in straight lines. We will represent light by a single ray with the tail of the ray originating from a source of light.
-    </p>
+    <p>Light is a critical aspect of our lives, and it's behavior in different circumstances is important to model and understand. In this section, we will learn about the Ray Model for light, where we assume that light travels in straight lines. We will represent light by a single ray with the tail of the ray originating from a source of light.</p>
 
     <exercises>
         <title>Ray Diagram Activities</title>
             <exercise xml:id="x_intro-ray-diagram">
                 <title>Exploration: What can you see in the mirror?</title>
-                <p>
-                    Stand in front of a flat mirror (like in a bathroom) and look at your reflection. You should be able to see in the mirror parts of your body that are below the base of the mirror. Use the ray model of light to explain how this is possible.
-                </p>
+                <p>Stand in front of a flat mirror (like in a bathroom) and look at your reflection. You should be able to see in the mirror parts of your body that are below the base of the mirror. Use the ray model of light to explain how this is possible.</p>
             </exercise>
 
             <exercise xml:id="x_intro-pinhole-camera">
@@ -26,10 +22,7 @@
                     <caption>A representation of a position vector in an <m>xy</m>-coordinate system showing the positive angle from the <m>x</m>-axis and the components of <m>\vec{r}</m> along the <m>x</m>- and <m>y</m>-axes .</caption>
                     <image source="vectors/vec_2D_position_vec_w_angle.png" width = "50%" ></image>
                 </figure>
-                <p>
-                    A pinhole camera, also called a camera obscura, is an optical phenomenon that occurs when light travels through a very small aperture. Practice using the ray model to draw a ray diagram in order to determine what the camera produces. 
-                </p>
+                <p>A pinhole camera, also called a camera obscura, is an optical phenomenon that occurs when light travels through a very small aperture. Practice using the ray model to draw a ray diagram in order to determine what the camera produces.</p>
             </exercise>
     </exercises>
-
 </section>

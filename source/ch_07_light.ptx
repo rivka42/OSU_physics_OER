@@ -25,7 +25,7 @@
 <xi:include href="./light/sec_reflection.ptx" /> 
 <xi:include href="./light/sec_refraction.ptx" /> 
 <xi:include href="./light/sec_plane-mirrors.ptx" />
-<!-- <xi:include href="./light/sec_sperhical-mirrors.ptx" /> -->
+<xi:include href="./light/sec_spherical-mirrors.ptx" />
 <xi:include href="./light/sec_wave-model.ptx" />
 <xi:include href="./light/sec_two-slit-interference.ptx" />
 <xi:include href="./light/sec_multiple-slit-interference.ptx" />

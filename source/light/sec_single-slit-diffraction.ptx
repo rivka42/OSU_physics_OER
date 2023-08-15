@@ -5,11 +5,22 @@
   
     <video youtube="Mun7c6RB140"><description>Video description.</description></video>
 
-    <p>
-        Short description.
-    </p>
+    <principle>
+        <title>Dark Spot Locations</title>
+        <statement>
+          <p>Dark spots can be determined by <m>a \mathrm{sin}\theta = p \lambda</m> for <m>p = 1, 2, 3, ...</m>.</p>
+        </statement>
+    </principle>
 
     <exercises>
         <title>Single-Slit Diffraction Activities</title>
+        <exercise xml:id="x_single-slit-diffraction">
+            <title>Single-Slit Diffraction Simulation</title>
+            <p>Play with the following experiment for a few minutes. Click on the "Diffraction" simulation.</p>
+            <p>
+                <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html"/>
+            </p>
+            <p>Write down some observations. Play with different opening shapes. For the square shape, what happens when you decrease the width and increase the height? What happens to the image as you change the frequency of the light?</p>
+        </exercise>
     </exercises>
 </section>
