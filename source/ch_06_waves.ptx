@@ -3,7 +3,7 @@
 <chapter xml:id="ch_waves" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Oscillations and Waves</title>
 	<introduction>
-    <p> Oscillations are ubiquitous in nature. The swaying of a tree in the wind, the motion of a child playing on a swing, springs, pendulums and musical instruments all undergo oscillatory motion. Oscillatory motion occurs when an object is displaced away from its natural resting position. In many situations forces act to push the object back to its resting position but overshoot resulting in an oscillation. Additionally, oscillatory motion In this chapter you will focus on applying physics models to oscillations and waves.</p>
+    <p> Oscillations are ubiquitous in nature. The swaying of a tree in the wind, the motion of a child playing on a swing, springs, pendulums and musical instruments all undergo oscillatory motion. Oscillatory motion occurs when an object is displaced away from its natural resting position. Certain forces act to push the object back to its resting position but overshoot resulting in an oscillation. These forces are called restoring forces and we will learn about several common restoring forces over the next few sections. Additionally, oscillations are the source of waves. Our physical models of oscillatory motion will carry over to the next chapter where we study wave motion. In this chapter you will focus on applying physics models to oscillations and oscillatory motion.</p>
 		<exercises>
 		  <title>Learning Outcomes</title>
 		</exercises>
@@ -12,26 +12,19 @@
 <p> After successful completion of this chapter, you will be able to:
  <ol>
 <li>Define simple harmonic motion</li>
-<li>Define kinetic energy</li>
-<li>Evaluate the relationship between work and kinetic energy</li>
-<li>Represent energy concepts using multiple representations (diagrams, graphs, words, equations)</li>
-<li>Define a system</li>
-<li>Define potential energy for a system</li>
-<li>Define mechanical energy and determine when mechanical energy is conserved in a system</li>
-<li>Analyze a system using a conservation of energy approach</li>
-<li>Draw diagrams useful for analysis of a system using an energy approach</li>
-<li>Analyze energy diagrams depicting the total energy as the sum of potential and kinetic energy</li>
-<li>Analyze systems with work done by dissipative forces such as friction</li>
-<li>Differentiate between conservative and non-conservative forces in an energy framework</li>
-<li>Define momentum</li>
-<li>Define impulse</li>
-<li>Evaluate the relationship between impulse and momentum</li>
-<li>Determine when momentum is conserved</li>
-<li>Analyze systems using a conservation of momentum approach</li>
-<li>Analyze elastic and inelastic collisions</li>
-<li>Analyze explosions using a conservation of momentum approach</li>
-<li>Draw diagrams useful for analysis of a system using momentum approach</li>
-<li>Analyze systems that independently conserve momentum and energy</li>
+<li>Define a restoring force and understand when a restoring force is linear</li>
+<li>Define and amplitude, frequency, angular frequency, period of an oscillation</li>
+<li>Graph displacement, velocity and acceleration for an oscillating system</li>
+<li>Represent oscillations using multiple representations (diagrams, graphs, words, equations)</li>
+<li>Relate oscillatory motion to circular motion</li>
+<li>Define energy of an object in simple harmonic motion</li>
+<li>Analyze an oscillating system using a conservation of energy approach</li>
+<li>Draw and analyze energy graphs of oscillatory motion</li>
+<li>Determine an equation of motion for various oscillating systems</li>
+<li>Determine the period and frequency of oscillations for various systems</li>
+<li>Understand and apply the small-angle approximation</li>
+<li>Analyze oscillating systems under the particle model and rigid body model</li>
+<li>Analyze oscillating systems with dissipative forces such as friction</li>
 </ol>
 
 </p>
