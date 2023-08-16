@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_reflection" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Reflection</title>
+
+    <video youtube="Mun7c6RB140"><description>Video description.</description></video>
+
+    <p>
+        Short description.
+    </p>
+
+    <principle>
+        <title>The Law of Reflection</title>
+        <statement>
+          <p>The reflected angle is equal to the incident angle, as measured from the normal line of the surface: <m>\theta_{i} = \theta_{r}</m>.</p>
+        </statement>
+    </principle>
+
+    <exercises>
+        <title>Reflection Activities</title>
+            <exercise xml:id="x_corner-reflector">
+                <title>Practice: Corner Reflector</title>
+                <p>A corner reflector is made up of two mirrors meeting each other at a 90 degree angle. Let a light ray hit one of the mirrors so that the ray is reflected to the other mirror. Draw a ray diagram of this situation. What do you notice about the final reflected ray? What is special about this kind of object?</p>
+            </exercise>
+    </exercises>
+</section>

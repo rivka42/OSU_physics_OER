@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_multiple-slit-interference" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Multiple-Slit Interference</title>
+  
+    <video youtube="Mun7c6RB140"><description>Video description.</description></video>
+
+    <exercises>
+        <title>Multiple-Slit Interference Activities</title>
+            <exercise xml:id="x_multiple-slit-interference">
+                <title>Multiple-Slit Interference Simulation</title>
+                <p>
+                    <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html"/>
+                </p>
+            </exercise>
+    </exercises>
+</section>

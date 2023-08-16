@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_two-slit-interference" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Two-Slit Interference</title>
+  
+    <video youtube="Mun7c6RB140"><description>Video description.</description></video>
+
+    <definition>
+        <title>Constructive Interference</title>
+        <statement>
+            <p><term>Constructive Interference</term> occurs when <m>\Delta D = m \lambda</m>. These are points where there is a bright spot present.</p>
+        </statement>
+    </definition>
+    <definition>
+        <title>Destructive Interference</title>
+        <statement>
+            <p><term>Destructive Interference</term> occurs when <m>\Delta D = (m + \frac{1}{2}) \lambda</m>. These are points where there is a dark spot present.</p>
+        </statement>
+    </definition>
+    <definition>
+        <title>Path Length Difference</title>
+        <statement>
+            <p>The <term>Path Length Difference</term>, <m>\Delta D</m>, is represented by <m>\Delta D = d \mathrm{sin} \theta</m>. Here, <m>d</m> is the distance between slits, and <m>\theta</m> is the angle between the center line and the path to a spot on the screen.</p>
+        </statement>
+    </definition>
+
+    <exercises>
+        <title>Two-Slit Interference Activities</title>
+            <exercise xml:id="x_two-slit-interference">
+                <title>Two-Slit Interference Simulation</title>
+                <p>Play with the following experiment for a few minutes. Click on the "Slits" simulation. On the right hand side, increase the number of slits to two.</p>
+                <p>
+                    <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html"/>
+                </p>
+                <p>Write down some observations. What happens when you move the slit width to its minimum and maximum values? What happens as you increase the slit separation? What happens when you increase and decrease the frequency?</p>
+            </exercise>
+    </exercises>
+</section>

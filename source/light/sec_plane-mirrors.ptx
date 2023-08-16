@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_plane-mirrors" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Plane Mirrors</title>
+  
+    <video youtube="Mun7c6RB140"><description>Video description.</description></video>
+
+    <p>We will use the ray model for light to understand how images are created in plane mirrors.</p>
+
+    <principle>
+        <title>Image Distance</title>
+        <statement>
+          <p>If we define our zero point to be the mirror, the distance of an object to the mirror is equal to the negative of the distance of the image to the mirror: <m>d_o = -d_i</m></p>
+        </statement>
+    </principle>
+
+    <definition>
+        <title>Real Images</title>
+        <statement>
+            <p>A <term>Real Image</term> is created when light rays travel through the image location. These images will have a positive image distance.</p>
+        </statement>
+    </definition>
+
+    <definition>
+        <title>Virtual Images</title>
+        <statement>
+            <p>A <term>Virtual Image</term> is created when light rays do not travel through the image location. These images will have a negative image distance.</p>
+        </statement>
+    </definition>
+
+    <exercises>
+        <title>Plane Mirror Activities</title>
+            <exercise xml:id="x_plane-mirror">
+                <title>Plane Mirror Simulation</title>
+                <p>
+                    <url href="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html"/>
+                </p>
+            </exercise>
+            <exercise xml:id="x_mirror-illusion">
+                <title>Mirror Illusion</title>
+                
+                <p>Watch this video about a supposed "mirror illusion".</p>
+
+                <video youtube="gNgSlGn59xA"><description>Mirror Illusion</description></video>
+                <p>Answer the following questions:</p>
+                <ol>
+                    <li>What is the illusion here?</li>
+                    <li>Draw a ray diagram to explain how you can still see the object in the mirror.</li>
+                    <li>How would you explain this to someone that doesn't know anything about the ray model for light and reflections?</li>
+                </ol>
+            </exercise>
+    </exercises>
+</section>
