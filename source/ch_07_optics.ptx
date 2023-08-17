@@ -11,7 +11,7 @@
 	<ol>
 	<li>Draw ray diagrams using the Ray Model for Light</li>
 	<li>Explain how light is reflected and refracted upon hitting a surface or entering a medium</li>
-	<li>Explain how images are produced by flat and spherical mirrors</li>
+	<li>Explain how images are produced by flat and curved mirrors</li>
 	</ol>
 
 	</p>
@@ -23,12 +23,14 @@
 <xi:include href="./optics/sec_reflection.ptx" /> 
 <xi:include href="./optics/sec_refraction.ptx" /> 
 <xi:include href="./optics/sec_plane-mirrors.ptx" />
-<xi:include href="./optics/sec_spherical-mirrors.ptx" />
+<xi:include href="./optics/sec_curved-mirrors.ptx" />
+<xi:include href="./optics/sec_lenses.ptx" />
 <xi:include href="./optics/sec_wave-model.ptx" />
 <xi:include href="./optics/sec_two-slit-interference.ptx" />
 <xi:include href="./optics/sec_multiple-slit-interference.ptx" />
 <xi:include href="./optics/sec_single-slit-diffraction.ptx" />
 <xi:include href="./optics/sec_diffraction-gratings.ptx" />
+<xi:include href="./optics/sec_quantum_model.ptx" />
 </chapter>
 
 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_quantum_model" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Quantum Model for Light</title>
+  
+    <video youtube="Mun7c6RB140"><description>Video description.</description></video>
+
+    <p>So is light a particle or a wave? Or is it both? What is actually happening? The great thing about these models (the ray and the wave model) is that they allow us to understand the behavior of light in different situations.</p>
+    
+    <exercises>
+        <title>Quantum Model Activities</title>
+            <exercise xml:id="x_quantum_model">
+                <title>Photoelectric Effect</title>
+                <p>Play with the following simulation for a few minutes.</p>
+                <p>
+                    <url href="https://phet.colorado.edu/en/simulations/photoelectric"/>
+                </p>
+            </exercise>
+    </exercises>
+</section>

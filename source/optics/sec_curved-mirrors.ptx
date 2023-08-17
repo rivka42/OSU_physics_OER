@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_curved-mirrors" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Curved Mirrors</title>
+  
+    <video youtube="Mun7c6RB140"><description>Video description.</description></video>
+
+    <p>We can also use the ray model for light to explain images created by convex and concave mirrors.</p>
+    <assumption xml:id="a_mirror">
+        <title>Parabolic Mirrors</title>
+        <statement>
+            <p>When we are talking about curved mirrors, we are assuming that we are looking at the section where it is <term>parabolic</term>. This means that all incoming rays parallel to the principal axis will be reflected to or appear to originate from the focal point.</p>
+        </statement>
+    </assumption>
+    
+    <exercises>
+        <title>Curved Mirror Activities</title>
+            <exercise xml:id="x_spherical-mirror">
+                <title>Curved Mirrors</title>
+                <p>
+                    <url href="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html"/>
+                </p>
+            </exercise>
+    </exercises>
+</section>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_lenses" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Lenses</title>
+  
+    <video youtube="Mun7c6RB140"><description>Video description.</description></video>
+
+    <p>We are going to combine all that we have learned so far to understand how lenses work.</p>
+    
+    <exercises>
+        <title>Lenses Activities</title>
+            <exercise xml:id="x_lenses">
+                <title>Lenses</title>
+                <p>Play with the following simulation for a few minutes. Click on the "Lens" option.</p>
+                <p>
+                    <url href="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html"/>
+                </p>
+            </exercise>
+    </exercises>
+</section>
