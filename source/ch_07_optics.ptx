@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_optics" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Optics</title>
+	<introduction>
+    <p> In this chapter you will focus on applying physics models to light.</p>
+	
+	<p><alert>Learning Outcomes</alert></p>
+  
+	<p>CHANGE ME After successful completion of this chapter, you will be able to:
+	<ol>
+	<li>Draw ray diagrams using the Ray Model for Light</li>
+	<li>Explain how light is reflected and refracted upon hitting a surface or entering a medium</li>
+	<li>Explain how images are produced by flat and spherical mirrors</li>
+	</ol>
+
+	</p>
+
+	</introduction>
+
+
+<xi:include href="./optics/sec_ray-model.ptx" /> 
+<xi:include href="./optics/sec_reflection.ptx" /> 
+<xi:include href="./optics/sec_refraction.ptx" /> 
+<xi:include href="./optics/sec_plane-mirrors.ptx" />
+<xi:include href="./optics/sec_spherical-mirrors.ptx" />
+<xi:include href="./optics/sec_wave-model.ptx" />
+<xi:include href="./optics/sec_two-slit-interference.ptx" />
+<xi:include href="./optics/sec_multiple-slit-interference.ptx" />
+<xi:include href="./optics/sec_single-slit-diffraction.ptx" />
+<xi:include href="./optics/sec_diffraction-gratings.ptx" />
+</chapter>
+
+
+
+
+
+
+
+
