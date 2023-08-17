@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_graphTrig" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Graphical Trigonometry</title>
+			
+    <p>
+A mathematical object which has a both a <em>magnitude</em> (a size or amount) and a <em>direction</em> is called a <alert>vector</alert>.  It is essential to take into account how both the magnitude and direction of a vector quantity changes when you analyze motion. A quantity that only has a magnitude is called a <alert>scalar</alert>.  Suppose you have a vector <m>\vec{A}</m> . The  negative vector <m>-\vec{A}</m>  has the same magnitude as vector <m>\vec{A}</m> , but points in the opposite direction. Once you understand how to visually represent and perform operations on vectors, you will move on to understand how to manipulate them algebraically.   
+    </p>
+    
+    <figure xml:id="vec_neg_vec">
+	<caption>A representation of vectors as arrows showing a vector and also the negative of that vector.</caption>
+       	<image source="vectors/vec_neg_vec.png" width = "35%" ></image>
+    </figure>
+
+	
+
+		
+<insight>
+ <title> How are vectors related to motion?</title>
+ 
+ <p>
+ Suppose that you drive North for 40 miles and then head West for 30 miles. You have now driven a total of 70 miles, yet your total <alert>displacement</alert> is only 50 miles Northwest from where you started. Displacement is a vector quantity. It has a magnitude, 50 miles, and a direction (which happens to be 53 degrees north of west).
+ </p>
+ 
+  <figure xml:id="vec_displacement">
+	<caption>The displacement vector for an object that moves North 40 km and then West 30 km.</caption>
+       	<image source="vectors/vec_displacement.png" width = "45%" ></image>
+  </figure>
+
+<p>
+Another, common example of a vector is <alert>velocity</alert>. Velocity is a quantity that not only contains information about the speed of an object (the magnitude), velocity also gives information about the direction an object is moving. Speed does not have a "directionality" and can be fully described with just a number value. Therefore, speed is a scalar. For example, a speedometer reads a number, 60 km/hr, but gives no information about the direction of motion of the vehicle. 
+</p>
+
+</insight>
+
+		<exercises>
+		<title>Activities</title>
+		<exercise xml:id="x_vectors-scalars">
+		<title>Explore Vectors and Scalars</title>
+		<statement>
+		<p>Make a list of physical quantities you are familiar with from your everyday experience.  For each quantity, do you think it would be better to represent it as a <em>scalar</em> or as a <em>vector</em>?</p>
+		</statement>
+		</exercise>
+				<exercise xml:id="x_length">
+		<title>Magnitude</title>
+		<statement>
+		<p>A vector is typically represented graphically by an arrow.  Which property of the arrow do you think represents the magnitude of the vector?  How would you represent two vectors that have the same direction but different magnitudes?</p>
+		</statement>
+		</exercise>
+		</exercises>
+
+<references>
+<biblio xml:id="ref_mit-vectors1">
+<p>Vectors vs. Scalars by Dr. Michelle Tomasik from MIT 8.01 Classical Mechanics, Fall 2016, used under Creative Commons BY-NC-SA.</p>
+</biblio>
+</references>
+		
+</section>
+

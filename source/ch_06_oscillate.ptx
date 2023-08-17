@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 
-<chapter xml:id="ch_waves" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Oscillations and Waves</title>
+<chapter xml:id="ch_oscillate" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Oscillations</title>
 	<introduction>
-    <p> Oscillations are ubiquitous in nature. The swaying of a tree in the wind, the motion of a child playing on a swing, springs, pendulums and musical instruments all undergo oscillatory motion. Oscillatory motion occurs when an object is displaced away from its natural resting position. Certain forces act to push the object back to its resting position but overshoot resulting in an oscillation. These forces are called restoring forces and we will learn about several common restoring forces over the next few sections. Additionally, oscillations are the source of waves. Our physical models of oscillatory motion will carry over to the next chapter where we study wave motion. In this chapter you will focus on applying physics models to oscillations and oscillatory motion.</p>
+    <p> Oscillations are ubiquitous in the natural world. The swaying of a tree in the wind, the motion of a child playing on a swing, springs, pendulums, musical instruments and even molecular bonds all undergo oscillatory motion. Oscillatory motion occurs when an object is displaced away from its natural resting position and forces are present which act to push the object back to its resting position. These forces are called restoring forces and we will learn about several common restoring forces over the next few sections. Additionally, oscillations are the source of waves. Our physical models of oscillatory motion will carry over to the next chapter where we study wave motion. In this chapter you will focus on applying physics models to oscillations and oscillatory motion.</p>
 		<exercises>
 		  <title>Learning Outcomes</title>
 		</exercises>
@@ -32,6 +32,13 @@
 
 </introduction>
 <xi:include href="./oscl/sec_simpleHM.ptx" /> 
+<xi:include href="./oscl/sec_graphTrig.ptx" /> 
+<xi:include href="./oscl/sec_kinematicsHM.ptx" /> 
+<xi:include href="./oscl/sec_circularHM.ptx" /> 
+<xi:include href="./oscl/sec_energyHM.ptx" /> 
+<xi:include href="./oscl/sec_springs.ptx" /> 
+<xi:include href="./oscl/sec_pendula.ptx" /> 
+<xi:include href="./oscl/sec_damped.ptx" /> 
 </chapter>
 
 
