@@ -18,10 +18,7 @@
 
             <exercise xml:id="x_intro-pinhole-camera">
                 <title>Practice: Pinhole Camera</title>
-                <figure xml:id="vec_2D_position_vec_w_angle">
-                    <caption>A representation of a position vector in an <m>xy</m>-coordinate system showing the positive angle from the <m>x</m>-axis and the components of <m>\vec{r}</m> along the <m>x</m>- and <m>y</m>-axes .</caption>
-                    <image source="vectors/vec_2D_position_vec_w_angle.png" width = "50%" ></image>
-                </figure>
+                <p><xref ref="vec_2D_position_vec_w_angle" /></p>
                 <p>A pinhole camera, also called a camera obscura, is an optical phenomenon that occurs when light travels through a very small aperture. Practice using the ray model to draw a ray diagram in order to determine what the camera produces.</p>
             </exercise>
     </exercises>
