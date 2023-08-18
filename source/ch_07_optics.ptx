@@ -3,21 +3,29 @@
 <chapter xml:id="ch_optics" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Optics</title>
 	<introduction>
-    <p> In this chapter you will focus on applying physics models to light.</p>
+    <p> In this chapter you will learn how to model light.</p>
 	
 	<p><alert>Learning Outcomes</alert></p>
   
-	<p>CHANGE ME After successful completion of this chapter, you will be able to:
-	<ol>
-	<li>Draw ray diagrams using the Ray Model for Light</li>
-	<li>Explain how light is reflected and refracted upon hitting a surface or entering a medium</li>
-	<li>Explain how images are produced by flat and curved mirrors</li>
-	</ol>
-
+	<p>
+		After successful completion of this chapter, you will be able to:
+		<ol>
+			<li>Draw ray diagrams using the Ray Model for Light.</li>
+			<li>Explain how light is reflected and refracted upon hitting a surface or entering a medium.</li>
+			<li>Apply the law of refraction to determine how light travels through different mediums.</li>
+			<li>Explain how images are produced by flat and curved mirrors.</li>
+			<li>Explain how lenses work.</li>
+			<li>Define the wave model for light.</li>
+			<li>Differentiate between the wave and ray models for light, and explain in what cases they are most useful.</li>
+			<li>Apply the small angle approximation.</li>
+			<li>Define constructive and destructive interference.</li>
+			<li>Explain how diffration is produced.</li>
+			<li>List different optical phenomenon and explain the fundamental concepts behind them.</li>
+			<li>Define the quantum model for light.</li>
+		</ol>
 	</p>
 
 	</introduction>
-
 
 <xi:include href="./optics/sec_ray-model.ptx" /> 
 <xi:include href="./optics/sec_reflection.ptx" /> 
