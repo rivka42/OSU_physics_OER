@@ -12,11 +12,10 @@
 		
       <video youtube="1anNyNrvtIU"><description>Introducing rolling without slipping.</description></video>
 	
-<<<<<<< HEAD
 	<p>ADD ME</p>
 	
 	<p>Adding a test to see how desmos works in pretext</p>
-=======
+
 	<p>Most examples of rolling motion you encounter in your everyday life can be modeled as rolling without slipping, in which the point of contact between the rolling object has a relative velocity of zero with the surface along which it is rolling.  Cases in which the relative motion between the rolling object and the surface are not zero are typically described as slipping or skidding.</p>
 	
 
@@ -26,7 +25,6 @@
 		<p>An object that rolls along the ground without slipping has a translational velocity given by <m>\omega = \frac{v_t}{r}</m>, where <m>r</m> is the radius at the point of contact between the rolling object and the surface.</p>
 	</statement>
 </assumption>
->>>>>>> d6817fdbbb5e2598be11f60b3fd5305d866cfe48
 
 
 	<exercises>
