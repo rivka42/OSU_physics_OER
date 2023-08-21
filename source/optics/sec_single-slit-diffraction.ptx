@@ -22,5 +22,9 @@
             </p>
             <p>Write down some observations. Play with different opening shapes. For the square shape, what happens when you decrease the width and increase the height? What happens to the image as you change the frequency of the light?</p>
         </exercise>
+        <exercise>
+            <title>Width of a Diffraction Pattern</title>
+            <p>The width of the central bright maxima in a single-slit diffraction pattern can be measured by looking at the distance to the first dark spot. What is the width of the central bright maxima? What happens to the width as the distance between the slit and the screen increases? What happens to the width as the wavelength decreases? What happens as the slit size decreases?</p>
+        </exercise>
     </exercises>
 </section>

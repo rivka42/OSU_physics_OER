@@ -16,10 +16,18 @@
 
     <exercises>
         <title>Wave Model Activities</title>
-        <p>Spend some time playing with the following simulation. Click on the "Interference" simulation, and on the right hand side, choose the laser pointer option.</p>
+        <exercise>
+            <title>Wave Interference</title>
+            <p>Spend some time playing with the following simulation. Click on the "Interference" simulation, and on the right hand side, choose the laser pointer option.</p>
         <p>
             <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html"/>
         </p>
         <p>Make some observations as you are playing with the simulation. What happens if you separate the lasers as far as possible? What happens if you bring them as close together as possible? What happens when you change the frequency?</p>
+        </exercise>
+        <exercise>
+            <title>Wave Refresher</title>
+            <p>Review SECTION WAVES. We will be using some of these concepts as we move forward.</p>
+        </exercise>
+        
     </exercises>
 </section>
