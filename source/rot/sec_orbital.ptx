@@ -24,10 +24,16 @@
 			</exercise>
 		</exercises>
 
-<p>ADD TEXT</p>
-
         <video youtube="XzBIw5aryns"><description>Introducing orbital motion.</description></video>
 
+<p>An orbiting object can often be treated as undergoing uniform circular motion, in which case the only force responsibly for the circular motion is the gravitational force between the orbiting and orbited object.</p>
+
+	<principle>
+	<title>Law of Orbital Periods (Kepler's Third Law)</title>
+	<statement>
+		<p>The period of an orbit <m>T</m> is related to the semi-major axis<fn>for a circular orbit, this is equal to the radius</fn> of the orbit <m>a</m> by <m>a^3 = \frac{GM}{(2\pi)^2}T^2</m>, were <m>G</m> is the universal gravitational constant and <m>M</m> is the mass of the object that is being orbited.  This law assumes that the mass of the orbiting object is much smaller than the mass of the object being orbited.</p>
+	</statement>
+</principle>
 	
 </section>
 

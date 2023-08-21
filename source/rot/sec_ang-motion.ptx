@@ -5,14 +5,12 @@
 		
       <video youtube="qMJK_sjdUCw"><description>Introducing angular motion.</description></video>
 	
-	<p>ADD TEXT</p>
-	
-
-	
+	<p>An object moving around a circle is an especially common form of two-dimensional motion.  Because the radius is constant for circular motion, it is often more convenient to use <em>angular motion quantities</em> than translational motion quantities.  This is essentially equivalent to using circular polar coordinates instead of Cartesian coordinates to describe the motion.  Each of the three primary motion quantities---position, velocity, and acceleration---has an angular equivalent, defined below.</p>
+		
 	<definition>
 	<title>Angular Position</title>
 	<statement>
-		<p>The <term>angular position</term> of an object moving around a circle is <m>\vec{\theta} = \frac{s}{r}</m>, where <m>s</m> is the arc length and <m>r</m> is the radius.</p>
+		<p>The <term>angular position</term> of an object moving around a circle is <m>\theta = \frac{s}{r}</m>, where <m>s</m> is the arc length and <m>r</m> is the radius.</p>
 	</statement>
 </definition>
 
@@ -30,6 +28,8 @@
 	</statement>
 </definition>
 
+	<p>As with translational motion quantities, the angular motion quantities are vectors, with both magnitude and direction.  For straightforward examples of angular motion in which the axis of rotation<fn>the line passing through the center of the circle perpendicular to the plane of the circle</fn> does not change, the direction may often be summarized as clockwise or counterclockwise, but the true direction of the angular motion quantities is along the axis of rotation.</p>
+				
 				<lemma xml:id="rep_angular-vectors">
 			<title>Direction of Angular Vectors</title>
 			<statement>
