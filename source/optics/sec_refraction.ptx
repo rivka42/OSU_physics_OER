@@ -38,10 +38,43 @@
         <title>Refraction Activities</title>
             <exercise xml:id="x_total-internal-reflection">
                 <title>Total Internal Reflection</title>
+                <p>When a ray of light passes from one medium into another, the ray will be refracted in the second medium according to the Law of Reflection. But for some critical angle and above, the ray of light will be completely reflected back into the initial medium. In this activity, we will work through this phenomenon to arrive at a useful conclusion. Work through the following questions.</p>
+                <ol>
+                    <li>
+                        Starting with the Figure above (add figure about snell's law), let's think about our initial condition for total internal reflection. If we want the second ray (the one entering the second medium) to start to be reflected back (i.e., the ray will not be entering the second medium), what does the second angle need to be equal to? Write down Snell's Law for this situation.
+                        <answer>
+                        <p><m>90^\circ</m>. This means the second ray is going to point along the interface between the first and second medium. This would be the starting point for the initial ray being completely reflected back into the first medium. Snell's law would then be: <m>n_1 \mathrm{sin} \theta_c = n_2 \mathrm{sin}(90^\circ) = n_2</m>. <m>\theta_c</m> is known as the critical angle.</p>
+                        </answer>
+                    </li>
+                    
+                    <li>What does this mean about the ratio of <m>n_2 / n_1</m>? Does the index of refraction of the second medium need to be greater than or less than the index of refraction of the first medium? Can they be equal to each other?</li>
+                    
+                    <li>
+                        A light ray is travelling through diamond (<m>n_1 = 2.4</m>) and is incident upon a layer of olive oil (<m>n_1 = 1.4</m>). What is the critical angle for this situation?
+                        <answer>
+                            <p><m>\theta_c = 35.6^\circ</m></p>
+                        </answer>
+                    </li>
+                
+                    <li>Return to the simulation you played with at the beginning of this section and experiment with total internal reflection. List some observations.</li>
+                </ol>  
             </exercise>
 
             <exercise xml:id="x_dispersion">
                 <title>Dispersion</title>
+                <p>Until now, we have been talking about a vague light ray and we haven't addressed the elephant in the room, which is that light has a wavelength associated with it, or if we are thinking about white light, then it is made up of multiple different wavelengths of light. To see how the wavelength of the light affects it's motion as it passes into a new medium, we need to talk about dispersion. <term>Dispersion</term> is the spreading out of a light ray based on it's wavelength. This means that an index of refraction of a medium actually depends on the wavelength of light entering the medium.</p>
+                <p>In this activity, we will use this fact to understand how a prism works.</p>
+
+                <ol>
+                    <li>First draw a ray diagram of a light ray entering a prism and then exiting through the other side. Label all necessary angles and indexes of refraction.</li>
+                    <li>
+                        The index of refraction for violet and red light passing through a prism is <m>n_v = 1.53</m> and <m>n_r = 1.51</m>, respectively. If the incident angle is <m>45^\circ</m>, what is the angle of the light within the prism for both colors? What does this mean for the light that emerges from the prism? 
+                        <answer>
+                            <p><m>\theta_2 = 27.5^\circ</m> for violet light rays and <m>\theta_2 = 27.9^\circ</m> for red light rays. While this difference might seem small, the fact there is any difference at all allows for the light to be dispersed.</p>
+                        </answer>
+                    </li>
+                    <li>Explain how a prism works! Write a few sentences explaining how a prism works and why we see a rainbow if we shine white light through the prism.</li>
+                </ol>
             </exercise>
     </exercises>
 </section>
