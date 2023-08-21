@@ -17,9 +17,24 @@
         <title>Curved Mirror Activities</title>
             <exercise xml:id="x_spherical-mirror">
                 <title>Curved Mirrors</title>
-                <p>
+                <p>Spend some time playing with the following simulation. Make sure to click the "Mirror" option. Select the concave mirror first.
                     <url href="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html"/>
                 </p>
+                <p>As you are playing with this simulation, walk yourself through the following questions:</p>
+                <ol>
+                    <li>From the drop down menu, select the "arrow" object. Move the object around. How does the image change as you move the object from the left side of the screen, towards the focal point, and past the focal point?</li>
+                    <li>What happens to the image around the focal point? Pick three locations before, near or on, and after the focal point and describe what happens to the image.</li>
+                    <li>Switch to the "convex" mirror. What happens to this image as you move the object from the left side of the screen towards the mirror?</li>
+                    <li>Is there any way you can make a real image with only a convex mirror?</li>
+                </ol>
+            </exercise>
+            <exercise xml:id="x_mirror_eqn">
+                <title>Mirror Equations</title>
+                <p>Answer the following questions using what you know about curved mirrors.</p>
+                <ol>
+                    <li>A 20cm tall object is placed at a distance of 200cm in front of a concave mirror with a radius of curvature of 150cm. Where is the image located? How does the height of the image change, if at all?</li>
+                    <li>An object is placed 40cm in front of a concave mirror and it's virtual image is at a distance of 60cm. What is the radius of curvature for this mirror?</li>
+                </ol>
             </exercise>
     </exercises>
 </section>

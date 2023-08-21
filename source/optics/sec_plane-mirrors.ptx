@@ -32,9 +32,10 @@
         <title>Plane Mirror Activities</title>
             <exercise xml:id="x_plane-mirror">
                 <title>Plane Mirror Simulation</title>
-                <p>
+                <p>Spend some time playing with the following simulation. Click on the "Mirror" option. At the top of the screen, select the flat mirror option. 
                     <url href="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html"/>
                 </p>
+                <p>Make some observations as you move the object away from and towards the mirror.</p>
             </exercise>
             <exercise xml:id="x_mirror-illusion">
                 <title>Mirror Illusion</title>
