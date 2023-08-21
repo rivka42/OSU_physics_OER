@@ -4,7 +4,7 @@
   <title>Application: Rolling without Slipping</title>
 	
 		<exercises>
-	<title>Warn-up Activity</title>
+	<title>Warm-up Activity</title>
 			<exercise>
 			  <p>A bicycle wheel rolls along the floor at constant speed <m>v</m> to the right (choose this to be the positive direction).  What is the translational velocity of a point on the bottom of the wheel?  Explain your reasoning.</p>
 			</exercise>
@@ -12,13 +12,27 @@
 		
       <video youtube="1anNyNrvtIU"><description>Introducing rolling without slipping.</description></video>
 	
-	<p>ADD ME</p>
+	<p>Most examples of rolling motion you encounter in your everyday life can be modeled as rolling without slipping, in which the point of contact between the rolling object has a relative velocity of zero with the surface along which it is rolling.  Cases in which the relative motion between the rolling object and the surface are not zero are typically described as slipping or skidding.</p>
+	
+
+	<assumption>
+	<title>Rolling without Slipping</title>
+	<statement>
+		<p>An object that rolls along the ground without slipping has a translational velocity given by <m>\omega = \frac{v_t}{r}</m>, where <m>r</m> is the radius at the point of contact between the rolling object and the surface.</p>
+	</statement>
+</assumption>
 
 
 	<exercises>
 	<title>Activities</title>
 			<exercise>
-			<p>ADD ME</p>
+			<p>Consider the bicycle wheel from the warm-up activity.  What is the translational velocity of a point on the <em>top</em> of the wheel?  Explain your reasoning.</p>
+			</exercise>
+						<exercise>
+			<p>A bicycle riding on a dry road can usually be treated as if both tires are rolling without slipping along the road.  As the bicycle accelerates from rest, what kind of force do you think acts on the tire?  What direction do you think it points?  Be specific.</p>
+			</exercise>
+						<exercise>
+			<p>In some cases, especially when slowing down rapidly, the bicycle tires will begin to slip along the road (that is, they will no longer be rolling without slipping).  Why do you think this happens?</p>
 			</exercise>
 		</exercises>
 

@@ -4,10 +4,9 @@
   <title>Uniform Circular Motion</title>
 		
       <video youtube="bNztugsrtWs"><description>Defining uniform circular motion.</description></video>
+
 	
-	<p>ADD VIDEO</p>
-	
-	<p>An object moving in a circle with a constant speed is said to undergo <em>uniform circular motion</em>.  Since the acceleration of such an object is entirely centripetal, the centripetal acceleration may be used in combination with the Law of Motion to determine the net force acting on the object.</p>
+	<p>An object moving in a circle with a constant speed is said to undergo <em>uniform circular motion</em>.  The acceleration of such an object is entirely centripetal; that is, the tangential acceleration (and therefore the angular acceleration) are both equal to 0.  As a result, the centripetal acceleration may be used in combination with the Law of Motion to determine the net force acting on the object.</p>
 
 
 	<exercises>

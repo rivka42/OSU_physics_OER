@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_constant-alpha" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="sec_nonuniform-circ" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Nonuniform Circular Motion</title>
 		
       <video youtube="xqxvXKd6gMU"><description>Defining nonuniform circular motion.</description></video>
 	
-	<p>ADD TEXT</p>
+	<p>An object moving in a circle with a non-constant speed is said to undergo <em>nonuniform circular motion</em>.  Since the speed is changing, the object must have a non-zero tangential acceleration, which is related to the angular acceleration by <m>\alpha = \frac{a_t}{r}</m>.  An object undergoing nonuniform circular motion still has a centripetal acceleration, which will change as the speed changes.  When using the Law of Motion to relate acceleration to the net force, the entire acceleration vector must be used, including both the tangential and centripetal components.</p>
 	
 
 
