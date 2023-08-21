@@ -13,6 +13,8 @@
       <video youtube="1anNyNrvtIU"><description>Introducing rolling without slipping.</description></video>
 	
 	<p>ADD ME</p>
+	
+	<p>Adding a test to see how desmos works in pretext</p>
 
 
 	<exercises>
@@ -20,6 +22,10 @@
 			<exercise>
 			<p>ADD ME</p>
 			</exercise>
+			<exercise>
+			  <p>Play with this rolling motion simulation: <url href="https://www.desmos.com/calculator/whyyk5hkxz"/>.  Play around with it for at least a few minutes.</p>
+			</exercise>
+
 		</exercises>
 
   

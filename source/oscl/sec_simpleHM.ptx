@@ -4,35 +4,61 @@
   <title>Simple Harmonic Motion</title>
 			
     <p>
-A mathematical object which has a both a <em>magnitude</em> (a size or amount) and a <em>direction</em> is called a <alert>vector</alert>.  It is essential to take into account how both the magnitude and direction of a vector quantity changes when you analyze motion. A quantity that only has a magnitude is called a <alert>scalar</alert>.  Suppose you have a vector <m>\vec{A}</m> . The  negative vector <m>-\vec{A}</m>  has the same magnitude as vector <m>\vec{A}</m> , but points in the opposite direction. Once you understand how to visually represent and perform operations on vectors, you will move on to understand how to manipulate them algebraically.   
-<xref ref="vec_neg_vec" /> </p>
-		
-<insight>
- <title> How are vectors related to motion?</title>
- 
- <p>
- Suppose that you drive North for 40 miles and then head West for 30 miles. You have now driven a total of 70 miles, yet your total <alert>displacement</alert> is only 50 miles Northwest from where you started. Displacement is a vector quantity. It has a magnitude, 50 miles, and a direction (which happens to be 53 degrees north of west).
- <xref ref="vec_displacement" /></p>
- 
-
-<p>
-Another, common example of a vector is <alert>velocity</alert>. Velocity is a quantity that not only contains information about the speed of an object (the magnitude), velocity also gives information about the direction an object is moving. Speed does not have a "directionality" and can be fully described with just a number value. Therefore, speed is a scalar. For example, a speedometer reads a number, 60 km/hr, but gives no information about the direction of motion of the vehicle. 
+<alert>Oscillatory motion</alert> is a repetitive back and forth motion that regularly repeats in time. Oscillatory motion occurs when an object is displaced away from its natural resting position and forces are present which act to push the object back to its resting position. This natural resting position is called the object's <alert>equilibrium position</alert>.  
 </p>
 
-</insight>
+<p>
+The forces which lead to oscillatory motion are called <alert>restoring forces</alert>. Recall that an object is said to be in <em>equilibrium</em> when there are no net forces acting on the object. A restoring force is a type of force which arises when the object is displaced away from equilibrium and it always acts against the object's displacement to bring the system back to equilibrium.
+</p>
+
+<p>
+<alert>Simple harmonic motion</alert> is one of the most common and fundamental motions in science and engineering and is the basis for understanding all oscillatory motion. Simple harmonic motion is motion where the position (and velocity) of the object can be represented by a sinusoidal function. 
+</p>
+
+<p> 
+<men xml:id="pos_HM">\vec{x}(t) = A \cos(\frac{2\pi t}{T})\hat{x}</men>
+</p>
+
+<p>
+Here, the notation <m> x(t)</m> reminds us that the position <m>x</m> of the object in simple harmonic motion is a <em>function</em> of time t. The position graph is a cosine function with an <alert>amplitude</alert> A and a <alert>period</alert> T. For this oscillation, the object has an equilibrium position at <m> x = 0 </m>. The amplitude represents the maximal distance away from the equilibrium position. Notice that the object oscillates between <m> x = A </m> and <m> x = -A </m>. The period represents the time it takes in seconds to complete one full oscillation. </p>
+
+
+<p>
+Another important characteristic of oscillatory motion is the <alert>frequency</alert>, <em>f</em>. The frequency is the number of cycles that occur in one second. Since period T represents the time it takes to complete one cycle, period and frequency have an inverse relationship. 
+</p>
+
+<p>
+<me> f = \frac{1}{T}</me>
+</p>
+
+<p>
+Recall that a particle in uniform circular motion has an angular velocity <m>\omega</m> that is related to the period of motion by <m>\omega= \frac{2 \pi}{T}</m>. The physical units of <m>\omega</m> given in <m>rad/s</m>. Most of the symbolic work we will do when representing oscillations in problems and equations will be done in terms of the angular frequency. 
+</p>
+
+ <figure xml:id="HM_position">
+    	<caption>Position function of an object in Simple Harmonic Motion.</caption>
+    		<image source="oscillate/HM_position.png" width = "50%" ></image>
+    </figure>
+
 
 		<exercises>
 		<title>Activities</title>
 		<exercise>
-		<title>Explore Vectors and Scalars</title>
+		<title>Physical Units</title>
 		<statement>
-		<p>Make a list of physical quantities you are familiar with from your everyday experience.  For each quantity, do you think it would be better to represent it as a <em>scalar</em> or as a <em>vector</em>?</p>
+		<p>Looking at equation ??, what are the physical SI units of amplitude and period? How can you tell?</p>
 		</statement>
 		</exercise>
 				<exercise>
-		<title>Magnitude</title>
+		<title>Exploring the Period, Frequency and Angular Frequency</title>
 		<statement>
-		<p>A vector is typically represented graphically by an arrow.  Which property of the arrow do you think represents the magnitude of the vector?  How would you represent two vectors that have the same direction but different magnitudes?</p>
+		<p>It is often useful to be able to represent oscillatory motion in terms of the period T, the frequency <em>f</em> or the angular frequency <m>\omega</m>. Write the relationship between angular frequency <m>\omega</m>, period and frequency. </p>
+		</statement>
+		</exercise>
+				<exercise>
+		<title>Exploring the Position Function</title>
+		<statement>
+		<p>It is often useful to be able to represent the position function in terms of the period T, the frequency <em>f</em> or the angular frequency <m>\omega</m>. Rewrite equation ?? in terms of the frequency f or the angular frequency <m>\omega</m></p>
 		</statement>
 		</exercise>
 		</exercises>
