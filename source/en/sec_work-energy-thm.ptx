@@ -5,7 +5,7 @@
 
       <video youtube="Mun7c6RB140"><description>Introducing the Work-Energy Theorem.</description></video>
 	
-	<principle>
+	<principle xml:id="p_work-energy">
 	<title>The Work-Energy Theorem</title>
 	<statement>
 	  <p>The net work done by external forces on an object or system is equal to the change in total energy of that system: <me>W_{net,external} = \Delta E</me></p>

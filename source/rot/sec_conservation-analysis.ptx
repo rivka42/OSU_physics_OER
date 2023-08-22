@@ -3,55 +3,41 @@
 <section xml:id="sec_conservation-analysis" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Conservation Analysis</title>
 		
-      <video youtube="Kn4wcsWCXgY"><description>Defining acceleration.</description></video>
+	<p>You have previously used two conservation laws: <xref ref="p_work-energy" text="title"></xref> and <xref ref="p_impulse-momentum" text="title"></xref>.  The work-energy theorem already includes rotational kinetic energy, but the impulse-momentum theorem is purely translational.  You can, however, define an angular analogue for it<fn>you could imagine calling this the Angular-Impulse-Momentum theorem, which is wordy, but most physicists talk about it as Conservation of Angular Momentum, even in situations where the angular momentum is not in fact conserved</fn>.</p>
 	
-	<p>The term acceleration describes the rate of change of an object's velocity.  Like velocity (the rate of change of an object's position), acceleration can be either average or instantaneous.</p>
-	
-	<definition>
-	<title>Average Acceleration</title>
+	<principle xml:id="p_angular-impulse-momentum">
+	<title>Conservation of Angular Momentum (The Angular Impulse-Momentum Theorem)</title>
 	<statement>
-		<p>The <term>average acceleration</term> of an object is the object's change in velocity divided by the interval of time required to change the velocity: <m>\vec{a}_{ave} = \frac{\Delta \vec{v}}{\Delta t}</m>.</p>
+	  <p>The net angular impulse delivered to a system is equal to the change in angular momentum for that system: <me>\vec{\tau}_{net}\Delta t = \Delta \vec{L}</me></p>
 	</statement>
-</definition>
+	</principle>
 
-	<definition>
-	<title>Instantaneous Acceleration</title>
-	<statement>
-		<p>The <term>instantaneous acceleration</term> of an object is given by <m>\vec{a} = \frac{d \vec{v}}{d t}</m>.</p>
-	</statement>
-</definition>
+<p>Even though this expression looks very similar to the impulse-momentum theorem, it is entirely separate!  This suggests that angular momentum can be conserved (or not conserved) independent of whether translational momentum is conserved (or not).  Additionally, translational momentum can never be converted into angular momentum (though the same thing is not true for translational and angular kinetic energy).</p>
 
 
 	<exercises>
 	<title>Activities</title>
-			<exercise xml:id="x_summarize-acceleration">
-			<title>Summarize What You Learned - Acceleration</title>
-			  <p>Write a 1-2 sentence description of what the definition of acceleration says in words. </p>
+			<exercise>
+			<statement>
+			<p>What is the condition that must be met for the angular momentum of a system to be conserved?</p>
+			</statement>
+			<answer>
+			<p>If angular momentum is conserved then <m>\Delta \vec{L} = 0</m>; this can only be true if <m>\vec{\tau}_{net} = 0</m> as well.</p>
+			</answer>
 			</exercise>
 			<exercise>
-			<title>Sensemaking: Units</title>
-			<statement>
-			  <p>What are the units of acceleration? Explain how these units are consistent with the units of other quantities you have learned about.</p>
-				</statement>
-				<answer>
-				<p>m/s<m>^2</m></p>
-				</answer>
+			<p>Visit the link below and watch the video.  Be sure to make and record your prediction and watch the following videos to see what happens! <url hfref="https://www.youtube.com/watch?v=vWVZ6APXM4w"/></p>
 			</exercise>
-						<exercise>
-						<title>Explanation: Direction</title>
-			<statement>
-			  <p>How does the direction of the average acceleration vector compare to the direction of the change in velocity vector?</p>
-				</statement>
-				<hint>
-				<p>Does your acceleration have to point in the same direction as your velocity?</p>
-				</hint>
-				<answer>
-				<p>The average acceleration vector points in the same direction as the <emph>change</emph> in velocity!</p>
-				</answer>
+			<exercise>
+			<p>Once you have watched the videos, write a brief (1-2 sentence) summary of what you learned from them.</p>
 			</exercise>
 		</exercises>
 
-  
+    <references>
+<biblio xml:id="ref_veritasium-bullet">
+<p>The Bullet Block Experiment by Veritasium.</p>
+</biblio>
+</references>
 
 	
 </section>

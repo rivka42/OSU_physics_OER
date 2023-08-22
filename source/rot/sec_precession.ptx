@@ -1,54 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_acceleration" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Acceleration</title>
+<section xml:id="sec_precession" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Application: Precession</title>
 		
       <video youtube="Kn4wcsWCXgY"><description>Defining acceleration.</description></video>
 	
-	<p>The term acceleration describes the rate of change of an object's velocity.  Like velocity (the rate of change of an object's position), acceleration can be either average or instantaneous.</p>
-	
-	<definition>
-	<title>Average Acceleration</title>
-	<statement>
-		<p>The <term>average acceleration</term> of an object is the object's change in velocity divided by the interval of time required to change the velocity: <m>\vec{a}_{ave} = \frac{\Delta \vec{v}}{\Delta t}</m>.</p>
-	</statement>
-</definition>
-
-	<definition>
-	<title>Instantaneous Acceleration</title>
-	<statement>
-		<p>The <term>instantaneous acceleration</term> of an object is given by <m>\vec{a} = \frac{d \vec{v}}{d t}</m>.</p>
-	</statement>
-</definition>
+	<p>Precession refers to a type of motion in which a torque on a rotating object causes the <em>direction</em> of the axis of rotation to change, rather than causing the object's rotation to speed up or slow down.</p>
 
 
 	<exercises>
 	<title>Activities</title>
-			<exercise xml:id="x_summarize-acceleration">
-			<title>Summarize What You Learned - Acceleration</title>
-			  <p>Write a 1-2 sentence description of what the definition of acceleration says in words. </p>
-			</exercise>
-			<exercise>
-			<title>Sensemaking: Units</title>
-			<statement>
-			  <p>What are the units of acceleration? Explain how these units are consistent with the units of other quantities you have learned about.</p>
-				</statement>
-				<answer>
-				<p>m/s<m>^2</m></p>
-				</answer>
-			</exercise>
-						<exercise>
-						<title>Explanation: Direction</title>
-			<statement>
-			  <p>How does the direction of the average acceleration vector compare to the direction of the change in velocity vector?</p>
-				</statement>
-				<hint>
-				<p>Does your acceleration have to point in the same direction as your velocity?</p>
-				</hint>
-				<answer>
-				<p>The average acceleration vector points in the same direction as the <emph>change</emph> in velocity!</p>
-				</answer>
-			</exercise>
+	<exercise>
+	<p>Recall what you learned about tangential and centripetal acceleration for an object moving around a circle.  What change does the centripetal acceleration cause to the object's velocity?  What change does the tangential acceleration cause?  Compare the direction of each acceleration to the direction of the object's instantaneous velocity as it moves around the circle.</p>
+	</exercise>
+	<exercise>
+	<p>See if you can make an analogy between circular motion and precessional motion.  What must be true about the direction of the net torque on an object for it to undergo precession?</p>
+	</exercise>
 		</exercises>
 
   

@@ -18,16 +18,34 @@
 	<title>Activities</title>
 <figure xml:id="rot_cubes-cm">
 		 <caption>Two adjacent cubes.</caption>
-		<image source="blocks-cm.jpg" width = "75%">
+		<image source="blocks-cm.jpg" width = "35%">
 			<description>A cube with side length 2L on the left next to a cube with side length L on the right, the centers of their faces touching.</description></image>
   </figure>
-				<exercise xml:id="x_">
+				<exercise xml:id="x_two-blocks">
 			<title>Calculate - Two Blocks</title>
-			  <p>Find the center of mass of the system of two cubes.  Make sure to specify your origin!  Why do you not need to integrate?</p>
+			  <p>Find the center of mass of the system of two cubes, assuming they are made of the same uniform material.  Make sure to specify your origin!  Why do you not need to integrate?</p>
 			</exercise>
+			<exercisegroup>
+			<title>The Board</title> 
+			<introduction>
+		<p> You want to find the center of mass of a board that has a length of 2.5 m and a total mass of 7.5 kg.</p>
+		</introduction>
 		<exercise>
-			<p>ADD continuous example?</p>
+			<p>Explain why the integral <me>\int_{0}^{2.5 \text{ m}} dx</me> will give the length of the board.  Given this expression, where is the board located?</p>
 			</exercise>
+					<exercise>
+			<p>You decide to chop up the board into small pieces with infinitesimal width <m>dx</m>, each of which has infinitesimal mass <m>dm</m>.  Sketch and label a diagram of the board.</p>
+			</exercise>
+			<exercise>
+			<p>You know <m>dx</m> and <m>dm</m> are related by the mass density <m>\lambda</m>: <me>dm = \lambda dx</me>.  Calculate the density under the assumption that the density is roughly uniform throughout the board.</p>
+			</exercise>
+					<exercise>
+			<p>Use an integral to determine the center of mass of the board.</p>
+			</exercise>
+			<exercise>
+			<p>Verify your answer by determining the mass of the stick without using an integral.</p>
+			</exercise>
+			</exercisegroup>
 		</exercises>
 
   

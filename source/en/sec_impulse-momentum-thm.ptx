@@ -12,7 +12,7 @@
 	</statement>
 	</definition>
 	
-	<principle>
+	<principle xml:id="p_impulse-momentum">
 	<title>The Impulse-Momentum Theorem</title>
 	<statement>
 	  <p>The net impulse delivered to a system is equal to the change in momentum for that system: <me>\vec{J}_{net} = \Delta \vec{p}</me></p>
