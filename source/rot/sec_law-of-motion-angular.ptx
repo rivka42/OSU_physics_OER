@@ -3,22 +3,25 @@
 <section xml:id="sec_N2LR" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Rotational Law of Motion</title>
 		
-      <video youtube="JXxc0o1iAH4">      <description>An introduction to the rotational law of motion.</description></video>
+      <video youtube="rLFcG0CLUxs">      <description>An introduction to the rotational law of motion.</description></video>
     
+		<p>Since a rigid body undergoes both translational and rotational motion</p>
 
-	<definition xml:id="def_net-torque">
+	<principle xml:id="law_N2LR">
+	<title>The Rotational Law of Motion (Newton's 2nd Law for Rotation)</title>
+	<statement>
+	<p>The net torque on an object or system is equivalent to the product of object's moment of inertia <m>I</m> and its angular acceleration <m>\alpha</m>: <m>\vec{\tau}_{net} = I\vec{\alpha}</m>.</p>
+	</statement>
+	</principle>
+	
+			<p>The net torque is a direct analogue to the net force: you can find it by determining the vector sum of all torques acting on a system.</p>
+	
+		<definition xml:id="def_net-torque">
 	<title>Net torque</title>
 	<statement>
 	<p>The <term>net torque</term> on an object or system is equal to the (vector) sum of all torques acting on it: <m>\vec{\tau}_{net} = \sum_i \vec{\tau}_i = \vec{\tau}_1 + \vec{\tau}_2 + \vec{\tau}_3 + \dots</m>.</p>
 	</statement>
 	</definition>
-
-	<principle xml:id="law_N2LR">
-	<title>The Rotational Law of Motion</title>
-	<statement>
-	<p>The net torque on an object or system is equivalent to the product of object's moment of inertia <m>I</m> and its angular acceleration <m>\alpha</m>: <m>\vec{\tau}_{net} = I\vec{\alpha}</m>.</p>
-	</statement>
-	</principle>
 
 
 	<exercises>
@@ -28,7 +31,7 @@
 			</exercise>
 		</exercises>
 
-  
+  <video youtube="ydVOtjiHm4w">      <description>Solution to the Catapult activity.</description></video>
 
 	
 </section>

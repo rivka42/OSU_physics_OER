@@ -45,10 +45,12 @@
 <xi:include href="./rot/sec_constant-alpha.ptx" />
 <xi:include href="./rot/sec_orbital.ptx" />
 <xi:include href="./rot/sec_rolling-slipping.ptx" />
+<xi:include href="./rot/sec_rigid-body.ptx" />
 <xi:include href="./rot/sec_ext-fbds.ptx" />
+<xi:include href="./rot/sec_torque.ptx" />
 <xi:include href="./rot/sec_law-of-motion-angular.ptx" />
 <xi:include href="./rot/sec_moment-of-inertia.ptx" />
-<xi:include href="./rot/sec_torque.ptx" />
+
 	
 </chapter>
 
