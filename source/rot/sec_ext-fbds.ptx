@@ -26,7 +26,7 @@
 			<title>Extended Free-body Diagram</title>
 			<statement>
 	<p>
-	An <term>Extended Free-body Diagram</term> is a more detailed pictorial way to represent forces, in which the object is represented as a shape and each force is shown acting at its point of contact.  As in a free-body diagram, each force should be labeled using the following symbol <me>\vec{F}_{BC}^A</me>, where <m>\vec{F}</m> indicates that the symbol represents a force, the superscript <m>A</m> represents the type of force (for example, <m>G</m> for gravity), <m>B</m> represents the system on which the force is acted, and <m>C</m> represents the system that is exerting the force.</p>
+	An <term>Extended Free-body Diagram</term> is a more detailed pictorial way to represent forces, in which the object is represented as a shape and each force is shown acting at its point of contact.  As in a free-body diagram, each force should be labeled using the following symbol <me>\vec{F}_{BC}^A</me> where <m>\vec{F}</m> indicates that the symbol represents a force, the superscript <m>A</m> represents the type of force (for example, <m>G</m> for gravity), <m>B</m> represents the system on which the force is acted, and <m>C</m> represents the system that is exerting the force.</p>
 			</statement>
 		</lemma>
 

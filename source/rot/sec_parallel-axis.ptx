@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_modeling-inertia" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Chop-Multiply-Add: Calculating Moments of Inertia</title>
+<section xml:id="sec_parallel-axis" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Parallel Axis Theorem</title>
 		
       <video youtube="Kn4wcsWCXgY"><description>Defining acceleration.</description></video>
 	

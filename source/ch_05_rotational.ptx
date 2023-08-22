@@ -51,6 +51,14 @@
 <xi:include href="./rot/sec_law-of-motion-angular.ptx" />
 <xi:include href="./rot/sec_center-of-mass.ptx" />
 <xi:include href="./rot/sec_moment-of-inertia.ptx" />
+<xi:include href="./rot/sec_modeling-inertia.ptx" />
+<xi:include href="./rot/sec_parallel-axis.ptx" />
+<xi:include href="./rot/sec_torque-analysis.ptx" />
+<xi:include href="./rot/sec_rot-ke.ptx" />
+<xi:include href="./rot/sec_angular-momentum.ptx" />
+<xi:include href="./rot/sec_conservation-analysis.ptx" />
+<xi:include href="./rot/sec_precession.ptx" />
+<xi:include href="./rot/sec_rotation-summary.ptx" />
 
 	
 </chapter>

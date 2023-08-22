@@ -1,53 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_acceleration" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Acceleration</title>
+<section xml:id="sec_angular-momentum" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Angular Momentum</title>
 		
-      <video youtube="Kn4wcsWCXgY"><description>Defining acceleration.</description></video>
+      <video youtube="Ehx6a5VssFo"><description>Defining angular momentum.</description></video>
 	
-	<p>The term acceleration describes the rate of change of an object's velocity.  Like velocity (the rate of change of an object's position), acceleration can be either average or instantaneous.</p>
+	<p>There is one last translational quantity for which you can write an angular analogue: <em>momentum</em>.  This angular analogue is known as angular momentum.</p>
 	
 	<definition>
-	<title>Average Acceleration</title>
+	<title>Angular Momentum for a Rigid Object</title>
 	<statement>
-		<p>The <term>average acceleration</term> of an object is the object's change in velocity divided by the interval of time required to change the velocity: <m>\vec{a}_{ave} = \frac{\Delta \vec{v}}{\Delta t}</m>.</p>
+		<p>The <term>angular momentum</term> of a rigid object about a given axis is the product of the object's moment of inertia and angular velocity about that axis: <me>\vec{L} = I\vec{\omega}</me></p>
 	</statement>
 </definition>
 
+<p>Interestingly, it is not only rotating rigid objects that have angular momentum.  Any object with translational momentum also has angular momentum, as long as it is moving perpendicular to some axis!</p>
+
 	<definition>
-	<title>Instantaneous Acceleration</title>
+	<title>Angular Momentum for a Point Particle</title>
 	<statement>
-		<p>The <term>instantaneous acceleration</term> of an object is given by <m>\vec{a} = \frac{d \vec{v}}{d t}</m>.</p>
+		<p>The <term>angular momentum</term> of a point particle about a given axis is the cross product between the object's position and its translational momentum: <me>\vec{L} = \vec{r} \times \vec{p}</me></p>
 	</statement>
 </definition>
+
+<p>One especially critical feature of angular momentum (along with many other angular quantities) for a point particle is that it depends on your choice of axis.  Interestingly, the angular momentum of a rotating rigid object does not depend on your choice of axis (because it is actually rotating around a fixed axis!).</p>
 
 
 	<exercises>
 	<title>Activities</title>
-			<exercise xml:id="x_summarize-acceleration">
-			<title>Summarize What You Learned - Acceleration</title>
-			  <p>Write a 1-2 sentence description of what the definition of acceleration says in words. </p>
+			<exercise xml:id="x_summarize-L">
+			<title>Summarize What You Learned - Angular Momentum</title>
+			  <p>Write a 1-2 sentence description of what the definitions of angular momentum say in words.  How can you tell which definition to use?</p>
 			</exercise>
 			<exercise>
 			<title>Sensemaking: Units</title>
 			<statement>
-			  <p>What are the units of acceleration? Explain how these units are consistent with the units of other quantities you have learned about.</p>
+			  <p>What are the units of angular momentum?  How do they compare to the units of translational momentum?</p>
 				</statement>
 				<answer>
-				<p>m/s<m>^2</m></p>
+				<p>Js</p>
 				</answer>
 			</exercise>
 						<exercise>
-						<title>Explanation: Direction</title>
+						<title>Explanation: Adding Momentum?</title>
 			<statement>
-			  <p>How does the direction of the average acceleration vector compare to the direction of the change in velocity vector?</p>
+			  <p>Suppose a friend of yours wrote down the following equation for something they call the "total momentum": <m>\vec{p} + \vec{L}</m>.  How could you convince your friend that this equation is incorrect, and that there cannot be such a thing as total momentum.</p>
 				</statement>
 				<hint>
-				<p>Does your acceleration have to point in the same direction as your velocity?</p>
+				<p>Look at the units you found for the angular momentum.</p>
 				</hint>
-				<answer>
-				<p>The average acceleration vector points in the same direction as the <emph>change</emph> in velocity!</p>
-				</answer>
 			</exercise>
 		</exercises>
 

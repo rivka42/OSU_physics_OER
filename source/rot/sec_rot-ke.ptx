@@ -2,15 +2,26 @@
 
 <section xml:id="sec_rot-ke" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Rotational Kinetic Energy</title>
+	
+		<exercises>
+	<title>Warm-up Activity - Flywheel</title>
+	<p>Suppose you wanted to design a device that stores energy in the form of rotational kinetic energy (such a device is known as a flywheel).</p>
+			<exercise>
+			<p>What properties of the flywheel device do you think would impact its ability to store energy?</p>
+			</exercise>
+						<exercise>
+			<p>What practical considerations would you want to account for in designing a flywheel?</p>
+			</exercise>
+		</exercises>
 		
       <video youtube="SipNcjteILg"><description>Defining rotational kinetic energy.</description></video>
 	
-	<p>ADD ME.</p>
+	<p>Rigid objects with both translational and rotational motion also have both translational and rotational kinetic energy.  As with other forms of energy you have studied, any other form of energy can be transformed into rotational kinetic energy---and the reverse is true as well!</p>
 	
 	<definition>
 	<title>Rotational Kinetic Energy</title>
 	<statement>
-		<p>The <term>rotational kinetic energy</term> of a rigid object with angular speed <m>\omega</m> and moment of inertia <m>I</m> is given by: <m>K_{rot} = \frac{1}{2}I\omega^2</m>.</p>
+		<p>The <term>rotational kinetic energy</term> of a rigid object with angular speed <m>\omega</m> and moment of inertia <m>I</m> is given by: <me>K_{rot} = \frac{1}{2}I\omega^2</me></p>
 	</statement>
 </definition>
 
@@ -18,11 +29,18 @@
 	<exercises>
 	<title>Activities</title>
 			<exercise>
-			<p></p>
+			<p>Visit the link below and watch the video.  Be sure to make and record your prediction and follow the internal video links (you will end up watching a total of three videos). <url hfref="https://www.youtube.com/watch?v=Bwf3msm7rqM"/></p>
+			</exercise>
+			<exercise>
+			<p>Write a brief (1-2 sentence summary) of how your thinking changed as you watched the videos.</p>
 			</exercise>
 		</exercises>
 
-  
+  <references>
+<biblio xml:id="ref_veritasium-spools">
+<p>Spool Trick by Veritasium.</p>
+</biblio>
+</references>
 
 	
 </section>

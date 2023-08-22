@@ -5,33 +5,37 @@
 		
       <video youtube="rLFcG0CLUxs">      <description>An introduction to the rotational law of motion.</description></video>
     
-		<p>Since a rigid body undergoes both translational and rotational motion</p>
+		<p>Since a rigid object undergoes both translational and rotational motion, it is important to be able to relate the various forces acting on an object to each kind of motion.  This is done by creating an angular analogue of <xref ref="law_N2L" text="title"></xref>.</p>
 
 	<principle xml:id="law_N2LR">
 	<title>The Rotational Law of Motion (Newton's 2nd Law for Rotation)</title>
 	<statement>
-	<p>The net torque on an object or system is equivalent to the product of object's moment of inertia <m>I</m> and its angular acceleration <m>\alpha</m>: <m>\vec{\tau}_{net} = I\vec{\alpha}</m>.</p>
+	<p>The net torque on an object or system is equivalent to the product of object's moment of inertia <m>I</m> and its angular acceleration <m>\alpha</m>: <me>\vec{\tau}_{net} = I\vec{\alpha}</me></p>
 	</statement>
 	</principle>
 	
-			<p>The net torque is a direct analogue to the net force: you can find it by determining the vector sum of all torques acting on a system.</p>
+			<p>The angular acceleration <m>\vec{\alpha}</m> introduced in <xref ref="sec_ang-motion"></xref> is the angular analogue for the translational acceleration.  The moment of inertia <m>I</m> is the angular analogue for mass, which you will study in more detail in upcoming sections.  The net torque is a direct analogue to the net force: you can find it by determining the vector sum of all torques acting on a system.</p>
 	
 		<definition xml:id="def_net-torque">
 	<title>Net torque</title>
 	<statement>
-	<p>The <term>net torque</term> on an object or system is equal to the (vector) sum of all torques acting on it: <m>\vec{\tau}_{net} = \sum_i \vec{\tau}_i = \vec{\tau}_1 + \vec{\tau}_2 + \vec{\tau}_3 + \dots</m>.</p>
+	<p>The <term>net torque</term> on an object or system is equal to the (vector) sum of all torques acting on it: <me>\vec{\tau}_{net} = \sum_i \vec{\tau}_i = \vec{\tau}_1 + \vec{\tau}_2 + \vec{\tau}_3 + \dots</me></p>
 	</statement>
 	</definition>
 
 
 	<exercises>
-	<title>Activities</title>
-			<exercise xml:id="x_sss">
-			<p></p>
+	<title>The Catapult</title>
+			<p>Recall <xref ref="rot_catapult"></xref>, for which you previously drew an extended free-body diagram and found the torque exerted by each force.</p>
+		<exercise>
+		<statement>
+			<p>Use your previous answers along with the Rotational Law of Motion to determine the relationship between <m>m_1</m> and <m>m_2</m> that will allow the catapult to launch the rock.</p>
+			</statement>
+			<solution>
+      <video youtube="ydVOtjiHm4w">      <description>Solution to the Catapult activity.</description></video>			
+			</solution>
 			</exercise>
 		</exercises>
-
-  <video youtube="ydVOtjiHm4w">      <description>Solution to the Catapult activity.</description></video>
 
 	
 </section>
