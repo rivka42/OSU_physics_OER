@@ -5,7 +5,7 @@
 		
       <!-- <video youtube="Kn4wcsWCXgY"><description>Introducing extended free-body diagrams.</description></video> -->
 	
-	<p>In previous sections, you have mostly been using <xref ref="a_particle"></xref>: assuming objects act like point particles.  A principal feature of this assumption is that the objects do not rotate.  You will now relax this assumption to allow an object to rotate, but only if the entire object rotates with the same angular velocity.  Such an object is typically known as a rigid body.</p>
+	<p>In previous sections, you have mostly been using <xref ref="a_particle" text="title"></xref>: assuming objects act like point particles.  A principal feature of this assumption is that the objects do not rotate.  You will now relax this assumption to allow an object to rotate, but only if the entire object rotates with the same angular velocity.  Such an object is typically known as a rigid body.</p>
 	
 	<assumption xml:id="a_rigid-body">
 	<title>The Rigid-body Model</title>

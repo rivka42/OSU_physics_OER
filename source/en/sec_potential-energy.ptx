@@ -28,7 +28,7 @@
 	<definition>
 	<title>Potential Energy</title>
 	<statement>
-	<p>The change in <term>potential energy</term> is the negative of the work done by an internal <em>conservative</em> force<fn>the work done by a conservative force between any two points in space must be independent of the path taken between those points</fn> is: <m>\Delta U = -W_{internal} = -\int_i^f {\vec{F}_{internal} \cdot d\vec{r}}</m>. </p>
+	<p>The change in <term>potential energy</term> is the negative of the work done by an internal <em>conservative</em> force<fn>the work done by a conservative force between any two points in space must be independent of the path taken between those points</fn> is: <me>\Delta U = -W_{internal} = -\int_i^f {\vec{F}_{internal} \cdot d\vec{r}}</me></p>
 	</statement>
 	</definition>
 		

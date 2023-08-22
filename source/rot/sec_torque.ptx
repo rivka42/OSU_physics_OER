@@ -16,7 +16,7 @@
 	</statement>
 </definition>
 
-<p>Calculating torque requires the cross product, a mathematical operation discussed in <xref ref="sec_cross-product"></xref>.  Finding the direction of the torque thus typically requires use of the right-hand rule, as seen in <xref ref="vec_vb-rhr"></xref>.</p>
+<p>Calculating torque requires the cross product, a mathematical operation discussed in <xref ref="sec_cross-product"></xref>.  Finding the direction of the torque thus typically requires use of<xref ref="rep_rhr" text="title"></xref>.</p>
 
 	<exercises>
 	<title>Activities</title>

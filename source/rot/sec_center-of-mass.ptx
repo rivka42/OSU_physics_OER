@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_center-of-mass" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Center of Mass</title>
+		
+      <video youtube="Kn4wcsWCXgY"><description>Defining center of mass.</description></video>
+	
+	<p>ADD VIDEO Until now, you have been considering objects that are symmetrical, in which case the center of the object and the center of mass are at the same position.  For non-symmetrical objects, or for systems made up of multiple objects that are not arranged symmetrically, center of mass can be calculated as a weighted average.</p>
+	
+	<definition xml:id="def_center-of-mass">
+	<title>Center of Mass</title>
+	<statement>
+		<p>The single location where you may consider an extended object to be located is known as the <term>center of mass</term>.  It can be calculated as the average position of all parts of the object weighted by the mass at that position: <me>\vec{r}_{cm} = \frac{1}{M} \sum_{i} \vec{r}_i m_i</me> for a set of discrete objects and <me>\vec{r}_{cm} = \frac{1}{M} \int \vec{r} dm</me> for a continuous object.</p>
+	</statement>
+</definition>
+
+	<exercises>
+	<title>Activities</title>
+<figure xml:id="rot_cubes-cm">
+		 <caption>Two adjacent cubes.</caption>
+		<image source="blocks-cm.jpg" width = "75%">
+			<description>A cube with side length 2L on the left next to a cube with side length L on the right, the centers of their faces touching.</description></image>
+  </figure>
+				<exercise xml:id="x_">
+			<title>Calculate - Two Blocks</title>
+			  <p>Find the center of mass of the system of two cubes.  Make sure to specify your origin!  Why do you not need to integrate?</p>
+			</exercise>
+		<exercise>
+			<p>ADD continuous example?</p>
+			</exercise>
+		</exercises>
+
+  
+
+	
+</section>
+

@@ -8,7 +8,7 @@
 	<definition>
 	<title>Average Velocity</title>
 	<statement>
-		<p>The <term>average velocity</term> of an object is the object's displacement divided by the interval of time required to move through that displacement: <m>\vec{v}_{ave} = \frac{\Delta \vec{r}}{\Delta t}</m>.</p>
+		<p>The <term>average velocity</term> of an object is the object's displacement divided by the interval of time required to move through that displacement: <me>\vec{v}_{ave} = \frac{\Delta \vec{r}}{\Delta t}</me></p>
 	</statement>
 </definition>
 
@@ -26,7 +26,7 @@ Time is a quantity you will encounter throughout your study of physics.  In fact
 	<definition>
 	<title>Instantaneous Velocity</title>
 	<statement>
-		<p>The <term>instantaneous velocity</term> of an object is given by <m>\vec{v} = \frac{d \vec{r}}{d t}</m>.</p>
+		<p>The <term>instantaneous velocity</term> of an object is given by <me>\vec{v} = \frac{d \vec{r}}{d t}</me></p>
 	</statement>
 </definition>
 

@@ -8,7 +8,7 @@
 	<principle>
 	<title>The Work-Energy Theorem</title>
 	<statement>
-	  <p>The net work done by external forces on an object or system is equal to the change in total energy of that system: <m>W_{net,external} = \Delta E</m>. </p>
+	  <p>The net work done by external forces on an object or system is equal to the change in total energy of that system: <me>W_{net,external} = \Delta E</me></p>
 	</statement>
 	</principle>
 	
@@ -16,7 +16,7 @@
 	
 		<assumption>
 	<title>No Heat Transfer</title>
-	<p>The Work-Energy Theorem assumes that no heat is transferred into or out of the system of interest.<fn>If heat is transferred, you can use the First Law of Thermodynamics instead of the Work-Energy Theorem: <m>W_{net,external} + Q_{net,external} = \Delta E</m>, where <m>Q_{net,external}</m> is the net heat transferred to the system.</fn></p>
+	<p>The Work-Energy Theorem assumes that no heat is transferred into or out of the system of interest.<fn>If heat is transferred, you can use the First Law of Thermodynamics instead of the Work-Energy Theorem: <me>W_{net,external} + Q_{net,external} = \Delta E</me> where <m>Q_{net,external}</m> is the net heat transferred to the system.</fn></p>
 	</assumption>
 
 	<exercises>
@@ -26,7 +26,7 @@
 			  <p>How do you think you would find the net work if more than one thing is doing work on your system?  Write an equation corresponding to your thinking.</p>
 				</statement>
 				<answer>
-				<p><m>W_{net,external} = \Sigma W_i = W_1 + W_2 + W_3 + \dots</m></p>
+				<p><me>W_{net,external} = \Sigma W_i = W_1 + W_2 + W_3 + \dots</me></p>
 				</answer>
 			</exercise>
 			<exercise>

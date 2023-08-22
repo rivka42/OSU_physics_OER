@@ -11,9 +11,9 @@
 	<statement>
 		<p>When you assume an object is moving with <term>constant acceleration</term> in <em>one dimension</em><fn>here, the <m>x</m>-direction</fn>, you can derive the following equations of motion from the definitions of acceleration and velocity:</p>
 		
-		<p><m>r_x(t) = r_{xi} + v_{xi}t + \frac{1}{2}a_x t^2</m></p>
+		<p><me>r_x(t) = r_{xi} + v_{xi}t + \frac{1}{2}a_x t^2</me></p>
 		
-		<p><m>v_x(t) = v_{xi} + a_x t</m></p>
+		<p><me>v_x(t) = v_{xi} + a_x t</me></p>
 		
 	</statement>
 </assumption>
