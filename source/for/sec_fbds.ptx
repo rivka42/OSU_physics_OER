@@ -19,7 +19,7 @@
 			<statement>
 					<!-- From Kathy's website -->
 	<p>
-	A <term>Free-body Diagram</term> is a pictorial way to represent the forces acting on an object.  In a <term>free-body diagram</term>, each force should be labeled using the following symbol <m>\vec{F}_{BC}^A</m>, where <m>\vec{F}</m> indicates that the symbol represents a force, the superscript <m>A</m> represents the type of force (for example, <m>G</m> for gravity), <m>B</m> represents the system on which the force is acted, and <m>C</m> represents the system that is exerting the force.</p>
+	A <term>Free-body Diagram</term> is a pictorial way to represent the forces acting on an object.  In a <term>free-body diagram</term>, each force should be labeled using the following symbol <me>\vec{F}_{BC}^A</me> where <m>\vec{F}</m> indicates that the symbol represents a force, the superscript <m>A</m> represents the type of force (for example, <m>G</m> for gravity), <m>B</m> represents the system on which the force is acted, and <m>C</m> represents the system that is exerting the force.</p>
 			</statement>
 		</lemma>
 		

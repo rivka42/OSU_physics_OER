@@ -3,7 +3,13 @@
 <section xml:id="sec_models" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Applying Physics Models</title>
 			
-	<p>You now have a foundational model for how objects move, the interactions between objects that cause changes in motion, and the changes in energy and momentum that result from these interactions.  Most of physics involves applying this model to new contexts, adding to this model to account for new interactions, or building alternative models to account for situations where the existing model is insufficient.  As you encounter new situations, it can be very useful to think about what aspects of your model already apply to the new situation, what aspects definitely do not apply, and what aspects might need to change.</p>
+	<p>You now have a foundational model for how objects move, the interactions between objects that cause changes in motion, and the changes in energy and momentum that result from these interactions.  Most of physics involves applying this model to new contexts, adding to this model to account for new interactions, or building alternative models to account for situations where the existing model is insufficient.  As you encounter new situations, it can be very useful to think about (1) what aspects of your model already apply to the new situation, (2) what aspects definitely do not apply, and (3) what aspects might need to change.</p>
+	
+		  <figure xml:id="fig_applications">
+		 <caption>Questions to ask when applying or adapting your model.</caption>
+		<image source="ApplicationsSteps.png" width = "75%">
+			<description>Applying and Adapting a Model.  1. What aspects of your existing model already apply?  2. What aspects do not apply?  3. What aspects need to change?</description></image>
+  </figure>	
 
 	<exercises>
 	<title>Introductory Activities</title>

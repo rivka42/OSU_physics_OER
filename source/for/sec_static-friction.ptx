@@ -10,7 +10,7 @@
 		<definition>
 	<title>Static Friction</title>
 	<statement>
-		<p>The maximum magnitude of any <term>static friction</term> force is related to the corresponding normal force<m>|\vec{F}^{sf}_{12}| \leq |\mu_s \vec{F}^{N}_{12}|</m>.  The static friction will act in a direction that opposes the attempted relative motion of the objects involved.</p>
+		<p>The maximum magnitude of any <term>static friction</term> force is related to the corresponding normal force<me>|\vec{F}^{sf}_{12}| \leq |\mu_s \vec{F}^{N}_{12}|</me>  The static friction will act in a direction that opposes the attempted relative motion of the objects involved.</p>
 	</statement>
 </definition>
 

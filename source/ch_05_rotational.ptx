@@ -49,6 +49,7 @@
 <xi:include href="./rot/sec_ext-fbds.ptx" />
 <xi:include href="./rot/sec_torque.ptx" />
 <xi:include href="./rot/sec_law-of-motion-angular.ptx" />
+<xi:include href="./rot/sec_center-of-mass.ptx" />
 <xi:include href="./rot/sec_moment-of-inertia.ptx" />
 
 	

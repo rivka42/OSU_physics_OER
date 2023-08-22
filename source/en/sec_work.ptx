@@ -11,7 +11,7 @@
 	<definition xml:id="def_work">
 	<title>Work</title>
 	<statement>
-	<p>The <term>work</term> done by a single force <m>\vec{F}</m> on an object moving from <m>\vec{r}_i</m> to <m>\vec{r}_f</m><fn>along a path described by <m>\vec{dr}</m></fn> is: <m>W = \int_{\vec{r}_i}^{\vec{r}_f} {\vec{F} \cdot \vec{dr}}</m>. </p>
+	<p>The <term>work</term> done by a single force <m>\vec{F}</m> on an object moving from <m>\vec{r}_i</m> to <m>\vec{r}_f</m><fn>along a path described by <m>\vec{dr}</m></fn> is: <me>W = \int_{\vec{r}_i}^{\vec{r}_f} {\vec{F} \cdot \vec{dr}}</me> </p>
 	</statement>
 	</definition>
 
@@ -34,7 +34,7 @@
 			  <p>Suppose you want to calculate the work done by a force that is <alert>constant</alert> (not changing in either magnitude or direction).  Use this fact to simplify the definition above.</p>
 			</statement>
 			<answer>
-			<p><m>W = \vec{F} \cdot \Delta\vec{r}</m></p>
+			<p><me>W = \vec{F} \cdot \Delta\vec{r}</me></p>
 			</answer>
 			</exercise>
 			

@@ -8,7 +8,7 @@
 <definition>
 	<title>Gravitational Potential Energy (General)</title>
 	<statement>
-	<p>For a system with a small massive object (mass <m>m</m>) and a large massive object (mass <m>M</m>)<fn>the mass of the large object must be distributed spherically</fn>, the <term>gravitational potential energy</term> is <m>U_{grav} = -\frac{GmM}{r}</m>, where <m>r</m> is the distance between the centers of the two objects<fn>here <m>r</m> must be greater than the radius of the large massive object</fn>.</p>
+	<p>For a system with a small massive object (mass <m>m</m>) and a large massive object (mass <m>M</m>)<fn>the mass of the large object must be distributed spherically</fn>, the <term>gravitational potential energy</term> is <me>U_{grav} = -\frac{GmM}{r}</me> where <m>r</m> is the distance between the centers of the two objects<fn>here <m>r</m> must be greater than the radius of the large massive object</fn>.</p>
 	</statement>
 	</definition>
 

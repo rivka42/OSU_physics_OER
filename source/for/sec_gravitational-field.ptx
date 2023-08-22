@@ -9,7 +9,7 @@
 	<definition>
 	<title>The Gravitational Field</title>
 	<statement>
-	<p>The <term>gravitational field</term> created by a spherical object<fn>if you are going to use this equation, you must assume your object has its mass distributed with spherical symmetry, and that <m>r</m> is greater than or equal to the radius of the spherical object</fn> with mass <m>m_B</m> a distance <m>r</m> from its center is: <m>\vec{g}_{B} = \frac{Gm_B}{r^2}(-\hat{r})</m>, where the universal gravitational constant <m>G = 6.67 \times 10^{-11}\frac{\text{m}^3}{\text{kgs}^2}</m>.</p>
+	<p>The <term>gravitational field</term> created by a spherical object<fn>if you are going to use this equation, you must assume your object has its mass distributed with spherical symmetry, and that <m>r</m> is greater than or equal to the radius of the spherical object</fn> with mass <m>m_B</m> a distance <m>r</m> from its center is: <me>\vec{g}_{B} = \frac{Gm_B}{r^2}(-\hat{r})</me> where the universal gravitational constant <m>G = 6.67 \times 10^{-11}\frac{\text{m}^3}{\text{kgs}^2}</m>.</p>
 	</statement>
 	</definition>
 	

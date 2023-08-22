@@ -24,7 +24,7 @@
 		<definition>
 	<title>Momentum</title>
 	<statement>
-		<p>The <term>momentum</term> of a single object is defined as the mass of the object times its velocity: <m>\vec{p} = m\vec{v}</m>.  For a system with multiple objects, the momenta of each object in the system can be summed: <m>\vec{p}_{system} = \Sigma \vec{p}_i = \vec{p}_1 + \vec{p}_2 + \vec{p}_3 + \dots</m>.</p>
+		<p>The <term>momentum</term> of a single object is defined as the mass of the object times its velocity: <m>\vec{p} = m\vec{v}</m>.  For a system with multiple objects, the momenta of each object in the system can be summed: <me>\vec{p}_{system} = \Sigma \vec{p}_i = \vec{p}_1 + \vec{p}_2 + \vec{p}_3 + \dots</me></p>
 	</statement>
 </definition>
 

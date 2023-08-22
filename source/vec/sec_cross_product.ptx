@@ -63,7 +63,7 @@ Conceptually, the magnitude of the cross product quantifies how perpendicular tw
 				<p>Use the two vectors shown below for the remaining questions.</p>
 				     <figure xml:id="vec_x-cross-product">
     	<caption></caption>
-    		<image source="CrossProductVectors.png" width = "25%" ></image>
+    		<image source="CrossProductVectors.png" width = "50%" ></image>
     </figure>
 		<exercise xml:id="x_cross2">
 		<statement>
@@ -72,7 +72,7 @@ Conceptually, the magnitude of the cross product quantifies how perpendicular tw
 		</exercise>
 				<exercise xml:id="x_cross3">
 		<statement>
-		<p>Label the appropriate angle <m>\theta</m> and estimate its value.  Use your estimate and the value <m>a</m> for the magnitude of both vectors to estimate the magnitude of <m>\vec{v}_1 \times \vec{v}_2</m>.</p>
+		<p>Label the appropriate angle <m>\theta</m> and estimate its value.  Use your estimate and the value <m>a = 15</m> for the magnitude of both vectors to estimate the magnitude of <m>\vec{v}_1 \times \vec{v}_2</m>.</p>
 		</statement>
 		</exercise>
 		</exercises>

@@ -8,14 +8,14 @@
 	<definition>
 	<title>Impulse</title>
 	<statement>
-	  <p>An external force <m>\vec{F}</m> acting on a system from <m>t_i</m> to <m>t_f</m> will deliver an impulse to the system of: <m>\vec{J} = \int_{t_i}^{t_f} \vec{F}dt</m>. </p>
+	  <p>An external force <m>\vec{F}</m> acting on a system from <m>t_i</m> to <m>t_f</m> will deliver an impulse to the system of: <me>\vec{J} = \int_{t_i}^{t_f} \vec{F}dt</me></p>
 	</statement>
 	</definition>
 	
 	<principle>
 	<title>The Impulse-Momentum Theorem</title>
 	<statement>
-	  <p>The net impulse delivered to a system is equal to the change in momentum for that system: <m>\vec{J}_{net} = \Delta \vec{p}</m>. </p>
+	  <p>The net impulse delivered to a system is equal to the change in momentum for that system: <me>\vec{J}_{net} = \Delta \vec{p}</me></p>
 	</statement>
 	</principle>
 	
