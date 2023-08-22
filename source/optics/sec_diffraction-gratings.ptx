@@ -7,5 +7,23 @@
 
     <exercises>
         <title>Diffraction Grating Activities</title>
+        <p><term>Diffraction Gratings</term> are an extremely useful optical tool that are made up of many tiny slits, sometimes thousands of slits per millimeter, and allow for the diffraction of light. Diffraction gratings work through multiple-slit interference. Use what you know about multiple slit interference to answer the following questions.</p>
+        <ol>
+            <li>
+                <p>
+                    If you have a diffraction grating with 1000 lines per mm, what is the separation between two slits? <answer><p><m>d = \frac{1}{1000} \mathrm{mm}</m></p></answer>
+                </p>
+            </li>
+            <li>
+                <p> 
+                    What angle will the second order maximum be at if you shine a light through the diffraction grating with a wavelength of 475 nm? <answer><p><m>\theta = 72^\circ</m></p></answer>
+                </p>
+            </li>
+            <li>
+                <p>
+                    What happens to the diffraction pattern if the wavelength increases? If it decreases?
+                </p>
+            </li>
+        </ol>
     </exercises>
 </section>

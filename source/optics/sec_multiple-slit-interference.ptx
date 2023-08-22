@@ -7,11 +7,6 @@
 
     <exercises>
         <title>Multiple-Slit Interference Activities</title>
-            <exercise xml:id="x_multiple-slit-interference">
-                <title>Multiple-Slit Interference Simulation</title>
-                <p>
-                    <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html"/>
-                </p>
-            </exercise>
+        
     </exercises>
 </section>
