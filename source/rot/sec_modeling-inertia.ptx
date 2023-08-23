@@ -5,50 +5,31 @@
 		
       <video youtube="Kn4wcsWCXgY"><description>Defining acceleration.</description></video>
 	
-	<p>The term acceleration describes the rate of change of an object's velocity.  Like velocity (the rate of change of an object's position), acceleration can be either average or instantaneous.</p>
+	<p>For a continuous object, like a solid sphere or cylinder, the moment of inertia can be calculated using <me>I = \int r^2 dm</me>  As with previous integral expressions in physics such as those you saw in <xref ref="sec_calc1"></xref>, <xref ref="sec_work2"></xref>, and <xref ref="sec_center-of-mass"></xref>, you can use the <alert>Chop-Multiply-Add</alert> strategy to construct and evaluate any necessary integrals.</p>
 	
-	<definition>
-	<title>Average Acceleration</title>
-	<statement>
-		<p>The <term>average acceleration</term> of an object is the object's change in velocity divided by the interval of time required to change the velocity: <m>\vec{a}_{ave} = \frac{\Delta \vec{v}}{\Delta t}</m>.</p>
-	</statement>
-</definition>
-
-	<definition>
-	<title>Instantaneous Acceleration</title>
-	<statement>
-		<p>The <term>instantaneous acceleration</term> of an object is given by <m>\vec{a} = \frac{d \vec{v}}{d t}</m>.</p>
-	</statement>
-</definition>
-
+	<p><term>Chop:</term> You can start by chopping up the object into small pieces.  Each piece of the object is represented by the expression <m>dm = \rho dV</m>, where the <m>dV</m> represents the infinitesimal volume of the piece and <m>\rho</m> is the mass density of the object.  In general, <m>\rho</m> can be either uniform (constant over the entire object) or non-uniform (in which case it will change from place to place).</p>
+	
+	<note>
+	<title>Choosing Coordinates for Integrals</title>
+	<p>You must always choose a set of coordinates when evaluating a volume integral.  It usually makes sense to choose coordinates that match the symmetry of your object or system.  For a cube, you might choose regular Cartesian coordinates <m>dV = dx dy dz</m>, while for a cylinder you might choose polar coordinates <m>dV = s ds d\phi dz</m>.  You might even decide that your object or system can be treated as two-dimensional (or even one-dimensional), in which case you do not need all three dimensions.  In any case, you will need to integrate over the entire object with respect to every relevant coordinate.</p>
+	</note>
+	
+	<p><term>Multiply:</term> Once you know the mass of each small piece <m>dm</m>, you <em>multiply</em> to find the moment of inertia of that small piece is: <m>dI = r^2dm = r^2 \rho dV</m>.  Here <m>r</m> is the straight-line (perpendicular) distance from the axis of rotation to the location of <m>dm</m>.  It can be highly useful to draw a diagram of the shape, including an example <m>dm</m>, and label <m>r</m> so that it can be easily written in terms of your chosen coordinates.</p>
+	
+		<p><term>Add:</term> Last, once you have the infinitesimal <m>dI</m>, you <em>add</em> together every <m>dI</m> over the entire object: <me>\int dI = \int r^2 \rho dV</me></p>
+	
+		<note xml:id="note_density">
+	<title>Density</title>
+	<p>Physicists commonly use different letters for density depending on whether it is a one-dimensional (linear), two-dimensional (surface), or three-dimensional (volume) density.  The letters typically chosen are, respectively, <m>\lambda</m> (for length), <m>\sigma</m> (for surface), and <m>\rho</m>.  One reason for this difference is that the different densities have different units, so this makes it easier to check your units at the end!</p>
+	</note>
 
 	<exercises>
-	<title>Activities</title>
-			<exercise xml:id="x_summarize-acceleration">
-			<title>Summarize What You Learned - Acceleration</title>
-			  <p>Write a 1-2 sentence description of what the definition of acceleration says in words. </p>
-			</exercise>
+<title>Activities</title>
 			<exercise>
-			<title>Sensemaking: Units</title>
-			<statement>
-			  <p>What are the units of acceleration? Explain how these units are consistent with the units of other quantities you have learned about.</p>
-				</statement>
-				<answer>
-				<p>m/s<m>^2</m></p>
-				</answer>
+			<title>Calculate - Baton</title>
+			  <p>In the previous section, you looked up the moment of inertia for a baton spinning about one of its ends.  Use the Chop-Multiply-Add strategy to calculate this moment of inertia for yourself, given the mass <m>M</m> and length <m>L</m> of the baton.  For simplicity, assume the baton is one dimensional and the mass is uniformly distributed <m>\lambda = M/L</m>.</p>
 			</exercise>
-						<exercise>
-						<title>Explanation: Direction</title>
-			<statement>
-			  <p>How does the direction of the average acceleration vector compare to the direction of the change in velocity vector?</p>
-				</statement>
-				<hint>
-				<p>Does your acceleration have to point in the same direction as your velocity?</p>
-				</hint>
-				<answer>
-				<p>The average acceleration vector points in the same direction as the <emph>change</emph> in velocity!</p>
-				</answer>
-			</exercise>
+			
 		</exercises>
 
   

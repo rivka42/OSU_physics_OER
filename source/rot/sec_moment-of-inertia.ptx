@@ -36,6 +36,16 @@
 			<exercise>
 			<p>Suppose you want to find the moment of inertia of the lower weight from the Warm-up Activities.  What information would you need to know?  What assumptions would you want to make?  What equations would you decide to use?</p>
 			</exercise>
+			<exercise>
+			<p>It is extremely common to use a reference to find the moments of inertia for common objects, rather than calculate them directly every time as you will do in the next section.  Use <url href="https://en.wikipedia.org/wiki/List_of_moments_of_inertia" visual="this table"/> to determine the moment of inertia for each of the following:</p>
+			<p>
+			<ul>
+			<li>A tennis ball spinning about its center</li>
+			<li>A record disc spinning about its center</li>
+			<li>A baton spinning about its end</li>
+			</ul>
+			</p>
+			</exercise>
 		</exercises>
 
     <references>

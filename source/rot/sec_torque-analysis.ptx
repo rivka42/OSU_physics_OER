@@ -15,12 +15,16 @@
 
   
 	<exercises>
-	<title>Activities</title>
+			<title>Real-world Context - The Tree Branch</title>
+	<p>Suppose you are taking a walk one day when you see a tree branch snap at its base and begin to rotate downward with the break near the trunk of the tree as a pivot point.   You estimate the length of the branch to be about 3 meters.</p>
 			<exercise>
-			<title></title>
-
-			  <p></p>
-
+			  <p>What expression do you think you should use for the moment of inertia of the tree branch?</p>
+			</exercise>
+						<exercise>
+			  <p>Estimate the initial angular acceleration of the branch.</p>
+			</exercise>
+									<exercise>
+			  <p>Can you estimate the mass of the tree branch from the given information? Why or why not?</p>
 			</exercise>
 		</exercises>
 

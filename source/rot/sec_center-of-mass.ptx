@@ -26,7 +26,7 @@
 			  <p>Find the center of mass of the system of two cubes, assuming they are made of the same uniform material.  Make sure to specify your origin!  Why do you not need to integrate?</p>
 			</exercise>
 			<exercisegroup>
-			<title>The Board</title> 
+			<title>Calculate - The Board</title> 
 			<introduction>
 		<p> You want to find the center of mass of a board that has a length of 2.5 m and a total mass of 7.5 kg.</p>
 		</introduction>

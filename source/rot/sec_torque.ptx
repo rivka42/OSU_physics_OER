@@ -16,7 +16,7 @@
 	</statement>
 </definition>
 
-<p>Calculating torque requires the cross product, a mathematical operation discussed in <xref ref="sec_cross-product"></xref>.  Finding the direction of the torque thus typically requires use of<xref ref="rep_rhr" text="title"></xref>.</p>
+<p>Calculating torque requires the cross product, a mathematical operation discussed in <xref ref="sec_cross-product"></xref>.  Finding the direction of the torque thus typically requires use of <xref ref="rep_rhr" text="title"></xref>.</p>
 
 	<exercises>
 	<title>Activities</title>
@@ -35,7 +35,12 @@
 			</exercise>
 			<p>Recall <xref ref="rot_catapult"></xref>, for which you previously drew an extended free-body diagram.</p>
 		<exercise>
+		<title>Calculate - The Catapult</title>
 			<p>Use your diagram to help you find the torque exerted by each force acting on the catapult.  Choose the pivot point as your axis of rotation (why do you think this might be a reasonable choice?).  Pay attention to both the magnitude and the direction of each torque!</p>
+			</exercise>
+					<exercise>
+		<title>Practice - The Toppling Pencil</title>
+			<p>Find a pencil (or something with a similar shape) and hold it vertically so that one end is touching a table.  Let go of the pencil in such a way that it begins to fall over, with the base of the pencil as the axis of rotation.  Sketch an extended free-body diagram for the pencil at an instant where it is about 10 degrees from vertical after you have let go of it.  Use your diagram to help you find the direction of the torque exerted by each force acting on the pencil about the axis of rotation.  Try choosing a different point as the origin to see how that can change the direction of the torques!</p>
 			</exercise>
 		</exercises>
 

@@ -36,12 +36,12 @@
 				<title>Explanation Activity</title>
 					<exercise xml:id="x_intro-explanation">
 						<statement>
-							<p>An example of how you might talk about motion in your everyday life is the expression "`distance equals rate times time."'  Use this as a fundamental concept to practice constructing an explanation for the context below.</p>
-							<p>You and a friend are driving in separate cars from the city of Corvallis to its neighboring city of Albany.  You travel at a speed that is just under the speed limit, while your friend travels at a speed that is just over the speed limit.  Which of you arrives in Albany first.</p>
+							<p>An example of how you might talk about motion in your everyday life is the expression "distance equals rate times time."  Use this as a fundamental concept to practice constructing an explanation for the context below.</p>
+							<p>You and a friend are driving in separate cars from the city of Corvallis to its neighboring city of Albany.  You travel at a speed that is just under the speed limit, while your friend travels at a speed that is just over the speed limit.  Which of you arrives in Albany first?</p>
 						</statement>
 						<hint>Sometimes you need to make additional assumptions in order to answer a question.  What assumptions might be important here?</hint>
 						<answer>Your friend arrives first!</answer>
-						<solution>In addition to "`distance equals rate times time,"' try these two assumptions: that the distance traveled is the same (both drivers take the same route) and that the drivers leave at the same time.  Since the product of speed (rate) and time must be a constant (the distance driven), the driver with the larger speed must complete the drive in the smaller time.  Your friend is the driver with the higher speed, so they must take less time, arriving before you!</solution>
+						<solution>In addition to "distance equals rate times time," try these two assumptions: that the distance traveled is the same (both drivers take the same route) and that the drivers leave at the same time.  Since the product of speed (rate) and time must be a constant (the distance driven), the driver with the larger speed must complete the drive in the smaller time.  Your friend is the driver with the higher speed, so they must take less time, arriving before you!</solution>
 					</exercise>
 					
 				</exercises>
