@@ -28,10 +28,10 @@
 	</introduction>
 
 <xi:include href="./optics/sec_ray-model.ptx" /> 
-<xi:include href="./optics/sec_reflection.ptx" /> 
+<xi:include href="./optics/sec_reflection.ptx" />
+<xi:include href="./optics/sec_plane-mirrors.ptx" />
 <xi:include href="./optics/sec_refraction.ptx" />
 <xi:include href="./optics/sec_lenses.ptx" /> 
-<xi:include href="./optics/sec_plane-mirrors.ptx" />
 <xi:include href="./optics/sec_curved-mirrors.ptx" />
 <xi:include href="./optics/sec_wave-model.ptx" />
 <xi:include href="./optics/sec_two-slit-interference.ptx" />
