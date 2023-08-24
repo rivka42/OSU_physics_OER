@@ -6,10 +6,18 @@
     <p>In this section, we will use what we know about ray diagrams and refraction to understand how lenses work.</p>
     <video youtube="Mun7c6RB140"><description>Video description.</description></video>
 
+    <p><term>Converging lenses</term> are where both sides of the lens are curved. If the object is located past the focal length of the lens, as light enters the lens from one side, the light is bent, or converges, to a single point on the opposite side. <term>Diverging lenses</term> are just the opposite: they will diverge light rays away from each other after they exit the lens. These types of lenses always produce a virtual image located in the focal length of the lens.</p>
+    <assumption xml:id="assump_thin-lens">
+        <title>Thin-Lens Approximation</title>
+        <p>
+            In most cases, we will assume that the thickness of the lens is much smaller than the radii of curvature of the sides of the lens. This simplifies our ray diagrams and calculations because it allows us to treat the light ray as bending within the optical plane of the lens.
+        </p>
+        
+    </assumption>
     <definition>
         <title>Thin-Lens Equation</title>
         <p>
-            The <term>Thin-Lens Equation</term> is defined as <m>\frac{1}{s} + \frac{1}{s'} = \frac{1}{f}</m>, where <m>s</m> is the object distance to the lens, <m>s'</m> is the image distance to the lens, and <m>f</m> is the focal length. The image distance is positive for real images and negative for virtual images.
+            The <term>Thin-Lens Equation</term> is defined as <m>\frac{1}{s} + \frac{1}{s'} = \frac{1}{f}</m>, where <m>s</m> is the object distance to the lens, <m>s'</m> is the image distance to the lens, and <m>f</m> is the focal length. The image distance is positive for real images and negative for virtual images. This equation is only valid when using the Thin-Lens Approximation.
         </p>
     </definition>
     <definition>
