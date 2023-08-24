@@ -38,7 +38,8 @@
 <xi:include href="./optics/sec_multiple-slit-interference.ptx" />
 <xi:include href="./optics/sec_single-slit-diffraction.ptx" />
 <xi:include href="./optics/sec_diffraction-gratings.ptx" />
-<xi:include href="./optics/sec_quantum_model.ptx" />
+<xi:include href="./optics/sec_quantum-model.ptx" />
+<xi:include href="./optics/sec_optics-summary.ptx" />
 </chapter>
 
 

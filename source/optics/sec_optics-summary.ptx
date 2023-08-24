@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_optics-summary" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Optics Summary</title>
+	<exercises>
+		<title>Activities: Summarize What You Learned</title>
+		<exercise xml:id="x_summarize-optics">
+            <title>Concepts</title>
+            <p>This section consisted of a lot of different concepts related to the behavior of light. Make a list of all the different concepts and any relevant equations, and categorize them. Come up with a concept map to connect or separate any ideas.</p>
+        </exercise>
+        <exercise>
+            <title>Models</title>
+            <p>You learned about three different models for light in this section. Write a short paragraph for each model explaining what it is, when to use it, and what kinds of phenomenon the model can and cannot explain. Finally, go tell a friend about the models and see how they react! What sort of questions did your friend have? What questions do you still have about light?</p>
+        </exercise>
+        <exercise>
+            <title>Sensemaking</title>
+            <p>We have come up with different models for how light behaves in different scenarios, and sometimes that behavior is not intuitive. Think about your everyday experience with light, and identify areas where you can take what you've learned and can explain why something is the way it is. Is there any experience you can think of that we can't quite explain with our models? How might you go about trying to explain a new light related phenomenon?</p>
+        </exercise>
+    </exercises>
+</section>
