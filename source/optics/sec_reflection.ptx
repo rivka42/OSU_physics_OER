@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_reflection" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Reflection</title>
+    <title>The Law of Reflection</title>
 
-    <video youtube="Mun7c6RB140"><description>Video description.</description></video>
+    <video youtube="zKOcySebSH0"><description>Introducing the Law of Reflection for light.</description></video>
 
     <p>
-        Short description.
+        When a ray of light encounters an object, the light is usually either absorbed by the object or is reflected by the object.  If it is reflected, it will continue moving in a straight line in a new direction given by the Law of Reflection.  Objects like mirrors typically reflect most of the light that encounters them.
     </p>
 
     <principle>
         <title>The Law of Reflection</title>
         <statement>
-          <p>The reflected angle is equal to the incident angle, as measured from the normal line of the surface: <m>\theta_{i} = \theta_{r}</m>.</p>
+          <p>For a ray of light incident on a locally flat mirror, the reflected angle <m>\theta_{r}</m> is equal to the incident angle <m>\theta_{i}</m>, both measured from line normal to the surface: <me>\theta_{r} = \theta_{i}</me></p>
         </statement>
     </principle>
 
