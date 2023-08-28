@@ -12,6 +12,29 @@
             <p>When we are talking about curved mirrors, we are assuming that we are looking at the section where it is <term>parabolic</term>. This means that all incoming rays parallel to the principal axis will be reflected to or appear to originate from the focal point.</p>
         </statement>
     </assumption>
+
+    <figure xml:id="concave_mirror">
+        <caption>Diagram of a concave mirror. Notice there are three rays which help us figure out where the image is: the first ray comes in parallel to the optical axis, and is reflected through the focal point. The second ray travels through the focal point and is reflected back parallel to the optical axis. The third ray hits the vertex of the mirror at the center, and is reflected back at the same incidence angle. Where the three rays intersect is there the top of the object is located. The image distance is negative for virtual images and positive for real images.</caption>
+        <image source="optics/concave.jpg" width = "90%" ></image>
+    </figure>
+
+    <figure xml:id="convex_mirror">
+        <caption>Diagram of a convex mirror. An image is produced by extending the reflected rays into the mirror. There are at least two useful rays to draw. The first is parallel to the optical axis, and the reflected ray will extend back through the focal point of the mirror on the opposite side. The second is reflected at the vertex of the mirror, along the optical axis. The reflected ray is reflected at the incidence angle, and when extended backwards, will intersect with the first ray. The intersection point shows where the top of the object is.</caption>
+        <image source="optics/convex.jpg" width = "90%" ></image>
+    </figure>
+
+    <definition>
+        <title>The Mirror Equation</title>
+        <p>
+            The <term>Mirror Equation</term> is defined as <m>\frac{1}{d_o} + \frac{1}{d_i} = \frac{1}{f}</m>, where <m>d_o</m> is the object distance, <m>d_i</m> is the image distance, and <m>f</m> is the focal length of the mirror.
+        </p>
+    </definition>
+    <definition>
+        <title>Focal Length</title>
+        <p>
+            The <term>Focal Length</term> of a mirror is defined as <m>f = \frac{R}{2}</m>, where <m>R</m> is the radius of curvature of the mirror.
+        </p>
+    </definition>
     
     <exercises>
         <title>Curved Mirror Activities</title>
