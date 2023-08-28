@@ -3,41 +3,52 @@
 <section xml:id="sec_kinematicsHM" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Kinematics Relations of Oscillatory Motion</title>
 			
-    <p>
-A mathematical object which has a both a <em>magnitude</em> (a size or amount) and a <em>direction</em> is called a <alert>vector</alert>.  It is essential to take into account how both the magnitude and direction of a vector quantity changes when you analyze motion. A quantity that only has a magnitude is called a <alert>scalar</alert>.  Suppose you have a vector <m>\vec{A}</m> . The  negative vector <m>-\vec{A}</m>  has the same magnitude as vector <m>\vec{A}</m> , but points in the opposite direction. Once you understand how to visually represent and perform operations on vectors, you will move on to understand how to manipulate them algebraically.   
-<xref ref="vec_neg_vec" /> </p>
-    
-
-		
-<insight>
- <title> How are vectors related to motion?</title>
- 
- <p>
- Suppose that you drive North for 40 miles and then head West for 30 miles. You have now driven a total of 70 miles, yet your total <alert>displacement</alert> is only 50 miles Northwest from where you started. Displacement is a vector quantity. It has a magnitude, 50 miles, and a direction (which happens to be 53 degrees north of west).
- <xref ref="vec_displacement" /></p>
- 
-
 <p>
-Another, common example of a vector is <alert>velocity</alert>. Velocity is a quantity that not only contains information about the speed of an object (the magnitude), velocity also gives information about the direction an object is moving. Speed does not have a "directionality" and can be fully described with just a number value. Therefore, speed is a scalar. For example, a speedometer reads a number, 60 km/hr, but gives no information about the direction of motion of the vehicle. 
+We can use differential calculus to find kinematic relationships for an object undergoing ocillatory motion. The time derivative of position yields the velocity of the system. 
+
+<men> \frac{d}{dt} \vec{x}(t) = \vec{v}(t)</men>
+</p>
+<p>
+Taking the time derivative of equation <xref ref="pos_HM"></xref>. yields the velocity function <m> \vec{v}(t)</m>
 </p>
 
-</insight>
 
-		<exercises>
+<p> 
+<men xml:id="vel_HM"> \vec{v}(t) = - \omega A \sin(\omega t + \phi_0)\hat{x} </men>
+</p>
+
+<p>
+As the object passes through the equilibrium position located at <m> x = 0 </m>, the speed (magnitude of the velocity) is maximum. When the object is maximally displaced from equilibrium, it temporarily comes to rest before changing its direction. Recall that a maxima or minima in the position as a function of time graph corresponds to a <alert> turning point</alert> in the motion. Therefore, when the object is located at <m> x= \pm A</m> the instantaneous velocity of the object is zero. 
+</p>
+
+
+ <figure xml:id="HM_velocity">
+    	<caption>The position and velocity as a function of time for an object in Simple Harmonic Motion. The graphs are alined such that the time axes in both graphs correspond to the same point in time. </caption>
+    		<image source="oscillate/HM_velocity.png" width = "100%" ></image>
+    </figure>
+    
+    <exercises>
 		<title>Activities</title>
+		
 		<exercise>
-		<title>Explore Vectors and Scalars</title>
+		<title>Physical Units</title>
 		<statement>
-		<p>Make a list of physical quantities you are familiar with from your everyday experience.  For each quantity, do you think it would be better to represent it as a <em>scalar</em> or as a <em>vector</em>?</p>
+		<p>Looking at equation <xref ref="vel_HM"></xref> what are the physical dimension and SI units of the quantity <m> \omega A</m>? What is the physical significance of this quantity?</p>
 		</statement>
+		<answer>
+		<p>The equation as a whole is a velocity and has dimension of length/time with SI units of meters/second. Trigonometric functions are dimensionless. Therefore, the quantity <m> \omega A</m> must have dimension of length/time for the equation to be true. The physical significance of this quantity is that it corresponds to the maximum speed <m> v_{max} = \omega A </m> of the object. This allows us to re-write equation <xref ref="HM_velocity"></xref> as follows</p>
+		
+		
+	<p>
+	<men> \vec{v}(t) = - v_{max} \sin(\omega t + \phi_0) \hat{x} </men>
+	</p>
+		</answer>
 		</exercise>
-				<exercise>
-		<title>Magnitude</title>
-		<statement>
-		<p>A vector is typically represented graphically by an arrow.  Which property of the arrow do you think represents the magnitude of the vector?  How would you represent two vectors that have the same direction but different magnitudes?</p>
-		</statement>
-		</exercise>
-		</exercises>
+		
+		
+		</exercises>		
+
+
 
 <references>
 <biblio>

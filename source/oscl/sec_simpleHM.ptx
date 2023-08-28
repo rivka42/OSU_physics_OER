@@ -3,69 +3,39 @@
 <section xml:id="sec_simpleHM" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Simple Harmonic Motion</title>
 			
-    <p>
-<alert>Oscillatory motion</alert> is a repetitive back and forth motion that regularly repeats in time. Oscillatory motion occurs when an object is displaced away from its natural resting position and forces are present which act to push the object back to its resting position. This natural resting position is called the object's <alert>equilibrium position</alert>.  
+<p>
+<alert>Oscillatory motion</alert> is a repetitive back and forth motion that regularly repeats in time around an equilibrium position. Oscillatory motion occurs when an object is displaced away from its natural resting position and forces are present which act to push the object back toward that resting position. This natural resting position is called the object's <alert>equilibrium position</alert>. 
+</p>
+
+ <figure xml:id="pendulum_gif">
+    	<caption>A simple pendulum oscillates around its equilibrium position.</caption>
+    		<image source="oscillate/pendulum.gif" width = "50%" ></image>
+    </figure>
+
+
+<p>
+<alert>Simple harmonic</alert> motion is motion where the position as a function of time of the object  can be represented by a sinusoidal function. Systems can oscillate in complicated ways. The most fundamental oscillatory motion, <em>simple harmonic motion</em>, can be described by a sine or cosine function. Later we will see that more complicated oscillatory motion can be described either as a sum of sinusoidal functions or as a sinusoidal function multiplied by other functions such as exponential functions. 
 </p>
 
 <p>
 The forces which lead to oscillatory motion are called <alert>restoring forces</alert>. Recall that an object is said to be in <em>equilibrium</em> when there are no net forces acting on the object. A restoring force is a type of force which arises when the object is displaced away from equilibrium and it always acts against the object's displacement to bring the system back to equilibrium.
 </p>
 
+
 <p>
-<alert>Simple harmonic motion</alert> is one of the most common and fundamental motions in science and engineering and is the basis for understanding all oscillatory motion. Simple harmonic motion is motion where the position (and velocity) of the object can be represented by a sinusoidal function. 
-</p>
+A common force which is directly proportional to displacement is the spring force. </p>
 
 <p> 
-<men xml:id="pos_HM">\vec{x}(t) = A \cos(\frac{2\pi t}{T})\hat{x}</men>
+<men xml:id="restore_force">\vec{F}(x) = -k\Delta x \hat{x}</men>
+where <m> \Delta x = x-x_0</m> and <m>x_0</m> is the equilibrium position. The negative sign reminds us that the force is always in the opposite direction as the displacement. An interesting aspect of these type forces is that they are position dependent forces. The notation <m>F(x)</m> reminds us that the force <m>F</m> is a function of position <m>x</m>. 
 </p>
 
 <p>
-Here, the notation <m> x(t)</m> reminds us that the position <m>x</m> of the object in simple harmonic motion is a <em>function</em> of time t. The position graph is a cosine function with an <alert>amplitude</alert> A and a <alert>period</alert> T. For this oscillation, the object has an equilibrium position at <m> x = 0 </m>. The amplitude represents the maximal distance away from the equilibrium position. Notice that the object oscillates between <m> x = A </m> and <m> x = -A </m>. The period represents the time it takes in seconds to complete one full oscillation. </p>
-
-
-<p>
-Another important characteristic of oscillatory motion is the <alert>frequency</alert>, <em>f</em>. The frequency is the number of cycles that occur in one second. Since period T represents the time it takes to complete one cycle, period and frequency have an inverse relationship. 
-</p>
-
-<p>
-<me> f = \frac{1}{T}</me>
-</p>
-
-<p>
-Recall that a particle in uniform circular motion has an angular velocity <m>\omega</m> that is related to the period of motion by <m>\omega= \frac{2 \pi}{T}</m>. The physical units of <m>\omega</m> given in <m>rad/s</m>. Most of the symbolic work we will do when representing oscillations in problems and equations will be done in terms of the angular frequency. 
-</p>
-
- <figure xml:id="HM_position">
-    	<caption>Position function of an object in Simple Harmonic Motion.</caption>
-    		<image source="oscillate/HM_position.png" width = "50%" ></image>
-    </figure>
-
-
-		<exercises>
-		<title>Activities</title>
-		<exercise>
-		<title>Physical Units</title>
-		<statement>
-		<p>Looking at equation ??, what are the physical SI units of amplitude and period? How can you tell?</p>
-		</statement>
-		</exercise>
-				<exercise>
-		<title>Exploring the Period, Frequency and Angular Frequency</title>
-		<statement>
-		<p>It is often useful to be able to represent oscillatory motion in terms of the period T, the frequency <em>f</em> or the angular frequency <m>\omega</m>. Write the relationship between angular frequency <m>\omega</m>, period and frequency. </p>
-		</statement>
-		</exercise>
-				<exercise>
-		<title>Exploring the Position Function</title>
-		<statement>
-		<p>It is often useful to be able to represent the position function in terms of the period T, the frequency <em>f</em> or the angular frequency <m>\omega</m>. Rewrite equation ?? in terms of the frequency f or the angular frequency <m>\omega</m></p>
-		</statement>
-		</exercise>
-		</exercises>
+Position dependent forces in physics generally have associated potential energy functions. We will explore this aspect of these forces in more detail in a later section of this chapter where we discuss energy in simple harmonic motion. </p>
 
 <references>
 <biblio>
-<p>Vectors vs. Scalars by Dr. Michelle Tomasik from MIT 8.01 Classical Mechanics, Fall 2016, used under Creative Commons BY-NC-SA.</p>
+<p>Pendulum-no-text.gif by Ideophagous from Wikimedia Commons, the free media repository under Creative Commons Attribution-Share Alike 4.0 International</p>
 </biblio>
 </references>
 		

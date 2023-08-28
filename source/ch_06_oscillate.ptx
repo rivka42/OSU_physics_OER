@@ -33,9 +33,10 @@
 <xi:include href="./oscl/sec_simpleHM.ptx" /> 
 <xi:include href="./oscl/sec_graphTrig.ptx" /> 
 <xi:include href="./oscl/sec_kinematicsHM.ptx" /> 
+<xi:include href="./oscl/sec_springs.ptx" /> 
+<xi:include href="./oscl/sec_EOM.ptx" /> 
 <xi:include href="./oscl/sec_circularHM.ptx" /> 
 <xi:include href="./oscl/sec_energyHM.ptx" /> 
-<xi:include href="./oscl/sec_springs.ptx" /> 
 <xi:include href="./oscl/sec_pendula.ptx" /> 
 <xi:include href="./oscl/sec_damped.ptx" /> 
 </chapter>

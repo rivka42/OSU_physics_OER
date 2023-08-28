@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_energyHM" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Energy Conservation in Simple Harmonic Motion</title>
+<section xml:id="sec_EOM" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Equation of Motion</title>
 			
-<p>
-energy is conserved...
+ <p>
+A general equation of motion...
 </p>
-    
+
 
 <references>
 <biblio>
