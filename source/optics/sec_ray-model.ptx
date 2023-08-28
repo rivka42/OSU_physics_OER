@@ -25,8 +25,11 @@
 
             <exercise xml:id="x_intro-pinhole-camera">
                 <title>Practice: Pinhole Camera</title>
-                <p><xref ref="vec_2D_position_vec_w_angle" /></p>
-                <p>A pinhole camera, also called a camera obscura, is an optical phenomenon that occurs when light travels through a very small aperture. Practice using the ray model to draw a ray diagram in order to determine what the camera produces.</p>
+                <p><figure xml:id="pinhole_camera">
+                    <caption>A ray diagram of a pinhole camera. Light travels from the arrow to the back of the camera to create an image.</caption>
+                        <image source="optics/pinhole_camera.png" width = "90%" ></image>
+                </figure></p>
+                <p>A pinhole camera, also called a camera obscura, is an optical phenomenon that occurs when light travels through a very small aperture. Using the figure above, predict what the image will look like. Find other examples of pinhole cameras online. What sort of observations can you make? Can you make a pinhole camera yourself?</p>
             </exercise>
     </exercises>
 </section>

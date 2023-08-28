@@ -7,6 +7,11 @@
 
     <p>We will use the ray model for light to understand how images are created in plane mirrors.</p>
 
+    <figure xml:id="plane_mirror">
+        <caption>Diagram of a plane mirror. An object sits at a distance <m>d_o</m> from the mirror, and an image is produced at a distance <m>d_i</m> behind the mirror.</caption>
+        <image source="optics/plane_mirror.jpg" width = "90%" ></image>
+    </figure>
+
     <principle>
         <title>Image Distance</title>
         <statement>
