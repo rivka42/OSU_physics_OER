@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_springs" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Oscillatory Motion of Spring Systems</title>
+  <title>Spring Systems</title>
 			
  <p>
 Let's apply what we have learned to analyze the oscillatory motion of a mass on a spring. Consider a spring with spring constant <m>k</m> that has one end held fixed in space and one end attached to a block of mass <m>m</m>which rests on a frictionless surface. We will assume the spring has negligible mass compared to the object's mass <m>m</m> such that we can apply the massless spring approximation to our analysis. 
 </p>
 
 <p>
-The spring has an equilibrium length <m> L_0</m> and is initially stretched and then released. We know from experience that the spring will undergo oscillatory motion. We would like to determine an equation of motion for the mass on the spring, the period and oscillation frequency for the spring. 
+The spring has an equilibrium length <m> x_0</m> and is initially stretched and then released. We know from experience that the spring will undergo oscillatory motion. We would like to determine an equation of motion for the mass on the spring, the period and oscillation frequency for the spring. 
 </p>
 
 <p>
@@ -23,11 +23,11 @@ We apply the general physics problem-solving strategy to analyze the motion. Fir
 <p>
 The spring force is a restoring force given by Hooke's law:
 
-<men> \vec{F}(x) = -k(x-L_0) \hat{x}</men>
+<me> \vec{F}(x) = -k(x-x_0) \hat{x}</me>
 
 The negative sign tells us that the force always points in the opposite direction as the displacement. If we place the origin of our coordinate system at equilibrium, then Hooke's law is simplified to 
 
-<men> \vec{F}(x) = -kx \hat{x}</men>
+<me> \vec{F}(x) = -kx \hat{x}</me>
 
 Applying Newton's law to the system and setting the force equal to the spring force
 
@@ -35,7 +35,7 @@ Applying Newton's law to the system and setting the force equal to the spring fo
 
 Using the relationship between position, and acceleration where acceleration is the second derivative of position with respect to time, 
  
-<men> a_x(t) = \frac{d}{dt} v_x(t) = \frac{d^2}{dt^2}x(t) </men>
+<me> a_x(t) = \frac{d}{dt} v_x(t) = \frac{d^2}{dt^2}x(t) </me>
 
 we can re-write equation <xref ref="Hookes"></xref> in terms of position only
 
@@ -47,19 +47,21 @@ Equation <xref ref="EOM"></xref> is called the <alert>equation of motion</alert>
 <p>
 Often we can guess the solutions to differential equations. Since we already know the motion will be oscillatory from everyday experience, the natural guess for this physical situation is a position function that is oscillatory in time. Consider the position function
 
-<men> x(t) = A \cos{\omega t + \phi_0}</men>
+<me> x(t) = A \cos(\omega t + \phi_0)</me>
 
 Taking two derivatives in time
 
-<men> \frac{d^2}{dt^2}x(t) = - \omega^2 A \cos{\omega t + \phi_0}</men>
+<me> \frac{d^2}{dt^2}x(t) = - \omega^2 A \cos(\omega t + \phi_0)</me>
 
 Plugging all this back into the equation of motion yields
 
-<men> - \omega^2 A \cos{\omega t + \phi_0} = -\frac{k}{m} A \cos{\omega t + \phi_0}</men>
+<me> - \omega^2 A \cos(\omega t + \phi_0) = -\frac{k}{m} A \cos(\omega t + \phi_0)</me>
 
-From this we can determine the oscillation frequency of the spring system. 
+From this we can determine the oscillation frequency of the spring system. Note that a factor of the position function can be cancelled from each side of the equation. From this we can determine the angular frequency of the oscillation. 
 
 <men> \omega = \sqrt{\frac{k}{m}},</men>
+
+The oscillation frequency characterizes the motion of the object. It depends solely on the physical characteristics of the system: the stiffness of the spring, and the mass of the object attached to the spring. 
 </p>
 
 
@@ -71,18 +73,48 @@ From this we can determine the oscillation frequency of the spring system.
 		<exercise>
 		<title>Sense-making: Co-variational reasoning</title>
 		<statement>
-		<p>
-		1. If you increase the mass of the mass on a spring, how does this affect the frequency of oscillation?
-		2. If you increase the stiffness of the spring how does this affect the frequency of oscillation?
-		3. If we took the mass on a spring to another planet where the accleration due to gravity at the surface of the planet was larger than on Earth, how would this affect the frequency of oscillation</p>
+		<p>		
+		     <ol>
+<li>If you double the mass of the spring system, how does this affect the frequency of oscillation?</li> 
+<li>If you double the amplitude of the oscillation, how does this affect the frequency of oscillation?</li>
+<li>If you double the stiffness of the spring, how does this affect the frequency of oscillation? </li>
+<li>If we took the spring system to another planet where the acceleration due to gravity at the surface of the planet was twice as large as on Earth, how would this affect the frequency of oscillation?</li>
+      </ol>
+</p>
 		</statement>
+		<answer> 
+		<p>
+		 <ol>
+<li>If <m> m \rightarrow 2m </m>,  then <m> \omega \rightarrow \frac{1}{\sqrt{2}}\omega_0</m></li> 
+<li>If <m> A \rightarrow 2A </m>,  then <m> \omega = \omega_0 </m>. This is an important point to note: The amplitude <alert> does not </alert> affect the oscillation frequency in simple harmonic motion.</li>
+<li>If <m> k \rightarrow 2k </m>,  then <m> \omega \rightarrow \sqrt{2}\omega_0 </m></li>
+<li>If <m> g \rightarrow 2g </m>,  then <m> \omega = \omega_0</m>. The oscillation frequency does not depend on gravity. </li>
+      </ol>
+</p>
+		</answer>
 		</exercise>
 				<exercise>
-		<title>Period</title>
+		<title>Finding the Period of the Oscillation</title>
 		<statement>
 		<p>Determine the period <m> T </m> of the motion for the mass on a spring.</p>
 		</statement>
+		<answer>
+		Using the relationship <m> \omega = \frac{2 \pi}/T</m> we see that the period of oscillation for a mass on a spring is
+		
+		<me> T = 2 \pi \sqrt{\frac{m}{k}}</me>
+		</answer>
 		</exercise>
+		
+			
+				<exercise>
+		<title>PHeT Exercise: Exploring Vertical Oscillations</title>
+		<statement>
+		<p>Consider a mass on a spring that hangs vertically. What are the frequency and period of the oscillation? Explore these questions by experimenting with this simulation:
+		<url href="https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics_en.html"/>
+		</p>
+		</statement>
+		</exercise>
+
 		</exercises>
 
 <references>

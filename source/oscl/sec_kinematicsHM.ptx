@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_kinematicsHM" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Kinematics Relations of Oscillatory Motion</title>
+  <title>Kinematics Relations</title>
 			
 <p>
 We can use differential calculus to find kinematic relationships for an object undergoing ocillatory motion. The time derivative of position yields the velocity of the system. 
 
-<men> \frac{d}{dt} \vec{x}(t) = \vec{v}(t)</men>
+<me> \frac{d}{dt} \vec{x}(t) = \vec{v}(t)</me>
 </p>
 <p>
-Taking the time derivative of equation <xref ref="pos_HM"></xref>. yields the velocity function <m> \vec{v}(t)</m>
+Taking the time derivative of our position function <m> \vec{x}(t) = A \cos{\omega t + \phi_0}</m> yields the velocity function <m> \vec{v}(t)</m>
 </p>
 
 
@@ -36,7 +36,7 @@ As the object passes through the equilibrium position located at <m> x = 0 </m>,
 		<p>Looking at equation <xref ref="vel_HM"></xref> what are the physical dimension and SI units of the quantity <m> \omega A</m>? What is the physical significance of this quantity?</p>
 		</statement>
 		<answer>
-		<p>The equation as a whole is a velocity and has dimension of length/time with SI units of meters/second. Trigonometric functions are dimensionless. Therefore, the quantity <m> \omega A</m> must have dimension of length/time for the equation to be true. The physical significance of this quantity is that it corresponds to the maximum speed <m> v_{max} = \omega A </m> of the object. This allows us to re-write equation <xref ref="HM_velocity"></xref> as follows</p>
+		<p>The equation as a whole is a velocity and has dimension of length/time with SI units of meters/second. Trigonometric functions are dimensionless. Therefore, the quantity <m> \omega A</m> must have dimension of length/time for the equation to be true. Note that the SI units of <m> \omeag</m> are <m> rad/s</m>. While radians are an SI unit, they are dimensionless. The physical significance of this quantity is that it corresponds to the maximum speed <m> v_{max} = \omega A </m> of the object. This allows us to re-write equation <xref ref="HM_velocity"></xref> as follows</p>
 		
 		
 	<p>
@@ -44,6 +44,23 @@ As the object passes through the equilibrium position located at <m> x = 0 </m>,
 	</p>
 		</answer>
 		</exercise>
+		
+		<exercise>
+		<title>Exploring Acceleration</title>
+		<statement>
+		<p>Derive the acceleration of the an object in simple harmonic motion using the methods discussed in this section. </p>
+		</statement>
+		<answer>
+		<p>Looking at equation <xref ref="HM_velocity"></xref> we take the time derivative to determine the acceleration of the system.</p>
+			
+	<p>
+	<men> \vec{a}(t) = - \omega^2 A \cos(\omega t + \phi_0) \hat{x} </men>
+	
+	Note that the quantity <m> \omega^2 A = a_{max}</m> represents the acceleration of the object when <m> x= -A</m>. Use figure <xref ref="HM_velocity"></xref> and sketch the accompanying <m> \vec{a}(t)</m> function to convince yourself this is true. 
+	</p>
+		</answer>
+		</exercise>
+
 		
 		
 		</exercises>		

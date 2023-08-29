@@ -7,7 +7,7 @@ Simple harmonic motion is motion where the position as a function of time of the
 </p>
 
 <p> 
-<men xml:id="pos_HM">\vec{x}(t) = A \cos(\frac{2\pi t}{T} + \phi_0)\hat{x}</men>
+<men xml:id="pos_HM">\vec{x}(t) = A \cos \left(\frac{2\pi t}{T} + \phi_0\right)\hat{x}</men>
 </p>
 
 <p>
@@ -21,20 +21,23 @@ Here, the notation <m> x(t)</m> reminds us that the position <m>x</m> of the obj
 
 
 <p>
-Looking at figure <xref ref="HM_position"></xref> see a graph of position as a function of time. For this oscillation, the object has an equilibrium position at <m> x = 0 </m>. The amplitude represents the maximal distance away from the equilibrium position. Notice that the object oscillates between <m> x = A </m> and <m> x = -A </m>. The period represents the time it takes in seconds to complete one full oscillation. 
+Looking at figure <xref ref="HM_position"></xref>, we see a graph of position as a function of time. For this oscillation, the object has an equilibrium position at <m> x = 0 </m>. The amplitude represents the maximal distance away from the equilibrium position. Notice that the object oscillates between <m> x = A </m> and <m> x = -A </m>. The period represents the time it takes in seconds to complete one full oscillation. 
 </p>
 
 
 <p>
-Another important characteristic of oscillatory motion is the <alert>frequency</alert>, <em>f</em>. The frequency is the number of cycles that occur in one second. Since period T represents the time it takes to complete one cycle, period and frequency have an inverse relationship. 
+Another important characteristic of oscillatory motion is the <alert>frequency</alert>, <em>f</em>. The frequency is the number of cycles per second. Since period T represents the time it takes to complete one cycle, period and frequency have an inverse relationship. 
 </p>
 
 <p>
-<me> f = \frac{1}{T}</me>
+<men> f = \frac{1}{T}</men>
 </p>
 
 <p>
-Recall that a particle in uniform circular motion has an angular velocity <m>\omega</m> that is related to the period of motion by <m>\omega= \frac{2 \pi}{T}</m>. The physical units of <m>\omega</m> given in <m>rad/s</m>. Most of the symbolic work we will do when representing oscillations in problems and equations will be done in terms of the angular frequency, <m>\omega</m>. 
+Recall that a particle in uniform circular motion has an angular velocity <m>\omega</m> that is related to the period of motion by 
+<men>\omega= \frac{2 \pi}{T}</men> 
+
+This relation holds true in simple harmonic motion. When describing oscillatory motion, <m> \omega </m> is called the <alert> angular frequency</alert> rather than angular velocity. The physical units of <m>\omega</m> are given in <m>rad/s</m>. Note that since radians are a dimensionless unit, often the rad is dropped for the SI units when <m>\omega</m> is used together with other quantities. Most of the symbolic work we will do when representing oscillations in problems and models will be done in terms of the angular frequency, <m>\omega</m>. 
 </p>
 
  
@@ -66,14 +69,19 @@ Recall that a particle in uniform circular motion has an angular velocity <m>\om
 		<exercise>
 		<title>Exploring the Position Function</title>
 		<statement>
-		<p>It is often useful to be able to represent the position function in terms of the period T, the frequency <em>f</em> or the angular frequency <m>\omega</m>. Rewrite equation <xref ref="pos_HM"></xref> in terms of the frequency <m>f</m> or the angular frequency <m>\omega</m></p>
+		<p>It is often useful to be able to represent the position function in terms of the period T, the frequency <em>f</em> or the angular frequency <m>\omega</m>. Rewrite equation <xref ref="pos_HM"></xref> in terms of the frequency <m>f</m> and the angular frequency <m>\omega</m>.</p>
 		</statement>
 		</exercise>
 		<answer>
 		<p>We can write the position relationship as follows:</p>
-		
-		<men> \vec{x}(t) = A \cos(\frac{2\pi t}{T} + \phi_0)\hat{x}= A \cos(2 \pi f t+ \phi_0)\hat{x}=A \cos(\omega t+ \phi_0)\hat{x} </men>
-		<p>often <m>\vec{x}(t) = A\cos(\omega t + \phi_0)\hat{x}</m> is most useful for solving problems. This is the form of the equation we will use going forward. </p>
+		<p>
+		<md> 
+		<mrow>\vec{x}(t) \amp = A \cos \left(\frac{2\pi t}{T} + \phi_0\right)\hat{x}</mrow>
+		<mrow>               \amp  = A \cos(2 \pi f t+ \phi_0)\hat{x}</mrow>
+		<mrow>               \amp  =A \cos(\omega t+ \phi_0)\hat{x} </mrow>
+		</md>
+		</p>
+		<p>often <m>\vec{x}(t) = A\cos(\omega t + \phi_0)\hat{x}</m> is most useful for solving problems. This is the form of the position function we will use going forward when studying simple harmonic motion. </p>
 		</answer>
 		</exercises>		
 

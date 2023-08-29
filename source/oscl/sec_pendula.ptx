@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_pendula" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Oscillatory Motion of Pendulums</title>
+  <title>Pendulums</title>
 			
 <p>
-pendula are cool...
+Let's apply what we have learned to analyze the oscillatory motion of pendulums. Consider a mass <m>m</m> that hangs from a string that has one end fixed in space and is free to pivot (ie, no friction). We will assume the string has negligible mass compared to the object's mass <m>m</m> such that we can apply the massless string approximation to our analysis. 
 </p>
+
+<p>
+The string has length <m> L </m> and the pendulum bob is initially pulled out an angle <m> \theta</m> and then released. We know from experience that the pendulum will undergo oscillatory motion. We would like to determine the angular position as a function of time <m> \theta(t)</m>, and oscillation frequency <m> \omega</m> for the pendulum. 
+</p>
+
+<figure xml:id="pendulum">
+    	<caption>A simple pendulum.</caption>
+    		<image source="oscillate/pend.png" width = "50%" ></image>
+    </figure>
+
+
+<p>
+We will use a torque analysis and our model of simple harmonic motion to analyze the system.  We apply the general physics problem-solving strategy to analyze the motion. First, we draw a picture of the situation, and choose a coordinate system we will use to reference positions and velocities of the mass. We assume that the mass can be treated as a particle and we draw a free body diagram choosing an axis directed radial to the pivot point and an axis tangential to the arc of the motion. We assume tension keeps the string taut so it does not bend or bow.  
+</p>
+
+<figure xml:id="pendulumFBD">
+    	<caption>A free body diagram for the pendulum system.</caption>
+    		<image source="oscillate/pendFBD.png" width = "50%" ></image>
+    </figure>
+
+ <p> Recall Newton's law of Torque
+ 
+ *should probably reference from the previous section.*
+ <men> \sum \tau = I\alpha </men>
+ 
+where <m> \tau = -Lmgsin\theta</m> is the torque about the pivot point, <m>I=mL^2 </m> is the moment of inertia about the pivot point and <m>\alpha= \frac{d^2}{dt^2}\theta(t)</m> is the angular acceleration of the pendulum mass. Putting this all together we find,
+
+<men xml:id="pendulumE">  mL^2 \frac{d^2}{dt^2}\theta(t) = -Lmgsin\theta </men>
+
+Simplifying we can find an equation of motion for the system,  
+
+<men xml:id="pendulumE2"> \frac{d^2}{dt^2}\theta(t)=-\frac{g}{L} \sin\theta</men>
+ </p>
 
 <references>
 <biblio>

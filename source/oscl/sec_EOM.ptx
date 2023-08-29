@@ -4,9 +4,26 @@
   <title>The Equation of Motion</title>
 			
  <p>
-A general equation of motion...
+Lets develop a <em> physical model </em> for simple harmonic motion which can be used generally for any oscillating system where the <alert>restoring force is directly proportional  to the displacement</alert> or can be approximated in such a way as to be directly proportional. If this condition is true, the motion will be simple harmonic motion around the equilibrium position. Additionally, the frequency and period of the motion will be independent of the amplitude of the oscillation. 
 </p>
 
+<p> Consider a general position function <m>s(t)</m> and an <alert> equation of motion</alert> which can be written in the form:
+
+<men xml:id="HM_model"> \frac{d^2}{dt^2} s(t) = -C s(t)</men>
+
+where <m> C</m> can be any collection of constants. If we can write the equation of motion in this form, then we can immediately determine the angular frequency and period of the oscillation, 
+
+<men xml:id="HM_model2"> \omega = \sqrt{C} = \frac{2 \pi}{T}</men>
+
+Additionally, the function that <m> solves </m> the differential equation will always be a position function that is oscillatory in time
+
+<me> s(t) =A \cos( \omega t + \phi_0)</me>
+
+Where A and <m> \phi_0,</m> are determined from the initial conditions of the oscillator. 
+</p>
+
+<p> This is a powerful model of simple harmonic motion that can predict subsequent motion of many oscillating systems. However, models have their limitations. This model fails if the restoring force is <em> nonlinear</em> meaning that it is not directly proportional to the displacement. 
+</p>
 
 <references>
 <biblio>
