@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_EOM" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>The Equation of Motion</title>
+  <title>Simple Harmonic Motion Model</title>
 			
  <p>
 Lets develop a <em> physical model </em> for simple harmonic motion which can be used generally for any oscillating system where the <alert>restoring force is directly proportional  to the displacement</alert> or can be approximated in such a way as to be directly proportional. If this condition is true, the motion will be simple harmonic motion around the equilibrium position. Additionally, the frequency and period of the motion will be independent of the amplitude of the oscillation. 
@@ -22,7 +22,7 @@ Additionally, the function that <m> solves </m> the differential equation will a
 Where A and <m> \phi_0,</m> are determined from the initial conditions of the oscillator. 
 </p>
 
-<p> This is a powerful model of simple harmonic motion that can predict subsequent motion of many oscillating systems. However, models have their limitations. This model fails if the restoring force is <em> nonlinear</em> meaning that it is not directly proportional to the displacement. 
+<p> This is a powerful <alert>model of simple harmonic motion</alert> that can predict subsequent motion of many oscillating systems. However, models have their limitations. This model fails if the restoring force is <em> nonlinear</em> meaning that it is not directly proportional to the displacement. 
 </p>
 
 <references>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_Ppendula" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Rigid-Body Pendulum</title>
+			
+<p>
+A pendulum does not need to be a simple mass on a string. In fact, many objects that can be modeled in the rigid-body model can act as pendulums. For example, as you walk, your leg swings like a pendulum. Consider a pendulum made from a rigid-body object. </p>
+    
+    <figure xml:id="Ppendulum">
+    	<caption>A rigid-body pendulum.</caption>
+    		<image source="oscillate/Ppend2.png" width = "100%" ></image>
+    </figure>
+    
+<p>
+We will use a torque analysis and our model of simple harmonic motion to analyze the system.  We apply the general physics problem-solving strategy to analyze the motion. The gravitational torque is 
+
+ <me> \tau = -LMg\sin\theta(t) = I \alpha</me> 
+ 
+Recall that the gravitational force acts at the center of mass of a rigid-body. Here, we have labeled the distance from the pivot to the center of mass <m>L</m>. We apply the small-angle approximation, 
+
+<me> \sin\theta(t) \approx \theta(t)</me>
+
+Note that our analysis will only provide an accurate predictive model when the angle <m> \theta(t)</m> is small. From this we can determine the equation of motion for the system
+
+<men xml:id="PpendulumE"> \frac{d^2}{dt^2}\theta(t)=-\frac{MgL}{I} \theta(t)</men>
+
+The equation of motion is in the form of equation <xref ref="HM_model"></xref> and so we can directly determine the oscillation frequency and period of the system.
+
+ <men xml:id="PpendulumE2"> \omega=\sqrt{\frac{MgL}{I}}= \frac{2 \pi}{T}</men>
+ 
+This equation is general for any rigid-body object so long as we specify the moment of inertia and properly determine the distance from the pivot to the center of mass. 
+</p>
+
+
+<references>
+<biblio>
+<p>Vectors vs. Scalars by Dr. Michelle Tomasik from MIT 8.01 Classical Mechanics, Fall 2016, used under Creative Commons BY-NC-SA.</p>
+</biblio>
+</references>
+		
+</section>
+

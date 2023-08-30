@@ -4,9 +4,89 @@
   <title>Models Including Dissipative Forces</title>
 			
  <p>
- If there is friction...
+The models we have built for simple harmonic motion of spring, simple pendulums, and rigid body oscillators have not included dissipative forces such as friction. We know from experience that a pendulum left to oscillate will lose energy to the system. The amplitude decreases in time until all energy has been dissipated and the system comes to rest. An oscillation whose amplitude decreases in time is called a <alert> damped oscillation</alert>. Energy dissipation can be caused by dissipative forces such as air resistance or friction. 
  </p>
+ 
+ <p>
+We will now analyze a spring system and consider the effects of air drag. We will assume a drag force that is directly proportional to the velocity.
+ 
+ <me> \vec{F}_{drag} = -b\vec{v}</me>
+ 
+Recall that the <alert>damping constant </alert>, <m>b</m>, depends on the shape of the object and the viscosity of the air (or other medium) in which it moves. The damping constant plays the same role as the coefficient of friction. The negative sign reminds us that the force always opposes the velocity of the object. 
+</p>
 
+<figure xml:id="mass_spring_damp">
+    	<caption>A mass on a spring.</caption>
+    		<image source="oscillate/mass_spring_damp.png" width = "100%" ></image>
+    </figure>
+
+<p>
+Again, we apply the general physics problem-solving strategy. First, we draw a pictorial representation of the situation, and choose a coordinate system we will use to reference positions and velocities of the mass. Applying Newton's 2nd Law, we find
+
+<me> ma_x = -kx -bv_x </me>
+
+Using the relationship between velocity acceleration and position, we rewrite the equation in terms of position only. 
+
+<men xml:id="dampedEOM"> \frac{d^2}{dt^2}x(t) + \frac{b}{m}\frac{d}{dt}x(t) +\frac{k}{m}x(t) = 0</men>
+
+This is the equation of motion of a damped mass on a spring. Since we know that the amplitude decreases in time, we can guess a solution of the form:
+
+<men> x(t) = A e^{-bt/m} \cos{(\omega t +\phi_0)}</men>
+
+The oscillation frequency is given by,
+
+<men> \omega = \sqrt{\frac{k}{m} +\frac{b^2}{4m}}=\frac{2 \pi}{T}</men>
+ 
+</p>
+
+<exercises>
+		<title>Activities</title>
+				
+		<exercise>
+		<title>Exploring limiting Cases</title>
+		<statement>
+		<p> The damping constant characterizes the magnitude of the the drag force. Confirm that when <m> b=0 </m> you recover the position function and oscillation frequency for the un-damped mass on a spring.</p>
+		</statement>
+		<answer>
+		<p></p>
+		</answer>
+		</exercise>
+		
+		<exercise>
+		<title>Is <m>x(t)</m> a Solution?</title>
+		<statement>
+		<p>Plug the solution back into the equation of motion and confirm that <m>x(t)</m> is a solution. </p>
+		</statement>
+		<answer>
+		<p> 		
+		</p>
+		</answer>
+		</exercise>
+		
+		<exercise>
+		<title>Friction at the Surface Boundary</title>
+		<statement>
+		<p>Repeat the analysis above excluding air drag, but including kinetic friction between the surface on which the mass rests. Determine an equation of motion, the position as a function of time and the oscillation frequency. </p>
+		</statement>
+		<answer>
+		<p> 		
+		</p>
+		</answer>
+		</exercise>
+		
+		<exercise>
+		<title>The Damped Pendulum</title>
+		<statement>
+		<p>Repeat the analysis above for the pendulum including air drag. Determine an equation of motion, the angular position as a function of time and the oscillation frequency. </p>
+		</statement>
+		<answer>
+		<p> 		
+		</p>
+		</answer>
+		</exercise>
+
+		
+		</exercises>
 
 <references>
 <biblio>
