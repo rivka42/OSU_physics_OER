@@ -3,13 +3,11 @@
 <section xml:id="sec_torque" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Torque</title>
 		
-      <video youtube="Kn4wcsWCXgY"><description>Defining torque.</description></video>
+      <video youtube="C2XHn6NIqAM"><description>Defining torque.</description></video>
 	
 	<p>When any force acts on a rigid object, it also acts a torque on that object.  The torque depends both on the force itself and on where the force acts relative to some axis.  This means that the torque depends on your choice of axis!  The force itself is unchanged no matter what torque it acts.</p>
 	
-	<p>Torque is a <em>rotational analogue</em> for force.  You have seen other rotational analogues before: angular acceleration (<m>\vec{\alpha}</m>) is a rotational analogue for translational acceleration (<m>\vec{a}</m>).  Angular acceleration and translational acceleration are different quantities, but they serve the same role in their respective models, and they are related to each other.  Torque serves as the rotational analogue for force: they are <em>different</em>, but they serve the same role, and they are related to each other.</p>
-	
-	<definition>
+		<definition>
 	<title>Torque</title>
 	<statement>
 		<p>The <term>torque</term> exerted by a force <m>\vec{F}</m> acting on a rigid body about a given axis is <m>\vec{\tau} = \vec{r} \times \vec{F}</m>, where <m>\vec{r}</m> is the vector from the axis to the point of contact of the force.</p>
@@ -17,6 +15,12 @@
 </definition>
 
 <p>Calculating torque requires the cross product, a mathematical operation discussed in <xref ref="sec_cross-product"></xref>.  Finding the direction of the torque thus typically requires use of <xref ref="rep_rhr" text="title"></xref>.</p>
+	
+	<p>Torque is a <em>rotational analogue</em> for force.  You have seen other rotational analogues before: angular acceleration (<m>\vec{\alpha}</m>) is a rotational analogue for translational acceleration (<m>\vec{a}</m>).  Angular acceleration and translational acceleration are different quantities, but they serve the same role in their respective models, and they are related to each other.  Similarly, force and torque serve equivalent roles in their respective models, but they are <em>different</em> even though they are related.</p>
+	
+	<p>As you continue to adapt your model for motion to rotational context, you will eventually develop a rotational analogue for every translational quantity.</p>
+	
+
 
 	<exercises>
 	<title>Activities</title>

@@ -25,13 +25,13 @@ The motion of real objects is often extremely complicated.  For example, when yo
 </p>
 
 <p>
-To begin to investigate motion, we will make a <em>simplifying assumption</em> that an object in motion can be treated as a <alert>particle</alert>.  When we make this assumption, we say that we are using the particle model because we are <em>modeling</em> the motion of an object as if it were a <em>particle</em>.
+To begin to investigate motion, you will make a <em>simplifying assumption</em> that an object in motion can be treated as a <alert>particle</alert>.  When you make this assumption, you are using the particle model because you are <em>modeling</em> the motion of an object as if it were a <em>particle</em>.
 </p>
 
 <assumption xml:id="a_particle">
 	<title>The Particle Model</title>
 	<statement>
-		<p>When you assume that a system can be treated as a <term>point particle</term>, you treat it as only undergoing <alert>translational motion</alert> (motion without rotation).  Under this assumption, you treat all the mass of the system as existing at the object's center of mass<fn>center of mass is a property we will not need until we begin studying rotational motion</fn>.</p>
+		<p>When you assume that a system can be treated as a <term>point particle</term>, you treat it as only undergoing <alert>translational motion</alert> (motion without rotation).  Under this assumption, you treat all the mass of the system as existing at the object's center of mass<fn>center of mass is a property you will not need until you begin studying rotational motion</fn>.</p>
 	</statement>
 </assumption>
 
@@ -46,7 +46,7 @@ When you encounter a new assumption, you might want to consider not just when it
 
 
 <p>
-The particle model is almost always useful because it is extremely simple (like many of the assumptions we will make).  However, by assuming an object is a particle, we are neglecting information about its size, extent, and rotation.  The particle model is most reasonable when these properties <em>do not have a substantial impact</em> on its translational motion.  Once we have a firm understanding of translational motion, we can amend our model to include other kinds of motion.  Within the particle model, we sometimes make a further assumption to consider motion only along a straight-line path (one-dimensional translational motion) rather than motion in two- or even three-dimensions.
+The particle model is almost always useful because it is extremely simple (like many of the assumptions you will make).  However, by assuming an object is a particle, you are neglecting information about its size, extent, and rotation.  The particle model is most reasonable when these properties <em>do not have a substantial impact</em> on its translational motion.  Once you have a firm understanding of translational motion, you can amend your model to include other kinds of motion.  Within the particle model, you sometimes make a further assumption to consider motion only along a straight-line path (one-dimensional translational motion) rather than motion in two- or even three-dimensions.
 </p>
 
 

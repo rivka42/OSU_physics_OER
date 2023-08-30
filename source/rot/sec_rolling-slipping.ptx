@@ -12,10 +12,6 @@
 		
       <video youtube="1anNyNrvtIU"><description>Introducing rolling without slipping.</description></video>
 	
-	<p>ADD ME</p>
-	
-	<p>Adding a test to see how desmos works in pretext</p>
-
 	<p>Most examples of rolling motion you encounter in your everyday life can be modeled as rolling without slipping, in which the point of contact between the rolling object has a relative velocity of zero with the surface along which it is rolling.  Cases in which the relative motion between the rolling object and the surface are not zero are typically described as slipping or skidding.</p>
 	
 
@@ -38,9 +34,13 @@
 						<exercise>
 			<p>In some cases, especially when slowing down rapidly, the bicycle tires will begin to slip along the road (that is, they will no longer be rolling without slipping).  Why do you think this happens?</p>
 			</exercise>
+			
+			<!--
+				<p>Adding a test to see how desmos works in pretext</p>
 			<exercise>
 			  <p>Play with this rolling motion simulation: <url href="https://www.desmos.com/calculator/whyyk5hkxz"/>.  Play around with it for at least a few minutes.</p>
 			</exercise>
+			-->
 
 		</exercises>
 

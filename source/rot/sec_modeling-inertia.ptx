@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_modeling-inertia" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Chop-Multiply-Add: Calculating Moments of Inertia</title>
+  <title>Chop-Multiply-Add: Calculating Moment of Inertia</title>
 		
-      <video youtube="Kn4wcsWCXgY"><description>Defining acceleration.</description></video>
+      <video youtube="ersSAN7aFfw"><description>An example of calculating moment of inertia using integrals.</description></video>
 	
 	<p>For a continuous object, like a solid sphere or cylinder, the moment of inertia can be calculated using <me>I = \int r^2 dm</me>  As with previous integral expressions in physics such as those you saw in <xref ref="sec_calc1"></xref>, <xref ref="sec_work2"></xref>, and <xref ref="sec_center-of-mass"></xref>, you can use the <alert>Chop-Multiply-Add</alert> strategy to construct and evaluate any necessary integrals.</p>
 	
@@ -11,12 +11,12 @@
 	
 	<note>
 	<title>Choosing Coordinates for Integrals</title>
-	<p>You must always choose a set of coordinates when evaluating a volume integral.  It usually makes sense to choose coordinates that match the symmetry of your object or system.  For a cube, you might choose regular Cartesian coordinates <m>dV = dx dy dz</m>, while for a cylinder you might choose polar coordinates <m>dV = s ds d\phi dz</m>.  You might even decide that your object or system can be treated as two-dimensional (or even one-dimensional), in which case you do not need all three dimensions.  In any case, you will need to integrate over the entire object with respect to every relevant coordinate.</p>
+	<p>You must always choose a set of coordinates when evaluating an integral.  It usually makes sense to choose coordinates that match the symmetry of your object or system.  For a cube, you might choose regular Cartesian coordinates <m>dV = dx dy dz</m>, while for a cylinder you might choose polar coordinates <m>dV = s ds d\phi dz</m>.  You might even decide that your object or system can be treated as two-dimensional (or even one-dimensional), in which case you do not need all three dimensions.  In any case, you will need to integrate over the entire object with respect to every relevant coordinate.</p>
 	</note>
 	
 	<p><term>Multiply:</term> Once you know the mass of each small piece <m>dm</m>, you <em>multiply</em> to find the moment of inertia of that small piece is: <m>dI = r^2dm = r^2 \rho dV</m>.  Here <m>r</m> is the straight-line (perpendicular) distance from the axis of rotation to the location of <m>dm</m>.  It can be highly useful to draw a diagram of the shape, including an example <m>dm</m>, and label <m>r</m> so that it can be easily written in terms of your chosen coordinates.</p>
 	
-		<p><term>Add:</term> Last, once you have the infinitesimal <m>dI</m>, you <em>add</em> together every <m>dI</m> over the entire object: <me>\int dI = \int r^2 \rho dV</me></p>
+		<p><term>Add:</term> Last, once you have the infinitesimal <m>dI</m>, you <em>add</em> together every <m>dI</m> over the entire object: <me>\int dI = \int r^2 dm</me></p>
 	
 		<note xml:id="note_density">
 	<title>Density</title>

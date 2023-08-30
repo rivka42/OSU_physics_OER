@@ -5,14 +5,16 @@
 		
       <video youtube="qMJK_sjdUCw"><description>Introducing angular motion.</description></video>
 	
-	<p>An object moving around a circle is an especially common form of two-dimensional motion.  Because the radius is constant for circular motion, it is often more convenient to use <em>angular motion quantities</em> than translational motion quantities.  This is essentially equivalent to using circular polar coordinates instead of Cartesian coordinates to describe the motion.  Each of the three primary motion quantities---position, velocity, and acceleration---has an angular equivalent, defined below.</p>
-		
-	<definition>
+	<p>An object moving around a circle is an especially common form of two-dimensional motion.  Instead of using Cartesian coordinates, circular polar coordinates (usually labeled <m>r</m> for the radial distance and <m>\theta</m> for the angular distance) would make a natural alternate choice to describe such motion.	 Because the radius is constant for circular motion, this choice turns a two-dimensional context where both <m>x</m> and <m>y</m> are changing into a one-dimensional context where only <m>\theta</m> is changing.</p>
+	
+		<definition>
 	<title>Angular Position</title>
 	<statement>
-		<p>The <term>angular position</term> of an object moving around a circle is <m>\theta = \frac{s}{r}</m>, where <m>s</m> is the arc length and <m>r</m> is the radius.</p>
+		<p>The <term>angular position</term> of an object moving around a circle measures the location of the object as an angle from some fixed axis (by default, the positive horizontal axis): measured in radians, it is given by <m>\theta = \frac{s}{r}</m>, where <m>s</m> is the arc length and <m>r</m> is the radius.</p>
 	</statement>
 </definition>
+	
+	<p>Using polar coordinates, <m>\theta</m> can be thought of as the <alert>angular position</alert> of an object moving around a circle; here, <m>\theta</m> is an <term>analogue</term> for the translational position <m>\vec{r}</m> with which you are already familiar.  The other motion quantities you have studied<mdash/>velocity and acceleration<mdash/>also have angular equivalents as defined below.</p>
 
 	<definition>
 	<title>Angular Velocity</title>
@@ -27,6 +29,27 @@
 		<p>The <term>angular acceleration</term> of an object moving around a circle is given by <m>\vec{\alpha} = \frac{d \vec{\omega}}{d t}</m>.  Combining this with the definition of angular position allows you to relate angular and tangential acceleration as <m>\alpha = \frac{a_t}{r}</m>.</p>
 	</statement>
 </definition>
+
+	<exercises>
+	<title>Activity - Units</title>
+	<p>Angular position is virtually always measured using radians.  Other choices, such as degrees, introduce additional units that typically need to be converted to radians when working with other quantities.</p>
+			<exercise>
+			<statement>
+			  <p>Use the definition of angular position to find the units of radians in terms of other units you are familiar with.</p>
+				</statement>
+				<answer>
+				<p>Both <m>s</m> and <m>r</m> are measured using the same units (probably meters), so when you divide them the units of <m>\theta</m> vanish!  This means that radians have no units at all<mdash/>which is why they are preferred for angular measurements.</p>
+				</answer>
+			</exercise>
+						<exercise>
+						<statement>
+			  <p>Determine the units of angular velocity and angular acceleration.</p>
+				</statement>
+				<answer>
+				<p>rad/s and rad/s<m>^2</m></p>
+				</answer>
+			</exercise>
+		</exercises>
 
 	<p>As with translational motion quantities, the angular motion quantities are vectors, with both magnitude and direction.  For straightforward examples of angular motion in which the axis of rotation<fn>the line passing through the center of the circle perpendicular to the plane of the circle</fn> does not change, the direction may often be summarized as clockwise or counterclockwise, but the true direction of the angular motion quantities is along the axis of rotation.</p>
 				

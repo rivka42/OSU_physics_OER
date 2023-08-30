@@ -2,21 +2,53 @@
 
 <section xml:id="sec_precession" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Application: Precession</title>
+	
+		<exercises>
+	<title>Review Activity</title>
+	<p>Suppose you have an object moving in a straight line to the right with velocity <m>\vec{v}</m>.</p>
+	<exercise>
+	<p>Indicate the direction of the acceleration of the object in each of the following situations.  In particular, how is the direction of the acceleration related to the direction of the velocity?  Explain your reasoning.</p>
+	<ul>
+	<li><p>the object speeds up</p></li>
+	<li><p>the object slows down</p></li>
+	<li><p>the object moves in a circle</p></li>
+	</ul>
+	</exercise>
+	<exercise>
+	<p>For each situation above, indicate the direction of the net force on the object.  Explain your reasoning.</p>
+	</exercise>
+		</exercises>
 		
-      <video youtube="Kn4wcsWCXgY"><description>Defining acceleration.</description></video>
+      <video youtube="0E8YGm-jm-U"><description>Reviewing circular motion.</description></video>
+			
+					<exercises>
+	<title>Changing the Direction of the Angular Velocity</title>
+	<p>As introduced in the video above, suppose you have an object rotating clockwise with angular velocity <m>\vec{\omega}</m>.</p>
+		<exercise>
+		<statement>
+	<p>For an object rotating clockwise (from your perspective), what is the direction of the angular velocity vector?</p>
+	</statement>
+	<answer>
+	<p>Into the screen (away from you).</p>
+	</answer>
+	</exercise>
+	<exercise>
+	<p>Indicate the direction of the angular acceleration of the object in each of the following situations.  In particular, how is the direction of the angular acceleration related to the direction of the angular velocity?  Explain your reasoning.</p>
+	<ul>
+	<li><p>the object speeds up</p></li>
+	<li><p>the object slows down</p></li>
+	<li><p>the angular velocity changes so that it traces out a circle<mdash/>what do you think this motion looks like?</p></li>
+	</ul>
+	</exercise>
+	<exercise>
+	<p>For each situation above, indicate the direction of the net torque on the object.  Explain your reasoning.</p>
+	</exercise>
+		</exercises>
+		
+		      <video youtube="FrsVevd38VQ"><description>Introducing precession.</description></video>
 	
 	<p>Precession refers to a type of motion in which a torque on a rotating object causes the <em>direction</em> of the axis of rotation to change, rather than causing the object's rotation to speed up or slow down.</p>
 
-
-	<exercises>
-	<title>Activities</title>
-	<exercise>
-	<p>Recall what you learned about tangential and centripetal acceleration for an object moving around a circle.  What change does the centripetal acceleration cause to the object's velocity?  What change does the tangential acceleration cause?  Compare the direction of each acceleration to the direction of the object's instantaneous velocity as it moves around the circle.</p>
-	</exercise>
-	<exercise>
-	<p>See if you can make an analogy between circular motion and precessional motion.  What must be true about the direction of the net torque on an object for it to undergo precession?</p>
-	</exercise>
-		</exercises>
 
   
 
