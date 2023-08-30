@@ -2,10 +2,8 @@
 
 <section xml:id="sec_curved-mirrors" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Curved Mirrors</title>
-  
-    <video youtube="Mun7c6RB140"><description>Video description.</description></video>
-
     <p>We can also use the ray model for light to explain images created by convex and concave mirrors.</p>
+    
     <assumption xml:id="a_mirror">
         <title>Parabolic Mirrors</title>
         <statement>
@@ -13,10 +11,14 @@
         </statement>
     </assumption>
 
+    <video youtube="x1Wadl5orv4"><description>How to draw ray diagrams for a concave mirror.</description></video>
+
     <figure xml:id="concave_mirror">
         <caption>Diagram of a concave mirror. Notice there are three rays which help us figure out where the image is: the first ray comes in parallel to the optical axis, and is reflected through the focal point. The second ray travels through the focal point and is reflected back parallel to the optical axis. The third ray hits the vertex of the mirror at the center, and is reflected back at the same incidence angle. Where the three rays intersect is there the top of the object is located. The image distance is negative for virtual images and positive for real images.</caption>
         <image source="optics/concave.jpg" width = "90%" ></image>
     </figure>
+    
+    <video youtube="JDUcQ5WfxcM"><description>How to draw ray diagrams for a convex mirror.</description></video>
 
     <figure xml:id="convex_mirror">
         <caption>Diagram of a convex mirror. An image is produced by extending the reflected rays into the mirror. There are at least two useful rays to draw. The first is parallel to the optical axis, and the reflected ray will extend back through the focal point of the mirror on the opposite side. The second is reflected at the vertex of the mirror, along the optical axis. The reflected ray is reflected at the incidence angle, and when extended backwards, will intersect with the first ray. The intersection point shows where the top of the object is.</caption>

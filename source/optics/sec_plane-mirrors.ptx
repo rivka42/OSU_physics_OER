@@ -2,10 +2,8 @@
 
 <section xml:id="sec_plane-mirrors" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Plane Mirrors</title>
-  
-    <video youtube="Mun7c6RB140"><description>Video description.</description></video>
-
     <p>We will use the ray model for light to understand how images are created in plane mirrors.</p>
+    <video youtube="UMvR165aw5E"><description>How images are produced by plane mirrors.</description></video>
 
     <figure xml:id="plane_mirror">
         <caption>Diagram of a plane mirror. An object sits at a distance <m>d_o</m> from the mirror, and an image is produced at a distance <m>d_i</m> behind the mirror.</caption>
