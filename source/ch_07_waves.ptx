@@ -18,7 +18,20 @@
 </p>
 
 </introduction>
+
+
+<xi:include href="./wave/sec_what-are-waves.ptx" />
+<xi:include href="./wave/sec_representations-of-waves.ptx" />
 <xi:include href="./wave/sec_1D_waves.ptx" /> 
+<xi:include href="./wave/sec_waves-string.ptx" />
+<xi:include href="./wave/sec_waves-fluid.ptx" /> 
+<xi:include href="./wave/sec_intensity.ptx" /> 
+<xi:include href="./wave/sec_loudness.ptx" /> 
+<xi:include href="./wave/sec_doppler.ptx" />
+<xi:include href="./wave/sec_superposition-waves.ptx" /> 
+<xi:include href="./wave/sec_interference.ptx" /> 
+<xi:include href="./wave/sec_phase-differences.ptx" />
+<xi:include href="./wave/sec_2source.ptx" /> 
 
 </chapter>
 

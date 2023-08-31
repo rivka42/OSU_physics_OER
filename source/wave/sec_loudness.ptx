@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_loudness" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Loudness</title>
+		
+      <video youtube="eDkmB-ROVkA"><description>Introducing loudness for sound waves.</description></video>
+	
+	<p>ADDME</p>
+	
+	<definition>
+	<title>ADDME</title>
+	<statement>
+		<p>The <term>angular momentum</term> of a rigid object about a given axis is the product of the object's moment of inertia and angular velocity about that axis: <me>\vec{L} = I\vec{\omega}</me></p>
+	</statement>
+</definition>
+
+
+		<exercises>
+	<title>Activities</title>
+			<exercise>
+			<title>Explanation - Reference Intensity</title>
+			  <p>How loud is a noise that has an intensity of <me>I = I_o</me></p>
+			</exercise>
+						<exercise>
+			<title>Calculation - Whisper Intensity</title>
+			  <p>What is the intensity of a whisper (about 30 dB)?  Include an explanation alongside your calculation.</p>
+			</exercise>
+		</exercises>
+
+  
+
+	
+</section>
+

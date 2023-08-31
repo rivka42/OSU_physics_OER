@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_representationa-of-waves" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Representations of Waves</title>
+		
+      <video youtube="pFTN-dsx-60"><description>Two representations for waves.</description></video>
+	
+	<p>ADDME</p>
+	
+	<definition>
+	<title>ADDME</title>
+	<statement>
+		<p>The <term>angular momentum</term> of a rigid object about a given axis is the product of the object's moment of inertia and angular velocity about that axis: <me>\vec{L} = I\vec{\omega}</me></p>
+	</statement>
+</definition>
+
+
+
+	<exercises>
+	<title>Activities</title>
+			<exercise xml:id="x_summarize-">
+			<title>Summarize What You Learned - </title>
+			  <p>Write a 1-2 sentence description of what the definitions of angular momentum say in words.  How can you tell which definition to use?</p>
+			</exercise>
+			<exercise>
+			<title>Sensemaking: Units</title>
+			<statement>
+			  <p>What are the units of angular momentum?  How do they compare to the units of translational momentum?</p>
+				</statement>
+				<answer>
+				<p>Js</p>
+				</answer>
+			</exercise>
+		</exercises>
+
+  
+
+	
+</section>
+

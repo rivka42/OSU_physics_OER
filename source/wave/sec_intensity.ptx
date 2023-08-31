@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_intensity" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Wave Intensity</title>
+	
+		<exercises>
+	<title>Warm-up Activity</title>
+			<exercise>
+			<title>Exploring Loudness</title>
+			  <p>You hear a loud noise.  Which wave property (frequency, wavelength, wave speed, amplitude, wave number, phase, etc.) do you think is related to how loud it is?</p>
+			</exercise>
+		</exercises>
+		
+      <video youtube="4NjGyoc5b-o"><description>Introducing intensity for waves</description></video>
+	
+	<p>ADDME</p>
+	
+	<definition>
+	<title>ADDME</title>
+	<statement>
+		<p>The <term>angular momentum</term> of a rigid object about a given axis is the product of the object's moment of inertia and angular velocity about that axis: <me>\vec{L} = I\vec{\omega}</me></p>
+	</statement>
+</definition>
+
+		<exercises>
+	<title>Activities</title>
+			<exercise>
+			<title>Explanation - Distance and Intensity</title>
+			  <p>Your friend measures the intensity of a sound wave to be <m>I</m>.  If you are twice as far away from the source of the wave as your friend, what will you measure the intensity to be?  Explain your reasoning.</p>
+			</exercise>
+		</exercises>
+
+  
+
+	
+</section>
+

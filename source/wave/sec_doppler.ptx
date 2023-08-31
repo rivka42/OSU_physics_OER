@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_doppler" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Doppler Effect</title>
+	
+			<exercises>
+	<title>Warm-up Activity</title>
+			<exercise>
+			<title>Exploring Pitch</title>
+			  <p>You hear a loud noise.  Which wave property (frequency, wavelength, wave speed, amplitude, wave number, phase, etc.) do you think is related to the pitch?</p>
+			</exercise>
+		</exercises>
+
+      <video youtube="imoxDcn2Sgo"><description>A demonstration of the Doppler Effect.</description></video>
+		
+      <video youtube="W4DGHEMIqXk"><description>Introducing the Doppler Effect.</description></video>
+	
+	<p>ADDME</p>
+	
+	<definition>
+	<title>ADDME</title>
+	<statement>
+		<p>The <term>angular momentum</term> of a rigid object about a given axis is the product of the object's moment of inertia and angular velocity about that axis: <me>\vec{L} = I\vec{\omega}</me></p>
+	</statement>
+</definition>
+
+
+
+	<exercises>
+	<title>Activities</title>
+			<exercise xml:id="x_summarize-doppler">
+			<title>Summarize What You Learned - </title>
+			  <p>Use what you learned to give a brief explanation of what you observed in the first video.</p>
+			</exercise>
+		</exercises>
+
+  
+  
+<references>
+<biblio xml:id="ref_doppler">
+<p>Fire Engine Siren Demonstrates The Doppler Effect by davidrobert2007.</p>
+</biblio>
+</references>
+	
+</section>
+
