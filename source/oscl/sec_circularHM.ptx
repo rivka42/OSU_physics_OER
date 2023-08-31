@@ -14,7 +14,7 @@ Circular motion projected onto one spatial dimension is oscillatory motion.
     
     <figure xml:id="circular_HM2">
     	<caption>Circular motion is related to oscillatory motion.</caption>
-    		<image source="oscillate/circularHM2.gif" width = "100%" ></image>
+    		<image source="oscillate/circularHM2.gif" width = "100%" loop="infinite" ></image>
     </figure>
 
 

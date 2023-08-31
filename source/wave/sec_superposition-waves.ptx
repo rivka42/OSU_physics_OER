@@ -40,6 +40,17 @@
 	</statement>
 </definition>
 
+    <figure xml:id="superP">
+    	<caption>The superposition of two wave pulses.</caption>
+    		<image source="wave/superP.gif" width = "75%" ></image>
+    </figure>
+
+
+<references>
+<biblio xml:id="superPref">
+<p>Superposition animation <xref ref="superP"></xref> courtesy of Dr. Dan Russell, Grad. Prog. Acoustics, Penn State. licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</p>
+</biblio>
+</references>
 
   
 
