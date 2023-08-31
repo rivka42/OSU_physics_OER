@@ -17,14 +17,14 @@ The small-angle approximation considers only the first term in the sum.
 <men> \sin(\theta) \approx \theta</men>
 <men> \cos(\theta) \approx 1</men>
 
-In figure <xref ref="small-angle"></xref> we show a graphical representation the small-angle approximation for the <m> \sin(\theta)</m> function in action. We can see the linear function <m> \theta</m> and the trigonometric function <m> \sin(\theta)</m> closely match each other when the angle is small. </p>
+In figure <xref ref="small-angle"></xref> we show a graphical representation of the small-angle approximation for the <m> \sin(\theta)</m> function. We can see the linear function <m> \theta</m> and the trigonometric function <m> \sin(\theta)</m> closely match each other when the angle is small. </p>
 
 <figure xml:id="small-angle">
     	<caption>Graphical representation of the small-angle approximation for the <m>\sin\theta</m> function.</caption>
     		<image source="oscillate/small_angle.png" width = "100%" ></image>
     </figure>
     
-  <p>  
+ <p>  
 We should always take time to think about and determine the error associated with introducing approximations in our calculations. 
 
  </p>
@@ -35,7 +35,7 @@ We should always take time to think about and determine the error associated wit
 		<exercise>
 		<title>Analyzing the Equation of Motion</title>
 		<statement>
-		<p>Looking at equation <xref ref="pendulumE2"></xref> apply the small angle approximation to determine an equation of motion. The determine the oscillation frequency of the simple pendulum. </p>
+		<p>Looking at equation <xref ref="pendulumE2"></xref> apply the small-angle approximation to determine an equation of motion. The determine the oscillation frequency of the simple pendulum. </p>
 		</statement>
 		<answer>
 		<p> Applying the small-angle approximation we find that <m> \sin\theta \approx \theta</m> and our equation of motion becomes,

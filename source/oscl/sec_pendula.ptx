@@ -41,7 +41,7 @@ This is the equation of motion for the pendulum in terms of the angular position
 		<exercise>
 		<title>Analyzing the Equation of Motion</title>
 		<statement>
-		<p>Looking at equation <xref ref="pendulumE2"></xref>, does this equation of motion satisfy the condition proposed in <xref ref="HM_model"></xref> and <xref ref="HM_model2"></xref>? Explain why or why not. </p>
+		<p>Looking at equation <xref ref="pendulumE2"></xref>, does this equation of motion satisfy the condition proposed in <xref ref="HM_model"></xref>? Explain why or why not. </p>
 		</statement>
 		<answer>
 		<p>The equation of motion for the simple pendulum does not satisfy the condition. We can see that the restoring force is not directly proportional to the angular displacement. Instead, it depends on <m> \sin\theta(t)</m>. </p>
