@@ -4,7 +4,55 @@
   <title>Energy Conservation in SHM</title>
 			
 <p>
-energy is conserved...
+We previously discussed that forces that are position dependent generally have associated potential energy functions. Kinetic energy is an energy of movement. Kinetic energy can be transformed into potential energy as an object changes position. Potential energy is an <em> energy of position</em>, and so it makes sense that the associated interaction forces are position dependent. Systems that <em>interact</em> gravitationally, elastically or as we will later encounter, electrically, are imbued with potential energy and the associated forces are called <alert>conservative forces</alert> .
+</p> 
+
+<p>
+Recall that the change in potential energy can be calculated as the negative value of the work done by the interaction force, and work is the sum of the component of force that is in the same direction as the object's displacement vector as it moves from one position to the next,
+
+<me> \Delta U = -W_{int} = - \int_{r_0}^{r_f}\vec{F}(r) \cdot d\vec{r}</me>
+
+Here <m> \vec{r} </m> represents a position vector and <m> d\vec{r} </m> is an infinitesimal change in position. A conservative force is a force in which the work done when moving from some initial position to some final position is independent of the path the object takes in space. A condition for a force to be conservative is that an object returning to its starting position will do so with no loss of energy if the initial and final points are the same. All dissipative forces such as friction and air drag are considered <alert> non-conservative</alert> since they dissipate energy as the object moves through space.
+</p>
+
+<p>
+Recall the spring force, where we have taken the equilibrium position to be located at <m> x = 0 </m>, 
+
+<me> \vec{F}(x) = -kx \hat{x}</me>
+
+Plugging this into the work integral we find the change in potential energy for the system
+
+<me> \Delta U = U(x) - U_0 = \frac{1}{2} k x^2 </me>
+
+Recall we can always set the zero point of potential energy to <m> U_0 = 0</m>. The total mechanical energy of the spring system is the sum of kinetic and potential energies
+
+<me> E = K + U = \frac{1}{2} m v^2 + \frac{1}{2} k x^2</me>
+
+This holds as long as we assume no dissipative forces act on the system. </p>
+
+<figure xml:id="energySHM">
+    	<caption>Position function of an object in Simple Harmonic Motion.</caption>
+    		<image source="oscillate/energySHM.png" width = "100%" ></image>
+</figure>
+
+<p>
+There are some special cases to consider. As the system oscillates, kinetic and potential energy are exchanged. When <m> x = \pm A </m> (see <xref ref="energySHM"></xref>), the system only has potential energy
+
+<me> U(x) =  \frac{1}{2} k A^2 </me>
+
+As the system passes through the equilibrium position <m> x = 0 </m> and the velocity is maximal <m> v = \pm v_{max}</m> (see <xref ref="sec_graphTrig"></xref>), the system only has kinetic energy,
+
+<me> K = \frac{1}{2} m v_{max}^2</me>
+
+Conservation of energy allows us to write the total energy of the system in multiple ways.  
+
+<me> E = \frac{1}{2} m v^2 + \frac{1}{2} k x^2 = \frac{1}{2} k A^2 =  \frac{1}{2} m v_{max}^2 </me>
+
+The first term accounts for positions between <m> x=0 </m> and <m> x=\pm A</m>. The last two expression represent the energy at . <m> x=\pm A</m> and <m> x = 0 </m> respectively. These relations are very useful for analyzing spring systems using an energy approach. 
+</p>
+
+<p>
+You may ask where is potential energy stored? Potential energy is stored in <em>fields</em>. Gravitational potential energy is stored in the gravitational field. Electric potential energy in the electric field. Our modern understanding of long-range forces such as gravity is that these forces can act over long distances because any mass creates a field that pervades all space. Any other mass that encounters this field will feel a force. We will learn much more about fields when we study electricity and magnetism in a later section. 
 </p>
     
 
