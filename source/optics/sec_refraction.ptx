@@ -22,10 +22,10 @@
     <principle>
         <title>The Law of Refraction (Snell's Law)</title>
         <statement>
-          <p>Light refracts (bends) when it enters into a different medium: <m>n_1 \mathrm{sin}(\theta_1) = n_2 \mathrm{sin}(\theta_2)</m>.
+          <p>Light refracts (bends) when it enters into a different medium: <me>n_1 \mathrm{sin}(\theta_1) = n_2 \mathrm{sin}(\theta_2)</me>.
             <figure xml:id="refraction">
             <caption>A diagram of the Law of Refraction.</caption>
-                <image source="optics/refraction.png" width = "90%" ></image>
+                <image source="optics/refraction.jpg" width = "90%" ></image>
         </figure></p>
         </statement>
     </principle>

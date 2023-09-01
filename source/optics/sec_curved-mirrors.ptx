@@ -17,13 +17,6 @@
         <caption>Diagram of a concave mirror. Notice there are three rays which help us figure out where the image is: the first ray comes in parallel to the optical axis, and is reflected through the focal point. The second ray travels through the focal point and is reflected back parallel to the optical axis. The third ray hits the vertex of the mirror at the center, and is reflected back at the same incidence angle. Where the three rays intersect is there the top of the object is located. The image distance is negative for virtual images and positive for real images.</caption>
         <image source="optics/concave.jpg" width = "90%" ></image>
     </figure>
-    
-    <video youtube="JDUcQ5WfxcM"><description>How to draw ray diagrams for a convex mirror.</description></video>
-
-    <figure xml:id="convex_mirror">
-        <caption>Diagram of a convex mirror. An image is produced by extending the reflected rays into the mirror. There are at least two useful rays to draw. The first is parallel to the optical axis, and the reflected ray will extend back through the focal point of the mirror on the opposite side. The second is reflected at the vertex of the mirror, along the optical axis. The reflected ray is reflected at the incidence angle, and when extended backwards, will intersect with the first ray. The intersection point shows where the top of the object is.</caption>
-        <image source="optics/convex.jpg" width = "90%" ></image>
-    </figure>
 
     <definition>
         <title>The Mirror Equation</title>
@@ -40,6 +33,29 @@
     
     <exercises>
         <title>Curved Mirror Activities</title>
+            <exercise>
+                <title>Convex Mirrors</title>
+                <p>Find where the image is located for this convex mirror.
+                    <figure xml:id="empty_convex_mirror">
+                        <caption>Empty diagram of a convex mirror. Where is the image located?</caption>
+                        <image source="optics/empty_convex.jpg" width = "90%" ></image>
+                    </figure>
+                </p>
+                <answer>
+                    <p> Check the following ray diagram and compare it with your own. How did you do? If you made any mistakes, list them and indicate how you need to change your rays in order to produce the correct image.
+                        <figure xml:id="convex_mirror">
+                        <caption>Diagram of a convex mirror. An image is produced by extending the reflected rays into the mirror. There are at least two useful rays to draw. The first is parallel to the optical axis, and the reflected ray will extend back through the focal point of the mirror on the opposite side. The second is reflected at the vertex of the mirror, along the optical axis. The reflected ray is reflected at the incidence angle, and when extended backwards, will intersect with the first ray. The intersection point shows where the top of the object is.</caption>
+                        <image source="optics/convex.jpg" width = "90%" ></image>
+                        </figure> 
+                    </p>   
+                    <p>    
+                        Finally, the following video may help you understand how to draw these rays.
+                    </p>
+                    <p>
+                        <video youtube="JDUcQ5WfxcM"><description>How to draw ray diagrams for a convex mirror.</description></video>
+                    </p>
+                </answer>
+            </exercise>
             <exercise xml:id="x_spherical-mirror">
                 <title>Curved Mirrors</title>
                 <p>Spend some time playing with the following simulation. Make sure to click the "Mirror" option. Select the concave mirror first.

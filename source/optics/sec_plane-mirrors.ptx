@@ -2,8 +2,10 @@
 
 <section xml:id="sec_plane-mirrors" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Plane Mirrors</title>
-    <p>We will use the ray model for light to understand how images are created in plane mirrors.</p>
+    <p>We will use the ray model for light to understand how <term>images</term> are created in plane mirrors.</p>
     <video youtube="UMvR165aw5E"><description>How images are produced by plane mirrors.</description></video>
+
+    <p>Images are produced by intersecting light rays and can be seen all over our natural world.</p>
 
     <figure xml:id="plane_mirror">
         <caption>Diagram of a plane mirror. An object sits at a distance <m>d_o</m> from the mirror, and an image is produced at a distance <m>d_i</m> behind the mirror.</caption>
@@ -17,12 +19,7 @@
         </statement>
     </principle>
 
-    <definition>
-        <title>Real Images</title>
-        <statement>
-            <p>A <term>Real Image</term> is created when light rays travel through the image location. These images will have a positive image distance.</p>
-        </statement>
-    </definition>
+    <p>In this situation, we are seeing a <term>virtual image</term>. These types of images are produced when light rays don't physically travel to the image location. When we are looking at ourselves in a mirror, there isn't a physical copy of us inside the mirror. The image that we see of ourselves is virtual.</p>
 
     <definition>
         <title>Virtual Images</title>
@@ -36,7 +33,7 @@
             <exercise xml:id="x_plane-mirror">
                 <title>Plane Mirror Simulation</title>
                 <p>Spend some time playing with the following simulation. Click on the "Mirror" option. At the top of the screen, select the flat mirror option. 
-                    <url href="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html"/>
+                    <url href="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html"/>
                 </p>
                 <p>Make some observations as you move the object away from and towards the mirror.</p>
             </exercise>

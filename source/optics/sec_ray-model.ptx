@@ -4,17 +4,18 @@
     <title>Ray Model for Light</title>
 
     <p><alert>Introductory Activity:</alert> Start by writing 2-4 things about the way that light travels that you are familiar with.</p>
+    <p>Light is a critical aspect of everyday life, and its behavior in different circumstances is important to model and understand.  For most everyday contexts, you can assume that light travels in straight lines, which is known as the Ray Model of Light.</p>
 
     <video youtube="PEZG46lWKhQ"><description>Introducing the ray model for light.</description></video>
 
-    <p>Light is a critical aspect of everyday life, and its behavior in different circumstances is important to model and understand.  For most everyday contexts, you can assume that light travels in straight lines, which is known as the Ray Model of Light.</p>
-		
-			<assumption xml:id="a_ray-model">
-	<title>The Ray Model for Light</title>
-	<statement>
-		<p>In the <term>Ray Model</term>, light is treated as a collection of rays emerging from a point source of light<fn>a point source is any small source of light, such as a light bulb or a candle; larger sources of light, such as the sun, may be thought of as a collection of point sources</fn>.  Each ray may be represented as a line marked with an arrow indicating the direction the ray is traveling.  You will learn in future sections when the ray model is no longer a good assumption for the behavior of light.</p>
-	</statement>
-</assumption>
+	<assumption xml:id="a_ray-model">
+	    <title>The Ray Model for Light</title>
+	    <statement>
+		    <p>In the <term>Ray Model</term>, light is treated as a collection of rays emerging from a point source of light<fn>a point source is any small source of light, such as a light bulb or a candle; larger sources of light, such as the sun, may be thought of as a collection of point sources</fn>.  Each ray may be represented as a line marked with an arrow indicating the direction the ray is traveling.  You will learn in future sections when the ray model is no longer a good assumption for the behavior of light.</p>
+	    </statement>
+    </assumption>
+
+    <p>We will be using the ray model for light to draw <term>Ray Diagrams</term>. These diagrams help us figure out where light is coming from and where light is travelling to. They can be very helpful when trying to figure out how light is interacting with a particular mechanism. These diagrams will come in handy as we discuss lenses and mirrors in the next few sections.</p>
 
     <exercises>
         <title>Ray Diagram Activities</title>
@@ -27,9 +28,9 @@
                 <title>Practice: Pinhole Camera</title>
                 <p><figure xml:id="pinhole_camera">
                     <caption>A ray diagram of a pinhole camera. Light travels from the arrow to the back of the camera to create an image.</caption>
-                        <image source="optics/pinhole_camera.png" width = "90%" ></image>
+                        <image source="optics/pinhole_camera.jpg" width = "90%" ></image>
                 </figure></p>
-                <p>A pinhole camera, also called a camera obscura, is an optical phenomenon that occurs when light travels through a very small aperture. Using the figure above, predict what the image will look like. Find other examples of pinhole cameras online. What sort of observations can you make? Can you make a pinhole camera yourself?</p>
+                <p>A pinhole camera, also called a camera obscura, is an optical phenomenon that occurs when light travels through a very small aperture. Using the figure above, where should you stand in order to see what is on the screen? What do you see on the screen? Find other examples of pinhole cameras online. What sort of observations can you make? Can you make a pinhole camera yourself?</p>
             </exercise>
     </exercises>
 </section>

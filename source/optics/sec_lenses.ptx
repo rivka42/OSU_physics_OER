@@ -83,5 +83,13 @@
                     <li>Play with the different lens options. How are they similar and how are they different?</li>
                 </ol>
             </exercise>
+            <exercise>
+                <title>Summarize</title>
+                <p>Summarize what you've learned about lenses. Use the following figure in your explanation. Explain each part of the diagram, whether it is a converging or diverging lens, and what type of image is produced and why. Can you come up with a set of rules to follow that will help you draw ray diagrams for lenses?</p>
+                <figure>
+                    <caption>A summary of ray diagrams involving lenses. The red arrow is the object, and the green arrow is the image.</caption>
+                    <image source="optics/lens_summary.jpg"></image>
+                </figure>
+            </exercise>
     </exercises>
 </section>
