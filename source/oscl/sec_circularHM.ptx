@@ -4,24 +4,68 @@
   <title>Relationship to Circular Motion</title>
 			
 <p>
-Circular motion projected onto one spatial dimension is oscillatory motion.
+Consider a particle in uniform circular motion with angular velocity <m> \omega </m>. The x-component of the particle's position when the particle has angular position <m> \phi</m> and radius <m> r=A </m> can be written using trigonometric relations as
+
+<me> x = A\cos(\phi) </me>
+
+We will now show that this is equivalent to the position function <m> x(t) = A \cos(\omega t + \phi_0) </m> for an oscillation where the particle has initial conditions <m> \phi_0 = 0 </m>  at <m> t=0 </m>. Recall the angular velocity is the rate of change of angular position
+
+<me> \phi = \frac{d\theta}{dt} </me> 
+
+This equation is separable. A small change in angle can be written, 
+
+<me> d\phi = \omega dt </me>
+
+If the particle is in uniform circular motion, then <m> \omega </m> is constant in time. Integrating both sides of the relationship
+
+<me> \int_{\phi_0}^{\phi} d \phi = \omega \int_{0}^{t} dt \rightarrow \phi = \omega t +\phi_0 </me>
+
+As time increases, the particle's x-component can be written as
+
+<me> x(t) = A \cos(\omega t + \phi_0) </me>
+
+We see that as the particle moves in a circle, it's projection onto the x-axis oscillates between <m> x = \pm A </m>. Thus, <alert> uniform circular motion is simple harmonic motion when projected onto one spatial axis </alert>. 
 </p>
 
- <figure xml:id="circular_HM">
+<figure xml:id="circular_HM">
+    	<caption>Position function of an object in Simple Harmonic Motion.</caption>
+    		<image source="oscillate/circularHM.png" width = "100%" ></image>
+</figure>
+
+
+<p>
+This also helps us understand the meaning of the <alert> phase constant </alert>. The <alert> phase </alert> of the motion is determined by the quantity <m> \phi = \omega t +\phi_0</m> and represents the angle of the particle in circular motion. The phase constant <m> \phi_0 </m>  is the initial angle when <m> t = 0 </m>. Setting <m> t = 0 </m> in our position function for a simple harmonic oscillator, we can find the initial x-position
+
+<me> x_0 = A \cos(\phi_0) </me> 
+
+Thus different values of the phase constant represent different starting points on the circle and correspond to different <em> initial conditions </em> of the motion. 
+</p>
+
+ <figure xml:id="circular_HM1">
     	<caption>Circular motion is related to oscillatory motion.</caption>
-    		<image source="oscillate/circularHM.gif" width = "100%" ></image>
+    		<image source="oscillate/circularHM1.gif" width = "100%" ></image>
     </figure>
     
     <figure xml:id="circular_HM2">
     	<caption>Circular motion is related to oscillatory motion.</caption>
     		<image source="oscillate/circularHM2.gif" width = "100%" loop="infinite" ></image>
     </figure>
+    
+     <figure xml:id="circular_HM3">
+    	<caption>Circular motion is related to oscillatory motion.</caption>
+    		<image source="oscillate/circular_HM3.gif" width = "100%"  ></image>
+    </figure>
+
 
 
     
 <references>
 <biblio>
-<p>Image from Kathy's website or imgur? Not sure how to reference? Maybe get Jadon to create a gif? what about this one (http://www1.phys.vt.edu/~takeuchi/Tools/)?</p>
+<p>*need to find a gif image that can be referenced* Image from Kathy's website is hosted on imgur. Not sure how to reference? Maybe get Jadon to create a gif? We could also reach out to (http://www1.phys.vt.edu/~takeuchi/Tools/) to see if we can use the image gif. </p>
+</biblio>
+
+<biblio>
+<p> Simple harmonic motion animation by Chetvorno on Wikimedia Commons published under Creative Commons CC0 1.0 Universal Public Domain Dedication.</p>
 </biblio>
 </references>
 		
