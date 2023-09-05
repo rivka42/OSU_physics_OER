@@ -4,9 +4,12 @@
     <title>Two-Slit Interference</title>
   
     <video youtube="C0bcn8GAWs4"><description>Quantifying the interference of light incident on two small slits.</description></video>
-		
-		<p>NOTE: SOME OF THESE EQUATIONS, ESPECIALLY PATH LENGTH DIFFERENCE, MIGHT GO BETTER IN THE WAVES SECTION ON INTERFERENCE</p>
 
+    <p>The Double-Slit Experiment was originally conducted by Thomas Young in 1801 to show that light does indeed behave like a wave. Just like water waves interacting with each other, as light travels through two slits, the crests and troughs of the light waves will interact with each other and produce an interference pattern on the screen behind the slits.</p>
+		
+	<p>NOTE: SOME OF THESE EQUATIONS, ESPECIALLY PATH LENGTH DIFFERENCE, MIGHT GO BETTER IN THE WAVES SECTION ON INTERFERENCE</p>
+
+    <p>The spacing of the interference pattern can be determined by looking at the path length difference of the rays exiting the slits.</p>
     <figure>
         <caption>Interference pattern produced by light travelling through two adjacent slits. The central maxima is at a value of <m>m = 0</m>.</caption>
         <image source="optics/double_slit.jpg"></image>

@@ -12,7 +12,7 @@
     <principle>
         <title>The Law of Reflection</title>
         <statement>
-          <p>For a ray of light incident on a locally flat mirror, the reflected angle <m>\theta_{r}</m> is equal to the incident angle <m>\theta_{i}</m>, both measured from line normal to the surface: <me>\theta_{r} = \theta_{i}</me>
+          <p>For a ray of light incident on a locally flat mirror, the reflected angle <m>\theta_{r}</m> is equal to the incident angle <m>\theta_{i}</m>, both measured from the line normal to the surface: <me>\theta_{r} = \theta_{i}</me>
             <figure xml:id="reflection">
                 <caption>A diagram of the Law of Reflection.</caption>
                     <image source="optics/reflection.png" width = "90%" ></image>

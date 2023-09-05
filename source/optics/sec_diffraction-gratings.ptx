@@ -2,6 +2,7 @@
 
 <section xml:id="sec_diffraction-gratings" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Diffraction Gratings</title>
+    <p>Diffraction gratings are an optical tool that are made up of many many slits side by side.</p>
   
     <video youtube="Mun7c6RB140"><description>Video description.</description></video>
 
@@ -22,6 +23,11 @@
             <li>
                 <p>
                     What happens to the diffraction pattern if the wavelength increases? If it decreases?
+                </p>
+            </li>
+            <li>
+                <p>
+                   Now consider what happens if you have white light passing through your diffraction grating. How does a diffraction grating affect redder colors? How does it affect bluer colors? Predict what you might see on the screen.  
                 </p>
             </li>
         </ol>
