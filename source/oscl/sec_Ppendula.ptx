@@ -8,7 +8,7 @@ A pendulum does not need to be a simple mass on a string. In fact, many objects 
     
     <figure xml:id="Ppendulum">
     	<caption>A rigid-body pendulum.</caption>
-    		<image source="oscillate/Ppend2.png" width = "100%" ></image>
+    		<image source="oscillate/Ppend2.png" width = "75%" ></image>
     </figure>
     
 <p>
@@ -34,7 +34,7 @@ This equation is general for any rigid-body object so long as we specify the mom
 
 <references>
 <biblio>
-<p>Vectors vs. Scalars by Dr. Michelle Tomasik from MIT 8.01 Classical Mechanics, Fall 2016, used under Creative Commons BY-NC-SA.</p>
+<p><xref ref="Ppendulum"></xref> created by Rebecka Tumblin.</p>
 </biblio>
 </references>
 		

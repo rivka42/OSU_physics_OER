@@ -7,6 +7,11 @@
 The models we have built for simple harmonic motion of spring, simple pendulums, and rigid body oscillators have not included dissipative forces such as friction. We know from experience that a pendulum left to oscillate will lose energy to the system. The amplitude decreases in time until all energy has been dissipated and the system comes to rest. An oscillation whose amplitude decreases in time is called a <alert> damped oscillation</alert>. Energy dissipation can be caused by dissipative forces such as air resistance or friction. 
  </p>
  
+ <figure xml:id="Damped_spring">
+    	<caption>A mass on a spring including dissipative forces.</caption>
+    		<image source="oscillate/Damped_spring.gif" width = "15%" ></image>
+    </figure>
+ 
  <p>
 We will now analyze a spring system and consider the effects of air drag. We will assume a drag force that is directly proportional to the velocity.
  
@@ -16,7 +21,7 @@ Recall that the <alert>damping constant </alert>, <m>b</m>, depends on the shape
 </p>
 
 <figure xml:id="mass_spring_damp">
-    	<caption>A mass on a spring.</caption>
+    	<caption>A mass on a spring including drag forces.</caption>
     		<image source="oscillate/mass_spring_damp.png" width = "100%" ></image>
     </figure>
 
@@ -89,8 +94,14 @@ The oscillation frequency is given by,
 		</exercises>
 
 <references>
+
 <biblio>
-<p>Vectors vs. Scalars by Dr. Michelle Tomasik from MIT 8.01 Classical Mechanics, Fall 2016, used under Creative Commons BY-NC-SA.</p>
+<p><xref ref="Damped_spring"></xref> created by Oleg Alexandrov published on Wikipedia under Public Domain.</p>
+</biblio>
+
+
+<biblio>
+<p><xref ref="mass_spring_damp"></xref> created by Rebecka Tumblin.</p>
 </biblio>
 </references>
 		
