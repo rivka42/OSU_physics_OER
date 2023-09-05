@@ -2,36 +2,42 @@
 
 <section xml:id="sec_intensity" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Wave Intensity</title>
-	
-		<exercises>
-	<title>Warm-up Activity</title>
-			<exercise>
-			<title>Exploring Loudness</title>
-			  <p>You hear a loud noise.  Which wave property (frequency, wavelength, wave speed, amplitude, wave number, phase, etc.) do you think is related to how loud it is?</p>
-			</exercise>
-		</exercises>
+    <exercises>
+      <title>Warm-up Activity</title>
+        <exercise>
+          <title>Exploring Loudness</title>
+          <p>You hear a loud noise.  Which wave property (frequency, wavelength, wave speed, amplitude, wave number, phase, etc.) do you think is related to how loud it is?</p>
+        </exercise>
+    </exercises>
 		
-      <video youtube="4NjGyoc5b-o"><description>Introducing intensity for waves</description></video>
+<video youtube="4NjGyoc5b-o"><description>Introducing intensity for waves</description></video>
 	
-	<p>ADDME</p>
+<p>Consider a wave on a string. Any point along the string moves up and down as a wave passes through it. The average velocity of a point on the string is related to the amplitude of the wave and also to how quickly the motion changes from up to down – thus the frequency.</p>
+
+<p>
+	<me> K = \frac{1}{2}mv^2</me>
+	<me> E \propto f^2 A^2</me>
+</p>
+
+<p>
+The kinetic energy of the mass at that point depends on the square of the velocity. We can infer that the energy of the wave goes as the square of the amplitude, and the square of the frequency.	
+</p>
 	
-	<definition>
-	<title>ADDME</title>
-	<statement>
-		<p>The <term>angular momentum</term> of a rigid object about a given axis is the product of the object's moment of inertia and angular velocity about that axis: <me>\vec{L} = I\vec{\omega}</me></p>
-	</statement>
+<definition>
+  <title>intensity</title>
+   <statement>
+	   <p>The <term>intensity</term> of a wave emanating from a point source: <me>I = \frac{P}{a}</me> where P is power and a is the surface area of a sphere.</p>
+<p>We define the intensity I of a wave to be the power delivered by the wave, divided by the area that the wave impinges upon. The units of intensity are Watts per square meter.
+</p>
+   </statement>
 </definition>
-
-		<exercises>
-	<title>Activities</title>
-			<exercise>
-			<title>Explanation - Distance and Intensity</title>
-			  <p>Your friend measures the intensity of a sound wave to be <m>I</m>.  If you are twice as far away from the source of the wave as your friend, what will you measure the intensity to be?  Explain your reasoning.</p>
-			</exercise>
-		</exercises>
-
-  
-
+<exercises>
+  <title>Activities</title>
+   <exercise>
+    <title>Explanation - Distance and Intensity</title>
+      <p>Your friend measures the intensity of a sound wave to be <m>I</m>.  If you are twice as far away from the source of the wave as your friend, what will you measure the intensity to be?  Explain your reasoning.</p>
+   </exercise>
+</exercises>
 	
 </section>
 
