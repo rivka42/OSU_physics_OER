@@ -41,8 +41,19 @@ This is the equation of motion of a damped mass on a spring. Since we know that 
 The oscillation frequency is given by,
 
 <men> \omega = \sqrt{\frac{k}{m} +\frac{b^2}{4m}}=\frac{2 \pi}{T}</men>
- 
+
+We see that the oscillation frequency is equivalent to the original oscillation frequency modified by the quantity <m> b^2/4m^2 </m>. Below we show a graph of the position as a function of time for the damped oscillator. The cosine function modified by the exponential decay is shown. The We see that the envelope of the amplitude decays in time. The maximum displacement away from equilibrium decreases according to the function
+
+<me> x_{max}(t) = A \exp(-bt/2m)</me>
 </p>
+
+<figure xml:id="damped_pos">
+    	<caption>The position as a function of time for the damped oscillator.</caption>
+    		<image source="oscillate/damped2.png" width = "100%" ></image>
+    </figure>
+
+ 
+
 
 <exercises>
 		<title>Activities</title>
@@ -101,7 +112,7 @@ The oscillation frequency is given by,
 
 
 <biblio>
-<p><xref ref="mass_spring_damp"></xref> created by Rebecka Tumblin.</p>
+<p><xref ref="mass_spring_damp"></xref> and <xref ref="damped_pos"></xref>created by Rebecka Tumblin.</p>
 </biblio>
 </references>
 		

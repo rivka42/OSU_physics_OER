@@ -2,6 +2,47 @@
 
 <section xml:id="sec_what-are-waves" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>What Are Waves</title>
+  
+<p> A <alert>mechanical wave</alert> is an organized disturbance which travels through a material or a <alert>medium</alert>. This medium could be air, water, a guitar string or the fluid that makes up the core of the Earth. Any medium that can sustain a wave must have some elasticity. As a wave disturbance propagates through a medium, the particles that make up the medium are displaced away from equilibrium and experience local oscillations. However, it is important to note that the particles in the medium <alert>do not</alert> travel with the wave.  </p>
+
+    <figure xml:id="sound_wave">
+    	<caption>A sound wave. As the wave disturbance propagates through the medium, the particles that make up the air oscillate, but do not travel with the wave. </caption>
+    		<image source="wave/longitudinal.gif" width = "75%" ></image>
+    </figure>
+
+
+<p> 
+ The medium has some restoring force, such as tension in a string or viscous forces in water which allows the medium experience local oscillations as the wave passes. 
+</p>
+
+<p> 
+A wave disturbance is created by a <alert> source </alert>. The source of waves are external oscillations of the medium. This could be in the form of a finger plucking a string, or a rock tossed into a pond. Once the medium has been disturbed, a wave propagates away from the source of that disturbance at a particular speed called the <alert> wave speed </alert>. This wave speed depends on the properties of the medium, and particularly, restoring forces provided by the elasticity of the medium such as tension in a plucked string or cohesion in water. 
+</p>
+
+<p>
+A <alert> transverse wave </alert> is a wave in which the displacement of the medium is perpendicular to the direction that the disturbance travels. 
+</p>
+
+<figure xml:id="stringpulse">
+    	<caption>A rigid-body pendulum.</caption>
+    		<image source="wave/stringpulse.gif" width = "75%" ></image>
+    </figure>
+
+
+<p>
+A <alert> longitudinal wave </alert> is a wave in which the displacement of the medium is parallel to the direction that the disturbance travels. 
+</p>
+
+<figure xml:id="wavepulse">
+    	<caption>A rigid-body pendulum.</caption>
+    		<image source="wave/wavepulse.gif" width = "75%" ></image>
+    </figure>
+
+
+<p>
+You may ask, if the medium is not traveling with the disturbance, then what is? A wave disturbance carries <alert> energy </alert> and <alert> momentum </alert> from point to point in the medium.
+</p>
+
 	
 <exercises>
 <title>Introductory Activities</title>
@@ -24,10 +65,9 @@
 		
 <video youtube="YBq2YvzK9MU"><description>Introducing waves.</description></video>
 	
-<p> A <alert>wave</alert> is a disturbance which travels through a medium. As the wave travels through the medium, particles that make up the medium may experience local oscillations as the wave passes, but it is important to note that the particles in the medium <alert>do not</alert> travel with the wave. You may ask, if the medium is not traveling with the disturbance, then what is? A wave disturbance carries <alert>energy</alert> from point to point in the medium. </p>
 	
 <definition>
-<title>ADDME</title>
+<title>Wave</title>
 <statement>
 <p>A <term>wave</term> is a disturbance which travels through a medium. </p>
 </statement>
@@ -43,7 +83,7 @@
 <p>Longitudinal pulse by Gorazd Planinsic, FMF UL.</p>
 </biblio>
 <biblio xml:id="DR_wave">
-<p>Animation courtesy of Dr. Dan Russell, Grad. Prog. Acoustics, Penn State. licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</p>
+<p> Animations in <xref ref="sound_wave"></xref>, <xref ref="wavepulse"></xref> and <xref ref="stringpulse"></xref> courtesy of Dr. Dan Russell, Grad. Prog. Acoustics, Penn State. licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. For more information see <url> https://www.acs.psu.edu/drussell/demos.html</url></p>
 </biblio>
 </references>
 

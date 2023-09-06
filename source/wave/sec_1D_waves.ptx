@@ -3,18 +3,19 @@
 <section xml:id="sec_1D_waves" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Sinusoidal Waves</title>
 			
-      <video youtube="N0WNzZYDzkU"><description>An introduction to sinusoidal waves.</description></video>
-	
-	<p>ADDME</p>
-	
-	<definition>
-	<title>ADDME</title>
-	<statement>
-		<p>The <term>angular momentum</term> of a rigid object about a given axis is the product of the object's moment of inertia and angular velocity about that axis: <me>\vec{L} = I\vec{\omega}</me></p>
-	</statement>
-</definition>
+  	
+<p>Waves can be any shape or size, and do not necessarily have a regular, smooth, repeating shape. However, if a wave source oscillates with simple harmonic motion, then the wave that is generated will be a <alert>sinusoidal wave</alert>. </p>
 
+<p>
+The displacement of a particle in the medium depends on both the particle's position, x and the time, t when you observe it. We represent the displacement of a sinusoidal wave
 
+<me> D(x,t) = A sin(kx - \omega t +\phi_0)</me>
+</p> 	
+
+<figure xml:id="snap_hist">
+    	<caption>A representation of a sinusoidal wave in space and time.</caption>
+    		<image source="wave/snap_hist.png" width = "100%" ></image>
+    </figure>
 
 	<exercises>
 	<title>Activities</title>
