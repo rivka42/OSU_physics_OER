@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sinusoidal_waves" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Sinusoidal Waves</title>
+			
+  	
+<p>Waves can take any shape or size, and do not necessarily have a regular, smooth, repeating pattern. However, if a <em> wave source </em> oscillates with simple harmonic motion, then the wave that is generated will be a <alert>sinusoidal wave</alert>. We would like to build different representations (words, graphs, equations ...) to help us describe the behaviors of waves and build a <alert> wave model </alert>. 
+</p>
+
+
+<figure xml:id="wave_source">
+    	<caption>
+	An oscillating source creates a wave with the same frequency.
+	</caption>
+    	<image source="wave/wave_source.gif" width = "50%" ></image>
+</figure>	
+    
+<p>
+Before we begin discussing the mathematical description of waves, let's analyze the system graphically. An important aspect of sinusoidal waves is that they are periodic in both <em> space </em> and <em> time </em>.The displacement <m> D(x,t) </m> of a particle in the medium depends on both the particle's position <m> x </m> and the time <m> t</m> when you observe it. In <xref ref="snap_hist"></xref>, we show a graphical representation of a sinusoidal wave in space and time. The period of the wave, is related to the frequency of the wave 
+
+<me> T = \frac{1}{f} </me>
+
+and has the same meaning as in simple harmonic motion. Period is the time it takes to complete one oscillation and frequency is the number of cycles per second. The amplitude of the wave is the maximum displacement away from equilibrium of a particle in the medium. 
+</p> 
+
+<figure xml:id="snap_hist">
+    	<caption>
+	A graphical representation of a sinusoidal wave in space (holding time fixed) and time (holding space fixed).
+	</caption>
+    	<image source="wave/snap_hist.png" width = "100%" ></image>
+</figure>
+
+<p>
+In the second panel, we show the displacement of the medium over space at one instant in time. The <em> distance </em>  spanned from one crest of the wave to the next is called the <alert> wavelength </alert>, and we will use the symbol <m> \lambda </m> to represent wavelength. 
+</p>
+
+<p> 
+Recall from simple harmonic motion the relationship between angular frequency, frequency and period,
+
+<me> \omega = 2 \pi f = \frac{2 \pi}{T} </me> 
+
+Time is the physical quantity that connects angular frequency, frequency and period. We will now discuss an analogous spatial relationship between wavelength and a quantity called the <alert> wavenumber </alert> <m> k </m>
+
+<me> k = \frac{2 \pi}{\lambda} </me>
+
+The wavenumber represents the spatial frequency of a wave over a unit distance. Another fundamental relationship of sinusoidal waves is the <alert> wave speed </alert> represented by the symbol <m> \nu </m>, 
+
+<me> \nu = \frac{\lambda}{T} = \frac{distance}{time} = \lambda f</me> 
+
+For sinusoidal waves, each wave crest travels forward a distance of one wavelength <m> \lambda</m> during a time interval of one period <m> T</m>. 
+</p>
+
+<p>
+It is important to note that <alert> wave speed is a property of the medium's elasticity </alert> while the <alert> frequency of the wave is the frequency of the oscillating source</alert> of the wave. To keep this important aspect of waves in mind, we can use the relationship
+
+<me> \lambda = \frac{\nu}{f} = \frac{medium}{source} </me>
+</p>    
+
+<p>
+Now that we have the a grasp on the verbal and graphical representations of waves, we can discuss the mathematics of sinusoidal waves. We represent the displacement of a sinusoidal wave mathematically using the displacement function,
+
+<me> D(x,t) = A sin(kx - \omega t +\phi_0)</me>
+
+which describes the displacement at time <m> t </m> of a particle at position <m> x </m> in the medium. 
+</p>
+
+
+<exercises>
+<title>Activities</title>
+	<exercise xml:id="x_trig-waves">
+	<title>Graphing Phase</title>
+	<p>In the video, you probably noticed the letter <m>\phi</m> (phi) to represent a phase inside of a sine or cosine function.  Using a graphing program (like Desmos or Mathematica), try graphing the following functions:</p>
+				<p>
+				<ul>
+				<li><m> \sin{x} </m> </li>
+				<li><m> \sin{x + \frac{\pi}{3}}</m></li>
+				<li><m> \sin{x + \frac{\pi}{6}}</m></li>
+				<li><m>\sin{x - \frac{\pi}{3}}</m></li>
+				</ul>
+				</p>
+				<p>Based on your graphs, what is the mathematical role of the phase in an oscillation or wave equation?  What do you think the physical role of the phase is?</p>
+			</exercise>
+		</exercises>
+		
+		
+<references>
+
+<biblio>
+<p>
+Gif image in <xref ref="wave_source"></xref> courtesy of Veritasium. <url href="https://www.youtube.com/watch?v=Iuv6hY6zsd0"/>
+ </p>
+</biblio>
+
+<biblio>
+<p>
+<xref ref="snap_hist"></xref> created by Rebecka Tumblin.  </p>
+</biblio>
+
+<biblio>
+<p> Animations courtesy of Dr. Dan Russell, Grad. Prog. Acoustics, Penn State. licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. For more information see <url href="https://www.acs.psu.edu/drussell/demos.html"/>
+</p>
+</biblio>
+</references>
+
+		
+</section>
+
