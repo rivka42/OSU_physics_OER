@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_waves_string" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Waves on a String</title>
+  
+  
+<p>
+A mechanical wave is an organized disturbance which travels outward from the source of the wave through a medium at the wave speed <m> \nu </m>. Let's consider a stretched string of length <m> L </m>, mass <m> m </m>, with tension <m> T_s </m>, and <alert> linear density </alert> <m> \mu_s</m> where 
+
+<me> \mu_s = \frac{m}{L}</me>
+
+is the mass-to-length ratio of the string. The wave speed <m> \nu </m>
+
+<me> \nu_{string} = \sqrt{\frac{T_s}{\mu_s}} </me>
+
+depends on the tension which serves as a restoring force for the medium and the linear density of the string. 
+</p>
+<figure xml:id="pulse">
+    	<caption>
+	A wave passing through a string. The wave propagates with wave speed <m> \nu_{string}</m>.
+	</caption>
+    	<image source="wave/pulse.gif" width = "50%" ></image>
+</figure>	
+
+		
+<exercises>
+<title>Activities</title>
+	
+<exercise>
+<title>Sensemaking: Units of wave speed</title>
+<statement>
+<p>
+Explicitly check the units of <m> \nu_{string} </m> to confirm its relationship holds.  
+</p>
+</statement>
+<answer>
+<p>
+Let's perform a quick unit check:
+
+<me> m/s = sqrt{N/(kg/m)} = sqrt{\frac{(kg*m/s^2)}{(kg/m)}}=sqrt{\frac{m^2}{s^2}} = m/s </me>
+
+Indeed, the units are consistent. 
+</p>
+</answer>
+</exercise>
+</exercises>
+
+<references>
+
+<biblio>
+<p> Animations courtesy of Dr. Dan Russell, Grad. Prog. Acoustics, Penn State. licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. For more information see <url href="https://www.acs.psu.edu/drussell/demos.html"/>
+</p>
+</biblio>
+
+<biblio>
+<p> Animations courtesy of flippin' physics. For more information see <url href="https://www.flippingphysics.com/waves-gifs.html"/>
+</p>
+</biblio>
+</references>
+
+
+	
+</section>
+

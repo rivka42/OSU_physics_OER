@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_boundary" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Boundaries and Discontinuities</title>
+  
+<p> 
+When waves propagate, they can encounter boundaries and discontinuities. 
+</p>  
+
+<figure xml:id="hard">
+    	<caption>
+	A wave reflecting from a hard boundary.
+	</caption>
+    	<image source="wave/hard.gif" width = "50%" ></image>
+</figure>	
+
+<figure xml:id="soft">
+    	<caption>
+	A wave reflecting from a soft boundary.
+	</caption>
+    	<image source="wave/soft.gif" width = "50%" ></image>
+</figure>	
+
+<figure xml:id="hi_lo">
+    	<caption>
+	A wave encountering a discontinuity from a high density to a low density.
+	</caption>
+    	<image source="wave/hi_lo.gif" width = "75%" ></image>
+</figure>	
+
+<figure xml:id="lo_hi">
+    	<caption>
+	A wave encountering a discontinuity from a low density to a high density.
+	</caption>
+    	<image source="wave/lo_hi.gif" width = "75%" ></image>
+</figure>	
+
+
+		
+<exercises>
+<title>Activities</title>
+	
+<exercise>
+<title>Sensemaking: Units</title>
+<statement>
+<p>
+What are the units of?  
+</p>
+</statement>
+<answer>
+<p></p>
+</answer>
+</exercise>
+</exercises>
+
+<references>
+
+<biblio>
+<p> Animations courtesy of Dr. Dan Russell, Grad. Prog. Acoustics, Penn State. licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. For more information see <url href="https://www.acs.psu.edu/drussell/demos.html"/>
+</p>
+</biblio>
+</references>
+
+  
+
+	
+</section>
+

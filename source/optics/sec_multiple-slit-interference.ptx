@@ -1,12 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_multiple-slit-interference" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Multiple-Slit Interference</title>
-  
-    <video youtube="Mun7c6RB140"><description>Video description.</description></video>
+    <title>Application: Multiple-Slit Interference</title>
+    <p>As more and more slits are added, the interference pattern and the intensity of the light is altered.</p>
 
     <exercises>
-        <title>Multiple-Slit Interference Activities</title>
-        
+        <title>Multiple-Slit Interference</title>
+        <!-- Inspired by Paul's in class activity -->
+        <p>To understand how the interference pattern changes, let's work through what happens if we add a third slit to the screen. Let's consider three points on the screen: the central maximum, the first bright spot, and the first dark spot.</p>
+        <figure>
+            <caption>Left: A diagram of the triple-slit experiment. Three slits are located in the center of a plane located a distance L away from a screen. Right: A zoomed-in view of the circle on the left. Notice how a third slit has been added below the second slit, also at a distance d away from the second slit.</caption>
+            <image source="optics/multi_interference.jpg"></image>
+        </figure>
+        <exercise>
+            <title>Central Maximum</title>
+            <p>Let's first consider the central maximum.</p>
+            <ol>
+                <li>What is the path length difference between ray <m>r_1</m> and <m>r_2</m>?</li>
+                <li>What is the path length difference between ray <m>r_2</m> and <m>r_3</m>?</li>
+                <li>What is the path length difference between ray <m>r_1</m> and <m>r_3</m>?</li>
+                <li>Is this a point of constructive or destructive interference?</li>
+                <li>How does this affect the intensity of the light?</li>
+            </ol>
+            <answer>
+                <p>
+                    The path length difference between all three rays is zero. The reason for this is because the central maximum lies at the center of the screen at an angle of <m>\theta = 0</m>. Therefore, the path length difference is zero. This means that the central maximum will be a point of constructive interference. With the added light coming from the third slit, the intensity of the central maximum increases.
+                </p>
+            </answer>
+        </exercise>
+        <exercise>
+            <title>First Bright Spot</title>
+            <p>Now let's look at the second bright spot.</p>
+            <ol>
+                <li>What is the path length difference between ray <m>r_1</m> and <m>r_2</m>?</li>
+                <li>What is the path length difference between ray <m>r_2</m> and <m>r_3</m>?</li>
+                <li>What is the path length difference between ray <m>r_1</m> and <m>r_3</m>?</li>
+                <li>Is this a point of constructive or destructive interference?</li>
+                <li>How does this affect the intensity of the light?</li>
+            </ol>
+            <answer>
+                <p>
+                    The path length difference between rays <m>r_1</m> and <m>r_2</m> and the difference between rays <m>r_2</m> and <m>r_3</m> is <m>\lambda</m>. The path length difference between <m>r_1</m> and <m>r_3</m> is <m>2\lambda</m>! So this is also a point of constructive interference. With the added light coming from the third slit, the intensity of the first bright spot increases.
+                </p>
+            </answer>
+        </exercise>
+        <exercise>
+            <title>First Dark Spot</title>
+            <p>Finally, let's consider the first dark spot.</p>
+            <ol>
+                <li>What is the path length difference between ray <m>r_1</m> and <m>r_2</m>?</li>
+                <li>What is the path length difference between ray <m>r_2</m> and <m>r_3</m>?</li>
+                <li>What is the path length difference between ray <m>r_1</m> and <m>r_3</m>?</li>
+                <li>Is this a point of constructive or destructive interference?</li>
+                <li>How does this affect the intensity of the light?</li>
+            </ol>
+            <answer>
+                <p>
+                    The path length difference between rays <m>r_1</m> and <m>r_2</m> and between rays <m>r_2</m> and <m>r_3</m> is <m>\lambda</m> is <m>\lambda / 2</m>. The path length difference between <m>r_1</m> and <m>r_3</m> is <m>\lambda</m>! This means that while rays <m>r_1</m> and <m>r_2</m> and rays <m>r_2</m> and <m>r_3</m> are destructively interfering, rays <m>r_1</m> and <m>r_3</m> constructively interfering! The intensity at this point is no longer zero, as now there is some contribution of light coming from the third slit. 
+                </p>
+            </answer>
+        </exercise>
     </exercises>
+    <p>
+        As we add more and more slits, spots that were bright in the two-slit experiment will only become brighter, and dark spots will no longer be completely dark. This leads us nicely into talking about our next topic, which is diffraction gratings.
+    </p>
 </section>
