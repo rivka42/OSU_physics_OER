@@ -6,11 +6,9 @@
       <title>Warm-up Activity</title>
         <exercise>
           <title>Exploring Loudness</title>
-          <p>You hear a loud noise.  Which wave property (frequency, wavelength, wave speed, amplitude, wave number, phase, etc.) do you think is related to how loud it is?</p>
+          <p>You hear a loud noise.  Which wave property or properties (frequency, wavelength, wave speed, amplitude, wave number, phase, etc.) do you think is related to how loud it is?</p>
         </exercise>
     </exercises>
-		
-<video youtube="4NjGyoc5b-o"><description>Introducing intensity for waves</description></video>
 	
 <p>Consider a wave on a string. Any point along the string moves up and down as a wave passes through it. The average velocity of a point on the string is related to the amplitude of the wave and also to how quickly the motion changes from up to down – thus the frequency.</p>
 
@@ -29,13 +27,17 @@ The kinetic energy of the mass at that point depends on the square of the veloci
 	   <p>The <term>intensity</term> of a wave emanating from a point source: <me>I = \frac{P}{a}</me> where P is power and a is the surface area of a sphere.</p>
 <p>We define the intensity I of a wave to be the power delivered by the wave, divided by the area that the wave impinges upon. The units of intensity are Watts per square meter.
 </p>
+<p></p>
+
+<video youtube="NsxLt_4tFIU"><description>Introducing intensity for waves</description></video>
+
    </statement>
 </definition>
 <exercises>
   <title>Activities</title>
    <exercise>
     <title>Explanation - Distance and Intensity</title>
-      <p>Your friend measures the intensity of a sound wave to be <m>I</m>.  If you are twice as far away from the source of the wave as your friend, what will you measure the intensity to be?  Explain your reasoning.</p>
+    <p>Your friend is a distance d from a point source of sound and measures the intensity of the sound wave to be I.  How far away from the source of the wave do you need to be to measure the intensity to be <m>\frac{I}{2}</m>?</p>
    </exercise>
 </exercises>
 	

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_loudness" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Loudness</title>
-		
-      <video youtube="eDkmB-ROVkA"><description>Introducing loudness for sound waves.</description></video>
-	
-	<p>ADDME</p>
-	
-	<definition>
-	<title>ADDME</title>
-	<statement>
-		<p>The <term>angular momentum</term> of a rigid object about a given axis is the product of the object's moment of inertia and angular velocity about that axis: <me>\vec{L} = I\vec{\omega}</me></p>
-	</statement>
-</definition>
+   <title>Loudness</title>
 
+   <p>Humans have a verywide range of hearing when measuring intensity in units of Watts per meter.
+      For this reason, we often use a logarithmic unit of measurement called sound intensity level for 
+      measuring sound. The unit for sound intensity level is bel.</p>
+	
+   <definition>
+   <title>Sound intensity level</title>
+   <statement>
+	   <p>The <term>intensity level</term> of sound is defined to be: <me>\beta = (10 dB) log_{10} \frac{I}{I_0}</me><me>I_0 = 10^{-12} \frac{W}{m^2}</me></p>
+	</statement>
+   </definition>
+
+   <p>We define <m>I_0</m> to be a very small intensity, at the lower limit of human hearing. When <m>I = I_0</m>, it doesn't mean that there are no sound waves present, just that humans cannot hear them.</p>
+
+   <p>When the sound intensity level increases by a factor of 10 dB, the intensity increases by a factor of ten. We start to feel pain from high intensity sound at about 130 dB</p>
+
+   <video youtube="eDkmB-ROVkA"><description>Introducing loudness for sound waves.</description></video>
 
 		<exercises>
 	<title>Activities</title>
