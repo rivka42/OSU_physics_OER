@@ -31,7 +31,7 @@
 </definition>
 
 	<exercises>
-	<title>Activity - Units</title>
+	<title>Activities - Units</title>
 	<p>Angular position is virtually always measured using radians.  Other choices, such as degrees, introduce additional units that typically need to be converted to radians when working with other quantities.</p>
 			<exercise>
 			<statement>
@@ -63,12 +63,12 @@
 
 	<exercises>
 	<title>Activities - Circling Helicopter</title>
-	<p>A helicopter is flying in a horizontal circle of radius 50 m with an initial angular velocity of 200 rad/s upward.</p>
+	<p>A helicopter is flying in a horizontal circle of radius 50 m with an initial angular speed of 200 rad/s.  The angular velocity vector points upward.</p>
 			<exercise>
 			  <p>When viewed from above, is the helicopter moving clockwise or counterclockwise?</p>
 			</exercise>
 						<exercise>
-			  <p>How long does it take for the helicopter to complete three full rotations?</p>
+			  <p>How long does it take for the helicopter to complete one full rotation?  This time is often known as the period, and is denoted using the letter <m>T</m>.</p>
 			</exercise>
 			<exercise>
 			  <p>What is the helicopter's tangential speed?</p>

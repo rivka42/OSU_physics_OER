@@ -2,9 +2,11 @@
 
 <section xml:id="sec_smallA" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Small-Angle Approximation</title>
+	
+	<video youtube="X_WvF6Y5wYY"><description>Describing the small-angle approximation.</description></video>
 			
 <p>
-The <alert>small-angle approximation</alert> is used to approximate the values of the main trigonometric functions when the angles involved are restricted to a certain domain. In practice, angles that are small are angles where <m> \theta \ll 1.0</m> radian. 
+The <alert>small-angle approximation</alert> is used to approximate the values of the main trigonometric functions when the angles involved are restricted to a certain domain. 
 
 Any function can be expanded into an infinite sum of polynomials. This is called a series expansion. Consider a series expansion (Taylor Series) of the sine and cosine functions:
 
@@ -12,43 +14,49 @@ Any function can be expanded into an infinite sum of polynomials. This is called
 
 <me> \cos(\theta) = \sum^\infty_{n=0} \frac{(-1)^n}{2n}\theta^{2n} = 1 - \frac{\theta^2}{2!}+\frac{\theta^4}{4!} -\frac{\theta^6}{6!}-....</me>
 
-The small-angle approximation considers only the first term in the sum. 
+The small-angle approximation considers only the first nontrivial term in the sum. 
 
 <men> \sin(\theta) \approx \theta</men>
-<men> \cos(\theta) \approx 1</men>
+<men> \cos(\theta) \approx 1 - \frac{\theta^2}{2!}</men>
 
-In <xref ref="small-angle"></xref> we show a graphical representation of the small-angle approximation for the <m> \sin(\theta)</m> function. We can see the linear function <m> \theta</m> and the trigonometric function <m> \sin(\theta)</m> closely match each other when the angle is small. </p>
+In <xref ref="small-angle"></xref> you can see a graphical representation of the small-angle approximation for the <m> \sin(\theta)</m> function. You can see the linear function <m> \theta</m> and the trigonometric function <m> \sin(\theta)</m> closely match each other when the angle is small. </p>
 
 <figure xml:id="small-angle">
     	<caption>Graphical representation of the small-angle approximation for the <m>\sin\theta</m> function.</caption>
     		<image source="oscillate/small_angle.jpg" width = "100%" ></image>
     </figure>
-    
+		
+		
+    <!--
  <p>  
 We should always take time to think about and determine the error associated with introducing approximations in our calculations. 
 
  </p>
- 
+--> 
+
  <exercises>
 		<title>Activities</title>
 		
 		<exercise>
 		<title>Analyzing the Equation of Motion</title>
 		<statement>
-		<p>Looking at equation <xref ref="pendulumE2"></xref> apply the small-angle approximation to determine an equation of motion. The determine the oscillation frequency of the simple pendulum. </p>
+		<p>Looking at equation <xref ref="pendulumE2"></xref> apply the small-angle approximation to determine an equation of motion. Then determine the oscillation frequency of the simple pendulum. </p>
 		</statement>
 		<answer>
-		<p> Applying the small-angle approximation we find that <m> \sin\theta \approx \theta</m> and our equation of motion becomes,
+		<p> Applying the small-angle approximation you find that <m> \sin\theta \approx \theta</m> and the equation of motion becomes,
 		
 		<men> \frac{d^2}{dt^2}\theta(t)=-\frac{g}{L} \theta(t)</men>
-from this and our model of simple harmonic motion, we can directly see that the oscillation frequency is
+from this and your model of simple harmonic motion, you can directly see that the oscillation frequency is
 		
-		<men> \omega = \sqrt{\frac{g}{L}}</men>.
+		<men> \omega_p = \sqrt{\frac{g}{L}}</men>.
 		
 		</p>
 		</answer>
 		</exercise>
-		
+		<exercise>	
+		<title>Sensemaking</title>
+		<p>Make sense of the expression you found for the angular frequency of the simple pendulum using units, numbers, and symbols.</p>
+			</exercise>
 		<exercise>
 		<title>What is the error introduced?</title>
 		<statement>
@@ -59,6 +67,8 @@ from this and our model of simple harmonic motion, we can directly see that the 
 		</answer>
 		</exercise>
 </exercises>
+
+	<video youtube="t1StSWeYTO4"><description>Using the small-angle approximation for the simple pendulum.</description></video>
 
     
 

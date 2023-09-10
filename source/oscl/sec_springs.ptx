@@ -1,18 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_springs" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Spring Systems</title>
+  <title>Block on a Spring</title>
+	
+		<exercises>
+	<title>Introductory Activities</title>
+	<p>Play with <url href="https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics_en.html" visual="this simulation"/> for about 10-15 minutes.  Make sure to explore all the tabs!</p>
+	<exercise>
+	<p>Write something interesting you observe from the simulation.</p>
+	</exercise>
+	<exercise>
+	<p>Design a small experiment using the simulation that would allow you to investigate some property of this system. Write down your experiment and what you learned from it!
+	</p>
+	</exercise>
+		<exercise>
+	<p>
+	A small mass on a frictionless table is attached to a spring and the spring is initially stretched by some initial distance, then released from rest.  Describe in words what you think will happen to the mass over time.  (Feel free to compare this situation to what you observed in the simulation!)
+	</p>
+	</exercise>
+</exercises>
+	
+	<video youtube="zQI_gprkg1M"><description>Introducing simple harmonic motion using the block on a spring.</description></video>
 			
  <p>
-Let's apply what we have learned to analyze the oscillatory motion of a mass on a spring. Consider a spring with spring constant <m>k</m> that has one end held fixed in space and one end attached to a block of mass <m>m</m>which rests on a frictionless surface. We will assume the spring has negligible mass compared to the object's mass <m>m</m> such that we can apply the massless spring approximation to our analysis. 
+<!--Let's apply what we have learned to analyze the oscillatory motion of a mass on a spring. -->Consider a spring with spring constant <m>k</m> that has one end held fixed in space and one end attached to a block of mass <m>m</m>which rests on a frictionless surface. Assume the spring has negligible mass compared to the object's mass <m>m</m> such that we can apply the massless spring approximation. 
 </p>
 
 <p>
-The spring has an equilibrium length <m> x_0</m> and is initially stretched and then released. We know from experience that the spring will undergo oscillatory motion. We would like to determine an equation of motion for the mass on the spring, the period and oscillation frequency for the spring. 
-</p>
-
-<p>
-We apply the general physics problem-solving strategy to analyze the motion. First we draw a picture of the situation, and choose a coordinate system we will use to reference positions and velocities of the mass. 
+The spring has equilibrium length <m> x_o</m> and is initially stretched and then released. You know from experience that the spring will undergo oscillatory motion<mdash/>what is the equation of motion, the period, and the oscillation frequency for the spring?  <!--We apply the general physics problem-solving strategy to analyze the motion.-->  First draw a diagram of the situation and choose a coordinate system. 
 </p>
 
  <figure xml:id="mass_spring">
@@ -21,47 +36,43 @@ We apply the general physics problem-solving strategy to analyze the motion. Fir
     </figure>
 
 <p>
-The spring force is a restoring force given by Hooke's law:
-
-<me> \vec{F}(x) = -k(x-x_0) \hat{x}</me>
-
-The negative sign tells us that the force always points in the opposite direction as the displacement. If we place the origin of our coordinate system at equilibrium, then Hooke's law is simplified to 
+If we place the origin of our coordinate system at equilibrium, the simplified spring force is a restoring force given by Hooke's law:
 
 <me> \vec{F}(x) = -kx \hat{x}</me>
 
-Applying Newton's law to the system and setting the force equal to the spring force
+The negative sign tells us that the force always points in the opposite direction as the displacement.  Applying the Law of Motion to the system and setting the force equal to the spring force
 
 <men xml:id="Hookes"> ma_x = -kx </men>
 
-Using the relationship between position, and acceleration where acceleration is the second derivative of position with respect to time, 
+Using the relationship between position and acceleration<fn>acceleration is the second derivative of position with respect to time</fn> 
  
 <me> a_x(t) = \frac{d}{dt} v_x(t) = \frac{d^2}{dt^2}x(t) </me>
 
-we can re-write equation <xref ref="Hookes"></xref> in terms of position only
+and equation <xref ref="Hookes"></xref> can be written in terms of position only
 
 <men xml:id="EOM"> \frac{d^2}{dt^2}x(t) = -\frac{k}{m} x(t)</men>
 
-Equation <xref ref="EOM"></xref> is called the <alert>equation of motion</alert> for the mass on the spring. This is a second order differential equation. Unlike algebraic functions whose solutions are numbers, solutions of differential equation are <em>functions</em>. This differential equation is one in which taking two derivatives of the function <m>x(t)</m>  yields the original function multiplied by a negative constant. 
+Equation <xref ref="EOM"></xref> is called the <alert>equation of motion</alert> for the mass on the spring. This is a second-order differential equation. Unlike algebraic functions whose solutions are numbers, solutions of differential equation are <em>functions</em>. This differential equation is one in which taking two derivatives of the function <m>x(t)</m> yields the original function multiplied by a negative constant. 
 </p>
 
 <p>
-Often we can guess the solutions to differential equations. Since we already know the motion will be oscillatory from everyday experience, the natural guess for this physical situation is a position function that is oscillatory in time. Consider the position function
+Often you can guess the solutions to differential equations. Since you already know the motion will be oscillatory from everyday experience, the natural guess for this physical situation is a position function that is oscillatory in time. Consider the position function
 
-<me> x(t) = A \cos(\omega t + \phi_0)</me>
+<me> x(t) = A \cos(\omega t + \phi_o)</me>
 
 Taking two derivatives in time
 
-<me> \frac{d^2}{dt^2}x(t) = - \omega^2 A \cos(\omega t + \phi_0)</me>
+<me> \frac{d^2}{dt^2}x(t) = - \omega^2 A \cos(\omega t + \phi_o)</me>
 
 Plugging all this back into the equation of motion yields
 
-<me> - \omega^2 A \cos(\omega t + \phi_0) = -\frac{k}{m} A \cos(\omega t + \phi_0)</me>
+<me> - \omega^2 A \cos(\omega t + \phi_o) = -\frac{k}{m} A \cos(\omega t + \phi_o)</me>
 
-From this we can determine the oscillation frequency of the spring system. Note that a factor of the position function can be cancelled from each side of the equation. From this we can determine the angular frequency of the oscillation. 
+From this we can determine the oscillation frequency of the spring system. Note that a factor of the position function can be canceled from each side of the equation. From this you can determine the angular frequency of the oscillation. 
 
-<men> \omega = \sqrt{\frac{k}{m}},</men>
+<men> \omega_s = \sqrt{\frac{k}{m}}</men>
 
-The oscillation frequency characterizes the motion of the object. It depends solely on the physical characteristics of the system: the stiffness of the spring, and the mass of the object attached to the spring. 
+Since the oscillation frequency depends solely on the physical characteristics of the system (the stiffness of the spring and the mass of the object attached to the spring), the more specific label <m>\omega_s</m> is appropriate.
 </p>
 
 
@@ -109,8 +120,7 @@ The oscillation frequency characterizes the motion of the object. It depends sol
 				<exercise>
 		<title>PHeT Exercise: Exploring Vertical Oscillations</title>
 		<statement>
-		<p>Consider a mass on a spring that hangs vertically. What are the frequency and period of the oscillation? Explore these questions by experimenting with this simulation:
-		<url href="https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics_en.html"/>
+		<p>Consider a mass on a spring that hangs <em>vertically</em> instead of being oriented horizontally, such as you saw in the simulation. What are the frequency and period of the oscillation?
 		</p>
 		</statement>
 		</exercise>

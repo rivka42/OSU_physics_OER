@@ -12,23 +12,23 @@ A pendulum does not need to be a simple mass on a string. In fact, many objects 
     </figure>
     
 <p>
-We will use a torque analysis and our model of simple harmonic motion to analyze the system.  We apply the general physics problem-solving strategy to analyze the motion. The gravitational torque is 
+Use a torque analysis and your model of simple harmonic motion to analyze the system.  The gravitational torque is 
 
  <me> \tau = -LMg\sin\theta(t) = I \alpha</me> 
  
-Recall that the gravitational force acts at the center of mass of a rigid-body. Here, we have labeled the distance from the pivot to the center of mass <m>L</m>. We apply the small-angle approximation, 
+Recall that the gravitational force acts at the center of mass of a rigid-body. Here, the distance from the pivot to the center of mass is <m>L</m>. Apply the small-angle approximation, 
 
 <me> \sin\theta(t) \approx \theta(t)</me>
 
-Note that our analysis will only provide an accurate predictive model when the angle <m> \theta(t)</m> is small. From this we can determine the equation of motion for the system
+Note that this analysis will only provide an accurate predictive model when the angle <m> \theta(t)</m> is small. From this you can determine the equation of motion for the system
 
 <men xml:id="PpendulumE"> \frac{d^2}{dt^2}\theta(t)=-\frac{MgL}{I} \theta(t)</men>
 
-The equation of motion is in the form of equation <xref ref="HM_model"></xref> and so we can directly determine the oscillation frequency and period of the system.
+The equation of motion is in the form of equation <xref ref="HM_model"></xref> and so you can directly determine the oscillation frequency and period of the system.
 
  <men xml:id="PpendulumE2"> \omega=\sqrt{\frac{MgL}{I}}= \frac{2 \pi}{T}</men>
  
-This equation is general for any rigid-body object so long as we specify the moment of inertia and properly determine the distance from the pivot to the center of mass. 
+This equation is general for any rigid-body object so long as you specify the moment of inertia and properly determine the distance from the pivot to the center of mass. 
 </p>
 
 

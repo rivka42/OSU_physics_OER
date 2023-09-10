@@ -4,17 +4,17 @@
   <title>Kinematics Relations</title>
 			
 <p>
-We can use differential calculus to find kinematic relationships for an object undergoing ocillatory motion. The time derivative of position yields the velocity of the system. 
+You can use differential calculus to find kinematic relationships for an object undergoing oscillatory motion. The time derivative of position yields the velocity of the system. 
 
 <me> \frac{d}{dt} \vec{x}(t) = \vec{v}(t)</me>
 </p>
 <p>
-Taking the time derivative of our position function <m> \vec{x}(t) = A \cos{\omega t + \phi_0}</m> yields the velocity function <m> \vec{v}(t)</m>
+Taking the time derivative of the position function <m> \vec{x}(t) = \vec{x}_o + A \cos{\omega t + \phi_o}</m> yields the velocity function <m> \vec{v}(t)</m>
 </p>
 
 
 <p> 
-<men xml:id="vel_HM"> \vec{v}(t) = - \omega A \sin(\omega t + \phi_0)\hat{x} </men>
+<men xml:id="vel_HM"> \vec{v}(t) = - \omega A \sin(\omega t + \phi_o)\hat{x} </men>
 </p>
 
 <p>
@@ -23,7 +23,7 @@ As the object passes through the equilibrium position located at <m> x = 0 </m>,
 
 
  <figure xml:id="HM_velocity">
-    	<caption>The position and velocity as a function of time for an object in Simple Harmonic Motion. The graphs are alined such that the time axes in both graphs correspond to the same point in time. </caption>
+    	<caption>The position and velocity as a function of time for an object in Simple Harmonic Motion. The graphs are aligned such that the time axes in both graphs correspond to the same point in time. </caption>
     		<image source="oscillate/HM_velocity.png" width = "100%" ></image>
     </figure>
     
@@ -33,7 +33,7 @@ As the object passes through the equilibrium position located at <m> x = 0 </m>,
 		<exercise>
 		<title>Physical Units</title>
 		<statement>
-		<p>Looking at equation <xref ref="vel_HM"></xref> what are the physical dimension and SI units of the quantity <m> \omega A</m>? What is the physical significance of this quantity?</p>
+		<p>Looking at equation <xref ref="vel_HM"></xref> what are the SI units of the quantity <m> \omega A</m>? What is the physical significance of this quantity?</p>
 		</statement>
 		<answer>
 		<p>The equation as a whole is a velocity and has dimension of length/time with SI units of meters/second. Trigonometric functions are dimensionless. Therefore, the quantity <m> \omega A</m> must have dimension of length/time for the equation to be true. Note that the SI units of <m> \omega</m> are <m> rad/s</m>. While radians are an SI unit, they are dimensionless. The physical significance of this quantity is that it corresponds to the maximum speed <m> v_{max} = \omega A </m> of the object. This allows us to re-write equation <xref ref="HM_velocity"></xref> as follows</p>
@@ -64,7 +64,7 @@ As the object passes through the equilibrium position located at <m> x = 0 </m>,
 		<exercise>
 		<title>Exploring Acceleration Graphically</title>
 		<statement>
-		<p>Referencing figure <xref ref="HM_velocity"></xref>, sketch the accompanying <m> \vec{a}(t)</m> function.  </p>
+		<p>Referencing figure <xref ref="HM_velocity"></xref>, sketch the accompanying <m> a_x(t)</m> function.  </p>
 		</statement>
 		<answer>
 		<p>	</p>

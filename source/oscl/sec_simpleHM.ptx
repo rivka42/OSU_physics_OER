@@ -4,27 +4,29 @@
   <title>Simple Harmonic Motion</title>
 			
 <p>
-<alert>Oscillatory motion</alert> is a repetitive back and forth motion that regularly repeats in time around an equilibrium position. Oscillatory motion occurs when an object is displaced away from its natural resting position and forces are present which act to push the object back toward that resting position. This natural resting position is called the object's <alert>equilibrium position</alert>. 
+The next situation to which you will apply and adapt your physics model is <alert>oscillatory motion</alert>: any back-and-forth motion that regularly repeats in time. 
 </p>
+
+	<exercises>
+	<title>Introductory Activity</title>
+	<exercise>
+	<p>Make a list of everyday examples of oscillatory motion you have experienced.  What commonalities do you notice between them?  How common do you think oscillatory motion is in the real world?</p>
+	</exercise>
+</exercises>
 
  <figure xml:id="pendulum_gif">
     	<caption>A simple pendulum oscillates around its equilibrium position.</caption>
     		<image source="oscillate/pendulum.gif" width = "50%" ></image>
     </figure>
 
+<p>
+Oscillatory motion occurs when an object is displaced away from a <alert>stable equilibrium</alert> such that a net force acts to return the object to this resting position.  The forces that lead to oscillatory motion are typically called <alert>restoring forces</alert>. <!--Recall that an object is said to be in <em>equilibrium</em> when there are no net forces acting on the object. --> A restoring force always acts against an object's displacement from equilibrium to bring the system back to that equilibrium.  <xref ref="def_spring" text="title"/>, in which the force is directly proportional to displacement, is the canonical example restoring force. </p>
 
 <p>
-<alert>Simple harmonic</alert> motion is motion where the position as a function of time of the object  can be represented by a sinusoidal function. Systems can oscillate in complicated ways. The most fundamental oscillatory motion, <em>simple harmonic motion</em>, can be described by a sine or cosine function. Later we will see that more complicated oscillatory motion can be described either as a sum of sinusoidal functions or as a sinusoidal function multiplied by other functions such as exponential functions. 
+Often, oscillatory motion can be represented by a position that is a sinusoidal function of time.  This most fundamental oscillatory motion, <em>simple harmonic motion</em>, can be described by a sine or cosine function.  More complicated oscillatory motion can be described either as a sum of sinusoidal functions or as a sinusoidal function multiplied by other functions such as exponential functions. 
 </p>
 
-<p>
-The forces which lead to oscillatory motion are called <alert>restoring forces</alert>. Recall that an object is said to be in <em>equilibrium</em> when there are no net forces acting on the object. A restoring force is a type of force which arises when the object is displaced away from equilibrium and it always acts against the object's displacement to bring the system back to equilibrium.
-</p>
-
-
-<p>
-A common force which is directly proportional to displacement is the spring force. </p>
-
+<!--
 <p> 
 <men xml:id="restore_force">\vec{F}(x) = -k\Delta x \hat{x}</men>
 where <m> \Delta x = x-x_0</m> and <m>x_0</m> is the equilibrium position. The negative sign reminds us that the force is always in the opposite direction as the displacement. An interesting aspect of these type forces is that they are position dependent forces. The notation <m>F(x)</m> reminds us that the force <m>F</m> is a function of position <m>x</m>. 
@@ -32,6 +34,7 @@ where <m> \Delta x = x-x_0</m> and <m>x_0</m> is the equilibrium position. The n
 
 <p>
 Position dependent forces in physics generally have associated potential energy functions. We will explore this aspect of these forces in more detail in a later section of this chapter where we discuss energy in simple harmonic motion. </p>
+-->
 
 <references>
 <biblio>

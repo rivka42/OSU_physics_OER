@@ -4,7 +4,7 @@
   <title>Energy Conservation in SHM</title>
 			
 <p>
-We previously discussed that forces that are position dependent generally have associated potential energy functions. Kinetic energy is an energy of movement. Kinetic energy can be transformed into potential energy as an object changes position. Potential energy is an <em> energy of position</em>, and so it makes sense that the associated interaction forces are position dependent. Systems that <em>interact</em> gravitationally, elastically or as we will later encounter, electrically, are imbued with potential energy and the associated forces are called <alert>conservative forces</alert> .
+You previously saw forces that are position dependent generally have associated potential energy functions. Kinetic energy is an energy of movement. Kinetic energy can be transformed into potential energy as an object changes position. Potential energy is an <em> energy of position</em>, and so it makes sense that the associated interaction forces are position dependent. Systems that <em>interact</em> via a <alert>conservative force</alert><fn>such as gravity, elastic forces, or, as you will later encounter, the electric force</fn> can be associated with a potential energy.
 </p> 
 
 <p>
@@ -16,19 +16,19 @@ Here <m> \vec{r} </m> represents a position vector and <m> d\vec{r} </m> is an i
 </p>
 
 <p>
-Recall the spring force, where we have taken the equilibrium position to be located at <m> x = 0 </m>, 
+Recall the spring force, where the equilibrium position is located at <m> x = 0 </m>, 
 
 <me> \vec{F}(x) = -kx \hat{x}</me>
 
-Plugging this into the work integral we find the change in potential energy for the system
+Plugging this into the work integral, the change in potential energy for the system
 
 <me> \Delta U = U(x) - U_0 = \frac{1}{2} k x^2 </me>
 
-Recall we can always set the zero point of potential energy to <m> U_0 = 0</m>. The total mechanical energy of the spring system is the sum of kinetic and potential energies
+You can always set the zero point of potential energy to <m> U_0 = 0</m>. The total mechanical energy of the spring system is the sum of kinetic and potential energies
 
 <me> E = K + U = \frac{1}{2} m v^2 + \frac{1}{2} k x^2</me>
 
-This holds as long as we assume no dissipative forces act on the system. </p>
+This holds as long as you assume no dissipative forces act on the system. </p>
 
 <figure xml:id="energySHM">
     	<caption>Position function of an object in Simple Harmonic Motion.</caption>
@@ -44,15 +44,15 @@ As the system passes through the equilibrium position <m> x = 0 </m> and the vel
 
 <me> K = \frac{1}{2} m v_{max}^2</me>
 
-Conservation of energy allows us to write the total energy of the system in multiple ways.  
+Conservation of energy allows you to write the total energy of the system in multiple ways.  
 
 <me> E = \frac{1}{2} m v^2 + \frac{1}{2} k x^2 = \frac{1}{2} k A^2 =  \frac{1}{2} m v_{max}^2 </me>
 
-The first term accounts for positions between <m> x=0 </m> and <m> x=\pm A</m>. The last two expression represent the energy at . <m> x=\pm A</m> and <m> x = 0 </m> respectively. These relations are very useful for analyzing spring systems using an energy approach. 
+The first term accounts for positions between <m> x=0 </m> and <m> x=\pm A</m>. The last two expression represent the energy at <m> x=\pm A</m> and <m> x = 0 </m> respectively. These relations are very useful for analyzing spring systems using an energy approach. 
 </p>
 
 <p>
-You may ask where is potential energy stored? Potential energy is stored in <em>fields</em>. Gravitational potential energy is stored in the gravitational field. Electric potential energy in the electric field. Our modern understanding of long-range forces such as gravity is that these forces can act over long distances because any mass creates a field that pervades all space. Any other mass that encounters this field will feel a force. We will learn much more about fields when we study electricity and magnetism in a later section. 
+You may ask where is potential energy stored? Potential energy is stored in <em>fields</em>. Gravitational potential energy is stored in the gravitational field. Electric potential energy in the electric field. Our modern understanding of long-range forces such as gravity is that these forces can act over long distances because any mass creates a field that pervades all space. Any other mass that encounters this field will feel a force. You will learn much more about fields when we study electricity and magnetism in a later section. 
 </p>
     
 

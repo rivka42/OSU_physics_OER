@@ -3,12 +3,23 @@
 <section xml:id="sec_pendula" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Simple Pendulum</title>
 			
+			<video youtube="F0zpSlY0u1E"><description>Introducing pendula.</description></video>
+			
+			<exercises>
+		<title>Warm-up Activity</title>
+		<exercise>
+		<p>Follow the steps from the end of the video above to find an equation of motion for the simple pendulum.</p>
+		</exercise>
+		</exercises>
+			
+			<video youtube="lWqItTPQ_po"><description>Describing the simple pendulum with simple harmonic motion.</description></video>
+			
 <p>
-Let's apply what we have learned to the oscillatory motion of pendulums. Consider a mass <m>m</m> that hangs from a string that has one end fixed in space and is free to pivot (ie, no friction). We will assume the string has negligible mass compared to the object's mass <m>m</m> such that we can apply the <alert>massless string approximation</alert> to our analysis. 
+Consider a mass <m>m</m> that hangs from a string that has one end fixed in space and is free to pivot (ie, no friction). Assume the string has negligible mass compared to the object's mass <m>m</m> such that we can apply the <alert>massless string approximation</alert> to our analysis. 
 </p>
 
 <p>
-The string has length <m> L </m> and the mass is initially pulled out an angle <m> \theta_{max}</m> and then released. We know from experience that the pendulum will undergo oscillatory motion. We want to determine the angular position as a function of time <m> \theta(t)</m>, and oscillation frequency <m> \omega</m> for the pendulum. 
+The string has length <m> L </m> and the mass is initially pulled out an angle <m> \theta_{max}</m> and then released. You know from experience that the pendulum will undergo oscillatory motion<mdash/>what is the angular position as a function of time <m> \theta(t)</m> and the oscillation frequency <m> \omega_p</m> for the pendulum. 
 </p>
 
 <figure xml:id="pendulum">
@@ -17,18 +28,17 @@ The string has length <m> L </m> and the mass is initially pulled out an angle <
     </figure>
 
 <p>
-We will use a torque analysis and our model of simple harmonic motion to analyze the system.  We apply the general physics problem-solving strategy. First, we draw a pictorial representation of the situation, and choose a coordinate system we will use to reference positions and velocities of the mass. We assume that the mass can be treated as a particle and we draw a free body diagram choosing an axis directed radially toward the pivot point and an axis tangential to the arc of the motion. We assume tension keeps the string taut so it does not bend or bow.  
+Using torque analysis, first draw a pictorial representation of the situation and choose a coordinate system. Assume  the mass can be treated as a particle and draw an extended free-body diagram, choosing an axis directed radially toward the pivot point and an axis tangential to the arc of the motion.  Assume tension keeps the string taut so it does not bend or bow.  
 </p>
 
- <p> Recall Newton's law of Torque,
+ <p> Recall the Rotationa Law of Motion
  
   <me> \sum \tau = I\alpha </me>
  
-The gravitational torque <m> \tau = -Lmg\sin\theta(t)</m> is the torque about the pivot point, <m>I=mL^2 </m> is the moment of inertia of a point mass about the pivot point and <m>\alpha= \frac{d^2}{dt^2}\theta(t)</m> is the angular acceleration of the pendulum mass. Putting this all together,
+The gravitational torque <m> \tau = -Lmg\sin\theta(t)</m> is the torque about the pivot point, <m>I=mL^2 </m> is the moment of inertia of a point mass about the pivot point and <m>\alpha= \frac{d^2}{dt^2}\theta(t)</m> is the angular acceleration of the pendulum mass. Putting this all together and simplifying:
 
 <men xml:id="pendulumE">  mL^2 \frac{d^2}{dt^2}\theta(t) = -Lmg \sin\theta(t) </men>
 
-Simplifying our expression we find,  
 
 <men xml:id="pendulumE2"> \frac{d^2}{dt^2}\theta(t)=-\frac{g}{L} \sin\theta(t)</men>
 
@@ -44,14 +54,14 @@ This is the equation of motion for the pendulum in terms of the angular position
 		<p>Looking at equation <xref ref="pendulumE2"></xref>, does this equation of motion satisfy the condition proposed in <xref ref="HM_model"></xref>? Explain why or why not. </p>
 		</statement>
 		<answer>
-		<p>The equation of motion for the simple pendulum does not satisfy the condition. We can see that the restoring force is not directly proportional to the angular displacement. Instead, it depends on <m> \sin\theta(t)</m>. </p>
+		<p>The equation of motion for the simple pendulum does not satisfy the condition. The restoring force is not directly proportional to the angular displacement. Instead, it depends on <m> \sin\theta(t)</m>. </p>
 		</answer>
 		</exercise>
 		
 		<exercise>
 		<title>Approximating the Restoring Force</title>
 		<statement>
-		<p>Can you come up with a reasonable approximation such that the restoring force in the simple pendulum is directly proportional to the angular displacement?</p>
+		<p>Sketch quick graphs of <m> \sin\theta</m> and <m>\theta(t)</m> on the same set of axes.  Can you use the graphs to come up with a reasonable approximation in which the restoring force for the simple pendulum is directly proportional to the angular displacement?</p>
 		</statement>
 		<answer>
 		<p>The <alert>small-angle approximation</alert> can be used to approximate the values of the sine and cosine functions (or any combination) if the angle is restricted to a certain domain. This technique is discussed in detail in the next section.</p>

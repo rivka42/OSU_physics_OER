@@ -4,27 +4,27 @@
   <title>Relationship to Circular Motion</title>
 			
 <p>
-Consider a particle in uniform circular motion with angular velocity <m> \omega </m>. The x-component of the particle's position when the particle has angular position <m> \phi</m> and radius <m> r=A </m> can be written using trigonometric relations as
+Consider a particle in uniform circular motion with angular velocity <m> \omega(t) </m>. The <m>x</m>-component of the particle's position when the particle has angular position <m> \theta(t)</m> and radius <m> r=A </m> can be written using trigonometric relations as
 
 <me> x = A\cos(\phi) </me>
 
-We will now show that this is equivalent to the position function <m> x(t) = A \cos(\omega t + \phi_0) </m> for an oscillation where the particle has initial conditions <m> \phi_0 = 0 </m>  at <m> t=0 </m>. Recall the angular velocity is the rate of change of angular position
+This is equivalent to the position function <m> x(t) = A \cos(\omega_s t + \phi_o) </m> for an oscillating block on a spring with initial condition <m> \phi_o = 0 </m>  at <m> t=0 </m>. Recall the angular velocity is the rate of change of angular position
 
-<me> \phi = \frac{d\theta}{dt} </me> 
+<me> \omega(t) = \frac{d\theta}{dt} </me> 
 
 This equation is separable. A small change in angle can be written, 
 
-<me> d\phi = \omega dt </me>
+<me> d\theta = \omega(t) dt </me>
 
-If the particle is in uniform circular motion, then <m> \omega </m> is constant in time. Integrating both sides of the relationship
+If the particle is in uniform circular motion, then <m> \omega(t) = \omega </m> is constant in time. Integrating both sides of the relationship
 
-<me> \int_{\phi_0}^{\phi} d \phi = \omega \int_{0}^{t} dt \rightarrow \phi = \omega t +\phi_0 </me>
+<me> \int_{\theta_o}^{\theta} d \theta = \omega \int_{0}^{t} dt \rightarrow \theta(t) = \omega t + \theta_o </me>
 
-As time increases, the particle's x-component can be written as
+As time increases, the particle's <m>x</m>-component can be written as
 
-<me> x(t) = A \cos(\omega t + \phi_0) </me>
+<me> x(t) = A \cos(\theta(t) = A \cos(\omega t + \theta_o) </me>
 
-We see that as the particle moves in a circle, it's projection onto the x-axis oscillates between <m> x = \pm A </m>. Thus, <alert> uniform circular motion is simple harmonic motion when projected onto one spatial axis </alert>. 
+As the particle moves in a circle, it's projection onto the <m>x</m>-axis oscillates between <m> x = \pm A </m>. Thus, <alert> uniform circular motion is simple harmonic motion when projected onto one spatial axis </alert>. 
 </p>
 
 <figure xml:id="circular_HM">
@@ -34,9 +34,9 @@ We see that as the particle moves in a circle, it's projection onto the x-axis o
 
 
 <p>
-This also helps us understand the meaning of the <alert> phase constant </alert>. The <alert> phase </alert> of the motion is determined by the quantity <m> \phi = \omega t +\phi_0</m> and represents the angle of the particle in circular motion. The phase constant <m> \phi_0 </m>  is the initial angle when <m> t = 0 </m>. Setting <m> t = 0 </m> in our position function for a simple harmonic oscillator, we can find the initial x-position
+This can also help you understand the meaning of the <alert> initial phase </alert>. The <alert> phase </alert> in oscillatory motion is given by <m> \phi = \omega_s t +\phi_o</m> and is analogous to the angle of a particle in circular motion <m> \theta = \omega t +\theta_o</m>. The initial phase <m>\phi_o </m> in oscillatory motion is analogous to the initial angle <m>\theta_o</m> when <m> t = 0 </m>. Setting <m> t = 0 </m> in the position function for a simple harmonic oscillator, you can find the initial <m>x</m>-position
 
-<me> x_0 = A \cos(\phi_0) </me> 
+<me> x_0 = A \cos(\theta_o) </me> 
 
 Thus different values of the phase constant represent different starting points on the circle and correspond to different <em> initial conditions </em> of the motion. 
 </p>

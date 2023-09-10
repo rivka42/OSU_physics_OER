@@ -3,15 +3,15 @@
 <section xml:id="sec_graphTrig" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Graphical Trigonometry</title>
 	<p>
-Simple harmonic motion is motion where the position as a function of time of the object undergoing oscillatory motion can be represented by a sinusoidal function. 
+Simple harmonic motion usually involves representing the position as a sinusoidal function of time. 
 </p>
 
 <p> 
-<men xml:id="pos_HM">\vec{x}(t) = A \cos \left(\frac{2\pi t}{T} + \phi_0\right)\hat{x}</men>
+<men xml:id="pos_HM">\vec{x}(t) = \vec{x}_o + A \cos \left(\frac{2\pi t}{T} + \phi_o\right)\hat{x}</men>
 </p>
 
 <p>
-Here, the notation <m> x(t)</m> reminds us that the position <m>x</m> of the object is a <em>function</em> of time <m>t</m>. The position graph is a cosine function with an <alert>amplitude</alert> <m>A</m>, a <alert>period</alert> <m>T</m> and a <alert>phase constant</alert> <m> \phi_0</m>. The argument of a trigonometric function is called the <em>phase</em> and the phase constant <m> \phi_0</m> tells us the initial conditions for the oscillation, when <m> t=0</m>.
+Here, the notation <m> \vec{x}(t)</m> reminds you that the position <m>x</m> of the object is a <em>function</em> of time <m>t</m>. The position is a cosine function with <alert>amplitude</alert> <m>A</m>, <alert>period</alert> <m>T</m>, <alert>initial phase</alert> <m> \phi_o</m>, and <alert>equilibrium position</alert> <m>\vec{x}_o</m>. The argument of a trigonometric function is called the <em>phase</em> and <m> \phi_o</m> tells you the initial condition for the oscillation (the position at <m> t=0</m>).
 </p> 
 
 <figure xml:id="HM_position">
@@ -19,14 +19,26 @@ Here, the notation <m> x(t)</m> reminds us that the position <m>x</m> of the obj
     		<image source="oscillate/HM_position.png" width = "50%" ></image>
 </figure>
 
+		<exercises>
+		<title>Graphical Activities</title>
+	<exercise>
+		<statement>
+		<p>Identify the equilibrium position <m>x_o</m> and the initial phase <m> \phi_o</m> in the graph above.  Explain how you found them</p>
+		</statement>
+<solution>
+<p>
+The initial phase can be found by looking at where the cosine wave is at <m>t = 0</m>: here, it is at a maximum, which means <m>\phi_o = 0</m>.  The equilibrium position can be found by looking halfway between the maximum and minimum values, which here is at <m>x_o = 0</m>.  When possible, it is extremely common to choose both of these quantities to be zero to simplify the position equation.
+</p>
+</solution>
+</exercise>
+</exercises>
 
 <p>
-Looking at figure <xref ref="HM_position"></xref>, we see a graph of position as a function of time. For this oscillation, the object has an equilibrium position at <m> x = 0 </m>. The amplitude represents the maximal distance away from the equilibrium position. Notice that the object oscillates between <m> x = A </m> and <m> x = -A </m>. The period represents the time it takes in seconds to complete one full oscillation. 
+The period represents the time it takes to complete one full oscillation.  The amplitude represents the maximal distance away from the equilibrium position. Notice that the object oscillates between <m> x = A </m> and <m> x = -A </m>.  Often, you will use a more evocative name for the amplitude, such as <m>x_{max}</m>, to make the units of the amplitude more obvious. 
 </p>
 
-
 <p>
-Another important characteristic of oscillatory motion is the <alert>frequency</alert>, <em>f</em>. The frequency is the number of cycles per second. Since period T represents the time it takes to complete one cycle, period and frequency have an inverse relationship. 
+Another important characteristic of oscillatory motion is the <alert>frequency</alert> <m>f</m>. The frequency is the number of cycles completed during each second. Since period <m>T</m> represents the time it takes to complete one cycle, period and frequency have an inverse relationship. 
 </p>
 
 <p>
@@ -34,10 +46,10 @@ Another important characteristic of oscillatory motion is the <alert>frequency</
 </p>
 
 <p>
-Recall that a particle in uniform circular motion has an angular velocity <m>\omega</m> that is related to the period of motion by 
+Recall that a particle in uniform circular motion has an angular velocity <m>\omega</m> related to the period of motion by 
 <men>\omega= \frac{2 \pi}{T}</men> 
 
-This relation holds true in simple harmonic motion. When describing oscillatory motion, <m> \omega </m> is called the <alert> angular frequency</alert> rather than angular velocity. The physical units of <m>\omega</m> are given in <m>rad/s</m>. Note that since radians are a dimensionless unit, often the rad is dropped for the SI units when <m>\omega</m> is used together with other quantities. Most of the symbolic work we will do when representing oscillations in problems and models will be done in terms of the angular frequency, <m>\omega</m>. 
+This relation holds true in simple harmonic motion. When describing oscillatory motion, <m> \omega </m> is called the <alert> angular frequency</alert> rather than angular velocity. The physical units of <m>\omega</m> are given in rad/s. Note that since radians are a dimensionless unit, often the rad is dropped for the SI units when <m>\omega</m> is used together with other quantities. Most of the symbolic work you will do when representing oscillations will be done in terms of the angular frequency <m>\omega</m>, rather than the ordinary frequency <m>f</m>. 
 </p>
 
  
@@ -57,7 +69,7 @@ This relation holds true in simple harmonic motion. When describing oscillatory 
 		<exercise>
 		<title>Exploring the Period, Frequency and Angular Frequency</title>
 		<statement>
-		<p>It is often useful to be able to represent oscillatory motion in terms of the period T, the frequency <em>f</em> or the angular frequency <m>\omega</m>. Write the relationship between angular frequency <m>\omega</m>, period and frequency. </p>
+		<p>It is often useful to represent oscillatory motion in terms of the period T, the frequency <m>f</m> or the angular frequency <m>\omega</m>. Write the relationship between angular frequency <m>\omega</m>, period and frequency. </p>
 		</statement>
 		<answer> 
 		<p>We can write a relation between period <m>T</m>, frequency <m>f</m>, and angular frequency <m>\omega</m> as follows:</p>
@@ -69,19 +81,19 @@ This relation holds true in simple harmonic motion. When describing oscillatory 
 		<exercise>
 		<title>Exploring the Position Function</title>
 		<statement>
-		<p>It is often useful to be able to represent the position function in terms of the period T, the frequency <em>f</em> or the angular frequency <m>\omega</m>. Rewrite equation <xref ref="pos_HM"></xref> in terms of the frequency <m>f</m> and the angular frequency <m>\omega</m>.</p>
+		<p>It is often useful to be able to represent the position function in terms of the period <m>T</m>, the frequency <m>f</m> or the angular frequency <m>\omega</m>. Rewrite equation <xref ref="pos_HM"></xref> in terms of the frequency <m>f</m> and the angular frequency <m>\omega</m>.</p>
 		</statement>
 		</exercise>
 		<answer>
 		<p>We can write the position relationship as follows:</p>
 		<p>
 		<md> 
-		<mrow>\vec{x}(t) \amp = A \cos \left(\frac{2\pi t}{T} + \phi_0\right)\hat{x}</mrow>
-		<mrow>               \amp  = A \cos(2 \pi f t+ \phi_0)\hat{x}</mrow>
-		<mrow>               \amp  =A \cos(\omega t+ \phi_0)\hat{x} </mrow>
+		<mrow>\vec{x}(t) \amp = A \cos \left(\frac{2\pi t}{T} + \phi_o\right)\hat{x}</mrow>
+		<mrow>               \amp  = A \cos(2 \pi f t+ \phi_o)\hat{x}</mrow>
+		<mrow>               \amp  =A \cos(\omega t+ \phi_o)\hat{x} </mrow>
 		</md>
 		</p>
-		<p>often <m>\vec{x}(t) = A\cos(\omega t + \phi_0)\hat{x}</m> is most useful for solving problems. This is the form of the position function we will use going forward when studying simple harmonic motion. </p>
+		<p>often <m>\vec{x}(t) = A\cos(\omega t + \phi_o)\hat{x}</m> is most useful for solving problems. This is the form of the position function we will use going forward when studying simple harmonic motion. </p>
 		</answer>
 		</exercises>		
 

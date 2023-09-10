@@ -4,7 +4,7 @@
   <title>Models Including Dissipative Forces</title>
 			
  <p>
-The models we have built for simple harmonic motion of spring, simple pendulums, and rigid body oscillators have not included dissipative forces such as friction. We know from experience that a pendulum left to oscillate will lose energy to the system. The amplitude decreases in time until all energy has been dissipated and the system comes to rest. An oscillation whose amplitude decreases in time is called a <alert> damped oscillation</alert>. Energy dissipation can be caused by dissipative forces such as air resistance or friction. 
+The models you have built for simple harmonic motion of spring, simple pendulums, and rigid body oscillators have not included dissipative forces such as friction. You know from experience that a pendulum left to oscillate will lose energy. The amplitude decreases in time until all energy has been dissipated and the system comes to rest. An oscillation whose amplitude decreases in time is called a <alert> damped oscillation</alert>. Energy dissipation can be caused by dissipative forces such as air resistance or friction. 
  </p>
  
  <figure xml:id="Damped_spring">
@@ -13,11 +13,11 @@ The models we have built for simple harmonic motion of spring, simple pendulums,
     </figure>
  
  <p>
-We will now analyze a spring system and consider the effects of air drag. We will assume a drag force that is directly proportional to the velocity.
+You can now analyze a spring system and consider the effects of air drag, assuming a drag force that is directly proportional to the velocity.
  
  <me> \vec{F}_{drag} = -b\vec{v}</me>
  
-Recall that the <alert>damping constant </alert>, <m>b</m>, depends on the shape of the object and the viscosity of the air (or other medium) in which it moves. The damping constant plays the same role as the coefficient of friction. The negative sign reminds us that the force always opposes the velocity of the object. 
+Recall that the <alert>damping constant </alert>, <m>b</m>, depends on the shape of the object and the viscosity of the air (or other medium) in which it moves. The damping constant plays the same role as the coefficient of friction. The negative sign reminds you that the force always opposes the velocity of the object. 
 </p>
 
 <figure xml:id="mass_spring_damp">
@@ -26,23 +26,23 @@ Recall that the <alert>damping constant </alert>, <m>b</m>, depends on the shape
     </figure>
 
 <p>
-Again, we apply the general physics problem-solving strategy. First, we draw a pictorial representation of the situation, and choose a coordinate system we will use to reference positions and velocities of the mass. Applying Newton's 2nd Law, we find
+Again, apply the general physics problem-solving strategy. First, draw a pictorial representation of the situation and choose a coordinate system. Applying the Law of Motion, you find
 
 <me> ma_x = -kx -bv_x </me>
 
-Using the relationship between velocity acceleration and position, we rewrite the equation in terms of position only. 
+Using the relationship between velocity acceleration and position, rewrite the equation in terms of position only. 
 
 <men xml:id="dampedEOM"> \frac{d^2}{dt^2}x(t) + \frac{b}{m}\frac{d}{dt}x(t) +\frac{k}{m}x(t) = 0</men>
 
-This is the equation of motion of a damped mass on a spring. Since we know that the amplitude decreases in time, we can guess a solution of the form:
+This is the equation of motion of a damped mass on a spring. Since you know that the amplitude decreases in time, you can guess a solution of the form:
 
-<men> x(t) = A e^{-bt/m} \cos{(\omega t +\phi_0)}</men>
+<men> x(t) = A e^{-bt/m} \cos{(\omega t +\phi_o)}</men>
 
 The oscillation frequency is given by,
 
 <men> \omega = \sqrt{\frac{k}{m} +\frac{b^2}{4m}}=\frac{2 \pi}{T}</men>
 
-We see that the oscillation frequency is equivalent to the original oscillation frequency modified by the quantity <m> b^2/4m^2 </m>. Below we show a graph of the position as a function of time for the damped oscillator. The cosine function modified by the exponential decay is shown. The We see that the envelope of the amplitude decays in time. The maximum displacement away from equilibrium decreases according to the function
+You can see that the oscillation frequency is equivalent to the original oscillation frequency modified by the quantity <m> b^2/4m^2 </m>. Below is a graph of the position as a function of time for the damped oscillator. The cosine function modified by the exponential decay is shown. You can see that the envelope of the amplitude decays in time. The maximum displacement away from equilibrium decreases according to the function
 
 <me> x_{max}(t) = A \exp(-bt/2m)</me>
 </p>
