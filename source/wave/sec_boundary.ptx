@@ -3,6 +3,32 @@
 <section xml:id="sec_boundary" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Boundaries and Discontinuities</title>
   
+				<exercises>
+	<title>Warm-up Activity</title>
+			<title>Explore - Wave on a String</title>
+			  <p>Play with this <url href="https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_en.html" visual="simulation"/> for a few minutes.</p>
+			<exercise>
+			<statement>
+			  <p>Write an interesting observation you made using the simulation. Try to connect your observation to something you have experienced in your everyday life.</p>
+				</statement>
+			</exercise>
+						<exercise>
+			<statement>
+			  <p>If you have not done so already, follow these steps in the simulation:</p>
+				<p>
+				<ul>
+				<li>Click on the Pulse button and reduce the damping to zero.</li>
+				<li>With the right end <em>fixed</em>, click on the green Pulse button once and observe what happens.</li>
+				<li>Develop a rule for what happens to a wave pulse when it reflects from a fixed end.</li>
+				<li>Click on the yellow Restart button.</li>
+				<li>With the right end <em>loose</em>, click on the green Pulse button once and observe what happens.</li>
+				<li>Develop a rule for what happens to a wave pulse when it reflects from a loose end.</li>
+				</ul>
+				</p>
+				</statement>
+			</exercise>
+		</exercises>
+	
 <p> 
 When waves propagate, they can encounter boundaries and discontinuities. 
 </p>  

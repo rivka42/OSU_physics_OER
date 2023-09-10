@@ -27,13 +27,14 @@
 <xi:include href="./wave/sec_intensity.ptx" /> 
 <xi:include href="./wave/sec_loudness.ptx" /> 
 <xi:include href="./wave/sec_doppler.ptx" />
-<xi:include href="./wave/sec_interference.ptx" /> 
-<xi:include href="./wave/sec_phase_diff.ptx" />
-<xi:include href="./wave/sec_2source.ptx" /> 
-<xi:include href="./wave/sec_superposition_waves.ptx" /> 
+<xi:include href="./wave/sec_superposition_waves.ptx" />
+<xi:include href="./wave/sec_boundary.ptx" />
+<xi:include href="./wave/sec_phase_diff.ptx" /> 
 <xi:include href="./wave/sec_standing.ptx" />
 <xi:include href="./wave/sec_standing_string.ptx" />
-<xi:include href="./wave/sec_boundary.ptx" />
+<xi:include href="./wave/sec_2source.ptx" /> 
+
+<!-- <xi:include href="./wave/sec_interference.ptx" /> -->
 
 </chapter>
 

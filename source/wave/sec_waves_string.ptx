@@ -5,19 +5,19 @@
   
   
 <p>
-A mechanical wave is an organized disturbance which travels outward from the source of the wave through a medium at the wave speed <m> \nu </m>. Let's consider a stretched string of length <m> L </m>, mass <m> m </m>, with tension <m> T_s </m>, and <alert> linear density </alert> <m> \mu_s</m> where 
+Consider a stretched string of length <m> L </m> and mass <m> m </m> with tension <m> T_s </m>, and <alert> linear density </alert> <m> \mu_s</m> where 
 
 <me> \mu_s = \frac{m}{L}</me>
 
 is the mass-to-length ratio of the string. The wave speed <m> \nu </m>
 
-<me> \nu_{string} = \sqrt{\frac{T_s}{\mu_s}} </me>
+<me> \nu_{\text{string}} = \sqrt{\frac{T_s}{\mu_s}} </me>
 
 depends on the tension which serves as a restoring force for the medium and the linear density of the string. 
 </p>
 <figure xml:id="pulse">
     	<caption>
-	A wave passing through a string. The wave propagates with wave speed <m> \nu_{string}</m>.
+	A wave passing through a string. The wave propagates with wave speed <m> \nu_{\text{string}}</m>.
 	</caption>
     	<image source="wave/pulse.gif" width = "50%" ></image>
 </figure>	
@@ -30,7 +30,7 @@ depends on the tension which serves as a restoring force for the medium and the 
 <title>Sensemaking: Units of wave speed</title>
 <statement>
 <p>
-Explicitly check the units of <m> \nu_{string} </m> to confirm its relationship holds.  
+Explicitly check the units of <m> \nu_{\text{string}} </m> to confirm its relationship holds.  
 </p>
 </statement>
 <answer>

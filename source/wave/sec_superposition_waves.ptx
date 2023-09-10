@@ -5,40 +5,27 @@
 		
 			<exercises>
 	<title>Warm-up Activity</title>
-			<title>Explore - Wave on a String</title>
-			  <p>Play with this <url href="https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_en.html" visual="simulation"/> for a few minutes.</p>
-			<exercise>
-			<statement>
-			  <p>Write an interesting observation you made using the simulation. Try to connect your observation to something you have experienced in your everyday life.</p>
-				</statement>
-			</exercise>
-						<exercise>
-			<statement>
-			  <p>If you have not done so already, follow these steps in the simulation:</p>
-				<p>
-				<ul>
-				<li>Click on the Pulse button and reduce the damping to zero.</li>
-				<li>With the right end <em>fixed</em>, click on the green Pulse button once and observe what happens.</li>
-				<li>Develop a rule for what happens to a wave pulse when it reflects from a fixed end.</li>
-				<li>Click on the yellow Restart button.</li>
-				<li>With the right end <em>loose</em>, click on the green Pulse button once and observe what happens.</li>
-				<li>Develop a rule for what happens to a wave pulse when it reflects from a loose end.</li>
-				</ul>
-				</p>
-				</statement>
-			</exercise>
+			<p>Two pulses approach each other on the string below.</p>
+			  <figure xml:id="waves_approach">
+		 <caption>Two wave pulses approach each other.</caption>
+		<image source="MovingPulses.png" width = "75%">
+			<description>Two curved wave pulses on a string: the left pulse, moving to the right, is taller than the right pulse, moving to the left.</description></image>
+  </figure>
+	<exercise>
+	<p>Predict what you think the shape of the string will look like as the wave pulses continue to move on the string.  Sketch a few diagrams showing the string at a few different instants in time.  Explain your reasoning.</p>
+	</exercise>
 		</exercises>
 		
       <video youtube="Ehx6a5VssFo"><description>ADDME</description></video>
 	
-	<p>ADDME</p>
+	<p>When two or more waves meet, they do not typically impact each other, but they do work together to influence the resulting displacement of the medium.</p>
 	
-	<definition>
-	<title>ADDME</title>
+	<principle>
+	<title>Wave Superposition</title>
 	<statement>
-		<p>The <term>angular momentum</term> of a rigid object about a given axis is the product of the object's moment of inertia and angular velocity about that axis: <me>\vec{L} = I\vec{\omega}</me></p>
+		<p>The total displacement caused by multiple waves can be determined by adding the displacements caused by each wave.  The displacements have to be added separately at every point in space and time.</p>
 	</statement>
-</definition>
+</principle>
 
     <figure xml:id="superP">
     	<caption>The superposition of two wave pulses.</caption>

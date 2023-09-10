@@ -3,10 +3,11 @@
 <section xml:id="sec_pendula" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Simple Pendulum</title>
 			
-			<video youtube="F0zpSlY0u1E"><description>Introducing pendula.</description></video>
+			
 			
 			<exercises>
 		<title>Warm-up Activity</title>
+		<video youtube="F0zpSlY0u1E"><description>Introducing pendula.</description></video>
 		<exercise>
 		<p>Follow the steps from the end of the video above to find an equation of motion for the simple pendulum.</p>
 		</exercise>
