@@ -6,7 +6,7 @@
     <exercises>
 		<title>Exploring Refraction</title>
 			<exercise>
-			  <p>Play with this light simulation: <url href="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html"/>.  Play around with it for at least a few minutes.</p>
+			  <p>Play with this <url href="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html" visual="light simulation"/> for at least a few minutes.</p>
 			</exercise>
 			<exercise>
                 <!--
@@ -15,9 +15,17 @@
 			<p>Make a list of your observations as you go. Design and carry out an experiment to investigate one of your observations.</p>
 			</exercise>
 		</exercises>
-    <p>Why does a straw in a glass of water look bent? Why do people look shorter in swimming pools? Why do mirages happen? The answer to all of these questions is refraction! Light bends when moving from one medium to another.</p>
 
     <video youtube="Mun7c6RB140"><description>Video description.</description></video>
+		
+		<p>Refraction is a common everyday phenomenon that helps answer the following questions: Why does a straw in a glass of water look bent? Why do people look shorter in swimming pools? Why do mirages happen?  The fact that light bends when moving from one medium to another helps answer all of these questions.  This bending fundamentally results from a difference in the speed that light travels within different substances, which you can quantify using the index of refraction.</p>
+		
+		    <definition>
+        <title>Index of Refraction</title>
+        <statement>
+            <p>The <term>Index of Refraction</term> is defined as <m>n = c/v</m>, a ratio of the speed of light over the velocity of light propagation inside a medium. This number tells us something about how much a light ray will bend within a certain medium.</p>
+        </statement>
+    </definition>
 
     <principle>
         <title>The Law of Refraction (Snell's Law)</title>
@@ -30,12 +38,7 @@
         </statement>
     </principle>
 
-    <definition>
-        <title>Index of Refraction</title>
-        <statement>
-            <p>The <term>Index of Refraction</term> is defined as <m>n = c/v</m>, a ratio of the speed of light over the velocity of light propagation inside a medium. This number tells us something about how much a light ray will bend within a certain medium.</p>
-        </statement>
-    </definition>
+
 
     <exercises>
         <title>Refraction Activities</title>
@@ -44,7 +47,7 @@
                 <p>When a ray of light passes from one medium into another, the ray will be refracted in the second medium according to the Law of Reflection. But for some critical angle and above, the ray of light will be completely reflected back into the initial medium. In this activity, we will work through this phenomenon to arrive at a useful conclusion. Work through the following questions.</p>
                 <ol>
                     <li>
-                        Starting with the Figure above (<xref ref="refraction" />), let's think about our initial condition for total internal reflection. If we want the second ray (the one entering the second medium) to start to be reflected back (i.e., the ray will not be entering the second medium), what does the second angle need to be equal to? Write down Snell's Law for this situation.
+                        Starting with the Figure above (<xref ref="refraction" />), think about the initial condition for total internal reflection. If you want the second ray (the one entering the second medium) to start to be reflected back (i.e., the ray will not be entering the second medium), what does the second angle need to be equal to? Write down Snell's Law for this situation.
                         <answer>
                         <p><m>90^\circ</m>. This means the second ray is going to point along the interface between the first and second medium. This would be the starting point for the initial ray being completely reflected back into the first medium. Snell's law would then be: <m>n_1 \mathrm{sin} \theta_c = n_2 \mathrm{sin}(90^\circ) = n_2</m>. <m>\theta_c</m> is known as the critical angle.</p>
                         </answer>
@@ -53,7 +56,7 @@
                     <li>What does this mean about the ratio of <m>n_2 / n_1</m>? Does the index of refraction of the second medium need to be greater than or less than the index of refraction of the first medium? Can they be equal to each other?</li>
                     
                     <li>
-                        A light ray is travelling through diamond (<m>n_1 = 2.4</m>) and is incident upon a layer of olive oil (<m>n_1 = 1.4</m>). What is the critical angle for this situation?
+                        A light ray is traveling through diamond (<m>n_1 = 2.4</m>) and is incident upon a layer of olive oil (<m>n_1 = 1.4</m>). What is the critical angle for this situation?
                         <answer>
                             <p><m>\theta_c = 35.6^\circ</m></p>
                         </answer>
@@ -65,8 +68,8 @@
 
             <exercise xml:id="x_dispersion">
                 <title>Dispersion</title>
-                <p>Until now, we have been talking about a vague light ray and we haven't addressed the elephant in the room, which is that light has a wavelength associated with it, or if we are thinking about white light, then it is made up of multiple different wavelengths of light. To see how the wavelength of the light affects it's motion as it passes into a new medium, we need to talk about dispersion. <term>Dispersion</term> is the spreading out of a light ray based on it's wavelength. This means that an index of refraction of a medium actually depends on the wavelength of light entering the medium.</p>
-                <p>In this activity, we will use this fact to understand how a prism works.</p>
+                <p>Until now, you have been considering an unspecified light ray. Light, however, has a wavelength (or multiple different wavelengths in the case of white light). The difference in how light rays of different wavelengths behave is known as <term>dispersion</term>. The fundamental cause of dispersion is that the index of refraction in a substance actually depends on the wavelength of light.</p>
+                <p>In this activity, you will use this fact to understand how a prism works.</p>
 
                 <ol>
                     <li>First draw a ray diagram of a light ray entering a prism and then exiting through the other side. Label all necessary angles and indexes of refraction.</li>
@@ -76,7 +79,7 @@
                             <p><m>\theta_2 = 27.5^\circ</m> for violet light rays and <m>\theta_2 = 27.9^\circ</m> for red light rays. While this difference might seem small, the fact there is any difference at all allows for the light to be dispersed.</p>
                         </answer>
                     </li>
-                    <li>Explain how a prism works! Write a few sentences explaining how a prism works and why we see a rainbow if we shine white light through the prism.</li>
+                    <li>Explain how a prism works! Write a few sentences explaining how a prism works and why you see a rainbow if we shine white light through the prism.</li>
                 </ol>
             </exercise>
     </exercises>

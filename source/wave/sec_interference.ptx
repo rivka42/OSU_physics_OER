@@ -3,33 +3,60 @@
 <section xml:id="sec_interference" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Interference</title>
 	
-      <video youtube="Ehx6a5VssFo"><description>ADDME</description></video>
+      <video youtube="8xHVotJfykk"><description>Introducing interference.</description></video>
 	
-	<p>ADDME</p>
+	<exercises>
+	<title>Activities</title>
+	<p>Consider the two waves written below: <me>y_1(x,t) = y_m \sin{(kx - \omega t)}</me> <me>y_2(x,t) = y_m \sin{(kx - \omega t + \pi/2)}</me></p>
+			<exercise>
+			  <p>Sketch a graph of each wave at <m>t = 0</m> showing at least two full wavelengths.</p>
+			</exercise>
+			<exercise>
+			<statement>
+			  <p>From looking at the graphs, can you tell whether these waves have constructive interference, destructive interference, or neither?</p>
+				</statement>
+			</exercise>
+						<exercise>
+			<statement>
+			  <p>From looking at the equations, can you tell whether these waves have constructive interference, destructive interference, or neither?</p>
+				</statement>
+			</exercise>
+						<exercise>
+			<statement>
+			  <p>If you have not done so already, sketch a graph of the sum of the two waves at <m>t = 0 </m> showing at least two full wavelengths.</p>
+				</statement>
+			</exercise>
+		</exercises>
 	
+<video youtube="XfU7KmKRt8M"><description>Describing relative phase for interference.</description></video>
+
+<p>When two waves add together at the same location in space, the sum of the two waves is the result of interference.  The degree of interference can be quantified using the relative phase between the two waves, which has two parts: (1) the natural phase difference from the initial creation of each wave and (2) the phase difference due to the path length difference <m>\Delta D</m>.  The path length difference is the difference in distances traveled by the two waves from their source to the point of interference.</p>
+
 	<definition>
-	<title>ADDME</title>
+	<title>Maximum Constructive Interference</title>
 	<statement>
-		<p>The <term>angular momentum</term> of a rigid object about a given axis is the product of the object's moment of inertia and angular velocity about that axis: <me>\vec{L} = I\vec{\omega}</me></p>
+		<p>Two waves undergo <term>maximum constructive interference</term> if their relative phase is an integer multiple of <m>2\pi</m> such as <me>\Delta \phi = 0, \pm 2\pi, \pm 4\pi, ...</me>  If the initial phase difference is equal to zero, this corresponds to a path length difference that is an integer multiple of the wavelength <me>\Delta D = 0, \pm \lambda, \pm 2\lambda, ...</me></p>
 	</statement>
 </definition>
 
+	<definition>
+	<title>Complete Destructive Interference</title>
+	<statement>
+		<p>Two waves undergo <term>complete destructive interference</term> if their relative phase is an odd integer multiple of <m>\pi</m> such as <me>\Delta \phi = \pm \pi, \pm 3\pi, ...</me>  If the initial phase difference is equal to zero, this corresponds to a path length difference that is a half-integer multiple of the wavelength <me>\Delta D = \pm \lambda/2, \pm 3\lambda/2, ...</me></p>
+	</statement>
+</definition>
 
 
 	<exercises>
 	<title>Activities</title>
 			<exercise>
-			<title>Summarize What You Learned - </title>
-			  <p>Write a 1-2 sentence description of what the definitions of angular momentum say in words.  How can you tell which definition to use?</p>
+			  <p>You are standing halfway between two sources of waves with the same frequency and amplitude.  You observe destructive interference at your location.  Explain how this is possible.</p>
 			</exercise>
-			<exercise>
-			<title>Sensemaking: Units</title>
-			<statement>
-			  <p>What are the units of angular momentum?  How do they compare to the units of translational momentum?</p>
-				</statement>
-				<answer>
-				<p>Js</p>
-				</answer>
+						<exercise>
+			  <p>Two waves with the same initial phase, frequency, and amplitude reach you by traveling different distances.  One wave traveled 4 m to reach you and the other wave traveled 5.5 m to reach you.  The wavelength is 0.5 m.  What kind of interference do you see?  Explain your reasoning.</p>
+			</exercise>
+									<exercise>
+			  <p>The wavelengths of the waves in the previous activity are changed to 1 m.  What kind of interference do you see now?  Explain your reasoning.</p>
 			</exercise>
 		</exercises>
 

@@ -4,57 +4,68 @@
     <title>Two-Slit Interference</title>
   
     <video youtube="C0bcn8GAWs4"><description>Quantifying the interference of light incident on two small slits.</description></video>
-
-    <p>The Double-Slit Experiment was originally conducted by Thomas Young in 1801 to show that light does indeed behave like a wave. Just like water waves interacting with each other, as light travels through two slits, the crests and troughs of the light waves will interact with each other and produce an interference pattern on the screen behind the slits.</p>
 		
-	<p>NOTE: SOME OF THESE EQUATIONS, ESPECIALLY PATH LENGTH DIFFERENCE, MIGHT GO BETTER IN THE WAVES SECTION ON INTERFERENCE</p>
-
-    <p>The spacing of the interference pattern can be determined by looking at the path length difference of the rays exiting the slits.</p>
-    <figure>
-        <caption>Interference pattern produced by light travelling through two adjacent slits. The central maxima is at a value of <m>m = 0</m>.</caption>
+		    <figure>
+        <caption>Interference pattern produced by light traveling through two adjacent slits. The central maxima is at a value of <m>m = 0</m>.</caption>
         <image source="optics/double_slit.jpg"></image>
     </figure>
+
+    <p>The Double-Slit Experiment was originally conducted by Thomas Young in 1801 to show that light does indeed behave like a wave. Just like water waves interacting with each other, as light travels through two slits, the crests and troughs of the light waves will interact with each other and produce an interference pattern on the screen behind the slits.  In fact, the general rules for interference are the same as you saw in <href ref="sec_interference"/>.</p>
+
     <definition>
         <title>Constructive Interference</title>
         <statement>
-            <p><term>Constructive Interference</term> occurs when <m>\Delta D = m \lambda</m>. These are points where there is a bright spot present.</p>
+            <p><term>Constructive Interference</term>, which leads to a very bright spot on a screen, occurs when <m>\Delta D = m \lambda</m>  where <m>m = 0, 1, 2, ...</m>.</p>
         </statement>
     </definition>
+		
     <definition>
         <title>Destructive Interference</title>
         <statement>
-            <p><term>Destructive Interference</term> occurs when <m>\Delta D = (m + \frac{1}{2}) \lambda</m>. These are points where there is a dark spot present.</p>
+            <p><term>Destructive Interference</term>, which leads to a dark spot on a screen, occurs when <me>\Delta D = (m + \frac{1}{2}) \lambda</me> where <m>m = 0, 1, 2, ...</m>.</p>
         </statement>
     </definition>
-    <definition>
+
+
+    <p>The spacing of the interference pattern can be determined by looking at the path length difference of the rays exiting the slits.</p>
+		
+		    <definition>
         <title>Path Length Difference</title>
         <statement>
-            <p>The <term>Path Length Difference</term>, <m>\Delta D</m>, is represented by <m>\Delta D = d \mathrm{sin} \theta</m>. Here, <m>d</m> is the distance between slits, and <m>\theta</m> is the angle between the center line and the path to a spot on the screen.</p>
+            <p>For a screen that is far away from two sources of light, the <term>Path Length Difference</term> can be approximated as <me>\Delta D = d \mathrm{sin} \theta</me>  where <m>d</m> is the distance between slits and <m>\theta</m> is the angle between the center line and the path to a spot on the screen.</p>
         </statement>
     </definition>
+		
+
+
     <figure>
         <caption>Left: A diagram of the double slit experiment. The slits are separated from the screen by a distance of <m>L</m>, and the angle to the mth bright spot is denoted by <m>\theta_m</m>. The vertical distance to the mth bright spot is <m>y_m</m>. Right: A zoomed-in view of the double slits. The slits are separated by a distance <m>d</m>. Two different rays, <m>r_1</m> and <m>r_2</m> travel towards the screen at an angle <m>\theta</m>, making the path length difference between the two rays equal to <m>d sin\theta</m>.</caption>
         <image source="optics/slit_diagram.jpg"></image>
     </figure>
 
+<!--
+
     <figure>
         <caption>Example intensity pattern for double-slit interference. </caption>
         <image source="optics/intensity.jpg"></image>
     </figure>
+		
+		-->
 
     <exercises>
         <title>Two-Slit Interference Activities</title>
             <exercise xml:id="x_two-slit-interference">
                 <title>Two-Slit Interference Simulation</title>
-                <p>Play with the following experiment for a few minutes. Click on the "Slits" simulation. On the right hand side, increase the number of slits to two.</p>
-                <p>
-                    <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html"/>
-                </p>
+                <p>Play with the <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html" visual="light interference simulation"/> for a few minutes. Click on the "Slits" tab. On the right hand side, increase the number of slits to two.</p>
                 <p>Write down some observations. What happens when you move the slit width to its minimum and maximum values? What happens as you increase the slit separation? What happens when you increase and decrease the frequency?</p>
             </exercise>
+						<exercise>
+						<title>The Small Angle Approximation</title>
+						<p>In the video, you learned about using the small-angle approximation for interference.  Use the small-angle approximation to write an equation relating <m>d</m>, <m>y</m>, <m>L</m>, and <m>\lambda</m> for points of maximum constructive interference.</p>
+						</exercise>
             <exercise>
                 <title>Measure the Wavelength</title>
-                <p>You are conducting the double slit experiment and you have a light source with an unknown wavelength. Your slits are separated by a distance of <m>d = 0.5</m>mm. You measure the third bright fringe to be at a position of 4.7mm to the right of the center line on the screen. What is the wavelength of light? </p>
+                <p>You are conducting the double slit experiment and you have a light source with an unknown wavelength. Your slits are separated by a distance of <m>d = 0.5</m> mm. You measure the third bright fringe to be at a position of 4.7 mm to the right of the center line on the screen. What is the wavelength of light? </p>
             </exercise>
     </exercises>
 </section>

@@ -7,7 +7,7 @@
     <exercises>
         <title>Multiple-Slit Interference</title>
         <!-- Inspired by Paul's in class activity -->
-        <p>To understand how the interference pattern changes, let's work through what happens if we add a third slit to the screen. Let's consider three points on the screen: the central maximum, the first bright spot, and the first dark spot.</p>
+        <p>To understand how the interference pattern changes, let's work through what happens if you add a third slit to the screen. Let's consider three points on the screen: the central maximum, the first bright spot, and the first dark spot.</p>
         <figure>
             <caption>Left: A diagram of the triple-slit experiment. Three slits are located in the center of a plane located a distance L away from a screen. Right: A zoomed-in view of the circle on the left. Notice how a third slit has been added below the second slit, also at a distance d away from the second slit.</caption>
             <image source="optics/multi_interference.jpg"></image>
@@ -62,6 +62,6 @@
         </exercise>
     </exercises>
     <p>
-        As we add more and more slits, spots that were bright in the two-slit experiment will only become brighter, and dark spots will no longer be completely dark. This leads us nicely into talking about our next topic, which is diffraction gratings.
+        As you add more and more slits, spots that were bright in the two-slit experiment will only become brighter, and dark spots will no longer be completely dark.
     </p>
 </section>

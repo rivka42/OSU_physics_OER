@@ -6,25 +6,25 @@
     <video youtube="vRNNsP33yVI"><description>Quantifying the diffraction of light incident on one slit.</description></video>
 
     <principle>
-        <title>Dark Spot Locations</title>
+        <title>Single-Slit Diffraction</title>
         <statement>
-          <p>Dark spots can be determined by <m>a \mathrm{sin}\theta = p \lambda</m> for <m>p = 1, 2, 3, ...</m>.</p>
+          <p>The location of dark spots due to light shining through a single slit on a distant screen can be determined by <m>a \sin\theta = p \lambda</m> for <m>p = 1, 2, 3, ...</m>.</p>
         </statement>
     </principle>
 
     <exercises>
         <title>Single-Slit Diffraction Activities</title>
+				<exercise>
+				<p>What differences do you notice between the single-slit diffraction pattern on the screen and the double-slit interference patterns you have seen previously?</p>
+				</exercise>
         <exercise xml:id="x_single-slit-diffraction">
             <title>Single-Slit Diffraction Simulation</title>
-            <p>Play with the following experiment for a few minutes. Click on the "Diffraction" simulation.</p>
-            <p>
-                <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html"/>
-            </p>
-            <p>Write down some observations. Play with different opening shapes. For the square shape, what happens when you decrease the width and increase the height? What happens to the image as you change the frequency of the light?</p>
+            <p>Play with the <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html" visual="light interference simulation"/> for a few minutes. Click on the "Diffraction" tab.</p>
+            <p>Write down some observations. Play with different opening shapes. For the square shape, what happens when you change the width? What happens to the image as you change the frequency of the light?</p>
         </exercise>
         <exercise>
             <title>Width of a Diffraction Pattern</title>
-            <p>The width of the central bright maxima in a single-slit diffraction pattern can be measured by looking at the distance to the first dark spot. What is the width of the central bright maxima? What happens to the width as the distance between the slit and the screen increases? What happens to the width as the wavelength decreases? What happens as the slit size decreases?</p>
+            <p>The width of the central bright maxima in a single-slit diffraction pattern can be measured by looking at the distance to the first dark spot. What happens to the width as the distance between the slit and the screen increases? What happens to the width as the wavelength decreases? What happens as the slit size decreases?</p>
         </exercise>
     </exercises>
 </section>

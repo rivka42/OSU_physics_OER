@@ -2,20 +2,24 @@
 
 <section xml:id="sec_standing" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Standing Waves</title>
+	
+	<p>When two traveling waves with the same frequency and amplitude move past each other in opposite directions, they create what is known as a <term>standing wave</term>, such as the example shown below.</p>
+	
+	    <figure xml:id="standing-pos">
+    	<caption>The superposition of two traveling waves creating a standing wave.</caption>
+    		<image source="wave/standing-pos.gif" width = "75%" ></image>
+    </figure>
+		
+		<p>The term standing wave is used because, rather than traveling from side to side, the wave appears to stand in place, with some locations remaining always fixed (these are known as <term>nodes</term>) and other locations oscillating strongly (these are known as <term>anti-nodes</term>).</p>
 		
   <exercises>
 <title>Activities</title>
-	
 <exercise>
-<title>Sensemaking: Units</title>
 <statement>
 <p>
-What are the units of?  
+In the image above, identify each node and anti-node.  Is there a pattern to the nodes and anti-nodes?
 </p>
 </statement>
-<answer>
-<p></p>
-</answer>
 </exercise>
 </exercises>
 
