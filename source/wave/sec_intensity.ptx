@@ -2,6 +2,7 @@
 
 <section xml:id="sec_intensity" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Wave Intensity</title>
+	
     <exercises>
       <title>Warm-up Activity</title>
         <exercise>
@@ -9,6 +10,8 @@
           <p>You hear a loud noise.  Which wave property or properties (frequency, wavelength, wave speed, amplitude, wave number, phase, etc.) do you think is related to how loud it is?</p>
         </exercise>
     </exercises>
+		
+		<video youtube="NsxLt_4tFIU"><description>Introducing intensity for waves</description></video>
 	
 <p>Consider a wave on a string. Any point along the string moves up and down as a wave passes through it. The average velocity of a point on the string is related to the amplitude of the wave and also to how quickly the motion changes from up to down – thus the frequency.</p>
 
@@ -27,17 +30,14 @@ The kinetic energy of the mass at that point depends on the square of the veloci
 	   <p>The <term>intensity</term> of a wave emanating from a point source: <me>I = \frac{P}{a}</me> where <m>P</m> is power and <m>a</m> is the surface area of a sphere.</p>
 <p>We define the intensity I of a wave to be the power delivered by the wave, divided by the area that the wave impinges upon. The units of intensity are Watts per square meter.
 </p>
-<p></p>
-
-<video youtube="NsxLt_4tFIU"><description>Introducing intensity for waves</description></video>
-
    </statement>
 </definition>
+
 <exercises>
   <title>Activities</title>
    <exercise>
     <title>Explanation - Distance and Intensity</title>
-    <p>Your friend is a distance d from a point source of sound and measures the intensity of the sound wave to be I.  How far away from the source of the wave do you need to be to measure the intensity to be <m>\frac{I}{2}</m>?</p>
+    <p>Your friend is a distance <m>d</m> from a point source of sound and measures the intensity of the sound wave to be <m>I</m>.  How far away from the source of the wave do you need to be to measure the intensity to be <m>\frac{I}{2}</m>?</p>
    </exercise>
 </exercises>
 	

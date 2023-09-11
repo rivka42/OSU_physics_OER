@@ -3,7 +3,45 @@
 <section xml:id="sec_waves_string" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Waves on a String</title>
   
-  
+  <exercises>
+<title>Warm-up Activity: Modeling a String</title>
+<p>A primitive model for a string is a straight line of molecules connected by identical springs, as shown in the figure below.  Imagine you create a wave through this string by oscillating one end of this line of molecules back and forth.</p>
+	<figure xml:id="spingmodel">
+    	<caption>
+	A series of connected molecules approximating a string.
+	</caption>
+    	<image source="Springs.png" width = "75%" ></image>
+</figure>	
+
+<exercise>
+<statement>
+<p>
+Do you think the speed of the wave depends on the mass of the molecules?  If so, do you think the wave speed is greater or less if the mass is greater?  Explain your reasoning. 
+</p>
+</statement>
+</exercise>
+<exercise>
+<statement>
+<p>
+Do you think the speed of the wave depends on how big the spring force between the molecules is?  If so, do you think the wave speed is greater or less if the spring force is greater?  Explain your reasoning. 
+</p>
+</statement>
+</exercise>
+<exercise>
+<statement>
+<p>
+Do you think the speed of the wave depends on the frequency that you oscillate the end of the line?  If so, do you think the wave speed is greater or less if the frequency is greater?  Explain your reasoning. 
+</p>
+</statement>
+</exercise>
+
+<exercise>
+<statement>
+<p>Consider a real stretched string, such as you might find in a musical instrument such as a guitar.  Given your answers above, what properties of the guitar string do you think might affect the speed of the wave?</p>
+</statement>
+</exercise>
+</exercises>
+	
 <p>
 Consider a stretched string of length <m> L </m> and mass <m> m </m> with tension <m> T_s </m>, and <alert> linear density </alert> <m> \mu_s</m> where 
 
@@ -13,11 +51,11 @@ is the mass-to-length ratio of the string. The wave speed <m> \nu </m>
 
 <me> \nu_{\text{string}} = \sqrt{\frac{T_s}{\mu_s}} </me>
 
-depends on the tension which serves as a restoring force for the medium and the linear density of the string. 
+depends on the tension that serves as a restoring force for the medium and the linear density of the string.  Interestingly, the wave speed does not depend on the frequency of the wave!
 </p>
 <figure xml:id="pulse">
     	<caption>
-	A wave passing through a string. The wave propagates with wave speed <m> \nu_{\text{string}}</m>.
+	A wave pulse passing through a string. The wave propagates with wave speed <m> \nu_{\text{string}}</m>.
 	</caption>
     	<image source="wave/pulse.gif" width = "50%" ></image>
 </figure>	
@@ -35,15 +73,36 @@ Explicitly check the units of <m> \nu_{\text{string}} </m> to confirm its relati
 </statement>
 <answer>
 <p>
-Let's perform a quick unit check:
 
-<me> m/s = sqrt{N/(kg/m)} = sqrt{\frac{(kg*m/s^2)}{(kg/m)}}=sqrt{\frac{m^2}{s^2}} = m/s </me>
+<me> m/s = \sqrt{N/(kg/m)} = \sqrt{\frac{(kg*m/s^2)}{(kg/m)}}=\sqrt{\frac{m^2}{s^2}} = m/s </me>
 
 Indeed, the units are consistent. 
 </p>
 </answer>
 </exercise>
+<p>The diagram below shows a wave pulse at <m>t = 0</m> moving to the left on a string with wave speed 2 mm/s.  Each grid box represents 1 mm.</p>
+<figure xml:id="wavepulse1">
+    	<caption>
+	A wave pulse moves to the left.
+	</caption>
+    	<image source="WavePulse1.png" width = "75%" ></image>
+</figure>	
+<exercise>
+<title>Practice: Moving Wave Pulse</title>
+<statement>
+<p>Sketch the wave pulse at <m>t = 3 \text{ s}</m>.</p>
+</statement>
+<answer>
+<figure xml:id="wavepulse1_sol">
+    	<caption>
+	The wave pulse has moved to the left.
+	</caption>
+    	<image source="WavePulse1_sol.png" width = "75%" ></image>
+</figure>	
+</answer>
+</exercise>
 </exercises>
+
 
 <references>
 

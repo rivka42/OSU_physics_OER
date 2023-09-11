@@ -5,7 +5,6 @@
   
 				<exercises>
 	<title>Warm-up Activity</title>
-			<title>Explore - Wave on a String</title>
 			  <p>Play with this <url href="https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_en.html" visual="simulation"/> for a few minutes.</p>
 			<exercise>
 			<statement>
@@ -26,34 +25,51 @@
 				</ul>
 				</p>
 				</statement>
-			</exercise>
-		</exercises>
-	
-<p> 
-When waves propagate, they can encounter boundaries and discontinuities. 
-</p>  
-
-<figure xml:id="hard">
+				<answer>
+				
+				<p>Reflections from fixed ends tend to flip over, while reflections from free ends do not.</p>
+				
+				<figure xml:id="hard">
     	<caption>
-	A wave reflecting from a hard boundary.
+	A wave reflecting from a fixed end.
 	</caption>
     	<image source="wave/hard.gif" width = "50%" ></image>
 </figure>	
 
 <figure xml:id="soft">
     	<caption>
-	A wave reflecting from a soft boundary.
+	A wave reflecting from a free end.
 	</caption>
     	<image source="wave/soft.gif" width = "50%" ></image>
 </figure>	
-
-<figure xml:id="hi_lo">
+				</answer>
+			</exercise>
+			<p>The image below shows a wave pulse moving from left to right in two different situations: from a region with high density to a region with low density (top) and from a region with low density to a region with high density (bottom).</p>
+						  <figure xml:id="waves_approach2">
+		 <caption>A wave pulse approaches a boundary between two strings in two different configurations.</caption>
+		<image source="MovingPulses2.png" width = "75%">
+			</image>
+  </figure>
+			<exercise>
+			<statement>
+			<p>Predict what you think will happen after the wave pulse reaches the boundary in the top experiment.</p>
+			</statement>
+			<answer>
+			
+						<figure xml:id="hi_lo">
     	<caption>
 	A wave encountering a discontinuity from a high density to a low density.
 	</caption>
     	<image source="wave/hi_lo.gif" width = "75%" ></image>
 </figure>	
 
+			</answer>
+			</exercise>
+			<exercise>
+			<statement>
+			<p>Predict what you think will happen after the wave pulse reaches the boundary in the bottom experiment.</p>
+			</statement>
+			<answer>
 <figure xml:id="lo_hi">
     	<caption>
 	A wave encountering a discontinuity from a low density to a high density.
@@ -62,22 +78,15 @@ When waves propagate, they can encounter boundaries and discontinuities.
 </figure>	
 
 
-		
-<exercises>
-<title>Activities</title>
-	
-<exercise>
-<title>Sensemaking: Units</title>
-<statement>
-<p>
-What are the units of?  
-</p>
-</statement>
-<answer>
-<p></p>
-</answer>
-</exercise>
-</exercises>
+			</answer>
+			</exercise>			
+			
+		</exercises>
+
+
+
+
+
 
 <references>
 

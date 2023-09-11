@@ -12,7 +12,7 @@
    <definition>
    <title>Sound intensity level</title>
    <statement>
-	   <p>The <term>intensity level</term> of sound is defined to be: <me>\beta = (10 dB) log_{10} \frac{I}{I_0}</me><me>I_0 = 10^{-12} \frac{\text{W}}{\text{m}^2}</me></p>
+	   <p>The <term>intensity level</term> of sound is defined to be: <me>\beta = (10 dB) \log_{10} \frac{I}{I_0}</me><me>I_0 = 10^{-12} \frac{\text{W}}{\text{m}^2}</me></p>
 	</statement>
    </definition>
 
@@ -26,7 +26,7 @@
 	<title>Activities</title>
 			<exercise>
 			<title>Explanation - Reference Intensity</title>
-			  <p>How loud is a noise that has an intensity of <me>I = I_o</me></p>
+			  <p>How loud is a noise that has an intensity of <m>I = I_o</m>?</p>
 			</exercise>
 						<exercise>
 			<title>Calculation - Whisper Intensity</title>

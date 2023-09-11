@@ -4,7 +4,7 @@
   <title>Sinusoidal Waves</title>
 			
   	
-<p>Waves can take any shape or size, and do not necessarily have a regular, smooth, repeating pattern. However, if a <em> wave source </em> oscillates with simple harmonic motion, then the wave that is generated will be a <alert>sinusoidal wave</alert>. A first step in building a <alert> wave model </alert> is to build different representations (words, graphs, equations, <em>etc.</em>) to help us describe the behaviors of waves. 
+<p>Waves can take any shape or size, and do not necessarily have a regular, smooth, repeating pattern. However, if a <em> wave source </em> oscillates with simple harmonic motion, then the wave that is generated will be a <alert>sinusoidal wave</alert>. A first step in building a <alert> wave model </alert> is to build different representations (words, graphs, equations, <em>etc.</em>) to help describe the behaviors of waves. 
 </p>
 
 
@@ -57,9 +57,9 @@ It is important to note that <alert> wave speed is a property of the medium's el
 </p>    
 
 <p>
-Now that you have a grasp on the verbal and graphical representations of waves, you can examine the mathematics of sinusoidal waves. The displacement of a sinusoidal wave can be represented mathematically using the displacement function,
+Now that you have a grasp on the verbal and graphical representations of waves, you can examine the mathematics of sinusoidal waves. The displacement of a sinusoidal wave can be represented mathematically using the displacement function
 
-<me> D(x,t) = A \sin(kx - \omega t +\phi_o)</me>
+<me> D(x,t) = A \sin(kx \pm \omega t + \phi_o)</me>
 
 which describes the displacement at time <m> t </m> of a particle at position <m> x </m> in the medium. 
 </p>
@@ -67,18 +67,25 @@ which describes the displacement at time <m> t </m> of a particle at position <m
 
 <exercises>
 <title>Activities</title>
+<exercise>
+<title>Exploring Wavenumber</title>
+<p>A friend tells you about a wave with wavenumber <m>k = \pi/2 \frac{\text{rad}}{\text{m}}</m>.  What is the wavelength of this wave?  What would the wavenumber be for a different wave with double the wavelength?</p>
+</exercise>
 	<exercise xml:id="x_trig-waves">
 	<title>Graphing Phase</title>
-	<p>In the video, you probably noticed the letter <m>\phi</m> (phi) to represent a phase inside of a sine or cosine function.  Using a graphing program (like Desmos or Mathematica), try graphing the following functions:</p>
+	<p>You have probably noticed the letter <m>\phi</m> (phi) typically represents a phase inside of a sine or cosine function.  Using a graphing program (like Desmos or Mathematica), try graphing the following functions (use the value for <m>k</m> from the previous activity).</p>
 				<p>
 				<ul>
-				<li><m> \sin{x} </m> </li>
-				<li><m> \sin{x + \frac{\pi}{3}}</m></li>
-				<li><m> \sin{x + \frac{\pi}{6}}</m></li>
-				<li><m>\sin{x - \frac{\pi}{3}}</m></li>
+				<li><m> \sin{(kx)} </m> </li>
+				<li><m> \sin{(kx + \frac{\pi}{3})}</m></li>
+				<li><m> \sin{(kx + \frac{\pi}{6})}</m></li>
+				<li><m>\sin{(kx - \frac{\pi}{3})}</m></li>
 				</ul>
 				</p>
-				<p>Based on your graphs, what is the mathematical role of the phase in an oscillation or wave equation?  What do you think the physical role of the phase is?</p>
+			</exercise>
+			<exercise>
+			<title>Exploring Phase</title>
+			<p>Based on your graphs, what is the mathematical role of the phase in an oscillation or wave equation?  What do you think the physical role of the phase is?</p>
 			</exercise>
 		</exercises>
 		

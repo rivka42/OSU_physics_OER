@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_superposition_waves" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Superposition of Waves</title>
+  <title>Wave Superposition</title>
 		
 			<exercises>
 	<title>Warm-up Activity</title>
@@ -12,7 +12,15 @@
 			<description>Two curved wave pulses on a string: the left pulse, moving to the right, is taller than the right pulse, moving to the left.</description></image>
   </figure>
 	<exercise>
+	<statement>
 	<p>Predict what you think the shape of the string will look like as the wave pulses continue to move on the string.  Sketch a few diagrams showing the string at a few different instants in time.  Explain your reasoning.</p>
+	</statement>
+	<answer>
+    <figure xml:id="superP">
+    	<caption>The superposition of two wave pulses.</caption>
+    		<image source="wave/superP.gif" width = "75%" ></image>
+    </figure>
+	</answer>
 	</exercise>
 		</exercises>
 		
@@ -27,10 +35,50 @@
 	</statement>
 </principle>
 
-    <figure xml:id="superP">
-    	<caption>The superposition of two wave pulses.</caption>
-    		<image source="wave/superP.gif" width = "75%" ></image>
-    </figure>
+		
+	<exercises>
+<title>Activities</title>
+<p>The diagram below shows two wave pulses at <m>t = 0</m> moving in opposite directions on a string with wave speed 2 mm/s.  Each grid box represents 1 mm.</p>
+<figure xml:id="wavepulse2">
+    	<caption>
+	Two wave pulses moves toward each other.
+	</caption>
+    	<image source="WavePulse2.png" width = "75%" ></image>
+</figure>	
+<exercise>
+<statement>
+<p>Sketch the wave pulses at <m>t = 4 \text{ s}</m>.  Use your sketches and wave superposition to sketch the shape of the string at this instant in time.</p>
+</statement>
+<answer>
+<p>Two waves adding up like this, in such a way that their displacements reinforce each other, is known as <alert>constructive interference</alert>.</p>
+<figure xml:id="wavepulse2_sol">
+    	<caption><p>
+	The two wave pulses overlap and add by superposition.  Note that the displacements add separately at every position, so in the outer regions, where one pulse has a displacement of zero, the spring matches the displacement of the other pulse<mdash/>only in the region where both pulses have nonzero displacement does the spring have a greater displacement!</p>
+	</caption>
+    	<image source="WavePulse2_sol.png" width = "75%" ></image>
+</figure>	
+</answer>
+</exercise>
+
+<p>The diagram below shows two wave different pulses at <m>t = 0</m> moving in opposite directions on a string with wave speed 2 mm/s.  Each grid box represents 1 mm.</p>
+<figure xml:id="wavepulse3">
+    	<caption>
+	Two wave pulses moves toward each other.
+	</caption>
+    	<image source="WavePulse3.png" width = "75%" ></image>
+</figure>	
+<exercise>
+<statement>
+<p>Sketch the wave pulses at <m>t = 4 \text{ s}</m>.  Use your sketches and wave superposition to sketch the shape of the string at this instant in time.</p>
+</statement>
+<answer>
+<p>The peaks of the pulses overlap at this location.  Since the pulses are antisymmetric, every upward point on the left wave cancels the corresponding downward point on the right wave, which means the string will be entirely flat!</p>
+<p>Two waves adding up like this, in such a way that their displacements cancel each other, is known as <alert>destructive interference</alert>. </p>
+</answer>
+</exercise>
+
+</exercises>
+
 
 
 <references>
