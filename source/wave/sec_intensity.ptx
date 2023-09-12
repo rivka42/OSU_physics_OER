@@ -33,6 +33,18 @@ The kinetic energy of the mass at that point depends on the square of the veloci
    </statement>
 </definition>
 
+<p>For a point source wave, emanating as a spherical wave front, the area is the surface area of a sphere. Intensity takes the form: <me>I = \frac{P}{4\pi r^2}</me>
+</p>
+ <figure xml:id="surface_area_sphere">
+        <caption>
+        Energy from a point source decreases as the surface area of the sphere increases. 
+        </caption>
+	<image source="wave/intensity_rsquared.jpg" width = "60%" ></image>
+</figure>
+<p>
+We can visualize this by considering the energy passing through a small area of a sphere of radius r. The same amount of energy must pass through a larger area of a sphere of radius 2r. Since the surface area of the larger sphere increases by a factor of <m>r^2</m>, the energy passing through the same area must be <m>\frac{1}{4}</m> as much.    
+</p>
+
 <exercises>
   <title>Activities</title>
    <exercise>
@@ -40,6 +52,13 @@ The kinetic energy of the mass at that point depends on the square of the veloci
     <p>Your friend is a distance <m>d</m> from a point source of sound and measures the intensity of the sound wave to be <m>I</m>.  How far away from the source of the wave do you need to be to measure the intensity to be <m>\frac{I}{2}</m>?</p>
    </exercise>
 </exercises>
-	
+
+<references>
+<biblio>
+<p>
+<xref ref="surface_area_sphere"></xref> created by Kathryn Hadley.</p>
+</biblio>
+</references>
+
 </section>
 
