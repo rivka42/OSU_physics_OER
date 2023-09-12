@@ -2,8 +2,11 @@
 
 <section xml:id="sec_single-slit-diffraction" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Single-Slit Diffraction</title>
+    <p>Single-slit diffraction is an interesting case where we still see this interference of light, even when there is only one single slit.</p>
   
     <video youtube="vRNNsP33yVI"><description>Quantifying the diffraction of light incident on one slit.</description></video>
+
+    <p>By using Huygen's Principle (<xref ref="prin_Huygen"/>), we can effectively look at how two different waves, travelling within the single slit, might interfere with one another. We can find where the dark spots are located by using a similar method as we used for two-slit intereference.</p>
 
     <principle>
         <title>Single-Slit Diffraction</title>
@@ -11,6 +14,11 @@
           <p>The location of dark spots due to light shining through a single slit on a distant screen can be determined by <m>a \sin\theta = p \lambda</m> for <m>p = 1, 2, 3, ...</m>.</p>
         </statement>
     </principle>
+
+    <figure>
+        <caption>A representation of single-slit diffraction and the intensity pattern that results on the screen. For a single-slit with width <m>a</m>, dark spots are located at <m>y_p</m> on the screen.</caption>
+        <image source="optics/single_slit.jpg" width = "75%"></image>
+    </figure>
 
     <exercises>
         <title>Single-Slit Diffraction Activities</title>

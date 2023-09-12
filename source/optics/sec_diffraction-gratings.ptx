@@ -2,13 +2,20 @@
 
 <section xml:id="sec_diffraction-gratings" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Diffraction Gratings</title>
-    <p>Diffraction gratings are an optical tool that are made up of many many slits side by side.</p>
+    <p>Diffraction gratings are an optical tool that are made up of many many slits side by side, sometimes thousands of slits per millimeter, and allow for the diffraction of light. Diffraction gratings work through multiple-slit interference.</p>
   
     <video youtube="Mun7c6RB140"><description>Video description.</description></video>
 
+    <p>When white light travels through a diffraction grating, an interference pattern will show up on the screen. As we have learned, the location of bright and dark spots on the screen depends on the wavelength of the light. So when multiple wavelengths travel through a diffraction grating together, the wavelengths are split up and multiple sets of rainbows can be seen on the screen. When the wavelength is large, the angular displacement on the screen will be larger, as compared to shorter wavelengths.</p>
+
+    <figure>
+        <caption>An example of a diffraction grating pattern one might see. Light travels through the diffraction grating, to the screen on the right. In this diagram, the <m>m = 1</m> bright spot and the <m>m = 2</m> bright spot can be seen at angles <m>\theta_1</m> and <m>\theta_2</m>, respectively. </caption>
+        <image source="optics/diffraction_grating.jpg" width = "75%"></image>
+    </figure>
+
     <exercises>
         <title>Diffraction Grating Activities</title>
-        <p><term>Diffraction Gratings</term> are an extremely useful optical tool that are made up of many tiny slits, sometimes thousands of slits per millimeter, and allow for the diffraction of light. Diffraction gratings work through multiple-slit interference. Use what you know about multiple slit interference to answer the following questions.</p>
+        <p>Use what you know about multiple slit interference and what you've learned about diffraction gratings to answer the following questions.</p>
         <ol>
             <li>
                 <p>

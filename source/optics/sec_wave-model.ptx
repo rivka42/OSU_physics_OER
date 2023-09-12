@@ -9,10 +9,14 @@
 
     <p>Light can also be described as a wave! The wave-particle duality of light is extremely useful, especially when the wavelength of light is comparable to the size of any mechanism or object the light is interacting with. In these cases, you will use the wave nature of light to explain what you are seeing.</p>
 
-    <principle>
+    <principle xml:id="prin_Huygen">
         <title>Huygen's Principle</title>
         <statement>
           <p>Every point along a wave front can be considered a source of a waves emanating from that point in the direction of light propagation.</p>
+          <figure>
+            <caption>A diagram of Huygen's Princple. As light travels through an opening, each point along a wave front can be understood as a source of waves.</caption>
+            <image source="optics/huygens.jpg" width = "25%"></image>
+          </figure>
         </statement>
     </principle>
 
