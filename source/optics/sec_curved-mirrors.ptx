@@ -58,9 +58,7 @@
             </exercise>
             <exercise xml:id="x_spherical-mirror">
                 <title>Curved Mirrors</title>
-                <p>Spend some time playing with the following simulation. Make sure to click the "Mirror" option. Select the concave mirror first.
-                    <url href="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html"/>
-                </p>
+                <p>Spend some time playing with this <url href="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html" visual="mirror simulation"/>. Make sure to click the "Mirror" option. Select the concave mirror first.</p>
                 <p>As you are playing with this simulation, walk yourself through the following questions:</p>
                 <ol>
                     <li>From the drop down menu, select the "arrow" object. Move the object around. How does the image change as you move the object from the left side of the screen, towards the focal point, and past the focal point?</li>

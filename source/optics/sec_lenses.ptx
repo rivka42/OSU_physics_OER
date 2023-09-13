@@ -74,10 +74,7 @@
         <title>Lenses Activities</title>
             <exercise xml:id="x_lenses">
                 <title>Lenses</title>
-                <p>Play with the following simulation for a few minutes. Click on the "Lens" option. Answer the following questions.</p>
-                <p>
-                    <url href="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html"/>
-                </p>
+                <p>Play with this <url href="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html" visual="lens simulation"/> for a few minutes. Click on the "Lens" option. Answer the following questions.</p>
                 <ol>
                     <li>How can you create a magnifying glass? Use the simulation to create a magnifying glass and explain your set up and results.</li>
                     <li>Play with the different lens options. How are they similar and how are they different?</li>
