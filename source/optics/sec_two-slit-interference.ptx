@@ -32,12 +32,12 @@
 		    <definition>
         <title>Path Length Difference</title>
         <statement>
-            <p>For a screen that is far away from two sources of light, the <term>Path Length Difference</term> can be approximated as <me>\Delta D = d \ \mathrm{sin} \theta</me>  where <m>d</m> is the distance between slits and <m>\theta</m> is the angle between the center line and the path to a spot on the screen.</p>
+            <p>For a screen that is far away from two sources of light, the <term>Path Length Difference</term> can be approximated as <me>\Delta D = d \sin \theta</me>  where <m>d</m> is the distance between slits and <m>\theta</m> is the angle between the center line and the path to a spot on the screen.</p>
         </statement>
     </definition>
 		
     <figure>
-        <caption>Left: A diagram of the double slit experiment. The slits are separated from the screen by a distance of <m>L</m>, and the angle to the mth bright spot is denoted by <m>\theta_m</m>. The vertical distance to the mth bright spot is <m>y_m</m>. Right: A zoomed-in view of the double slits. The slits are separated by a distance <m>d</m>. Two different rays, <m>r_1</m> and <m>r_2</m> travel towards the screen at an angle <m>\theta</m>, making the path length difference between the two rays equal to <m>d \ \mathrm{sin}\theta</m>.</caption>
+        <caption>Left: A diagram of the double slit experiment. The slits are separated from the screen by a distance of <m>L</m>, and the angle to the mth bright spot is denoted by <m>\theta_m</m>. The vertical distance to the mth bright spot is <m>y_m</m>. Right: A zoomed-in view of the double slits. The slits are separated by a distance <m>d</m>. Two different rays, <m>r_1</m> and <m>r_2</m> travel towards the screen at an angle <m>\theta</m>, making the path length difference between the two rays equal to <m>d sin\theta</m>.</caption>
         <image source="optics/slit_diagram.jpg"></image>
     </figure>
 

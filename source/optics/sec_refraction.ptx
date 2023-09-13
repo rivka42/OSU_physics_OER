@@ -16,7 +16,7 @@
 			</exercise>
 		</exercises>
 
-    <video youtube="Mun7c6RB140"><description>Video description.</description></video>
+    <video youtube="GYAAFz983jM"><description>Introducing the law of refraction.</description></video>
 		
 		<p>Refraction is a common everyday phenomenon that helps answer the following questions: Why does a straw in a glass of water look bent? Why do people look shorter in swimming pools? Why do mirages happen?  The fact that light bends when moving from one medium to another helps answer all of these questions.  This bending fundamentally results from a difference in the speed that light travels within different substances, which you can quantify using the index of refraction.</p>
 		
@@ -42,6 +42,10 @@
 
     <exercises>
         <title>Refraction Activities</title>
+				            <exercise xml:id="x_refraction-practice">
+                <title>Reflection</title>
+								<p>Draw a ray diagram for light that travels from air (<m>n = 1.00</m>) into oil (<m>n = 1.45</m>) and then into water (<m>n = 1.33</m>).  Which way does the light bend at each change of medium?</p>
+								</exercise>
             <exercise xml:id="x_total-internal-reflection">
                 <title>Total Internal Reflection</title>
                 <p>When a ray of light passes from one medium into another, the ray will be refracted in the second medium according to the Law of Reflection. But for some critical angle and above, the ray of light will be completely reflected back into the initial medium. In this activity, we will work through this phenomenon to arrive at a useful conclusion. Work through the following questions.</p>
