@@ -2,19 +2,37 @@
 
 <section xml:id="sec_quantum_model" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Quantum Model for Light</title>
-  
-    <video youtube="Mun7c6RB140"><description>Video description.</description></video>
 
-    <p>So is light a particle or a wave? Or is it both? What is actually happening? The great thing about these models (the ray and the wave model) is that they allow us to understand the behavior of light in different situations.</p>
-    
+    <p>So is light a particle or a wave? Or is it both? What is actually happening? The great thing about these models (the ray and the wave model) is that they allow us to understand the behavior of light in different situations. But to understand things like atomic spectra, and the photoelectric effect, we need to understand the quantum properties of light. Watch this TED-Ed video about the nature of light to learn more.</p>
+
+    <video youtube="J1yIApZtLos"><description>Is light a particle or a wave? - Colm Kelleher</description></video>
+
+    <p>In quantum mechanics, light is described as a photon, which is a fundamental particle. These particles have energies directly related to their frequencies, <m>E = hf</m>, where <m>h</m> is <term>Planck's constant</term> which is equal to <m>6.626 \times 10^{-34}[\mathrm{J} \mathrm{Hz}^{-1}] </m>. This will help us understand our next activity, which is focused on the Photoelectric Effect.</p>
+
     <exercises>
         <title>Quantum Model Activities</title>
             <exercise xml:id="x_quantum_model">
                 <title>Photoelectric Effect</title>
-                <p>Play with the following simulation for a few minutes.</p>
+                <p>The Photoelectric Effect occurs when light hits a material, and some of the electrons that were a part of the material are kicked off as they absorb the energy of the incoming photons. This phenomenon was first seen by Heinrich Hertz in 1887.</p>
+                <p>To understand how this effect works, play with the following simulation for a few minutes. This is a simulation of light with some wavelength hitting different types of targets, and kicking off electrons. The electrons travel across the gap, to another plate, and produce a current. For now, we aren't interested in the circuitry of the set-up, we are just going to make observations about what we are seeing.</p>
                 <p>
                     <url href="https://phet.colorado.edu/en/simulations/photoelectric"/>
                 </p>
+                <p>Now answer the following questions by investigating them with the simulation.</p>
+                <ol>
+                    <li>Start by increasing the intensity of the light. How does the amount of electrons kicked off change?</li>
+                    <li>What happens as you slowly increase the wavelength?</li>
+                    <li>What happens as you slowly decrease the wavelength, all the way into the UV range? Given what you have learned about the quantum model for light, how does the energy of light with smaller wavelengths compare to the energy of light with longer wavelengths?</li>
+                    <li>Now change the target material. Do you notice any stark differences between any two materials?</li>
+                    <li>Make a list of any questions you might still have.</li>
+                  </ol>
             </exercise>
     </exercises>
+
+    <references>
+        <biblio xml:id="ref_quantum_model_yt">
+            <p>"Is light a particle or a wave? - Colm Kelleher" <em>YouTube</em>, uploaded by TED-Ed, 12 January 2013, https://www.youtube.com/watch?v=J1yIApZtLos&amp;t=193s&amp;ab_channel=TED-Ed</p>
+        </biblio>
+    </references>
+
 </section>

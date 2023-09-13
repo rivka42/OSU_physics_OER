@@ -10,7 +10,7 @@
         <image source="optics/double_slit.jpg"></image>
     </figure>
 
-    <p>The Double-Slit Experiment was originally conducted by Thomas Young in 1801 to show that light does indeed behave like a wave. Just like water waves interacting with each other, as light travels through two slits, the crests and troughs of the light waves will interact with each other and produce an interference pattern on the screen behind the slits.  In fact, the general rules for interference are the same as you saw in <href ref="sec_interference"/>.</p>
+    <p>The Double-Slit Experiment was originally conducted by Thomas Young in 1801 to show that light does indeed behave like a wave. Just like water waves interacting with each other, as light travels through two slits, the crests and troughs of the light waves will interact with each other and produce an interference pattern on the screen behind the slits.  In fact, the general rules for interference are the same as you saw in <xref ref="sec_interference"/>.</p>
 
     <definition>
         <title>Constructive Interference</title>
