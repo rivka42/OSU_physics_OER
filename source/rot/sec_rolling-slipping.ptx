@@ -6,7 +6,7 @@
 		<exercises>
 	<title>Warm-up Activity</title>
 			<exercise>
-			  <p>A bicycle wheel rolls along the floor at constant speed <m>v</m> to the right (choose this to be the positive direction).  What is the translational velocity of a point on the bottom of the wheel?  Explain your reasoning.</p>
+			  <p>A bicycle wheel rolls along the floor such that its center of mass moves at constant speed <m>v</m> to the right (choose this to be the positive direction).  What is the translational velocity of a point on the bottom of the wheel?  Explain your reasoning.</p>
 			</exercise>
 		</exercises>
 		
@@ -18,7 +18,7 @@
 	<assumption>
 	<title>Rolling without Slipping</title>
 	<statement>
-		<p>An object that rolls along the ground without slipping has a translational velocity given by <m>\omega = \frac{v_t}{r}</m>, where <m>r</m> is the radius at the point of contact between the rolling object and the surface.</p>
+		<p>An object that rolls along the ground without slipping has an angular speed given by <m>\omega = \frac{v_t}{r}</m>, where <m>r</m> is the radius at the point of contact between the rolling object and the surface.</p>
 	</statement>
 </assumption>
 

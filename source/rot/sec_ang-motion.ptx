@@ -5,7 +5,7 @@
 		
       <video youtube="qMJK_sjdUCw"><description>Introducing angular motion.</description></video>
 	
-	<p>An object moving around a circle is an especially common form of two-dimensional motion.  Instead of using Cartesian coordinates, circular polar coordinates (usually labeled <m>r</m> for the radial distance and <m>\theta</m> for the angular distance) would make a natural alternate choice to describe such motion.	 Because the radius is constant for circular motion, this choice turns a two-dimensional context where both <m>x</m> and <m>y</m> are changing into a one-dimensional context where only <m>\theta</m> is changing.</p>
+	<p>An object moving around a circle is an especially common form of two-dimensional motion.  Instead of using Cartesian coordinates, circular polar coordinates (usually labeled <m>r</m> for the radial position and <m>\theta</m> for the angular position) would make a natural alternate choice to describe such motion.	 Because the radius is constant for circular motion, this choice turns a two-dimensional context where both <m>x</m> and <m>y</m> are changing into a one-dimensional context where only <m>\theta</m> is changing.</p>
 	
 		<definition>
 	<title>Angular Position</title>
@@ -19,14 +19,14 @@
 	<definition>
 	<title>Angular Velocity</title>
 	<statement>
-		<p>The <term>angular velocity</term> of an object moving around a circle is given by <m>\vec{\omega} = \frac{d \vec{\theta}}{d t}</m>.  Combining this with the definition of angular position allows you to relate angular and tangential velocity as <m>\omega = \frac{v_t}{r}</m>.</p>
+		<p>The <term>angular velocity</term> of an object moving around a circle is given by <m>\vec{\omega} = \frac{d \vec{\theta}}{d t}</m>.  Combining this with the definition of angular position allows you to relate angular and tangential speed as <m>\omega = \frac{v_t}{r}</m>.</p>
 	</statement>
 </definition>
 
 	<definition>
 	<title>Angular Acceleration</title>
 	<statement>
-		<p>The <term>angular acceleration</term> of an object moving around a circle is given by <m>\vec{\alpha} = \frac{d \vec{\omega}}{d t}</m>.  Combining this with the definition of angular position allows you to relate angular and tangential acceleration as <m>\alpha = \frac{a_t}{r}</m>.</p>
+		<p>The <term>angular acceleration</term> of an object moving around a circle is given by <m>\vec{\alpha} = \frac{d \vec{\omega}}{d t}</m>.  Combining this with the definition of angular position allows you to relate the magnitudes of the angular and tangential acceleration as <m>\alpha = \frac{a_t}{r}</m>.</p>
 	</statement>
 </definition>
 
@@ -38,7 +38,7 @@
 			  <p>Use the definition of angular position to find the units of radians in terms of other units you are familiar with.</p>
 				</statement>
 				<answer>
-				<p>Both <m>s</m> and <m>r</m> are measured using the same units (probably meters), so when you divide them the units of <m>\theta</m> vanish!  This means that radians have no units at all<mdash/>which is why they are preferred for angular measurements.</p>
+				<p>Both <m>s</m> and <m>r</m> are measured using the same units (probably meters), so when you divide them the units of <m>\theta</m> cancel!  This means that radians have no units at all<mdash/>which is why they are preferred for angular measurements.</p>
 				</answer>
 			</exercise>
 						<exercise>

@@ -29,7 +29,7 @@
 			
 				<exercises>
 	<title>Model Application - Acceleration Magnitude</title>
-	<p>The figure below shows three identical cars, each moving around a circular track.  Cars A and B move at different constant speeds around tracks with the same radius.  Cars A and C move at the same speed around tracks with different radius.</p>
+	<p>The figure below shows three identical cars, each moving around a circular track.  Cars A and B move at different constant speeds around tracks with the same radius.  Cars A and C move at the same speed around tracks with different radii.</p>
 		<figure xml:id="rot_centb">
 		<image source="CurvedPathX2.png" width = "75%">
 			<description>Three cases, each showing a car moving clockwise around a circular path of radius d.  Car A moves at constant speed v, Car B moves at constant speed 2v, and Car C moves at constant speed v around a circle of radius d/2.</description></image>

@@ -5,7 +5,7 @@
 		
       <video youtube="Vg2iVEeu1Iw"><description>Defining center of mass.</description></video>
 	
-	<p>Until now, you have been considering objects that are symmetrical, in which case the center of the object and the center of mass are at the same position.  For non-symmetrical objects, or for systems made up of multiple objects that are not arranged symmetrically, center of mass can be calculated as a weighted average.</p>
+	<p>Until now, you have been considering objects that are symmetrical, in which case the geometric center of the object and the center of mass are at the same position.  For non-symmetrical objects, or for systems made up of multiple objects that are not arranged symmetrically, center of mass can be calculated as a weighted average.</p>
 	
 	<definition xml:id="def_center-of-mass">
 	<title>Center of Mass</title>
@@ -37,13 +37,13 @@
 			<p>You decide to chop up the board into small pieces with infinitesimal width <m>dx</m>, each of which has infinitesimal mass <m>dm</m>.  Sketch and label a diagram of the board.</p>
 			</exercise>
 			<exercise>
-			<p>You know <m>dx</m> and <m>dm</m> are related by the mass density <m>\lambda</m>: <me>dm = \lambda dx</me>.  Calculate the density under the assumption that the density is roughly uniform throughout the board.</p>
+			<p>You know <m>dx</m> and <m>dm</m> are related by the linear mass density <m>\lambda</m>: <me>dm = \lambda dx</me>.  Calculate the density under the assumption that the density is roughly uniform throughout the board.</p>
 			</exercise>
 					<exercise>
 			<p>Use an integral to determine the center of mass of the board.</p>
 			</exercise>
 			<exercise>
-			<p>Verify your answer by determining the mass of the stick without using an integral.</p>
+			<p>Verify your answer by determining the mass of the board without using an integral.</p>
 			</exercise>
 			</exercisegroup>
 		</exercises>

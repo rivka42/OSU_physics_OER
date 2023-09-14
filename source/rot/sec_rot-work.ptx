@@ -18,7 +18,7 @@
 	<title>Activities</title>
 			<exercise>
 			<title>Calculation: Unwinding a Spool</title>
-			<p>Suppose you unwind a string that has been wrapped around a spool of radius <m>R</m> three times, causing the spool to gain a known about of rotational kinetic energy <m>K_{rot}</m>.  Find the magnitude of the force you exerted on the string.</p>
+			<p>Suppose you unwind a string that has been wrapped around a spool of radius <m>R</m> three times, causing the spool to gain a known amount of rotational kinetic energy <m>K_{rot}</m>.  Find the magnitude of the force you exerted on the string.</p>
 			</exercise>
 		</exercises>
 
