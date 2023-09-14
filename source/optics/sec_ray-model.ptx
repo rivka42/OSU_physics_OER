@@ -27,8 +27,8 @@
             <exercise xml:id="x_intro-pinhole-camera">
                 <title>Practice: Pinhole Camera</title>
                 <p><figure xml:id="pinhole_camera">
-                    <caption>A ray diagram of a pinhole camera. Light travels from the arrow to the back of the camera to create an image.</caption>
-                        <image source="optics/pinhole_camera.jpg" width = "90%" ></image>
+                    <caption>A ray diagram of a pinhole camera. Light travels from the arrow to the back of the camera to create an image. </caption>
+                        <image source="optics/pinhole_camera.jpg" width = "90%" ><description>A green arrow, labelled as "Object", sits to the right of two screens.The screen closest to the object has a small hole in the center. Two rays travel from the head and tail of the arrow, through the hole, and end on the screen on the far left.</description></image>
                 </figure></p>
                 <p>A pinhole camera, also called a camera obscura, is an optical phenomenon that occurs when light travels through a very small aperture. Using the figure above, where should you stand in order to see what is on the screen? What do you see on the screen? Find other examples of pinhole cameras online. What sort of observations can you make? Can you make a pinhole camera yourself?</p>
             </exercise>
