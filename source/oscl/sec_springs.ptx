@@ -23,7 +23,7 @@
 	<video youtube="zQI_gprkg1M"><description>Introducing simple harmonic motion using the block on a spring.</description></video>
 			
  <p>
-<!--Let's apply what we have learned to analyze the oscillatory motion of a mass on a spring. -->Consider a spring with spring constant <m>k</m> that has one end held fixed in space and one end attached to a block of mass <m>m</m>which rests on a frictionless surface. Assume the spring has negligible mass compared to the object's mass <m>m</m> such that we can apply the massless spring approximation. 
+<!--Let's apply what we have learned to analyze the oscillatory motion of a mass on a spring. -->Consider a spring with spring constant <m>k</m> that has one end held fixed in space and one end attached to a block of mass <m>m</m>, which rests on a frictionless surface. Assume the spring has negligible mass compared to the object's mass <m>m</m> such that we can apply the massless spring approximation. 
 </p>
 
 <p>
@@ -99,7 +99,7 @@ Since the oscillation frequency depends solely on the physical characteristics o
 <li>If <m> m \rightarrow 2m </m>,  then <m> \omega \rightarrow \frac{1}{\sqrt{2}}\omega_0</m></li> 
 <li>If <m> A \rightarrow 2A </m>,  then <m> \omega = \omega_0 </m>. This is an important point to note: The amplitude <alert> does not </alert> affect the oscillation frequency in simple harmonic motion.</li>
 <li>If <m> k \rightarrow 2k </m>,  then <m> \omega \rightarrow \sqrt{2}\omega_0 </m></li>
-<li>If <m> g \rightarrow 2g </m>,  then <m> \omega = \omega_0</m>. The oscillation frequency does not depend on gravity. </li>
+<li>If <m> g \rightarrow 2g </m>,  then <m> \omega = \omega_0</m>. The oscillation frequency does not depend on <m>g</m>. </li>
       </ol>
 </p>
 		</answer>
@@ -110,7 +110,7 @@ Since the oscillation frequency depends solely on the physical characteristics o
 		<p>Determine the period <m> T </m> of the motion for the mass on a spring.</p>
 		</statement>
 		<answer>
-		Using the relationship <m> \omega = \frac{2 \pi}/T</m> we see that the period of oscillation for a mass on a spring is
+		Using the relationship <m> \omega = \frac{2 \pi}{T}</m> we see that the period of oscillation for a mass on a spring is
 		
 		<me> T = 2 \pi \sqrt{\frac{m}{k}}</me>
 		</answer>

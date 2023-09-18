@@ -23,7 +23,7 @@
 		    <definition>
         <title>Index of Refraction</title>
         <statement>
-            <p>The <term>Index of Refraction</term> is defined as <m>n = c/v</m>, a ratio of the speed of light over the velocity of light propagation inside a medium. This number tells us something about how much a light ray will bend within a certain medium.</p>
+            <p>The <term>Index of Refraction</term> is defined as <m>n = c/v</m>, the speed of light in vacuum divided by the speed of light in a medium. This number tells us something about how much a light ray will bend when crossing the boundary from one medium to another.</p>
         </statement>
     </definition>
 
@@ -48,7 +48,7 @@
 								</exercise>
             <exercise xml:id="x_total-internal-reflection">
                 <title>Total Internal Reflection</title>
-                <p>When a ray of light passes from one medium into another, the ray will be refracted in the second medium according to the Law of Reflection. But for some critical angle and above, the ray of light will be completely reflected back into the initial medium. In this activity, we will work through this phenomenon to arrive at a useful conclusion. Work through the following questions.</p>
+                <p>When a ray of light passes from one medium into another, the ray will be refracted in the second medium according to the Law of Refraction. But for some critical angle and above, the ray of light will be completely reflected back into the initial medium. In this activity, we will work through this phenomenon to arrive at a useful conclusion. Work through the following questions.</p>
                 <ol>
                     <li>
                         Starting with the Figure above (<xref ref="refraction" />), think about the initial condition for total internal reflection. If you want the second ray (the one entering the second medium) to start to be reflected back (i.e., the ray will not be entering the second medium), what does the second angle need to be equal to? Write down Snell's Law for this situation.
@@ -78,7 +78,7 @@
                 <ol>
                     <li>First draw a ray diagram of a light ray entering a prism and then exiting through the other side. Label all necessary angles and indexes of refraction.</li>
                     <li>
-                        The index of refraction for violet and red light passing through a prism is <m>n_v = 1.53</m> and <m>n_r = 1.51</m>, respectively. If the incident angle is <m>45^\circ</m>, what is the angle of the light within the prism for both colors? What does this mean for the light that emerges from the prism? 
+                        The indices of refraction for violet and red light passing through a prism is <m>n_v = 1.53</m> and <m>n_r = 1.51</m>, respectively. If the incident angle is <m>45^\circ</m>, what is the angle of the light within the prism for both colors? What does this mean for the light that emerges from the prism? 
                         <answer>
                             <p><m>\theta_2 = 27.5^\circ</m> for violet light rays and <m>\theta_2 = 27.9^\circ</m> for red light rays. While this difference might seem small, the fact there is any difference at all allows for the light to be dispersed.</p>
                         </answer>

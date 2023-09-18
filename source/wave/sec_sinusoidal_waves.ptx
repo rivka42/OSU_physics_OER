@@ -51,9 +51,9 @@ For sinusoidal waves, each wave crest travels forward a distance of one waveleng
 </p>
 
 <p>
-It is important to note that <alert> wave speed is a property of the medium's elasticity </alert> while the <alert> frequency of the wave is the frequency of the oscillating source</alert> of the wave. To keep this important aspect of waves in mind, you can use the relationship
+It is important to note that, for mechanical waves, <alert> wave speed is a property of the medium's elasticity </alert> while the <alert> frequency of the wave is the frequency of the oscillating source</alert> of the wave. To keep this important aspect of waves in mind, you can use the relationship
 
-<me> \lambda = \frac{\nu}{f} = \frac{\text{medium}}{\text{source}} </me>
+<me> \lambda_{\text{mechanical}} = \frac{\nu}{f} = \frac{\text{medium}}{\text{source}} </me>
 </p>    
 
 <p>

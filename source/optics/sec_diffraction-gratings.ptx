@@ -2,11 +2,11 @@
 
 <section xml:id="sec_diffraction-gratings" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Diffraction Gratings</title>
-    <p>Diffraction gratings are an optical tool that are made up of many many slits side by side, sometimes thousands of slits per millimeter, and allow for the diffraction of light. Diffraction gratings work through multiple-slit interference.</p>
+    <p>Diffraction gratings are an optical tool that are made up of many many slits side-by-side, sometimes thousands of slits per millimeter, and allow for the diffraction of light. Diffraction gratings work through multiple-slit interference.</p>
   
     <video youtube="ZHNdxpCehXA"><description>A video on diffraction gratings.</description></video>
 
-    <p>When white light travels through a diffraction grating, an interference pattern will show up on the screen. As we have learned, the location of bright and dark spots on the screen depends on the wavelength of the light. So when multiple wavelengths travel through a diffraction grating together, the wavelengths are split up and multiple sets of rainbows can be seen on the screen. When the wavelength is large, the angular displacement on the screen will be larger, as compared to shorter wavelengths.</p>
+    <p>When white light travels through a diffraction grating, an interference pattern will show up on the screen. As we have learned, the location of bright and dark spots on the screen depends on the wavelength of the light. So when multiple wavelengths travel through a diffraction grating together, the wavelengths are split up and multiple sets of bands of color can be seen on the screen. When the wavelength is large, the angular displacement on the screen will be larger, as compared to shorter wavelengths.</p>
 
     <figure>
         <caption>An example of a diffraction grating pattern one might see. Light travels through the diffraction grating, to the screen on the right. In this diagram, the <m>m = 1</m> bright spot and the <m>m = 2</m> bright spot can be seen at angles <m>\theta_1</m> and <m>\theta_2</m>, respectively. </caption>
@@ -24,7 +24,7 @@
             </li>
             <li>
                 <p> 
-                    What angle will the second order maximum be at if you shine a light through the diffraction grating with a wavelength of 475 nm? <answer><p><m>\theta = 72^\circ</m></p></answer>
+                    What angle will the second-order maximum be at if you shine a light through the diffraction grating with a wavelength of 475 nm? <answer><p><m>\theta = 72^\circ</m></p></answer>
                 </p>
             </li>
             <li>

@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_waves_fluid" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Waves in a Fluid</title>
+<section xml:id="sec_waves_substance" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Sound Waves</title>
 		
 <p>
-A sound wave is a sequence of <alert> compressions</alert> where the density is greater than the average and <alert> rarefactions </alert> where the density is below the average density in the fluid. The fluid can be air, water or some other substance. 
+A sound wave is a sequence of <alert> compressions</alert> where the density is greater than the average and <alert> rarefactions </alert> where the density is below the average density in the substance. The substance can be air, water, solid, or plasma. 
 </p>
 
     <figure xml:id="sound_wave">
-    	<caption>A sound wave. As the wave disturbance propagates through the medium, the particles that make up the air oscillate, but do not travel with the wave. </caption>
+    	<caption>A sound wave. As the wave disturbance propagates through the medium, the particles that make up the medium oscillate, but do not travel with the wave.</caption>
     		<image source="wave/longitudinal.gif" width = "100%" ></image>
     </figure>
 
 <p>
-Consider a fluid that has density <m> \rho </m>. The wave disturbance travels outward from the source of the wave through the fluid at the wave speed <m> \nu </m> which depends on the compressibility of that fluid. A fluid's compressibility is characterized by it's <alert> bulk modulus </alert> <m> B </m>. The SI units of bulk modulus are the units of pressure, <m> Pascals</m>. If pressure  <m> P </m> is applied to a fluid of volume <m> V </m> then the fraction by which it is compressed is 
+Consider a substance that has density <m> \rho </m>. The wave disturbance travels outward from the source of the wave through the substance at the wave speed <m> \nu </m> which depends on the compressibility of that substance. A substance's compressibility is characterized by its <alert> bulk modulus </alert> <m> B </m>. The SI units of bulk modulus are the units of pressure, Pascals (Pa). If pressure  <m> P </m> is applied to a substance of volume <m> V </m> then the fraction by which it is compressed is 
 
 <me> \frac{\Delta V}{V}= - \frac{P}{B}</me> 
 
-where the negative sign tells us that the volume decreases as the fluid is compressed. You can predict the speed of sound in a fluid, which is the speed at which the compression wave travels
+where the negative sign tells us that the volume decreases as the substance is compressed. You can predict the speed of sound in a substance, which is the speed at which the compression wave travels
 
 <me> \nu_{\text{sound}} = \sqrt{\frac{B}{\rho}} </me>
 
-At <m> 0^{\circ} C</m> and 1.0 atmosphere standard pressure, the density of air is <m> \rho_0 = 1.292 kg/m^3 </m> and the bulk modulus is <m> B_0=1.48 x 10^5 Pa </m>. Thus the speed of sound in air is 
+At <m> 0^{\circ} C</m> and 1.0 atmosphere standard pressure, the density of air is <m> \rho_0 = 1.292 \frac{\text{kg}}/\frac{\text{m}^3} </m> and the bulk modulus is <m> B_0=1.48 x 10^5 \text{ Pa}</m>. Thus the speed of sound in air is 
 
 <me> \nu_{\text{sound}} = \sqrt{\frac{B_0}{\rho_0}}=331 \text{m/s} </me>
 
-You can use the ideal gas law to show that density at constant pressure is inversely proportional to the temperature <m> T </m> measured in Kelvins. Therefore the sound in air at 1.0 atmosphere standard pressure is 
+You can use the ideal gas law to show that density at constant pressure is inversely proportional to the temperature <m> T </m> measured in Kelvin. Therefore the speed of sound in air at 1.0 atmosphere standard pressure is 
 
 <me> \nu_{\text{sound}}(T) = \sqrt{\frac{B_0}{\rho_0}\frac{T}{273}} = 331 \frac{\text{m}}{\text{s}} \sqrt{\frac{T}{273}}</me> 
 

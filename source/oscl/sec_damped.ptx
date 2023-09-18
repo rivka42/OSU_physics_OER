@@ -4,7 +4,7 @@
   <title>Models Including Dissipative Forces</title>
 			
  <p>
-The models you have built for simple harmonic motion of spring, simple pendulums, and rigid body oscillators have not included dissipative forces such as friction. You know from experience that a pendulum left to oscillate will lose energy. The amplitude decreases in time until all energy has been dissipated and the system comes to rest. An oscillation whose amplitude decreases in time is called a <alert> damped oscillation</alert>. Energy dissipation can be caused by dissipative forces such as air resistance or friction. 
+The models you have built for simple harmonic motion of spring, simple pendulums, and rigid body oscillators have not included dissipative forces such as friction. You know from experience that a pendulum left to oscillate will lose energy. The amplitude decreases in time until all energy has been dissipated and the system comes to rest. An oscillation whose amplitude decreases in time is called a <alert> damped oscillation</alert>. Energy dissipation can be caused by dissipative forces such as air resistance and friction. 
  </p>
  
  <figure xml:id="Damped_spring">
@@ -17,7 +17,7 @@ You can now analyze a spring system and consider the effects of air drag, assumi
  
  <me> \vec{F}_{drag} = -b\vec{v}</me>
  
-Recall that the <alert>damping constant </alert>, <m>b</m>, depends on the shape of the object and the viscosity of the air (or other medium) in which it moves. The damping constant plays the same role as the coefficient of friction. The negative sign reminds you that the force always opposes the velocity of the object. 
+The <alert>damping constant </alert>, <m>b</m>, depends on the shape of the object and the viscosity of the air (or other medium) in which it moves. The damping constant plays the same role as the coefficient of friction. The negative sign reminds you that the force always opposes the velocity of the object. 
 </p>
 
 <figure xml:id="mass_spring_damp">
@@ -44,7 +44,7 @@ The oscillation frequency is given by,
 
 You can see that the oscillation frequency is equivalent to the original oscillation frequency modified by the quantity <m> b^2/4m^2 </m>. Below is a graph of the position as a function of time for the damped oscillator. The cosine function modified by the exponential decay is shown. You can see that the envelope of the amplitude decays in time. The maximum displacement away from equilibrium decreases according to the function
 
-<me> x_{max}(t) = A \exp(-bt/2m)</me>
+<me> x_{max}(t) = A \exp{-bt/2m}</me>
 </p>
 
 <figure xml:id="damped_pos">
@@ -63,9 +63,6 @@ You can see that the oscillation frequency is equivalent to the original oscilla
 		<statement>
 		<p> The damping constant characterizes the magnitude of the the drag force. Confirm that when <m> b=0 </m> you recover the position function and oscillation frequency for the un-damped mass on a spring.</p>
 		</statement>
-		<answer>
-		<p></p>
-		</answer>
 		</exercise>
 		
 		<exercise>
@@ -73,10 +70,6 @@ You can see that the oscillation frequency is equivalent to the original oscilla
 		<statement>
 		<p>Plug the solution back into the equation of motion and confirm that <m>x(t)</m> is a solution. </p>
 		</statement>
-		<answer>
-		<p> 		
-		</p>
-		</answer>
 		</exercise>
 		
 		<exercise>
@@ -84,10 +77,6 @@ You can see that the oscillation frequency is equivalent to the original oscilla
 		<statement>
 		<p>Repeat the analysis above excluding air drag, but including kinetic friction between the surface on which the mass rests. Determine an equation of motion, the position as a function of time and the oscillation frequency. </p>
 		</statement>
-		<answer>
-		<p> 		
-		</p>
-		</answer>
 		</exercise>
 		
 		<exercise>
@@ -95,10 +84,6 @@ You can see that the oscillation frequency is equivalent to the original oscilla
 		<statement>
 		<p>Repeat the analysis above for the pendulum including air drag. Determine an equation of motion, the angular position as a function of time and the oscillation frequency. </p>
 		</statement>
-		<answer>
-		<p> 		
-		</p>
-		</answer>
 		</exercise>
 
 		

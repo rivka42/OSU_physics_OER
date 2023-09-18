@@ -14,7 +14,7 @@ Any function can be expanded into an infinite sum of polynomials. This is called
 
 <me> \cos(\theta) = \sum^\infty_{n=0} \frac{(-1)^n}{2n}\theta^{2n} = 1 - \frac{\theta^2}{2!}+\frac{\theta^4}{4!} -\frac{\theta^6}{6!}-....</me>
 
-The small-angle approximation considers only the first nontrivial term in the sum. 
+Both expressions above are valid only when <m>\theta</m> is measured in radians.  The small-angle approximation considers only the first nontrivial term in the sum. 
 
 <men> \sin(\theta) \approx \theta</men>
 <men> \cos(\theta) \approx 1 - \frac{\theta^2}{2!}</men>
@@ -62,9 +62,6 @@ from this and your model of simple harmonic motion, you can directly see that th
 		<statement>
 		<p> Determine the error introduced by the small-angle approximation for <m>\sin\theta</m> and <m> \cos\theta </m> when <m> \theta = 0.2, 0.4, 0.8 </m> radian. </p>
 		</statement>
-		<answer>
-		<p></p>
-		</answer>
 		</exercise>
 </exercises>
 

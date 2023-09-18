@@ -24,7 +24,7 @@ As time increases, the particle's <m>x</m>-component can be written as
 
 <me> x(t) = A \cos(\theta(t) = A \cos(\omega t + \theta_o) </me>
 
-As the particle moves in a circle, it's projection onto the <m>x</m>-axis oscillates between <m> x = \pm A </m>. Thus, <alert> uniform circular motion is simple harmonic motion when projected onto one spatial axis </alert>. 
+As the particle moves in a circle, its projection onto the <m>x</m>-axis oscillates between <m> x = \pm A </m>. Thus, <alert> uniform circular motion is simple harmonic motion when projected onto one spatial axis </alert>. 
 </p>
 
 <figure xml:id="circular_HM">
