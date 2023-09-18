@@ -17,6 +17,7 @@
         <title>Thin-Lens Equation</title>
         <p>
             The <term>Thin-Lens Equation</term> is defined as <m>\frac{1}{d_o} + \frac{1}{d_i} = \frac{1}{f}</m>, where <m>d_o</m> is the object distance to the lens, <m>d_i</m> is the image distance to the lens, and <m>f</m> is the focal length. The image distance is positive for real images and negative for virtual images. This equation is only valid when using the Thin-Lens Approximation.
+            The <term>Thin-Lens Equation</term> is defined as <m>\frac{1}{d_o} + \frac{1}{d_i} = \frac{1}{f}</m>, where <m>d_o</m> is the object distance to the lens, <m>d_i</m> is the image distance to the lens, and <m>f</m> is the focal length. The image distance is positive for real images and negative for virtual images. This equation is only valid when using the Thin-Lens Approximation.
         </p>
     </definition>
     <definition>
@@ -49,9 +50,11 @@
     <p><term>Diverging lenses</term> are just the opposite: they will diverge light rays away from each other after they exit the lens. These lenses have two curved surfaces inwards. These types of lenses always produce a virtual image located within the virtual focal length of the lens.
         <figure xml:id="diverging1">
             <caption>A diverging lens. Under the thin-lens approximation, light rays that are parallel to the optical axis will refract at the lens plane, and diverge away from each other on the opposite side of the lens, while a virtual image is created at the virtual focal point.</caption>
+            <caption>A diverging lens. Under the thin-lens approximation, light rays that are parallel to the optical axis will refract at the lens plane, and diverge away from each other on the opposite side of the lens, while a virtual image is created at the virtual focal point.</caption>
             <image source="optics/diverging1.png" width = "90%" ></image>
         </figure>
         <figure xml:id="diverging">
+            <caption>A diverging lens. Under the thin-lens approximation, converging light rays will enter the lens, refract at the lens plane, and will exit the lens parallel to the optical axis.</caption>
             <caption>A diverging lens. Under the thin-lens approximation, converging light rays will enter the lens, refract at the lens plane, and will exit the lens parallel to the optical axis.</caption>
             <image source="optics/diverging.png" width = "90%" ></image>
         </figure>

@@ -16,7 +16,7 @@
 			<video youtube="lWqItTPQ_po"><description>Describing the simple pendulum with simple harmonic motion.</description></video>
 			
 <p>
-Consider a mass <m>m</m> that hangs from a string that has one end fixed in space and is free to pivot (ie, no friction). Assume the string has negligible mass compared to the object's mass <m>m</m> such that we can apply the <alert>massless string approximation</alert> to our analysis. 
+Consider a mass <m>m</m> that hangs from a string that has one end fixed in space and is free to pivot (<em>i.e.,</em> no friction). Assume the string has negligible mass compared to the object's mass <m>m</m> such that we can apply the <alert>massless string approximation</alert> to our analysis. 
 </p>
 
 <p>
@@ -32,7 +32,7 @@ The string has length <m> L </m> and the mass is initially pulled out an angle <
 Using torque analysis, first draw a pictorial representation of the situation and choose a coordinate system. Assume  the mass can be treated as a particle and draw an extended free-body diagram, choosing an axis directed radially toward the pivot point and an axis tangential to the arc of the motion.  Assume tension keeps the string taut so it does not bend or bow.  
 </p>
 
- <p> Recall the Rotationa Law of Motion
+ <p> Recall the Rotational Law of Motion
  
   <me> \sum \tau = I\alpha </me>
  

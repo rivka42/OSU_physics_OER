@@ -13,7 +13,7 @@
 		
 		<video youtube="NsxLt_4tFIU"><description>Introducing intensity for waves</description></video>
 	
-<p>Consider a wave on a string. Any point along the string moves up and down as a wave passes through it. The average velocity of a point on the string is related to the amplitude of the wave and also to how quickly the motion changes from up to down – thus the frequency.</p>
+<p>Consider a transverse wave on a horizontal string. Any point along the string moves up and down as a wave passes through it. The average speed of a point on the string is related to the amplitude of the wave and also to how quickly the motion changes from up to down – thus the frequency.</p>
 
 <p>
 	<me> K = \frac{1}{2}mv^2</me>
@@ -21,14 +21,14 @@
 </p>
 
 <p>
-The kinetic energy of the mass at that point depends on the square of the velocity. We can infer that the energy of the wave goes as the square of the amplitude, and the square of the frequency.	
+The kinetic energy of the mass at that point depends on the square of the speed. We can infer that the energy of the wave goes as the square of the amplitude, and the square of the frequency.	
 </p>
 	
 <definition>
-  <title>intensity</title>
+  <title>Intensity</title>
    <statement>
 	   <p>The <term>intensity</term> of a wave emanating from a point source: <me>I = \frac{P}{a}</me> where <m>P</m> is power and <m>a</m> is the surface area of a sphere.</p>
-<p>We define the intensity I of a wave to be the power delivered by the wave, divided by the area that the wave impinges upon. The units of intensity are Watts per square meter.
+<p>We define the intensity <m>I</m> of a wave to be the power delivered by the wave, divided by the area that the wave impinges upon. The units of intensity are Watts per square meter.
 </p>
    </statement>
 </definition>
@@ -42,7 +42,7 @@ The kinetic energy of the mass at that point depends on the square of the veloci
 	<image source="wave/intensity_rsquared.jpg" width = "60%" ></image>
 </figure>
 <p>
-We can visualize this by considering the energy passing through a small area of a sphere of radius r. The same amount of energy must pass through a larger area of a sphere of radius 2r. Since the surface area of the larger sphere increases by a factor of <m>r^2</m>, the energy passing through the same area must be <m>\frac{1}{4}</m> as much.    
+We can visualize this by considering the energy passing through a small area of a sphere of radius <m>r</m>. The same amount of energy must pass through a larger area of a sphere of radius <m>2r</m>. Since the surface area of the larger sphere increases by a factor of <m>r^2</m>, the energy passing through the same area must be <m>\frac{1}{4}</m> as much.    
 </p>
 
 <exercises>

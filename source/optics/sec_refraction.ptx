@@ -24,6 +24,7 @@
         <title>Index of Refraction</title>
         <statement>
             <p>The <term>Index of Refraction</term> is defined as <m>n = c/v</m>, the speed of light in vacuum divided by the speed of light in a medium. This number tells us something about how much a light ray will bend when crossing the boundary from one medium to another.</p>
+            <p>The <term>Index of Refraction</term> is defined as <m>n = c/v</m>, the speed of light in vacuum divided by the speed of light in a medium. This number tells us something about how much a light ray will bend when crossing the boundary from one medium to another.</p>
         </statement>
     </definition>
 
@@ -48,6 +49,7 @@
 								</exercise>
             <exercise xml:id="x_total-internal-reflection">
                 <title>Total Internal Reflection</title>
+                <p>When a ray of light passes from one medium into another, the ray will be refracted in the second medium according to the Law of Refraction. But for some critical angle and above, the ray of light will be completely reflected back into the initial medium. In this activity, we will work through this phenomenon to arrive at a useful conclusion. Work through the following questions.</p>
                 <p>When a ray of light passes from one medium into another, the ray will be refracted in the second medium according to the Law of Refraction. But for some critical angle and above, the ray of light will be completely reflected back into the initial medium. In this activity, we will work through this phenomenon to arrive at a useful conclusion. Work through the following questions.</p>
                 <ol>
                     <li>

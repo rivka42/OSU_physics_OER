@@ -7,18 +7,18 @@
 
    <p>Humans have a very wide range of hearing when measuring intensity in units of Watts per meter.
       For this reason, a logarithmic unit of measurement called sound intensity level is often used for 
-      measuring sound. The unit for sound intensity level is the bel or decibel (dB).</p>
+      measuring loudness. The unit for sound intensity level is the bel or decibel (dB).</p>
 	
    <definition>
    <title>Sound intensity level</title>
    <statement>
-	   <p>The <term>intensity level</term> of sound is defined to be: <me>\beta = (10 dB) \log_{10} \frac{I}{I_0}</me><me>I_0 = 10^{-12} \frac{\text{W}}{\text{m}^2}</me></p>
+	   <p>The <term>intensity level</term> of sound is defined to be: <me>\beta = (10 \text{ dB}) \log_{10} \frac{I}{I_0}</me><me>I_0 = 10^{-12} \frac{\text{W}}{\text{m}^2}</me></p>
 	</statement>
    </definition>
 
    <p><m>I_0</m> is a very small intensity, at the lower limit of human hearing. When <m>I = I_0</m>, it dose not mean there are no sound waves present, just that humans cannot hear them.</p>
 
-   <p>When the sound intensity level increases by a factor of 10 dB, the intensity increases by a factor of ten. You start to feel pain from high intensity sound at about 130 dB</p>
+   <p>When the sound intensity level increases by 10 dB, the intensity increases by a factor of ten. You start to feel pain from high intensity sound at about 130 dB</p>
 
 
 

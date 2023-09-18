@@ -4,7 +4,7 @@
   <title>Energy Conservation in SHM</title>
 			
 <p>
-You previously saw forces that are position dependent generally have associated potential energy functions. Kinetic energy is an energy of movement. Kinetic energy can be transformed into potential energy as an object changes position. Potential energy is an <em> energy of position</em>, and so it makes sense that the associated interaction forces are position dependent. Systems that <em>interact</em> via a <alert>conservative force</alert><fn>such as gravity, elastic forces, or, as you will later encounter, the electric force</fn> can be associated with a potential energy.
+You previously saw that position-dependent forces generally have associated potential energy functions. Kinetic energy is an energy of movement. Kinetic energy can be transformed into potential energy as an object changes position. Potential energy is an <em> energy of position</em>, and so it makes sense that the associated interaction forces are position-dependent. Systems that <em>interact</em> via a <alert>conservative force</alert><fn>such as gravity, elastic forces, or, as you will later encounter, the electric force</fn> can be associated with a potential energy.
 </p> 
 
 <p>
@@ -31,7 +31,7 @@ You can always set the zero point of potential energy to <m> U_0 = 0</m>. The to
 This holds as long as you assume no dissipative forces act on the system. </p>
 
 <figure xml:id="energySHM">
-    	<caption>Position function of an object in Simple Harmonic Motion.</caption>
+    	<caption>Energy functions of an object in Simple Harmonic Motion.</caption>
     		<image source="oscillate/energySHM.png" width = "100%" ></image>
 </figure>
 
@@ -40,7 +40,7 @@ There are some special cases to consider. As the system oscillates, kinetic and 
 
 <me> U(x) =  \frac{1}{2} k A^2 </me>
 
-As the system passes through the equilibrium position <m> x = 0 </m> and the velocity is maximal <m> v = \pm v_{max}</m> (see <xref ref="sec_graphTrig"></xref>), the system only has kinetic energy,
+As the system passes through the equilibrium position <m> x = 0 </m> and the speed is maximal <m> v = v_{max}</m> (see <xref ref="sec_graphTrig"></xref>), the system only has kinetic energy,
 
 <me> K = \frac{1}{2} m v_{max}^2</me>
 
@@ -52,7 +52,7 @@ The first term accounts for positions between <m> x=0 </m> and <m> x=\pm A</m>. 
 </p>
 
 <p>
-You may ask where is potential energy stored? Potential energy is stored in <em>fields</em>. Gravitational potential energy is stored in the gravitational field. Electric potential energy in the electric field. Our modern understanding of long-range forces such as gravity is that these forces can act over long distances because any mass creates a field that pervades all space. Any other mass that encounters this field will feel a force. You will learn much more about fields when we study electricity and magnetism in a later section. 
+You may ask where is potential energy stored? Potential energy is stored in <em>fields</em>. Gravitational potential energy is stored in the gravitational field. Electric potential energy in the electric field. Our modern understanding of long-range forces such as gravity is that these forces can act over long distances because any mass creates a field that pervades all space. Any other mass that encounters this field will feel a force. You will learn much more about fields when we study electricity and magnetism in later sections. 
 </p>
     
 

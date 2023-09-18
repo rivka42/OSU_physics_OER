@@ -11,7 +11,7 @@ Simple harmonic motion usually involves representing the position as a sinusoida
 </p>
 
 <p>
-Here, the notation <m> \vec{x}(t)</m> reminds you that the position <m>x</m> of the object is a <em>function</em> of time <m>t</m>. The position is a cosine function with <alert>amplitude</alert> <m>A</m>, <alert>period</alert> <m>T</m>, <alert>initial phase</alert> <m> \phi_o</m>, and <alert>equilibrium position</alert> <m>\vec{x}_o</m>. The argument of a trigonometric function is called the <em>phase</em> and <m> \phi_o</m> tells you the initial condition for the oscillation (the position at <m> t=0</m>).
+Here, the notation <m> \vec{x}(t)</m> reminds you that the position <m>\vec{x}</m> of the object is a <em>function</em> of time <m>t</m>. The position is a cosine function with <alert>amplitude</alert> <m>A</m>, <alert>period</alert> <m>T</m>, <alert>initial phase</alert> <m> \phi_o</m>, and <alert>equilibrium position</alert> <m>\vec{x}_o</m>. The argument of a trigonometric function is called the <em>phase</em> and <m> \phi_o</m> tells you the initial condition for the oscillation (the position at <m> t=0</m>).
 </p> 
 
 <figure xml:id="HM_position">
@@ -23,11 +23,11 @@ Here, the notation <m> \vec{x}(t)</m> reminds you that the position <m>x</m> of 
 		<title>Graphical Activities</title>
 	<exercise>
 		<statement>
-		<p>Identify the equilibrium position <m>x_o</m> and the initial phase <m> \phi_o</m> in the graph above.  Explain how you found them</p>
+		<p>Identify the equilibrium position <m>\vec{x}_o</m> and the initial phase <m> \phi_o</m> in the graph above.  Explain how you found them</p>
 		</statement>
 <solution>
 <p>
-The initial phase can be found by looking at where the cosine wave is at <m>t = 0</m>: here, it is at a maximum, which means <m>\phi_o = 0</m>.  The equilibrium position can be found by looking halfway between the maximum and minimum values, which here is at <m>x_o = 0</m>.  When possible, it is extremely common to choose both of these quantities to be zero to simplify the position equation.
+The initial phase can be found by looking at where the cosine wave is at <m>t = 0</m>: here, it is at a maximum, which means <m>\phi_o = 0</m>.  The equilibrium position can be found by looking halfway between the maximum and minimum values, which here is at <m>\vec{x}_o = 0</m>.  When possible, it is extremely common to choose both of these quantities to be zero to simplify the position equation.
 </p>
 </solution>
 </exercise>
@@ -46,7 +46,7 @@ Another important characteristic of oscillatory motion is the <alert>frequency</
 </p>
 
 <p>
-Recall that a particle in uniform circular motion has an angular velocity <m>\omega</m> related to the period of motion by 
+Recall that a particle in uniform circular motion has an angular speed <m>\omega</m> related to the period of motion by 
 <men>\omega= \frac{2 \pi}{T}</men> 
 
 This relation holds true in simple harmonic motion. When describing oscillatory motion, <m> \omega </m> is called the <alert> angular frequency</alert> rather than angular velocity. The physical units of <m>\omega</m> are given in rad/s. Note that since radians are a dimensionless unit, often the rad is dropped for the SI units when <m>\omega</m> is used together with other quantities. Most of the symbolic work you will do when representing oscillations will be done in terms of the angular frequency <m>\omega</m>, rather than the ordinary frequency <m>f</m>. 
@@ -62,14 +62,14 @@ This relation holds true in simple harmonic motion. When describing oscillatory 
 		<p>Looking at equation <xref ref="pos_HM"></xref> what are the physical dimension and SI units of amplitude and period? How can you tell?</p>
 		</statement>
 		<answer>
-		<p>The equation as a whole is a position and has dimension of length with SI units of meters. Trigonometric functions are dimensionless. Therefore, the amplitude must have dimension of length for the equation to be true. The SI units of amplitude are meters. The argument of a trigonometric function must also be dimensionless with SI units of radians. Therefore, the fraction <m>\frac{2\pi t}{T}</m> must be dimensionless. The only way for this to be true is if the dimension of period is time. The SI units of time are the second. </p>
+		<p>The equation as a whole is a position and has dimension of length with SI units of meters. Trigonometric functions are dimensionless. Therefore, the amplitude must have dimension of length for the equation to be true. The SI units of amplitude are meters. The argument of a trigonometric function must also be dimensionless with SI units of radians. Therefore, the fraction <m>\frac{2\pi t}{T}</m> must be dimensionless. The only way for this to be true is if the dimension of period is time. The SI units of time are seconds. </p>
 		</answer>
 		</exercise>
 		
 		<exercise>
 		<title>Exploring the Period, Frequency and Angular Frequency</title>
 		<statement>
-		<p>It is often useful to represent oscillatory motion in terms of the period T, the frequency <m>f</m> or the angular frequency <m>\omega</m>. Write the relationship between angular frequency <m>\omega</m>, period and frequency. </p>
+		<p>It is often useful to represent oscillatory motion in terms of the period <m>T</m>, the frequency <m>f</m> or the angular frequency <m>\omega</m>. Write the relationship between angular frequency <m>\omega</m>, period and frequency. </p>
 		</statement>
 		<answer> 
 		<p>We can write a relation between period <m>T</m>, frequency <m>f</m>, and angular frequency <m>\omega</m> as follows:</p>

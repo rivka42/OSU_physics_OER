@@ -3,7 +3,7 @@
 <chapter xml:id="ch_oscillate" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Oscillations</title>
 	<introduction>
-    <p> Oscillations are ubiquitous in the natural world. The swaying of a tree in the wind, the motion of a child playing on a swing, springs, pendulums, musical instruments and even molecular bonds all undergo oscillatory motion. Additionally, as we will later see, oscillations are the source of waves. Our physical models of oscillatory motion will carry over to the next chapter where we study wave motion. In this chapter you will focus on applying physics models to oscillations and oscillatory motion.</p>
+    <p> Oscillations are ubiquitous in the natural world. The swaying of a tree in the wind, the motion of a child playing on a swing, springs, pendulums, musical instruments and even atoms bonded together in modules all undergo oscillatory motion. Additionally, as we will later see, oscillations are the source of waves. Our physical models of oscillatory motion will carry over to the next chapter where we study wave motion. In this chapter you will focus on applying physics models to oscillations and oscillatory motion.</p>
 	
 	<p><alert>Learning Outcomes</alert></p>
   
@@ -12,7 +12,7 @@
  <ol>
 <li>Define simple harmonic motion.</li>
 <li>Define and represent graphically the amplitude, frequency, angular frequency, period and phase constant of an oscillating system.</li>
-<li>Define and represent graphically the displacement, velocity and acceleration of an oscillating system</li>
+<li>Define and represent graphically the position, velocity, and acceleration of an oscillating system</li>
 <li>Identify relationships between oscillatory motion and circular motion.</li>
 <li>Define a restoring force.</li> 
 <li>Identify when a restoring force is directly proportional to displacement.</li>
