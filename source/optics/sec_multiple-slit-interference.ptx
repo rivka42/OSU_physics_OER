@@ -9,7 +9,7 @@
         <!-- Inspired by Paul's in class activity -->
         <p>To understand how the interference pattern changes, let's work through what happens if you add a third slit to the screen. Let's consider three points on the screen: the central maximum, the first bright spot, and the first dark spot.</p>
         <figure>
-            <caption>Left: A diagram of the triple-slit experiment. Three slits are located in the center of a plane located a distance L away from a screen. Right: A zoomed-in view of the circle on the left. Notice how a third slit has been added below the second slit, also at a distance d away from the second slit.</caption>
+            <caption>Left: A diagram of the triple-slit experiment. Three slits are located in the center of a plane located a distance <m>L</m> away from a screen. Right: A zoomed-in view of the circle on the left. Notice how a third slit has been added below the second slit, also at a distance <m>d</m> away from the second slit.</caption>
             <image source="optics/multi_interference.jpg"></image>
         </figure>
         <exercise>

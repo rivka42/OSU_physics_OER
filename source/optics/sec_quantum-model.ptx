@@ -7,7 +7,7 @@
 
     <video youtube="J1yIApZtLos"><description>Is light a particle or a wave? - Colm Kelleher</description></video>
 
-    <p>In quantum mechanics, light is described as a photon, which is a fundamental particle. These particles have energies directly related to their frequencies, <m>E = hf</m>, where <m>h</m> is <term>Planck's constant</term> which is equal to <m>6.626 \times 10^{-34}[\mathrm{J} \mathrm{Hz}^{-1}] </m>. This will help us understand our next activity, which is focused on the Photoelectric Effect.</p>
+    <p>In quantum mechanics, light is described as a photon, which is a fundamental particle. These particles have energies directly related to their frequencies, <m>E = hf</m>, where <m>h</m> is <term>Planck's constant</term> which is equal to <m>6.626 \times 10^{-34} \mathrm{J}\mathrm{s}</m>. This will help us understand our next activity, which is focused on the Photoelectric Effect.</p>
 
     <exercises>
         <title>Quantum Model Activities</title>
