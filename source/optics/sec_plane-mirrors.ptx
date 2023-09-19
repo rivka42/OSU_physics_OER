@@ -9,7 +9,7 @@
 
     <figure xml:id="plane_mirror">
         <caption>Diagram of a plane mirror. An object sits at a distance <m>d_o</m> from the mirror, and an image is produced at a distance <m>d_i</m> behind the mirror.</caption>
-        <image source="optics/plane_mirror.jpg" width = "90%" ></image>
+        <image source="optics/plane_mirror.jpg" width = "90%" ><description>A green arrow, labelled as "object", sits a distance d sub o away from a plane mirror on the left side. Two rays extend from the tip of the arrow and hit the mirror: the first hits the mirror perpendicularly, and is reflected backwards along the same line. The second ray hits the mirror at some angle and is reflected back at that angle. Both reflected rays are extended as dashed lines behind the mirror and intersect. Another green arrow, labelled as "image", sits behind the mirror with the tip of the arrow pointing at the intersection point.</description></image>
     </figure>
 
     <principle>
@@ -32,9 +32,7 @@
         <title>Plane Mirror Activities</title>
             <exercise xml:id="x_plane-mirror">
                 <title>Plane Mirror Simulation</title>
-                <p>Spend some time playing with the following simulation. Click on the "Mirror" option. At the top of the screen, select the flat mirror option. 
-                    <url href="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html"/>
-                </p>
+                <p>Spend some time playing with this <url href="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html" visual="simulation"/>. Click on the "Mirror" option. At the top of the screen, select the flat mirror option.</p>
                 <p>Make some observations as you move the object away from and towards the mirror.</p>
             </exercise>
             <exercise xml:id="x_mirror-illusion">

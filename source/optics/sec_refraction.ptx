@@ -34,7 +34,7 @@
           <p>Light refracts (bends) when it enters into a different medium at some angle, <m>\theta_1</m>: <me>n_1 \mathrm{sin}(\theta_1) = n_2 \mathrm{sin}(\theta_2)</me>.
             <figure xml:id="refraction">
             <caption>A diagram of the Law of Refraction.</caption>
-                <image source="optics/refraction.jpg" width = "90%" ></image>
+                <image source="optics/refraction.jpg" width = "90%" ><description>A blue box sits in the center of the diagram. A ray, labelled as "incident ray", extends from above the box and hits the top of the box at an angle theta sub 1. At that point, the ray is bent inside the box at an angle theta sub 2. This ray is labelled as "refracted ray". Outside of the box sits the label "n sub 1" and inside the box sits the label "n sub 2" to denote the indices of refraction of the two mediums.</description></image>
         </figure></p>
         </statement>
     </principle>

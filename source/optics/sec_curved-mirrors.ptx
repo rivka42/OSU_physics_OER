@@ -15,7 +15,7 @@
 
     <figure xml:id="concave_mirror">
         <caption>Diagram of a concave mirror. Notice there are three rays which help us figure out where the image is: the first ray comes in parallel to the optical axis, and is reflected through the focal point. The second ray travels through the focal point and is reflected back parallel to the optical axis. The third ray hits the vertex of the mirror at the center, and is reflected back at the same incidence angle. Where the three rays intersect is there the top of the object is located. The image distance is negative for virtual images and positive for real images.</caption>
-        <image source="optics/concave.jpg" width = "90%" ></image>
+        <image source="optics/concave.jpg" width = "90%" ><description>A green arrow, labelled as "object" sits upright and to the left of a concave mirror. The tail of the arrow sits on the optical axis, which runs straight through the center of the mirror. A vertical dashed line sits tangent to and behind the mirror. Three arrows leave from the head of the arrow, hit the dashed line, and then reflect backwards and intersect with one another. Another green arrow points downwards with the head of the arrow at the intersection point. This arrow is labelled as "image".</description></image>
     </figure>
 
     <definition>
@@ -38,14 +38,14 @@
                 <p>Find where the image is located for this convex mirror.
                     <figure xml:id="empty_convex_mirror">
                         <caption>Empty diagram of a convex mirror. Where is the image located?</caption>
-                        <image source="optics/empty_convex.jpg" width = "90%" ></image>
+                        <image source="optics/empty_convex.jpg" width = "90%" ><description>A green arrow, labelled as "object", sits up right and to the left of a convex mirror. The optical plane of the mirror is sitting in front of and tangent to the mirror as a dashed line. The focal point of the mirror is labelled as "f" on the right side of the mirror.</description></image>
                     </figure>
                 </p>
                 <answer>
                     <p> Check the following ray diagram and compare it with your own. How did you do? If you made any mistakes, list them and indicate how you need to change your rays in order to produce the correct image.
                         <figure xml:id="convex_mirror">
                         <caption>Diagram of a convex mirror. An image is produced by extending the reflected rays into the mirror. There are at least two useful rays to draw. The first is parallel to the optical axis, and the reflected ray will extend back through the focal point of the mirror on the opposite side. The second is reflected at the vertex of the mirror, along the optical axis. The reflected ray is reflected at the incidence angle, and when extended backwards, will intersect with the first ray. The intersection point shows where the top of the object is.</caption>
-                        <image source="optics/convex.jpg" width = "90%" ></image>
+                        <image source="optics/convex.jpg" width = "90%" ><description>A green arrow, labelled as "object", sits up right and to the left of a convex mirror. The optical plane of the mirror is sitting in front of and tanget to the mirror as a dashed line. Two arrow leave from the head of the arrow: one hits the optical plane at a right angle, and is reflected off at an angle that would extend the reflected ray through the focal point. The extension of the reflected ray travels through the focal point as a dashed line. The other arrow hits the optical plane at the center of the mirror, and is reflected back at the same angle it was incident upon the mirror. The reflected ray is extended backwards as a dashed line. The two dashed lines intersect with one another on the right side of the mirror. A smaller green arrow, labelled as "image", sits up right and to the right of the mirror, within the focal length.</description></image>
                         </figure> 
                     </p>   
                     <p>    

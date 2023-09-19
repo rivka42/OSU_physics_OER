@@ -11,7 +11,7 @@
 
     <figure>
         <caption>An example of a diffraction grating pattern one might see. Light travels through the diffraction grating, to the screen on the right. In this diagram, the <m>m = 1</m> bright spot and the <m>m = 2</m> bright spot can be seen at angles <m>\theta_1</m> and <m>\theta_2</m>, respectively. </caption>
-        <image source="optics/diffraction_grating.jpg" width = "75%"></image>
+        <image source="optics/diffraction_grating.jpg" width = "75%"><description>A diffraction grating sits on the left and a screen with a diffraction pattern sits on the right. The bright spots are labelled out to m = 2 above and below the central bright spot. Two lines extend from the diffraction grating to the screen: one at an angle theta 1 to the m = 1 bright spot on top, and the other at an angle theta 2 to the m = 2 bright spot on bottom. A line with arrow heads on both sides extends from the diffraction grating to the screen with the label "L >> d".</description></image>
     </figure>
 
     <exercises>

@@ -7,7 +7,7 @@
 		
 		    <figure>
         <caption>Interference pattern produced by light traveling through two adjacent slits. The central maxima is at a value of <m>m = 0</m>.</caption>
-        <image source="optics/double_slit.jpg"></image>
+        <image source="optics/double_slit.jpg"><description>A diagram showing the double-slit experiment and the interference pattern that is shown on the screen. Two slits sit on the right side. Plane waves hit the two slits from the left side. As they exist the slits, the wave front becomes spherical, and multiple concentric circles are shown to represent how the light wave behaves. The interference pattern has seven evenly distributed bright spots. The center is labelled m = 0, and the rest are labelled from m = 1 to m = 3 above and below the center.</description></image>
     </figure>
 
     <p>The Double-Slit Experiment was originally conducted by Thomas Young in 1801 to show that light does indeed behave like a wave. Just like water waves interacting with each other, as light travels through two slits, the crests and troughs of the light waves will interact with each other and produce an interference pattern on the screen behind the slits.  In fact, the general rules for interference are the same as you saw in <xref ref="sec_interference"/>.</p>
@@ -38,7 +38,7 @@
 		
     <figure>
         <caption>Left: A diagram of the double slit experiment. The slits are separated from the screen by a distance of <m>L</m>, and the angle to the mth bright spot is denoted by <m>\theta_m</m>. The vertical distance to the mth bright spot is <m>y_m</m>. Right: A zoomed-in view of the double slits. The slits are separated by a distance <m>d</m>. Two different rays, <m>r_1</m> and <m>r_2</m> travel towards the screen at an angle <m>\theta</m>, making the path length difference between the two rays equal to <m>d \sin\theta</m>.</caption>
-        <image source="optics/slit-diagram.jpg"></image>
+        <image source="optics/slit-diagram.jpg"><description>On the left side, there is a diagram of the souble-slit experiment, with the slits sitting on the left a distance L away from a screen. A dashed line extends from the center of the slits to the screen at an angle theta sub m and hits a point y sub m on the screen on the right. A small circle covers the double-slit experiment on the right. On the right side, there is a zoomed-in picture of the double-slit set up inside a circle. Two slits sit at a distance d away from each other. A ray extends from each slit to the right side of the circle at an angle theta. The rays are labelled "r 1" and "r 2". Another line extends from the top slit to the bottom ray at an angle theta, indicating the path length difference.</description></image>
     </figure>
 
 <!--

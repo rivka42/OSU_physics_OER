@@ -10,7 +10,7 @@
         <p>To understand how the interference pattern changes, let's work through what happens if you add a third slit to the screen. Let's consider three points on the screen: the central maximum, the first bright spot, and the first dark spot.</p>
         <figure>
             <caption>Left: A diagram of the triple-slit experiment. Three slits are located in the center of a plane located a distance <m>L</m> away from a screen. Right: A zoomed-in view of the circle on the left. Notice how a third slit has been added below the second slit, also at a distance <m>d</m> away from the second slit.</caption>
-            <image source="optics/multi_interference.jpg"></image>
+            <image source="optics/multi_interference.jpg"><description>On the left side, there is a diagram of the triple-slit experiment, with the slits sitting on the left a distance L away from a screen. A dashed line extends from the center of the slits to the screen at an angle theta sub m and hits a point y sub m on the screen on the right. A small circle covers the triple-slit experiment on the right. On the right side, there is a zoomed-in picture of the triple-slit set up inside a circle. Three slits sit at a distance d away from each other. A ray extends from each slit to the right side of the circle at an angle theta. The rays are labelled "r 1", "r 2", and "r 3". Another line extends from the top slit to the bottom ray at an angle theta, indicating the path length difference.</description></image>
         </figure>
         <exercise>
             <title>Central Maximum</title>
