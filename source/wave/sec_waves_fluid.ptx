@@ -21,7 +21,7 @@ where the negative sign tells us that the volume decreases as the substance is c
 
 <me> \nu_{\text{sound}} = \sqrt{\frac{B}{\rho}} </me>
 
-At <m> 0^{\circ} C</m> and 1.0 atmosphere standard pressure, the density of air is <m> \rho_0 = 1.292 \frac{\text{kg}}/\frac{\text{m}^3} </m> and the bulk modulus is <m> B_0=1.48 x 10^5 \text{ Pa}</m>. Thus the speed of sound in air is 
+At <m> 0^{\circ} C</m> and 1.0 atmosphere standard pressure, the density of air is <m> \rho_0 = 1.292 \frac{\text{kg}}{\text{m}^3} </m> and the bulk modulus is <m> B_0=1.48 x 10^5 \text{ Pa}</m>. Thus the speed of sound in air is 
 
 <me> \nu_{\text{sound}} = \sqrt{\frac{B_0}{\rho_0}}=331 \text{m/s} </me>
 
