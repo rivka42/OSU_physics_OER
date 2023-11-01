@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_electric-field" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Electric Field</title>
+		
+      <video youtube="wYKAWt9IBHk"><description>Introducing the electric field.</description></video>
+	
+		<definition>
+	<title>Electric field</title>
+	<statement>
+		<p>The <term>electric field</term> is a vector field that tells a charged object what electric force to feel.</p>
+	</statement>
+</definition>
+
+		<definition>
+	<title>Electric force</title>
+	<statement>
+		<p>The <term>electric force</term> on a pointlike object is the product of the object's charge and the electric field at the location of the charge: <me>\vec{F}^E = q_{\text{test}} \vec{E}</me></p>
+	</statement>
+</definition>
+
+	<exercises>
+	<title>Activities</title>
+			<exercise>
+			  <p>An electric field is a <em>field</em>, which means it has a potentially different value everywhere in space.  Identify one other quantity you are familiar with that could be described as a field.  It can be from physics or from another science, or from your everyday experience.  Explain why you believe the quantity you chose is a field.</p>
+			</exercise>
+		</exercises>
+
+  
+
+	
+</section>
+

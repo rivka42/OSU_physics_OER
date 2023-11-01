@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_charge-density" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Charge Density</title>
+		
+      <video youtube="iGIbhqVyNRM"><description>Introducing charge density.</description></video>
+	
+		<definition>
+	<title>Charge Density</title>
+	<statement>
+		<p><term>Charge density</term> can be found by dividing the small amount of charge <m>dq</m> in a portion of an object by the size of that portion of the object.  If the small portion is one-dimensional, you would call this a linear charge density <m>\lambda = \frac{dq}{dx}</m>; if it is two-dimensional, you would call it <m>\sigma = \frac{dq}{dA}</m>; and if it three dimensional, you would call it <m>\rho = \frac{dq}{dA}</m>.</p>
+	</statement>
+</definition>
+
+
+	<exercises>
+	<title>Activities</title>
+			<exercise>
+			  <p>Suppose you have a wire with a charge density that changes from one side to the other. Describe in words why the total charge on your wire is NOT given by <m>q = \lambda L</m>.</p>
+			</exercise>
+		</exercises>
+
+  
+
+	
+</section>
+

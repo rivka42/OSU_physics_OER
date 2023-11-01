@@ -26,7 +26,7 @@
 			</answer>
 			</exercise>
 			<exercise>
-			<p>Visit the link below and watch the video.  Be sure to make and record your prediction and watch the following videos to see what happens! <url hfref="https://www.youtube.com/watch?v=vWVZ6APXM4w"/></p>
+			<p>Visit <url href="https://www.youtube.com/watch?v=vWVZ6APXM4w" visual="this link"/> and watch the video.  Be sure to make and record your prediction and watch the following videos to see what happens!</p>
 			</exercise>
 			<exercise>
 			<p>Once you have watched the videos, write a brief (1-2 sentence) summary of what you learned from them.</p>

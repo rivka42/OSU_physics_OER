@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_charge-diagrams" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Charge Diagrams</title>
+		
+      <video youtube="gRGL75Mk2hs"><description>Introducing charge diagrams.</description></video>
+	
+				
+				<lemma xml:id="rep_charge-diagram">
+			<title>Charge Diagram</title>
+			<statement>
+				<p>A charge diagram shows a simple picture of an object with small <m>+</m> and <m>-</m> labels indicating where charge is present, what type of charge is present, and where the charge density is greatest and smallest.</p>
+			</statement>
+		</lemma>
+
+
+	<exercises>
+	<title>Activities</title>
+	<figure xml:id="chg-dgm">
+    	<caption>An example charge diagram.</caption>
+    		<image source="Charged-disc.png" width = "50%" ></image>
+</figure>
+				<exercise>
+			<p>Shown above is a charge diagram for a disc.  Indicate the location with the greatest charge density.</p>
+			</exercise>
+		</exercises>
+
+  
+
+	
+</section>
+

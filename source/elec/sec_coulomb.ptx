@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_coulomb" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Coulomb's Law</title>
+		
+      <video youtube="sXcW08Afy-o"><description>Introducing Coulomb's Law.</description></video>
+	
+		<principle>
+	<title>Coulomb's Law</title>
+	<statement>
+		<p>The electric field created by a point charge <m>q_{\text{source}}</m> is given by <me>\vec{E}_{pc} = \frac{kq_{\text{source}}}{r^2}\hat{r}</me>  Here <m>k = 9 \cross 10^9 \frac{\text{Nm}^2}{\text{C}^2}}</m> is a constant and <m>\hat{r}</m> is a unit vector that points radially outward from the location of the point charge.</p>
+	</statement>
+</principle>
+
+
+	<exercises>
+	<title>Activities</title>
+			<exercise>
+			  <p>TEXT</p>
+			</exercise>
+		</exercises>
+
+  
+
+	
+</section>
+
