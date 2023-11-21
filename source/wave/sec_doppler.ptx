@@ -25,7 +25,7 @@
 </definition>
 
 <p>
-The velocities of both the source and the listener are positive if the emitter and listener are moving closer to each other but negative if they are moving away from each other, relative to the medium through which the wave is moving.  As you saw previously, the speed of sound in air is about 343 m/s.
+Each velocity (of the source or the listener) is positive if it is moving in the direction of the other but negative if it is moving opposite the direction of the other, relative to the medium through which the wave is moving.  As you saw previously, the speed of sound in air is about 343 m/s.
 </p>
 
 	<exercises>
