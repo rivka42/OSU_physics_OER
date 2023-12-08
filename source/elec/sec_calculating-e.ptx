@@ -2,35 +2,20 @@
 
 <section xml:id="sec_calculating-e" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Chop-Multiply-Add: Calculating Electric Fields</title>
-	
-		<exercises>
-	<title>Warm-up Activities</title>
-			<exercise>
-			  <p>Suppose your friend has used an integral to solve a physics problem for the force on a metal plate: <me>F = \int_{-1}^{1}\int{0}^{10}\left( P_0 + \rho gy\right)dydx</me> What does the plate look like? Explain how you can tell from the integral expression.</p>
-			</exercise>
-			<exercise>
-			<p>What physical quantity does the integrand <m>\left( P_0 + \rho gy\right)</m> represent? Describe how you can tell.</p>
-			</exercise>
-			<exercise>
-			<p>Why does this integral do what your friend wants it to do (find the force on a metal plate)? Why do you think your friend had to use an integral?</p>
-			</exercise>
-		</exercises>
-		
-		<p>Watch the video for a discussion of the most common questions about integrals in physics.</p>
-		
-      <video youtube="yOeQiBM6N-Y"><description>Answers to some of the most common questions about integration in physics.</description></video>
-	
-	<p>WORDS</p>
-	
-		<definition>
-	<title>DEFINITION</title>
-	<statement>
-		<p>The <term>TERM</term></p>
-	</statement>
-</definition>
-	
 
-
+	
+	<p>For an object with a continuous charge density, you can use the <alert>Chop-Multiply-Add</alert> strategy to construct and evaluate an integral for the electric field.  You previously used this strategy in <xref ref="sec_calc1"/> and <xref ref="sec_modeling-inertia"/>.  An example for a one-dimensional object with charge density <m>\lambda{x}</m> is included below.</p>
+	
+	<p><term>Chop:</term> You can start by chopping up the object into small pieces.  Each piece of the object has charge <m>dq = \lambda dx</m>, where the <m>dx</m> represents the infinitesimal length of the piece and <m>\lambda(x)</m> is the charge density of the object.  In general, <m>\lambda</m> can be either uniform (constant over the entire object) or non-uniform (in which case it will change with <m>x</m>).</p>
+	
+	<note>
+	<title>Choosing Coordinates for Integrals</title>
+	<p>You must always choose a set of coordinates when evaluating an integral.  It usually makes sense to choose coordinates that match the symmetry of your object or system.  For a cube, you might choose regular Cartesian coordinates <m>dV = dx dy dz</m>, while for a cylinder you might choose polar coordinates <m>dV = s ds d\phi dz</m>.  You might even decide that your object or system can be treated as two-dimensional (or even one-dimensional), in which case you do not need all three dimensions.  In any case, you will need to integrate over the entire object with respect to every relevant coordinate.</p>
+	</note>
+	
+	<p><term>Multiply:</term> Once you know the charge on each small piece <m>dq</m>, you <em>multiply</em> to find the electric field created by that small piece: <m>d\vec{E} = k\frac{dq}{r^2}\hat{r} = k\frac{\lambda(x)dx}{r^2}\hat{r}</m>.  Here <m>r</m> is the distance from the location of <m>dq</m> to the location where you are evaluating the electric field, and <m>\hat{r}</m> is the unit vector that points in this direction.  It can be highly useful to draw a diagram of the charge distribution, including an example <m>dq</m>, and label <m>r</m> and <m>\hat{r}</m> so they can be easily written in terms of your chosen coordinates.</p>
+	
+		<p><term>Add:</term> Last, once you have the infinitesimal <m>d\vec{E}</m>, you <em>add</em> together every <m>d\vec{E}</m> over the entire object: <me>\int dI = \intd\vec{E} = \int  k\frac{\lambda(x)dx}{r^2}\hat{r}</me></p>
 
 	<exercises>
 	<title>Activities</title>

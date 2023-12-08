@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_flux" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Flux</title>
+  <title>Electric Flux</title>
 		
       <video youtube="fgxk4VEDoIQ"><description>Introducing electric flux.</description></video>
 	
-	<p>WORDS</p>
-	
 		<definition>
-	<title>DEFINITION</title>
+	<title>Electric Flux</title>
 	<statement>
-		<p>The <term>TERM</term></p>
+		<p>The <term>electric flux</term> <m>\Phi_E</m> through a surface defined by infinitesimal area vector <m>d\vec{A}</m> is given by <me>\Phi_E = \int\vec{E}\cdot d\vec{A}</me></p>
 	</statement>
 </definition>
-	
-<video youtube="paHQ4o5TJGY"><description>Calculating the flux through a sphere.</description></video>
 
 	<exercises>
 	<title>Activities</title>
+	<p>Recall <xref ref="x_fig_book" visual="book" /> from <xref ref="x_area-book" />.</p>
 			<exercise>
-			  <p>TEXT</p>
+			  <p>Suppose the book were placed in a region with a uniform electric field that points upward: <m>\vec{E} = E_o\hat{y}</m>. If the area of the front cover is <m>A</m>, determine the electric flux through the front cover.  What happens to the integral in a case like this?</p>
+			</exercise>
+						<exercise>
+			  <p>Suppose you know the electric field everywhere in space and your surface of interest is a sphere centered on the origin.  What is the area vector for this surface?  Outline a general procedure for finding the electric flux through this surface.  Can you think of any electric fields for which this procedure will be very challenging?  Very easy?</p>
 			</exercise>
 		</exercises>
 
-  
+  	<p>After you have complete the activities above, watch the video below.</p>
 
+<video youtube="paHQ4o5TJGY"><description>Calculating the flux through a sphere.</description></video>
 	
 </section>
 
