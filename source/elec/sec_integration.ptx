@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_calculating-e" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Chop-Multiply-Add: Calculating Electric Fields</title>
+<section xml:id="sec_integration" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Interlude: Integration</title>
 	
 		<exercises>
 	<title>Warm-up Activities</title>
@@ -19,8 +19,6 @@
 		<p>Watch the video for a discussion of the most common questions about integrals in physics.</p>
 		
       <video youtube="yOeQiBM6N-Y"><description>Answers to some of the most common questions about integration in physics.</description></video>
-	
-	<p>WORDS</p>
 	
 		<definition>
 	<title>DEFINITION</title>

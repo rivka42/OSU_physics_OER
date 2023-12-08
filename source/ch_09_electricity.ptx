@@ -34,6 +34,7 @@
 <xi:include href="./elec/sec_e-field-maps.ptx" /> 
 <xi:include href="./elec/sec_charge-density.ptx" />
 <xi:include href="./elec/sec_charge-diagrams.ptx" />
+<xi:include href="./elec/sec_integration.ptx" />
 <xi:include href="./elec/sec_coulomb.ptx" />
 <xi:include href="./elec/sec_calculating-e.ptx" />
 <xi:include href="./elec/sec_area-vectors.ptx" />
@@ -47,6 +48,8 @@
 <xi:include href="./elec/sec_e-to-v.ptx" />
 <xi:include href="./elec/sec_v-to-e.ptx" />
 <xi:include href="./elec/sec_conductors.ptx" />
+<xi:include href="./elec/sec_capacitors.ptx" />
+<xi:include href="./elec/sec_elec-summary.ptx" />
 </chapter>
 
 

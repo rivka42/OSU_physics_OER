@@ -17,7 +17,12 @@
 	<exercises>
 	<title>Activities</title>
 			<exercise>
-			  <p>TEXT</p>
+			<title>Practice Sketching Field Maps</title>
+			  <p>Sketch (by hand) a vector map for the following field in the <m>xy</m>-plane: <m>\vec{S} = x \hat{x} + y \hat{y}</m>.  Sketch at least 20 vectors showing how this vector field changes in both directions.</p>
+			</exercise>
+			<exercise xml:id="x_graphing-r-hat">
+			<title>Practice Sketching Field Maps</title>
+			  <p>Use a graphing calculator (such as <url href="https://www.desmos.com/calculator/eijhparfmd" visual="Desmos" />) to sketch the following electric field in the <m>xy</m>-plane: <m>\vec{E} = \frac{7x}{\sqrt{x^2+y^2}} \hat{x} + \frac{7y}{\sqrt{x^2+y^2}} \hat{y}</m>.</p>
 			</exercise>
 		</exercises>
 
