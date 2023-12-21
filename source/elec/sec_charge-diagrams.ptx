@@ -18,7 +18,7 @@
 	<title>Activities</title>
 	<figure xml:id="chg-dgm">
     	<caption>An example charge diagram.</caption>
-    		<image source="Charged-disc.png" width = "50%" ></image>
+    		<image source="Charged_disc.png" width = "50%" ></image>
 </figure>
 				<exercise>
 			<p>Shown above is a charge diagram for a disc.  Indicate the location with the greatest charge density.</p>

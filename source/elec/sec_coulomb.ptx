@@ -8,7 +8,7 @@
 		<principle>
 	<title>Coulomb's Law</title>
 	<statement>
-		<p>The electric field created by a point charge <m>q_{\text{source}}</m> is given by <me>\vec{E}_{pc} = \frac{kq_{\text{source}}}{r^2}\hat{r}</me>  Here <m>k = 9 \cross 10^9 \frac{\text{Nm}^2}{\text{C}^2}</m> is a constant and <m>\hat{r}</m> is a unit vector that points radially outward from the location of the point charge.</p>
+		<p>The electric field created by a point charge <m>q_{\text{source}}</m> is given by <me>\vec{E}_{pc} = \frac{kq_{\text{source}}}{r^2}\hat{r}</me>  Here <m>k = 9 \times 10^9 \frac{\text{Nm}^2}{\text{C}^2}</m> is a constant and <m>\hat{r}</m> is a unit vector that points radially outward from the location of the point charge.</p>
 	</statement>
 </principle>
 
@@ -33,8 +33,7 @@
 </figure>
 		</exercises>
 
-  
-<xref ref="x_graphing-r-hat"/>
+ 
 	
 </section>
 
