@@ -7,51 +7,49 @@
 	
 	<p><alert>Learning Outcomes</alert></p>
   
-	<p>
-		After successful completion of this chapter, you will be able to:
+	<p>After successful completion of this chapter, you will be able to:
 		<ol>
 			<li>Determine the electric force on a charged object due to a collection of point charges.</li>
-<li>Determine the electric force on a charged object due to simple continuous charge distributions.</li>
-<li>Use forces and Newton’s 2nd Law to describe the motion of charges subject to electric forces.</li>
-<li>Distinguish between the electric force and the electric field due to a charge configuration.</li>
-<li>Determine the electric field at a given location due to a collection of point charges.</li>
-<li>Determine the electric field at a given location due to simple continuous charge distributions.</li>
-<li>Apply Gauss’s Law to arbitrary closed surfaces.</li>
-<li>Use Gauss's Law to solve for the electric field in symmetric situations.</li>
-<li>Determine the electric potential energy in a system of charged objects.</li>
-<li>Distinguish between the electric potential energy stored in a system and the electric potential due to a charge configuration.</li>
-<li>Determine the electric potential due to a system of charged objects.</li>
-<li>Use energy to solve dynamic electrostatics problems.</li>
-<li>Relate electric potential and electric field using both integrals and derivatives, both algebraically and graphically.</li>
-
+			<li>Determine the electric force on a charged object due to simple continuous charge distributions.</li>
+			<li>Use forces and Newton’s 2nd Law to describe the motion of charges subject to electric forces.</li>
+			<li>Distinguish between the electric force and the electric field due to a charge configuration.</li>
+			<li>Determine the electric field at a given location due to a collection of point charges.</li>
+			<li>Determine the electric field at a given location due to simple continuous charge distributions.</li>
+			<li>Apply Gauss’s Law to arbitrary closed surfaces.</li>
+			<li>Use Gauss's Law to solve for the electric field in symmetric situations.</li>
+			<li>Determine the electric potential energy in a system of charged objects.</li>
+			<li>Distinguish between the electric potential energy stored in a system and the electric potential due to a charge configuration.</li>
+			<li>Determine the electric potential due to a system of charged objects.</li>
+			<li>Use energy to solve dynamic electrostatics problems.</li>
+			<li>Relate electric potential and electric field using both integrals and derivatives, both algebraically and graphically.</li>
 		</ol>
 	</p>
 
 	</introduction>
-<xi:include href="./elec/sec_what-is-elec.ptx" /> 
-<xi:include href="./elec/sec_charge.ptx" />
-<xi:include href="./elec/sec_e-field.ptx" />
-<xi:include href="./elec/sec_e-field-maps.ptx" /> 
-<xi:include href="./elec/sec_charge-density.ptx" />
-<xi:include href="./elec/sec_charge-diagrams.ptx" />
-<xi:include href="./elec/sec_integration.ptx" />
-<xi:include href="./elec/sec_coulomb.ptx" />
-<xi:include href="./elec/sec_calculating-e.ptx" />
-<xi:include href="./elec/sec_area-vectors.ptx" />
-<xi:include href="./elec/sec_flux.ptx" />
-<xi:include href="./elec/sec_gauss.ptx" />
-<!--
-<xi:include href="./elec/sec_gauss2.ptx" />
-<xi:include href="./elec/sec_energy-review.ptx" />
-<xi:include href="./elec/sec_electric-potential.ptx" />
-<xi:include href="./elec/sec_calculating-potential.ptx" />
-<xi:include href="./elec/sec_eq-graphs.ptx" />
-<xi:include href="./elec/sec_e-to-v.ptx" />
-<xi:include href="./elec/sec_v-to-e.ptx" />
-<xi:include href="./elec/sec_conductors.ptx" />
-<xi:include href="./elec/sec_capacitors.ptx" />
-<xi:include href="./elec/sec_elec-summary.ptx" />
--->
+	<xi:include href="./elec/sec_what-is-elec.ptx" /> 
+	<xi:include href="./elec/sec_charge.ptx" />
+	<xi:include href="./elec/sec_e-field.ptx" />
+	<xi:include href="./elec/sec_e-field-maps.ptx" /> 
+	<xi:include href="./elec/sec_charge-density.ptx" />
+	<xi:include href="./elec/sec_charge-diagrams.ptx" />
+	<xi:include href="./elec/sec_integration.ptx" />
+	<xi:include href="./elec/sec_coulomb.ptx" />
+	<xi:include href="./elec/sec_calculating-e.ptx" />
+	<xi:include href="./elec/sec_area-vectors.ptx" />
+	<xi:include href="./elec/sec_flux.ptx" />
+	<xi:include href="./elec/sec_gauss.ptx" />
+	<!--
+	<xi:include href="./elec/sec_gauss2.ptx" />
+	<xi:include href="./elec/sec_energy-review.ptx" />
+	<xi:include href="./elec/sec_electric-potential.ptx" />
+	<xi:include href="./elec/sec_calculating-potential.ptx" />
+	<xi:include href="./elec/sec_eq-graphs.ptx" />
+	<xi:include href="./elec/sec_e-to-v.ptx" />
+	<xi:include href="./elec/sec_v-to-e.ptx" />
+	<xi:include href="./elec/sec_conductors.ptx" />
+	<xi:include href="./elec/sec_capacitors.ptx" />
+	<xi:include href="./elec/sec_elec-summary.ptx" />
+	-->
 </chapter>
 
 

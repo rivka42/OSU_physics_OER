@@ -1,39 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_coulomb" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Coulomb's Law</title>
+  	<title>Coulomb's Law</title>
 		
-      <video youtube="sXcW08Afy-o"><description>Introducing Coulomb's Law.</description></video>
+    <video youtube="sXcW08Afy-o"><description>Introducing Coulomb's Law.</description></video>
 	
-		<principle>
-	<title>Coulomb's Law</title>
-	<statement>
-		<p>The electric field created by a point charge <m>q_{\text{source}}</m> is given by <me>\vec{E}_{pc} = \frac{kq_{\text{source}}}{r^2}\hat{r}</me>  Here <m>k = 9 \times 10^9 \frac{\text{Nm}^2}{\text{C}^2}</m> is a constant and <m>\hat{r}</m> is a unit vector that points radially outward from the location of the point charge.</p>
-	</statement>
-</principle>
-
+	<principle>
+		<title>Coulomb's Law</title>
+		<statement>
+			<p>The electric field created by a point charge <m>q_{\text{source}}</m> is given by <me>\vec{E}_{pc} = \frac{kq_{\text{source}}}{r^2}\hat{r}</me>  Here <m>k = 9 \times 10^9 \frac{\text{Nm}^2}{\text{C}^2}</m> is a constant and <m>\hat{r}</m> is a unit vector that points radially outward from the location of the point charge.</p>
+		</statement>
+	</principle>
 
 	<exercises>
-	<title>Activities</title>
-			<exercise>
-			  <p>Recall <xref ref="x_graphing-r-hat"/>, in which you made a 2D-graph of a vector field.  The vector field you graphed is proportional to <m>\hat{r}</m>!  Graph this vector field and describe how this vector field changes (or stays the same) at different points in space.  What do you think the graph would look like if you could make it three-dimensional?</p>
-			</exercise>
-						<exercise>
-						<title>Explanation: Three Charges</title>
-						<statement>
-			  <p>Shown below are three point charges (A, B, and C).  Is the magnitude of the net electric force on charge A greater than, less than, or equal to the magnitude of the net electric force on charge C?  Explain your reasoning.</p>
-						</statement>
+		<title>Activities</title>
+		<exercise>
+			<p>Recall <xref ref="x_graphing-r-hat"/>, in which you made a 2D-graph of a vector field.  The vector field you graphed is proportional to <m>\hat{r}</m>!  Graph this vector field and describe how this vector field changes (or stays the same) at different points in space.  What do you think the graph would look like if you could make it three-dimensional?</p>
+		</exercise>
+		<exercise>
+			<title>Explanation: Three Charges</title>
+			<statement>
+			  	<p>Shown below are three point charges (A, B, and C).  Is the magnitude of the net electric force on charge A greater than, less than, or equal to the magnitude of the net electric force on charge C?  Explain your reasoning.</p>
+			</statement>
 			<solution>
-			<video youtube="XzjpnavhG14"><description>A solution to the Explanation: Three Charges activity.</description></video>
+				<video youtube="XzjpnavhG14"><description>A solution to the Explanation: Three Charges activity.</description></video>
 			</solution>
-			</exercise>
-				<figure xml:id="x_fig_three-charges">
-    	<caption>Three charges</caption>
+		</exercise>
+		<figure xml:id="x_fig_three-charges">
+    		<caption>Three charges</caption>
     		<image source="three-charges.png" width = "70%" ></image>
-</figure>
-		</exercises>
-
- 
+		</figure>
+	</exercises>
 	
 </section>
 

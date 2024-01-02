@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_calculating-e" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Chop-Multiply-Add: Calculating Electric Fields</title>
+  	<title>Chop-Multiply-Add: Calculating Electric Fields</title>
 
-	
-	<p>For an object with a continuous charge density, you can use the <alert>Chop-Multiply-Add</alert> strategy to construct and evaluate an integral for the electric field.  You previously used this strategy in <xref ref="sec_calc1"/> and <xref ref="sec_modeling-inertia"/>.  An example for a one-dimensional object with charge density <m>\lambda{x}</m> is included below.</p>
+	<p>For an object with a continuous charge density, you can use the <alert>Chop-Multiply-Add</alert> strategy to construct and evaluate an integral for the electric field.  You previously used this strategy in <xref ref="sec_calc1"/> and <xref ref="sec_modeling-inertia"/>.  An example for a one-dimensional object with charge density <m>\lambda(x)</m> is included below.</p>
 	
 	<p><term>Chop:</term> You can start by chopping up the object into small pieces.  Each piece of the object has charge <m>dq = \lambda dx</m>, where the <m>dx</m> represents the infinitesimal length of the piece and <m>\lambda(x)</m> is the charge density of the object.  In general, <m>\lambda</m> can be either uniform (constant over the entire object) or non-uniform (in which case it will change with <m>x</m>).</p>
 	
@@ -15,14 +14,14 @@
 	
 	<p><term>Multiply:</term> Once you know the charge on each small piece <m>dq</m>, you <em>multiply</em> to find the electric field created by that small piece: <m>d\vec{E} = k\frac{dq}{r^2}\hat{r} = k\frac{\lambda(x)dx}{r^2}\hat{r}</m>.  Here <m>r</m> is the distance from the location of <m>dq</m> to the location where you are evaluating the electric field, and <m>\hat{r}</m> is the unit vector that points in this direction.  It can be highly useful to draw a diagram of the charge distribution, including an example <m>dq</m>, and label <m>r</m> and <m>\hat{r}</m> so they can be easily written in terms of your chosen coordinates.</p>
 	
-		<p><term>Add:</term> Last, once you have the infinitesimal <m>d\vec{E}</m>, you <em>add</em> together every <m>d\vec{E}</m> over the entire object: <me>\int dI = \int d\vec{E} = \int  k\frac{\lambda(x)dx}{r^2}\hat{r}</me></p>
+	<p><term>Add:</term> Last, once you have the infinitesimal <m>d\vec{E}</m>, you <em>add</em> together every <m>d\vec{E}</m> over the entire object: <me>\int dI = \int d\vec{E} = \int  k\frac{\lambda(x)dx}{r^2}\hat{r}</me></p>
 
 	<exercises>
-	<title>Activities</title>
-			<exercise>
-			  <p>TEXT</p>
-			</exercise>
-		</exercises>
+		<title>Activities</title>
+		<exercise>
+			<p>For each of the charge densities in <xref ref="chg-dens"/>, set up an integral to calculate the corresponding electric field. Make sure to choose a coordinate system that would help make calculations easier!</p>
+		</exercise>
+	</exercises>
 
   
 

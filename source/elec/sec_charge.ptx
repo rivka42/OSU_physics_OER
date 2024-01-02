@@ -1,32 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_charge" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Charge</title>
-		
-      <video youtube="ETtr_0hLtro"><description>Introducing charge.</description></video>
-	
-		<definition>
 	<title>Charge</title>
-	<statement>
-		<p>Charge is a physical property, measured in Coulombs, that governs how an object interacts with electric fields.</p>
-	</statement>
-</definition>
+		
+    <video youtube="ETtr_0hLtro"><description>Introducing charge.</description></video>
 	
+	<p>Electric charge is a fundamental property of an object. Objects that are "charged" can display interesting behaviors when interacting with electric fields that we will explore in this chapter.</p>
+
+	<definition>
+		<title>Charge</title>
+		<statement>
+			<p>Charge is a physical property, measured in Coulombs (C), that governs how an object interacts with electric fields.</p>
+		</statement>
+	</definition>
 	
-
-
 	<exercises>
-	<title>Activities</title>
-			<exercise>
-			  <p>An atom typically has the same number of protons as electrons.  What is the total charge on such an atom?</p>
-			</exercise>
-				<exercise>
-			  <p>Suppose you have an object with a net charge of exactly 1.0 C.  How many more protons than electrons are in this object?  Based on this, do you think a net charge of 1.0 C is typical for an everyday object, or is it much larger or smaller than you would expect for an everyday object?</p>
-			</exercise>
-		</exercises>
+		<title>Activities</title>
+		<exercise>
+			<p>An atom typically has the same number of protons as electrons.  What is the total charge on such an atom?</p>
+		</exercise>
+		<exercise>
+			<p>Suppose you have an object with a net charge of exactly 1.0 C.  How many more protons than electrons are in this object?  Based on this, do you think a net charge of 1.0 C is typical for an everyday object, or is it much larger or smaller than you would expect for an everyday object?</p>
+		</exercise>
+	</exercises>
 
-  
-
-	
 </section>
 

@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_what-is-elec" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>What Is Electricity</title>
+	<title>What Is Electricity</title>
+
+  	<p>This quarter in PH 213 we will be investigating phenomenon related to electricity and magnetism! We will start with electricity. What is it? What kinds of phenomenon are associated with electricity? Watch Paul conduct some demos to get us thinking about electricity.</p>
 		
-      <video youtube="37W76pa8OQM"><description>Introducing electricity.</description></video>
+	<video youtube="37W76pa8OQM"><description>Introducing electricity.</description></video>
 	
 	<exercises>
-	<title>Activities</title>
-			<exercise>
+		<title>Activities</title>
+		<exercise>
 			  <p>Describe an instance in your everyday life when you have experienced a phenomenon related to charge or electricity.</p>
-			</exercise>
-		</exercises>
+		</exercise>
+	</exercises>
 
-  
-
-	
 </section>
 

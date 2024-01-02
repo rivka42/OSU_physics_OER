@@ -1,43 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_integration" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Interlude: Integration</title>
+  	<title>Interlude: Integration</title>
 	
-		<exercises>
+	<exercises>
 	<title>Warm-up Activities</title>
-			<exercise>
-			  <p>Suppose your friend has used an integral to solve a physics problem for the force on a metal plate: <me>F = \int_{-1}^{1}\int_{0}^{10}\left( P_0 + \rho gy\right)dydx</me> What does the plate look like? Explain how you can tell from the integral expression.</p>
-			</exercise>
-			<exercise>
+		<exercise>
+			<p>Suppose your friend has used an integral to solve a physics problem for the force on a metal plate: <me>F = \int_{-1}^{1}\int_{0}^{10}\left( P_0 + \rho gy\right)dydx</me> What does the plate look like? Explain how you can tell from the integral expression.</p>
+		</exercise>
+		<exercise>
 			<p>What physical quantity does the integrand <m>\left( P_0 + \rho gy\right)</m> represent? Describe how you can tell.</p>
-			</exercise>
-			<exercise>
+		</exercise>
+		<exercise>
 			<p>Why does this integral do what your friend wants it to do (find the force on a metal plate)? Why do you think your friend had to use an integral?</p>
-			</exercise>
-		</exercises>
+		</exercise>
+	</exercises>
 		
-		<p>Watch the video for a discussion of the most common questions about integrals in physics.</p>
+	<p>Watch the video for a discussion of the most common questions about integrals in physics.</p>
 		
-      <video youtube="yOeQiBM6N-Y"><description>Answers to some of the most common questions about integration in physics.</description></video>
+    <video youtube="yOeQiBM6N-Y"><description>Answers to some of the most common questions about integration in physics.</description></video>
 
 	<exercises>
-	<title>Activities</title>
-	<p>In PH 212, you learned that the moment of inertia for a point object is <m>I = mr^2</m>, where <m>r</m> is the perpendicular distance between the object and the axis of rotation.</p>
-			<exercise>
+		<title>Activities</title>
+		<p>In PH 212, you learned that the moment of inertia for a point object is <m>I = mr^2</m>, where <m>r</m> is the perpendicular distance between the object and the axis of rotation.</p>
+		<exercise>
 			<statement>
-			  <p>Explain why the integral <m>I = \int_{0 \text{ m}}^{1.2 \text{ m}} x^2 \lambda dx</m> will give the moment of inertia for your stick if you hold it at one end and swing it in a horizontal circle.</p>
-				</statement>
-				<hint>
+			  	<p>Explain why the integral <m>I = \int_{0 \text{ m}}^{1.2 \text{ m}} x^2 \lambda dx</m> will give the moment of inertia for your stick if you hold it at one end and swing it in a horizontal circle.</p>
+			</statement>
+			<hint>
 				<p>One way to think about an integral is as a tool for calculating a sum.  If you want to know how many apples are on a tree, one way is to divide the tree into ten sections, count the number of apples in each section, and then add them.  However, we often want to add up things that are hard to count.  An integral is like chopping up the tree into a <em>very large number</em> of sections that are <em>very small</em>, counting the number of apples in each section, and then adding them all up.  The <m>dx</m> in an integral represents the size of one of the sections, while the integrand (the rest of the symbols inside the integral symbol) tell you how much of the thing you are counting is in one of those sections, per unit length.  Importantly, each of the small sections might have a <em>different amount</em> of whatever you are counting.</p>
-				</hint>
-			</exercise>
-						<exercise>
-			  <p>Your friend has a board that is the same length as your stick (1.2 m), but that has a linear mass density that is <em>not</em> uniform: <m>\lambda(x) = 0.8 \text{ kg/m} + 0.3 x \text{ kg/m^2}</m>.  What does the board look like (<em>i.e.,</em> how is the mass distributed)?</p>
-			</exercise>
-		</exercises>
-
-  
-
+			</hint>
+		</exercise>
+		<exercise>
+			<p>Your friend has a board that is the same length as your stick (1.2 m), but that has a linear mass density that is <em>not</em> uniform: <m>\lambda(x) = 0.8 \text{ kg/m} + 0.3 x \text{ kg/m^2}</m>.  What does the board look like (<em>i.e.,</em> how is the mass distributed)?</p>
+		</exercise>
+	</exercises>
 	
 </section>
 

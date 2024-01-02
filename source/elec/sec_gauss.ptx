@@ -1,38 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_gauss" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Gauss's Law</title>
+  	<title>Gauss's Law</title>
 		
-      <video youtube="GoDt-logdS8"><description>Introducing Gauss's Law.</description></video>
+    <video youtube="GoDt-logdS8"><description>Introducing Gauss's Law.</description></video>
 	
-
+	<principle>
+		<title>Gauss's Law</title>
+		<statement>
+			<p>The net electric flux through any <em>closed</em> surface is equal to the charge enclosed by that surface divided by <m>\epsilon_0</m>: <me>\Phi_E = \frac{Q_{enc}}{\epsilon_0}</me><me>\bigcirc \!\!\!\!\!\!\!\!\!\iint_S \vec{E}\cdot d\vec{A} = \frac{Q_{enc}}{\epsilon_0}</me></p>
+		</statement>
+	</principle>
 	
-		<principle>
-	<title>Gauss's Law</title>
-	<statement>
-		<p>The net electric flux through any <em>closed</em> surface is equal to the charge enclosed by that surface divided by <m>\epsilon_0</m>: <me>\Phi_E = \frac{Q_{enc}}{\epsilon_0}</me><me>\bigcirc \!\!\!\!\!\!\!\!\!\iint_S \vec{E}\cdot d\vec{A} = \frac{Q_{enc}}{\epsilon_0}</me></p>
-	</statement>
-</principle>
-	
-			<!--Alternate code for the integral \unicode{x222F} -->
-
+	<!--Alternate code for the integral \unicode{x222F} -->
 
 	<exercises>
-	<title>Activities</title>
+		<title>Activities</title>
 		<figure xml:id="x_fig_gauss-rank">
-    	<caption>Several charge distributions and Gaussian surfaces.</caption>
+    		<caption>Several charge distributions and Gaussian surfaces.</caption>
     		<image source="GaussRank.png" width = "100%" ></image>
-</figure>
-			<exercise>
-			  <p>Rank the four cases above by the net electric flux through the shown Gaussian surface from greatest to least. Explain your reasoning.</p>
-			</exercise>
-				<exercise>
-			  <p>Suppose you have an infinitely long wire with a uniform charge density. What kind of Gaussian surface do you think you should choose for this charge distribution?  Explain your reasoning.</p>
-			</exercise>
-		</exercises>
-
-  
-
+		</figure>
+		<exercise>
+			<p>Rank the four cases above by the net electric flux through the shown Gaussian surface from greatest to least. Explain your reasoning.</p>
+		</exercise>
+		<exercise>
+			<p>Suppose you have an infinitely long wire with a uniform charge density. What kind of Gaussian surface do you think you should choose for this charge distribution?  Explain your reasoning.</p>
+		</exercise>
+	</exercises>
 	
 </section>
 

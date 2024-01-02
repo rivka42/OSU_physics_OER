@@ -1,40 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_charge-diagrams" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Charge Diagrams</title>
+  	<title>Charge Diagrams</title>
 		
-      <video youtube="gRGL75Mk2hs"><description>Introducing charge diagrams.</description></video>
-	
-				
-				<lemma xml:id="rep_charge-diagram">
-			<title>Charge Diagram</title>
-			<statement>
-				<p>A charge diagram shows a simple picture of an object with small <m>+</m> and <m>-</m> labels indicating where charge is present, what type of charge is present, and where the charge density is greatest and smallest.</p>
-			</statement>
-		</lemma>
-
+    <video youtube="gRGL75Mk2hs"><description>Introducing charge diagrams.</description></video>
+		
+	<lemma xml:id="rep_charge-diagram">
+		<title>Charge Diagram</title>
+		<statement>
+			<p>A charge diagram shows a simple picture of an object with small <m>+</m> and <m>-</m> labels indicating where charge is present, what type of charge is present, and where the charge density is greatest and smallest.</p>
+		</statement>
+	</lemma>
 
 	<exercises>
-	<title>Activities</title>
-	<figure xml:id="chg-dgm">
-    	<caption>An example charge diagram.</caption>
+		<title>Activities</title>
+		<figure xml:id="chg-dgm">
+    		<caption>An example charge diagram.</caption>
     		<image source="Charged_disc.png" width = "50%" ></image>
-</figure>
-				<exercise>
+		</figure>
+		<exercise>
 			<p>Shown above is a charge diagram for a disc.  Indicate the location with the greatest charge density.</p>
-			</exercise>
-			<exercise>
+		</exercise>
+		<exercise xml:id="chg-dens">
 			<p>Make a charge diagram for each of the following charge densities.  What is the purpose of the various constants in these expressions?
-			<ul>
-			<li><m>\lambda(x) = \lambda_1 x / L</m> between <m>x=-L</m> and <m>x=+L</m></li>
-			<li><m>\lambda{y} = \frac{q_2}{y}</m> between <m>y=0</m> and <m>y=\inf</m></li>
-			<li><m>\sigma{s,\theta} = \sigma_3 \frac{s^2}{R^2}</m> between <m>s=0</m> and <m>s=R</m>, where <m>s</m> points radially outward from the origin</li>
-			</ul></p>
-			</exercise>
-		</exercises>
+				<ul>
+					<li><m>\lambda(x) = \lambda_1 \frac{x}{L}</m> between <m>x=-L</m> and <m>x=+L</m></li>
+					<li><m>\lambda(y) = \frac{q_2}{y}</m> between <m>y=0</m> and <m>y=\infty</m></li>
+					<li><m>\sigma(s,\theta) = \sigma_3 \frac{s^2}{R^2}</m> between <m>s=0</m> and <m>s=R</m>, where <m>s</m> points radially outward from the origin</li>
+				</ul>
+			</p>
+		</exercise>
+	</exercises>
 
-  
-
-	
 </section>
 
