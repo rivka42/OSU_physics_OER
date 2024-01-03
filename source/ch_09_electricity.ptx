@@ -38,7 +38,7 @@
 	<xi:include href="./elec/sec_area-vectors.ptx" />
 	<xi:include href="./elec/sec_flux.ptx" />
 	<xi:include href="./elec/sec_gauss.ptx" />
-	<!--
+	
 	<xi:include href="./elec/sec_gauss2.ptx" />
 	<xi:include href="./elec/sec_energy-review.ptx" />
 	<xi:include href="./elec/sec_electric-potential.ptx" />
@@ -49,7 +49,7 @@
 	<xi:include href="./elec/sec_conductors.ptx" />
 	<xi:include href="./elec/sec_capacitors.ptx" />
 	<xi:include href="./elec/sec_elec-summary.ptx" />
-	-->
+	
 </chapter>
 
 

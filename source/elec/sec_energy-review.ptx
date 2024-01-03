@@ -1,30 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_energy-review" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Review: Conservation of Energy</title>
+  	<title>Review: Conservation of Energy</title>
+
+	<p>Let's review when energy is conserved.</p>
 		
-      <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 	
-	<p>WORDS</p>
+	<p>We can determine if energy is conserved by recalling the <xref ref="p_work-energy"/> theorem. If the net work done by external forces on an object is zero, then energy (kinetic and potential) is conserved.</p>
+
 	
-		<definition>
-	<title>DEFINITION</title>
-	<statement>
-		<p>The <term>TERM</term></p>
-	</statement>
-</definition>
-	
+	<exercises>
+		<title>Activities: Review of Conservation of Energy</title>
+		<exercise>
+			<p>The diagrams above show two experiments involving two blocks, A and B. Which of the following statements is true about work and energy for these two systems?</p>
+			
+			<ol type="a">
+				<li>The work done by external forces is positive for both systems.</li>
+				<li>The change in total energy is positive for both systems.</li>
+				<li>The change in kinetic energy is positive for both systems.</li>
+				<li>The change in potential energy is negative for both systems.</li>
+			</ol>
+
+			<p>Explain your reasoning for each statement.</p>
+		</exercise>
+	</exercises>
+
+	<p>Watch the video below and compare your answers.</p>
+
+	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 
 
 	<exercises>
-	<title>Activities</title>
-			<exercise>
-			  <p>TEXT</p>
-			</exercise>
-		</exercises>
+		<title>Activities</title>
+		<exercise>
+			<p>Suppose you have two positive point charges separated by some distance. A few minutes later, you find that the distance between the two point charges has increased.</p>
 
-  
-
-	
+			<p>Do you think the potential energy of the system of both charges increased, decreased, or stayed the same? Explain your reasoning.</p>
+		</exercise>
+	</exercises>
 </section>
 

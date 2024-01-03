@@ -1,31 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_calculating-potential" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Chop-Multiply-Add: Calculating Potential</title>
+  	<title>Chop-Multiply-Add: Calculating Potential</title>
+
+  	<exercises>
+		<title>Warm-Up Activity</title>
+		<exercise>
+			<p>A few weeks ago, you found the electric field at the center of a uniformly charged semicircle with total charge <m>Q</m> and radius <m>R</m>. How do you think you would find the electric potential at the center of this semicircle?</p>
+		</exercise>
+	</exercises>
 		
-      <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 	
-	<p>WORDS</p>
+	<p>To determine the electric potential due to some charge distribution, we will use our <alert>Chop-Multiply-Add method!</alert></p>
+
+	<ol>
+		<li>
+			<p><term>Chop</term> up the charged object into tiny pieces and find <m>dq</m> on each piece.</p>
+		</li>
+		<li>
+			<p><term>Multiply</term> <m>dq</m> and other quantities to find <m>dV</m> due to that part of the charge.</p>
+		</li>
+		<li>
+			<p><term>Add</term> together all the <m>dV</m>'s using an integral to get the net electric potential.</p>
+		</li>
+	</ol>
 	
-		<definition>
-	<title>DEFINITION</title>
-	<statement>
-		<p>The <term>TERM</term></p>
-	</statement>
-</definition>
-	
-
-
-
 	<exercises>
-	<title>Activities</title>
-			<exercise>
-			  <p>TEXT</p>
-			</exercise>
-		</exercises>
+		<title>Activities</title>
+		<exercise>
+			<p>Let's go back to the uniformly charged semicircle with total charge <m>Q</m> and radius <m>R</m>. Using the Chop-Multiply-Add method, set up an integral to determine the electric potential.</p>
+		</exercise>
+	</exercises>
 
-  
-
-	
 </section>
 

@@ -1,31 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_capacitors" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Capacitors</title>
+  	<title>Capacitors</title>
+
+	  <exercises>
+		<title>Warm-Up Activity</title>
+		<p>Play with the "Capacitance" and "Light Bulb" <url href="https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics_all.html" visual="PhET Simulations"/>.</p>
+		<exercise>
+			<p>Investigate the properties of the various devices, and how those properties change as you make changes to the system. What is the role of the battery?</p>
+		</exercise>
+		<exercise>
+			<p>Discuss the flow of energy when you connect the capacitor to either the battery or to the light bulb. When does energy move from one object to another? When does energy change forms? When is energy conserved?</p>
+		</exercise>
+	</exercises>
+
+	<p>Watch the following video to learn more about capacitors.</p>
 		
-      <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 	
-	<p>WORDS</p>
+	<p>A capacitor is made up of two conductors separated by opposite charges.</p>
 	
-		<definition>
-	<title>DEFINITION</title>
-	<statement>
-		<p>The <term>TERM</term></p>
-	</statement>
-</definition>
-	
-
-
+	<definition>
+		<title>Capacitance</title>
+		<statement>
+			<p>The <term>Capacitance</term> of a capacitor is defined as <me>C = Q / \Delta V</me> and is often dependent on the geometry of the capcitor. The units of capacitance are in Farads (F). </p>
+		</statement>
+	</definition>
 
 	<exercises>
-	<title>Activities</title>
+		<title>Activities</title>
 			<exercise>
 			  <p>TEXT</p>
 			</exercise>
-		</exercises>
+	</exercises>
 
-  
-
-	
 </section>
 

@@ -1,30 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_electric-potential" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Electric Potential</title>
+  	<title>Electric Potential</title>
 		
-      <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 	
-	<p>WORDS</p>
+	<definition>
+		<title>Electric Potential Energy</title>
+		<statement>
+			<p>The <term>electric potential energy</term> is defined as <me>\Delta U_E = q_{\mathrm{test}}\Delta V</me>.</p>
+		</statement>
+	</definition>
 	
-		<definition>
-	<title>DEFINITION</title>
-	<statement>
-		<p>The <term>TERM</term></p>
-	</statement>
-</definition>
-	
+	<definition>
+		<title>Electric Potential Difference</title>
+		<statement>
+			<p>The <term>electric potential difference </term> is written as <m>\Delta V</m> and has units of <m>\mathrm{J}/\mathrm{C}</m> or Volts (<m>V</m>). It is also sometimes called the voltage.</p>
+		</statement>
+	</definition>
+
+	<p>For a single point charge, the electric potential difference can be written as <me>V = k \frac{q}{r}</me>.</p>
 
 
 	<exercises>
-	<title>Activities</title>
-			<exercise>
-			  <p>TEXT</p>
-			</exercise>
-		</exercises>
-
-  
-
+		<title>Activities</title>
+		<exercise>
+			<p>Words</p>
+		</exercise>
+	</exercises>
 	
 </section>
 

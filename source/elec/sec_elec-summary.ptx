@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_elec-summary" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Electricity Summary</title>
-
-
-		<exercises>
+  	<title>Electricity Summary</title>
+	<exercises>
 		<title>Activities: Summarize What You Learned</title>
 		<exercise>
-		<title>Types of Forces</title>
-    <p>
-      There are many different types of forces in the world.  Make a list of all the forces you know.  If you have a quantitative model for a force, add a brief description of how to use it.
-    </p>
-		</exercise>
-		<exercise>
-		<title>Sensemaking</title>
-    <p>
-      Physics is supposed to make sense of the real world, but sometimes it tells us surprising things that might seem to contradict our everyday experience.  Were there any situations where you observed an apparent difference between something you have experienced and something physics was telling you?  How were you able to resolve the difference?
-    </p>
-		</exercise>
-		</exercises>
-  
-
+			<title>Relationships</title>
+			<p>This chapter has explored different properties related to electricity. We discussed the electric force, charges, electric potential and electric fields, conductors and capacitors. Make a list of some of the equations, relationships, and definitions you have learned.</p>
+	</exercise>
+	<exercise>
+		<title>ELI5</title>
+		<p>Your five year old neighbor is asking you what you've learned in your physics class so far this quarter. In a short paragraph, explain charges and electric fields in a way that a five year old might be able to understand. Make sure you define any complicated words in simple ways!</p>
+	</exercise>
+	</exercises>
 	
 </section>
 

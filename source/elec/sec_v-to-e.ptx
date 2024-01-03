@@ -1,29 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_v-to-e" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Finding E from V</title>
-		
-      <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
-	
-	<p>WORDS</p>
-	
-		<definition>
-	<title>DEFINITION</title>
-	<statement>
-		<p>The <term>TERM</term></p>
-	</statement>
-</definition>
-	
+	<title>Finding E from V</title>
 
 	<exercises>
-	<title>Activities</title>
-			<exercise>
-			  <p>TEXT</p>
-			</exercise>
-		</exercises>
-
-  
-
+		<title>Warm-Up Activity</title>
+		<exercise>
+			<p>Given the equation we learned about in the previous section, <xref ref="e_to_v"/>, suppose you instead knew the electric potential (<m>V</m>), and you wanted to figure out the electric field (<m>E</m>). What mathematical operation could you perform on <m>V</m> to get <m>E</m>?</p>
+		</exercise>
+	</exercises>
+		
+    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 	
+	<p>Now we have seen how we can go back and forth between <m>V</m> and <m>E</m>. To find <m>V</m> from <m>E</m>, we can take a derivative!</p>
+	
+	<definition>
+		<title>Electric Field: E from V</title>
+		<statement>
+			<p>The <term>electric field</term> can be directly calculated given a known electric potential using the equation <me>\vec{E} = -\vec{\nabla}V</me></p>
+		</statement>
+	</definition>
+	
+	<exercises>
+		<title>Activities</title>
+		<exercise>
+			<p>TEXT</p>
+		</exercise>
+	</exercises>
+
 </section>
 

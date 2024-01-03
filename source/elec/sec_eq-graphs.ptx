@@ -1,37 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_eq-graphs" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Equipotential Graphs</title>
+  	<title>Equipotential Graphs</title>
 		
-      <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 	
-	<p>WORDS</p>
-	
-		<definition>
-	<title>DEFINITION</title>
-	<statement>
-		<p>The <term>TERM</term></p>
-	</statement>
-</definition>
-	
+	<p>Equipotential graphs are extremely useful to visually see where the electric potential is constant throughout some region of space. </p>	
 				
-				<lemma xml:id="rep_eq-graphs">
-			<title>REPRESENTATION</title>
-			<statement>
-				<p>REPRESENTATION</p>
-			</statement>
-		</lemma>
-
+	<lemma xml:id="rep_eq-graphs">
+		<title>Equipotential Graphs</title>
+		<statement>
+			<p>An equipotential graph or diagram shows lines in space where the electric potential is constant, given some electric field or charge distribution. </p>
+		</statement>
+	</lemma>
 
 	<exercises>
-	<title>Activities</title>
-			<exercise>
-			  <p>TEXT</p>
-			</exercise>
-		</exercises>
-
-  
-
+		<title>Activities</title>
+		<figure xml:id="eq">
+			<caption>An equipotential graph in a region of space. The numbers indicate the value of the electric potential for the corresponding line. </caption>
+			<image source="elec/eq2.png" width = "90%" ><description>An equipotential graph in a region of space. The graph shows a region of space, x vs. y, and 10 equipotential lines.</description></image>
+		</figure>
+		<exercise>
+			<p>Above is an equipotential graph. Suppose you were to stand at the bottom-middle of the digram and walk directly upward. Describe how the electric potential changes as you walk.</p>
+		</exercise>
+		<exercise>
+			<p>As you walk from bottom to top, do you think the magnitude of the electric field <m>|\vec{E}|</m> increases, decreases or stays the same?</p>
+		</exercise>
+	</exercises>
 	
 </section>
 

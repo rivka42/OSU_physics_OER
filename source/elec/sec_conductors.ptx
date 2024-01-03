@@ -1,30 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_conductors" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Conductors</title>
-		
-      <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
-	
-	<p>WORDS</p>
-	
-		<definition>
-	<title>DEFINITION</title>
-	<statement>
-		<p>The <term>TERM</term></p>
-	</statement>
-</definition>
-	
-			
-
+  	<title>Conductors</title>
 
 	<exercises>
-	<title>Activities</title>
-			<exercise>
-			  <p>TEXT</p>
-			</exercise>
-		</exercises>
+		<title>Warm-Up Activity</title>
+		<figure xml:id="conductor-img">
+			<caption>A positively charged rod sits to the left of a conductor.</caption>
+			<image source="elec/EPC_Pre.png" width = "50%" ><description>A long rod is positively charged and is held next to a circular conductor.</description></image>
+		</figure>
+		<exercise>
+			<p>The diagram above shows a positively charged rod next to a thin shell made out of a conductor. A conductor is a material (typically metal) that has a lot of free charges that can move around in response to external fields. The conductor in the figure is neutral (the net charge is zero).</p>
 
-  
+			<p>When the positive rod is brought near the conductor, the charges in the conductor will move. Describe how you would expect the charges to be distributed (qualitatively). Justify your answer.</p>
+		</exercise>
+		<exercise>
+			<p>Predict the direction of the net electric field at the center of the conductor. Justify your answer.</p>
+		</exercise>
+		<exercise>Watch this <url href="https://www.youtube.com/watch?v=WqvImbn9GG4&amp;ab_channel=mittechtv" visual="video"/> about an experiment that is similar to the situation presented in the previous questions. Has your thinking about the electric field at the center of the conductor changed? If so, explain how and why it has changed.</exercise>
+	</exercises>
+		
+    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+	
+	<p>Conductors are extremely useful objects that interact in interesting ways with an external electric field. </p>
+	
+	<definition>
+		<title>Conductors</title>
+		<statement>
+			<p><term>Conductors</term> are objects that have free charges that move in response to an external electric field.</p>
+		</statement>
+	</definition>
+	
+	<exercises>
+	<title>Conductor Activities</title>
+		<p>Let's think about the questions posed at the end of the previous video.</p>
+		<exercise>
+			<p>What direction does the net electric field point at each point in the conductor?</p>
+		</exercise>
+		<exercise>
+			<p>What do you think about the potential difference between points A and B?</p>
+		</exercise>
+	</exercises>
+
+	Let's return to a video to finish up this section on Conductors:
+
+	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+
+	<references>
+		<biblio xml:id="ref_faraday_cage_mit">
+			<p>"MIT Physics Demo -- Faraday's Cage" <em>YouTube</em>, uploaded by mittechtv, 20 November 2009, https://www.youtube.com/watch?v=WqvImbn9GG4&amp;ab_channel=mittechtv</p>
+		</biblio>
+	</references>
 
 	
 </section>
