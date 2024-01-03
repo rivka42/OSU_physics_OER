@@ -1,31 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_voltage" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Voltage</title>
-		
-      <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
-	
-	<p>WORDS</p>
-	
-		<definition>
-	<title>DEFINITION</title>
-	<statement>
-		<p>The <term>TERM</term></p>
-	</statement>
-</definition>
-	
-
-
+  	<title>Voltage</title>
 
 	<exercises>
-	<title>Activities</title>
-			<exercise>
-			  <p>TEXT</p>
-			</exercise>
-		</exercises>
+	<title>Warm-up Activity</title>
+		<figure xml:id="precircuit">
+			<caption>A diagram of a complete circuit consisting of a square marked with three boxes (A, B, and C) on the left, upper, and right sides, respectively. A small dot below box A is marked as a starting point.</caption>
+			<image source="circ/PreCircuit.png" width = "50%" ><description>A diagram of a complete circuit consisting of a square marked with three boxes (A, B, and C) on the left, upper, and right sides, respectively. A small dot below box A is marked as a starting point.</description></image>
+		</figure>
+		<p>The image above shows a <term>complete circuit</term>: a continuous (unbroken) path of conductors that returns to where it starts.</p>
+		<p>This circuit has three elements connected by wires (straight lines). Each circuit element is represented with a box and a letter. You do not know what each element is.</p>
 
-  
+		<exercise>
+			<p>Imagine that you are a tiny positive charge, initially located at the dot.  You begin moving clockwise through the circuit. As you pass through element A, you measure that electric potential (or voltage) increases by 5 V. As you pass through element B, you measure that the electric potential (or voltage) decreases by 3 V. How do you think the electric potential (or voltage) will change as you pass through element C? Explain your reasoning.</p>
+		</exercise>
+	</exercises>
 
+	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 	
+	<p>In the context of circuits, we use the word <term>voltage</term> to talk about the electric potential difference of elements within a circuit.</p>
+	
+	<definition>
+		<title>Voltage</title>
+		<statement>
+			<p><term>Voltage</term> is the electric potential difference for an element within a circuit.</p>
+		</statement>
+	</definition>
+
+	<exercises xml:id="voltage_ex">
+		<title>Activities</title>
+		<exercise>
+			<p>How does the voltage across the light bulb compare to the voltage across the battery?</p>
+		</exercise>
+		<exercise>
+			<p>Pretend you are a little positive charge starting at the bottom left corner. Sketch the voltage you experience as a function of time as you travel once around the circuit. Explain your reasoning behind your sketch.</p>
+		</exercise>
+	</exercises>
+
 </section>
 

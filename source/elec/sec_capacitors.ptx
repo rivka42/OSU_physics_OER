@@ -20,7 +20,7 @@
 	
 	<p>A capacitor is made up of two conductors separated by opposite charges.</p>
 	
-	<definition>
+	<definition xml:id="capacitance">
 		<title>Capacitance</title>
 		<statement>
 			<p>The <term>Capacitance</term> of a capacitor is defined as <me>C = Q / \Delta V</me> and is often dependent on the geometry of the capcitor. The units of capacitance are in Farads (F). </p>

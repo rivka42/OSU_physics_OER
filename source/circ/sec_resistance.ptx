@@ -1,31 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_resistance" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Resistance</title>
-		
-      <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+	<title>Resistance</title>
+			
+	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 	
-	<p>WORDS</p>
-	
-		<definition>
-	<title>DEFINITION</title>
-	<statement>
-		<p>The <term>TERM</term></p>
-	</statement>
-</definition>
-	
-				
+	<definition>
+		<title>Resistance</title>
+		<statement>
+			<p>Circuit elements present obstacles to the flow of electric current in circuits, which we define as <term>Resistance</term> and we write as <m>R</m>. Resistance is measured in units of Ohms (<m>\Omega</m>).</p>
+		</statement>
+	</definition>
 
+	<definition>
+		<title>Ohm's Law</title>
+		<statement>
+			<p><term>Ohm's Law</term> tells us that the voltage across a resistor is equal to the current flowing through that resistor times the resistance: <me>V = IR</me></p>
+		</statement>
+	</definition>
 
 	<exercises>
-	<title>Activities</title>
-			<exercise>
-			  <p>TEXT</p>
-			</exercise>
-		</exercises>
+		<title>Activities</title>
+		<p>Shown below is a circuit with three resistors.</p>
+			<figure xml:id="circuit1">
+				<caption>A circuit diagram consisting of a battery and three resistors. Resistors 1 and 2 are in series, and are both in parallel with Resistor 3.</caption>
+				<image source="circ/circuit.png" width = "50%" ><description>A circuit diagram consisting of a battery and three resistors. Resistors 1 and 2 are in series, and are both in parallel with Resistor 3.</description></image>
+			</figure>
+		<exercise>
+			
+			<p>Assume that <m>R_1 > R_2</m>. Predict whether the current through resistor 2 greater than, less than, or equal to the current through resistor 1? Explain your answer.</p>
+		</exercise>
+		<exercise>
+			<p>Predict whether the voltage across resistor 2 is greater than, less than, or equal to the voltage across resistor 1? Explain your answer.</p>
+		</exercise>
+	</exercises>
 
-  
-
-	
 </section>
 

@@ -1,37 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_voltage-diagrams" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Voltage Diagrams</title>
+	<title>Voltage Diagrams</title>
+			
+	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 		
-      <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
-	
-	<p>WORDS</p>
-	
-		<definition>
-	<title>DEFINITION</title>
-	<statement>
-		<p>The <term>TERM</term></p>
-	</statement>
-</definition>
-	
-				
-				<lemma xml:id="rep_voltage-diagrams">
-			<title>REPRESENTATION</title>
-			<statement>
-				<p>REPRESENTATION</p>
-			</statement>
-		</lemma>
+	<p>Voltage diagrams are very useful representations to draw when analyzing circuits. They can be as useful as free-body diagrams!</p>
 
+	<lemma xml:id="rep_voltage-diagrams">
+		<title>Voltage Diagrams</title>
+		<statement>
+			<p>A voltage diagram shows how the voltage changes throughout a circuit. Typically, a voltage diagram starts at zero and will utilize an arrow to show how the voltage is increasing or decreasing across certain elements. <xref ref="loop-rule"/> is often used in tandem with voltage diagrams.</p>
+		</statement>
+	</lemma>
 
 	<exercises>
-	<title>Activities</title>
-			<exercise>
-			  <p>TEXT</p>
-			</exercise>
-		</exercises>
-
-  
-
+		<title>Activities</title>
+		<exercise>
+			<p>TEXT</p>
+		</exercise>
+	</exercises>
 	
 </section>
 

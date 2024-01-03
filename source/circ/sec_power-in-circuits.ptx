@@ -1,31 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_power-in-circuits" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Power in Circuits</title>
-		
-      <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
-	
-	<p>WORDS</p>
-	
-		<definition>
-	<title>DEFINITION</title>
-	<statement>
-		<p>The <term>TERM</term></p>
-	</statement>
-</definition>
-	
+	<title>Power in Circuits</title>
 
-
+	<p>Energy is transferred from chemical potential energy stored within the battery to the charges that move around the circuit. As the charges travel around the circuit, they lose energy through resistors. Since there are a lot of charges moving in a circuit, it's often useful to talk about the power delivered to resistance elements:</p>
+			
+	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+	
+	<definition>
+		<title>Power</title>
+		<statement>
+			<p>The <term>Power</term> delivered to a resistor is the current flowing through the resistor multiplied by the voltage: <me>P = IV</me>. </p>
+		</statement>
+	</definition>
 
 	<exercises>
-	<title>Activities</title>
-			<exercise>
-			  <p>TEXT</p>
-			</exercise>
-		</exercises>
-
-  
-
-	
+		<title>Activities</title>
+		<exercise>
+			<p>Sensemaking: Use some of your sensemaking techniques on the power equation. What are the units? Why might this equation be useful?</p>
+		</exercise>
+		<exercise>
+			<p>How can you use the power to determine the total amount of energy delivered to the resistor?</p>
+		</exercise>
+		<exercise>
+			<p>Old incandescent light bulbs are usually rated to provide 60 W of power. When you plug it into the wall (120 V) the light bulb will light up. What do you think is the resistance of the light bulb when it is plugged in (in Ohms)?</p> 
+		</exercise>
+	</exercises>
 </section>
 

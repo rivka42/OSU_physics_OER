@@ -1,43 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
 
 <chapter xml:id="ch_circuits" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Electric Circuits</title>
+  	<title>Electric Circuits</title>
 	<introduction>
-    <p> In this chapter you will learn how to model electric circuits.</p>
-	
-	<p><alert>Learning Outcomes</alert></p>
-  
-	<p>
-		After successful completion of this chapter, you will be able to:
-		<ol>
-			<li>Relate the capacitance of a circuit to the stored charge and the electric potential difference.</li>
-<li>Determine the energy stored in a capacitor.</li>
-<li>Determine the equivalent capacitance of a circuit.</li>
-<li>Identify the conditions for current to flow through circuit components.</li>
-<li>Relate current to the flow of electric charge per unit time.</li>
-<li>Draw and label basic and advanced circuit diagrams.</li>
-<li>Treat batteries as sources of constant voltage rather than constant current.</li>
-<li>Determine the amount of current flowing through a circuit with one or more resistors and a single battery, both quantitatively and qualitatively.</li>
-<li>Determine the amount of current flowing through a circuit with one or more resistors and more than one battery, both quantitatively and qualitatively.</li>
-<li>Determine the equivalent resistance of a circuit.</li>
-<li>Determine the power and/or energy used by a resistor.</li>
-<li>Use Kirchoff’s Laws to quantify the behavior of a complicated circuit.</li>
-<li>Describe the behavior of simple RC circuits qualitatively and quantitatively.</li>
-		</ol>
-	</p>
-
+		<p> In this chapter you will learn how to model electric circuits.</p>
+			
+		<p><alert>Learning Outcomes</alert></p>
+		
+		<p>After successful completion of this chapter, you will be able to:
+			<ol>
+				<li>Relate the capacitance of a circuit to the stored charge and the electric potential difference.</li>
+				<li>Determine the energy stored in a capacitor.</li>
+				<li>Determine the equivalent capacitance of a circuit.</li>
+				<li>Identify the conditions for current to flow through circuit components.</li>
+				<li>Relate current to the flow of electric charge per unit time.</li>
+				<li>Draw and label basic and advanced circuit diagrams.</li>
+				<li>Treat batteries as sources of constant voltage rather than constant current.</li>
+				<li>Determine the amount of current flowing through a circuit with one or more resistors and a single battery, both quantitatively and qualitatively.</li>
+				<li>Determine the amount of current flowing through a circuit with one or more resistors and more than one battery, both quantitatively and qualitatively.</li>
+				<li>Determine the equivalent resistance of a circuit.</li>
+				<li>Determine the power and/or energy used by a resistor.</li>
+				<li>Use Kirchoff’s Laws to quantify the behavior of a complicated circuit.</li>
+				<li>Describe the behavior of simple RC circuits qualitatively and quantitatively.</li>
+			</ol>
+		</p>
 	</introduction>
 
-<xi:include href="./circ/sec_voltage.ptx" /> 
-<xi:include href="./circ/sec_loop-rule.ptx" />
-<xi:include href="./circ/sec_voltage-diagrams.ptx" />
-<xi:include href="./circ/sec_current.ptx" />
-<xi:include href="./circ/sec_junction-rule.ptx" />
-<xi:include href="./circ/sec_resistance.ptx" />
-<xi:include href="./circ/sec_linear-resistors.ptx" />
-<xi:include href="./circ/sec_power-in-circuits.ptx" />
-<xi:include href="./circ/sec_capacitors-in-circuits.ptx" />
-<xi:include href="./circ/sec_RC-circuits.ptx" />
+	<xi:include href="./circ/sec_voltage.ptx" /> 
+	<xi:include href="./circ/sec_loop-rule.ptx" />
+	<xi:include href="./circ/sec_voltage-diagrams.ptx" />
+	<xi:include href="./circ/sec_current.ptx" />
+	<xi:include href="./circ/sec_junction-rule.ptx" />
+	<xi:include href="./circ/sec_resistance.ptx" />
+	<xi:include href="./circ/sec_linear-resistors.ptx" />
+	<xi:include href="./circ/sec_power-in-circuits.ptx" />
+	<xi:include href="./circ/sec_capacitors-in-circuits.ptx" />
+	<xi:include href="./circ/sec_RC-circuits.ptx" />
 </chapter>
 
 

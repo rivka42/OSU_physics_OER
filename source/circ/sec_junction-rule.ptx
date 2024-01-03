@@ -1,30 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_junction-rule" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>The Junction Rule</title>
-		
-      <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
-	
-	<p>WORDS</p>
-	
-		<definition>
-	<title>DEFINITION</title>
-	<statement>
-		<p>The <term>TERM</term></p>
-	</statement>
-</definition>
-
-
+	<title>The Junction Rule</title>
 
 	<exercises>
-	<title>Activities</title>
-			<exercise>
-			  <p>TEXT</p>
-			</exercise>
-		</exercises>
+		<title>Warm-up Activity</title>
+		<exercise>
+			<p>Shown below is part of a circuit where two wires combine into one wire.</p>
+			<figure xml:id="current1">
+				<caption>Two wires meet at a junction.</caption>
+				<image source="circ/current1.png" width = "50%" ><description>Two wires meet at a junction, connected to a single third wire.</description></image>
+			</figure>
+			<p>Which of the following do you think describes the current in the third wire? Explain your reasoning.</p>
+			<ol type = "a">
+				<li><p><m>I_3 = I_1 + I_2</m></p></li>
+				<li><p><m>I_3 = I_1 \times I_2</m></p></li>
+				<li><p><m>I_3 = I_1 - I_2</m></p></li>
+				<li><p><m>\frac{1}{I_3} = \frac{1}{I_1} + \frac{1}{I_2}</m></p></li>
+				<li><p><m>I_3 = </m> the bigger of <m>I_1</m> and <m>I_2</m></p></li>
+				<li><p>I can't figure out <m>I_3</m></p></li>
+			</ol>
+		</exercise>
+	</exercises>
+			
+	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+		
+	<p>The total charge in a circuit cannot increase or decrease. Charge must be conserved! This leads us to the Junction Rule, the second of Kirchoff's Laws.</p>
+	
+	<definition>
+		<title>The Junction Rule</title>
+		<statement>
+			<p>The <term>Junction Rule</term> tells us that at a junction, the sum of the incoming currents must equal the sum of the outgoing currents: <me>\sum I_{\mathrm{in}} = \sum I_{\mathrm{out}}</me></p>
+		</statement>
+	</definition>
 
-  
-
+	<exercises>
+		<title>Activities</title>
+		<exercise>
+			<p>One of your friends builds a circuit and measures a negative current through one of the light bulbs in their circuit. What do you think the negative means for current?</p>
+		</exercise>
+	</exercises>
 	
 </section>
 

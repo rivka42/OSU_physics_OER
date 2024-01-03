@@ -1,31 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_current" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Current</title>
-		
-      <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
-	
-	<p>WORDS</p>
-	
-		<definition>
-	<title>DEFINITION</title>
-	<statement>
-		<p>The <term>TERM</term></p>
-	</statement>
-</definition>
-	
-				
+	<title>Electric Current</title>
 
+	<p>Within a circuit, there are tiny positive charges that are living inside each element.You may have wondered what is actually happening to those charges. Take a moment to think about that and predict what is happening.</p>
 
 	<exercises>
-	<title>Activities</title>
+		<title>Warm-up Activity</title>
 			<exercise>
-			  <p>TEXT</p>
+				<p>What do you think is happening to all of those tiny positive charges in the circuit?</p>
 			</exercise>
-		</exercises>
+	</exercises>
+			
+	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+		
+	<p>The voltages across different elements of the circuits produce tiny electric fields within the elements that will help move these tiny charges along, producing a current.</p>
+	
+	<definition>
+		<title>Electric Current</title>
+		<statement>
+			<p><term>Electric Current</term> is the flow of electric charge and has units of Amps (<m>\mathrm{C}/\mathrm{s}</m>). It is defined as the rate of charge flowing past a given point in a circuit every second: <me>I = \frac{dq}{dt}</me></p>
+		</statement>
+	</definition>
 
-  
-
+	<exercises>
+		<title>Activities</title>
+		<exercise>
+			<p>Recall the circuit (<xref ref="precircuit"/>) from <xref ref="sec_voltage"/>. Do you think that the current passing through element B is greater than, less than, or equal to the current passing through element A? Explain your answer.</p>
+		</exercise>
+	</exercises>
 	
 </section>
 

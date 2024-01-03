@@ -1,31 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_rc-circuits" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>RC Circuits</title>
-		
-      <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
-	
-	<p>WORDS</p>
-	
-		<definition>
-	<title>DEFINITION</title>
-	<statement>
-		<p>The <term>TERM</term></p>
-	</statement>
-</definition>
-	
-
-
+	<title>RC Circuits</title>
+			
+	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+			
+	<p>An RC Circuit is a circuit that involves both resistors and capacitors.</p>
 
 	<exercises>
-	<title>Activities</title>
-			<exercise>
-			  <p>TEXT</p>
-			</exercise>
-		</exercises>
+		<title>Activities</title>
+		<exercise>
+			<p>TEXT</p>
+		</exercise>
+	</exercises>
 
-  
-
-	
 </section>
 
