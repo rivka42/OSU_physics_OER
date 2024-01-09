@@ -10,7 +10,7 @@
 	<lemma xml:id="rep_vector-map">
 		<title>Electric Field Vector Map</title>
 		<statement>
-			<p>An electric field vector map shows a vector at many different points in space to highlight the shape of the electric field in different regions.  The electric field can be different at every point in space, so you should always draw enough vectors to get a good sense for how the field is changing.</p>
+			<p>An electric field vector map shows a vector at many different points in space to highlight the direction and magnitude of the electric field in different regions of space.  The electric fields can be different at every point in space, so you should always draw enough vectors to get a good sense for how the field is changing.</p>
 		</statement>
 	</lemma>
 

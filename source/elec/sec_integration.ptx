@@ -22,7 +22,7 @@
 
 	<exercises>
 		<title>Activities</title>
-		<p>In PH 212, you learned that the moment of inertia for a point object is <m>I = mr^2</m>, where <m>r</m> is the perpendicular distance between the object and the axis of rotation.</p>
+		<p>In a course you took previously, you learned that the moment of inertia for a point object is <m>I = mr^2</m>, where <m>r</m> is the perpendicular distance between the object and the axis of rotation.</p>
 		<exercise>
 			<statement>
 			  	<p>Explain why the integral <m>I = \int_{0 \text{ m}}^{1.2 \text{ m}} x^2 \lambda dx</m> will give the moment of inertia for your stick if you hold it at one end and swing it in a horizontal circle.</p>

@@ -2,18 +2,18 @@
 
 <section xml:id="sec_flux" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-	<p>Flux can be described as how much of something flows through an area. Common examples of flux might be how much water flows through the surface of your faucet, or how many photons travel through the opening of a telescope. We can also think about the electric flux:</p>
+	<p>Flux can be described as how much of something flows perpendicularly through an area. Common examples of flux might be how much water flows through the surface of your faucet, or how many photons travel through the opening of a telescope. We can also think about the electric flux:</p>
 
   	<title>Electric Flux</title>
 		
     <video youtube="fgxk4VEDoIQ"><description>Introducing electric flux.</description></video>
 
-	<p>The electric flux tells us about the total electric field going through a surface.</p>
+	<p>The electric flux tells us about the total electric field flowing perpendicularly through a surface.</p>
 	
 	<definition>
 		<title>Electric Flux</title>
 		<statement>
-			<p>The <term>electric flux</term> <m>\Phi_E</m> through a surface defined by infinitesimal area vector <m>d\vec{A}</m> is given by <me>\Phi_E = \int\vec{E}\cdot d\vec{A}</me></p>
+			<p>The <term>electric flux</term> <m>\mathit{\Phi}_E</m> through a surface defined by infinitesimal area vector <m>d\vec{A}</m> is given by <me>\mathit{\Phi}_E = \int\vec{E}\cdot d\vec{A}</me></p>
 		</statement>
 	</definition>
 
@@ -24,7 +24,7 @@
 			<p>Suppose the book were placed in a region with a uniform electric field that points upward: <m>\vec{E} = E_o\hat{y}</m>. If the area of the front cover is <m>A</m>, determine the electric flux through the front cover.  What happens to the integral in a case like this?</p>
 		</exercise>
 		<exercise>
-			<p>Suppose you know the electric field everywhere in space and your surface of interest is a sphere centered on the origin.  What is the area vector for this surface?  Outline a general procedure for finding the electric flux through this surface.  Can you think of any electric fields for which this procedure will be very challenging?  Very easy?</p>
+			<p>Suppose you know the electric field everywhere in space and your surface of interest is the surface of  a sphere centered on the origin.  What is the area vector for this surface?  Outline a general procedure for finding the electric flux through this surface.  Can you think of any electric fields for which this procedure will be very challenging?  Very easy?</p>
 		</exercise>
 	</exercises>
 
