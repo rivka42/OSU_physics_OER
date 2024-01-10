@@ -32,8 +32,8 @@
 		<xi:include href="./ch_07_waves.ptx" />
 		<xi:include href="./ch_08_optics.ptx" />
     <xi:include href="./ch_09_electricity.ptx" />
-        <!--
 				<xi:include href="./ch_10_circuits.ptx" />
+				        <!--
     <xi:include href="./ch_11_magnetism.ptx" />
 		-->
   

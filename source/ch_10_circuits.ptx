@@ -26,6 +26,7 @@
 		</p>
 	</introduction>
 
+	<xi:include href="./circ/sec_circuit-diagrams.ptx" /> 
 	<xi:include href="./circ/sec_voltage.ptx" /> 
 	<xi:include href="./circ/sec_loop-rule.ptx" />
 	<xi:include href="./circ/sec_voltage-diagrams.ptx" />
@@ -36,6 +37,7 @@
 	<xi:include href="./circ/sec_power-in-circuits.ptx" />
 	<xi:include href="./circ/sec_capacitors-in-circuits.ptx" />
 	<xi:include href="./circ/sec_RC-circuits.ptx" />
+		<xi:include href="./circ/sec_circ-summary.ptx" /> 
 </chapter>
 
 

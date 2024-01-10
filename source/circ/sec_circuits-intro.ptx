@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_circuit-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Circuits</title>
+
+  	<p>You will now study one of the primary applications of electricity: electric circuits.</p>
+	
+	<exercises>
+		<title>Activities</title>
+		<exercise>
+			  <p>Write down a few things you already know about electric circuits from your previous coursework and/or your everyday experiences.</p>
+		</exercise>
+	</exercises>
+	
+		<definition>
+		<title>Circuit</title>
+		<statement>
+			<p>A <term>circuit</term> is a complete, continuous path of electrical conductors.</p>
+		</statement>
+	</definition>
+
+</section>
+

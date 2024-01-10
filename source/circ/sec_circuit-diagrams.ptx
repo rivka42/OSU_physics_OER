@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_voltage" xmlns:xi="http://www.w3.org/2001/XInclude">
-  	<title>Voltage</title>
+<section xml:id="sec_circuit-diagrams" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Circuits and Circuit Diagrams</title>
 
+  	<p>You will now study one of the primary applications of electricity: electric circuits.</p>
+	
 	<exercises>
-		<title>Warm-up Activities</title>
+		<title>Activities</title>
+		<exercise>
+			  <p>Write down a few things you already know about electric circuits from your previous coursework and/or your everyday experiences.</p>
+		</exercise>
 		<figure xml:id="precircuit">
 			<caption>A diagram of a complete circuit consisting of a square marked with three boxes (A, B, and C) on the left, upper, and right sides, respectively. A small dot below box A is marked as a starting point.</caption>
 			<image source="circ/PreCircuit.png" width = "50%" ><description>A diagram of a complete circuit consisting of a square marked with three boxes (A, B, and C) on the left, upper, and right sides, respectively. A small dot below box A is marked as a starting point.</description></image>
@@ -17,26 +22,7 @@
 		</exercise>
 	</exercises>
 
-	<video youtube="zpsPTBHeFT4"><description>Introduction to voltage.</description></video>
-	
-	<p>The word <term>voltage</term> refers to the electric potential difference across an element within a circuit.</p>
-	
-
-	<exercises xml:id="voltage_ex">
-		<title>Activities</title>
-		<exercise>
-			<p>How do you think the voltage across the light bulb compares to the voltage across the battery?  Explain your reasoning.</p>
-		</exercise>
-		<exercise>
-			<p>Pretend you are a little positive charge starting at the bottom left corner of the circuit above. Sketch the voltage you experience as a function of time as you travel once around the circuit. Explain your reasoning behind your sketch.  You will refer to this sketch in the upcoming sections.</p>
-		</exercise>
-	</exercises>
+	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 
 </section>
-
-
-
-
-
-
 
