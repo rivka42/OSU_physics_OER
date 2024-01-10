@@ -23,16 +23,16 @@
 		</exercise>
 	</exercises>
 			
-	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+	<video youtube="tbAY1Szovxk"><description>The junction rule for electric circuits.</description></video>
 		
 	<p>The total charge in a circuit cannot increase or decrease. Charge must be conserved! This leads us to the Junction Rule, the second of Kirchoff's Laws.</p>
 	
-	<definition>
+	<principle>
 		<title>The Junction Rule</title>
 		<statement>
 			<p>The <term>Junction Rule</term> tells us that at a junction, the sum of the incoming currents must equal the sum of the outgoing currents: <me>\sum I_{\mathrm{in}} = \sum I_{\mathrm{out}}</me></p>
 		</statement>
-	</definition>
+	</principle>
 
 	<exercises>
 		<title>Activities</title>

@@ -1,28 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_circuit-diagrams" xmlns:xi="http://www.w3.org/2001/XInclude">
-	<title>Circuits and Circuit Diagrams</title>
+	<title>Circuit Diagrams</title>
 
-  	<p>You will now study one of the primary applications of electricity: electric circuits.</p>
+	<lemma xml:id="rep_circuit-diagrams">
+		<title>Circuit Diagrams</title>
+		<statement>
+			<p>A circuit diagram is a simplified representation of a real circuit where each element is given a simple icon connected by straight lines corresponding to ideal wires.</p>
+		</statement>
+	</lemma>
 	
-	<exercises>
-		<title>Activities</title>
-		<exercise>
-			  <p>Write down a few things you already know about electric circuits from your previous coursework and/or your everyday experiences.</p>
-		</exercise>
-		<figure xml:id="precircuit">
-			<caption>A diagram of a complete circuit consisting of a square marked with three boxes (A, B, and C) on the left, upper, and right sides, respectively. A small dot below box A is marked as a starting point.</caption>
-			<image source="circ/PreCircuit.png" width = "50%" ><description>A diagram of a complete circuit consisting of a square marked with three boxes (A, B, and C) on the left, upper, and right sides, respectively. A small dot below box A is marked as a starting point.</description></image>
-		</figure>
-		<p>The image above shows a <term>complete circuit</term>: a continuous (unbroken) path of conductors that returns to where it starts.</p>
-		<p>This circuit has three elements connected by wires (straight lines). Each circuit element is represented with a box and a letter. You do not know what each element is.</p>
-
-		<exercise>
-			<p>Imagine that you are a tiny positive charge, initially located at the dot.  You begin moving clockwise through the circuit. As you pass through element A, you measure that electric potential (or voltage) increases by 5 V. As you pass through element B, you measure that the electric potential (or voltage) decreases by 3 V. How do you think the electric potential (or voltage) will change as you pass through element C? Explain your reasoning.</p>
-		</exercise>
-	</exercises>
-
-	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 
 </section>
 

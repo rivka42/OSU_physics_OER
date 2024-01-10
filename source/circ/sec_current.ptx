@@ -3,16 +3,16 @@
 <section xml:id="sec_current" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>Electric Current</title>
 
-	<p>Within a circuit, there are tiny positive charges that are living inside each element.You may have wondered what is actually happening to those charges. Take a moment to think about that and predict what is happening.</p>
+	<p>Within a circuit, there are tiny positive charges that are free to move.  You may have wondered what is actually happening to those charges.</p>
 
 	<exercises>
 		<title>Warm-up Activity</title>
 			<exercise>
-				<p>What do you think is happening to all of those tiny positive charges in the circuit?</p>
+				<p>What do you think is happening to all of those tiny positive charges in a simple circuit with a battery and a light bulb?</p>
 			</exercise>
 	</exercises>
 			
-	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+	<video youtube="LquookvLyh8"><description>Introducing electric current.</description></video>
 		
 	<p>The voltages across different elements of the circuits produce tiny electric fields within the elements that will help move these tiny charges along, producing a current.</p>
 	
