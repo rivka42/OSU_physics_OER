@@ -5,7 +5,7 @@
 		
     <video youtube="wYKAWt9IBHk"><description>Introducing the electric field.</description></video>
 	
-	<p>Electric fields exist everywhere in space. The motion of charged objects through space is governed by any pre-existing electric fields. We can understand this motion by analyzing the force applied to a charged object due to an electric field.</p>
+	<p>Electric fields can exist everywhere in space. The motion of charged objects through space is governed by any pre-existing electric fields. We can understand this motion by analyzing the force applied to a charged object due to an electric field.</p>
 
 	<definition>
 		<title>Electric field</title>
@@ -17,7 +17,7 @@
 	<definition>
 		<title>Electric force</title>
 		<statement>
-			<p>The <term>electric force</term> on a pointlike object is the product of the object's charge and the electric field at the location of the charge: <me>\vec{F}^E = q_{\text{test}} \vec{E}</me></p>
+			<p>The <term>electric force</term> on a pointlike object is the product of the object's charge and the electric field at the location of the object: <me>\vec{F}^E = q_{\text{test}} \vec{E}</me></p>
 		</statement>
 	</definition>
 

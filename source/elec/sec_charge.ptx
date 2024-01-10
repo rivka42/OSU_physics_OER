@@ -10,14 +10,14 @@
 	<definition>
 		<title>Charge</title>
 		<statement>
-			<p>Charge is a physical property, measured in Coulombs (C), that governs how an object interacts with electric fields.</p>
+			<p>Charge is a physical property, measured in coulombs (C), that governs how an object interacts with electric fields.</p>
 		</statement>
 	</definition>
 	
 	<exercises>
 		<title>Activities</title>
 		<exercise>
-			<p>An atom typically has the same number of protons as electrons.  What is the total charge on such an atom?</p>
+			<p>An atom always has the same number of protons as electrons.  What is the total charge on such an atom?</p>
 		</exercise>
 		<exercise>
 			<p>Suppose you have an object with a net charge of exactly 1.0 C.  How many more protons than electrons are in this object?  Based on this, do you think a net charge of 1.0 C is typical for an everyday object, or is it much larger or smaller than you would expect for an everyday object?</p>

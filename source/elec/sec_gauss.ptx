@@ -8,7 +8,7 @@
 	<principle>
 		<title>Gauss's Law</title>
 		<statement>
-			<p>The net electric flux through any <em>closed</em> surface is equal to the charge enclosed by that surface divided by <m>\epsilon_0</m>: <me>\Phi_E = \frac{Q_{enc}}{\epsilon_0}</me><me>\bigcirc \!\!\!\!\!\!\!\!\!\iint_S \vec{E}\cdot d\vec{A} = \frac{Q_{enc}}{\epsilon_0}</me></p>
+			<p>The net electric flux through any <em>closed</em> surface is equal to the charge enclosed by that surface divided by <m>\epsilon_0</m>: <me>\mathit{\Phi}_E = \frac{Q_{enc}}{\epsilon_0}</me><me>\bigcirc \!\!\!\!\!\!\!\!\!\iint_S \vec{E}\cdot d\vec{A} = \frac{Q_{enc}}{\epsilon_0}</me></p>
 		</statement>
 	</principle>
 	
@@ -17,14 +17,14 @@
 	<exercises>
 		<title>Activities</title>
 		<figure xml:id="x_fig_gauss-rank">
-    		<caption>Several charge distributions and Gaussian surfaces.</caption>
+    		<caption>Several charge distributions and Gaussian surfaces. The circles represent spheres, and the square represents a cube. </caption>
     		<image source="GaussRank.png" width = "100%" ></image>
 		</figure>
 		<exercise>
 			<p>Rank the four cases above by the net electric flux through the shown Gaussian surface from greatest to least. Explain your reasoning.</p>
 		</exercise>
 		<exercise>
-			<p>Suppose you have an infinitely long wire with a uniform charge density. What kind of Gaussian surface do you think you should choose for this charge distribution?  Explain your reasoning.</p>
+			<p>Suppose you have a straightwirte with a uniform charge density, where the length of the wire is much, much greater than its width. What kind of Gaussian surface do you think you should choose for this charge distribution?  Explain your reasoning.</p>
 		</exercise>
 	</exercises>
 	
