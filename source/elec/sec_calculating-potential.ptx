@@ -6,11 +6,10 @@
   	<exercises>
 		<title>Warm-Up Activity</title>
 		<exercise>
-			<p>A few weeks ago, you found the electric field at the center of a uniformly charged semicircle with total charge <m>Q</m> and radius <m>R</m>. How do you think you would find the electric potential at the center of this semicircle?</p>
+			<p>Previously, you found the electric field at the center of a uniformly charged semicircle with total charge <m>Q</m> and radius <m>R</m>. What strategy do you think would help you find the electric potential at the center of this semicircle?</p>
 		</exercise>
 	</exercises>
 		
-    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 	
 	<p>To determine the electric potential due to some charge distribution, we will use our <alert>Chop-Multiply-Add method!</alert></p>
 
@@ -29,7 +28,12 @@
 	<exercises>
 		<title>Activities</title>
 		<exercise>
-			<p>Let's go back to the uniformly charged semicircle with total charge <m>Q</m> and radius <m>R</m>. Using the Chop-Multiply-Add method, set up an integral to determine the electric potential.</p>
+		<statement>
+			<p>Go back to the uniformly charged semicircle with total charge <m>Q</m> and radius <m>R</m>. Using the Chop-Multiply-Add method, set up an integral to determine the electric potential.</p>
+			</statement>
+			<solution>
+			 <video youtube="-du3ynxb63g"><description>Finding the electric potential for a uniformly charged semicircle.</description></video>
+			</solution>
 		</exercise>
 	</exercises>
 

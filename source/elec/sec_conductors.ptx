@@ -6,43 +6,46 @@
 	<exercises>
 		<title>Warm-Up Activity</title>
 		<figure xml:id="conductor-img">
-			<caption>A positively charged rod sits to the left of a conductor.</caption>
-			<image source="elec/EPC_Pre.png" width = "50%" ><description>A long rod is positively charged and is held next to a circular conductor.</description></image>
+			<caption>A large positive charge to the left of a square conductor.</caption>
+			<image source="Conductor.png" width = "50%" ><description>A long rod is positively charged and is held next to a circular conductor.</description></image>
 		</figure>
 		<exercise>
-			<p>The diagram above shows a positively charged rod next to a thin shell made out of a conductor. A conductor is a material (typically metal) that has a lot of free charges that can move around in response to external fields. The conductor in the figure is neutral (the net charge is zero).</p>
+			<p>The diagram above shows a large positive charge next to a conductor. A conductor is a material (typically metal) that has a lot of free charges that can move around in response to external fields. The conductor in the figure is neutral (the net charge is zero).</p>
 
-			<p>When the positive rod is brought near the conductor, the charges in the conductor will move. Describe how you would expect the charges to be distributed (qualitatively). Justify your answer.</p>
+			<p>Describe how you would expect the charges in the conductor to distribute themselves in the presence of the large positive charge.</p>
 		</exercise>
 		<exercise>
-			<p>Predict the direction of the net electric field at the center of the conductor. Justify your answer.</p>
+			<p>Together, the large positive charge and the charges in the conductor will create a net electric field everywhere in space.  Predict the direction of this net electric field at the center of the square conductor.</p>
 		</exercise>
-		<exercise>Watch this <url href="https://www.youtube.com/watch?v=WqvImbn9GG4&amp;ab_channel=mittechtv" visual="video"/> about an experiment that is similar to the situation presented in the previous questions. Has your thinking about the electric field at the center of the conductor changed? If so, explain how and why it has changed.</exercise>
+			<p>Click on <url href="https://www.youtube.com/watch?v=WqvImbn9GG4" visual="this link"/> to view a video demonstrating what happens in case like the one described above.</p>
+		<exercise>
+		<p>Has your thinking about the electric field at the center of the conductor changed? If so, explain how and why it has changed.</p>
+		</exercise>
 	</exercises>
 		
-    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+    <video youtube="JEF0v-ZU1WI"><description>An introduction to conductors.</description></video>
 	
 	<p>Conductors are extremely useful objects that interact in interesting ways with an external electric field. </p>
 	
 	<definition>
 		<title>Conductors</title>
 		<statement>
-			<p><term>Conductors</term> are objects that have free charges that move in response to an external electric field.</p>
+			<p>A <term>Conductor</term> is an objects that possesses free electric charges that move in response to an external electric field in such a way that the electric field everywhere inside the conductor is zero.</p>
 		</statement>
 	</definition>
 	
 	<exercises>
 	<title>Conductor Activities</title>
-		<p>Let's think about the questions posed at the end of the previous video.</p>
+		<p>Consider the conductor shown at the end of the video above.</p>
 		<exercise>
-			<p>What direction does the net electric field point at each point in the conductor?</p>
+			<p>What direction does the net electric field point at each point in the conductor?  Explain your reaosning.</p>
 		</exercise>
 		<exercise>
-			<p>What do you think about the potential difference between points A and B?</p>
+			<p>Do you think the potential difference between points A and B is positive, negative, or zero?  Explain your reasoning.</p>
 		</exercise>
 	</exercises>
 
-	Let's return to a video to finish up this section on Conductors:
+	<p>Conductors have many interesting properties, which are summarized in the video below.</p>
 
 	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 

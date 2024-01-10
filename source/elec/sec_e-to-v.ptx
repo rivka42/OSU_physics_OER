@@ -3,16 +3,14 @@
 <section xml:id="sec_e-to-v" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Finding V from E</title>
 		
-    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+    <video youtube="MSyBade6-LI"><description>How to find the electric potential from the electric field.</description></video>
 	
-	<p>We can use the electric field to directly calculate the electric potential difference.</p>
-	
-	<definition xml:id="e_to_v">
-		<title>Electric Potential Difference: E to V</title>
+	<principle xml:id="e_to_v">
+		<title>Finding Potential Difference from Electric Field</title>
 		<statement>
-			<p>The <term>electric potential difference</term> can be calulated using the equation <me>\Delta V = - \int_{r_i}^{r_f} \vec{E} \cdot d\vec{r}</me>. </p>
+			<p>The <term>electric potential difference</term> can be calculated using the equation <me>\Delta V = - \int_{r_i}^{r_f} \vec{E} \cdot d\vec{r}</me>. </p>
 		</statement>
-	</definition>
+	</principle>
 
 	<exercises>
 		<title>Activities</title>

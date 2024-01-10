@@ -131,8 +131,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="686.55711"
+     inkscape:zoom="1"
+     inkscape:cx="668.98221"
      inkscape:cy="209.14989"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -189,8 +189,7 @@
          style="font-style:italic;stroke-width:0.26458332;font-size:7.40833333px;">R</tspan></text>
     <g
        id="g866"
-       transform="translate(-173.18255,4.2763062)"
-       style="">
+       transform="matrix(1.5,0,0,1.5,-135.36559,-84.61853)">
       <circle
          r="4.088789"
          cy="177.78967"
@@ -219,8 +218,7 @@
        sodipodi:nodetypes="cc" />
     <g
        id="g866-1"
-       transform="translate(-95.733291,5.906229)"
-       style="">
+       transform="matrix(1.5,0,0,1.5,-57.916328,-82.988607)">
       <circle
          r="4.088789"
          cy="177.78967"
@@ -271,12 +269,10 @@
     </g>
     <g
        id="g1377"
-       transform="translate(-51.225941,0.13362845)"
-       style="">
+       transform="matrix(1.5,0,0,1.5,-31.583306,-90.832547)">
       <g
          transform="translate(36.348656)"
-         id="g866-3"
-         style="">
+         id="g866-3">
         <circle
            style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.30596748;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
            id="path854-4"
@@ -299,8 +295,7 @@
       </g>
       <g
          transform="translate(36.348657,8.2853554)"
-         id="g866-3-3"
-         style="">
+         id="g866-3-3">
         <circle
            style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.30596748;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
            id="path854-4-0"
@@ -347,8 +342,7 @@
          style="font-style:italic;font-size:7.40833333px;stroke-width:0.52916664;">R</tspan></text>
     <g
        id="g866-2"
-       transform="translate(87.545428,4.2763052)"
-       style="">
+       transform="matrix(1.5,0,0,1.5,125.36239,-84.618531)">
       <circle
          r="4.088789"
          cy="177.78967"

@@ -8,24 +8,28 @@
 	<definition>
 		<title>Electric Potential Energy</title>
 		<statement>
-			<p>The <term>electric potential energy</term> is defined as <me>\Delta U_E = q_{\mathrm{test}}\Delta V</me>.</p>
+			<p>The change in <term>electric potential energy</term> is defined as <me>\Delta U_E = q_{\mathrm{test}}\Delta V</me>.</p>
 		</statement>
 	</definition>
 	
+	<p>This definition of potential energy intentionally mirrors the definition for electric force <m>\vec{F}^E = q_{\mathrm{test}}\vec{E}</m>.  The new quantity <m>\Delta V</m> is known as the electric potential difference and is based on a new scalar field <m>V</m>, known as the electric potential, which, like the electric field, is created by the presence of other electric charges.  The electric potential difference, which has units of Volts (V), is also sometimes called voltage.</p>
+	
+	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+	
 	<definition>
-		<title>Electric Potential Difference</title>
+		<title>Electric Potential for a Point Charge</title>
 		<statement>
-			<p>The <term>electric potential difference </term> is written as <m>\Delta V</m> and has units of <m>\mathrm{J}/\mathrm{C}</m> or Volts (<m>V</m>). It is also sometimes called the voltage.</p>
+			<p>The electric potential created by a single point charge <m>q</m> a distance <m>r</m> from that point charge can be written as <me>V = k \frac{q}{r}</me></p>
 		</statement>
 	</definition>
-
-	<p>For a single point charge, the electric potential difference can be written as <me>V = k \frac{q}{r}</me>.</p>
+	
+	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 
 
 	<exercises>
 		<title>Activities</title>
 		<exercise>
-			<p>Words</p>
+			<p>Express the units of the electric potential (Volts) in terms of other units you are familiar with.</p>
 		</exercise>
 	</exercises>
 	

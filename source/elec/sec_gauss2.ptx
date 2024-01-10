@@ -3,12 +3,68 @@
 <section xml:id="sec_gauss2" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Using Gauss's Law</title>
 
-	<p>Let's get some practice with Gauss's Law.</p>
+	<p>As you saw in <xref ref="sec_gauss"/>, Gauss's Law can be used in certain high-symmetry situations as a shortcut to calculating the electric field due to a charge distribution without using Coulomb's Law.  The activities below will help you practice this strategy.</p>
 
 	<exercises>
-	<title>Gauss's Law Activities</title>
+	<title>Gauss's Law Practice - Infinitely Charged Sheet</title>
+	<p>Consider a two-dimensional sheet of charge that is infinitely long in the <m>x</m>-direction and infinitely long in the <m>y</m>-direction, but infinitesimally thin in the <m>z</m>-direction.  The charge density is uniform and equal to <m>+\sigma_o</m> across the entire sheet.</p>
 		<exercise>
-			<p>TEXT</p>
+		<statement>
+			<p>Make a sketch of this charge distribution.  Carefully label your coordinate system.</p>
+			</statement>
+			<answer>
+					<figure xml:id="x_fig_sheet1">
+    		<caption>An infinitely charged sheet.</caption>
+    		<image source="InfiniteSheet1.png" width = "70%" ></image>
+		</figure>
+			</answer>
+		</exercise>
+				<exercise>
+		<statement>
+			<p>What direction do you think the electric field should point in the region above the sheet (<m>z \gt 0</m>)?  Below the sheet (<m>z \lt 0</m>)?  How do you think the magnitude of the electric field would change if you moved in the <m>x</m>- or <m>y</m>-direction?</p>
+			</statement>
+			<hint>
+			<p>Coulomb's Law and vector superposition can help here: pick a point, and think about how the charges to the left and right of your point (and their electric fields) compare to each other.</p>
+			</hint>
+			<answer>
+			<p>The electric field must point away from the positively charged sheet, so it points in the positive <m>z</m>-direction above the sheet and in the negative <m>z</m>-direction below the sheet.  Because the sheet is infinite in both directions, moving in either direction should not change the magnitude of the electric field.</p>
+			</answer>
+		</exercise>
+				<exercise>
+		<statement>
+			<p>If you want to use Gauss's Law to find the electric field, you need to pick a Gaussian (imaginary) surface.  Key features of a useful Gaussian surface are: (a) it should enclose some charge, (b) it must be a closed surface, (c) the electric field should point parallel or perpendicular to the area vector for each side, and (d) the electric field should be uniform along sides where it is parallel to the area vector.  Can you find a useful Gaussian surface for the infinite sheet?  Add a sketch of it to your previous diagram.</p>
+			</statement>
+			<hint>
+			<p>From the previous question, the electric field points away from the sheet, so you want a surface whose sides are either parallel or perpendicular to the sheet.</p>
+			</hint>
+			<answer>
+			<p>Any box will do, such as the cube of side length <m>L</m> drawn below (the box can actually have any cross-section, even a round one).  The box is centered on the <m>xy</m>-plane.</p>
+					<figure xml:id="x_fig_sheet2">
+    		<caption>An infinitely charged sheet with a Gaussian surface.</caption>
+    		<image source="InfiniteSheet2.png" width = "70%" ></image>
+		</figure>
+			</answer>
+		</exercise>
+				<exercise>
+		<statement>
+			<p>Find the net flux through the surface and the charge enclosed by the surface.</p>
+			</statement>
+			<answer>
+			<p>Only the top and bottom ends of the cube have nonzero flux, and both are positive, for a total flux of <m>\Phi_E = 2EL^2</m>, where <m>E</m> is the magnitude of the electric field a distance <m>L/2</m> from the sheet.  The total charge enclosed by the box is the charge density times the cross-sectional area <m>Q_{enc} = \sigma_o L^2</m>.</p>
+			</answer>
+		</exercise>
+				<exercise>
+		<statement>
+			<p>Use Gauss's Law to solve for the electric field due to the sheet.</p>
+			</statement>
+			<answer>
+			<p>
+			<me>\Phi_E = \frac{Q_{enc}}{\epsilon_0}</me>
+			<me>2EL^2 = \frac{\sigma_o L^2}{\epsilon_0}</me>
+			<me>E = \frac{\sigma_o}{2\epsilon_0}</me>
+			As discussed above, this electric field points upward above the sheet and downward below the sheet.
+			</p>
+			</answer>
 		</exercise>
 	</exercises>
 
