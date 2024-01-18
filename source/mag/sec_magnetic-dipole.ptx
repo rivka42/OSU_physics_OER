@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_magnetic-dipole" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Magnetic Dipoles</title>
-		
-      <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
-	
-	<p>WORDS</p>
-	
-		<definition>
-	<title>DEFINITION</title>
-	<statement>
-		<p>The <term>TERM</term></p>
-	</statement>
-</definition>
-	
-				
-
-
-
+  	<title>Magnetic Dipoles</title>
 	<exercises>
-	<title>Activities</title>
-			<exercise>
-			  <p>TEXT</p>
-			</exercise>
-		</exercises>
-
-  
-
+		<title>Warm-up Activity</title>
+		<exercise><p>Shown below are two bar magnets. Describe how they will interact with one another. What will happen to their motion?</p> </exercise>
+		<figure xml:id="bar_magnets">
+			<caption>Two bar magnets sit side by side, with their south poles facing each other.</caption>
+			<image source="mag/bars.png" width = "70%" ><description>Two bar magnets sit side by side, with their south poles facing each other.</description></image>
+		</figure>
+	</exercises>
+		
+    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 	
+	<p>Bar magnets have a physical property called the magnetic moment.</p>
+	
+	<definition>
+		<title>Magnetic Moment</title>
+		<statement>
+			<p>The <term>magnetic moment</term>, <m>\vec{\mu}</m>, points from the south to the north pole inside a bar magnet.</p>
+		</statement>
+	</definition>
+	
+	<exercises>
+		<title>Activities</title>
+		<exercise></exercise>
+	</exercises>
+
 </section>
 

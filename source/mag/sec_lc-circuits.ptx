@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_lc-circuits" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>LC Circuits</title>
+  	<title>LC Circuits</title>
 		
-      <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 	
 	<p>WORDS</p>
+	<!-- Do we want to discuss here the basic set up of the capacitor + inductor circuit? How to structure this section? -->
 	
-		<definition>
-	<title>DEFINITION</title>
-	<statement>
-		<p>The <term>TERM</term></p>
-	</statement>
-</definition>
-	
-				
-
+	<definition>
+		<title>DEFINITION</title>
+		<statement>
+			<p>The <term>TERM</term></p>
+		</statement>
+	</definition>
 
 	<exercises>
 	<title>Activities</title>
-			<exercise>
-			  <p>TEXT</p>
-			</exercise>
-		</exercises>
+		<exercise>
+			<p>TEXT</p>
+		</exercise>
+	</exercises>
 
   
 

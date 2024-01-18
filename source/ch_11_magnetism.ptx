@@ -3,39 +3,37 @@
 <chapter xml:id="ch_magnetism" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Magnetism</title>
 	<introduction>
-    <p> In this chapter you will learn how to model magnetism.</p>
+		<p> In this chapter you will learn how to model magnetism.</p>
+		
+		<p><alert>Learning Outcomes</alert></p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-	<p>
-		After successful completion of this chapter, you will be able to:
-		<ol>
-			<li>Determine the magnetic field at a given location due to a collection of line currents.</li>
-<li>Determine the magnetic force on a charged object with a given speed due to a magnetic field.</li>
-<li>Use forces and Newton’s 2nd Law to describe the motion of charges subject to magnetic forces.</li>
-<li>Distinguish between the magnetic force and the magnetic field.</li>
-<li>Apply Ampere’s Law to arbitrary loops.</li>
-<li>Use Ampere's Law to solve for the magnetic field in symmetric situations.</li>
-<li>Determine the magnetic potential energy of a magnetic dipole in a magnetic field.</li>
-<li>Determine the torque on a magnetic dipole due to a magnetic field.</li>
-<li>Use Faraday's Law to find the induced voltage due to changing magnetic fields.</li>
-<li>Describe the behavior of simple LC and LR circuits qualitatively and quantitatively.</li>
-
-		</ol>
-	</p>
-
+		<p>
+			After successful completion of this chapter, you will be able to:
+			<ol>
+				<li>Determine the magnetic field at a given location due to a collection of line currents.</li>
+				<li>Determine the magnetic force on a charged object with a given speed due to a magnetic field.</li>
+				<li>Use forces and Newton’s 2nd Law to describe the motion of charges subject to magnetic forces.</li>
+				<li>Distinguish between the magnetic force and the magnetic field.</li>
+				<li>Apply Ampere’s Law to arbitrary loops.</li>
+				<li>Use Ampere's Law to solve for the magnetic field in symmetric situations.</li>
+				<li>Determine the magnetic potential energy of a magnetic dipole in a magnetic field.</li>
+				<li>Determine the torque on a magnetic dipole due to a magnetic field.</li>
+				<li>Use Faraday's Law to find the induced voltage due to changing magnetic fields.</li>
+				<li>Describe the behavior of simple LC and LR circuits qualitatively and quantitatively.</li>
+			</ol>
+		</p>
 	</introduction>
 
-<xi:include href="./mag/sec_what-is-magnetism.ptx" /> 
-<xi:include href="./mag/sec_magnetic-field.ptx" />
-<xi:include href="./mag/sec_lorentz-force.ptx" />
-<xi:include href="./mag/sec_magnetic-dipole.ptx" />
-<xi:include href="./mag/sec_ampere.ptx" /> 
-<xi:include href="./mag/sec_magnetic-flux.ptx" />
-<xi:include href="./mag/sec_induced-current.ptx" />
-<xi:include href="./mag/sec_faraday.ptx" />
-<xi:include href="./mag/sec_inductors.ptx" />
-<xi:include href="./mag/sec_lc-circuits.ptx" />
+	<xi:include href="./mag/sec_what-is-magnetism.ptx" /> 
+	<xi:include href="./mag/sec_magnetic-field.ptx" />
+	<xi:include href="./mag/sec_lorentz-force.ptx" />
+	<xi:include href="./mag/sec_magnetic-dipole.ptx" />
+	<xi:include href="./mag/sec_ampere.ptx" /> 
+	<xi:include href="./mag/sec_magnetic-flux.ptx" />
+	<xi:include href="./mag/sec_induced-current.ptx" />
+	<xi:include href="./mag/sec_faraday.ptx" />
+	<xi:include href="./mag/sec_inductors.ptx" />
+	<xi:include href="./mag/sec_lc-circuits.ptx" />
 </chapter>
 
 

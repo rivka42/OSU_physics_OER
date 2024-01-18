@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_inductors" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Inductors</title>
+  	<title>Inductors</title>
 		
-      <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 	
 	<p>WORDS</p>
 	
-		<definition>
-	<title>DEFINITION</title>
-	<statement>
-		<p>The <term>TERM</term></p>
-	</statement>
-</definition>
+	<definition>
+		<title>Inductor</title>
+		<statement>
+			<p>An <term>inductor</term> is a solenoid that we use as a circuit element. The voltage across the inductor is given by <me>V_{inductor} = -L \frac{dI}{dt}</me>. Here, <m>L</m> is the inductance and it is measured in Henries (H). Inductors can also store energy given by <m>U_L = \frac{1}{2} L I^2</m></p>
+		</statement>
+	</definition>
 	
-				
-
-
-
 	<exercises>
-	<title>Activities</title>
-			<exercise>
-			  <p>TEXT</p>
-			</exercise>
-		</exercises>
+		<title>Activities</title>
+		<exercise>
+			<p>TEXT</p>
+		</exercise>
+	</exercises>
 
   
 

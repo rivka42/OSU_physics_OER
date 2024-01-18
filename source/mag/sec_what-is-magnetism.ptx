@@ -1,31 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_what-is-magnetism" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>What Is Magnetism?</title>
+  	<title>What Is Magnetism?</title>
+	<exercises>
+		<title>Warm-up Activities</title>
+		<exercise>
+			<p>Write down something you know about magnets or magnetism, and how you know it. Where do you use magnets in every day life?</p>
+		</exercise>
+	</exercises>
 		
-      <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+		
+    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 	
-	<p>WORDS</p>
+	<p>Magnets interact in lots of interesting ways with different types of materials. We will discuss mainly permanent magnets and ferromagnetic objects.</p>
 	
-		<definition>
-	<title>DEFINITION</title>
-	<statement>
-		<p>The <term>TERM</term></p>
-	</statement>
-</definition>
-	
-				
+	<definition>
+		<title>Permanent magnets</title>
+		<statement>
+			<p><term>Permanent magnets</term> are objects that have both attractive and repulsive interactions with each other. These objects have a ``north" and a ``south" pole that react to each other in different ways. Like poles repel and opposite poles attract.</p>
+		</statement>
+	</definition>
 
+	<definition>
+		<title>Ferromagnetic magnets</title>
+		<statement>
+			<p><term>Ferromagnetic</term> materials (like iron, cobalt, and nickel) tend to be attracted to permanent magnets.</p>
+		</statement>
+	</definition>
 
 	<exercises>
-	<title>Activities</title>
-			<exercise>
-			  <p>TEXT</p>
-			</exercise>
-		</exercises>
+		<title>Activities</title>
+		<exercise>
+			<p>Make a prediction about what you think happens if you cut a magnet in half? What happens if you cut that magnet in half? Then watch the following video to check your prediction.</p>
 
-  
+			<video youtube="q0d_SS-0Puk"><description>Cutting a magnet in half</description></video>
+		</exercise>
+	</exercises>
+	<references>
+        <biblio xml:id="ref_magnet_cut">
+            <p>"Magnetism: Cutting a magnet in half" <em>YouTube</em>, uploaded by QM Oxford, Februaryt 18, 2019, https://www.youtube.com/watch?v=q0d_SS-0Puk&amp;t=331s&amp;ab_channel=QMOxford</p>
+        </biblio>
+    </references>
 
-	
 </section>
 
