@@ -3,37 +3,21 @@
 <section xml:id="sec_linear-resistors" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>Linear Resistors</title>
 			
-	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+	<video youtube="74gJG1ct6Vc"><description>Introducing Ohm's Law.</description></video>
 
 	<definition>
+		<title>Ohm's Law</title>
+		<statement>
+			<p><term>Ohm's Law</term> tells us that the voltage across a resistor is equal to the current flowing through that resistor times the resistance: <me>V = IR</me></p>
+		</statement>
+	</definition>
+	
+		<assumption>
 		<title>Linear Resistors</title>
 		<statement>
-			<p>A <term>linear resistor</term> is a resistor which abides Ohm's Law.</p>
+			<p>A <term>linear resistor</term> or Ohmic resistor is one that has a resistance <m>R</m> that is constant (it is the same no matter what current is flowing through it).</p>
 		</statement>
-	</definition>
-
-	<p>When there is more than one resistor in a circuit, you can find the total resistance using the rules of series and parallel resistors.</p>
-
-	<definition>
-		<title>Adding Resistors in Series</title>
-		<statement>
-			<p>If <m>N</m> resistors are in series, the total resistance is: <me>R_{\mathrm{total}} = \sum_{i = 1}^{N} R_i</me></p>
-		</statement>
-	</definition>
-
-	<definition>
-		<title>Adding Resistors in Parallel</title>
-		<statement>
-			<p>If <m>N</m> resistors are in parallel, the total resistance is: <me>\frac{1}{R_{\mathrm{total}}} = \sum_{i = 1}^{N} \frac{1}{R_i}</me></p>
-		</statement>
-	</definition>
-
-	<exercises>
-		<title>Activities</title>
-		<exercise>
-			<p>Suppose you have a box of identical resistors, each rated for 6 Ohms. Describe an arrangement of these resistors that has an equivalent total resistance of 4 Ohms.</p>
-		</exercise>
-	</exercises>
-
+	</assumption>
+	
 </section>
 

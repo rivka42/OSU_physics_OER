@@ -5,19 +5,20 @@
 		
 	<video youtube="cw1TurDRc24"><description>Describing the voltage loop rule for circuits.</description></video>
 		
-	<p>Conservation of energy leads to the Loop Rule, one of Kirchoff's Laws:</p>
-	
+
 	<principle xml:id="loop-rule">
 		<title>The Loop Rule</title>
 		<statement>
 			<p>The <term>Loop Rule</term> says that the voltages around a complete loop add to zero. The Loop Rule is often written as: <me>\sum V = 0</me></p>
 		</statement>
 	</principle>
-
+	
+	<p>The Loop Rule is based on conservation of energy.</p>
+	
 	<exercises>
 		<title>Activities</title>
 		<exercise>
-			<p>Return back to the activities you did in the previous section (<xref ref="voltage_ex"/>) and reread your answers. Apply the loop rule to that circuit. How do your answers compare with what you now know about the loop rule?</p>
+			<p>Return back to <xref ref="x_voltage-predict"/> from the previous section. Apply the loop rule to that circuit. How do your answers compare with what you now know about the loop rule?</p>
 		</exercise>
 	</exercises>
 	

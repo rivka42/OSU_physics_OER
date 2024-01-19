@@ -3,23 +3,21 @@
 <section xml:id="sec_current" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>Electric Current</title>
 
-	<p>Within a circuit, there are tiny positive charges that are free to move.  You may have wondered what is actually happening to those charges.</p>
-
 	<exercises>
 		<title>Warm-up Activity</title>
 			<exercise>
-				<p>What do you think is happening to all of those tiny positive charges in a simple circuit with a battery and a light bulb?</p>
+				<p>Within a circuit, there are tiny positive charges that are free to move<fn>in fact, it is the negative charges that are free to move, but it is conventional to consider the positive charges instead</fn>.  What do you think is happening to all of those tiny positive charges in a simple circuit with a battery and a light bulb?</p>
 			</exercise>
 	</exercises>
 			
 	<video youtube="LquookvLyh8"><description>Introducing electric current.</description></video>
 		
-	<p>The voltages across different elements of the circuits produce tiny electric fields within the elements that will help move these tiny charges along, producing a current.</p>
+	<p>The voltages across different elements of a circuit produce electric fields within the elements that help move the charges along, producing a current.</p>
 	
 	<definition>
 		<title>Electric Current</title>
 		<statement>
-			<p><term>Electric Current</term> is the flow of electric charge and has units of Amps (<m>\mathrm{C}/\mathrm{s}</m>). It is defined as the rate of charge flowing past a given point in a circuit every second: <me>I = \frac{dq}{dt}</me></p>
+			<p><term>Electric Current</term> is the flow of electric charge and has units of Amps (<m>\mathrm{C}/\mathrm{s}</m>). It is defined as the rate of positive charge flowing past a given point in a circuit per unit time: <me>I = \frac{dq}{dt}</me></p>
 		</statement>
 	</definition>
 

@@ -9,11 +9,11 @@
 			<caption>A diagram of a complete circuit consisting of a square marked with three boxes (A, B, and C) on the left, upper, and right sides, respectively. A small dot below box A is marked as a starting point.</caption>
 			<image source="circ/PreCircuit.png" width = "50%" ><description>A diagram of a complete circuit consisting of a square marked with three boxes (A, B, and C) on the left, upper, and right sides, respectively. A small dot below box A is marked as a starting point.</description></image>
 		</figure>
-		<p>The image above shows a <term>complete circuit</term>: a continuous (unbroken) path of conductors that returns to where it starts.</p>
-		<p>This circuit has three elements connected by wires (straight lines). Each circuit element is represented with a box and a letter. You do not know what each element is.</p>
+		<p>The image above shows a <term>complete circuit</term>: a continuous (unbroken) path of electrical conductors.</p>
+		<p>This circuit has three elements (lettered boxes) connected by wires (straight lines).  You do not know what each element is.</p>
 
 		<exercise>
-			<p>Imagine that you are a tiny positive charge, initially located at the dot.  You begin moving clockwise through the circuit. As you pass through element A, you measure that electric potential (or voltage) increases by 5 V. As you pass through element B, you measure that the electric potential (or voltage) decreases by 3 V. How do you think the electric potential (or voltage) will change as you pass through element C? Explain your reasoning.</p>
+			<p>Imagine that you are a tiny positive charge, initially located at the dot.  You begin moving clockwise through the circuit. As you pass through element A, you measure that the electric potential increases by 5 V. As you pass through element B, you measure that the electric potential decreases by 3 V. How do you think the electric potential will change as you pass through element C? Explain your reasoning.</p>
 		</exercise>
 
 	<video youtube="zpsPTBHeFT4"><description>Introduction to voltage.</description></video>
@@ -23,14 +23,23 @@
 	<assumption xml:id="a_wire">
 	<title>Ideal Wires</title>
 	<statement>
-		<p>When you assume a wire is ideal, the voltage difference across it is always equal to zero.  Metal objects that are very good conductors (such as copper) can almost always be safely treated as ideal wires.</p>
+		<p>When you assume a wire is ideal, the voltage across it is always equal to zero.  Metal objects that are very good conductors (such as copper) can almost always be safely treated as ideal wires.</p>
+	</statement>
+</assumption>
+
+<p>Most circuits include at least one battery as a source of voltage.  You will typically assume batteries are <em>ideal</em>.</p>
+	
+	<assumption xml:id="a_battery">
+	<title>Ideal Batteries</title>
+	<statement>
+		<p>When you assume a battery is ideal, the voltage across it is always constant: it does not change no matter what circuit you connect it to or how you connect it.</p>
 	</statement>
 </assumption>
 	
-		<exercise>
+		<exercise xml:id="x_voltage-predict">
 			<p>How do you think the voltage across the light bulb compares to the voltage across the battery in the circuit from the end of the video?  Explain your reasoning.</p>
 		</exercise>
-		<exercise>
+		<exercise xml:id="x_voltage-sketch">
 			<p>Pretend you are a little positive charge starting at the bottom left corner of the circuit from the end of the video. Sketch the voltage you experience as a function of time as you travel once around the circuit. Explain your reasoning behind your sketch.  You will refer to this sketch in the upcoming sections.</p>
 		</exercise>
 	</exercises>

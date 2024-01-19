@@ -2,6 +2,8 @@
 
 <section xml:id="sec_voltage-diagrams" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>Voltage Diagrams</title>
+	
+	<p>In a previous section, in <xref ref="x_voltage-sketch"/>, you made a sketch of voltage as a function of time for a charge moving around a circuit.  The video below provides a more formal representation for this idea.</p>
 			
 	<video youtube="XiGibqSK35I"><description>Introducing voltage diagrams.</description></video>
 		

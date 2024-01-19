@@ -12,16 +12,9 @@
 		</statement>
 	</definition>
 
-	<definition>
-		<title>Ohm's Law</title>
-		<statement>
-			<p><term>Ohm's Law</term> tells us that the voltage across a resistor is equal to the current flowing through that resistor times the resistance: <me>V = IR</me></p>
-		</statement>
-	</definition>
-
 	<exercises>
 		<title>Activities</title>
-		<p>Shown below is a circuit with three resistors.</p>
+		<p>Shown below is a circuit with three resistors.  In a circuit diagram, a resistor is represented by a jagged line.</p>
 			<figure xml:id="circuit1">
 				<caption>A circuit diagram consisting of a battery and three resistors. Resistors 1 and 2 are in series, and are both in parallel with Resistor 3.</caption>
 				<image source="circ/circuit.png" width = "50%" ><description>A circuit diagram consisting of a battery and three resistors. Resistors 1 and 2 are in series, and are both in parallel with Resistor 3.</description></image>

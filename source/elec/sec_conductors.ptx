@@ -36,9 +36,13 @@
 	
 	<exercises>
 	<title>Conductor Activities</title>
-		<p>Consider the conductor shown at the end of the video above.</p>
+		<p>Consider the charged conductor shown below.</p>
+				<figure xml:id="conductor-img2">
+			<caption>A large positive charge to the left of a square conductor.</caption>
+			<image source="ConductorCharged.png" width = "50%" ><description>A long rod is positively charged and is held next to a circular conductor.</description></image>
+		</figure>
 		<exercise>
-			<p>What direction does the net electric field point at each point in the conductor?  Explain your reaosning.</p>
+			<p>What direction is the net electric field at each point in the conductor?  Explain your reasoning.</p>
 		</exercise>
 		<exercise>
 			<p>Do you think the potential difference between points A and B is positive, negative, or zero?  Explain your reasoning.</p>
@@ -47,7 +51,7 @@
 
 	<p>Conductors have many interesting properties, which are summarized in the video below.</p>
 
-	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+	<video youtube="WrlwwYQ0GIA"><description>Rules for how electric conductors behave.</description></video>
 
 	<references>
 		<biblio xml:id="ref_faraday_cage_mit">

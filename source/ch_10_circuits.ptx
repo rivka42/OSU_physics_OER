@@ -33,14 +33,13 @@
 	<xi:include href="./circ/sec_current.ptx" />
 	<xi:include href="./circ/sec_junction-rule.ptx" />
 			<xi:include href="./circ/sec_circuit-diagrams.ptx" /> 
-	<!--
 	<xi:include href="./circ/sec_resistance.ptx" />
 	<xi:include href="./circ/sec_linear-resistors.ptx" />
+	<xi:include href="./circ/sec_adding-resistors.ptx" />
 	<xi:include href="./circ/sec_power-in-circuits.ptx" />
 	<xi:include href="./circ/sec_capacitors-in-circuits.ptx" />
 	<xi:include href="./circ/sec_RC-circuits.ptx" />
 		<xi:include href="./circ/sec_circ-summary.ptx" /> 
-		-->
 </chapter>
 
 
