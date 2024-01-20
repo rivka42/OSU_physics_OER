@@ -2,8 +2,9 @@
 
 <section xml:id="sec_electric-potential" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Electric Potential</title>
-		
-    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+	<p>Just like a massive object will store gravitational potential energy, charged objects can store <term>Electric Potential Energy</term></p>
+	
+    <video youtube="rrGniazRAL0"><description>Electric Potential Energy</description></video>
 	
 	<definition>
 		<title>Electric Potential Energy</title>
@@ -14,22 +15,33 @@
 	
 	<p>This definition of potential energy intentionally mirrors the definition for electric force <m>\vec{F}^E = q_{\mathrm{test}}\vec{E}</m>.  The new quantity <m>\Delta V</m> is known as the electric potential difference and is based on a new scalar field <m>V</m>, known as the electric potential, which, like the electric field, is created by the presence of other electric charges.  The electric potential difference, which has units of Volts (V), is also sometimes called voltage.</p>
 	
-	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+	<video youtube="uBcTNFbuCZw"><description>Electric Potential Difference</description></video>
+
+	<p>A charged object will experience a potential difference as it moves through, or changes locations in, an eletric potential scalar field. If a test charge is near another charged particle, the test charge will experience an electric potential difference due to that point charge.</p>
 	
+	<video youtube="b-WvRdtB3U8"><description>Ekectruc Potential Difference for a Point Charge</description></video>
+
 	<definition>
 		<title>Electric Potential for a Point Charge</title>
 		<statement>
 			<p>The electric potential created by a single point charge <m>q</m> a distance <m>r</m> from that point charge can be written as <me>V = k \frac{q}{r}</me></p>
 		</statement>
 	</definition>
-	
-	<video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
-
 
 	<exercises>
 		<title>Activities</title>
 		<exercise>
 			<p>Express the units of the electric potential (Volts) in terms of other units you are familiar with.</p>
+		</exercise>
+		<exercise>
+			<p>Two point charges with charge <m>+q</m> are separated by a distance <m>d</m>. What is the change in electric potential energy if you move one of the charges towards the other a distance of <m>d/2</m>?</p>
+			<answer>
+				<p>First, we can set our reference point for our electric potential difference to be <m>\Delta V = 0</m> at a distance of <m>r = d</m>. This is saying that we are defining our zero point to be the initial separation distance of the two charges.</p>
+				<p>As one particle is moved from <m>r = d</m> to <m>r = d/2</m>, the electric potential difference at the new location is given by <me>\Delta V = \frac{kq}{d/2} = \frac{2kq}{d}</me>.</p>
+				<p>The change in electric potential energy is given by <me>\Delta U_E = q \Delta V</me>.</p>
+				<p>Plugging in what was found for our electric potential difference, we find that the change in electric potential energy for the point charge <m>+q</m> is <me>\Delta U_E = \frac{2kq^2}{d}</me></p>
+				<p>Does this make sense? We know that two like charges want to repel. Here we have two oppositely charged particles that want to push each other away. If we push one charge closeer to the other, that force is going to get bigger. So it requires more energy to push that charge inwards, towards the other charge. We should expect that the potential energy is higher as we move these two charges closer to each other.</p>
+			</answer>
 		</exercise>
 	</exercises>
 	
