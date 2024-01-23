@@ -1,0 +1,10 @@
+INFO    : PreTeXt project found in `/Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER`.
+WARNING : Project's CLI version could not be detected from `requirements.txt`.
+WARNING : Try `pretext init --refresh` to produce a compatible file.
+INFO    : Now preparing local server to preview your project directory `/Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER`.
+INFO    :   (Reminder: use `pretext deploy` to deploy your built project to a public
+INFO    :   GitHub Pages site that can be shared with readers who cannot access your
+INFO    :   personal computer.)
+INFO    : 
+INFO    : Server will soon be available at http://localhost:8128
+INFO    : Opening browser for target `web` at http://localhost:8128/output/web in 3 seconds
