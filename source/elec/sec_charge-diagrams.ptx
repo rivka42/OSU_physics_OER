@@ -24,9 +24,9 @@
 		<exercise xml:id="chg-dens">
 			<p>Make a charge diagram for each of the following charge densities.  What is the purpose of the various constants in these expressions?
 				<ul>
-					<li><m>\lambda(x) = \lambda_1 \frac{x}{L}</m> between <m>x=-L</m> and <m>x=+L</m></li>
-					<li><m>\lambda(y) = \frac{q_2}{y}</m> between <m>y=0</m> and <m>y=\infty</m></li>
-					<li><m>\sigma(s,\theta) = \sigma_3 \frac{s^2}{R^2}</m> between <m>s=0</m> and <m>s=R</m>, where <m>s</m> points radially outward from the origin</li>
+					<li><m>\lambda(x) = +\lambda_1 \frac{x}{L}</m> between <m>x=-L</m> and <m>x=+L</m></li>
+					<li><m>\lambda(y) = \frac{+q_2}{y}</m> between <m>y=0</m> and <m>y=\infty</m></li>
+					<li><m>\sigma(s,\theta) = +\sigma_3 \frac{s^2}{R^2}</m> between <m>s=0</m> and <m>s=R</m>, where <m>s</m> is the radial distance from the origin.</li>
 				</ul>
 			</p>
 		</exercise>

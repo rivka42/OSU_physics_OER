@@ -1,0 +1,10 @@
+INFO    : PreTeXt project found in `/Users/bobby/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER`.
+WARNING : Using CLI version 2.3.4 but project's `requirements.txt`
+WARNING : is configured to use 1.7.4. Consider either installing
+WARNING : CLI version 1.7.4 or running `pretext init --refresh`
+WARNING : to update `requirements.txt` to match 2.3.4.
+CRITICAL: StartTag: invalid element name, line 6, column 2
+INFO    : ------------------------
+CRITICAL: Failed to build.  Exiting...
+INFO    : While running pretext, the following errors occurred:
+

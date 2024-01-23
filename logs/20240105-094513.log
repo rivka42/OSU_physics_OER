@@ -1,0 +1,437 @@
+INFO    : PreTeXt project found in `/Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER`.
+WARNING : Using CLI version 2.0.1 but project's `requirements.txt`
+WARNING : is configured to use 1.7.4. Consider either installing
+WARNING : CLI version 1.7.4 or changing `requirements.txt` to match 2.0.1.
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/37W76pa8OQM/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-115.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/ETtr_0hLtro/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-116.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/wYKAWt9IBHk/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-117.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/jeeEzBA2tOw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-118.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/iGIbhqVyNRM/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-119.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/gRGL75Mk2hs/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-120.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/yOeQiBM6N-Y/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-121.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/sXcW08Afy-o/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-122.jpg...
+INFO    : downloading http://i.ytimg.com/vi/XzjpnavhG14/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-123.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/vey7PR0pO1o/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-124.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/fgxk4VEDoIQ/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-125.jpg...
+INFO    : downloading http://i.ytimg.com/vi/paHQ4o5TJGY/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-126.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/GoDt-logdS8/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-127.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-128.jpg...
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-129.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-130.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-131.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-132.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-133.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-134.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-135.jpg...
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-136.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-137.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-138.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-139.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-140.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-141.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-142.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-143.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-144.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-145.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-146.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : downloading YouTube thumbnails from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-youtube.xsl
+INFO    : downloading http://i.ytimg.com/vi/qMJK_sjdUCw/default.jpg as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/youtube/video-147.jpg...
+INFO    : YouTube thumbnail download complete
+INFO    : Generating generic video preview, aka "play button" into /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/play-button
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-142.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-130.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-139.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=vey7PR0pO1o" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-124.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=wYKAWt9IBHk" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-117.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=fgxk4VEDoIQ" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-125.png...
+INFO    : creating URL with content "https://www.youtube.com/watch?v=paHQ4o5TJGY" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-126.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=ETtr_0hLtro" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-116.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-134.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-144.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-147.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-146.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-137.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=gRGL75Mk2hs" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-120.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-132.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-145.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-140.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=sXcW08Afy-o" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-122.png...
+INFO    : creating URL with content "https://www.youtube.com/watch?v=XzjpnavhG14" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-123.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-128.png...
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-129.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=jeeEzBA2tOw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-118.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-138.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=iGIbhqVyNRM" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-119.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-135.png...
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-136.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=GoDt-logdS8" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-127.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=yOeQiBM6N-Y" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-121.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-141.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-133.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=37W76pa8OQM" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-115.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-143.png...
+INFO    : QR code creation complete
+INFO    : manufacturing QR codes from /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx for placement in /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/extract-qrcode.xsl
+INFO    : creating URL with content "https://www.youtube.com/watch?v=qMJK_sjdUCw" as /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets/qrcode/video-131.png...
+INFO    : QR code creation complete
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmplvumb6bj
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpisl3f3gk
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpmd51laxi
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpwbdvqqvk
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpxmzhwf5i
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpkc9g6iza
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpaw2ioy1h
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpqnv5hmq0
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmp8apkyl9v
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmp6grcb06m
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmp04wgqwdp
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmp1c8_e0d7
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpat9leblt
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmplrb0trlx
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpae_d26ra
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpzqgisdwa
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpx6cjj9tm
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpddhm0qfl
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpskwo4udr
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpd3z5yrl6
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpdrugco5v
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpzz_da9cj
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpzrxh4b33
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpdi7vu3ts
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmppm4tm_i0
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpl8oqdrjh
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmp5k8lkh0q
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpaqzu1_zh
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmp9wbyq1h7
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpvfj8w7vv
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmp0sy67n7g
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpqq8va4af
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpkllnd9lx
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpygxq1r__
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpajub8s50
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpny2qarlg
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpmf5d7qyj
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmp9e4iwepq
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmp9kn_z1q1
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpj7_67i9m
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpfc2h763p
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpq6ie6g65
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmphfpqi2m9
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpeikgy_76
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpwri4_ibc
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmp7bto976i
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpnh4svu6d
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmp4qewwnff
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpp_7yo4bp
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpgimpi_xk
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmp6_264cib
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpjfa2ah6l
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmplyprfix8
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpaxcsb3kb
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpamjffm_c
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmp8j1xfn6e
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpot568i9y
+INFO    : Removing temporary directory /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpx8hxi1du
+INFO    : Preparing to build into /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/output/web.
+INFO    : discovering source file's directory name: /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source
+INFO    : verifying and expanding input directory: /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/../generated-assets
+INFO    : input directory expanded to absolute path: /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets
+INFO    : verifying and expanding input directory: /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/../assets
+INFO    : input directory expanded to absolute path: /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/assets
+INFO    : Runestone Services (via PreTeXt repository): version 7.1.2
+INFO    : Runestone Services (using newer, via online CDN query): version 7.2.9
+INFO    : converting /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx to HTML in /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpu_7cksxv
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/pretext-html.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    :     * PTX:DEPRECATE: (2023-08-08) a "website" element with "address" and "name" children has changed.  Continue to use the "website" element as before, but replace the "address" and "name" children with a single "url" element, which is more flexible and reliable.  We will try to honor your intent, but you may prefer your own adjustments. (1 time)
+INFO    :     *              located within: "meta_frontmatter" (xml:id)
+INFO    :     * --------------
+INFO    : successful application of /Users/drenniks/.ptx/xsl/pretext-html.xsl
+INFO    : 
+Success! Run `pretext view` to see the results.
+

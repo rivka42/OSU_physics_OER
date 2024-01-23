@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_calculating-potential" xmlns:xi="http://www.w3.org/2001/XInclude">
-  	<title>Chop-Multiply-Add: Calculating Potential</title>
+  	<title>Chop-Multiply-Add: Calculating Electric Potential</title>
 
   	<exercises>
 		<title>Warm-Up Activity</title>
 		<exercise>
-			<p>Previously, you found the electric field at the center of a uniformly charged semicircle with total charge <m>Q</m> and radius <m>R</m>. What strategy do you think would help you find the electric potential at the center of this semicircle?</p>
+			<p>Previously, you determined the electric field at the center of a uniformly charged semicircle with total charge <m>Q</m> and radius <m>R</m>. What strategy do you think would help you determine the electric potential at the center of this semicircle?</p>
 		</exercise>
 	</exercises>
 		
@@ -29,7 +29,7 @@
 		<title>Activities</title>
 		<exercise>
 		<statement>
-			<p>Go back to the uniformly charged semicircle with total charge <m>Q</m> and radius <m>R</m>. Using the Chop-Multiply-Add method, set up an integral to determine the electric potential.</p>
+			<p>Go back to the uniformly charged semicircle with total charge <m>Q</m> and radius <m>R</m>. Using the Chop-Multiply-Add method, set up an integral to determine the electric potential at the center of the semicircle.</p>
 			</statement>
 			<solution>
 			 <video youtube="-du3ynxb63g"><description>Finding the electric potential for a uniformly charged semicircle.</description></video>

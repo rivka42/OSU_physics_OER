@@ -30,7 +30,7 @@
 	<definition>
 		<title>Conductors</title>
 		<statement>
-			<p>A <term>Conductor</term> is an objects that possesses free electric charges that move in response to an external electric field in such a way that the electric field everywhere inside the conductor is zero.</p>
+			<p>A <term>conductor</term> is an object that possesses free electric charges that move in response to an external electric field in such a way that the electric field everywhere inside the conductor is zero.</p>
 		</statement>
 	</definition>
 	
@@ -38,14 +38,14 @@
 	<title>Conductor Activities</title>
 		<p>Consider the charged conductor shown below.</p>
 				<figure xml:id="conductor-img2">
-			<caption>A large positive charge to the left of a square conductor.</caption>
+			<caption>A charged conductor and an external electric field.</caption>
 			<image source="ConductorCharged.png" width = "50%" ><description>A long rod is positively charged and is held next to a circular conductor.</description></image>
 		</figure>
 		<exercise>
-			<p>What direction is the net electric field at each point in the conductor?  Explain your reasoning.</p>
+			<p>What direction is the net electric field at each point inside the conductor?  Explain your reasoning.</p>
 		</exercise>
 		<exercise>
-			<p>Do you think the potential difference between points A and B is positive, negative, or zero?  Explain your reasoning.</p>
+			<p>Do you think the electric potential difference between points A and B is positive, negative, or zero?  Explain your reasoning.</p>
 		</exercise>
 	</exercises>
 

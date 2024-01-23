@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_e-to-v" xmlns:xi="http://www.w3.org/2001/XInclude">
-  	<title>Finding V from E</title>
+  	<title>Finding <m>\Delta</m>V from E</title>
 		
     <video youtube="MSyBade6-LI"><description>How to find the electric potential from the electric field.</description></video>
 	
 	<principle xml:id="e_to_v">
-		<title>Finding Potential Difference from Electric Field</title>
+		<title>Determining Electric Potential Difference from Electric Field</title>
 		<statement>
 			<p>The <term>electric potential difference</term> can be calculated using the equation <me>\Delta V = - \int_{r_i}^{r_f} \vec{E} \cdot d\vec{r}</me>. </p>
 		</statement>
@@ -15,7 +15,7 @@
 	<exercises>
 		<title>Activities</title>
 		<exercise>
-			<p>If you know the electric field and you want to find the electric potential difference, you can use the above equation. There is a negative sign in front of the integral in the above equation. What do you think this negative sign means physically?</p>
+			<p>If you know the electric field and you want to determine the electric potential difference, you can use the above equation. There is a negative sign in front of the integral in the above equation. What do you think this negative sign means physically?</p>
 		</exercise>
 	</exercises>
 

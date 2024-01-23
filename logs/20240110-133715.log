@@ -1,0 +1,6 @@
+INFO    : PreTeXt project found in `/Users/bobby/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER`.
+CRITICAL: StartTag: invalid element name, line 6, column 2
+INFO    : ------------------------
+CRITICAL: Failed to build.  Exiting...
+INFO    : While running pretext, the following errors occurred:
+

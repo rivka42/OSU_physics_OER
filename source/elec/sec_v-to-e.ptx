@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_v-to-e" xmlns:xi="http://www.w3.org/2001/XInclude">
-	<title>Finding E from V</title>
+	<title>Determining E from V</title>
 
 	<exercises>
 		<title>Warm-Up Activity</title>
 		<exercise>
-			<p>Given the equation you learned about in the previous section, <xref ref="e_to_v"/>, suppose you instead knew the electric potential (<m>V</m>), and you wanted to figure out the electric field (<m>E</m>). What mathematical operation could you perform on <m>V</m> to get <m>E</m>?</p>
+			<p>Given the equation you learned about in the previous section, <xref ref="e_to_v"/>, suppose you instead knew the electric potential (<m>V</m>), and you wanted to figure out the electric field (<m>\vec{E}</m>). What mathematical operation could you perform on <m>V</m> to get <m>\vec{E}</m>?</p>
 		</exercise>
 	</exercises>
 		
     <video youtube="Fm2REl8GFXk"><description>How to find the electric field from the electric potential.</description></video>
 	
-	<p>Now you have seen how we can go back and forth between <m>V</m> and <m>E</m>. To find <m>V</m> from <m>E</m>, you can take a derivative!</p>
+	<p>Now you have seen how we can go back and forth between <m>V</m> and <m>\vec{E}</m>. To find <m>V</m> from <m>\vec{E}</m>, you can take a derivative!</p>
 	
 	<definition>
-		<title>Electric Field: E from V</title>
+		<title>Electric Field: \vec{E} from V</title>
 		<statement>
-			<p>The <term>electric field</term> can be directly calculated given a known electric potential using the equation <me>\vec{E} = -\vec{\nabla}V</me></p>
+			<p>The <term>electric field</term> can be directly calculated given a known electric potential using the equation <me>\vec{\mathit{E}} = -\vec{\nabla}\mathit{V}</me></p>
 		</statement>
 	</definition>
 
