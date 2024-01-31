@@ -3,12 +3,16 @@
 <section xml:id="sec_capacitors-in-circuits" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>Capacitors in Circuits: Series and Parallel</title>
 
-	<p>We learned about capacitors in Section <xref ref="sec_capacitors"/>. Capacitors can also be elements within a ciruit!</p>
+	<p>You learned about capacitors in Section <xref ref="sec_capacitors"/>. Capacitors can also be elements within a circuit!</p>
 			
 	<video youtube="jlTt8b-2ZQc"><description>Setting up capacitors in series and parallel circuits.</description></video>
 			
 	<p>Adding capacitors in series and in parallel is opposite to how we add resistors.</p>
 
+	<figure xml:id="CD_C">
+			<caption>The circuit diagram representation for a capacitor.</caption>
+			<image source="CD_C.png" width = "10%" ><description>Two parallel lines of equal length representing a capacitor.</description></image>
+		</figure>
 
 	<exercises>
 		<title>Activities</title>
@@ -29,14 +33,14 @@
 		<definition>
 		<title>Adding Capacitors in Series</title>
 		<statement>
-			<p>If <m>N</m> capacitors are in series, the total capacitance is: <me>\frac{1}{C_{\mathrm{total}}} = \sum_{i = 1}^{N} \frac{1}{C_i}</me></p>
+			<p>If <m>N</m> capacitors are in series, the total capacitance is: <me>\frac{1}{C_{\mathrm{total}}} = \sum_{i = 1}^{N} \frac{1}{C_i} = \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3} + \dots</me></p>
 		</statement>
 	</definition>
 
 	<definition>
 		<title>Adding Capacitors in Parallel</title>
 		<statement>
-			<p>If <m>N</m> capacitors are in parallel, the total capacitance is: <me>C_{\mathrm{total}} = \sum_{i = 1}^{N} C_i</me></p>
+			<p>If <m>N</m> capacitors are in parallel, the total capacitance is: <me>C_{\mathrm{total}} = \sum_{i = 1}^{N} C_i = C_1 + C_2 + C_3 + \dots</me></p>
 		</statement>
 	</definition>
 	

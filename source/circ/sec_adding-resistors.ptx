@@ -10,21 +10,21 @@
 	<principle>
 		<title>Adding Resistors in Series</title>
 		<statement>
-			<p>If <m>N</m> resistors are in series, the total resistance is: <me>R_{\mathrm{total}} = \sum_{i = 1}^{N} R_i</me></p>
+			<p>If <m>N</m> resistors are in series, the total resistance is: <me>R_{\mathrm{total}} = \sum_{i = 1}^{N} R_i = R_1 + R_2 + R_3 + \dots</me></p>
 		</statement>
 	</principle>
 
 	<principle>
 		<title>Adding Resistors in Parallel</title>
 		<statement>
-			<p>If <m>N</m> resistors are in parallel, the total resistance is: <me>\frac{1}{R_{\mathrm{total}}} = \sum_{i = 1}^{N} \frac{1}{R_i}</me></p>
+			<p>If <m>N</m> resistors are in parallel, the total resistance is: <me>\frac{1}{R_{\mathrm{total}}} = \sum_{i = 1}^{N} \frac{1}{R_i} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \dots</me></p>
 		</statement>
 	</principle>
 
 	<exercises>
 		<title>Activities</title>
 		<exercise>
-			<p>Suppose you have a box of identical resistors, each rated for 6 Ohms. Describe an arrangement of these resistors that has an equivalent total resistance of 4 Ohms.</p>
+			<p>Suppose you have a box of identical resistors, each rated for 6 <m>\Omega</m>. Describe an arrangement of these resistors that has an equivalent total resistance of 4 <m>\Omega</m>.</p>
 		</exercise>
 	</exercises>
 

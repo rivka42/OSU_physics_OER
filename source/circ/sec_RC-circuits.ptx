@@ -2,15 +2,33 @@
 
 <section xml:id="sec_rc-circuits" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>RC Circuits</title>
-			
-	<video youtube="EuU7Me6dvzg"><description>How to figure out the charge on a charging capacitor.</description></video>
-			
-	<p>An RC Circuit is a circuit that involves both resistors and capacitors.</p>
-
+	
 	<exercises>
-		<title>Activities</title>
+					<title>Activities</title>
+					<exercise>
+					<p>What is the derivative of the function <m>f(t) = Ae^{-\omega t}</m> with respect to <m>t</m>?</p>
+					</exercise>
+					<p>The circuit below contains a battery, a bulb, a switch, and a capacitor. The capacitor is initially uncharged and the voltage of the battery is <m>V</m>.</p>
+					
+					<figure xml:id="RC1">
+			<caption>A circuit diagram with both a light bulb and a capacitor.</caption>
+			<image source="RC1.png" width = "50%" ><description>A circuit diagram with a battery, open switch, light bulb, and capacitor.</description></image>
+		</figure>
+		
+					<exercise>
+					<p>Just after the switch is closed: what is the absolute value of the potential difference across the capacitor?  Explain your reasoning.</p>
+					</exercise>
+					
+										<exercise>
+					<p>A long time after the switch is closed: what is the absolute value of the potential difference across the capacitor?  Explain your reasoning.</p>
+					</exercise>
+					
+	<video youtube="EuU7Me6dvzg"><description>How to figure out the charge on a charging capacitor.</description></video>
+	
+	<p>A charging capacitor has a non-constant current as a function of time given by <me>I(t) = \frac{V_{bat}}{R}e^{-t/RC}</me></p>
+			
 		<exercise>
-			<p>TEXT</p>
+			<p>Given the result above, sketch a graph of the current in a capacitor while it is charging.  Describe how the graph would change if you were to increase the resistance of the circuit. Give a physical explanation for why you observe this change.</p>
 		</exercise>
 	</exercises>
 

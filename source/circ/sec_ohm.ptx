@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_linear-resistors" xmlns:xi="http://www.w3.org/2001/XInclude">
-	<title>Linear Resistors</title>
+<section xml:id="sec_ohm" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Ohm's Law</title>
 			
 	<video youtube="74gJG1ct6Vc"><description>Introducing Ohm's Law.</description></video>
 
@@ -18,6 +18,11 @@
 			<p>A <term>linear resistor</term> or Ohmic resistor is one that has a resistance <m>R</m> that is constant (it is the same no matter what current is flowing through it).</p>
 		</statement>
 	</assumption>
+	
+	<figure xml:id="CD_R">
+			<caption>The circuit diagram representation for an Ohmic resistor.</caption>
+			<image source="CD_R.png" width = "10%" ><description>A jagged line representing an Ohmic resistor.</description></image>
+		</figure>
 	
 		<exercises>
 		<title>Activities</title>
