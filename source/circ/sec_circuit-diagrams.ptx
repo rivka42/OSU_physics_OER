@@ -10,9 +10,9 @@
 		</statement>
 	</lemma>
 	
-	<figure xml:id="CD_All">
+	<figure xml:id="CD_First">
 			<caption>Example circuit elements in circuit diagram notation.</caption>
-			<image source="CD_All.png" width = "100%" ><description>Five circuit elements, from left to right: a wire (a straight line), a battery (two horizontal lines of different length), a light bulb (a circle around an ellipse), a junction (a horizontal line meeting a vertical line at the middle), and a switch (a diagonal line opposite an open circle).</description></image>
+			<image source="CD_First.png" width = "100%" ><description>Five circuit elements, from left to right: a wire (a straight line), a battery (two horizontal lines of different length), a light bulb (a circle around an ellipse), a junction (a horizontal line meeting a vertical line at the middle), and a switch (a diagonal line opposite an open circle).</description></image>
 		</figure>
 	
 

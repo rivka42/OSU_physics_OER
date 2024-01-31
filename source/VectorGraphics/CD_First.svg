@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="816.10455"
+   width="568.3653"
    height="144.7007"
-   viewBox="0 0 215.92766 38.285394"
+   viewBox="0 0 150.37998 38.285394"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -42,8 +42,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="177.65757"
-     inkscape:cy="92.038155"
+     inkscape:cx="355.44442"
+     inkscape:cy="92.038156"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -77,22 +77,22 @@
     <text
        xml:space="preserve"
        style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
-       x="-22.103672"
+       x="-22.10367"
        y="150.23119"
        id="text843-4"><tspan
          sodipodi:role="line"
-         x="-22.103672"
+         x="-22.10367"
          y="150.23119"
          style="stroke-width:0.26458332"
          id="tspan865">Battery</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
-       x="10.540979"
+       x="10.540981"
        y="150.40964"
        id="text843-4-0"><tspan
          sodipodi:role="line"
-         x="10.540979"
+         x="10.540981"
          y="150.40964"
          style="stroke-width:0.26458332"
          id="tspan865-3">Light Bulb</tspan></text>
@@ -110,22 +110,22 @@
     <text
        xml:space="preserve"
        style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
-       x="50.671131"
+       x="50.671139"
        y="150.22878"
        id="text843-4-6"><tspan
          sodipodi:role="line"
-         x="50.671131"
+         x="50.671139"
          y="150.22878"
          style="stroke-width:0.26458332"
          id="tspan865-6">Junction</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
-       x="86.014328"
+       x="86.014336"
        y="150.40964"
        id="text843-4-8"><tspan
          sodipodi:role="line"
-         x="86.014328"
+         x="86.014336"
          y="150.40964"
          style="stroke-width:0.26458332"
          id="tspan865-2">Switch</tspan></text>
@@ -284,70 +284,5 @@
            r="1.5766971" />
       </g>
     </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 125.29662,139.44328 V 113.51813"
-       id="path4580-6-2"
-       inkscape:connector-curvature="0" />
-    <g
-       id="g916"
-       transform="translate(139.49758,-2.1381562)">
-      <rect
-         y="120.37023"
-         x="-20.224136"
-         height="17.367678"
-         width="11.826676"
-         id="rect912"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.90535402;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path910"
-         d="m -14.277389,119.96121 -3.898023,2.25052 7.849071,4.53167 -7.975124,4.60444 7.826348,4.51854 -4.029054,2.32618"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
-       x="145.15689"
-       y="150.23119"
-       id="text843-4-7"><tspan
-         sodipodi:role="line"
-         x="145.15689"
-         y="150.23119"
-         style="stroke-width:0.26458332"
-         id="tspan865-40">Capacitor</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 155.85942,139.44328 V 113.51813"
-       id="path4580-6-0"
-       inkscape:connector-curvature="0" />
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.26086569;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4597-6"
-       width="12.294398"
-       height="4.4706903"
-       x="149.71222"
-       y="124.26781" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 149.71222,124.26782 h 12.2944"
-       id="path4599-8"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 149.71222,128.50118 h 12.2944"
-       id="path4599-1"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
-       x="117.39391"
-       y="150.23119"
-       id="text843-4-4"><tspan
-         sodipodi:role="line"
-         x="117.39391"
-         y="150.23119"
-         style="stroke-width:0.26458332"
-         id="tspan865-4">Resistor</tspan></text>
   </g>
 </svg>
