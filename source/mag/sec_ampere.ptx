@@ -2,33 +2,23 @@
 
 <section xml:id="sec_ampere" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Ampere's Law</title>
-	<exercises>
-		<title>Warm-up Activity</title>
-		<exercise>
-			<p>Shown below is a bar magnet and a loop with current that is running clockwise when viewed from above. Describe what you expect to happen to the bar magnet and the loop as time progresses.</p>
-			<figure xml:id="loop_magnet">
-				<caption>A bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</caption>
-				<image source="mag/loop.png" width = "70%" ><description>A bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</description></image>
-			</figure>
-		</exercise>
-	</exercises>
 		
     <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 	
 	<definition>
 		<title>Ampere's Law</title>
 		<statement>
-			<p><term>Ampere's Law</term> says that the net magnetic field around a closed curved is proportional to the current passing through the region bounded by the curve: <me>\bigcirc \!\!\!\!\!\!\!\!\int_S \vec{B}\cdot d\vec{s} = \mu_o I_{enclosed}</me></p>
+			<p><term>Ampere's Law</term> relates the net magnetic field around a closed curved to the current passing through the region bounded by the curve: <me>\bigcirc \!\!\!\!\!\!\!\!\int_S \vec{B}\cdot d\vec{s} = \mu_o I_{enclosed}</me></p>
 		</statement>
 	</definition>
 	
 	<exercises>
 		<title>Activities</title>
 		<exercise>
-			<p>Shown below are three different cases, each with two identical current-carrying wires and a circular Amperian loop.In which case is the net magnetic field around the loop the largest?</p>
-			<figure xml:id="ampere">
+			<p>Shown below are three different cases, each with two identical current-carrying wires and a circular Amperian loop.  In which case is the net magnetic field around the loop the largest?</p>
+			<figure xml:id="x_fig_ampere">
 				<caption>Three cases are shown depicting an Amperian loop (dashed line) and different wires.</caption>
-				<image source="mag/Ampo.png" width = "90%" ><description>Three boxes sit side by side. The lefthand box is case A, where one wire sits inside a closed Amperian loop and another wire sits outside the loop. The middle box shows case B, where both wires sit outside the loop. The righthand box shows case C where both wires sit inside the loop.</description></image>
+				<image source="mag/Ampo.png" width = "100%" ><description>Three boxes sit side by side. The lefthand box is case A, where one wire sits inside a closed Amperian loop and another wire sits outside the loop. The middle box shows case B, where both wires sit outside the loop. The righthand box shows case C where both wires sit inside the loop.</description></image>
 			</figure>
 		</exercise>
 	</exercises>

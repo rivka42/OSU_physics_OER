@@ -5,20 +5,30 @@
 		
     <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 	
-	<p>WORDS</p>
+	<p>Based on what you discovered in the previous section, you can define the force that a magnetic field exerts on a moving charge using the Lorentz Force Law</p>
 	
 	<definition>
 		<title>Lorentz Force</title>
 		<statement>
-			<p>The <term>Lorentz Force</term> is defined as <me>\vec{F} = q\vec{v}\times\vec{B}</me>, where <m>\vec{B}</m> is the magnetic field, <m>q</m> is the charge experiencing the force, and <m>\vec{v}</m> is the velocity of the charge.</p> 
+			<p>The <term>Lorentz Force</term> is defined as <me>\vec{F} = q\vec{v}\times\vec{B}</me>, where <m>\vec{B}</m> is the magnetic field, <m>q</m> is the charge experiencing the force, and <m>\vec{v}</m> is the velocity of the charge experiencing the force.</p> 
 			<!-- include l * (I x B) ?-->
 		</statement>
 	</definition>
 
 	<exercises>
 		<title>Activities</title>
+		<p>In <xref ref="x_magnetic-field"/>, you found the magnetic field due to a long, straight current.  Assume a small positive charge is currently located at each of the four marked points, moving downward with known speed <m>v</m>.</p>
 		<exercise>
-			<p>TEXT</p>
+			<p>For each point, draw a vector representing the magnetic force on the moving charge.</p>
+		</exercise>
+		<exercise>
+			<p>Determine the magnitude of the force in each case.</p>
+		</exercise>
+		<exercise>
+			<p>How would your answers change if the charges were moving to the right?</p>
+		</exercise>
+		<exercise>
+			<p>How would your answers change if the moving charges were negative?</p>
 		</exercise>
 	</exercises>
 

@@ -24,21 +24,21 @@
 	<definition>
 		<title>Ferromagnetic magnets</title>
 		<statement>
-			<p><term>Ferromagnetic</term> materials (like iron, cobalt, and nickel) tend to be attracted to permanent magnets.</p>
+			<p><term>Ferromagnetic</term> materials (like iron, cobalt, and nickel) tend to be attracted to permanent magnets<fn>ferromagmetic materials can become permanent magnets through a process known as magnetization</fn>.</p>
 		</statement>
 	</definition>
 
 	<exercises>
 		<title>Activities</title>
 		<exercise>
-			<p>Make a prediction about what you think happens if you cut a magnet in half? What happens if you cut that magnet in half? Then watch the following video to check your prediction.</p>
+			<p>Make a prediction about what you think happens if you cut a magnet in half.  Then watch the following video to check your prediction.</p>
 
 			<video youtube="q0d_SS-0Puk"><description>Cutting a magnet in half</description></video>
 		</exercise>
 	</exercises>
 	<references>
         <biblio xml:id="ref_magnet_cut">
-            <p>"Magnetism: Cutting a magnet in half" <em>YouTube</em>, uploaded by QM Oxford, Februaryt 18, 2019, https://www.youtube.com/watch?v=q0d_SS-0Puk&amp;t=331s&amp;ab_channel=QMOxford</p>
+            <p>"Magnetism: Cutting a magnet in half" <em>YouTube</em>, uploaded by QM Oxford, February, 18, 2019, https://www.youtube.com/watch?v=q0d_SS-0Puk&amp;t=331s&amp;ab_channel=QMOxford</p>
         </biblio>
     </references>
 

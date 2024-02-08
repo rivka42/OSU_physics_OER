@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_biot-savart" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>The Biot-Savart Law</title>
+		
+		<!--NEED VIDEO
+    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+		-->
+	
+	<p>WE SHOULD FIND OR MAKE A FIGURE FOR THE VERY LAST QUESTION</p>
+
+	<definition>
+		<title>Magnetic field for a moving electric charge</title>
+		<statement>
+			<p>The <term>magnetic field</term> created by a moving electric charge is given by <me>\vec{B} = \frac{\mu_o}{4\pi}\frac{q\vec{v} \times \hat{r}}{r^2}</me> where <m>\vec{v}</m> is the velocity of the moving charge and <m>\vec{r}</m> is the distance from the moving charge to the position where you are finding the magnetic field.</p>
+		</statement>
+	</definition>	
+	
+	<exercises>
+		<title>Activities</title>
+		<p>A proton moves to the right with speed <m>v = 10^3</m> m/s.  Consider the following three points:</p>
+		<ol>
+		<li><p>2 m directly in front of the charge</p></li>
+	  <li><p>2 m directly above the charge</p></li>
+		<li><p>2 m in front of and 2 m above the charge</p></li>
+		</ol>
+		<exercise>
+		<title>Explanation</title>
+		<statement>
+			<p>Predict the direction of the magnetic field at each point.  Explain your reasoning.</p>
+			</statement>
+			<answer>
+<ol>
+		<li><p>the cross product is zero, so the magnetic field is also zero</p></li>
+	  <li><p>out of the screen</p></li>
+		<li><p>out of the screen</p></li>
+		</ol>
+			</answer>
+		</exercise>
+				<exercise>
+		<title>Calculation</title>
+		<statement>
+			<p>Determine the magnitude of the magnetic field at each of the marked points.  As usual, express your answers both symbolically and numerically.</p>
+			</statement>
+			<answer>
+<ol>
+		<li><m>B = 0</m></li>
+	  <li><m>B = \frac{\mu_o qv}{4\pi r^2} = 4 \times 10^{-24}</m> T</li>
+		<li><m>B = \frac{\mu_o qv}{4\pi r^2}\frac{\sqrt{2}}{2} = 1.4 \times 10^{-24}</m> T</li>
+		</ol>
+			</answer>
+		</exercise>
+						<exercise>
+		<title>Sensemaking: Covariational Reasoning</title>
+		<statement>
+			<p>How does the strength of the magnetic field change as you get farther away from the charge?  Does it matter which direction you get farther away?  Explain your reasoning.</p>
+			</statement>
+			<answer>
+			<p>The magnetic field always gets smaller as you get farther away, but because of the cross product it also gets smaller as a result of moving in the direction the charge is moving.</p>
+			</answer>
+		</exercise>
+						<exercise>
+		<title>Representation: Vector Field Map</title>
+		<statement>
+			<p>Use your answers to the above questions to sketch a magnetic field vector map for the region around the charge.  Your map should highlight all the major features of the magnetic field you have identified so far.</p>
+			</statement>
+			<answer>
+			</answer>
+		</exercise>	
+	</exercises>
+	
+</section>
+

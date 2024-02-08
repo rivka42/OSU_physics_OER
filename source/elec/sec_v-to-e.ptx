@@ -15,7 +15,7 @@
 	<p>Now you have seen how we can go back and forth between <m>V</m> and <m>\vec{E}</m>. To find <m>V</m> from <m>\vec{E}</m>, you can take a derivative!</p>
 	
 	<definition>
-		<title>Electric Field: \vec{E} from V</title>
+		<title>Electric Field: <m>\vec{E}</m> from V</title>
 		<statement>
 			<p>The <term>electric field</term> can be directly calculated given a known electric potential using the equation <me>\vec{\mathit{E}} = -\vec{\nabla}\mathit{V}</me></p>
 		</statement>

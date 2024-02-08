@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_magnetic-force" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>Magnetic Force</title>
+
+	<exercises>
+		<title>Activities</title>
+		<p>Use this <url href="https://ophysics.com/em7.html" text="simulation"/> as you work on the following activities.</p>
+		<exercise>
+					<ol marker="A">
+		<li><p>To begin, describe the direction of the magnetic field shown in the simulation.</p></li>
+	  <li><p>Without changing any of the initial settings, press “start” and observe the path of the charged particle.  Use your observation to describe the direction of the acceleration that the charged particle experiences while in the region of the magnetic field.</p></li>
+		<li><p>How is the direction of the force that the magnetic field acts on the charged particle related to the direction of the acceleration?  Explain how you know.</p></li>
+		<li><p>Use your knowledge about circular motion to write a symbolic expression for the magnetic force, then solve this expression for the radius of the charged particle’s path.</p></li>
+	  <li><p>Adjust the settings of the simulation to investigate how the radius depends on each of the four changeable properties.  Record your answers in a table.</p></li>
+		<li><p>Use your answers to the previous question to investigate how the magnetic force on the charged particle depends on each of the four changeable properties.</p></li>
+		<li><p>For each dependence that you identified above, do you think the magnetic force depends on that quantity in a linear or a non-linear way?  Explain how you can tell.</p></li>
+		</ol>
+		</exercise>
+	</exercises>
+
+</section>
+

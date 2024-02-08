@@ -3,10 +3,11 @@
 <section xml:id="sec_magnetic-flux" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Magnetic Flux</title>
 
-	<p>Just like we learned about in <xref ref="sec_flux"/>, magnetic flux behaves in a very similar way.</p>
+	<p>Just as you learned about in <xref ref="sec_flux"/>, magnetic flux can be calculated in the same way.</p>
 		
+		<!--
     <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
-	
+	-->
 	
 	<definition>
 		<title>Magnetic flux</title>
@@ -15,12 +16,14 @@
 		</statement>
 	</definition>
 
+<!--
 	<exercises>
 		<title>Activities</title>
 		<exercise>
 			<p>TEXT</p>
 		</exercise>
 	</exercises>
+-->
 
 </section>
 

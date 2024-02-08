@@ -13,19 +13,40 @@
 		
     <video youtube="UVDOts2nYUw"><description>Introducing magnetic dipole moments.</description></video>
 	
-	<p>Bar magnets have a physical property called the magnetic moment.</p>
+	<p>Bar magnets have a physical property called the magnetic dipole moment.</p>
 	
 	<definition>
-		<title>Magnetic Moment</title>
+		<title>Magnetic Dipole Moment</title>
 		<statement>
-			<p>The <term>magnetic moment</term>, <m>\vec{\mu}</m>, points from the south to the north pole inside a bar magnet.</p>
+			<p>The <term>magnetic dipole moment</term>, <m>\vec{\mu}</m>, points from the south to the north pole inside a bar magnet.</p>
 		</statement>
 	</definition>
 	
+	<p>The magnetic field around a simple magnetic dipole has the form shown below.</p>
+	
+	<figure xml:id="fig_mag-field-lines">
+    		<caption>Magnetic Field Lines of a bar magnet.</caption>
+    		<image source="MagneticDipoleLines.jpg" width = "100%" ></image>
+				<description>A bar magnet with a north and south pole. The field lines come out of the north pole and curve out and around to the south pole.</description>
+		</figure>
+	
 	<exercises>
 		<title>Activities</title>
-		<exercise></exercise>
+		<p>The figure below shows a bar magnet and a loop with current that is running clockwise when viewed from above.</p>
+		<figure xml:id="loop_magnet">
+				<caption>A bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</caption>
+				<image source="mag/loop.png" width = "70%" ><description>A bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</description></image>
+			</figure>
+		<exercise>
+		<p>Describe what you expect to happen to the bar magnet and the loop as time progresses.</p>
+		</exercise>
 	</exercises>
+
+		<references>
+        <biblio xml:id="ref_magneticfieldlines">
+            <p>"Magnetic Field Lines" modified from <em>OpenStax</em>, https://openstax.org/books/university-physics-volume-2/pages/11-2-magnetic-fields-and-lines</p>
+        </biblio>
+    </references>
 
 </section>
 

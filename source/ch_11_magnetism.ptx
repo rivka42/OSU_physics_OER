@@ -26,6 +26,8 @@
 
 	<xi:include href="./mag/sec_what-is-magnetism.ptx" /> 
 	<xi:include href="./mag/sec_magnetic-field.ptx" />
+	<xi:include href="./mag/sec_biot-savart.ptx" />
+	<xi:include href="./mag/sec_magnetic-force.ptx" />
 	<xi:include href="./mag/sec_lorentz-force.ptx" />
 	<xi:include href="./mag/sec_magnetic-dipole.ptx" />
 	<xi:include href="./mag/sec_ampere.ptx" /> 
@@ -34,6 +36,7 @@
 	<xi:include href="./mag/sec_faraday.ptx" />
 	<xi:include href="./mag/sec_inductors.ptx" />
 	<xi:include href="./mag/sec_lc-circuits.ptx" />
+	<xi:include href="./mag/sec_mag-summary.ptx" />
 </chapter>
 
 
