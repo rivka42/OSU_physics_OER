@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_rc-circuits" xmlns:xi="http://www.w3.org/2001/XInclude">
-	<title>RC Circuits</title>
+	<title>RC Charging Circuits</title>
 	
 	<exercises>
 					<title>Activities</title>
@@ -16,7 +16,7 @@
 		</figure>
 		
 					<exercise>
-					<p>Just after the switch is closed: what is the absolute value of the potential difference across the capacitor?  Explain your reasoning.</p>
+					<p>Just after the switch is closed, what is the absolute value of the potential difference across the capacitor?  Explain your reasoning.</p>
 					</exercise>
 					
 										<exercise>
@@ -25,10 +25,10 @@
 					
 	<video youtube="EuU7Me6dvzg"><description>How to figure out the charge on a charging capacitor.</description></video>
 	
-	<p>A charging capacitor has a non-constant current as a function of time given by <me>I(t) = \frac{V_{bat}}{R}e^{-t/RC}</me></p>
+	<p>When the capacitor is charging, the current through the resistor as a function of time is given by <me>I(t) = \frac{V_{bat}}{R}e^{-t/RC}</me></p>
 			
 		<exercise>
-			<p>Given the result above, sketch a graph of the current in a capacitor while it is charging.  Describe how the graph would change if you were to increase the resistance of the circuit. Give a physical explanation for why you observe this change.</p>
+			<p>Given the result above, sketch a graph of the current through the resistor when the capacitor is charging.  Describe how the graph would change if you were to increase the resistance of the circuit. Give a physical explanation for why you observe this change.</p>
 		</exercise>
 	</exercises>
 

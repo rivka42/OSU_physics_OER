@@ -3,7 +3,7 @@
 <section xml:id="sec_faraday" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Faraday's Law</title>
 		
-    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+    <video youtube="8LV-H9LZN8I"><description>Introducing Faraday's Law.</description></video>
 	
 	<definition>
 		<title>Faraday's Law</title>
@@ -11,11 +11,63 @@
 			<p><term>Faraday's Law</term> says that if the magnetic flux through a surface changes with time, a voltage is induced within the current carrying material: <me>V_{induced} = - \frac{d\mathit{\Phi}_B}{dt}</me></p>
 		</statement>
 	</definition>
+	
+					<lemma xml:id="rep_mag-induction-table">
+			<title>Magnetic Induction Tables</title>
+			<statement>
+				<p>A <term>magnetic induction table</term> is a representation that helps you organize and keep track of the various quantities needed for Faraday's Law.  An example table from the video is reproduced below.</p>
+			</statement>
+		</lemma>
+		
+		<table>
+  <title>Example Magnetic Induction Table</title>
+  <tabular halign="center">
+    <row header="no" bottom="minor" >
+      <cell><m>\vec{A}</m></cell>
+      <cell>Out</cell>
+      <cell><m>xy</m></cell>
+    </row>
+    <row>
+      <cell><m>\vec{B}</m></cell>
+      <cell>out</cell>
+      <cell><m>B</m></cell>
+    </row>
+    <row>
+      <cell><m>\Phi_B</m></cell>
+      <cell><m>+</m></cell>
+      <cell><m>Bxy</m></cell>
+    </row>
+    <row>
+      <cell><m>\frac{d\Phi_B}{dt}</m></cell>
+      <cell><m>-</m></cell>
+      <cell><m>Bxv_y</m></cell>
+    </row>
+    <row>
+      <cell><m>V_{ind}</m></cell>
+      <cell><m>+</m></cell>
+      <cell><m>Bxv_y</m></cell>
+    </row>
+		    <row>
+      <cell><m>I_{ind}</m></cell>
+      <cell><m>ccw</m></cell>
+      <cell><m>\frac{Bxv_y}{R}</m></cell>
+    </row>
+  </tabular>
+
+</table>
 
 	<exercises>
 		<title>Activities</title>
+		<p>The current-carrying wire below is being pulled downward, away from the square metal loop.</p>
+		<figure xml:id="x_fig_wire-and-loop">
+    		<caption>A long wire carrying current to the right below a wire loop.</caption>
+    		<image source="WireAndLoop.png" width = "70%" ></image>
+		</figure>
 		<exercise>
-			<p>TEXT</p>
+			<p>As the wire is moving, is there a clockwise current induced around the loop, a counterclockwise current, or no current?  Create a magnetic induction table to explain your reasoning.</p>
+		</exercise>
+				<exercise>
+			<p>Describe a different experiment you could do with the setup in the figure that would result in an induced current in the loop. What direction will the current in the loop be for your experiment, and why?</p>
 		</exercise>
 	</exercises>
 

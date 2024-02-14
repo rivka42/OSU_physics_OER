@@ -2,24 +2,33 @@
 
 <section xml:id="sec_induced-current" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Induced Current</title>
-		
-    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
-	
-	<p>WORDS</p>
-	
-	<definition>
-		<title>DEFINITION</title>
-		<statement>
-			<p>The <term>TERM</term></p>
-		</statement>
-	</definition>
 	
 	<exercises>
 		<title>Activities</title>
+		<p>A metal loop is located near a bar magnet, as shown below.</p>
+		<figure xml:id="x_fig_moving-loop">
+    		<caption>A metal loop near a bar magnet.</caption>
+    		<image source="MovingLoop.png" width = "50%" ></image>
+		</figure>
 		<exercise>
-			<p>TEXT</p>
+			<p>Sketch the magnetic field at the top and bottom of the loop.</p>
 		</exercise>
-	</exercises>
+		<exercise>
+			<p>Imagine you are a tiny positive charge in the wire at the top of the loop.  The loop is moving to the right.  What is the direction of the magnetic force you feel?  Explain your reasoning.</p>
+		</exercise>
+		<exercise>
+			<p>Based on your answer above, do you think a current will flow through the loop as it moves to the right?  If so, which direction will it flow?  Explain your reasoning.</p>
+		</exercise>
+
+	    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+	
+	<p>The current that flows through the loop above is known as an <em>induced current</em>.</p>
+	
+			<exercise>
+			<p>Consider again the loop near the bar magnet.  Suppose you have a mechanism for slowly decreasing the magnitude of the magnetic field produced by the bar magnet.  As the magnitude of the magnetic field decreases, predict whether or not there will be a current induced in the loop, and if so which direction it will flow.  Explain your reasoning.</p>
+		</exercise>
+	
+		</exercises>
 	
 </section>
 

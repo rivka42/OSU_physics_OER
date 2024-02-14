@@ -2,10 +2,12 @@
 
 <section xml:id="sec_lorentz-force" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>The Lorentz Force</title>
-		
-    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 	
-	<p>Based on what you discovered in the previous section, you can define the force that a magnetic field exerts on a moving charge using the Lorentz Force Law</p>
+		<!--
+    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+		-->
+	
+	<p>Based on what you discovered in the previous section, you can define the force that a magnetic field exerts on a moving charge using the Lorentz Force Law.</p>
 	
 	<definition>
 		<title>Lorentz Force</title>

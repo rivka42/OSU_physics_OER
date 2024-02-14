@@ -5,8 +5,9 @@
 
 	<exercises>
 		<title>Activities</title>
-		<p>Use this <url href="https://ophysics.com/em7.html" text="simulation"/> as you work on the following activities.</p>
+		<p>Use this <url href="https://ophysics.com/em7.html" visual="simulation"/> as you work on the following activities.</p>
 		<exercise>
+		<title>Exploring the Magnetic Force</title>
 					<ol marker="A">
 		<li><p>To begin, describe the direction of the magnetic field shown in the simulation.</p></li>
 	  <li><p>Without changing any of the initial settings, press “start” and observe the path of the charged particle.  Use your observation to describe the direction of the acceleration that the charged particle experiences while in the region of the magnetic field.</p></li>

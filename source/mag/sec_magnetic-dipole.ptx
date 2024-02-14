@@ -26,8 +26,8 @@
 	
 	<figure xml:id="fig_mag-field-lines">
     		<caption>Magnetic Field Lines of a bar magnet.</caption>
-    		<image source="MagneticDipoleLines.jpg" width = "100%" ></image>
-				<description>A bar magnet with a north and south pole. The field lines come out of the north pole and curve out and around to the south pole.</description>
+    		<image source="MagneticDipoleLines.jpg" width = "60%" ></image>
+				<shortdescription>A bar magnet with a north and south pole. The field lines come out of the north pole and curve out and around to the south pole.</shortdescription>
 		</figure>
 	
 	<exercises>

@@ -3,24 +3,25 @@
 <section xml:id="sec_lc-circuits" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>LC Circuits</title>
 		
-    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
-	
-	<p>WORDS</p>
-	<!-- Do we want to discuss here the basic set up of the capacitor + inductor circuit? How to structure this section? -->
-	
-	<definition>
-		<title>DEFINITION</title>
-		<statement>
-			<p>The <term>TERM</term></p>
-		</statement>
-	</definition>
-
+		<p>Recall that the voltage across an inductor is given by <me>V_{inductor} = -L \frac{dI}{dt}</me></p>
+		
+		
 	<exercises>
 	<title>Activities</title>
+	<figure xml:id="x_fig_LC">
+    		<caption>A circuit with a charged capacitor and an inductor.</caption>
+    		<image source="LC-circuit.png" width = "60%" ></image>
+		</figure>
+	<p>The circuit above contains a capacitor and an inductor.  The capacitor is initially charged (positive on the top and negative on the bottom).</p>
 		<exercise>
-			<p>TEXT</p>
+			<p>When the switch is closed, the initial current through the inductor is 0; give a physical reason for why you think this happens.</p>
 		</exercise>
 	</exercises>
+			
+    <video youtube="EZmh2TOI-WI"><description>A description of LC circuits.</description></video>
+	
+
+
 
   
 

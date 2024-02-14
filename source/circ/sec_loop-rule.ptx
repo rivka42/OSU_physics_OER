@@ -9,7 +9,7 @@
 	<principle xml:id="loop-rule">
 		<title>The Loop Rule</title>
 		<statement>
-			<p>The <term>Loop Rule</term> says that the voltages around a complete loop add to zero. The Loop Rule is often written as: <me>\sum V = 0</me></p>
+			<p>The <term>Loop Rule</term> says that the voltages around a complete loop add to zero. The Loop Rule is often written as: <me>\sum V = 0</me>  Note that when writing equations involving circuits, it is customary to write the voltage across a circuit element as <m>V</m> rather than <m>\Delta V</m>; however, <m>V</m> still fundamentally represents a <em>voltage difference</em>.</p>
 		</statement>
 	</principle>
 	
