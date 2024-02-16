@@ -10,7 +10,7 @@
 	</exercises>
 		
 		
-    <video youtube="o1Sdxj_-CCc"><description>A few experiments demonstrating basic magnetic properties.</description></video>
+    <video youtube="K6zUQH4HGZ8"><description>A few experiments demonstrating basic magnetic properties.</description></video>
 	
 	<p>Magnets interact in lots of interesting ways with different types of materials. We will discuss mainly permanent magnets and ferromagnetic objects.</p>
 	
@@ -27,18 +27,38 @@
 			<p><term>Ferromagnetic</term> materials (like iron, cobalt, and nickel) tend to be attracted to permanent magnets<fn>ferromagmetic materials can become permanent magnets through a process known as magnetization</fn>.</p>
 		</statement>
 	</definition>
+	
+	    <video youtube="-1w7niP7m6E"><description>Introducing a model for magnetism.</description></video>
 
 	<exercises>
 		<title>Activities</title>
+		<p>The experiments below will help answer some of the model questions posed in the video above.</p>
 		<exercise>
-			<p>Make a prediction about what you think happens if you cut a magnet in half.  Then watch the following video to check your prediction.</p>
-
+		<statement>
+			<p>Make a prediction about what you think happens if you cut a magnet in half.  Then watch the following video in the answer to check your prediction.</p>
+</statement>
+<answer>
 			<video youtube="q0d_SS-0Puk"><description>Cutting a magnet in half</description></video>
+			</answer>
+		</exercise>
+		<exercise>
+		<statement>
+			<p>Make a prediction about what you think happens if you bring a magnet near a grape.  Then watch the following video in the answer to check your prediction.</p>
+</statement>
+<answer>
+			<url href="https://www.youtube.com/watch?v=-zOzEvHmaK8"></url>
+			</answer>
 		</exercise>
 	</exercises>
+	
+	
+
 	<references>
         <biblio xml:id="ref_magnet_cut">
             <p>"Magnetism: Cutting a magnet in half" <em>YouTube</em>, uploaded by QM Oxford, February, 18, 2019, https://www.youtube.com/watch?v=q0d_SS-0Puk&amp;t=331s&amp;ab_channel=QMOxford</p>
+        </biblio>
+				<biblio xml:id="ref_magnet_grapes">
+            <p>"magnetic grapes" <em>YouTube</em>, uploaded by Mark Lorch, March 24, 2012, https://www.youtube.com/watch?v=-zOzEvHmaK8</p>
         </biblio>
     </references>
 
