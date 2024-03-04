@@ -65,7 +65,7 @@
     		<image source="MagWire-full.png" width = "100%" ></image>
 		</figure>
 		<figure xml:id="x_fig_mag-full2">
-    		<caption>Some magnetic field lines of an infinite wire. The direction of <m>\vec{B}</m> can be found with a form of the right-hand rule.</caption>
+    		<caption>Some magnetic field lines of a long straight wire. The direction of <m>\vec{B}</m> can be found with a form of the right-hand rule.</caption>
     		<image source="MagneticFieldWire.jpg" width = "100%" ></image>
 				<description>This figure demonstrates the right-hand rule. The wire is held with the right hand so that the thumb points along the current. The fingers wrap around the wire in the same sense as the magnetic field.</description>
 		</figure>

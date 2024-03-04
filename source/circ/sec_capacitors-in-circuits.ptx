@@ -28,19 +28,19 @@
 		</exercise>
 	</exercises>
 	
-	<p>In class, you will derive the rules below for adding capacitors.</p>
+	<p>In class, you will derive the rules below for combining capacitors.</p>
 	
 		<definition>
-		<title>Adding Capacitors in Series</title>
+		<title>Combining Capacitors in Series</title>
 		<statement>
-			<p>If <m>N</m> capacitors are in series, the equivalent capacitance is: <me>\frac{1}{C_{\mathrm{total}}} = \sum_{i = 1}^{N} \frac{1}{C_i} = \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3} + \dots</me></p>
+			<p>If <m>N</m> capacitors are in series, the equivalent capacitance is: <me>\frac{1}{C_{\mathrm{eq}}} = \sum_{i = 1}^{N} \frac{1}{C_i} = \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3} + \dots</me></p>
 		</statement>
 	</definition>
 
 	<definition>
-		<title>Adding Capacitors in Parallel</title>
+		<title>Combining Capacitors in Parallel</title>
 		<statement>
-			<p>If <m>N</m> capacitors are in parallel, the equivalent capacitance is: <me>C_{\mathrm{total}} = \sum_{i = 1}^{N} C_i = C_1 + C_2 + C_3 + \dots</me></p>
+			<p>If <m>N</m> capacitors are in parallel, the equivalent capacitance is: <me>C_{\mathrm{eq}} = \sum_{i = 1}^{N} C_i = C_1 + C_2 + C_3 + \dots</me></p>
 		</statement>
 	</definition>
 	

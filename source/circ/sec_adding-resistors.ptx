@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_adding-resistors" xmlns:xi="http://www.w3.org/2001/XInclude">
-	<title>Resistance in Circuits: Series and Parallel</title>
+	<title>Resistors in Circuits: Series and Parallel</title>
 	
 	    <video youtube="G66Zxh6fuag"><description>Solving a resistor to develop rules for adding resistances in series and parallel.</description></video>
 			
-	<p>When there is more than one resistor in a circuit, you can find the total resistance using the rules of series and parallel resistors.</p>
+	<p>When there is more than one resistor in a circuit, you can find the equivalent resistance using the rules of series and parallel resistors.</p>
 
 	<principle>
-		<title>Adding Resistors in Series</title>
+		<title>Combining Resistors in Series</title>
 		<statement>
-			<p>If <m>N</m> resistors are in series, the equivalent resistance is: <me>R_{\mathrm{total}} = \sum_{i = 1}^{N} R_i = R_1 + R_2 + R_3 + \dots</me></p>
+			<p>If <m>N</m> resistors are in series, the equivalent resistance is: <me>R_{\mathrm{eq}} = \sum_{i = 1}^{N} R_i = R_1 + R_2 + R_3 + \dots</me></p>
 		</statement>
 	</principle>
 
 	<principle>
-		<title>Adding Resistors in Parallel</title>
+		<title>Combining Resistors in Parallel</title>
 		<statement>
-			<p>If <m>N</m> resistors are in parallel, the equivalent resistance is: <me>\frac{1}{R_{\mathrm{total}}} = \sum_{i = 1}^{N} \frac{1}{R_i} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \dots</me></p>
+			<p>If <m>N</m> resistors are in parallel, the equivalent resistance is: <me>\frac{1}{R_{\mathrm{eq}}} = \sum_{i = 1}^{N} \frac{1}{R_i} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \dots</me></p>
 		</statement>
 	</principle>
 

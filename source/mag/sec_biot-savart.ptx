@@ -10,15 +10,15 @@
 	<definition>
 		<title>Magnetic field for a moving electric charge</title>
 		<statement>
-			<p>The <term>magnetic field</term> created by a moving electric charge is given by <me>\vec{B} = \frac{\mu_o}{4\pi}\frac{q\vec{v} \times \hat{r}}{r^2}</me> where <m>\vec{v}</m> is the velocity of the moving charge and <m>\vec{r}</m> is the distance from the moving charge to the position where you are finding the magnetic field.</p>
+			<p>The <term>magnetic field</term> created by a moving electric charge is given by <me>\vec{B} = \frac{\mu_o}{4\pi}\frac{q\vec{v} \times \hat{r}}{r^2}</me> where <m>\vec{v}</m> is the velocity of the moving charge and <m>\vec{r}</m> is the distance from the moving charge to the position where you are determining the magnetic field.</p>
 		</statement>
 	</definition>	
 	
 	<exercises>
 		<title>Activities</title>
-		<p>The figure below shows a proton moving to the right with speed <m>v = 10^3</m> m/s.  The three labeled points all lie 2 m away from the proton at the instant shown</p>
+		<p>The figure below shows a proton moving to the right with speed <m>v = 10^3</m> m/s.  The three labeled points all lie 2 m away from the proton at the instant shown.</p>
 <figure xml:id="x_fig_mag-charge">
-    		<caption>The magnetic field around a long straight wire.</caption>
+    		<caption>Several points around a moving proton.</caption>
     		<image source="MagCharge.png" width = "70%" ></image>
 		</figure>
 		<exercise>
@@ -41,7 +41,7 @@
 			</statement>
 			<answer>
 <ol>
-		<li><m>B = 0</m></li>
+		<li><m>B = 0 \text{ T}</m></li>
 	  <li><m>B = \frac{\mu_o qv}{4\pi r^2} = 4 \times 10^{-24}</m> T</li>
 		<li><m>B = \frac{\mu_o qv}{4\pi r^2}\frac{\sqrt{2}}{2} = 2.8 \times 10^{-24}</m> T</li>
 		</ol>

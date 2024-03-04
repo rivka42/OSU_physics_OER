@@ -8,7 +8,7 @@
 	<definition>
 		<title>Ampere's Law</title>
 		<statement>
-			<p><term>Ampere's Law</term> relates the net magnetic field around a closed curved to the current passing through the region bounded by the curve: <me>\bigcirc \!\!\!\!\!\!\!\!\int_S \vec{B}\cdot d\vec{s} = \mu_o I_{enclosed}</me></p>
+			<p><term>Ampere's Law</term> relates the net magnetic field around a closed curve to the current passing through the region bounded by the curve: <me>\bigcirc \!\!\!\!\!\!\!\!\int_S \vec{B}\cdot d\vec{s} = \mu_o I_{enclosed}</me></p>
 		</statement>
 	</definition>
 	

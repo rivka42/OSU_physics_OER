@@ -7,19 +7,19 @@
     <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 		-->
 	
-	<p>Based on what you discovered in the previous section, you can define the force that a magnetic field exerts on a moving charge using the Lorentz Force Law.</p>
+	<p>Based on what you discovered in the previous section, you can define the force that a magnetic field exerts on a moving charge to be <me>\vec{F} = q\vec{v}\times\vec{B}</me> where <m>\vec{B}</m> is the magnetic field, <m>q</m> is the charge experiencing the force, and <m>\vec{v}</m> is the velocity of the charge experiencing the force.  When added to the force on a charge by an electric force, you arrive at the full expression for force in electromagnetism, which is known as the Lorentz Force.</p>
 	
 	<definition>
 		<title>Lorentz Force</title>
 		<statement>
-			<p>The <term>Lorentz Force</term> is defined as <me>\vec{F} = q\vec{v}\times\vec{B}</me>, where <m>\vec{B}</m> is the magnetic field, <m>q</m> is the charge experiencing the force, and <m>\vec{v}</m> is the velocity of the charge experiencing the force.</p> 
+			<p>The <term>Lorentz Force</term> is defined as the sum of the electric and magnetic forces on a charge <me>\vec{F} = q\vec{E} + q\vec{v}\times\vec{B}</me></p> 
 			<!-- include l * (I x B) ?-->
 		</statement>
 	</definition>
 
 	<exercises>
 		<title>Activities</title>
-		<p>In <xref ref="x_magnetic-field"/>, you found the magnetic field due to a long, straight current.  Assume a small positive charge is currently located at each of the four marked points, moving downward with known speed <m>v</m>.</p>
+		<p>In <xref ref="x_magnetic-field"/>, you determined the magnetic field due to a long, straight current.  Assume a small positive charge is currently located at each of the four marked points, moving downward with known speed <m>v</m>.</p>
 		<exercise>
 			<p>For each point, draw a vector representing the magnetic force on the moving charge.</p>
 		</exercise>
