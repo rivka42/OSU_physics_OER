@@ -12,17 +12,25 @@
 	
 <subsection>
 <title>Practice</title>
-  <p>Use the following figure for the next several activities.  The magnitudes of the vectors are <m>|\vec{a}| = 8</m> and <m>|\vec{b}| = 4.5</m>.  Assume that <m>\vec{c} = \vec{a} + \vec{b}</m>.</p>
-	<figure xml:id="fig_vector-sum">
+
+		    <problem xml:id="psa_vec-alpha0">
+        <title>Sums and Differences of Vectors</title>
+		<statement>
+		    <p>Use the figure to determine a single vector that is equivalent to the given summation of vectors in each of the cases below.  (The notation <m>\vec{PQ}</m> represents a vector pointing from point <m>P</m> to point <m>Q</m>.)</p>
+				<figure xml:id="fig_vector-quadrangle">
   <caption>Two vectors.</caption>
-  <image source="Vector-Sum.png" width = "50%">
+  <image source="Quadrangle.png" width = "50%">
   <description></description>
   </image>
  </figure>
-	    <problem xml:id="psa_vec-alpha1">
-        <title>Title</title>
-		<statement>
-		    <p></p>
+<p>
+<ol marker="(a)">
+<li><m>\vec{PQ} + \vec{QR}</m></li>
+<li><m>\vec{RP} + \vec{PS}</m></li>
+<li><m>\vec{QS} + \vec{PS}</m></li>
+<li><m>\vec{RS} + \vec{SP} + \vec{PQ}</m></li>
+</ol>
+</p>
 		</statement>
 		<!--
 		<hint>
@@ -30,14 +38,29 @@
 		</hint>
 		-->
 		<answer>
-		    <p></p>
+		    <p>
+<ol marker="(a)">
+<li><m>\vec{PR}</m></li>
+<li><m>\vec{RS}</m></li>
+<li><m>\vec{QP}</m></li>
+<li><m>\vec{RQ}</m></li>
+</ol>
+</p>
+
 		</answer>
 	</problem>
 	
-		    <problem xml:id="psa_vec-alpha2">
-        <title>Title</title>
+	    <problem xml:id="psa_vec-alpha1">
+        <title>Two Vectors I</title>
 		<statement>
-		    <p></p>
+		  <p>In the following figure, the magnitudes of the vectors are <m>|\vec{a}| = 8</m> and <m>|\vec{b}| = 4.5</m>.  Assume that <m>\vec{c} = \vec{a} + \vec{b}</m> and <m>\vec{d} = \vec{a} - \vec{b}</m>.</p>
+	<figure xml:id="fig_vector-sum">
+  <caption>Two vectors.</caption>
+  <image source="Vector-Sum.png" width = "40%">
+  <description></description>
+  </image>
+ </figure>
+		    <p>Determine the magnitude of the vectors <m>\vec{c}</m> and <m>\vec{d}</m>?  What is the angle to each vector from the positive <m>x</m>-axis?</p>
 		</statement>
 		<!--
 		<hint>
@@ -45,14 +68,39 @@
 		</hint>
 		-->
 		<answer>
-		    <p></p>
+		    <p><m>\vec{c}</m>: <m>3</m> at <m>109.6^o</m></p>
+				<p><m>\vec{d}</m>: <m>8.1</m> at <m>167.5^o</m></p>
 		</answer>
 	</problem>
+	
+	    <problem xml:id="psa_vec-alpha2">
+        <title>Two Vectors II</title>
+		<statement>
+		  <p>In the following figure, the magnitudes of the vectors are <m>|\vec{a}| = 5</m> and <m>|\vec{b}| = 5</m>.  Assume that <m>\vec{c} = \vec{a} + \vec{b}</m> and <m>\vec{d} = \vec{a} - \vec{b}</m>.</p>
+	<figure xml:id="fig_vector-sum2">
+  <caption>Two vectors.</caption>
+  <image source="Vector-Sum2.png" width = "30%">
+  <description></description>
+  </image>
+ </figure>
+		    <p>Determine the magnitude of the vectors <m>\vec{c}</m> and <m>\vec{d}</m>?  What is the angle to each vector from the positive <m>x</m>-axis?</p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p><m>\vec{c}</m>: <m>4</m> at <m>-42.5^o</m></p>
+				<p><m>\vec{d}</m>: <m>8.87</m> at <m>227.5^o</m></p>
+		</answer>
+	</problem>
+
 	
 		    <problem xml:id="psa_vec-alpha3">
-        <title>Title</title>
+        <title>Vector Contest</title>
 		<statement>
-		    <p></p>
+		    <p>Three vectors add together to equal <m>0</m>.  One vector has magnitude <m>3</m> and points in the positive <m>x</m>-direction; a second vector has magnitude <m>5</m> and points at <m>120^o</m> from the positive <m>x</m>-axis.  Determine the third vector as a magnitude and direction.</p>
 		</statement>
 		<!--
 		<hint>
@@ -60,22 +108,7 @@
 		</hint>
 		-->
 		<answer>
-		    <p></p>
-		</answer>
-	</problem>
-	
-		    <problem xml:id="psa_vec-alpha0">
-        <title>Title</title>
-		<statement>
-		    <p></p>
-		</statement>
-		<!--
-		<hint>
-		    <p></p>
-		</hint>
-		-->
-		<answer>
-		    <p></p>
+		    <p><m>4.4</m> at <m>-97^o</m></p>
 		</answer>
 	</problem>
 
