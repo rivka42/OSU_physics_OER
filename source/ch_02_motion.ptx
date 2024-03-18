@@ -45,5 +45,6 @@
 	<xi:include href="./mot/sec_real-world-context.ptx" />
 	<xi:include href="./mot/sec_kinematics-2d.ptx" />
 	<xi:include href="./mot/sec_motion-summary.ptx" />
+	<xi:include href="./mot/sec_mot-practice.ptx" />
 	
 </chapter>

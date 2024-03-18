@@ -42,5 +42,6 @@
 	<xi:include href="./for/sec_solving-forces2.ptx" />
 	<xi:include href="./for/sec_ideal-pulleys.ptx" />
 	<xi:include href="./for/sec_forces-summary.ptx" />
+	<xi:include href="./for/sec_for-practice.ptx" />
 	
 </chapter>

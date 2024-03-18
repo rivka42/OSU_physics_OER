@@ -7,6 +7,8 @@
      The measurement of any quantity is reported as a number in terms of some standard, physical unit.  For example, you might measure the length of an object in a physics lab to be 17.4.  Without a specific unit of measurement, the number itself is almost meaningless.  You might mean the length is 17.4 centimeters, 17.4 inches, or 17.4 miles. 
 		</p>
 		
+
+		
 <p>
 In science, we use the SI unit system (le Systéme Internationale d'Unités), commonly referred to as the metric system<fn>In the united States, we have an entire <url href="https://www.nist.gov/" visual="nist.gov">government agency</url> dedicated to upholding standards of measurement</fn>.  Within the metric system, all quantities will be given in terms of base units, such as the three below, which are typically written using non-italic letters<fn><url href="https://en.wikipedia.org/wiki/Metric_prefix" visual="wikipedia.org/wiki/Metric_prefix">prefixes</url> can be used as an easy way to express units that are substantially different</fn>.
     </p>
@@ -145,7 +147,7 @@ We can see that the physical quantities under the square root indeed have base u
 		</exercises>
 		
 			<exercises>
-	<title>Numbers Exercises</title>
+	<title>Numbers Activities</title>
 
 			<exercise xml:id="x_identifying-numbers">
 			<title>Practice Identifying Numbers</title>

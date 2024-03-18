@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_vec-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Practice, Study, and Apply - Vectors</title>
+
+	<!--
+	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
+	If you want an Explain activity, use the <investigation> tag.
+		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
+	If you want a Calculate activity, use the <problem> tag.  (This tag is Example-like, not Project-like, so you cannot embed lettered steps into it using <task>.
+	-->
+	
+<subsection>
+<title>Practice</title>
+
+
+
+</subsection>
+
+<subsection>
+<title>Study</title>
+
+ 	<investigation xml:id="psa_vec-1">
+        <title>Subtracting Equal Vectors</title>
+		<statement>
+		    <p>In each case below, the top vector is being subtracted from the bottom vector. All of the vectors have the same magnitude.  Is the magnitude of the difference in the left case <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the difference in the right case?</p>
+				 <figure xml:id="fig_vector-pairs">
+  <caption>Two pairs of vectors.</caption>
+  <image source="Vector-Pairs.png" width = "25%">
+  <description></description>
+  </image>
+ </figure>
+		</statement>
+		<solution>
+		    <p>One way to subtract two vectors is to place the vectors tail-to-tail and then draw the vector that points from the tip of one vector to the tail of the other.  In this case, the difference in the left case is clearly <em>less than</em> the difference in the right case.</p>
+		</solution>
+	</investigation>
+	
+		<project xml:id="psa_vec-4">
+        <title>Between Two Trees</title>
+		<statement>
+		    <p>You and a friend are each lost in the same forest.  They message you that they are directly northeast of a very large tree that is about <m>3</m> miles away.  You are about <m>2</m> miles away from the same large tree, but that you are south of it: <m>25^o</m> west of south, approximately.  About how far are you from your friend?  What direction would you need to walk to reach your friend?</p>
+		</statement>
+		<hint>
+		    <p>Remember to solve problems symbolically first!  It can help to choose sensible variable names for all numbers given in the problem, and for any numbers that you want to find.</p>
+				<p>When making sense of your symbolic answer, a good starting point is to check which variables your answer does and does not depend on.  As part of making sense, always make sure to discuss not just what your answer says, but what the answer should say and why!</p>
+		</hint>
+	</project>
+
+</subsection>
+
+<subsection>
+<title>Apply</title>
+
+
+
+</subsection>
+
+	
+
+
+
+  
+
+	
+</section>
+

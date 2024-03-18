@@ -54,7 +54,7 @@ Another, common example of a vector is <alert>velocity</alert>. Velocity is a qu
 		</statement>
 		</exercise>
 				<exercise xml:id="x_length">
-		<title>Magnitude</title>
+		<title>Explore Magnitude</title>
 		<statement>
 		<p>A vector is typically represented graphically by an arrow.  Which property of the arrow do you think represents the magnitude of the vector?  How would you represent two vectors that have the same direction but different magnitudes?</p>
 		</statement>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_real-world-context" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Real-world Context</title>
+  <title>A*R*C*S</title>
 		
 <p>At this point, you have learned a wide range of skills that you can apply to a physics context, including:</p>
 
@@ -13,26 +13,31 @@
 <li><p>Making sense of a symbolic equation using covariation, as described in <xref ref="sec_covariation"/></p></li>
 </ul>
 
-<p>While each of these skills is useful on its own, they are most powerful when used <em>together</em> to help you examine <term>Real-world contexts</term>.  A Real-world Context is a situation or problem with a real setting, where you attempt to answer specific questions about a situation that could occur in the real world by making assumptions and simplifications, applying relevant aspects of your physics knowledge to determine both symbolic and numerical answers, and lastly making sense of those answers to reevaluate your understanding of the situation.  Real-world Contexts are what you will spend the vast majority of your time in physics considering.  The figure below shows all the steps involved in approaching a Real-world Context.  It seems like a lot of steps, but remember that you have already practiced each step many times already.</p>
+<p>While each of these skills is useful on its own, they are most powerful when used <em>together</em> to help you examine complicated contexts that often draw on real-world experiences.  Throughout this text, big activities where you should carry out all of the steps above are labeled A*R*C*S: Analyze-Represent-Calculate-Sensemake.  The figure below shows all the individual steps to help you keep track of them.</p>
+
+<!--
+<p>
+A Real-world Context is a situation or problem with a real setting, where you attempt to answer specific questions about a situation that could occur in the real world by making assumptions and simplifications, applying relevant aspects of your physics knowledge to determine both symbolic and numerical answers, and lastly making sense of those answers to reevaluate your understanding of the situation.  Real-world Contexts are what you will spend the vast majority of your time in physics considering.  The figure below shows all the steps involved in approaching a Real-world Context.  It seems like a lot of steps, but remember that you have already practiced each step many times already.</p>
+-->
 		
 		
   <figure xml:id="fig_realworld">
-		 <caption>Steps to follow when you consider a Real-world Context.</caption>
+		 <caption>Steps to follow when you consider a big activity using A*R*C*S.</caption>
 		<image source="RealworldSteps.png" width = "100%">
 			<description></description></image>
   </figure>	
 	
-	<p>Below is an example of using all of these steps to approach a Real-world Context.</p>
+	<p>Below is an example of using all the A*R*C*S steps.</p>
 	
 			<figure xml:id="mot_vb-rwc">
-		  <caption>An example of using the Real-world Context steps.</caption>
+		  <caption>An example of using the A*R*C*S steps.</caption>
       <video youtube="kJ9qrl0SrPI"></video>
     </figure>
 		
 	<exercises>
 	<title>Practice Activity</title>
 						<exercise xml:id="x_realworld-kinematics">
-			<title>Real-world Context - Stopping a Car</title>
+			<title>A*R*C*S - Stopping a Car</title>
 			<statement>
 			<p>You are driving a car on a residential street when a ball bounces in front of you and you slam on the brakes.  How much time does it take for you to stop?  How much distance have you traveled in this time?</p>
 			</statement>

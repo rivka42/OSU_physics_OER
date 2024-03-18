@@ -39,8 +39,9 @@ Many physical quantities (work, torque, angular momentum) depend on how parallel
 	</insight>
   
 			<exercises>
-		<title>Practice Activities</title>
+		<title>Practice Activity</title>
 				<exercise xml:id="x_dot">
+				<title>Explore Dot Product Signs</title>
 		<statement>
 		<p>The result of the dot product can be <em>positive</em>, <em>negative</em>, or <em>zero</em>.  Sketch 2-3 possible pairs of vectors for each possible result of the dot product.</p>
 		</statement>

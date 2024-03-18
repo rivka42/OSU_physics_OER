@@ -31,9 +31,10 @@
     <!-- numbering of the respective elements. Can't be more than the -->
     <!-- @level on divisions above.                                   -->
     <blocks level="2"/>
-    <projects level="2"/>
+    <projects level="1"/>
     <equations level="2"/>
     <footnotes level="2"/>
+		<divisions level="2"/>
   </numbering>
 
     <!-- LaTeX specific options: set @print="yes" to get pdf set up   -->
@@ -42,6 +43,7 @@
     <!-- links the html version of asymptote graphics.                -->
   <latex print="no" sides="one">
     <asymptote links="no"/>
+
   </latex>
   
   <html>
@@ -54,7 +56,7 @@
     <!-- @colors now implemented                               -->
     <!-- also @knowls, @toc, and @banner, although no          -->
     <!-- alternative styles exist yet for those.               -->
-    <css style="default" colors="orange_navy"/>
+    <css style="osu-serif" colors="orange_navy"/>
     <!-- Magic IDs identify HTML pages to analytics services   -->
     <!-- Presence implies relevant Javascript will be added    -->
     <!-- StatCounter requires both values to be set            -->

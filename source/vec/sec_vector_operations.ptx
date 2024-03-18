@@ -50,7 +50,7 @@ Alternatively, you can add the negative <m> \vec{A} + (-\vec{B})</m>. Recall tha
     </figure>
 
  <exercises>
- <title> Multiplication of a vector by a scalar</title>
+ <title> Multiplication of a Vector by a Scalar</title>
  </exercises>
 
 <p>
@@ -73,12 +73,12 @@ Multiplication of a vector with a positive scalar will <em>scale</em> the magnit
 		</exercise>
 		<exercise>
 		<statement>
-		<p>Find <m>2\vec{A} + 3\vec{A}</m>.</p>
+		<p><m>2\vec{A} + 3\vec{A}</m></p>
 		</statement>
 		</exercise>
 		<exercise>
 		<statement>
-		<p>Find <m>\vec{C} - \vec{A}</m>.</p>
+		<p><m>\vec{C} - \vec{A}</m></p>
 		</statement>
 		</exercise>
 		</exercises>

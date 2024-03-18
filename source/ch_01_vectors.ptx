@@ -41,6 +41,7 @@ Let's begin your study of motion by gaining a foundational understanding of what
   <xi:include href="./vec/sec_vector_components.ptx" />
    <xi:include href="./vec/sec_trig_relations.ptx" />
 	<xi:include href="./vec/sec_cross_product.ptx" />
+	<xi:include href="./vec/sec_vec-practice.ptx" />
 	
 
 

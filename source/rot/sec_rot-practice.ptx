@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_rot-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Practice, Study, and Apply - Rotational Motion</title>
+	
+	<!--
+	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
+	If you want an Explain activity, use the <investigation> tag.
+	If you want a Calculate activity, use the <problem> tag.  (This tag is Example-like, not Project-like, so you cannot embed lettered steps into it using <task>.
+	-->
+
+<subsection>
+<title>Practice</title>
+
+    <project xml:id="pa_rot-0">
+        <title>Title</title>
+		<statement>
+		    <p></p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p></p>
+		</answer>
+	</project>
+
+</subsection>
+
+<subsection>
+<title>Study</title>
+
+    <project xml:id="pa_rot-00">
+        <title>Title</title>
+		<statement>
+		    <p></p>
+		</statement>
+		<hint>
+		    <p></p>
+		</hint>
+		<solution>
+		    <p></p>
+		</solution>
+	</project>
+
+</subsection>
+
+<subsection>
+<title>Apply</title>
+
+    <project xml:id="pa_rot-000">
+        <title>Title</title>
+		<statement>
+		    <p></p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+	</project>
+
+
+</subsection>
+  
+
+	
+</section>
+

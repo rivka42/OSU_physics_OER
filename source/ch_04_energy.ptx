@@ -58,6 +58,7 @@
 	<xi:include href="./en/sec_momentum-vector-diagrams.ptx" />
 	<xi:include href="./en/sec_collisions.ptx" />
 	<xi:include href="./en/sec_energy-summary.ptx" />
+	<xi:include href="./en/sec_en-practice.ptx" />
 	
 </chapter>
 
