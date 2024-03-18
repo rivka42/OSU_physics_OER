@@ -12,6 +12,125 @@
 	
 <subsection>
 <title>Practice</title>
+
+    <problem xml:id="psa_mot-alpha1">
+        <title>Punting a Football</title>
+		<statement>
+		    <p>A kicker punts a football from the very center of the field to the sideline <m>42</m> yards downfield.  What is the magnitude of the net displacement of the ball in yards?</p>
+		</statement>
+		<hint>
+		    <p>A football field is <m>100</m> yards long and <m>55</m> yards wide.</p>
+		</hint>
+		<answer>
+		    <p><m>50.2</m> yards</p>
+		</answer>
+	</problem>
+	
+	    <problem xml:id="psa_mot-alpha2">
+        <title>The Flying Saucer</title>
+		<statement>
+		    <p>A certain flying saucer is initially located at a position <m>\vec{r}_i = 400 \hat{x} + 350 \hat{y}</m> m.  After a few minutes it has moved to a location <m>\vec{r}_f = 650 \hat{x} - 800 \hat{y}</m> m.  What is the displacement of the flying saucer? </p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p><m>\Delta \vec{r} = 250 \hat{x} - 1150 \hat{y}</m>  m </p>
+		</answer>
+	</problem>
+	
+	    <problem xml:id="psa_mot-alpha3">
+        <title>Waddling Pond</title>
+		<statement>
+		    <p>A park has a circular <m>100-</m>m-radius pond.  Benny starts at its westernmost point, then waddles counterclockwise around the pond until he is at its northernmost point.  What is the magnitude and direction of Benny's change in position?</p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p><m>141</m> m northeast</p>
+		</answer>
+	</problem>
+	
+	    <problem xml:id="psa_mot-alpha4">
+        <title>Mysterious Object I</title>
+		<statement>
+		    <p>At a certain moment in time, an object was located at <m>\vec{r}_1 = \hat{x} + 4 \hat{y}</m> m.  At some later moment, it is located at <m>\vec{r}_2 = -1 \hat{x} - 1 \hat{y}</m> m.  The object's average velocity for this motion was <m>\vec{v}_{ave} = -0.2 \hat{x} -0.5 \hat{y}</m> m/s.  How much time elapsed during the motion?</p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p><m>10</m> s</p>
+		</answer>
+	</problem>
+	
+	    <problem xml:id="psa_mot-alpha5">
+        <title>Mysterious Object II</title>
+		<statement>
+		    <p>At one moment, an object was at location <m>\vec{r}_1 = \hat{x} + 5 \hat{y}</m> m, traveling with velocity <m>\vec{v}_1 = 3 \hat{x} + 2 \hat{y}</m> m/s.  At some later moment, the object was traveling with velocity <m>\vec{v}_2 = 5 \hat{x} + 7 \hat{y}</m> m/s.  The average acceleration of the object during this time period was <m>\vec{a}_{ave} = 0.1 \hat{x} + 0.25 \hat{y}</m> m/s<m>^2</m>.  How much time elapsed during this motion?</p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p><m>20</m> s</p>
+		</answer>
+	</problem>
+	
+	    <problem xml:id="psa_mot-alpha6">
+        <title>Mysterious Object III</title>
+		<statement>
+		    <p>An object, initially located at the origin, is traveling with velocity <m>\vec{v}_i = -\hat{x} - 2 \hat{y}</m> m/s. The object travels for <m>4.0</m> s with an average acceleration of <m>\vec{a}_{ave} = 0.25 \hat{x} + 0.5 \hat{y}</m> m/s<m>^2</m>.  At the end of the <m>4.0</m> s, what is the velocity of the object?</p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p><m>\vec{v}_{ave} = \vec{0}</m></p>
+		</answer>
+	</problem>
+	
+	    <problem xml:id="psa_mot-alpha0">
+        <title>Title</title>
+		<statement>
+		    <p></p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p></p>
+		</answer>
+	</problem>
+	
+	    <problem xml:id="psa_mot-alpha000000">
+        <title>Title</title>
+		<statement>
+		    <p></p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p></p>
+		</answer>
+	</problem>
+
 </subsection>
 
 <subsection>
@@ -149,47 +268,25 @@
 	
 		<project xml:id="psa_mot-11">
         <title>A Bicycle between Stoplights</title>
-		<introduction>
-				<p>Before you start this activity, if you have not done so already, review <xref ref="sec_real-world-context" />.  The rest of this activity is structured to help you become accustomed to using the A*R*C*S format on your own.</p>
-		    <p>You are riding your bicycle along a busy street.  You are stopped at a stoplight that turns green at <m>t = 0</m>, after which your digital speedometer measures your velocity as a function of time to be <m>v(t)=V\left[ 1-(t/T-1)^4 \right] \hat{y}</m> until you have to stop at the next stoplight.</p>
+				<p>Before you start this activity, if you have not done so already, review <xref ref="sec_real-world-context" />.</p>
+		    <p>You are riding your bicycle along a busy street.  You are stopped at a stoplight that turns green at <m>t = 0</m>, after which your digital speedometer measures your velocity until you have to stop at the next stoplight as a function of time to be <me>v(t)=V\left[ 1-(t/T-1)^4 \right] \hat{y}</me></p>
 				<p>Determine the distance between the stoplights.</p>
-		</introduction>
-		<task counter="1">
-		<title>Analyze and Represent</title>
-		<statement>
-				<p></p>
-		</statement>
 		<hint>
 		    <p>For the physical representation (part 1c), draw graphs of position, velocity, and acceleration vs. time, paying careful attention to the domain of your graphs.</p>
 		</hint>
-		</task>
-		
-		<task>
-		<title>Calculate</title>
-		<statement>
-				<p></p>
-		</statement>
 		<hint>
-		    <p>For the numerical calculation (part 2c), you can choose any everyday numbers for the constants V and T that would be reasonable for a bicycle.</p>
+		    <p>For the numerical calculation (part 2c), you can choose any everyday numbers for the constants <m>V</m> and <m>T</m> that would be reasonable for a bicycle.</p>
 		</hint>
-		</task>
-		
-<task>
-		<title>Sensemake</title>
-		<statement>
-				<p></p>
-		</statement>
 		<hint>
 		    <p>As part of your sensemaking (part 3c), describe the physical meaning of V and T and use the Covariational Reasoning from <xref ref="sec_covariation" /> strategy to discuss how and why your answer depends on each variable.</p>
 		</hint>
-		</task>
 
 	</project>
 	
 		<project xml:id="psa_mot-12">
         <title>Throwing at a Cliff</title>
 		<statement>
-		    <p>A ball is thrown toward a cliff of height h with a speed of 27 m/s and an angle of 60o above the horizontal. It lands on the edge of the cliff 3.2 s later.  How high is the cliff?</p>
+		    <p>A ball is thrown toward a cliff of height h with a speed of <m>27</m> m/s and an angle of <m>60^o</m> above the horizontal. It lands on the edge of the cliff <m>3.2</m> s later.  How high is the cliff?</p>
 		</statement>
 		<hint>
 		    <p>When making sense of your answer, you should often look to add something to your knowledge or confidence in your answer.  Reiterating the process you used to solve the problem doesn’t count!</p>
@@ -223,7 +320,11 @@
 
 </subsection>
   
-
+<references>
+<biblio xml:id="ref_boxsand-motion">
+<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+</biblio>
+</references>
 	
 </section>
 
