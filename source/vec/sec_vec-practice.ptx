@@ -12,8 +12,72 @@
 	
 <subsection>
 <title>Practice</title>
-
-
+  <p>Use the following figure for the next several activities.  The magnitudes of the vectors are <m>|\vec{a}| = 8</m> and <m>|\vec{b}| = 4.5</m>.  Assume that <m>\vec{c} = \vec{a} + \vec{b}</m>.</p>
+	<figure xml:id="fig_vector-sum">
+  <caption>Two vectors.</caption>
+  <image source="Vector-Sum.png" width = "50%">
+  <description></description>
+  </image>
+ </figure>
+	    <problem xml:id="psa_vec-alpha1">
+        <title>Title</title>
+		<statement>
+		    <p></p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p></p>
+		</answer>
+	</problem>
+	
+		    <problem xml:id="psa_vec-alpha2">
+        <title>Title</title>
+		<statement>
+		    <p></p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p></p>
+		</answer>
+	</problem>
+	
+		    <problem xml:id="psa_vec-alpha3">
+        <title>Title</title>
+		<statement>
+		    <p></p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p></p>
+		</answer>
+	</problem>
+	
+		    <problem xml:id="psa_vec-alpha0">
+        <title>Title</title>
+		<statement>
+		    <p></p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p></p>
+		</answer>
+	</problem>
 
 </subsection>
 

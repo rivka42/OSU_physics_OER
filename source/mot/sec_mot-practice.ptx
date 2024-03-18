@@ -44,7 +44,7 @@
 	    <problem xml:id="psa_mot-alpha3">
         <title>Waddling Pond</title>
 		<statement>
-		    <p>A park has a circular <m>100-</m>m-radius pond.  Benny starts at its westernmost point, then waddles counterclockwise around the pond until he is at its northernmost point.  What is the magnitude and direction of Benny's change in position?</p>
+		    <p>A park has a circular pond with a radius of <m>100</m> m.  Benny starts at its westernmost point, then waddles counterclockwise around the pond until he is at its northernmost point.  What is the magnitude and direction of Benny's change in position?</p>
 		</statement>
 		<!--
 		<hint>
