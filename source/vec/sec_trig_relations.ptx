@@ -28,7 +28,7 @@ Consider the sine of angle <m> \theta</m> and its relationship to the sides of t
 </p>
 
 <me>
-\sin \theta = \frac{\text{opposite}}{\text{hypotenuse}} = \frac{r_y}{r}
+\sin \theta = \frac{\mathrm{opposite}}{\mathrm{hypotenuse}} = \frac{r_y}{r}
 </me>	
 
 <p>
@@ -40,7 +40,7 @@ Now, consider the cosine of angle <m> \theta</m> and its relationship to the sid
 </p>
 
 <me>
-\cos \theta = \frac{\text{adjacent}}{\text{hypotenuse}} = \frac{r_x}{r}
+\cos \theta = \frac{\mathrm{adjacent}}{\mathrm{hypotenuse}} = \frac{r_x}{r}
 </me>	
 
 <p>
@@ -52,7 +52,7 @@ The third relationship allows you to determine the <alert>direction angle</alert
 </p>
 
 <me>
-tan \theta = \frac{\text{opposite}}{\text{adjacent}} = \frac{r_y}{r_x}  \rightarrow \theta = \tan^{-1}(\frac{r_y}{r_x})
+tan \theta = \frac{\mathrm{opposite}}{\mathrm{adjacent}} = \frac{r_y}{r_x}  \rightarrow \theta = \tan^{-1}(\frac{r_y}{r_x})
 </me>	
 
 <p>
@@ -68,12 +68,18 @@ r = |\vec{r}| = \sqrt{r_x^2 + r_y^2}
 		<title>Practice Activities</title>
 				<exercise xml:id="x_vector-lengths">
 		<statement>
-		<p>Find the length of the vectors <m>\vec{v_1}= 3\hat{x}-4\hat{y}</m> and <m>\vec{v_2}= -12\hat{x}-5\hat{y}</m>.  Find their direction as an angle relative to an axis of your choice.</p>
+		<p>Find the magnitudes of the vectors <m>\vec{v_1}= 3\hat{x}-4\hat{y}</m> and <m>\vec{v_2}= -12\hat{x}-5\hat{y}</m>.  Find their directions as angles relative to an axis of your choice.</p>
 		</statement>
+		<answer>
+		<p><m>|\vec{v_1}|= 5</m> at <m>-53^o</m> from the positive <m>x</m>-axis.</p>
+		</answer>
+				<answer>
+		<p><m>|\vec{v_2}|= 13</m> at <m>202.6^o</m> from the positive <m>x</m>-axis.</p>
+		</answer>
 		</exercise>
 		<exercise>
 		<statement>
-		<p>A vector with length 12 m points 10 degrees west of south.  Sketch this vector and find its <m>x</m>- and <m>y</m>-components.</p>
+		<p>A vector with length <m>12 \mathrm{~m}</m> points <m>10</m> degrees west of south.  Sketch this vector and find its <m>x</m>- and <m>y</m>-components.</p>
 		</statement>
 		</exercise>
 		</exercises>

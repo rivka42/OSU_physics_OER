@@ -16,7 +16,7 @@ In science, we use the SI unit system (le Systéme Internationale d'Unités), co
 <aside>
 <title>Base units and derived units</title>
 <p>
-Units for physical quantities can be divided into two categories: base units and derived units. Examples of derived units, which are often given their own name, include force (the Newton) and energy (the Joule), each of which is a specific combination of the base units of length, time and mass.
+Units for physical quantities can be divided into two categories: base units and derived units. Examples of derived units, which are often given their own name, include force (the newton) and energy (the joule), each of which is a specific combination of the base units of length, time and mass.
 </p>
 </aside>
  
@@ -153,24 +153,24 @@ We can see that the physical quantities under the square root indeed have base u
 			<title>Practice Identifying Numbers</title>
 			  <p>Below is a list of numbers with units.  For each number, find a real-world object or system with a measurement that is reasonably close<fn><m>\mu</m> is the symbol for the prefix micro-; you can search for how big it is</fn>.</p>
 				<ol>
-				<li>900,000 kg</li>
-				<li><m>25 \text{ } \mu\text{m}</m></li>
-				<li><m>3.2 \times 10^7 \text{ s}</m></li>
-				<li>110 m</li>
-				<li>60 mg</li>
-				<li>0.3 s</li>
+				<li><m>900,000 \mathrm{~kg}</m></li>
+				<li><m>25 \mathrm{~\mu m}</m></li>
+				<li><m>3.2 \times 10^7 \mathrm{~s}</m></li>
+				<li><m>110 \mathrm{~m}</m></li>
+				<li><m>60 \mathrm{~mg}</m></li>
+				<li><m>0.3 \mathrm{~s}</m></li>
 				</ol>
 			</exercise>
 			<exercise>
 			<title>Practice Checking Numbers and Identifying Errors</title>
 			  <p>Imagine that you came upon the following numbers while reading an article.  Try to identify whether or not each number is reasonable <term>without</term> directly looking up the quantity in question.</p>
 				<ol>
-				<li>It takes light around 8.5 minutes to reach Earth from the Sun</li>
-				<li>A semitruck was declared to be overloaded at a mass of 5000 kg</li>
-				<li>The distance from the Earth to the Moon is <m>384\times10^6\text{ }\mu</m>m.</li>
-				<li>The mass of a pea is 0.2 g</li>
-				<li>An Olympic marathon is 42 km</li>
-				<li>An Orca can hold its breath underwater for 10,000 s</li>
+				<li>It takes light around <m>8.5</m> minutes to reach Earth from the Sun</li>
+				<li>A semitruck was declared to be overloaded at a mass of <m>5000 \mathrm{~kg}</m></li>
+				<li>The distance from the Earth to the Moon is <m>384\times10^6 \mathrm{~\mu m}</m>.</li>
+				<li>The mass of a pea is <m>0.2 \mathrm{~g}</m></li>
+				<li>An Olympic marathon is <m>42 \mathrm{~km}</m></li>
+				<li>An Orca can hold its breath underwater for <m>10,000 \mathrm{~s}</m></li>
 				</ol>
 			</exercise>
 			

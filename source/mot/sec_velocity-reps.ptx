@@ -38,7 +38,7 @@
 	<p>At each point on your diagram, add a vector representing the instantaneous velocity at that instant.  You should be able to explain how you used the position vectors you have already drawn to determine both the magnitude and the direction of your new velocity vectors.</p>
 	</exercise>
     <p>
-      <alert>Use the strobe diagram below for the remaining exercises.</alert>  The diagram shows a ball moving from left to right.  A total of 1 s has passed between each successive dot.  The distance between the leftmost and rightmost points is <m>12 \text{ m}</m>.
+      <alert>Use the strobe diagram below for the remaining exercises.</alert>  The diagram shows a ball moving from left to right.  A total of <m>1 \mathrm{~s}</m> has passed between each successive dot.  The distance between the leftmost and rightmost points is <m>12 \mathrm{~m}</m>.
     </p>
 		<figure xml:id="mot_MotionA">
 		  <caption>A strobe diagram.</caption>
@@ -64,10 +64,18 @@
 			<hint>
 			<p>Recall the steps for performing a calculation from <xref ref="fig_calculation"></xref>.</p>
 			</hint>
+			<answer>
+			<p><m>v_{ave} = 2 \mathrm{~m/s}</m></p>
+			</answer>
 			</exercise>
 			<exercise>
 			<title>Explanation</title>
-			  <p>Is the instantaneous speed at the point in the middle greater than, less than, or equal to the average speed?  Explain your reasoning.</p>
+			<statement>
+			  <p>Is the instantaneous speed at the point in the middle <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the average speed?  Explain your reasoning.</p>
+				</statement>
+				<answer>
+				<p>Greater than!</p>
+				</answer>
 			</exercise>
 		</exercises>
   

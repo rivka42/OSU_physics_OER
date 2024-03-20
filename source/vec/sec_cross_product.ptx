@@ -73,11 +73,17 @@ Conceptually, the magnitude of the cross product quantifies how perpendicular tw
 		<statement>
 		<p>Indicate the direction of the cross product <m>\vec{v}_1 \times \vec{v}_2</m>.</p>
 		</statement>
+		<answer>
+		<p>Into the screen again!</p>
+		</answer>
 		</exercise>
 				<exercise xml:id="x_cross3">
 		<statement>
 		<p>Label the appropriate angle <m>\theta</m> and estimate its value.  Use your estimate and the value <m>a = 15</m> for the magnitude of both vectors to estimate the magnitude of <m>\vec{v}_1 \times \vec{v}_2</m>.</p>
 		</statement>
+		<answer>
+		<p>Estimating the angle to be about <m>120^o</m> gives a cross product with a magnitude of about <m>195</m>.</p>
+		</answer>
 		</exercise>
 		</exercises>
       

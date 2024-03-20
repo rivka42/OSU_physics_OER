@@ -4,7 +4,7 @@
   <title>Vector Algebra</title>
 
 <p>
-Representing vectors as arrows is a good way to get a geometric understanding and also for creating a good physics diagram of a physical situation you are interested in understanding. However, if you want to quantify the physics, you need to work algebraically within a particular coordinate system. Consider the vector  <m>\vec{A}</m> written in terms of components and the unit vectors <m> \hat{x} </m>, <m> \hat{y} </m> and <m> \hat{z} </m>
+Representing vectors as arrows is a good way to get a geometric understanding and also for creating a good physics diagram of a physical situation you are interested in understanding. However, if you want to quantify the physics, you need to work algebraically within a particular coordinate system. Consider the vector <m>\vec{A}</m> written in terms of components and the unit vectors <m> \hat{x} </m>, <m> \hat{y} </m>, and <m> \hat{z} </m>
 </p>
 
 <me>
@@ -84,16 +84,25 @@ To subtract vectors algebraically, you simple subtract like components.
 		<statement>
 		<p>Find <m>-\vec{B}/5</m>.</p>
 		</statement>
+		<answer>
+		<p><m>-\vec{B}/5 = \hat{x}+\frac{1}{5}\hat{y}</m></p>
+		</answer>
 		</exercise>
 		<exercise>
 		<statement>
 		<p>Find <m>\vec{A} + 2\vec{B}</m>.</p>
 		</statement>
+		<answer>
+		<p><m>\vec{A} + 2\vec{B} = -9\hat{x}+5\hat{y} </m></p>
+		</answer>
 		</exercise>
 		<exercise>
 		<statement>
 		<p>Find <m>\vec{A} - \vec{B}</m>.</p>
 		</statement>
+		<answer>
+		<p><m>\vec{A} - \vec{B} = -3\hat{x}-4\hat{y}</m></p>
+		</answer>
 		</exercise>
 		</exercises>
   

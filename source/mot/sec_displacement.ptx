@@ -32,7 +32,7 @@ You have probably noticed that physics notation uses subscripts to mean a lot of
 	<title>Activities</title>
 			<exercise xml:id="x_vectors-park">
 			<title>Practice: Vectors in the Park</title>
-			<p>You and your friend are each standing at opposite ends of a 125 m long park.  Your friend, who is initially due south of you, walks 50 m east and stops to wait for you.  Then, you walk in a straight line until you reach your friend.
+			<p>You and your friend are each standing at opposite ends of a <m>125 \mathrm{~m}</m> long park.  Your friend, who is initially due south of you, walks <m>50 \mathrm{~m}</m> east and stops to wait for you.  Then, you walk in a straight line until you reach your friend.
 			<ol marker="a">
 			<li>
 			  <p>Choose an origin of coordinates for this problem and make a sketch of the context.</p>
