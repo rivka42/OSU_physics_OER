@@ -39,7 +39,7 @@
 			<p>You can define the child's initial position to be <m>0</m>.  Don't forget to pick a coordinate system!</p>
 			</hint>
 			<answer>
-			<p>Choosing <m>\vec{a} = a\hat{x} = 0.75\hat{x} \mathrm{~m/s}^2</m>, we end up with <m>\vec{v}_f = \vec{a}t = 6.75 \hat{x} \mathrm{~m/s}</m> and <m>\vec{r}_f = \frac{1}{2}\vec{a}t^2 = 30.375 \hat{x} \mathrm{~m}</m></p>
+			<p>Choosing <m>\vec{a} = a\hat{x} = 0.75\hat{x} \mathrm{~m/s^2}</m>, we end up with <m>\vec{v}_f = \vec{a}t = 6.75 \hat{x} \mathrm{~m/s}</m> and <m>\vec{r}_f = \frac{1}{2}\vec{a}t^2 = 30.375 \hat{x} \mathrm{~m}</m></p>
 			</answer>
 			</exercise>
 			
