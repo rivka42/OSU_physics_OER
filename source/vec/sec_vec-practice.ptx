@@ -152,7 +152,7 @@
 		<activity xml:id="psa_vec-5">
         <title>The Trees upon the Hillside</title>
 		<introduction>
-		    <p>A surveyor measures a hillside and describes the height of the hill <m>y</m> (in meters) as the following function of distance from the base of the hill <m>x</m> (also measured in meters): <me>y(x) = a_1x^3 - a_2x^5</me>. He reports that <m>a_1 = 1.5 \times 10^{-5}</m> and <m>a_2 = 1.0 \times 10^{-10}</m>.  He has also identified three especially large trees (about <m>30 \mathrm{~m}</m> tall) whose roots are located at <m>x_1 = 5 \mathrm{~m}</m>, <m>x_2 = 257 \mathrm{~m}</m>, and <m>x_3 = 300 \mathrm{~m}</m>.</p>
+		    <p>A surveyor measures a hillside and describes the height of the hill <m>y</m> (in meters) as the following function of distance from the base of the hill <m>x</m> (also measured in meters): <me>y(x) = a_1x^3 - a_2x^5</me> He reports that <m>a_1 = 1.5 \times 10^{-5}</m> and <m>a_2 = 1.0 \times 10^{-10}</m>.  He has also identified three especially large trees (about <m>30 \mathrm{~m}</m> tall) whose bases are located at <m>x_1 = 5 \mathrm{~m}</m>, <m>x_2 = 257 \mathrm{~m}</m>, and <m>x_3 = 300 \mathrm{~m}</m>.</p>
 		</introduction>
 		
 		<task>
@@ -165,7 +165,7 @@
 		<task>
 		<title>Represent</title>
 		<statement>
-		<p>Sketch and label a quantitatively accurate diagram of the hillside and the trees</p>
+		<p>Sketch and label a quantitatively accurate diagram of the hillside and the trees.</p>
 		</statement>
 		<hint>
 		    <p>Make sure to identify your origin, label your axes, and identify any relevant points of interest.</p>
