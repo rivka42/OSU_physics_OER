@@ -33,40 +33,147 @@
 <subsection>
 <title>Study</title>
 
-    <project xml:id="psa_for-00">
-        <title>Title</title>
+    <investigation xml:id="psa_for-01">
+        <title>Skydiver</title>
 		<statement>
-		    <p></p>
+		    <p>When a skydiver jumps from a plane, they quickly become subject to a substantial force known as <em>air resistance</em> or air <em>drag</em>. This force becomes larger when the skydiver's velocity becomes larger.</p>
+
+			<title>Accelerating Downward</title>
+			<statement>
+			<p>During the first part of falling, the skydiver is accelerating downward. Draw and label a freebody diagram for the skydiver. Rank the magnitudes of all forces on the skydiver.</p>
+			</statement>
+
+			<task>
+			<title>Constant Velocity</title>
+			<statement>
+			<p>Eventually, the skydiver stops accelerating and moves with constant velocity (this is known as terminal velocity). Draw and label a free-body diagram for the skydiver. Rank the magnitudes of all forces on the skydiver.</p>
+			</statement>
+			</task>
+			<task>
+			<title>Throwing an Object</title>
+			<statement>
+			<p>Suppose the skydiver throws an object downward so that the object's speed is greater than the terminal velocity, with respect to the ground. In this situation, the acceleration of the object will be <em>upward</em>. Draw and label a free-body diagram for the object. Rank the magnitudes of all forces on the object.</p>
+			</statement>
+			</task>
 		</statement>
+		<!--
 		<hint>
 		    <p></p>
 		</hint>
 		<solution>
 		    <p></p>
 		</solution>
-	</project>
-
-</subsection>
-
-<subsection>
-<title>Apply</title>
-
-    <project xml:id="psa_for-000">
-        <title>Title</title>
+		-->
+	</investigation>
+	<investigation xml:id="pa_for-02">
+        <title>Water Slide</title>
 		<statement>
-		    <p></p>
+		    <p>You slide down a water slide of length L that makes an angle <m>\theta</m> with the horizontal, starting from rest. Do not neglect friction (use <m>\mu_k</m> as the coefficient of kinetic friction). Determine the amount of time it takes you to reach the bottom of the slide.</p>
+		</statement>
+		<hint>
+		    <p>To make sense of your answer, use special-case analysis in the case that friction can be neglected.</p>
+		</hint>
+	</investigation>
+
+	<investigation xml:id="pa_for-03">
+        <title>Walking a Cat</title>
+		<statement>
+		    <p>You are trying to exercise your cat by walking them around the room with a harness - a jacket is strapped around the cat with a leash that you can pull. To get your cat moving, you pull on the leash at an angle <m>\theta</m> above the horizontal (note this is <b>not</b> how you should train your cat with a harness). Annoyed, your cat flops onto their side where there is a sizable friction between the cat and the floor. As you pull your cat, you notice they move with a constant speed. </p>
+			<p>From previous experiments with this harness, you know that your "pull" at the given angle has a vertical component equal to <b>half</b> the weight of your cat. </p>
+			<p>During the pull, rank the magnitude of the forces acting on the cat.</p>
 		</statement>
 		<!--
 		<hint>
 		    <p></p>
 		</hint>
 		-->
-	</project>
-
+	</investigation>
+	<investigation xml:id="pa_for-04">
+        <title>Walking a Cat</title>
+		<statement>
+		    <p>You are trying to exercise your cat by walking them around the room with a harness - a jacket is strapped around the cat with a leash that you can pull. To get your cat moving, you pull on the leash at an angle <m>\theta</m> above the horizontal (note this is <b>not</b> how you should train your cat with a harness). Annoyed, your cat flops onto their side where there is a sizable friction between the cat and the floor. As you pull your cat, you notice they move with a constant speed. </p>
+			<p>From previous experiments with this harness, you know that your "pull" at the given angle has a vertical component equal to <b>half</b> the weight of your cat. </p>
+			<task>
+			<title>Rank the forces</title>
+			<statement>
+			<p>During the pull, rank the magnitude of the forces acting on the cat.</p>
+			</statement>
+			</task>
+			<p>To assist you, you add an additional rope hanging from the ceiling that always stays vertical but the attachment is free to move along the ceiling (like something you would find in an action movie). This new rope's tension has a magnitude equal to the vertical component of your pull. You now pull on the leash with the same magnitude and direction as before.</p>
+			<task>
+			<title>Explain</title>
+			<statement>
+			<p>Now, you notice the cat speeds up. Explain why this occurs. </p>
+			</statement>
+			</task>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+	</investigation>
 
 </subsection>
-  
 
+<subsection>
+<title>Apply</title>
+
+    <investigation xml:id="psa_for-05">
+        <title>Three Cars Redux</title>
+		<statement>
+		    <p>Recall <xref ref = "x_three-cars"></xref>. Answer this question again. As part of your explanation, discuss how your answer, your reasoning, or your understanding has changed since you first thought about this task.</p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+	</investigation>
+
+	<investigation xml:id="psa_for-06">
+        <title>Accelerating Truck</title>
+		<statement>
+		    <p>A truck is traveling in a straight line on level ground, and is accelerating uniformly. Two ropes are tied to the back of the truck. The other end of each rope is tied to a bucket: the bucket tied to rope 1 has a larger mass than the bucket tied to rope 2. You notice that each rope is hanging from the back of the truck at a fixed (but potentially different) angle. Is the angle of rope 1 <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the angle of rope 2?</p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+	</investigation>
+
+	<investigation xml:id="psa_for-07">
+        <title>Rope Tension</title>
+		<statement>
+		    <p>An athlete of mass <em>m</em> is training by hanging from two ropes attached to the ceiling, as shown in the figure. What is the tension in each rope?</p>
+		</statement>
+		<hint>
+		    <p>To make sense of your answer, use special-case analysis in the case that the two angles are equal to each other.</p>
+		</hint>
+	</investigation>
+
+	<investigation xml:id="psa_for-08">
+        <title>Books on an Elevator</title>
+		<statement>
+		    <p>Two books (shown below) are in an elevator that is moving downward.  As the elevator approaches the ground floor, its speed decreases.  Identify and rank all forces acting on the two books by magnitude, from largest to smallest.</p>
+		</statement>
+		<hint>
+		    <p>Free-body diagrams will prove very helpful. Your reasoning should specifically reference how you used Newton's Laws.</p>
+		</hint>
+	</investigation>
+
+	<investigation xml:id="psa_for-09">
+        <title>Box at an Angle</title>
+		<statement>
+		    <p>The two boxes below are initially at rest, connected by ropes and sitting on tables. Determine the acceleration of the system, assuming that the boxes begin to slide and that both surfaces have nonzero friction (<m>\mu_k</m>).</p>
+		</statement>
+		<hint>
+		    <p>As part of your sensemaking, evaluate your answer in at least one special case, including a detailed explanation for what the answer should be for the case you chose.</p>
+		</hint>
+	</investigation>
+
+</subsection>
 	
 </section>
 
