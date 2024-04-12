@@ -50,8 +50,7 @@
 
 <subsection>
 <title>Apply</title>
-
-    <project xml:id="pa_en-000">
+    <investigation xml:id="pa_en-000">
         <title>Title</title>
 		<statement>
 		    <p></p>
@@ -61,7 +60,7 @@
 		    <p></p>
 		</hint>
 		-->
-	</project>
+	</investigation>
 
 
 </subsection>
