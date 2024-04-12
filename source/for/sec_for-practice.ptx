@@ -113,6 +113,39 @@
 		</hint>
 		-->
 	</investigation>
+	
+	    <investigation xml:id="psa_for-04y">
+        <title>Supported Block</title>
+		<statement>
+		    <p>The two blocks in the figure are being pushed so that they move together with increasing speed and that block B does not move vertically.</p>
+				<figure xml:id="for_x-blocks">
+		 <caption>Two blocks moving together.</caption>
+		<image source="Supported_block.png" width = "60%">
+			<description></description></image>
+  </figure>
+				<p>Sketch a free-body diagram for each block and explicitly rank the magnitudes of the forces acting on each block.</p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+	</investigation>
+	
+		<project xml:id="psa_for-04z">
+        <title>Stacked Blocks</title>
+		<statement>
+						<p>The blocks below have different masses, <m>m_1</m> and <m>m_2</m>.  Each block is connected to a horizontal rope; the upper rope is connected to the wall and the lower rope is being pulled to the right with known tension <m>T</m>.  All coefficients of kinetic friction <m>\mu_k</m> between all surfaces are equal and nonzero.  Determine the tension in the upper rope and the acceleration of the lower block?</p>
+						<figure xml:id="for_x-blocks-ropes">
+		 <caption>Two blocks attached to ropes.</caption>
+		<image source="Blocks_Ropes.png" width = "30%">
+			<description></description></image>
+  </figure>
+		</statement>
+		<hint>
+		    <p>As part of your sensemaking, evaluate your answer in at least one special case, including a detailed explanation for what the answer should be for the case you chose.</p>
+		</hint>
+	</project>
 
 </subsection>
 
@@ -130,6 +163,21 @@
 		</hint>
 		-->
 	</investigation>
+	
+	    <investigate xml:id="psa_for-05a">
+        <title>The Angled Block</title>
+		<statement>
+		<p>NOTE: This is intended to replace the activity from Homework 4 that was from the Tutorials.  It needs a figure.</p>
+		    <p>In the two situations depicted below, an angled block is at rest on a ramp.  In each case, a cylindrical piston pushes on the block with constant force.  In Case A, the piston pushes on the upper horizontal surface of the block.  In Case B, the piston pushes on the upper angled surface with a constant force of the same magnitude.  In both cases, the block remains at rest on the ramp.</p>
+				<p>Part A: Is the magnitude of the net force on the block in Case B <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the net force in Case A?</p>
+				<p>Part B: Is the magnitude of the frictional force exerted on the block by the ramp in Case B <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the frictional force in Case A?</p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+	</investigate>
 
 	<investigation xml:id="psa_for-06">
         <title>Accelerating Truck</title>
@@ -143,7 +191,7 @@
 		-->
 	</investigation>
 
-	<investigation xml:id="psa_for-07">
+	<project xml:id="psa_for-07">
         <title>Rope Tension</title>
 		<statement>
 		    <p>An athlete of mass <em>m</em> is training by hanging from two ropes attached to the ceiling, as shown in the figure. What is the tension in each rope?</p>
@@ -151,19 +199,23 @@
 		<hint>
 		    <p>To make sense of your answer, use special-case analysis in the case that the two angles are equal to each other.</p>
 		</hint>
-	</investigation>
+	</project>
 
-	<investigation xml:id="psa_for-08">
-        <title>Books on an Elevator</title>
+	
+		    <investigation xml:id="psa_for-08">
+        <title>Two Books in an Elevator</title>
 		<statement>
-		    <p>Two books (shown below) are in an elevator that is moving downward.  As the elevator approaches the ground floor, its speed decreases.  Identify and rank all forces acting on the two books by magnitude, from largest to smallest.</p>
+		<p>NOTE: This is intended to replace the activity from Homework 6 that was from the Tutorials.  It needs a figure.</p>
+		    <p>The two books from class (shown below) are in an elevator that is moving downward.  As the elevator approaches the ground floor, its speed decreases.  Identify and rank all forces acting on the two books by magnitude, from largest to smallest.</p>
+				<p>Part A: Is the magnitude of the net force on the block in Case B <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the net force in Case A?</p>
+				<p>Part B: Is the magnitude of the frictional force exerted on the block by the ramp in Case B <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the frictional force in Case A?</p>
 		</statement>
 		<hint>
-		    <p>Free-body diagrams will prove very helpful. Your reasoning should specifically reference how you used Newton's Laws.</p>
+		    <p>Free-body diagrams can be very helpful!  Your reasoning should specifically reference how you used Newton’s Laws.</p>
 		</hint>
 	</investigation>
 
-	<investigation xml:id="psa_for-09">
+	<project xml:id="psa_for-09">
         <title>Box at an Angle</title>
 		<statement>
 		    <p>The two boxes below are initially at rest, connected by ropes and sitting on tables. Determine the acceleration of the system, assuming that the boxes begin to slide and that both surfaces have nonzero friction (<m>\mu_k</m>).</p>
@@ -171,7 +223,7 @@
 		<hint>
 		    <p>As part of your sensemaking, evaluate your answer in at least one special case, including a detailed explanation for what the answer should be for the case you chose.</p>
 		</hint>
-	</investigation>
+	</project>
 
 </subsection>
 	

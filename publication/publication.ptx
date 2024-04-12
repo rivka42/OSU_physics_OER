@@ -31,7 +31,7 @@
     <!-- numbering of the respective elements. Can't be more than the -->
     <!-- @level on divisions above.                                   -->
     <blocks level="2"/>
-    <projects level="1"/>
+    <projects level="2"/>
     <equations level="2"/>
     <footnotes level="2"/>
 		<divisions level="2"/>
