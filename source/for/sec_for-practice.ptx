@@ -68,7 +68,7 @@
 	<investigation xml:id="pa_for-02">
         <title>Water Slide</title>
 		<statement>
-		    <p>You slide down a water slide of length L that makes an angle <m>\theta</m> with the horizontal, starting from rest. Do not neglect friction (use <m>\mu_k</m> as the coefficient of kinetic friction). Determine the amount of time it takes you to reach the bottom of the slide.</p>
+		    <p>You slide down a water slide of length <m>L</m> that makes an angle <m>\theta</m> with the horizontal, starting from rest. Do not neglect friction (use <m>\mu_k</m> as the coefficient of kinetic friction). Determine the amount of time it takes you to reach the bottom of the slide.</p>
 		</statement>
 		<hint>
 		    <p>To make sense of your answer, use special-case analysis in the case that friction can be neglected.</p>
@@ -78,8 +78,8 @@
 	<investigation xml:id="pa_for-03">
         <title>Walking a Cat</title>
 		<statement>
-		    <p>You are trying to exercise your cat by walking them around the room with a harness - a jacket is strapped around the cat with a leash that you can pull. To get your cat moving, you pull on the leash at an angle <m>\theta</m> above the horizontal (note this is <b>not</b> how you should train your cat with a harness). Annoyed, your cat flops onto their side where there is a sizable friction between the cat and the floor. As you pull your cat, you notice they move with a constant speed. </p>
-			<p>From previous experiments with this harness, you know that your "pull" at the given angle has a vertical component equal to <b>half</b> the weight of your cat. </p>
+		    <p>You are trying to exercise your cat by walking them around the room with a harness; a jacket is strapped around the cat with a leash that you can pull. To get your cat moving, you pull on the leash at an angle <m>\theta</m> above the horizontal (note this is <em>not</em> how you should train your cat with a harness). Annoyed, your cat flops onto their side where there is a sizable friction between the cat and the floor. As you pull your cat, you notice they move with a constant speed. </p>
+			<p>From previous experiments with this harness, you know that your ``pull'' at the given angle has a vertical component equal to <em>half</em> the weight of your cat. </p>
 			<p>During the pull, rank the magnitude of the forces acting on the cat.</p>
 		</statement>
 		<!--
@@ -164,11 +164,15 @@
 		-->
 	</investigation>
 	
-	    <investigate xml:id="psa_for-05a">
+	    <investigation xml:id="psa_for-05a">
         <title>The Angled Block</title>
 		<statement>
-		<p>NOTE: This is intended to replace the activity from Homework 4 that was from the Tutorials.  It needs a figure.</p>
 		    <p>In the two situations depicted below, an angled block is at rest on a ramp.  In each case, a cylindrical piston pushes on the block with constant force.  In Case A, the piston pushes on the upper horizontal surface of the block.  In Case B, the piston pushes on the upper angled surface with a constant force of the same magnitude.  In both cases, the block remains at rest on the ramp.</p>
+				<figure xml:id="for_x-angled">
+		 <caption>.</caption>
+		<image source="Angled.png" width = "30%">
+			<description></description></image>
+  </figure>
 				<p>Part A: Is the magnitude of the net force on the block in Case B <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the net force in Case A?</p>
 				<p>Part B: Is the magnitude of the frictional force exerted on the block by the ramp in Case B <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the frictional force in Case A?</p>
 		</statement>
@@ -177,12 +181,17 @@
 		    <p></p>
 		</hint>
 		-->
-	</investigate>
+	</investigation>
 
 	<investigation xml:id="psa_for-06">
         <title>Accelerating Truck</title>
 		<statement>
 		    <p>A truck is traveling in a straight line on level ground, and is accelerating uniformly. Two ropes are tied to the back of the truck. The other end of each rope is tied to a bucket: the bucket tied to rope 1 has a larger mass than the bucket tied to rope 2. You notice that each rope is hanging from the back of the truck at a fixed (but potentially different) angle. Is the angle of rope 1 <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the angle of rope 2?</p>
+				<figure xml:id="for_x-truck">
+		 <caption>A bucket suspended from the back of an accelerating truck.</caption>
+		<image source="Truck.png" width = "30%">
+			<description></description></image>
+  </figure>
 		</statement>
 		<!--
 		<hint>
@@ -195,6 +204,11 @@
         <title>Rope Tension</title>
 		<statement>
 		    <p>An athlete of mass <em>m</em> is training by hanging from two ropes attached to the ceiling, as shown in the figure. What is the tension in each rope?</p>
+				<figure xml:id="for_x-athlete">
+		 <caption>An athlete suspended by two ropes.</caption>
+		<image source="Athlete.png" width = "30%">
+			<description></description></image>
+  </figure>
 		</statement>
 		<hint>
 		    <p>To make sense of your answer, use special-case analysis in the case that the two angles are equal to each other.</p>
@@ -205,8 +219,12 @@
 		    <investigation xml:id="psa_for-08">
         <title>Two Books in an Elevator</title>
 		<statement>
-		<p>NOTE: This is intended to replace the activity from Homework 6 that was from the Tutorials.  It needs a figure.</p>
 		    <p>The two books from class (shown below) are in an elevator that is moving downward.  As the elevator approaches the ground floor, its speed decreases.  Identify and rank all forces acting on the two books by magnitude, from largest to smallest.</p>
+				<figure xml:id="for_x-books">
+		 <caption>Two books in an elevator.</caption>
+		<image source="Stacked_Books.png" width = "30%">
+			<description></description></image>
+  </figure>
 				<p>Part A: Is the magnitude of the net force on the block in Case B <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the net force in Case A?</p>
 				<p>Part B: Is the magnitude of the frictional force exerted on the block by the ramp in Case B <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the frictional force in Case A?</p>
 		</statement>
