@@ -17,6 +17,12 @@
 		<title>Balancing the forces</title>
 		<statement>
 			<p>Each of the following (2-dimensional) free-body diagrams shows the directions of all the forces that are acting on an object. If the magnitude of each force can be adjusted to any non-zero value <em>but its direction cannot be changed</em>, which of the objects can be put into equilibrium?</p>
+			<figure xml:id="fig_force-balance-forces">
+			<caption></caption>
+			<image source="balance_forces.png" width = "100%">
+				<description></description>
+			</image>
+		</figure>
 		</statement>
 		<answer>
 			<p>(1), (2), and (5)</p>
@@ -27,6 +33,12 @@
 		<title>Teapot</title>
 		<statement>
 			<p>A person pushes a cart to the left at constant velocity across a level floor. A teapot sits on the cart without slipping. Assume there is no air resistance. Choose the correct free-body diagram for the teapot.</p>
+		<figure xml:id="fig_force-teapot">
+			<caption></caption>
+			<image source="teapot.png" width = "100%">
+				<description></description>
+			</image>
+		</figure>	
 		</statement>
 		<answer>
 			<p>(1)</p>
@@ -88,7 +100,7 @@
 	</problem>
 
 	<problem xml:id="psa_for-alpha7">
-		<title>Elevator</title>
+		<title>Pushing on a block</title>
 		<statement>
 			<p>A 1.40 kg block is at rest on a level table.  The coefficient of static friction between the table and the block is 0.40, and the coefficient of kinetic friction between the two is 0.10.  A person then applies a 6.00 N force at an angle of 30.0<m>\deg</m> downward relative to the positive-x direction. Use <m>g = 9.80 \mathrm{~m/s^2}</m> and a standard coordinate system. What is the magnitude of the friction force acting between the block and table? What is the acceleration of the block? What is the acceleration of the block if the person applies the 6.00 N force at an angle of 30.0<m>\deg</m> upward relative to the positive-x direction?</p>
 		</statement>
@@ -107,7 +119,14 @@
 		<title>Angled ramp with a pulley</title>
 		<statement>
 			<p>A box (<m>m_1 = 10.5 \mathrm{~kg}</m>) is on an inclined plane with negligible friction between the box and the incline.  This box is attached via an ideal string and pulley to the hanging mass (<m>m_1 = 5.5 \mathrm{~kg}</m>), as shown.  The incline make an angle of 20.0° with respect to the horizontal.  Use <m>g = 9.80 \mathrm{~m/s^2}</m>. Rank the magnitude of accelerations for <m>m_1</m> and <m>m_2</m>. Do we necessarily know the direction of acceleration of <m>m_1</m> without doing any calculations? Find the magnitude of acceleration for <m>m_1</m>. What direction is the acceleration of <m>m_1</m>? </p>
+		<figure xml:id="fig_force-pulley-angle">
+			<caption></caption>
+			<image source="pulley_angle.png" width = "50%">
+				<description></description>
+			</image>
+		</figure>	
 		</statement>
+		
 		<answer>
 			<p><m>|\vec{a}_1| = |\vec{a}_2|</m></p>
 		</answer>
@@ -340,7 +359,7 @@
 </subsection>
 
 <references>
-	<biblio xml:id="ref_boxsand-motion">
+	<biblio xml:id="ref_boxsand-force">
 	<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
 	</biblio>
 </references>

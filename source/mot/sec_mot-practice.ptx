@@ -403,7 +403,7 @@
 			<project xml:id="psa_mot-14">
         <title>The Penny in the Elevator</title>
 		<statement>
-		    <p>You are standing in an elevator with no ceiling that is initialy at rest near the middle of a building.  You throw a penny straight upward with a known initial velocity at exactly the instant the elevator begins to accelerate downward with a known acceleration much smaller than g.  Find the displacement of the elevator when you catch the penny, and the amount of time the penny was in the air.</p>
+		    <p>You are standing in an elevator with no ceiling that is initially at rest near the middle of a building.  You throw a penny straight upward with a known initial velocity at exactly the instant the elevator begins to accelerate downward with a known acceleration much smaller than g.  Find the displacement of the elevator when you catch the penny, and the amount of time the penny was in the air.</p>
 		</statement>
 		<hint>
 		    <p>For part 1b, sketch graphs of the position vs. time and the velocity vs. time for both the elevator and the penny.  It can help to graph these on the same set of axes if you are careful about labeling your different graphs.</p>
