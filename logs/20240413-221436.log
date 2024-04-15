@@ -1,0 +1,17 @@
+INFO    : PreTeXt project found in `/Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER`.
+INFO    : Preparing to build into /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/output/web.
+INFO    : discovering source file's directory name: /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source
+INFO    : verifying and expanding input directory: /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/../generated-assets
+INFO    : input directory expanded to absolute path: /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/generated-assets
+INFO    : verifying and expanding input directory: /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/../assets
+INFO    : input directory expanded to absolute path: /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/assets
+INFO    : Runestone Services (via PreTeXt repository): version 7.1.2
+INFO    : Runestone Services (using newer, via online CDN query): version 7.2.15
+INFO    : converting /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx to HTML in /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmp8m9aam9v
+INFO    : XSL conversion of /Users/drenniks/Library/CloudStorage/Box-Box/OER_Book/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/pretext-html.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    :     * PTX:ERROR: the @xml:id value "ref_boxsand-motion" should be unique, but is authored 2 times.
+INFO    :     *            Results will be unpredictable, and likely incorrect.  Information on the locations follows:
+INFO    :     *              located within: "ref_boxsand-motion" (xml:id)
+INFO    :     *              located within: "ref_boxsand-motion" (xml:id)
+INFO    : successful application of /Users/drenniks/.ptx/xsl/pretext-html.xsl
