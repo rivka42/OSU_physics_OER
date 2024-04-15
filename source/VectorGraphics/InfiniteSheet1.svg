@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="7.6647787in"
-   height="2.8277965in"
-   viewBox="0 0 194.68537 71.826028"
+   width="13.664779in"
+   height="5.0413995in"
+   viewBox="0 0 347.08536 128.05154"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="InfiniteSheet.svg">
+   sodipodi:docname="InfiniteSheet1.svg">
   <defs
      id="defs2">
     <marker
@@ -161,9 +161,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="527.74528"
-     inkscape:cy="20.9624"
+     inkscape:zoom="1"
+     inkscape:cx="566.84372"
+     inkscape:cy="247.21535"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -193,64 +193,64 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(230.80121,-60.948678)">
+     transform="translate(307.00122,-32.835917)">
     <text
        xml:space="preserve"
-       style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
-       x="-113.00458"
-       y="99.763092"
+       style="font-size:8.80505753px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.47169954"
+       x="-96.993195"
+       y="102.03431"
        id="text1250-9"><tspan
          sodipodi:role="line"
          id="tspan1248-8"
-         x="-113.00458"
-         y="99.763092"
-         style="font-style:italic;font-size:7.4083333px;stroke-width:0.26458332">x</tspan></text>
+         x="-96.993195"
+         y="102.03431"
+         style="font-style:italic;font-size:13.20758724px;stroke-width:0.47169954">x</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#d45500;stroke-width:1.07456994;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:none;fill-opacity:1;stroke:#d45500;stroke-width:1.9157449;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect1431"
-       width="152.14203"
-       height="81.862984"
-       x="-153.60641"
-       y="70.914757"
+       width="271.23904"
+       height="145.94545"
+       x="-213.15492"
+       y="38.873524"
        rx="0"
        ry="0"
        transform="matrix(1,0,-0.5,0.8660254,0,0)" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker966)"
-       d="M -135.89169,97.700013 -125.1844,79.154442"
+       style="fill:none;stroke:#000000;stroke-width:1.06968093;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker966)"
+       d="M -137.79638,98.356252 -118.7074,65.29318"
        id="path956"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker966-9)"
-       d="m -135.89169,97.700014 21.41458,2e-6"
+       style="fill:none;stroke:#000000;stroke-width:1.06968093;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker966-9)"
+       d="m -137.79638,98.356254 38.17795,3e-6"
        id="path956-6"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker966-1)"
-       d="M -135.89169,97.700014 V 76.285433"
+       style="fill:none;stroke:#000000;stroke-width:1.06968093;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker966-1)"
+       d="M -137.79638,98.356254 V 60.178307"
        id="path956-0"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
-       x="-122.78593"
-       y="79.874275"
+       style="font-size:8.80505753px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.47169954"
+       x="-114.4314"
+       y="66.5765"
        id="text1250-9-7"><tspan
          sodipodi:role="line"
          id="tspan1248-8-8"
-         x="-122.78593"
-         y="79.874275"
-         style="font-style:italic;font-size:7.4083333px;stroke-width:0.26458332">y</tspan></text>
+         x="-114.4314"
+         y="66.5765"
+         style="font-style:italic;font-size:13.20758724px;stroke-width:0.47169954">y</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
-       x="-141.49478"
-       y="75.758324"
+       style="font-size:8.80505753px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.47169954"
+       x="-147.78557"
+       y="59.238575"
        id="text1250-9-2"><tspan
          sodipodi:role="line"
          id="tspan1248-8-7"
-         x="-141.49478"
-         y="75.758324"
-         style="font-style:italic;font-size:7.4083333px;stroke-width:0.26458332">z</tspan></text>
+         x="-147.78557"
+         y="59.238575"
+         style="font-style:italic;font-size:13.20758724px;stroke-width:0.47169954">z</tspan></text>
   </g>
 </svg>

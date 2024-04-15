@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="3.9132836in"
-   height="3.9132836in"
-   viewBox="0 0 99.3974 99.397403"
+   width="7.7434454in"
+   height="7.7434454in"
+   viewBox="0 0 196.68351 196.68351"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -57,8 +57,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="404.50573"
-     inkscape:cy="52.17105"
+     inkscape:cx="410.56667"
+     inkscape:cy="357.23712"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -88,55 +88,55 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(119.4527,-124.08193)">
+     transform="translate(168.09576,-75.438877)">
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.23546648;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect896"
-       width="96.751572"
-       height="96.751572"
-       x="-118.12978"
-       y="125.40485" />
+       width="191.44804"
+       height="191.44804"
+       x="-165.47803"
+       y="78.05661" />
     <rect
-       style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:2.96813846;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect863-4"
-       width="18.63941"
-       height="60.098213"
-       x="-206.08551"
-       y="-99.26857"
+       width="36.8829"
+       height="118.91988"
+       x="-237.70421"
+       y="-128.15622"
        ry="0"
        rx="0"
        transform="rotate(-90)" />
     <text
        xml:space="preserve"
-       style="font-size:11.0841856px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.59379572"
-       x="-85.036621"
-       y="199.10658"
+       style="font-size:21.9329319px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:1.17497861"
+       x="-99.994629"
+       y="223.89459"
        id="text871-7"><tspan
          sodipodi:role="line"
          id="tspan869-1"
-         x="-85.036621"
-         y="199.10658"
-         style="stroke-width:0.59379572">Upper</tspan></text>
+         x="-99.994629"
+         y="223.89459"
+         style="stroke-width:1.17497861">Upper</tspan></text>
     <rect
-       style="fill:#d73f09;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#d73f09;fill-opacity:1;stroke:#000000;stroke-width:2.96813846;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect863-4-3"
-       width="14.363095"
-       height="60.098213"
-       x="-220.44861"
-       y="-99.26857"
+       width="28.421104"
+       height="118.91988"
+       x="-266.12531"
+       y="-128.15622"
        ry="0"
        rx="0"
        transform="rotate(-90)" />
     <text
        xml:space="preserve"
-       style="font-size:11.0841856px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.59379572"
-       x="-85.134041"
-       y="217.02583"
+       style="font-size:21.9329319px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:1.17497861"
+       x="-100.18739"
+       y="259.35248"
        id="text871-7-9"><tspan
          sodipodi:role="line"
          id="tspan869-1-0"
-         x="-85.134041"
-         y="217.02583"
-         style="stroke-width:0.59379572">Lower</tspan></text>
+         x="-100.18739"
+         y="259.35248"
+         style="stroke-width:1.17497861">Lower</tspan></text>
   </g>
 </svg>

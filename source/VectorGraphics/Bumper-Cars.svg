@@ -8,8 +8,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
-   width="161.36697"
-   height="246.05067"
+   width="612.44592"
+   height="651.13312"
    id="svg35"
    sodipodi:docname="Bumper-Cars.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
@@ -42,9 +42,9 @@
      fit-margin-left="2"
      fit-margin-right="2"
      fit-margin-bottom="2"
-     inkscape:zoom="2.9734127"
-     inkscape:cx="77.208504"
-     inkscape:cy="119.34721"
+     inkscape:zoom="1.0512601"
+     inkscape:cx="323.76297"
+     inkscape:cy="300.88844"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -122,101 +122,120 @@
   </defs>
   <text
      xml:space="preserve"
-     style="font-size:18.66666603px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px"
-     x="13.11252"
-     y="15.580729"
+     style="font-size:53.14514542px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:2.8470614"
+     x="194.05049"
+     y="40.665169"
      id="text844"><tspan
        sodipodi:role="line"
        id="tspan842"
-       x="13.11252"
-       y="15.580729">Top-down View</tspan></text>
-  <g
-     id="g1959"
-     transform="translate(166.58095,102.31313)">
-    <rect
-       transform="rotate(90)"
-       ry="7.1749296"
-       rx="7.1749296"
-       y="131.77853"
-       x="-47.765865"
-       height="28.699718"
-       width="57.399437"
-       id="rect825"
-       style="opacity:1;fill:#000080;fill-opacity:0.19607843;stroke:#000080;stroke-width:8.20539474;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       transform="rotate(90)"
-       ry="7.1749296"
-       rx="7.1749296"
-       y="131.77853"
-       x="80.235413"
-       height="28.699718"
-       width="57.399437"
-       id="rect825-3"
-       style="opacity:1;fill:#d45500;fill-opacity:0.19607843;stroke:#d45500;stroke-width:8.20539474;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path846"
-       d="M -115.69198,-40.062164 V -0.04081111"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path846-1"
-       d="M -115.69198,120.68252 V 99.158427"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-7)" />
-    <text
-       id="text844-9"
-       y="-63.955837"
-       x="-163.62189"
-       style="font-size:18.66666603px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px"
-       xml:space="preserve"><tspan
-         style="font-size:13.33333302px"
-         y="-63.955837"
-         x="-163.62189"
-         id="tspan842-6"
-         sodipodi:role="line">Initial</tspan></text>
-    <rect
-       transform="rotate(90)"
-       ry="7.1749296"
-       rx="7.1749296"
-       y="25.50882"
-       x="-47.765865"
-       height="28.699718"
-       width="57.399437"
-       id="rect825-1"
-       style="opacity:1;fill:#000080;fill-opacity:0.19607843;stroke:#000080;stroke-width:8.20539474;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       transform="rotate(90)"
-       ry="7.1749296"
-       rx="7.1749296"
-       y="25.50882"
-       x="80.235413"
-       height="28.699718"
-       width="57.399437"
-       id="rect825-3-0"
-       style="opacity:1;fill:#d45500;fill-opacity:0.19607843;stroke:#d45500;stroke-width:8.20539474;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path846-14"
-       d="M -9.7531038,-4.2919366 V -31.869676"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-2)" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path846-1-2"
-       d="M -9.7531038,116.81491 V 103.02604"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-7-1)" />
-    <text
-       id="text844-9-6"
-       y="-63.955833"
-       x="-54.617794"
-       style="font-size:18.66666603px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px"
-       xml:space="preserve"><tspan
-         style="font-size:13.33333302px"
-         y="-63.955833"
-         x="-54.617794"
-         id="tspan842-6-7"
-         sodipodi:role="line">Final</tspan></text>
-  </g>
+       x="194.05049"
+       y="40.665169"
+       style="stroke-width:2.8470614">Top-down View</tspan></text>
+  <rect
+     style="opacity:1;fill:#000080;fill-opacity:0.19607843;stroke:#000080;stroke-width:23.36126328;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect825"
+     width="163.41972"
+     height="81.709862"
+     x="151.60529"
+     y="-255.80296"
+     rx="20.427465"
+     ry="20.427465"
+     transform="rotate(90)" />
+  <rect
+     style="opacity:1;fill:#d45500;fill-opacity:0.19607843;stroke:#d45500;stroke-width:23.36126328;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect825-3"
+     width="163.41972"
+     height="81.709862"
+     x="474.03278"
+     y="-255.80296"
+     rx="20.427465"
+     ry="20.427465"
+     transform="rotate(90)" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:2.8470614px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+     d="M 301.60238,173.5382 V 287.48145"
+     id="path846"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:2.8470614px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-7)"
+     d="M 301.60238,589.1882 V 527.90779"
+     id="path846-1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-size:53.14514542px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:2.8470614"
+     x="165.14299"
+     y="105.51144"
+     id="text844-9"><tspan
+       sodipodi:role="line"
+       id="tspan842-6"
+       x="165.14299"
+       y="105.51144"
+       style="font-size:37.96081924px;stroke-width:2.8470614">Initial</tspan></text>
+  <rect
+     style="opacity:1;fill:#000080;fill-opacity:0.19607843;stroke:#000080;stroke-width:23.36126328;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect825-1"
+     width="163.41972"
+     height="81.709862"
+     x="151.60529"
+     y="-558.35938"
+     rx="20.427465"
+     ry="20.427465"
+     transform="rotate(90)" />
+  <rect
+     style="opacity:1;fill:#d45500;fill-opacity:0.19607843;stroke:#d45500;stroke-width:23.36126328;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect825-3-0"
+     width="163.41972"
+     height="81.709862"
+     x="474.03278"
+     y="-558.35938"
+     rx="20.427465"
+     ry="20.427465"
+     transform="rotate(90)" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:2.8470614px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-2)"
+     d="M 603.21687,275.37824 V 196.86272"
+     id="path846-14"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:2.8470614px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-7-1)"
+     d="M 603.21687,578.17688 V 538.91912"
+     id="path846-1-2"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-size:53.14514542px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:2.8470614"
+     x="475.48434"
+     y="105.51144"
+     id="text844-9-6"><tspan
+       sodipodi:role="line"
+       id="tspan842-6-7"
+       x="475.48434"
+       y="105.51144"
+       style="font-size:37.96081924px;stroke-width:2.8470614">Final</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:53.14514542px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:2.8470614"
+     x="1.2771133"
+     y="241.33177"
+     id="text844-9-1"><tspan
+       sodipodi:role="line"
+       id="tspan842-6-8"
+       x="1.2771133"
+       y="241.33177"
+       style="font-size:37.96081924px;stroke-width:2.8470614">Upper</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:53.14514542px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:2.8470614"
+     x="1.2771133"
+     y="568.6156"
+     id="text844-9-1-0"><tspan
+       sodipodi:role="line"
+       id="tspan842-6-8-9"
+       x="1.2771133"
+       y="568.6156"
+       style="font-size:37.96081924px;stroke-width:2.8470614">Lower</tspan></text>
 </svg>

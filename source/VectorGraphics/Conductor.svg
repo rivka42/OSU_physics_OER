@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="305.24066"
-   height="239.39763"
-   viewBox="0 0 80.76159 63.340624"
+   width="1054.0402"
+   height="691.12463"
+   viewBox="0 0 278.88145 182.86006"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -42,8 +42,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="25.038232"
-     inkscape:cy="154.41874"
+     inkscape:cx="546.05717"
+     inkscape:cy="374.87812"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -73,44 +73,44 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-41.799466,-169.11245)">
+     transform="translate(55.930057,-107.92289)">
     <path
-       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.14650977;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 82.480392,176.11533 v 36.77114 h 36.771138 v -36.77114 z m 6.995848,6.99512 h 22.78019 v 22.78018 H 89.47624 Z"
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:4.40242529;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 79.554551,110.1241 V 251.31974 H 220.75019 V 110.1241 Z m 26.862999,26.86021 h 87.47251 v 87.47246 h -87.47251 z"
        id="rect823-4"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
-       x="89.373436"
-       y="223.09863"
+       style="font-size:18.96459007px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:1.01596022"
+       x="106.0228"
+       y="290.53293"
        id="text843"><tspan
          sodipodi:role="line"
          id="tspan841"
-         x="89.373436"
-         y="223.09863"
-         style="stroke-width:0.26458332">Conductor</tspan></text>
+         x="106.0228"
+         y="290.53293"
+         style="stroke-width:1.01596022">Conductor</tspan></text>
     <circle
-       style="opacity:1;fill:#d45500;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#d45500;fill-opacity:1;stroke:#000000;stroke-width:1.91992486;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path845"
-       cx="53.559326"
-       cy="193.16446"
-       r="4.2763124" />
+       cx="-31.497993"
+       cy="175.59019"
+       r="16.420397" />
     <text
        xml:space="preserve"
-       style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
-       x="47.088039"
-       y="207.49017"
+       style="font-size:18.96459007px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:1.01596022"
+       x="-56.34676"
+       y="230.59877"
        id="text843-4"><tspan
          sodipodi:role="line"
          id="tspan841-9"
-         x="47.088039"
-         y="207.49017"
-         style="stroke-width:0.26458332">Positive</tspan><tspan
+         x="-56.34676"
+         y="230.59877"
+         style="stroke-width:1.01596022">Positive</tspan><tspan
          sodipodi:role="line"
-         x="47.088039"
-         y="213.66379"
-         style="stroke-width:0.26458332"
+         x="-56.34676"
+         y="254.3045"
+         style="stroke-width:1.01596022"
          id="tspan865">charge</tspan></text>
   </g>
 </svg>

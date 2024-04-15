@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="3.4170685in"
-   height="1.954451in"
-   viewBox="0 0 86.793535 49.643058"
+   width="12.550531in"
+   height="7.1784916in"
+   viewBox="0 0 318.78348 182.3337"
    version="1.1"
    id="svg8"
    sodipodi:docname="MovingLoop.svg"
@@ -117,8 +117,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="104.76205"
-     inkscape:cy="-16.497135"
+     inkscape:cx="535.52958"
+     inkscape:cy="471.14912"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -128,7 +128,7 @@
      fit-margin-bottom="0"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
-     inkscape:window-x="1911"
+     inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      units="in" />
@@ -148,10 +148,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(208.52812,-120.76537)">
+     transform="translate(324.5231,-54.420057)">
     <g
        id="g936"
-       transform="translate(4.0090429,46.772167)">
+       transform="matrix(3.6728943,0,0,3.6728943,456.10342,-217.34915)">
       <ellipse
          ry="24.472515"
          rx="11.777213"
@@ -169,7 +169,7 @@
     </g>
     <g
        id="g943"
-       transform="matrix(1.6038286,0,0,1.6038286,70.934898,-97.125599)">
+       transform="matrix(5.8906929,0,0,5.8906929,701.91501,-745.87043)">
       <text
          id="text4626"
          y="153.74992"
