@@ -369,7 +369,7 @@
 		<project xml:id="psa_mot-11">
         <title>A Bicycle between Stoplights</title>
 				<p>Before you start this activity, if you have not done so already, review <xref ref="sec_real-world-context" />.</p>
-		    <p>You are riding your bicycle along a busy street.  You are stopped at a stoplight that turns green at <m>t = 0</m>, after which your digital speedometer measures your velocity until you have to stop at the next stoplight as a function of time to be <me>v(t)=V\left[ 1-(t/T-1)^4 \right] \hat{y}</me></p>
+		    <p>You are riding your bicycle along a busy street.  You are stopped at a stoplight that turns green at <m>t = 0</m>, after which your digital speedometer measures your velocity until you have to stop at the next stoplight as a function of time to be <me>\vec{v}(t)=V\left( 1-\left(\frac{t}{T}-1\right)^4 \right) \hat{y}</me></p>
 				<p>Determine the distance between the stoplights.</p>
 		<hint>
 		    <p>For the physical representation (part 1c), draw graphs of position, velocity, and acceleration vs. time, paying careful attention to the domain of your graphs.</p>
@@ -406,8 +406,8 @@
 		    <p>You are standing in an elevator with no ceiling that is initially at rest near the middle of a building.  You throw a penny straight upward with a known initial velocity at exactly the instant the elevator begins to accelerate downward with a known acceleration much smaller than g.  Find the displacement of the elevator when you catch the penny, and the amount of time the penny was in the air.</p>
 		</statement>
 		<hint>
-		    <p>For part 1b, sketch graphs of the position vs. time and the velocity vs. time for both the elevator and the penny.  It can help to graph these on the same set of axes if you are careful about labeling your different graphs.</p>
-				<p>For part 3c, use the Covariational Reasoning strategy again to discuss how and why your answer depends on each important variable, especially the initial velocity of the penny and the acceleration of the elevator.</p>
+		    <p>For your representation, sketch graphs of the position vs. time and the velocity vs. time for both the elevator and the penny.  It can help to graph these on the same set of axes if you are careful about labeling your different graphs.</p>
+				<p>For your symbolic sensemaking, use the Covariational Reasoning strategy again to discuss how and why your answer depends on each important variable, especially the initial velocity of the penny and the acceleration of the elevator.</p>
 		</hint>
 	</project>
 	

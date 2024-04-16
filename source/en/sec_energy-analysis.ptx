@@ -7,11 +7,11 @@
 	
 <p>In <xref ref="sec_solving-forces1"></xref>, you saw a strategy for force analysis.  Approaching a context from an energy perspective follows a similar structure, but the goals are often different. The steps below can be extremely helpful.</p>
 
-<p><alert>Understanding:</alert> Identify a system and draw an Energy System Diagram (and/or Energy Bar Diagrams or Potential Energy Diagrams, once you learn how to use them).</p>
+<p><alert>Analyze and Represente:</alert> Identify a system and draw an Energy System Diagram (and/or Energy Bar Diagrams or Potential Energy Diagrams, once you learn how to use them).</p>
 
-<p><alert>Calculating:</alert> Is your system's energy conserved or not?  Once you know, use the Work-energy Theorem!</p>
+<p><alert>Calculate:</alert> Is your system's energy conserved or not?  Once you know, use the Work-energy Theorem!</p>
 
-<p><alert>Sensemaking:</alert> All the sensemaking strategies you have will work, but a new strategy is sometimes useful: Solve Multiple Ways.</p>
+<p><alert>Sensemake:</alert> All the sensemaking strategies you have will work, but a new strategy is sometimes useful: Solve Multiple Ways.</p>
 
 				<heuristic xml:id="sense_solve-multiple-ways">
 	<title>Solve Multiple Ways</title>
@@ -23,7 +23,7 @@
 	<exercises>
 	<title>Activities</title>
 			<exercise>
-			<title>Real-world Context: Pulling a Box</title>
+			<title>A*R*C*S: Pulling a Box</title>
 			<statement>
 			  <p>In <xref ref="x_work-box"></xref>, you considered the situation of pulling a box across a flat, level floor using a rope that makes an angle to the horizontal.  Assuming you know the tension in the rope, find the speed of the box after it has traveled across the room.</p>
 				</statement>

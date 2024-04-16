@@ -28,11 +28,14 @@
 <p> A <alert>mechanical wave</alert> is an organized disturbance that travels through a <alert>medium</alert>. This medium could be air, water, a guitar string, or the fluid that makes up the outer core of the Earth. Any medium that can sustain a wave must have some elasticity which acts as a restoring force. As a wave disturbance propagates through a medium, the particles that make up the medium are displaced away from equilibrium and experience local oscillations. However, it is important to note that the particles in the medium <alert>do not</alert> travel with the wave. Instead, the elastic properties of the medium act to bring the particles back to equilibrium. 
 </p>
 
+<video youtube="iY5zhbtKLO8"><description>A water wave passing under a lily.  Droplets on the lily oscillate as the wave passes.</description></video>
+
+<!-- REMOVED TO SAVE SPACE
     <figure xml:id="lily_wave">
     	<caption>A water wave passing under a lily.  Droplets on the lily oscillate as the wave passes. </caption>
     		<video source="wave/lily_wave.mp4" width = "100%" ></video>
     </figure>
-
+-->
 
 <p> 
 A wave disturbance is created by a <alert> source </alert>. The sources of waves are external oscillations of the medium. This could be in the form of a finger plucking a string or a rock tossed into a pond. Once the medium has been disturbed, a wave propagates away from the source of that disturbance at a particular speed called the <alert> wave speed </alert>. The wave speed depends on the properties of the medium, and particularly, restoring forces provided by the elasticity of the medium such as tension in a plucked string or cohesion in water. 

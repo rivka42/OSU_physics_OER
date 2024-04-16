@@ -6,13 +6,13 @@
       <video youtube="i6yXnUEO82k"><description>A strategy for using forces to solve physics problems.</description></video>
     
 
-<p>At this point, you have approached several Real-world Contexts using the steps in <xref ref="fig_realworld"></xref>, mostly by analyzing the motion of a system.  Now you need to be able to use the same structure when analyzing the <em>forces</em> acting on a system.  The steps below can be extremely helpful.</p>
+<p>At this point, you have approached several A*R*C*S contexts using the steps in <xref ref="fig_realworld"></xref>, mostly by analyzing the motion of a system.  Now you need to be able to use the same structure when analyzing the <em>forces</em> acting on a system.  The steps below can be extremely helpful.</p>
 
-<p><alert>Understanding:</alert> Identify a system and draw a Free-body Diagram.</p>
+<p><alert>Analyze and Represent:</alert> Identify a system and draw a Free-body Diagram.</p>
 
-<p><alert>Calculating:</alert> Is the acceleration 0 <m>\text{m/s}^2</m> (static or dynamic equilibrium) or not 0 <m>\text{m/s}^2</m> (dynamics)?  Once you know, use the Law of Motion!</p>
+<p><alert>Calculate:</alert> Is the acceleration <m>0 \mathrm{m/s^2}</m> (static or dynamic equilibrium) or not <m>0 \mathrm{m/s^2}</m> (dynamics)?  Once you know, use the Law of Motion!</p>
 
-<p><alert>Sensemaking:</alert> All the sensemaking strategies you have will work, but a new strategy called Special-case Analysis (see <xref ref="sec_special-cases"/>) can be especially useful.</p>
+<p><alert>Sensemake:</alert> All the sensemaking strategies you have will work, but a new strategy called Special-case Analysis (see <xref ref="sec_special-cases"/>) can be especially useful.</p>
   
 	<exercises>
 	<title>Activities: Practice with Force Analysis</title>
@@ -31,7 +31,7 @@
 			  <p>A child in a wagon is trailing a large kite behind her at a low angle while her father pulls the wagon forward so it moves at constant speed.  Find the force the father exerts on the wagon.</p>
 				</statement>
 				<hint>
-				<p>Model both the force from the kite and the force from the father as constant.  (Don't forget to use the Real-world Context format along with the steps above!)</p>
+				<p>Model both the force from the kite and the force from the father as constant.  (Don't forget to use the A*R*C*S format along with the steps above!)</p>
 				</hint>
 			</exercise>
 		</exercises>

@@ -280,9 +280,9 @@
 	    <investigation xml:id="psa_for-05a">
         <title>The Angled Block</title>
 		<statement>
-		    <p>In the two situations depicted below, an angled block is at rest on a ramp.  In each case, a cylindrical piston pushes on the block with constant force.  In Case A, the piston pushes on the upper horizontal surface of the block.  In Case B, the piston pushes on the upper angled surface with a constant force of the same magnitude.  In both cases, the block remains at rest on the ramp.</p>
+		    <p>In the two situations depicted below, an angled block is at rest on a ramp.  In each case, a hand pushes on the block with constant force.  In Case A, the hand pushes on the upper horizontal surface of the block.  In Case B, the hand pushes on the upper angled surface with a constant force of the same magnitude.  In both cases, the block remains at rest on the ramp.</p>
 				<figure xml:id="for_x-angled">
-		 <caption>A piston pushes on different surfaces on a block on a ramp.</caption>
+		 <caption>A hand pushes on different surfaces on a block on a ramp.</caption>
 		<image source="Angled.png" width = "50%">
 			<description></description></image>
   </figure>

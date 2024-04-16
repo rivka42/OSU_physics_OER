@@ -8,18 +8,18 @@
 
 <p>Force analysis can be particularly powerful when you use it to examine interacting systems.  The steps below are very similar to what you saw in <xref ref="sec_solving-forces1"/>, but will help you account for multiple systems of interest.</p>
 
-<p><alert>Understanding:</alert> Identify all relevant systems and draw a Free-body Diagram for each.</p>
+<p><alert>Analyze and Represent:</alert> Identify all relevant systems and draw a Free-body Diagram for each.</p>
 
-<p><alert>Calculating:</alert> Is the acceleration of each system <m>0 \text{ m/s}^2</m> (static or dynamic equilibrium) or not <m>0 \text{ m/s}^2</m> (dynamics)?  In addition to the Law of Motion, use any action/reaction pairs between the interacting systems.</p>
+<p><alert>Calculate:</alert> Is the acceleration of each system <m>0 \mathrm{m/s^2}</m> (static or dynamic equilibrium) or not <m>0 \mathrm{m/s^2}</m> (dynamics)?  In addition to the Law of Motion, use any action/reaction pairs between the interacting systems.</p>
 
-<p><alert>Sensemaking:</alert> All the sensemaking strategies you have will work, but a new strategy called Special-case Analysis (see <xref ref="sec_special-cases"/>) can be especially useful.</p>
+<p><alert>Sensemake:</alert> All the sensemaking strategies you have will work, but a new strategy called Special-case Analysis (see <xref ref="sec_special-cases"/>) can be especially useful.</p>
 
   
 	<exercises>
 	<title>Activities</title>
       <video xml:id="for_vb-dog-on-stool" youtube="zTqmp750d2E"><description>Dr. Paws is pushed across the floor.</description></video>
 			<exercise>
-			<title>Real-world Context: Uh-Oh Dr. Paws</title>
+			<title>A*R*C*S: Uh-Oh Dr. Paws</title>
 			<statement>
 			  <p>In the video, a footstool is pushed across the floor so that Dr. Paws and the footstool speed up together.  What is the maximum magnitude of the force the person could exert on the footstool before Dr. Paws begins sliding?</p>
 				</statement>
