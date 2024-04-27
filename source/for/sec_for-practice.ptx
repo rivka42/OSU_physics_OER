@@ -333,14 +333,14 @@
 	</investigation>
 
 	<project xml:id="psa_for-09">
-        <title>Box at an Angle</title>
+        <title>Tilted Ramp</title>
 		<statement>
 		    <p>The two boxes below are initially at rest, connected by ropes and sitting on tables. Determine the acceleration of the system, assuming that the boxes begin to slide and that both surfaces have nonzero friction (<m>\mu_k</m>).</p>
-			<!-- <figure xml:id="for_">
-				<caption></caption>
-			   	<image source="" width = "30%">
+			<figure xml:id="for_tiltedramp">
+				<caption>Two blocks, connected by a rope on a tilted ramp.</caption>
+			   	<image source="tiltedramp.png" width = "50%">
 				<description></description></image>
-		 	</figure> -->
+		 	</figure>
 		</statement>
 		<hint>
 		    <p>As part of your sensemaking, evaluate your answer in at least one special case, including a detailed explanation for what the answer should be for the case you chose.</p>
