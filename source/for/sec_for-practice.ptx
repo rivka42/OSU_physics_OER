@@ -191,19 +191,6 @@
 	<investigation xml:id="pa_for-03">
         <title>Walking a Cat</title>
 		<statement>
-		    <p>You are trying to exercise your cat by walking them around the room with a harness; a jacket is strapped around the cat with a leash that you can pull. To get your cat moving, you pull on the leash at an angle <m>\theta</m> above the horizontal (note this is <em>not</em> how you should train your cat with a harness). Annoyed, your cat flops onto their side where there is a sizable friction between the cat and the floor. As you pull your cat, you notice they move with a constant speed. </p>
-			<p>From previous experiments with this harness, you know that your ``pull'' at the given angle has a vertical component equal to <em>half</em> the weight of your cat. </p>
-			<p>During the pull, rank the magnitude of the forces acting on the cat.</p>
-		</statement>
-		<!--
-		<hint>
-		    <p></p>
-		</hint>
-		-->
-	</investigation>
-	<investigation xml:id="pa_for-04">
-        <title>Walking a Cat</title>
-		<statement>
 		    <p>You are trying to exercise your cat by walking them around the room with a harness - a jacket is strapped around the cat with a leash that you can pull. To get your cat moving, you pull on the leash at an angle <m>\theta</m> above the horizontal (note this is <b>not</b> how you should train your cat with a harness). Annoyed, your cat flops onto their side where there is a sizable friction between the cat and the floor. As you pull your cat, you notice they move with a constant speed. </p>
 			<p>From previous experiments with this harness, you know that your "pull" at the given angle has a vertical component equal to <b>half</b> the weight of your cat. </p>
 			<task>
@@ -227,7 +214,7 @@
 		-->
 	</investigation>
 	
-	    <investigation xml:id="psa_for-04y">
+	<investigation xml:id="psa_for-04y">
         <title>Supported Block</title>
 		<statement>
 		    <p>The two blocks in the figure are being pushed so that they move together with increasing speed and that block B does not move vertically.</p>
@@ -327,7 +314,6 @@
 		    <p>To make sense of your answer, use special-case analysis in the case that the two angles are equal to each other.</p>
 		</hint>
 	</project>
-
 	
 		    <investigation xml:id="psa_for-08">
         <title>Two Books in an Elevator</title>
@@ -350,6 +336,11 @@
         <title>Box at an Angle</title>
 		<statement>
 		    <p>The two boxes below are initially at rest, connected by ropes and sitting on tables. Determine the acceleration of the system, assuming that the boxes begin to slide and that both surfaces have nonzero friction (<m>\mu_k</m>).</p>
+			<!-- <figure xml:id="for_">
+				<caption></caption>
+			   	<image source="" width = "30%">
+				<description></description></image>
+		 	</figure> -->
 		</statement>
 		<hint>
 		    <p>As part of your sensemaking, evaluate your answer in at least one special case, including a detailed explanation for what the answer should be for the case you chose.</p>
