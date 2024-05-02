@@ -303,7 +303,7 @@
 	<project xml:id="psa_for-07">
         <title>Rope Tension</title>
 		<statement>
-		    <p>An athlete of mass <em>m</em> is training by hanging from two ropes attached to the ceiling, as shown in the figure. What is the tension in each rope?</p>
+		    <p>An athlete of mass <em>m</em> is training by hanging from two ropes attached to the ceiling, as shown in the figure. The angles <m>\theta</m> and <m>\alpha</m> are different.  Determine the magnitude of the tension in each rope.</p>
 				<figure xml:id="for_x-athlete">
 		 <caption>An athlete suspended by two ropes.</caption>
 		<image source="Athlete.png" width = "30%">
@@ -311,7 +311,7 @@
   </figure>
 		</statement>
 		<hint>
-		    <p>To make sense of your answer, use special-case analysis in the case that the two angles are equal to each other.</p>
+		    <p>As part of your symbolic sensemaking (part 3c), use special-case analysis in the case that the two angles are equal to each other.</p>
 		</hint>
 	</project>
 	
