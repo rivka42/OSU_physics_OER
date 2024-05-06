@@ -211,6 +211,49 @@
 
 <subsection>
 <title>Apply</title>
+
+<investigation xml:id="psa_en-a">
+        <title>Work on a Single Block</title>
+		<statement>
+		    <p>You push on a single block on a level, frictionless table as described in the three cases below.  In each case, you push with a constant force for the same amount of time.  For each, consider the system of the block on its own.</p>
+				<p>
+				<ul>
+				<li>Case 1: The block has mass <m>m</m> and you push on it to the right.</li>
+				<li>Case 2: The block has mass <m>m</m> and you push on it to the left.</li>
+				<li>Case 3: The block has mass <m>m/3</m> and you push on it to the right.</li>
+				</ul>
+				</p>
+			<p>Rank the three cases by the net external work done on each system.</p>
+		</statement>
+		<!--<hint>
+		    <p></p>
+		</hint>
+		<solution>
+		    <p></p>
+		</solution>-->
+	</investigation>
+	
+<investigation xml:id="psa_en-b">
+        <title>Pushing apart the Blocks</title>
+		<statement>
+		    <p>You push on two blocks on a level, frictionless table as shown in the three cases below.  In each case, each hand pushes with a constant force for the same amount of time.  For each, consider the system of the two blocks plus, if applicable, any objects connecting the blocks.  In case B, the blocks are connected by an ideal spring; in case C, they are connected by an ideal rope.</p>
+				<figure xml:id="fig_en-blocks">
+			<caption></caption>
+			<image source="work-blocks.png" width = "100%">
+				<description></description>
+			</image>
+		</figure>
+			<p>Rank the three cases by the net external work done on each system.</p>
+		</statement>
+		<!--<hint>
+		    <p></p>
+		</hint>
+		<solution>
+		    <p></p>
+		</solution>-->
+	</investigation>
+
+
     <project xml:id="psa_en-000">
         <title>Pulling a Sled</title>
 		<statement>
