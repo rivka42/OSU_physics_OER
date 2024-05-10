@@ -48,7 +48,7 @@
 	<problem xml:id="psa_for-alpha3">
 		<title>Elevator</title>
 		<statement>
-			<p>The force of gravity on an 80-kg person is about 800 N. Suppose this person is standing on a scale in an elevator that is moving upwards but slowing down with an acceleration magnitude of 1 <m>\mathrm{~m/s^2}</m>. What value does the scale read?</p>
+			<p>The force of gravity on an 80-kg person is about 800 N. Suppose this person is standing on a scale in an elevator that is moving upwards but slowing down with an acceleration magnitude of <m>1 \mathrm{~m/s^2}</m>. What value does the scale read?</p>
 		</statement>
 		<answer>
 			<p>720 N</p>

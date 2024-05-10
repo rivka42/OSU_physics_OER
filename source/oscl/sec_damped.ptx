@@ -36,15 +36,15 @@ Using the relationship between velocity acceleration and position, rewrite the e
 
 This is the equation of motion of a damped mass on a spring. Since you know that the amplitude decreases in time, you can guess a solution of the form:
 
-<men> x(t) = A e^{-bt/m} \cos{(\omega t +\phi_o)}</men>
+<men> x(t) = A e^{-bt/2m} \cos{(\omega t +\phi_o)}</men>
 
 The oscillation frequency is given by,
 
-<men> \omega = \sqrt{\frac{k}{m} +\frac{b^2}{4m}}=\frac{2 \pi}{T}</men>
+<men> \omega = \sqrt{\frac{k}{m} - \frac{b^2}{4m}}=\frac{2 \pi}{T}</men>
 
 You can see that the oscillation frequency is equivalent to the original oscillation frequency modified by the quantity <m> b^2/4m^2 </m>. Below is a graph of the position as a function of time for the damped oscillator. The cosine function modified by the exponential decay is shown. You can see that the envelope of the amplitude decays in time. The maximum displacement away from equilibrium decreases according to the function
 
-<me> x_{max}(t) = A \exp{-bt/2m}</me>
+<me> x_{max}(t) = A e^{-bt/2m}</me>
 </p>
 
 <figure xml:id="damped_pos">
