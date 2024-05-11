@@ -287,7 +287,7 @@
 		<investigation xml:id="psa_en-11">
         <title>Colliding Astronauts</title>
 		<statement>
-		    <p>Two astronauts, Michael and Collins, conduct several collision experiments in an environment with no external forces.  Michael has a larger mass than Collins.  In each experiment, Michael is initially moving with speed <m>v_i</m> in the positive <m>x</m>-direction.</p>
+		    <p>Two astronauts, Michael and Collins, conduct several collision experiments in an environment with no external forces.  Michael has a larger mass than Collins.  In each experiment, Michael is initially moving with speed <m>v_i</m> in the positive <m>x</m>-direction and Collins is initially at rest.</p>
 				<ul>
 				<li><p>In case A, Michael's final velocity is <m>0</m>.</p></li>
 				<li><p>In case B, Michael's final velocity is <m>\frac{v_i}{4}</m> in the negative <m>x</m>-direction.</p></li>
