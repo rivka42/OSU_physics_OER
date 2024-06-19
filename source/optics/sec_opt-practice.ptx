@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_opt-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Practice, Study, and Apply - Oscillations</title>
+	
+	<!--
+	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
+	If you want an Explain activity, use the <investigation> tag.
+		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
+	If you want a Calculate activity, use the <problem> tag.  (This tag is Example-like, not Project-like, so you cannot embed lettered steps into it using <task>.
+	-->
+
+<subsection>
+<title>Practice</title>
+    <problem xml:id="psa_opt-alpha0">
+        <title></title>
+		<statement>
+
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p></p>
+		</answer>
+	</problem>
+
+</subsection>
+
+<subsection>
+<title>Study</title>
+
+	<project xml:id="pa_opt-0">
+		<title>Fun House Mirror</title>
+		<statement>
+			<p>You go to the hall of mirrors in a funhouse and stand 2.25 m in front of a spherical mirror. The mirror forms an image of you at a point 1.25 m behind the mirror. What is the focal length of the mirror?</p>
+		</statement>
+	</project>
+
+	<investigation xml:id="pa_opt-1">
+		<title>Ray Diagram</title>
+		<statement>
+			<p>
+				Two objects and a mirror are arranged as shown below. Draw a ray diagram to determine the location of the image of each of the two objects.
+			</p>
+		</statement>
+	</investigation>
+
+	<investigation xml:id="pa_opt-2">
+		<title>Single Slit</title>
+		<statement>
+			<p>
+				A laser shines through a single slit of unknown width a. You observe at least one dark spot on a distant screen.Is the width of the slit <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the wavelength of the laser?
+			</p>
+		</statement>
+		
+		
+	</investigation>
+
+</subsection>
+
+<subsection>
+<title>Apply</title>
+
+	<investigation xml:id="psa_opt-0">
+		<title>Ray Diagram</title>
+		<statement>
+		<p>A candle is located near two mirrors as shown in the figure below. Draw a ray diagram showing the location of the image that your eye sees when looking into the left mirror.</p>
+		<figure xml:id="fig_opt-ray-diagram">
+			<caption></caption>
+			<image source="ray-diagram.png" width = "25%">
+				<description></description>
+			</image>
+		</figure>
+		</statement>
+	</investigation>
+
+	<project xml:id="psa_opt-1">
+        <title>Human Eye</title>
+		<statement>
+		    <p>The average human eye is about 2.4 cm in diameter, that is, the lens is 2.4 cm from the retina. Assume you have an average eye, and that an object that is 5.0 cm high is located 25 cm from your eye. What focal length must your lens be to create an image on your retina?</p>
+		</statement>
+		<hint>
+			<p>
+				Sensemaking suggestion: What type of lens is this? How can you tell?
+			</p>
+		</hint>
+	</project>
+
+
+</subsection>
+
+</section>
+

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_rot-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="sec_oscl-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Practice, Study, and Apply - Oscillations</title>
 	
 	<!--
@@ -32,22 +32,8 @@
 <subsection>
 <title>Study</title>
 
-	<project xml:id="pa_oscl-0">
-		<title></title>
-		<statement>
-			<p></p>
-		</statement>
-	</project>
-
-	<investigation xml:id="pa_oscl-0">
-		<title></title>
-		<statement>
-			<p></p>
-		</statement>
-	</investigation>
-
 	<project xml:id="pa_oscl-01">
-        <title></title>
+        <title>Ant on a String</title>
 		<statement>
 		<p>A string (length <m>L</m>) with constant tension <m>T</m> is tied horizontally between two walls (this is effectively how strings in musical instruments work!).  An ant (mass <m>m</m>) clings to the very center of the string, which is moving back and forth horizontally with amplitude <m>A</m> much smaller than <m>L</m>.</p>
 
@@ -72,20 +58,6 @@
 
 <subsection>
 <title>Apply</title>
-
-	<investigation xml:id="psa_oscl-0">
-		<title></title>
-		<statement>
-		<p></p>
-		</statement>
-	</investigation>
-
-	<project xml:id="psa_oscl-0">
-        <title></title>
-		<statement>
-		    <p></p>
-		</statement>
-	</project>
 
 	<investigation xml:id="psa_oscl-01">
 		<title>Pendulum on a Tree</title>

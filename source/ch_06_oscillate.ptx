@@ -41,6 +41,7 @@
 <xi:include href="./oscl/sec_smallA.ptx" />
 <xi:include href="./oscl/sec_Ppendula.ptx" />
 <xi:include href="./oscl/sec_damped.ptx" /> 
+<xi:include href="./oscl/sec_oscl-practice.ptx" /> 
 </chapter>
 
 

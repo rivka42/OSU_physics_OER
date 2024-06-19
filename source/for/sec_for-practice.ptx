@@ -345,6 +345,20 @@
 		</hint>
 	</project>
 
+	<project xml:id="psa_for-10">
+		<title>Moving Blocks</title>
+		<statement>
+			<p>
+				Shown below are two blocks connected by an ideal string that passes over a massless, frictionless pulley. The mass of the larger block sits on a flat, frictionless table, and has four times the mass of the smaller block, which hangs vertically. Determine the speed of each block when the larger block reaches the edge of the table, a distance of 0.75 m.
+			</p>
+			<figure xml:id="for_moving-blocks">
+				<caption>Two blocks, connected by a rope.</caption>
+			   	<image source="moving-blocks.png" width = "50%">
+				<description></description></image>
+		 	</figure>
+		</statement>
+	</project>
+
 </subsection>
 
 <references>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_wave-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Practice, Study, and Apply - Oscillations</title>
+	
+	<!--
+	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
+	If you want an Explain activity, use the <investigation> tag.
+		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
+	If you want a Calculate activity, use the <problem> tag.  (This tag is Example-like, not Project-like, so you cannot embed lettered steps into it using <task>.
+	-->
+
+<subsection>
+<title>Practice</title>
+    <problem xml:id="psa_wave-alpha0">
+        <title></title>
+		<statement>
+
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p></p>
+		</answer>
+	</problem>
+
+</subsection>
+
+<subsection>
+<title>Study</title>
+
+	<project xml:id="pa_wave-0">
+		<title>Jet Engine</title>
+		<statement>
+			<p>During takeoff, the sound intensity level of a jet engine is 150 dB at a distance of 22 m. What is the sound intensity level at a distance of 1.0 km?</p>
+		</statement>
+	</project>
+
+	<project xml:id="pa_wave-1">
+		<title>Wave Amplitude</title>
+		<statement>
+			<p>
+				A sinusoidal wave travels along a stretched string. A particle on the string has a maximum velocity of 1.40 m/s and a maximum acceleration of 270 m/s<m>^2</m>. Find the frequency and amplitude of the wave.
+			</p>
+		</statement>
+	</project>
+	
+	<project>
+		<title>Silent Speakers</title>
+		<statement>
+			<p>
+				Two speakers separated by 10 m are simultaneously creating identical (with the same initial phase) sound waves with wavelength 8 m. You are standing somewhere on the line in between the two speakers, but you do not hear any sound! Determine where you are standing, measured from the center point between the two speakers.
+			</p>
+		</statement>
+		
+	</project>
+
+</subsection>
+
+<subsection>
+<title>Apply</title>
+
+	<investigation xml:id="psa_wave-0">
+		<title>Wave at a Boundary</title>
+		<statement>
+		<p>Two strings are tied together and a wave is sent down string 1. String 1 has a linear mass density three times smaller than string 2. When the wave reaches the point where the strings are tied together and moves through string 2, you observe the wavelength. Is the wavelength in string 2 <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the wavelength in string 1?</p>
+		</statement>
+	</investigation>
+
+	<project xml:id="psa_wave-1">
+		<title>Diving Bird</title>
+		<statement>
+			<p>
+				You hear a loud noise at 900 Hz and look up to see a bird diving toward you. You are able to identify the type of bird and you know that they usually make noise at around 800 Hz. How fast is the bird moving?
+			</p>
+		</statement>
+	</project>
+
+	<project xml:id="psa_wave-2">
+		<title>Flash of Lightning</title>
+		<statement>
+			<p>
+				You see a flash of lightning strike a clock tower during a thunderstorm. You count 2.5 s between when the lightning flashes and when you hear thunder with a sound level of 70 db. What is the sound level of the thunder for someone standing only 20 m from the clock tower?
+			</p>
+		</statement>
+	</project>
+
+	<investigation xml:id="psa_wave-3">
+		<title>Source Separation</title>
+		<statement>
+		<p>Each of the situations below shows the complete constructive and destructive interference lines coming from two sources (which are not shown) that lie along the horizontal line. For each situation, the wavelength, <m>\lambda</m>, is the same, but the source separation is different. Complete constructive interference lines are solid, and complete destructive interference lines are dashed. For each situation, label each line with the corresponding value of <m>\Delta D</m> (in terms of <m>\lambda</m>), and determine the source separation (in terms of <m>\lambda</m>). For any situation(s) where it is not possible to exactly determine the source separation, determine the range of which the source separation must fall in.</p>
+		</statement>
+		<hint>
+			<p>
+				You may find it helpful to first rank the cases by source separation.
+			</p>
+		</hint>
+	</investigation>
+
+</subsection>
+
+</section>
+
