@@ -13,9 +13,21 @@
 <subsection>
 <title>Practice</title>
     <problem xml:id="psa_rot-alpha0">
-        <title></title>
+        <title>Crankshaft</title>
 		<statement>
-
+			<p>
+				The crankshaft (<m>r = 3</m> cm) in a race car accelerates uniformly from rest to 3000 rpm in 2.0 s. How many revolution does it make while reaching 3000 rpm?
+			</p>
+			<p>
+				<ol marker="A">
+				  <li>10 revolutions</li>
+				  <li>25 revolutions</li>
+				  <li>42 revolutions</li>
+				  <li>50 revolutions</li>
+				  <li>63 revolutions</li>
+				  <li>101 revolutions</li>
+				</ol>
+			  </p>
 		</statement>
 		<!--
 		<hint>
@@ -23,10 +35,219 @@
 		</hint>
 		-->
 		<answer>
-		    <p></p>
+		    <p>D.</p>
+		</answer>
+	</problem>
+	<problem xml:id="psa_rot-alpha1">
+		<title>Angular motion</title>
+		<statement>
+			<p>
+				A 60 cm diameter wheel accelerates from rest at a rate of 7 rad/s<m>^2</m>.
+			</p>
+			<p>
+				<ol marker="A">
+					<li>What is the tangential acceleration of a point on the edge of the wheel?</li>
+					<li>How long does it take for the wheel to turn through 14 rotations?</li>
+					<li>After the wheel has undergone 14 rotations, what is the radial component of the acceleration on the edge the wheel?</li>
+				  </ol>
+			</p>
+		</statement>
+		<answer>
+		    <p>4.2 m/s<m>^2</m></p>
+		</answer>
+		<answer>
+		    <p>5.01 s</p>
+		</answer>
+		<answer>
+		    <p>739 m/s<m>^2</m></p>
 		</answer>
 	</problem>
 
+	<problem xml:id="psa_rot-alpha2">
+		<title>Army the Armadillo</title>
+		<statement>
+			<p>
+				The Brazilian three-banded armadillo has a hard outer exterior, and when it senses danger, it rolls into a ball for protection. Suppose that Army the armadillo rolls into a ball (with a 5 cm radius) while on the slope of a hill. As a result, they begin to roll down the hill; and after 15 s, they have undergone 45.8 revolutions. What is Army's angular speed at this time?
+			</p>
+			<p>
+				<ol marker="A">
+				  <li>12.7 rad/s</li>
+				  <li>15.5 rad/s</li>
+				  <li>22.0 rad/s</li>
+				  <li>29.1 rad/s</li>
+				  <li>38.4 rad/s</li>
+				</ol>
+			  </p>
+		</statement>
+		<statement>
+			<p>
+				How fast is Army travelling at this point?
+			</p>
+			<p>
+				<ol marker="A">
+				  <li>1.92 m/s</li>
+				  <li>2.23 m/s</li>
+				  <li>3.49 m/s</li>
+				  <li>4.24 m/s</li>
+				  <li>5.56 m/s</li>
+				</ol>
+			  </p>
+		</statement>
+
+	<answer>
+		<p>D.</p>
+	</answer>
+	<answer>
+		<p>A.</p>
+	</answer>
+	</problem>
+
+	<problem xml:id="psa_rot-alpha3">
+		<title>Torque</title>
+		<statement>
+			<p>
+				A force is applied on a lever arm 1 m away from the pivot point, and it produces torque. How much force would have to be applied to produce the same amount of torque if it were applied 4 m from the pivot point? Assume that both forces are applied perpendicularly to the lever arm.
+			</p>
+			<p>
+				<ol marker="A">
+				  <li>Four times the initial force</li>
+				  <li>Sixteen times the initial force</li>
+				  <li>One fourth of the initial force</li>
+				  <li>One sixteenth of the initial force</li>
+				  <li>Same as the initial force</li>
+				</ol>
+			  </p>
+		</statement>
+		<answer>
+			<p>
+				C.
+			</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_rot-alpha4">
+		<title>See-Saw</title>
+		<statement>
+			<p>
+				Two children of different weights are riding a seesaw. How do they position themselves with respect to the pivot point (the fulcrum) so that they are balanced?
+			</p>
+			<p>
+				<ol marker="A">
+				  <li>The heavier child sits closer to the fulcrum.</li>
+				  <li>The heavier child sits farther from the fulcrum.</li>
+				  <li>Both children sit at equal distance from the fulcrum.</li>
+				  <li>Since both have different weights, they will never be in balance.</li>
+				</ol>
+			  </p>
+		</statement>
+		<answer>
+			<p>
+				A.
+			</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_rot-alpha5">
+		<title>Moment of Inertia</title>
+		<statement>
+			<p>
+				Which of the following statements concerning the moment of inertia <em>I</em> are false?
+			</p>
+			<p>
+				<ol marker="A">
+				  <li><em>I</em> may be expressed in units of (kg)(m<m>^2</m>)</li>
+				  <li><em>I</em> depends on the angular acceleration of the object as it rotates</li>
+				  <li><em>I</em> depends on the location of the rotation axis relative to the particles that make up the object.</li>
+				  <li><em>I</em> depends on the orientation of the rotation axis relative to the particles that make up the object.</li>
+				</ol>
+			  </p>
+		</statement>
+		<answer>
+			<p>
+				B.
+			</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_rot-alpha6">
+		<title>Angular Acceleration</title>
+		<statement>
+			<p>
+				A uniform, solid disk with a mass of 24.3 kg and a radius of 0.314 m is oriented vertically and is free to rotate about a frictionless axle. Forces of 90 N and 125 N are applied to the disk in the same horizontal direction, but one force is applied to the top and the other is applied to the bottom. What is the magnitude of the angular acceleration of the disk?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				9.17 rad/s<m>^2</m>
+			</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_rot-alpha7">
+		<title>Olympic High Diver</title>
+		<statement>
+			<p>
+				An Olympic high diver in midair pulls her legs inward toward her chest. Doing so changes which of these quantities?
+			</p>
+			<p>
+				<ol marker="A">
+				  <li>Angular momentum</li>
+				  <li>Rotational inertia about her center of mass</li>
+				  <li>Angular velocity</li>
+				  <li>Translational (linear) momentum</li>
+				  <li>Translational (linear) kinetic energy</li>
+				  <li>Rotational kinetic energy</li>
+				</ol>
+			  </p>
+		</statement>
+		<answer>
+			<p>
+				B., C., E.
+			</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_rot-alpha8">
+		<title>Helicopter I</title>
+		<statement>
+			<p>
+				A typical small rescue helicopter has four blades. Each blade is 4.00 m long and has a mass of 50.0 kg. The blades can be approximated as thin rods that rotate about one end of an axis perpendicular to their length. The helicopter has a total loaded mass of 1000 kg. Calculate the rotational kinetic energy in the blades when they rotate at 300 rpm.
+			</p>
+		</statement>
+		<answer>
+			<p>
+				<m>5.26 \times 10^5</m> J
+			</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_rot-alpha9">
+		<title>Helicopter II</title>
+		<statement>
+		<p>
+			A typical small rescue helicopter has four blades. Each blade is 4.00 m long and has a mass of 50.0 kg. The blades can be approximated as thin rods that rotate about one end of an axis perpendicular to their length. The helicopter has a total loaded mass of 1000 kg. What is the ratio of translational kinetic energy of the helicopter over the rotational kinetic energy of its blades when it flies at 20.0 m/s?
+		</p>
+		</statement>
+	<answer>
+		<p>
+			0.38
+		</p>
+	</answer>
+	</problem>
+	
+	<problem xml:id="psa_rot-alpha10">
+		<title>Helicopter III</title>
+		<statement>
+			<p>
+				A typical small rescue helicopter has four blades. Each blade is 4.00 m long and has a mass of 50.0 kg. The blades can be approximated as thin rods that rotate about one end of an axis perpendicular to their length. The helicopter has a total loaded mass of 1000 kg. To what height could the helicopter be raised if all of the rotational kinetic energy could be used to lift it?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				53.7 m
+			</p>
+		</answer>
+	</problem>
 </subsection>
 
 <subsection>
@@ -56,7 +277,7 @@
 	</project>
 
     <project xml:id="pa_rot-04">
-        <title></title>
+        <title>Car Around a Curve</title>
 		<statement>
 		    <p>A car starts from rest on a curve with a radius of 120 m and tangential acceleration of 1.5 m/s<m>^2</m>.  Through what angle will the car have traveled when the magnitude of its total acceleration is 3.0 m/<m>^s</m>?</p>
 		</statement>
@@ -73,7 +294,7 @@
 	</project>
 
 	<project xml:id="pa_rot-06">
-		<title>Friction on a Baseball</title>
+		<title>Center of Mass</title>
 		<statement>
 			<p>You have a triangular piece of metal with total mass <m>M</m>, base length <m>L</m>, and height <m>H</m>.  You know the mass density is uniform. Find the center of mass of the piece of metal.</p>
 		</statement>
@@ -139,6 +360,13 @@
 		
 		<p>Shown below is a motion diagram of a ball rolling along a semicircular track. The time intervals between each pair of consecutive points are equal. The ball starts from rest at point 1, and just reaches point 9 before rolling back down the right side of the track. </p>
 		
+		<figure xml:id="fig_rot-The-Bowl">
+			<caption></caption>
+			<image source="The-Bowl.png" width = "50%">
+				<description>A motion diagram of a ball on a semicircular track.</description>
+			</image>
+		</figure>
+		
 		<p>Complete this motion diagram by sketching qualitatively accurate vectors representing both (a) the instantaneous velocity and (b) the instantaneous acceleration of the ball at each instant.</p>
 		
 		<p>Your explanation should describe how you used the diagram to determine each vector and detail why the magnitudes of the vectors are the same or different.</p>
@@ -171,12 +399,12 @@
 		<title>Standing on a Ramp</title>
 		<statement>
 		<p>You are standing at rest on the hill shown in the figure below.  Is the magnitude of the normal force acting on your right foot <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the normal force acting on your left foot?  (Note: the right foot here is toward the bottom of the hill.)</p>
-		<!-- <figure xml:id="fig_en-">
+		<figure xml:id="fig_rot-standing-ramp">
 			<caption></caption>
-			<image source=".png" width = "100%">
-				<description></description>
+			<image source="standing-ramp.png" width = "50%">
+				<description>A figure on a hill.</description>
 			</image>
-		</figure> -->
+		</figure>
 		</statement>
 	</investigation>
 
@@ -243,6 +471,10 @@
 	</project>
 
 </subsection>
-
+<references>
+	<biblio xml:id="ref_boxsand-rot">
+	<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+	</biblio>
+</references>
 </section>
 

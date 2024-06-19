@@ -183,6 +183,49 @@
 		</task>
 	</activity>
 
+	<activity xml:id="psa_vec-6">
+		<title>Math Review</title>
+		<task>
+			<statement>
+				<p>Consider the integral <m>V = \int_{2}^{7} x^2 dx</m>.</p>
+
+				<p>
+					1. Describe the meaning of each symbol and number in this expression.
+				</p>
+				<p>
+					2. Determine the value of <em>V</em>.
+				</p>
+				<p>
+					3. Sketch a graph that gives meaning to this integral.
+				</p>
+				<p>
+					4. If <em>x</em> is measured in meters, what are the units of <em>V</em>?
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>Use an integral to determine the area of the triangle shown below. What is the meaning of the infinitesimal in the integral you use?</p>
+				<figure xml:id="fig_math-rev1">
+					<image source="math-review1.png" width = "50%"></image>
+				</figure>
+			</statement>
+			
+		</task>
+		
+		<task>
+			<statement>
+				<p>Use an integral to determine the area of the shape shown below, where the curve is a parabola with its vertex at the lower left corner.</p>
+				<figure xml:id="fig_math-rev2">
+					<image source="math-review2.png" width = "50%"></image>
+				</figure>
+			</statement>
+		</task>
+		
+	</activity>
+
+
+
 </subsection>
 
 	<references>
