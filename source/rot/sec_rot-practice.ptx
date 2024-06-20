@@ -398,11 +398,11 @@
 	<investigation xml:id="psa_rot-04">
 		<title>Standing on a Ramp</title>
 		<statement>
-		<p>You are standing at rest on the hill shown in the figure below.  Is the magnitude of the normal force acting on your right foot <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the normal force acting on your left foot?  (Note: the right foot here is toward the bottom of the hill.)</p>
+		<p>You are standing at rest on the ramp shown in the figure below.  Is the magnitude of the normal force acting on your right foot <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the normal force acting on your left foot?  (Note: the right foot here is toward the bottom of the ramp.)</p>
 		<figure xml:id="fig_rot-standing-ramp">
 			<caption></caption>
 			<image source="standing-ramp.png" width = "50%">
-				<description>A figure on a hill.</description>
+				<description>A figure on a ramp.</description>
 			</image>
 		</figure>
 		</statement>
@@ -438,16 +438,14 @@
 	<project xml:id="psa_rot-08">
         <title>Massive Pulley</title>
 		<statement>
-		    <p>Two massive blocks are shown in the figure below, connected to each other by a rope over a pulley with nonzero mass.  Find the acceleration of both masses and of the pulley.</p>
-		</statement>
-
-		<figure xml:id="fig_rot-massive-pulley">
+		    <p>Two massive blocks are shown in the figure below, connected to each other by a rope over a pulley with nonzero mass. Find the acceleration of both masses and of the pulley.</p>
+			<figure xml:id="fig_rot-massive-pulley">
 			<caption></caption>
 			<image source="massive-pulley.png" width = "100%">
 				<description></description>
 			</image>
 		</figure>
-
+		</statement>
 		<hint>
 		<p>Use a special-case analysis and the fact that you may have solved this problem previously when the pulley is massless.</p>
 		</hint>

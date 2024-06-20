@@ -91,7 +91,13 @@
 	<investigation xml:id="psa_wave-3">
 		<title>Source Separation</title>
 		<statement>
-		<p>Each of the situations below shows the complete constructive and destructive interference lines coming from two sources (which are not shown) that lie along the horizontal line. For each situation, the wavelength, <m>\lambda</m>, is the same, but the source separation is different. Complete constructive interference lines are solid, and complete destructive interference lines are dashed. For each situation, label each line with the corresponding value of <m>\Delta D</m> (in terms of <m>\lambda</m>), and determine the source separation (in terms of <m>\lambda</m>). For any situation(s) where it is not possible to exactly determine the source separation, determine the range of which the source separation must fall in.</p>
+		<p>Each of the situations below (A, B and C) shows the complete constructive and destructive interference lines coming from two sources (which are not shown) that lie along the horizontal line. For each situation, the wavelength, <m>\lambda</m>, is the same, but the source separation is different. Complete constructive interference lines are solid, and complete destructive interference lines are dashed. For each situation, label each line with the corresponding value of <m>\Delta D</m> (in terms of <m>\lambda</m>), and determine the source separation (in terms of <m>\lambda</m>). For any situation(s) where it is not possible to exactly determine the source separation, determine the range of which the source separation must fall in.</p>
+		<figure xml:id="fig_wave-constr-destr">
+			<caption>Three situations depicting constructive and destructive interference lines from two sources. Solid lines represent complete constructive interference, and dashed lines represent complete destructive interference.</caption>
+			<image source="constr-destr.png" width = "100%">
+				<description></description>
+			</image>
+		</figure>
 		</statement>
 		<hint>
 			<p>

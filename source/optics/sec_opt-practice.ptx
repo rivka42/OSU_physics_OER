@@ -45,6 +45,12 @@
 			<p>
 				Two objects and a mirror are arranged as shown below. Draw a ray diagram to determine the location of the image of each of the two objects.
 			</p>
+			<figure xml:id="fig_opt-mirror">
+				<caption>Two objects and a mirror.</caption>
+				<image source="ray-diagram-1.png" width = "100%">
+					<description></description>
+				</image>
+			</figure>
 		</statement>
 	</investigation>
 
@@ -69,7 +75,7 @@
 		<statement>
 		<p>A candle is located near two mirrors as shown in the figure below. Draw a ray diagram showing the location of the image that your eye sees when looking into the left mirror.</p>
 		<figure xml:id="fig_opt-ray-diagram">
-			<caption></caption>
+			<caption>A candle and two mirrors.</caption>
 			<image source="ray-diagram.png" width = "25%">
 				<description></description>
 			</image>
