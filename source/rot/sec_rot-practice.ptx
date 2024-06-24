@@ -16,7 +16,7 @@
         <title>Crankshaft</title>
 		<statement>
 			<p>
-				The crankshaft (<m>r = 3</m> cm) in a race car accelerates uniformly from rest to 3000 rpm in 2.0 s. How many revolution does it make while reaching 3000 rpm?
+				The crankshaft (<m>r = 3 \mathrm{~cm}</m>) in a race car accelerates uniformly from rest to <m>3000 \mathrm{~rpm}</m> in <m>2.0 \mathrm{~s}</m>. How many revolutions does it make?
 			</p>
 			<p>
 				<ol marker="A">
@@ -42,7 +42,7 @@
 		<title>Angular motion</title>
 		<statement>
 			<p>
-				A 60 cm diameter wheel accelerates from rest at a rate of 7 rad/s<m>^2</m>.
+				A 60 cm diameter wheel accelerates from rest at a rate of <m>7 \mathrm{~rad/s^2}</m>.
 			</p>
 			<p>
 				<ol marker="A">
@@ -53,13 +53,13 @@
 			</p>
 		</statement>
 		<answer>
-		    <p>4.2 m/s<m>^2</m></p>
+		    <p><m>4.2 \mathrm{~m/s^2}</m></p>
 		</answer>
 		<answer>
-		    <p>5.01 s</p>
+		    <p><m>5.01 \mathrm{~s}</m></p>
 		</answer>
 		<answer>
-		    <p>739 m/s<m>^2</m></p>
+		    <p><m>739 \mathrm{~m/s^2}</m></p>
 		</answer>
 	</problem>
 
@@ -67,29 +67,29 @@
 		<title>Army the Armadillo</title>
 		<statement>
 			<p>
-				The Brazilian three-banded armadillo has a hard outer exterior, and when it senses danger, it rolls into a ball for protection. Suppose that Army the armadillo rolls into a ball (with a 5 cm radius) while on the slope of a hill. As a result, they begin to roll down the hill; and after 15 s, they have undergone 45.8 revolutions. What is Army's angular speed at this time?
+				The Brazilian three-banded armadillo has a hard outer exterior, and when it senses danger, it rolls into a ball for protection. Suppose that Army the armadillo rolls into a ball (with a <m>5 \mathrm{~cm}</m> radius) while on the slope of a hill. As a result, they begin to roll down the hill; and after <m>15 \mathrm{~s}</m>, they have undergone <m>45.8</m> revolutions. What is Army's angular speed at this time?
 			</p>
 			<p>
 				<ol marker="A">
-				  <li>12.7 rad/s</li>
-				  <li>15.5 rad/s</li>
-				  <li>22.0 rad/s</li>
-				  <li>29.1 rad/s</li>
-				  <li>38.4 rad/s</li>
+				  <li><m>12.7 \mathrm{~rad/s}</m></li>
+				  <li><m>15.5 \mathrm{~rad/s}</m></li>
+				  <li><m>22.0 \mathrm{~rad/s}</m></li>
+				  <li><m>29.1 \mathrm{~rad/s}</m></li>
+				  <li><m>38.4 \mathrm{~rad/s}</m></li>
 				</ol>
 			  </p>
 		</statement>
 		<statement>
 			<p>
-				How fast is Army travelling at this point?
+				How fast is Army traveling at this point?
 			</p>
 			<p>
 				<ol marker="A">
-				  <li>1.92 m/s</li>
-				  <li>2.23 m/s</li>
-				  <li>3.49 m/s</li>
-				  <li>4.24 m/s</li>
-				  <li>5.56 m/s</li>
+				  <li><m>1.92 \mathrm{~m/s}</m></li>
+				  <li><m>2.23 \mathrm{~m/s}</m></li>
+				  <li><m>3.49 \mathrm{~m/s}</m></li>
+				  <li><m>4.24 \mathrm{~m/s}</m></li>
+				  <li><m>5.56 \mathrm{~m/s}</m></li>
 				</ol>
 			  </p>
 		</statement>
@@ -106,7 +106,7 @@
 		<title>Torque</title>
 		<statement>
 			<p>
-				A force is applied on a lever arm 1 m away from the pivot point, and it produces torque. How much force would have to be applied to produce the same amount of torque if it were applied 4 m from the pivot point? Assume that both forces are applied perpendicularly to the lever arm.
+				A force is applied on a lever arm <m>1 \mathrm{~m}</m> away from the pivot point, and it produces torque. How much force would have to be applied to produce the same amount of torque if it were applied <m>4 \mathrm{~m}</m> from the pivot point? Assume that both forces are applied perpendicularly to the lever arm.
 			</p>
 			<p>
 				<ol marker="A">
@@ -155,7 +155,7 @@
 			</p>
 			<p>
 				<ol marker="A">
-				  <li><em>I</em> may be expressed in units of (kg)(m<m>^2</m>)</li>
+				  <li><em>I</em> may be expressed in units of <m>\mathrm{~kg m^2}</m></li>
 				  <li><em>I</em> depends on the angular acceleration of the object as it rotates</li>
 				  <li><em>I</em> depends on the location of the rotation axis relative to the particles that make up the object.</li>
 				  <li><em>I</em> depends on the orientation of the rotation axis relative to the particles that make up the object.</li>
@@ -173,12 +173,12 @@
 		<title>Angular Acceleration</title>
 		<statement>
 			<p>
-				A uniform, solid disk with a mass of 24.3 kg and a radius of 0.314 m is oriented vertically and is free to rotate about a frictionless axle. Forces of 90 N and 125 N are applied to the disk in the same horizontal direction, but one force is applied to the top and the other is applied to the bottom. What is the magnitude of the angular acceleration of the disk?
+				A uniform, solid disk with a mass of <m>24.3 \mathrm{~kg}</m> and a radius of <m>0.314 \mathrm{~m}</m> is oriented vertically and is free to rotate about a frictionless axle. Forces of <m>90 \mathrm{~N}</m> and <m>125 \mathrm{~N}</m> are applied to the disk in the same horizontal direction, but one force is applied to the top and the other is applied to the bottom. What is the magnitude of the angular acceleration of the disk?
 			</p>
 		</statement>
 		<answer>
 			<p>
-				9.17 rad/s<m>^2</m>
+				<m>9.17 \mathrm{~rad/s^2}</m>
 			</p>
 		</answer>
 	</problem>
@@ -211,12 +211,12 @@
 		<title>Helicopter I</title>
 		<statement>
 			<p>
-				A typical small rescue helicopter has four blades. Each blade is 4.00 m long and has a mass of 50.0 kg. The blades can be approximated as thin rods that rotate about one end of an axis perpendicular to their length. The helicopter has a total loaded mass of 1000 kg. Calculate the rotational kinetic energy in the blades when they rotate at 300 rpm.
+				A typical small rescue helicopter has four blades. Each blade is <m>4.0 \mathrm{~m}</m> long and has a mass of <m>50.0 \mathrm{~kg}</m>. The blades can be approximated as thin rods that rotate about one end of an axis perpendicular to their length. The helicopter has a total loaded mass of <m>1000 \mathrm{~kg}</m>. Calculate the rotational kinetic energy in the blades when they rotate at <m>300 \mathrm{~rpm}</m>.
 			</p>
 		</statement>
 		<answer>
 			<p>
-				<m>5.26 \times 10^5</m> J
+				<m>5.26 \times 10^5 \mathrm{~J}</m>
 			</p>
 		</answer>
 	</problem>
@@ -225,7 +225,7 @@
 		<title>Helicopter II</title>
 		<statement>
 		<p>
-			A typical small rescue helicopter has four blades. Each blade is 4.00 m long and has a mass of 50.0 kg. The blades can be approximated as thin rods that rotate about one end of an axis perpendicular to their length. The helicopter has a total loaded mass of 1000 kg. What is the ratio of translational kinetic energy of the helicopter over the rotational kinetic energy of its blades when it flies at 20.0 m/s?
+			A typical small rescue helicopter has four blades. Each blade is <m>4.00 \mathrm{~m}</m> long and has a mass of <m>50.0 \mathrm{~kg}</m>. The blades can be approximated as thin rods that rotate about one end of an axis perpendicular to their length. The helicopter has a total loaded mass of <m>1000 \mathrm{~kg}</m>. What is the ratio of translational kinetic energy of the helicopter over the rotational kinetic energy of its blades when it flies at <m>20.0 \mathrm{~m/s}</m>?
 		</p>
 		</statement>
 	<answer>
@@ -239,12 +239,12 @@
 		<title>Helicopter III</title>
 		<statement>
 			<p>
-				A typical small rescue helicopter has four blades. Each blade is 4.00 m long and has a mass of 50.0 kg. The blades can be approximated as thin rods that rotate about one end of an axis perpendicular to their length. The helicopter has a total loaded mass of 1000 kg. To what height could the helicopter be raised if all of the rotational kinetic energy could be used to lift it?
+				A typical small rescue helicopter has four blades. Each blade is <m>4.00 \mathrm{~m}</m> long and has a mass of <m>50.0 \mathrm{~kg}</m>. The blades can be approximated as thin rods that rotate about one end of an axis perpendicular to their length. The helicopter has a total loaded mass of <m>1000 \mathrm{~kg}</m>. To what height could the helicopter be raised if all of the rotational kinetic energy could be used to lift it?
 			</p>
 		</statement>
 		<answer>
 			<p>
-				53.7 m
+			<m>53.7 \mathrm{~m}</m>
 			</p>
 		</answer>
 	</problem>
@@ -279,7 +279,7 @@
     <project xml:id="pa_rot-04">
         <title>Car Around a Curve</title>
 		<statement>
-		    <p>A car starts from rest on a curve with a radius of 120 m and tangential acceleration of 1.5 m/s<m>^2</m>.  Through what angle will the car have traveled when the magnitude of its total acceleration is 3.0 m/<m>^s</m>?</p>
+		    <p>A car starts from rest on a curve with a radius of <m>120 \mathrm{~m}</m> and tangential acceleration of <m>1.5 \mathrm{~m/s^2}</m>.  Through what angle will the car have traveled when the magnitude of its total acceleration is <m>3 \mathrm{~m/s^2}</m>?</p>
 		</statement>
 		<hint>
 		    <p>For your representation (part 1c), sketch careful velocity and change in velocity vectors for a few different points.</p>
@@ -289,7 +289,7 @@
 	<project xml:id="pa_rot-05">
 		<title>Friction on a Baseball</title>
 		<statement>
-			<p>Find a symbolic expression for the frictional force exerted by a baseball pitcher (tangent to the surface of the baseball) when throwing a fastball that spins at 2500 revolutions per minute.</p>
+			<p>Find a symbolic expression for the frictional force exerted by a baseball pitcher (tangent to the surface of the baseball) when throwing a fastball that spins at <m>2500 \mathrm{~rpm}</m>.</p>
 		</statement>
 	</project>
 
@@ -317,7 +317,7 @@
 	<project xml:id="pa_rot-09">
 		<title>String Around a Tennis Ball</title>
 		<statement>
-			<p>A string is wrapped many times around a tennis ball that has mass <m>m</m> = 60 g and radius <m>r</m> = 7 cm.  (<m>I = \frac{2}{3}mr^2</m> about the center or <m>I = \frac{5}{3}mr^2</m> about the edge — calculating these for yourself is a good challenge!)  The string is attached to the ceiling and the ball is allowed to fall (see the figure below). Determine the tension in the string.</p>
+			<p>A string is wrapped many times around a tennis ball that has mass <m>m = 60 \mathrm{~g}</m> and radius <m>r = 7 \mathrm{~cm}</m>.  For a hollow ball, <m>I = \frac{2}{3}mr^2</m> about the center or <m>I = \frac{5}{3}mr^2</m> about the edge — calculating these for yourself is a good challenge!  The string is attached to the ceiling and the ball is allowed to fall (see the figure below). Determine the tension in the string.</p>
 		</statement>
 		<figure xml:id="fig_rot-String-around-Ball">
 			<caption></caption>
@@ -362,7 +362,7 @@
 		
 		<figure xml:id="fig_rot-The-Bowl">
 			<caption></caption>
-			<image source="The-Bowl.png" width = "50%">
+			<image source="The-Bowl.png" width = "75%">
 				<description>A motion diagram of a ball on a semicircular track.</description>
 			</image>
 		</figure>
@@ -376,7 +376,7 @@
 	<project xml:id="psa_rot-02">
         <title>The Conical Bowl</title>
 		<statement>
-		    <p>You are riding a 150 kg bicycle at constant speed along a circular track of radius 25 m.  The shape of the track is a conical bowl, so the track makes a consistent angle of 15° with the horizontal. Determine the speed of the bicycle.</p>
+		    <p>You are riding a <m>150 \mathrm{~kg}</m> bicycle at constant speed along a circular track of radius <m>25 \mathrm{~m}</m>.  The shape of the track is a conical bowl, so the track makes a consistent angle of 15° with the horizontal. Determine the speed of the bicycle.</p>
 		</statement>
 		<hint>
 		    <p>For your special case analysis (part 3c), try a special case using the angle of the track.</p>
@@ -411,7 +411,7 @@
 	<project xml:id="psa_rot-05">
         <title>The Cheese Slice</title>
 		<statement>
-		    <p>You have a one-dimensional slice of cheese with total mass <m>M</m> and total length <m>L</m>.  You know the linear mass density is <m>\lambda(x) = k \sqrt(x)</m>.  Find the constant of proportiality <m>k</m> (including its units) and the center of mass of the slice of cheese.</p>
+		    <p>You have a one-dimensional slice of cheese with total mass <m>M</m> and total length <m>L</m>.  You know the linear mass density is <m>\lambda(x) = k \sqrt{x}</m>.  Find the constant of proportionality <m>k</m> (including its units) and the center of mass of the slice of cheese.</p>
 		</statement>
 		<hint>
 		    <p>For your representation (part 1c), sketch a graph of the mass density vs. x.  This graph might also prove useful for your sensemaking at the end!</p>
@@ -463,7 +463,7 @@
 	<project xml:id="psa_rot-10">
         <title>Brick on a Disc</title>
 		<statement>
-		    <p>A 100 kg disc with radius 1.6 m is spinning horizontally at 25 rad/s.  You place a 20 kg brick quickly and gently on the disc so that it sticks to the edge of the disc.  Determine the final angular speed of the disc-brick system.</p>
+		    <p>A <m>100 \mathrm{~kg}</m> disc with radius <m>1.6 \mathrm{~m}</m> is spinning horizontally at <m>25 \mathrm{~rad/s}</m>.  You place a <m>20 \mathrm{~kg}</m> brick quickly and gently on the disc so that it sticks to the edge of the disc.  Determine the final angular speed of the disc-brick system.</p>
 		</statement>
 		<hint>Discuss whether the kinetic energy of the system <em>increases</em>, <em>decreases</em>, or <em>remains the same.</em></hint>
 	</project>
