@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 
 <chapter xml:id="ch_prep" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Vectors</title>
+  <title>Preparation</title>
 <introduction>
     <p>
 A few activities to help you prepare for physics!
@@ -10,7 +10,7 @@ A few activities to help you prepare for physics!
     
 </introduction>
 	
-  <xi:include href="./vec/sec_prep-explanations.ptx" />
+  <xi:include href="./prep/sec_prep-explanations.ptx" />
 	
 
 

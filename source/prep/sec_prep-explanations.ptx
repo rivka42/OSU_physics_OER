@@ -4,62 +4,44 @@
   <title>Prep - Explanations</title>
 
 	<exercises>
-<title>Explanation Activities</title>
-<p>Recall <xref ref="fig_explanation"></xref>.</p>
+<title>The Mystery of the Two Planets</title>
+<p>You may want to recall <xref ref="fig_explanation"></xref>.</p>
+<p>You are in charge of an interstellar spacecraft that is investigating the planets around a faraway star system.  Currently, your spacecraft is located in the region of space near two of these planets, <alert>Ursula</alert> and <alert>Triton</alert>, where the net gravitational force on the spacecraft is equal to zero.  You have measured that the distance between your spacecraft and the center of Ursula, <m>d_u</m>, is greater than the distance between your spacecraft and the center of Triton, <m>d_t</m>.  You want to know whether the mass of Ursula is <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the mass of Triton.</p>
+<p>Before you begin, you may want to draw a simple diagram of this situation.</p>
 		  <exercise>
-			<title></title>
+			<title>Identify Building Blocks</title>
 			<statement>
-			  			<p></p>
+			  			<p>Which of the following equations do you think will be useful or applicable in approaching this situation?  For each equation, identify the corresponding physical model.</p>
+							<ul>
+							<li><p><m>\vec{F}_{\text{net}} = m\vec{a}</m></p></li>
+							<li><p><m>\vec{F}_{AB} = -\vec{F}_{BA}</m> </p></li>
+							<li><p><m>\vec{F}^g = m\vec{g}</m></p></li>
+							<li><p><m>U = -\frac{GMm}{r}</m></p></li>
+							<li><p><m>g = \text{constant}</m></p></li>
+							<li><p><m>g = \frac{GM}{r}</m></p></li>
+							<li><p>Other: __________</p></li>
+							</ul>
 							</statement>
-							<answer>
-							<p></p>
-							</answer>
 			</exercise>
 			<exercise>
-			<title></title>
+			<title>Reasoning</title>
 			<statement>
-			  			<p></p>
+			  			<p>Write an explanation allowing you to defend whether <m>m_u</m> is <em>greater than</em>, <em>less than</em>, or <em>equal to</em> <m>m_t</m>, starting from one or more of the physical models you previously identified as being useful or applicable to this situation.</p>
 							</statement>
-							<answer>
-							<p></p>
-							</answer>
 			</exercise>
 			<exercise>
-			<title></title>
+			<title>Evaluate</title>
 			<statement>
-			  			<p></p>
+			  			<p>Review the explanation below.  What do you think is missing?  Why do you think it is important to include the missing piece(s)?</p>
 							</statement>
-							<answer>
-							<p></p>
-							</answer>
 			</exercise>
 			<exercise>
-			<title></title>
+			<title>Reflect</title>
 			<statement>
-			  			<p></p>
+			  			<p>Review your answers to the questions above and reflect on how your thinking has changed over the course of this activity.  Generalize your thinking to identify (1) what is important to include in a scientific explanation and (2) what is <alert>unnecessary</alert> to include, and why.</p>
 							</statement>
-							<answer>
-							<p></p>
-							</answer>
 			</exercise>
-			<exercise>
-			<title></title>
-			<statement>
-			  			<p></p>
-							</statement>
-							<answer>
-							<p></p>
-							</answer>
-			</exercise>
-			<exercise>
-			<title></title>
-			<statement>
-			  			<p></p>
-							</statement>
-							<answer>
-							<p></p>
-							</answer>
-			</exercise>
+			<video youtube="iGIbhqVyNRM"><description>Explaining how to use the universal model for gravitation to predict the masses of planets.</description></video>
 		</exercises>
 		
 		
