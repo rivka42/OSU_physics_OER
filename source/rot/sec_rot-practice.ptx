@@ -441,7 +441,7 @@
 		    <p>Two massive blocks are shown in the figure below, connected to each other by a rope over a pulley with nonzero mass. Find the acceleration of both masses and of the pulley.</p>
 			<figure xml:id="fig_rot-massive-pulley">
 			<caption></caption>
-			<image source="massive-pulley.png" width = "100%">
+			<image source="massive-pulley.png" width = "50%">
 				<description></description>
 			</image>
 		</figure>
