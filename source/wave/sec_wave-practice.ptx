@@ -13,19 +13,342 @@
 <subsection>
 <title>Practice</title>
     <problem xml:id="psa_wave-alpha0">
-        <title></title>
+        <title>Wave Speed</title>
 		<statement>
-
+			<p>
+				The speed of a wave in a medium depends on which of the following quantities?
+			</p>
+			<ol marker="A">
+			<li>The amplitude of the source</li>
+			<li>The frequency of the source </li>
+			<li>The period of the source</li>
+			<li>The characteristics of the medium</li>
+			<li>The power of the wave</li>
+		  </ol>
 		</statement>
+		
 		<!--
 		<hint>
 		    <p></p>
 		</hint>
 		-->
 		<answer>
-		    <p></p>
+		    <p>D.</p>
 		</answer>
 	</problem>
+
+	<problem xml:id="psa_wave-alpha1">
+        <title>Wave Frequency</title>
+		<statement>
+			<p>
+				The frequency of a wave depends on which of the following quantities?
+			</p>
+			<ol marker="A">
+			<li>The amplitude of the source</li>
+			<li>The frequency of the source</li>
+			<li>The period of the source</li>
+			<li>The characteristics of the medium</li>
+			<li>The power of the wave</li>
+		  </ol>
+		</statement>
+		
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p>B., E.</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_wave-alpha2">
+        <title>Wave Amplitude</title>
+		<statement>
+			<p>
+				The amplitude of a wave depends on which of the following quantities?
+			</p>
+			<ol marker="A">
+			<li>The power coming from the source </li>
+			<li>The frequency of the source</li>
+			<li>The period of the source</li>
+			<li>The characteristics of the medium</li>
+			<li>The wavelength of the wave</li>
+		  </ol>
+		</statement>
+		
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p>A.</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_wave-alpha3">
+        <title>Two Wave</title>
+		<statement>
+			<p>
+				Waves A and B are traveling in the same medium, and they have the same wavelength and frequency. But Wave A has an amplitude twice that of Wave B. How does the speed of Wave A compare to the speed of wave B?
+			</p>
+			<ol marker="A">
+			<li>The speed of Wave A is 1/4 the speed of Wave B.</li>
+			<li>The speed of Wave A is 1/2 the speed of Wave B.</li>
+			<li>The speed of Wave A is the same as the speed of Wave B.</li>
+			<li>The speed of Wave A is twice the speed of Wave B.</li>
+			<li>The speed of Wave A is four times the speed of Wave B.</li>
+			<li>None of the above are correct.</li>
+		  </ol>
+		</statement>
+		
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p>C.</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_wave-alpha4">
+        <title>Wavelength of the Ocean</title>
+		<statement>
+			<p>
+				Sitting on the dock of the bay, you notice that the crests of an ocean wave pass a pier every 12.0 s. You know also that there are two buoys 28 m apart, and that the crest travels between the buoys in about 5 seconds. What is the wavelength of the ocean wave?
+			</p>
+			<ol marker="A">
+			<li>16.8 m</li>
+			<li>24.7 m</li>
+			<li>31.6 m</li>
+			<li>42.2 m</li>
+			<li>59.4 m</li>
+			<li>67.2 m</li>
+		  </ol>
+		</statement>
+		
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p>F.</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_wave-alpha5">
+        <title>Wave Intensity</title>
+		<statement>
+			<p>
+				Consider a logarithmic function like that found in the equation for decibels (also used for the Richter scale, by the way). If the sound intensity level increases from 30 dB to 60 dB, what can you say about the intensity of the wave?
+			</p>
+			<ol marker="A">
+			<li>The intensity must have decreased by a factor greater than 2</li>
+			<li>The intensity must have decreased by a factor of 2</li>
+			<li>The intensity must have decreased by a factor less than 2</li>
+			<li>The intensity must have remained constant</li>
+			<li>The intensity must have increased by a factor greater than 2</li>
+			<li>The intensity must have increased by a factor of 2</li>
+			<li>The intensity must have increased by a factor less than 2</li>
+		  </ol>
+		</statement>
+		
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p>E.</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_wave-alpha6">
+        <title>Sound Intensity</title>
+		<statement>
+			<p>
+				If the sound intensity level at a certain point increases from 30 dB to 60 dB, by what factor did the intensity change?
+			</p>
+			<ol marker="A">
+			<li>0.5</li>
+			<li>2</li>
+			<li>30</li>
+			<li>100</li>
+			<li>1000</li>
+		  </ol>
+		</statement>
+		
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p>E.</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_wave-alpha7">
+        <title>Sound at a Concert</title>
+		<statement>
+			<p>
+				You are attending a concert by your favorite band, but you can barely hear them, because only 2 of the 20 speakers are working. The sound intensity level at your location is 60 dB. If all 20 speakers suddenly start working, what is the new sound intensity level at your location? Assume that you don't change your location and that all of the speakers are the same distance from you.
+			</p>
+			<ol marker="A">
+			<li>70 dB</li>
+			<li>78 dB</li>
+			<li>100 dB</li>
+			<li>120 dB</li>
+			<li>600 dB</li>
+		  </ol>
+		</statement>
+		
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p>A.</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_wave-alpha8">
+        <title>Ambulance Siren</title>
+		<statement>
+			<p>
+				You hear the siren from an ambulance and the frequency you hear is decreasing. Which of the following can you conclude are plausible?
+			</p>
+			<ol marker="A">
+			<li>The car is receding from you at a constant speed.</li>
+			<li>The car is receding from you at an increasing speed.</li>
+			<li>The car is receding from you at a decreasing speed.</li>
+			<li>The car is approaching you at a constant speed.</li>
+			<li>The car is approaching you at an increasing speed.</li>
+			<li>The car is approaching you at a decreasing speed.</li>
+		  </ol>
+		</statement>
+		
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p>B., F.</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_wave-alpha9">
+        <title>Dolphin Frequency</title>
+		<statement>
+			<p>
+				Dolphins emit clicks of sound for communicating and echo-location. A marine biologist, standing at rest in shallow seawater, is monitoring a dolphin swimming directly away at 8 m/s. The biologist measures the number of clicks occurring per second to be at a frequency of 2500 Hz. The speed of sound in calm seawater is 1522 m/s. What is the frequency of the clicks that the dolphin sends out?
+			</p>
+			<ol marker="A">
+			<li>1522 Hz</li>
+			<li>2464 Hz</li>
+			<li>2487 Hz</li>
+			<li>2500 Hz</li>
+			<li>2513 Hz</li>
+			<li>2536 Hz</li>
+		  </ol>
+		</statement>
+		
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p>E.</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_wave-alpha10">
+        <title>Tube of Air</title>
+		<statement>
+			<p>
+				A cylindrical tube of air sustains standing waves at 600 Hz, 800 Hz, and 1000 Hz, but at no other frequencies between 600 and 1000 Hz. Which of the following statements are plausible here?
+			</p>
+			<ol marker="A">
+			<li>The fundamental frequency is 50 Hz and the tube is open on both ends. </li>
+			<li>The fundamental frequency is 100 Hz and the tube is open on both ends.</li>
+			<li>The fundamental frequency is 100 Hz and the tube has one open and one closed end. </li>
+			<li>The fundamental frequency is 200 Hz and the tube has one open and one closed end.</li>
+			<li>The fundamental frequency is 200 Hz and the tube is open on both ends. </li>
+			<li>The fundamental frequency is 200 Hz and the tube is closed on both ends.</li>
+		  </ol>
+		</statement>
+		
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p>E., F.</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_wave-alpha11">
+        <title>Speakers</title>
+		<statement>
+			<p>
+				Suppose you observe that the shortest non-zero path length difference that produces constructive interference from two coherent unknown sources is 128 m. What is the wavelength of the source?
+			</p>
+		</statement>
+		<statement>
+			<p>
+				At which of the following path length differences will constructive interference also occur?
+			</p>
+			<ol marker="A">
+			<li>64 m</li>
+			<li>180 m</li>
+			<li>256 m</li>
+			<li>320 m</li>
+			<li>512 m</li>
+			<li>832 m</li>
+			<li>3264 m</li>
+			<li>4096 m</li>
+		  </ol>
+		</statement>
+		
+		  <statement>
+			<p>
+				At which of the following path length differences will destructive interference occur?
+			</p>
+			<ol marker="A">
+			<li>64 m</li>
+			<li>180 m</li>
+			<li>256 m</li>
+			<li>320 m</li>
+			<li>512 m</li>
+			<li>832 m</li>
+			<li>3264 m</li>
+			<li>4096 m</li>
+		  </ol>
+		</statement>
+		
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p>128 m</p>
+		</answer>
+		<answer>
+		    <p>C., E., H.</p>
+		</answer>
+		<answer>
+		    <p>A., D., F., G.</p>
+		</answer>
+	</problem>
+	
 
 </subsection>
 
@@ -107,6 +430,10 @@
 	</investigation>
 
 </subsection>
-
+<references>
+	<biblio xml:id="ref_boxsand-wave">
+	<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+	</biblio>
+</references>
 </section>
 

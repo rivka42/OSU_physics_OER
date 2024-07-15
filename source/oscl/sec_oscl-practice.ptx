@@ -12,18 +12,162 @@
 
 <subsection>
 <title>Practice</title>
-    <problem xml:id="psa_oscl-alpha0">
-        <title></title>
+    <problem xml:id="psa_oscl-alpha1">
+        <title>Two Springs and a Mass</title>
 		<statement>
-
+			<p>A mass is compressed between two springs on a frictionless horizontal surface. When the mass is in equilibrium, both springs are at their relaxed length. Which of the following statements are true regarding this situation?</p>
+			<ol marker="A">
+			<li>The mass is traveling its fastest when the force by the springs is the greatest.</li>
+			<li>The mass accelerates the most when it's furthest from its equilibrium position.</li>
+			<li>The period of the mass changes depending on the value of its maximum displacement.</li>
+			<li>You could replace those two springs with one spring whose constant is equal to <m>k_1 + k_2</m> and the frequency of the oscillation would not change.</li>
+		  </ol>
 		</statement>
+		
 		<!--
 		<hint>
 		    <p></p>
 		</hint>
 		-->
 		<answer>
+		    <p>B., D.</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_oscl-alpha2">
+        <title>Pendulum on Jupiter</title>
+		<statement>
+			<p>
+				A mass on an ideal spring and a simple pendulum have the same oscillation frequency on Earth. On Jupiter's moon Europa, the gravitational acceleration is about 1/9 that of Earth's. How would the frequency of the pendulum compare to the frequency of the mass-spring system if they were both oscillating on Europa?
+			</p>
+			<ol marker="A">
+				<li>The pendulum frequency would be 1/9 the mass-spring frequency. </li>
+				<li>The pendulum frequency would be 1/3 the mass-spring frequency.</li>
+				<li>The pendulum frequency would still be the same as the mass-spring frequency. </li>
+				<li>The pendulum frequency would be 3 times the mass-spring frequency.</li>
+				<li>The pendulum frequency would be 9 times the mass-spring frequency.</li>
+				<li>None of the above are true.</li>
+			</ol>
+		</statement>
+		
+		<!--
+		<hint>
 		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p>B.</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_oscl-alpha3">
+        <title>Bird on a Tree Branch</title>
+		<statement>
+			<p>
+				On a windless day, Callie the Cardinal-Grosbeak (mass = 43 g) is swaying on a tree twig of negligible mass. Being quite the scientist, she notices that the tree branch behaves just like a spring; she records her position as being described by this time function: <m>x(t) = (5 cm) cos(\frac{4\pi}{3}t)</m>. What is the maximum acceleration Callie experiences?
+			</p>
+			<ol marker="A">
+			<li>5 <m>m/s^2</m></li>
+			<li>0.05 <m>m/s^2</m></li>
+			<li>0.209 <m>m/s^2</m></li>
+			<li>0.877 <m>m/s^2</m></li>
+			<li>3.67 <m>m/s^2</m></li>
+		  </ol>
+		</statement>
+		
+		  <statement>
+			<p>
+				What is the spring constant of the branch?
+			</p>
+			<ol marker="A">
+			<li>754 <m>N/m</m></li>
+			<li>0.754 <m>N/m</m></li>
+			<li>0.180 <m>N/m</m></li>
+			<li>0.038 <m>N/m</m></li>
+			<li>3.16 <m>N/m</m></li>
+		  </ol>
+		</statement>
+		
+
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p>D.</p>
+		</answer>
+		<answer>
+		    <p>B.</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_oscl-alpha4">
+        <title>Oscillating Mass</title>
+		<statement>
+			<p>
+				A mass is connected to a spring and is set to oscillating. You start your stopwatch just as the mass passes the equilibrium position, traveling in negative x-direction. Which time function should be used to model the position of the mass?  
+			</p>
+			<ol marker="A">
+			<li>Positive Sine</li>
+			<li>Negative Sine</li>
+			<li>Positive Cosine</li>
+			<li>Negative Cosine</li>
+		  </ol>
+		</statement>
+		
+		<statement>
+			<p>
+				Which time function should be used to model the velocity of the mass?  
+			</p>
+			<ol marker="A">
+			<li>Positive Sine</li>
+			<li>Negative Sine</li>
+			<li>Positive Cosine</li>
+			<li>Negative Cosine</li>
+		  </ol>
+		</statement>
+		
+		  <statement>
+			<p>
+				Which function should be used to model the acceleration of the mass as a function of time?  
+			</p>
+			<ol marker="A">
+			<li>Positive Sine</li>
+			<li>Negative Sine</li>
+			<li>Positive Cosine</li>
+			<li>Negative Cosine</li>
+		  </ol>
+		</statement>
+		
+		  <statement>
+			<p>
+				Which function should be used to model the net force acting on the mass as a function of time?  
+			</p>
+			<ol marker="A">
+			<li>Positive Sine</li>
+			<li>Negative Sine</li>
+			<li>Positive Cosine</li>
+			<li>Negative Cosine</li>
+		  </ol>
+		</statement>
+		
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p>B.</p>
+		</answer>
+		<answer>
+		    <p>D.</p>
+		</answer>
+		<answer>
+		    <p>A.</p>
+		</answer>
+		<answer>
+		    <p>A.</p>
 		</answer>
 	</problem>
 
@@ -76,6 +220,10 @@
 
 
 </subsection>
-
+<references>
+	<biblio xml:id="ref_boxsand-oscl">
+	<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+	</biblio>
+</references>
 </section>
 
