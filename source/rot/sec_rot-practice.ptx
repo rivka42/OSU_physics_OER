@@ -454,7 +454,7 @@
 	<investigation xml:id="psa_rot-09">
         <title>Spool Competition</title>
 		<statement>
-		    <p>You and your friend are in a competition to see which spool will reach the top of a frictionless ramp first. There are two spools: One spool has a thread wrapped many times around it so that as it is pulled up the ramp, it will rotate, and the other spool has a thread fixed at one point so that it will not rotate. The spools are oriented such that their axis of rotation is perpendicular to the ramp. Assume the thread is ideal and you and your friend can pull with the same tension.</p>
+		    <p>You and your friend are in a competition to see which spool will reach the top of a frictionless ramp first. There are two spools: One spool has a thread wrapped many times around it so that as it is pulled up the ramp, it will rotate, and the other spool has a thread fixed at one point so that it will not rotate. Assume the thread is ideal and you and your friend can pull with the same tension.</p>
 			<p>
 				Part A: Which spool do you want to choose in order to win?
 			</p>
