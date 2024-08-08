@@ -10,9 +10,14 @@
 	<definition>
 		<title>Charge</title>
 		<statement>
-			<p>Charge is a physical property, measured in coulombs (C), that governs how an object interacts with electric fields.</p>
+			<p>Charge is a physical property of subatomic particles, measured in coulombs (C), that governs how matter interacts with electric and magnetic fields.  </p>
 		</statement>
 	</definition>
+	
+	<p>Electric charge can be positive or negative. Positive charges are associated with protons, and negative charges are associated with electrons. Protons reside in the nucleus of atoms while electrons "orbit" nuclei. We represent positive charges with the symbol "+" and negative charges with the symbol "-". 
+	
+In examining the behavior of positive and negative charge, we can find that like charges tend to attract while unlike charges repel. Therefore, two electrons will repel each other while a proton and an electron will tend to attract.  	
+	</p>
 	
 	<exercises>
 		<title>Activities</title>
