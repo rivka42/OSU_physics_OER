@@ -39,8 +39,8 @@
 	<rename element="insight">Historical Note</rename>
 	
 	<rename element="project">A*R*C*S</rename>
-	<rename element="investigation">Explain</rename>
-	<rename element="problem">Calculate</rename>
+	<rename element="investigation">Explanation</rename>
+	<rename element="exploration">Calculation</rename>
 
 <!-- Specify the default type of cross reference:           -->
   <cross-references text="type-global" />

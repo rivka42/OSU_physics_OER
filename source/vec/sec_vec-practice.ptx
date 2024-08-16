@@ -7,13 +7,13 @@
 	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
 	If you want an Explain activity, use the <investigation> tag.
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
-	If you want a Calculate activity, use the <problem> tag.  (This tag is Example-like, not Project-like, so you cannot embed lettered steps into it using <task>.
+	If you want a Calculate activity, use the <exploration> tag.
 	-->
 	
 <subsection>
 <title>Practice</title>
 
-		    <problem xml:id="psa_vec-alpha0">
+		    <exploration xml:id="psa_vec-alpha0">
         <title>Sums and Differences of Vectors</title>
 		<statement>
 		    <p>Use the figure to determine a single vector that is equivalent to the given summation of vectors in each of the cases below.  (The notation <m>\vec{PQ}</m> represents a vector pointing from point <m>P</m> to point <m>Q</m>.)</p>
@@ -48,9 +48,9 @@
 </p>
 
 		</answer>
-	</problem>
+	</exploration>
 	
-	    <problem xml:id="psa_vec-alpha1">
+	    <exploration xml:id="psa_vec-alpha1">
         <title>Two Vectors I</title>
 		<statement>
 		  <p>In the following figure, the magnitudes of the vectors are <m>|\vec{a}| = 8</m> and <m>|\vec{b}| = 4.5</m>.  Assume that <m>\vec{c} = \vec{a} + \vec{b}</m> and <m>\vec{d} = \vec{a} - \vec{b}</m>.</p>
@@ -71,9 +71,9 @@
 		    <p><m>\vec{c}</m>: <m>3</m> at <m>109.6^o</m></p>
 				<p><m>\vec{d}</m>: <m>8.1</m> at <m>167.5^o</m></p>
 		</answer>
-	</problem>
+	</exploration>
 	
-	    <problem xml:id="psa_vec-alpha2">
+	    <exploration xml:id="psa_vec-alpha2">
         <title>Two Vectors II</title>
 		<statement>
 		  <p>In the following figure, the magnitudes of the vectors are <m>|\vec{a}| = 5</m> and <m>|\vec{b}| = 5</m>.  Assume that <m>\vec{c} = \vec{a} + \vec{b}</m> and <m>\vec{d} = \vec{a} - \vec{b}</m>.</p>
@@ -94,10 +94,10 @@
 		    <p><m>\vec{c}</m>: <m>4</m> at <m>-42.5^o</m></p>
 				<p><m>\vec{d}</m>: <m>8.87</m> at <m>227.5^o</m></p>
 		</answer>
-	</problem>
+	</exploration>
 
 	
-		    <problem xml:id="psa_vec-alpha3">
+		    <exploration xml:id="psa_vec-alpha3">
         <title>Vector Contest</title>
 		<statement>
 		    <p>Three vectors add together to equal <m>0</m>.  One vector has magnitude <m>3</m> and points in the positive <m>x</m>-direction; a second vector has magnitude <m>5</m> and points at <m>120^o</m> from the positive <m>x</m>-axis.  Determine the third vector as a magnitude and direction.</p>
@@ -110,7 +110,7 @@
 		<answer>
 		    <p><m>4.4</m> at <m>-97^o</m></p>
 		</answer>
-	</problem>
+	</exploration>
 
 </subsection>
 

@@ -7,13 +7,13 @@
 	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
 	If you want an Explain activity, use the <investigation> tag.
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
-	If you want a Calculate activity, use the <problem> tag.  (This tag is Example-like, not Project-like, so you cannot embed lettered steps into it using <task>.
+	If you want a Calculate activity, use the <exploration> tag.
 	-->
 	
 <subsection>
 <title>Practice</title>
 
-    <problem xml:id="psa_mot-alpha1">
+    <exploration xml:id="psa_mot-alpha1">
         <title>Punting a Football</title>
 		<statement>
 		    <p>A kicker punts a football from the very center of the field to the sideline <m>42</m> yards downfield.  What is the magnitude of the net displacement of the ball in yards?</p>
@@ -24,9 +24,9 @@
 		<answer>
 		    <p><m>50.2</m> yards</p>
 		</answer>
-	</problem>
+	</exploration>
 	
-	    <problem xml:id="psa_mot-alpha2">
+	    <exploration xml:id="psa_mot-alpha2">
         <title>The Flying Saucer</title>
 		<statement>
 		    <p>A certain flying saucer is initially located at a position <m>\vec{r}_i = 400 \hat{x} + 350 \hat{y} \mathrm{~m}</m>.  After a few minutes it has moved to a location <m>\vec{r}_f = 650 \hat{x} - 800 \hat{y} \mathrm{~m}</m>.  What is the displacement of the flying saucer? </p>
@@ -39,9 +39,9 @@
 		<answer>
 		    <p><m>\Delta \vec{r} = 250 \hat{x} - 1150 \hat{y} \mathrm{~m}</m></p>
 		</answer>
-	</problem>
+	</exploration>
 	
-	    <problem xml:id="psa_mot-alpha3">
+	    <exploration xml:id="psa_mot-alpha3">
         <title>Waddling Pond</title>
 		<statement>
 		    <p>A park has a circular pond with a radius of <m>100 \mathrm{~m}</m>.  Benny starts at its westernmost point, then waddles counterclockwise around the pond until he is at its northernmost point.  What is the magnitude and direction of Benny's change in position?</p>
@@ -54,9 +54,9 @@
 		<answer>
 		    <p><m>141 \mathrm{~m}</m> northeast</p>
 		</answer>
-	</problem>
+	</exploration>
 	
-	    <problem xml:id="psa_mot-alpha4">
+	    <exploration xml:id="psa_mot-alpha4">
         <title>Mysterious Object I</title>
 		<statement>
 		    <p>At a certain moment in time, an object was located at <m>\vec{r}_1 = \hat{x} + 4 \hat{y} \mathrm{~m}</m>.  At some later moment, it is located at <m>\vec{r}_2 = -1 \hat{x} - 1 \hat{y} \mathrm{~m}</m>.  The object's average velocity for this motion was <m>\vec{v}_{ave} = -0.2 \hat{x} -0.5 \hat{y} \mathrm{~m/s}</m>.  How much time elapsed during the motion?</p>
@@ -69,9 +69,9 @@
 		<answer>
 		    <p><m>10 \mathrm{~s}</m></p>
 		</answer>
-	</problem>
+	</exploration>
 	
-	    <problem xml:id="psa_mot-alpha5">
+	    <exploration xml:id="psa_mot-alpha5">
         <title>Mysterious Object II</title>
 		<statement>
 		    <p>At one moment, an object was at location <m>\vec{r}_1 = \hat{x} + 5 \hat{y} \mathrm{~m}</m>, traveling with velocity <m>\vec{v}_1 = 3 \hat{x} + 2 \hat{y} \mathrm{~m/s}</m>.  At some later moment, the object was traveling with velocity <m>\vec{v}_2 = 5 \hat{x} + 7 \hat{y} \mathrm{~m/s}</m>.  The average acceleration of the object during this time period was <m>\vec{a}_{ave} = 0.1 \hat{x} + 0.25 \hat{y} \mathrm{~m/s^2}</m>.  How much time elapsed during this motion?</p>
@@ -84,9 +84,9 @@
 		<answer>
 		    <p><m>20 \mathrm{~s}</m></p>
 		</answer>
-	</problem>
+	</exploration>
 	
-	    <problem xml:id="psa_mot-alpha6">
+	    <exploration xml:id="psa_mot-alpha6">
         <title>Mysterious Object III</title>
 		<statement>
 		    <p>An object, initially located at the origin, is traveling with velocity <m>\vec{v}_i = -\hat{x} - 2 \hat{y} \mathrm{~m/s}</m>. The object travels for <m>4.0 \mathrm{~s}</m> with an average acceleration of <m>\vec{a}_{ave} = 0.25 \hat{x} + 0.5 \hat{y} \mathrm{~m/s^2}</m>.  At the end of the <m>4.0 \mathrm{~s}</m>, what is the velocity of the object?</p>
@@ -99,9 +99,9 @@
 		<answer>
 		    <p><m>\vec{v}_{ave} = \vec{0}  \mathrm{~m/s}</m></p>
 		</answer>
-	</problem>
+	</exploration>
 	
-	    <problem xml:id="psa_mot-alpha7">
+	    <exploration xml:id="psa_mot-alpha7">
         <title>The Jumbo Jet</title>
 		<statement>
 		    <p>A jumbo jet, flying northward, is landing with a speed of <m>70 \mathrm{~m/s}</m>.  Once the jet touches down, it has <m>800 \mathrm{~m}</m> of straight, level runway in which to reduce its speed to <m>5.0 \mathrm{~m/s}</m>.  Compute the <m>x</m>-component of the jet's average acceleration during the landing.  Assume north is the positive <m>x</m>-direction.</p>
@@ -114,9 +114,9 @@
 		<answer>
 		    <p><m>a_{x,ave} = -3.05 \mathrm{~m/s^2}</m></p>
 		</answer>
-	</problem>
+	</exploration>
 	
-	    <problem xml:id="psa_mot-alpha8">
+	    <exploration xml:id="psa_mot-alpha8">
         <title>The Sports Car</title>
 		<statement>
 		    <p>The driver of a sports car, traveling at <m>10.0 \mathrm{~m/s}</m> in the positive <m>x</m>-direction, steps down hard on the accelerator for <m>5.0 \mathrm{~s}</m>.  As a result, the velocity increases to <m>30.0 \mathrm{~m/s}</m>.  What was the average <m>x</m>-component of acceleration of the car during that <m>5.0 \mathrm{~s}</m> time interval?</p>
@@ -129,9 +129,9 @@
 		<answer>
 		    <p><m>a_{x,ave} = 4 \mathrm{~m/s^2}</m></p>
 		</answer>
-	</problem>
+	</exploration>
 	
-		    <problem xml:id="psa_mot-alpha9">
+		    <exploration xml:id="psa_mot-alpha9">
         <title>The Race Car</title>
 		<statement>
 		    <p>A race car can accelerate from rest to incredible speeds.  In one case, a dragster is able to finish the <m>305 \mathrm{~m}</m> run in <m>3.64 \mathrm{~s}</m> (and it continues to accelerate throughout this time)!  What was the magnitude of the average acceleration during this run?  What is the top speed of the dragster?</p>
@@ -147,9 +147,9 @@
 		<answer>
 		    <p><m>168  \mathrm{~m/s}</m></p>
 		</answer>
-	</problem>
+	</exploration>
 	
-		    <problem xml:id="psa_mot-alpha10">
+		    <exploration xml:id="psa_mot-alpha10">
         <title>The Comfortable Train</title>
 		<statement>
 		    <p>The maximum acceleration that feels comfortable for passengers in a train is <m>1.2 \mathrm{~m/s^2}</m>.  Suppose that train's route includes two adjacent stations (stops) that are just <m>800 \mathrm{~m}</m> apart.  What is the fastest speed the train could attain between the stations and still pick up and drop off passengers at both?  What is the shortest time between the stations?</p>
@@ -165,9 +165,9 @@
 		<answer>
 		    <p><m>51.6  \mathrm{~s}</m></p>
 		</answer>
-	</problem>
+	</exploration>
 	
-		    <problem xml:id="psa_mot-alpha11">
+		    <exploration xml:id="psa_mot-alpha11">
         <title>The Diver</title>
 		<statement>
 		    <p>A diver bounces straight up from a diving board and (avoiding the diving board on the way down) falls feet first into a pool.  She leaves the board with a velocity of <m>4.00 \mathrm{~m/s}</m>, and her takeoff point is <m>1.80 \mathrm{~m}</m> above the pool. How long are her feet in the air?  What is her speed when her feet hit the water?  What is her highest point above the board?</p>
@@ -186,9 +186,9 @@
 		<answer>
 		    <p><m>0.8 \mathrm{~m}</m></p>
 		</answer>
-	</problem>
+	</exploration>
 	
-		    <problem xml:id="psa_mot-alpha12">
+		    <exploration xml:id="psa_mot-alpha12">
         <title>Rugby Collision</title>
 		<statement>
 		    <p>Two rugby players start from rest, <m>46 \mathrm{~m}</m> apart.  Each player runs directly toward the other, both of them accelerating.  Player 1’s acceleration magnitude is <m>0.60 \mathrm{~m/s^2}</m>.  Player 2’s acceleration magnitude is <m>0.40 \mathrm{~m/s^2}</m>.  How much time passes before the players collide?  At the instant they collide, how far has player 1 run?  Assuming player 1 is traveling in the positive <m>x</m>-direction, what is the displacement of player 2 in the <m>x</m>-direction?</p>
@@ -207,9 +207,9 @@
 		<answer>
 		    <p><m>-18.4  \mathrm{~m}</m></p>
 		</answer>
-	</problem>
+	</exploration>
 	
-		    <problem xml:id="psa_mot-alpha13">
+		    <exploration xml:id="psa_mot-alpha13">
         <title>Leaping Frog</title>
 		<statement>
 		    <p>A frog leaps from level ground with a speed of <m>2.00 \mathrm{~m/s}</m> at an angle <m>40.0^o</m> up from the horizontal.  Unlike usual, use the more precise value <m>g = 9.82 \mathrm{~m/s^2}</m>.  What is the time of flight for the frog?  What is the range of the frog's flight?  What is the max height the frog achieves?</p>
@@ -228,7 +228,7 @@
 		<answer>
 		    <p><m>8.42 \mathrm{~cm}</m></p>
 		</answer>
-	</problem>
+	</exploration>
 
 
 </subsection>
