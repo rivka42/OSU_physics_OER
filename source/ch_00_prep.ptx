@@ -11,7 +11,7 @@ A few activities to help you prepare for physics!
 </introduction>
 	
   <xi:include href="./prep/sec_prep-explanations.ptx" />
-	
+	<xi:include href="./prep/sec_prep-arcs.ptx" />
 
 
   	

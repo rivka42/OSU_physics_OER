@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_prep-arcs" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Prep - A*R*C*S</title>
+
+	<exercises>
+		<title>Moving Blocks</title>
+		<p>This activity is intended to help you practice solving problems using the A*R*C*S format introduced in <xref ref="fig_realworld"></xref>.</p>
+		<p>
+			Shown below are two blocks connected by an ideal string that passes over a massless, frictionless pulley. The mass of the larger block sits on a flat, frictionless table, and has four times the mass of the smaller block, which hangs vertically. Determine the speed of each block when the larger block reaches the edge of the table, a distance of 0.75 m.
+		</p>
+
+		<figure>
+			<caption>Two blocks, connected by a rope.</caption>
+			<image source="moving-blocks.png" width = "50%">
+			<description></description></image>
+		</figure>
+
+		<exercise>
+			<title>Analyze and Represent</title>		
+			<task>
+				<title>Understand and Plan</title>
+				<statement>
+					<p>
+						First, identify all known and unknown quantities. For all known quantities, you should estimate an appropriate numerical value.
+					</p>
+				</statement>
+			</task>
+			<task>
+				<title>Identify Assumptions</title>
+				<statement>
+					<p>
+						Next, identify any simplifications or assumptions you will make to solve the problem.
+					</p>
+				</statement>
+			</task>
+			<task>
+				<title>Represent Physically</title>
+				<statement>
+					<p>
+						Draw a free-body diagram for mass 1 and mass 2. Make sure to accurately label each force, and indicate your coordinate system.
+					</p>
+				</statement>
+			</task>
+		</exercise>
+
+		<exercise>
+			<title>Calculate</title>
+			<task>
+				<title>Represent Principles</title>
+				<statement>
+					<p>
+						Make a list of the important concepts, laws, or ideas that you will use to solve the problem.
+					</p>
+				</statement>
+			</task>
+			
+			<task>
+				<title>Find Unknowns Symbolically</title>
+				<statement>
+					<p>
+						Now you are ready to solve for the unknown symbolically. Don't plug any numbers in yet!
+					</p>
+				</statement>
+			</task>
+
+			<task>
+				<title>Plug in Numbers</title>
+				<statement>
+					<p>
+						Plug in numbers into your symbolic expression found in the previous step.
+					</p>
+				</statement>
+			</task>
+		</exercise>
+
+		<exercise>
+			<title>Sensemake</title>
+			<task>
+				<title>Units</title>
+				<statement>
+					<p>
+						Conduct an explicit unit check on your final symbolic answer to determine if the units are correct.
+					</p>
+				</statement>
+			</task>
+			<task>
+				<title>Numbers</title>
+				<statement>
+					<p>
+						To help determine if your final numerical answer is reasonable, complete the following steps:
+					</p>
+				</statement>
+				<task>
+					<statement>
+						<p>
+							Convert your final numerical answer into a unit that is more familar to you (miles per hour, kilometers per hour, etc.). What else travels this fast? You may need to use Google to help you answer this question. Is this a reasonable speed for a falling block?
+						</p>
+					</statement>
+				</task>
+	
+				<task>
+					<statement>
+						<p>
+							Consider the situation where mass 2 falls on it's own. What is the velocity of mass 2 after it falls a distance of 0.75 m? How does this compare with your numerical answer found above? Does this make sense? Why or why not?
+						</p>
+					</statement>
+				</task>
+			</task>
+			<task>
+				<title>Symbols</title>
+				<statement>
+					<p>
+						To conduct symbolic sensemaking, complete the following steps by using your symbolic answer:
+					</p>
+				</statement>
+				<task>
+				<statement>
+					<p>
+						How does the speed change if you increase L? What is physically happening that explains this behavior?
+					</p>
+				</statement>
+				</task>
+				<task>
+					<statement>
+						<p>
+							First, predict what happens if the second block has zero mass. What do you expect to happen and why?  
+						</p>
+					</statement>
+				</task>
+				<task>
+					<statement>
+						<p>
+							Now turn to your symbolic answer. Does your symbolic answer confirm your expectations? 
+						</p>
+					</statement>
+				</task>
+			</task>
+		</exercise>
+		
+		<video youtube="yaPCpsORgtE"><description>Explaining how to use the universal model for gravitation to predict the masses of planets.</description></video>
+		</exercises>
+		
+		
+  
+</section>
+
