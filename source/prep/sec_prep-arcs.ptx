@@ -102,7 +102,7 @@
 				<task>
 					<statement>
 						<p>
-							Consider the situation where mass 2 falls on it's own. What is the velocity of mass 2 after it falls a distance of 0.75 m? How does this compare with your numerical answer found above? Does this make sense? Why or why not?
+							Consider the situation where mass 2 falls on it's own, under the force of gravity. What is the velocity of mass 2 after it falls a distance of 0.75 m? How does this compare with your numerical answer found above? Does this make sense? Why or why not?
 						</p>
 					</statement>
 				</task>
@@ -124,7 +124,7 @@
 				<task>
 					<statement>
 						<p>
-							First, predict what happens if the second block has zero mass. What do you expect to happen and why?  
+							Predict what would happen if the second block has zero mass and explain why that happens.  
 						</p>
 					</statement>
 				</task>
