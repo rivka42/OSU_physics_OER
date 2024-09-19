@@ -43,12 +43,21 @@
 				</statement>
 			</task>
 			<task>
-				<title> Reflect - Analyze and Represent </title>
+				<title>Observe</title>
 				<statement>
 					<p>
-						Review what you wrote for the Analyze and Represent parts above, and compare it with the video below. Describe any similarities and differences. Were there any other assumptions you made? Are there other representations that might be helpful?
+						Review what you wrote for the Analyze and Represent parts above, and compare it with the video below.
 					</p>
 					<video youtube="IT0LhMC0yKI"><description>Analyze and Represent part of the A*R*C*S problem solving strategy for the Moving Blocks problem.</description></video>
+				</statement>
+			</task>
+			<task>
+				<title>Reflect</title>
+				<statement>
+					<p>
+						 Describe any similarities and differences. Were there any other assumptions you made? Are there other representations that might be helpful?
+					</p>
+					
 				</statement>
 			</task>
 		</exercise>
@@ -59,7 +68,7 @@
 				<title>Represent Principles</title>
 				<statement>
 					<p>
-						Make a list of the important concepts, laws, or ideas that you will use to solve the problem.
+						Make a list of the important concepts, laws, or ideas that you will use to solve the problem. (Hint: You have probably seen more than one way to approach a situation like this one.  This is a good place to consider the advantages and disadvantages of each approach.)
 					</p>
 				</statement>
 			</task>
@@ -82,12 +91,21 @@
 				</statement>
 			</task>
 			<task>
-				<title> Reflect - Calculate </title>
+				<title>Observe</title>
 				<statement>
 					<p>
-						Review what you wrote for the Calculate parts above, and compare it with the video below. There are many ways to solve this problem. How else might you be able to solve this problem? What parts of the calculate portion did you find most difficult?
+						Review what you wrote for the Calculate parts above, and compare it with the video below.
 					</p>
 					<video youtube="rpP2utvWSvs"><description>Calculate part of the A*R*C*S problem solving strategy for the Moving Blocks problem.</description></video>
+				</statement>
+			</task>
+			<task>
+				<title>Reflect</title>
+				<statement>
+					<p>
+						 There are many ways to solve this problem. Can you think of a way to perform this calculation that is different from the one in the video?  Do you think that way would be easier or harder?  What parts of the calculate portion did you find most difficult?
+					</p>
+					
 				</statement>
 			</task>
 		</exercise>
@@ -154,14 +172,22 @@
 					</statement>
 				</task>
 			</task>
-			
 			<task>
-				<title> Reflect - Sensemake </title>
+				<title>Observe</title>
 				<statement>
 					<p>
-						Review what you wrote for the Sensemake parts above, and compare it with the video below. What other sensemaking strategies might you be able to use? Do you have any questions about sensemaking after completing this section?
+						Review what you wrote for the Sensemake parts above, and compare it with the video below.
 					</p>
 					<video youtube="N30w_UkNclo"><description>Sensemake part of the A*R*C*S problem solving strategy for the Moving Blocks problem.</description></video>
+				</statement>
+			</task>
+			
+			<task>
+				<title>Reflect</title>
+				<statement>
+					<p>
+						 What other sensemaking strategies might you be able to use? Do you have any questions about sensemaking after completing this section?
+					</p>
 				</statement>
 			</task>
 		</exercise>
