@@ -5,7 +5,7 @@
 
 	<exercises>
 		<title>Moving Blocks</title>
-		<p>This activity is intended to help you practice solving problems using the A*R*C*S format introduced in <xref ref="fig_realworld"></xref>. This will serve as a touchpoint you can come back to if you need any assistance on working through an A*R*C*S activity. You will work through each section of the A*R*C*S format, watch a short video, and reflect on your work.</p>
+		<p>This activity is intended to help you practice solving problems using the A*R*C*S format introduced in <xref ref="fig_realworld"></xref>. This will serve as a touchpoint you can come back to if you need any assistance on working through an A*R*C*S activity. You will work through each section of the A*R*C*S format, watch a video, and reflect on your work. The videos are a little bit long, but there is a lot to explain in an A*R*C*S activity!</p>
 		<p>
 			Shown below are two blocks connected by an ideal string that passes over a massless, frictionless pulley. The mass of the larger block sits on a flat, frictionless table, and has a larger mass than the smaller block, which hangs vertically. Determine the speed of each block when the larger block reaches the edge of the table, a distance of 0.75 m.
 		</p>
@@ -42,10 +42,14 @@
 					</p>
 				</statement>
 			</task>
-			<p>Now review  your set up by watching the video below.</p>
-			<video youtube="yaPCpsORgtE"><description>Explaining how to use the universal model for gravitation to predict the masses of planets.</description></video>
 			<task>
 				<title> Reflect - Analyze and Represent </title>
+				<statement>
+					<p>
+						Review what you wrote for the Analyze and Represent parts above, and compare it with the video below. Describe any similarities and differences. Were there any other assumptions you made? Are there other representations that might be helpful?
+					</p>
+					<video youtube="IT0LhMC0yKI"><description>Analyze and Represent part of the A*R*C*S problem solving strategy for the Moving Blocks problem.</description></video>
+				</statement>
 			</task>
 		</exercise>
 
@@ -75,6 +79,15 @@
 					<p>
 						Plug in numbers into your symbolic expression found in the previous step.
 					</p>
+				</statement>
+			</task>
+			<task>
+				<title> Reflect - Calculate </title>
+				<statement>
+					<p>
+						Review what you wrote for the Calculate parts above, and compare it with the video below. There are many ways to solve this problem. How else might you be able to solve this problem? What parts of the calculate portion did you find most difficult?
+					</p>
+					<video youtube="rpP2utvWSvs"><description>Calculate part of the A*R*C*S problem solving strategy for the Moving Blocks problem.</description></video>
 				</statement>
 			</task>
 		</exercise>
@@ -141,9 +154,17 @@
 					</statement>
 				</task>
 			</task>
+			
+			<task>
+				<title> Reflect - Sensemake </title>
+				<statement>
+					<p>
+						Review what you wrote for the Sensemake parts above, and compare it with the video below. What other sensemaking strategies might you be able to use? Do you have any questions about sensemaking after completing this section?
+					</p>
+					<video youtube="N30w_UkNclo"><description>Sensemake part of the A*R*C*S problem solving strategy for the Moving Blocks problem.</description></video>
+				</statement>
+			</task>
 		</exercise>
-		
-		<video youtube="yaPCpsORgtE"><description>Explaining how to use the universal model for gravitation to predict the masses of planets.</description></video>
 		</exercises>
 		
 		
