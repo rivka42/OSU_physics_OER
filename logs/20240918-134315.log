@@ -1,0 +1,16 @@
+INFO    : PreTeXt project found in `/Users/drenniks/Dropbox/Mac/Documents/OSU/OSU_physics_OER`.
+INFO    : Preparing to build into /Users/drenniks/Dropbox/Mac/Documents/OSU/OSU_physics_OER/output/web.
+INFO    : discovering source file's directory name: /Users/drenniks/Dropbox/Mac/Documents/OSU/OSU_physics_OER/source
+INFO    : verifying and expanding input directory: /Users/drenniks/Dropbox/Mac/Documents/OSU/OSU_physics_OER/source/../generated-assets
+INFO    : input directory expanded to absolute path: /Users/drenniks/Dropbox/Mac/Documents/OSU/OSU_physics_OER/generated-assets
+INFO    : verifying and expanding input directory: /Users/drenniks/Dropbox/Mac/Documents/OSU/OSU_physics_OER/source/../assets
+INFO    : input directory expanded to absolute path: /Users/drenniks/Dropbox/Mac/Documents/OSU/OSU_physics_OER/assets
+INFO    : Runestone Services (via PreTeXt repository): version 7.1.2
+INFO    : Runestone Services (using newer, via online CDN query): version 7.4.0
+INFO    : converting /Users/drenniks/Dropbox/Mac/Documents/OSU/OSU_physics_OER/source/main.ptx to HTML in /var/folders/xx/r4b8p4054z95zn4_cnq4zl1c0000gn/T/tmpb6mk94jd
+INFO    : XSL conversion of /Users/drenniks/Dropbox/Mac/Documents/OSU/OSU_physics_OER/source/main.ptx by /Users/drenniks/.ptx/xsl/pretext-html.xsl
+INFO    : comprehensive messages, warnings, and errors:
+INFO    : successful application of /Users/drenniks/.ptx/xsl/pretext-html.xsl
+INFO    : 
+Success! Run `pretext view` to see the results.
+
