@@ -7,12 +7,12 @@
 	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
 	If you want an Explain activity, use the <investigation> tag.
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
-	If you want a Calculate activity, use the <problem> tag.  (This tag is Example-like, not Project-like, so you cannot embed lettered steps into it using <task>.
+	If you want a Calculate activity, use the <exploration> tag.
 	-->
 
 <subsection>
 <title>Practice</title>
-    <problem xml:id="psa_wave-alpha0">
+    <exploration xml:id="psa_wave-alpha0">
         <title>Wave Speed</title>
 		<statement>
 			<p>
@@ -35,9 +35,9 @@
 		<answer>
 		    <p>D.</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_wave-alpha1">
+	<exploration xml:id="psa_wave-alpha1">
         <title>Wave Frequency</title>
 		<statement>
 			<p>
@@ -60,9 +60,9 @@
 		<answer>
 		    <p>B., E.</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_wave-alpha2">
+	<exploration xml:id="psa_wave-alpha2">
         <title>Wave Amplitude</title>
 		<statement>
 			<p>
@@ -85,9 +85,9 @@
 		<answer>
 		    <p>A.</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_wave-alpha3">
+	<exploration xml:id="psa_wave-alpha3">
         <title>Two Wave</title>
 		<statement>
 			<p>
@@ -111,9 +111,9 @@
 		<answer>
 		    <p>C.</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_wave-alpha4">
+	<exploration xml:id="psa_wave-alpha4">
         <title>Wavelength of the Ocean</title>
 		<statement>
 			<p>
@@ -137,9 +137,9 @@
 		<answer>
 		    <p>F.</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_wave-alpha5">
+	<exploration xml:id="psa_wave-alpha5">
         <title>Wave Intensity</title>
 		<statement>
 			<p>
@@ -164,9 +164,9 @@
 		<answer>
 		    <p>E.</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_wave-alpha6">
+	<exploration xml:id="psa_wave-alpha6">
         <title>Sound Intensity</title>
 		<statement>
 			<p>
@@ -189,9 +189,9 @@
 		<answer>
 		    <p>E.</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_wave-alpha7">
+	<exploration xml:id="psa_wave-alpha7">
         <title>Sound at a Concert</title>
 		<statement>
 			<p>
@@ -214,9 +214,9 @@
 		<answer>
 		    <p>A.</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_wave-alpha8">
+	<exploration xml:id="psa_wave-alpha8">
         <title>Ambulance Siren</title>
 		<statement>
 			<p>
@@ -240,9 +240,9 @@
 		<answer>
 		    <p>B., F.</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_wave-alpha9">
+	<exploration xml:id="psa_wave-alpha9">
         <title>Dolphin Frequency</title>
 		<statement>
 			<p>
@@ -266,9 +266,9 @@
 		<answer>
 		    <p>E.</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_wave-alpha10">
+	<exploration xml:id="psa_wave-alpha10">
         <title>Tube of Air</title>
 		<statement>
 			<p>
@@ -292,9 +292,9 @@
 		<answer>
 		    <p>E., F.</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_wave-alpha11">
+	<exploration xml:id="psa_wave-alpha11">
         <title>Speakers</title>
 		<statement>
 			<p>
@@ -347,7 +347,7 @@
 		<answer>
 		    <p>A., D., F., G.</p>
 		</answer>
-	</problem>
+	</exploration>
 	
 
 </subsection>

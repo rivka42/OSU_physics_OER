@@ -7,13 +7,13 @@
 	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
 	If you want an Explain activity, use the <investigation> tag.
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
-	If you want a Calculate activity, use the <problem> tag.  (This tag is Example-like, not Project-like, so you cannot embed lettered steps into it using <task>.
+	If you want a Calculate activity, use the <exploration> tag.
 	-->
 
 <subsection>
 <title>Practice</title>
 
-	<problem xml:id="psa_for-alpha1">
+	<exploration xml:id="psa_for-alpha1">
 		<title>Balancing the forces</title>
 		<statement>
 			<p>Each of the following (2-dimensional) free-body diagrams shows the directions of all the forces that are acting on an object. If the magnitude of each force can be adjusted to any non-zero value <em>but its direction cannot be changed</em>, which of the objects can be put into equilibrium?</p>
@@ -27,9 +27,9 @@
 		<answer>
 			<p>(1), (2), and (5)</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_for-alpha2">
+	<exploration xml:id="psa_for-alpha2">
 		<title>Teapot</title>
 		<statement>
 			<p>A person pushes a cart to the left at constant velocity across a level floor. A teapot sits on the cart without slipping. Assume there is no air resistance. Choose the correct free-body diagram for the teapot.</p>
@@ -43,9 +43,9 @@
 		<answer>
 			<p>(1)</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_for-alpha3">
+	<exploration xml:id="psa_for-alpha3">
 		<title>Elevator</title>
 		<statement>
 			<p>The force of gravity on an 80-kg person is about 800 N. Suppose this person is standing on a scale in an elevator that is moving upwards but slowing down with an acceleration magnitude of <m>1 \mathrm{~m/s^2}</m>. What value does the scale read?</p>
@@ -53,9 +53,9 @@
 		<answer>
 			<p>720 N</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_for-alpha4">
+	<exploration xml:id="psa_for-alpha4">
 		<title>Pulling on a rope</title>
 		<statement>
 			<p>An 80-kg person stands at rest on a scale while pulling vertically downward on a rope that is hanging at rest directly above them. Use <m>g = 9.80 \mathrm{~m/s^2}</m>. With what force magnitude must the rope's tension be pulling on the person so that the scale reads 500 N? With what force magnitude must the rope's tension be pulling on the person so that the scale reads 25% of the person's weight? What is the critical magnitude of tension in the rope so that the person just begins to lift off the scale?</p>
@@ -69,9 +69,9 @@
 		<answer>
 			<p>784 N</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_for-alpha5">
+	<exploration xml:id="psa_for-alpha5">
 		<title>Dropping a ball</title>
 		<statement>
 			<p>On a windy day, a 1.50-kg ball is dropped from rest from a height of 19.6 meters above the Earth's surface. A steady wind pushes on the falling ball with a constant, horizontal force of 8.40 N, to the right. What is the total displacement of the ball from its initial location to its point of impact on the ground? Use a standard coordinate system with the origin located at the ball's initial location.  Also, use <m>g = 9.80 \mathrm{~m/s^2}</m>. Assume no air effects other than the steady wind.</p>
@@ -79,9 +79,9 @@
 		<answer>
 			<p><m>\Delta \vec{r} = 11.2 \mathrm{m} \hat{x} - 19.6 \mathrm{m} \hat{y}</m></p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_for-alpha6">
+	<exploration xml:id="psa_for-alpha6">
 		<title>Direction of friction</title>
 		<statement>
 			<p>In which of the following situations is the friction force that is acting on the object not in the opposite direction of the object's velocity? Choose all that apply.</p>
@@ -97,9 +97,9 @@
 		<answer>
 			<p>(B), (C), (D)</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_for-alpha7">
+	<exploration xml:id="psa_for-alpha7">
 		<title>Pushing on a block</title>
 		<statement>
 			<p>A 1.40 kg block is at rest on a level table.  The coefficient of static friction between the table and the block is 0.40, and the coefficient of kinetic friction between the two is 0.10.  A person then applies a 6.00 N force at an angle of 30.0<m>\deg</m> downward relative to the positive-x direction. Use <m>g = 9.80 \mathrm{~m/s^2}</m> and a standard coordinate system. What is the magnitude of the friction force acting between the block and table? What is the acceleration of the block? What is the acceleration of the block if the person applies the 6.00 N force at an angle of 30.0<m>\deg</m> upward relative to the positive-x direction?</p>
@@ -113,9 +113,9 @@
 		<answer>
 			<p><m>\vec{a} = 2.95 \frac{m}{s^2} \hat{x}</m></p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_for-alpha8">
+	<exploration xml:id="psa_for-alpha8">
 		<title>Angled ramp with a pulley</title>
 		<statement>
 			<p>A box (<m>m_1 = 10.5 \mathrm{~kg}</m>) is on an inclined plane with negligible friction between the box and the incline.  This box is attached via an ideal string and pulley to the hanging mass (<m>m_1 = 5.5 \mathrm{~kg}</m>), as shown.  The incline make an angle of 20.0° with respect to the horizontal.  Use <m>g = 9.80 \mathrm{~m/s^2}</m>. Rank the magnitude of accelerations for <m>m_1</m> and <m>m_2</m>. Do we necessarily know the direction of acceleration of <m>m_1</m> without doing any calculations? Find the magnitude of acceleration for <m>m_1</m>. What direction is the acceleration of <m>m_1</m>? </p>
@@ -139,7 +139,7 @@
 		<answer>
 			<p>Up the incline.</p>
 		</answer>
-	</problem>
+	</exploration>
 
 </subsection>
 

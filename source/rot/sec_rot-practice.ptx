@@ -7,12 +7,12 @@
 	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
 	If you want an Explain activity, use the <investigation> tag.
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
-	If you want a Calculate activity, use the <problem> tag.  (This tag is Example-like, not Project-like, so you cannot embed lettered steps into it using <task>.
+	If you want a Calculate activity, use the <exploration> tag.
 	-->
 
 <subsection>
 <title>Practice</title>
-    <problem xml:id="psa_rot-alpha0">
+    <exploration xml:id="psa_rot-alpha0">
         <title>Crankshaft</title>
 		<statement>
 			<p>
@@ -37,8 +37,8 @@
 		<answer>
 		    <p>D.</p>
 		</answer>
-	</problem>
-	<problem xml:id="psa_rot-alpha1">
+	</exploration>
+	<exploration xml:id="psa_rot-alpha1">
 		<title>Angular motion</title>
 		<statement>
 			<p>
@@ -61,9 +61,9 @@
 		<answer>
 		    <p><m>739 \mathrm{~m/s^2}</m></p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_rot-alpha2">
+	<exploration xml:id="psa_rot-alpha2">
 		<title>Army the Armadillo</title>
 		<statement>
 			<p>
@@ -100,9 +100,9 @@
 	<answer>
 		<p>A.</p>
 	</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_rot-alpha3">
+	<exploration xml:id="psa_rot-alpha3">
 		<title>Torque</title>
 		<statement>
 			<p>
@@ -123,9 +123,9 @@
 				C.
 			</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_rot-alpha4">
+	<exploration xml:id="psa_rot-alpha4">
 		<title>See-Saw</title>
 		<statement>
 			<p>
@@ -145,9 +145,9 @@
 				A.
 			</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_rot-alpha5">
+	<exploration xml:id="psa_rot-alpha5">
 		<title>Moment of Inertia</title>
 		<statement>
 			<p>
@@ -167,9 +167,9 @@
 				B.
 			</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_rot-alpha6">
+	<exploration xml:id="psa_rot-alpha6">
 		<title>Angular Acceleration</title>
 		<statement>
 			<p>
@@ -181,9 +181,9 @@
 				<m>9.17 \mathrm{~rad/s^2}</m>
 			</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_rot-alpha7">
+	<exploration xml:id="psa_rot-alpha7">
 		<title>Olympic High Diver</title>
 		<statement>
 			<p>
@@ -205,9 +205,9 @@
 				B., C., E.
 			</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_rot-alpha8">
+	<exploration xml:id="psa_rot-alpha8">
 		<title>Helicopter I</title>
 		<statement>
 			<p>
@@ -219,9 +219,9 @@
 				<m>5.26 \times 10^5 \mathrm{~J}</m>
 			</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_rot-alpha9">
+	<exploration xml:id="psa_rot-alpha9">
 		<title>Helicopter II</title>
 		<statement>
 		<p>
@@ -233,9 +233,9 @@
 			0.38
 		</p>
 	</answer>
-	</problem>
+	</exploration>
 	
-	<problem xml:id="psa_rot-alpha10">
+	<exploration xml:id="psa_rot-alpha10">
 		<title>Helicopter III</title>
 		<statement>
 			<p>
@@ -247,7 +247,7 @@
 			<m>53.7 \mathrm{~m}</m>
 			</p>
 		</answer>
-	</problem>
+	</exploration>
 </subsection>
 
 <subsection>

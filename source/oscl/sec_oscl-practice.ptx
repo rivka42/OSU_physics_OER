@@ -7,12 +7,12 @@
 	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
 	If you want an Explain activity, use the <investigation> tag.
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
-	If you want a Calculate activity, use the <problem> tag.  (This tag is Example-like, not Project-like, so you cannot embed lettered steps into it using <task>.
+	If you want a Calculate activity, use the <exploration> tag.
 	-->
 
 <subsection>
 <title>Practice</title>
-    <problem xml:id="psa_oscl-alpha1">
+    <exploration xml:id="psa_oscl-alpha1">
         <title>Two Springs and a Mass</title>
 		<statement>
 			<p>A mass is compressed between two springs on a frictionless horizontal surface. When the mass is in equilibrium, both springs are at their relaxed length. Which of the following statements are true regarding this situation?</p>
@@ -32,9 +32,9 @@
 		<answer>
 		    <p>B., D.</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_oscl-alpha2">
+	<exploration xml:id="psa_oscl-alpha2">
         <title>Pendulum on Jupiter</title>
 		<statement>
 			<p>
@@ -58,9 +58,9 @@
 		<answer>
 		    <p>B.</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_oscl-alpha3">
+	<exploration xml:id="psa_oscl-alpha3">
         <title>Bird on a Tree Branch</title>
 		<statement>
 			<p>
@@ -100,9 +100,9 @@
 		<answer>
 		    <p>B.</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_oscl-alpha4">
+	<exploration xml:id="psa_oscl-alpha4">
         <title>Oscillating Mass</title>
 		<statement>
 			<p>
@@ -169,7 +169,7 @@
 		<answer>
 		    <p>A.</p>
 		</answer>
-	</problem>
+	</exploration>
 
 </subsection>
 
