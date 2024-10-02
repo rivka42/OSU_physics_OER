@@ -63,7 +63,7 @@
 
 	<exercises>
 	<title>Activities - Circling Helicopter</title>
-	<p>A helicopter is flying in a horizontal circle of radius 50 m with an initial angular speed of 200 rad/s.  The angular velocity vector points upward.</p>
+	<p>A helicopter is flying in a horizontal circle of radius 40 m with an initial angular speed of 1.2 rad/s.  The angular velocity vector points upward.</p>
 			<exercise>
 			  <p>When viewed from above, is the helicopter moving clockwise or counterclockwise?</p>
 			</exercise>
@@ -74,7 +74,7 @@
 			  <p>What is the helicopter's tangential speed?</p>
 			</exercise>
 			<exercise>
-			  <p>Suppose the helicopter begins slowing down with an angular acceleration that has a magnitude of <m>20 \frac{\text{rad}}{\text{s}^2}</m>.  What is the helicopter's angular acceleration (magnitude and direction!)?</p>
+			  <p>Suppose the helicopter begins slowing down with an angular acceleration that has a magnitude of <m>4 \frac{\text{m}}{\text{s}^2}</m>.  What is the helicopter's angular acceleration (magnitude and direction!)?</p>
 			</exercise>
 		</exercises>
 
