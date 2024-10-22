@@ -17,16 +17,15 @@
 				<lemma>
 			<title>Free-body Diagram</title>
 			<statement>
-					<!-- From Kathy's website -->
 	<p>
-	A <term>Free-body Diagram</term> is a pictorial way to represent the forces acting on an object.  In a <term>free-body diagram</term>, each force should be labeled using the following symbol <me>\vec{F}_{BC}^A</me> where <m>\vec{F}</m> indicates that the symbol represents a force, the superscript <m>A</m> represents the type of force (for example, <m>G</m> for gravity), <m>B</m> represents the system on which the force is acted, and <m>C</m> represents the system that is exerting the force.</p>
+	A <term>free-body Diagram</term> is a way to represent the forces acting on an object.  In a <term>free-body diagram</term>, each force should be labeled with information about the type of force and the objects involved.  For example, in the symbol <me>\vec{F}_{BC}^A</me> <m>\vec{F}</m> indicates that the symbol represents a force, the superscript <m>A</m> represents the type of force (such as <m>G</m> for gravity), <m>B</m> represents the system on which the force is acted, and <m>C</m> represents the system that is exerting the force.</p>
 			</statement>
 		</lemma>
 		
-		<aside>
+		<note>
 		<title>Alternate Notations</title>
 		<p>Some physicists prefer to use alternate notation for forces.  For example, you might decide to reverse the subscripts to say the force by <m>B</m> on <m>C</m>.  Or, you might decide to use an expression like <m>\vec{N}_{12}</m> for a normal force.  Any of these notations are useful, as long as (1) the notation indicates the type of force and the systems involved and (2) the notation is consistent across different forces.</p>
-		</aside>
+		</note>
 		
 		<p>One of the most important things to understand when drawing free-body diagrams is the difference between forces acting <em>on</em> a system (which appear on that system's free-body diagram) and forces acted <em>by</em> a system, which would instead be represented on the free-body diagram for the other system.  It is also important <em>not</em> to include things that are not forces, such as the velocity or acceleration of the system, which would instead be represented using a motion diagram.  It is also helpful to include the force vectors acting on a system with relatively correct lengths as well as coordinate axes and any relevant angles.</p>
 		

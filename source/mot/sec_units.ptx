@@ -4,7 +4,7 @@
   <title>Numbers and Units</title>
 	
     <p>
-     The measurement of any quantity is reported as a number in terms of some standard, physical unit.  For example, you might measure the length of an object in a physics lab to be 17.4.  Without a specific unit of measurement, the number itself is almost meaningless.  You might mean the length is 17.4 centimeters, 17.4 inches, or 17.4 miles. 
+     The measurement of any quantity is reported as a number in terms of some standard, physical unit.  For example, you might measure the length of an object in a physics lab to be 17.4.  Without a specific unit of measurement, the number itself is almost meaningless.  You might mean the length is <m>17.4 \mathrm{~centimeters}</m>, <m>17.4 \mathrm{~inches}</m>, or <m>17.4 \mathrm{~miles}</m>. 
 		</p>
 		
 
@@ -13,12 +13,12 @@
 In science, we use the SI unit system (le Systéme Internationale d'Unités), commonly referred to as the metric system<fn>In the united States, we have an entire <url href="https://www.nist.gov/" visual="nist.gov">government agency</url> dedicated to upholding standards of measurement</fn>.  Within the metric system, all quantities will be given in terms of base units, such as the three below, which are typically written using non-italic letters<fn><url href="https://en.wikipedia.org/wiki/Metric_prefix" visual="wikipedia.org/wiki/Metric_prefix">prefixes</url> can be used as an easy way to express units that are substantially different</fn>.
     </p>
 		
-<aside>
+<note>
 <title>Base units and derived units</title>
 <p>
 Units for physical quantities can be divided into two categories: base units and derived units. Examples of derived units, which are often given their own name, include force (the newton) and energy (the joule), each of which is a specific combination of the base units of length, time and mass.
 </p>
-</aside>
+</note>
  
 <p>
 <term>Time:</term> The SI unit of time is the second.  The abbreviation for the second is lower case s.</p>
@@ -31,6 +31,7 @@ Units for physical quantities can be divided into two categories: base units and
 
 
 <insight>
+<title>Definitions of Units</title>
 <p>
 <term>Time:</term> Throughout most of history, the standard of time was based on the mean solar day. However, scientists needed a way to make incredibly high precision measurements of time and so physicists began developing a device called an atomic clock. Atomic clocks work on the principle that subatomic particles called electrons will move back and forth between different energy states when exposed to certain frequencies of radiation. The United States' standard atomic clock is said to be so accurate that in 30 million years it would neither gain nor lose a second. One second is defined as the time it takes for 9,192,631,770 oscillations of a radio wave absorbed by the cesium-133 atom.  
 </p>
@@ -107,8 +108,8 @@ We can see that the physical quantities under the square root indeed have base u
 
 <example>
 <title>How to Check Numbers</title>
-<p>Consider the example from the start of this section, where you measured the length of an object in a physics lab to be 17.4 cm.  You may want to compare this number to the length of other objects that you might expect to find in a physics lab.  For example, you might expect that many objects in a physics lab can be held in one hand; you would then want to compare the 17.4 cm measurement to the size of a human hand to evaluate its reasonableness.  The search term "human hand size" results in a measurement of between 6.8 and 7.6 inches, which you might approximate to about 7 inches<fn>when checking numbers, you do not need to be precise, just approximate</fn>.  Converting this 7 inches to SI units gives approximately 17.8 cm.  This is very close to the object you measured in the lab, so it seems like this measurement was pretty reasonable!  It is also worth noting here that length is usually given as a positive number, which this measurement is.</p>
-<p>You might be asking yourself: what would an <em>unreasonable</em> answer have looked like?  Perhaps your measurement had been 174 cm instead of 17.4 cm.  This is only about ten times bigger, and still seems like a reasonable measurement for a physics lab (something about the height of a person).  On the other hand, measuring something like 17.4 km would be fairly unreasonable for an ordinary physics lab: 100,000 times bigger than a person's hand!</p>
+<p>Consider the example from the start of this section, where you measured the length of an object in a physics lab to be <m>17.4 \mathrm{~cm}</m>.  You may want to compare this number to the length of other objects that you might expect to find in a physics lab.  For example, you might expect that many objects in a physics lab can be held in one hand; you would then want to compare the <m>17.4 \mathrm{~cm}</m> measurement to the size of a human hand to evaluate its reasonableness.  The search term "human hand size" results in a measurement of between <m>6.8</m> and <m>7.6 \mathrm{~in}</m>, which you might approximate to about <m>7 \mathrm{~in}</m><fn>when checking numbers, you do not need to be precise, just approximate</fn>.  Converting this <m>7 \mathrm{~in}</m> to SI units gives approximately <m>17.8 \mathrm{~cm}</m>.  This is very close to the object you measured in the lab, so it seems like this measurement was pretty reasonable!  It is also worth noting here that length is usually given as a positive number, which this measurement is.</p>
+<p>You might be asking yourself: what would an <em>unreasonable</em> answer have looked like?  Perhaps your measurement had been <m>174 \mathrm{~cm}</m> instead of <m>17.4 \mathrm{~cm}</m>.  This is only about ten times bigger, and still seems like a reasonable measurement for a physics lab (something about the height of a person).  On the other hand, measuring something like <m>17.4 \mathrm{~km}</m> would be fairly unreasonable for an ordinary physics lab: 100,000 times bigger than a person's hand!</p>
 </example>
 
 

@@ -15,12 +15,12 @@
 	
 	<p>Suppose an object is initially located at position <m>\vec{r}_0</m> at some initial time <m>t_0</m> and the object is moving through space over an interval of time <m>\Delta t = t_f - t_0</m>. The symbol <m>\Delta</m> (the capital Greek letter "Delta") represents a change in a quantity.  The time interval <m>\Delta t</m> measures the elapsed time as the object moves from an initial position <m>\vec{r}_0</m>  at initial time <m>t_0</m> to a final position <m>\vec{r}_0</m> and some final time <m>t_f</m>. The vector <m>\Delta \vec{r}</m> is called the displacement of the object over the time interval <m>\Delta t</m>.  Here, the subscript 0 refers to some initial time: in some cases, the subscript <m>o</m> ("naught") or <m>i</m> (for "initial") is used instead of 0.</p>
 	
-	<aside>
+	<note>
 <title>Subscripts</title>
 <p>
 You have probably noticed that physics notation uses subscripts to mean a lot of different things!  In general, physics symbols try to be descriptive, choosing evocative letters like <m>m</m> for mass and <m>t</m> for time.  Physics symbols also try to be specific (<m>m_1</m> for the mass of object 1, <m>m_2</m> for the mass of object 2, <em>etc.</em>) and detailed (<m>t_i</m> for the initial time and <m>t_f</m> for the final time).  Sometimes, subcripts might even be combined: <m>r_{x3i}</m> for the <m>x</m>-component of object 3's initial position.  As you practice, you will start to get a sense for all the different things you can use a subscript for.
 </p>
-</aside>
+</note>
 
   <figure xml:id="mot_displacement-vector">
 		 <caption>A displacement vector.</caption>

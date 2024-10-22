@@ -15,6 +15,8 @@
 	</statement>
 	</definition>
 	
+	<!--An object can have more than one force acting on it. If you add up all of the forces acting on an object, we call this the net force. It can be a tricky business, since the forces can be acting in different directions. An object can have two forces acting on it and still have a net force of zero if the two forces are acting in different directions and have the same magnitude.-->
+	
 		<!-- From Kathy's website -->
 	<principle xml:id="law_N2L">
 	<title>The Law of Motion</title>
@@ -33,7 +35,7 @@
 			</exercise>
 			<exercise xml:id="x_force-units">
 			<title>Sensemaking - Units of Force</title>
-			  <p>Using what you learned above, how would you write the units of a force (Newtons) in terms of other units you are familiar with? </p>
+			  <p>Using what you learned above, how would you write the units of a force (newtons) in terms of other units you are familiar with? </p>
 			</exercise>
 			<exercise xml:id="x_forces-driver">
 			<title>A*R*C*S: Net Force on a Driver</title>
@@ -41,15 +43,15 @@
 			  <p>You are driving in an everyday car when you decide to hit the accelerator to make your car begin to move with its maximum acceleration.  Estimate the magnitude of the net force exerted on you, the driver.  Remember to use the A*R*C*S steps from <xref ref="fig_realworld"></xref>.</p>
 				</statement>
 				<answer>
-				<p>For a driver with a mass of 80 kg and a car with a maximum acceleration of 6 m/s<m>^2</m>, the net force on the driver would be 480 N.</p>
+				<p>For a driver with a mass of <m>80 \mathrm{~kg}</m> and a car with a maximum acceleration of <m>6 \mathrm{~m/s^2}</m>, the net force on the driver would be <m>480 \mathrm{~N}</m>.</p>
 				</answer>
 			</exercise>
 				<exercise  xml:id="x_three-cars">
 				<title>Explanation - Three Cars</title>
 			  <p>Consider the following three situations: </p>
 				<ol marker="A">
-				<li>You are in a car when the speed limit changes from 35 mph to 45 mph.</li>
-				<li>You are in a car on the freeway driving at a constant speed of 70 mph.</li>
+				<li>You are in a car when the speed limit changes from <m>35 \mathrm{~mph}</m> to <m>45 \mathrm{~mph}</m>.</li>
+				<li>You are in a car on the freeway driving at a constant speed of <m>70 \mathrm{~mph}</m>.</li>
 				<li>You are in a car waiting for a red light to turn green.</li>
 				</ol>
 				<p>Rank the three situations by the magnitude of the net force on the car from largest to smallest.  Explain your reasoning.</p>

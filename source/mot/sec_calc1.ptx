@@ -19,7 +19,7 @@
 	<exercises>
 <title>Activities</title>
 			<exercise>
-			  <p>The following two equations are both reasonable to write down: </p>
+			  <p>The following two equations are both reasonable to write down for a displacement vector: </p>
 				<p><me>1: \Delta \vec{r} = \int_{t_i}^{t_f}\vec{v}(t)dt</me></p>
 				<p><me>2: \Delta \vec{r}= \vec{v}\Delta t</me> </p>
 				<p>What is the difference between them?  In what situations would you use the first equation?  In what situations would you use the second equation?</p>

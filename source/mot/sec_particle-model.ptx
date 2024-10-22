@@ -31,7 +31,7 @@ To begin to investigate motion, you will make a <em>simplifying assumption</em> 
 <assumption xml:id="a_particle">
 	<title>The Particle Model</title>
 	<statement>
-		<p>When you assume that a system can be treated as a <term>point particle</term>, you treat it as only undergoing <alert>translational motion</alert> (motion without rotation).  Under this assumption, you treat all the mass of the system as existing at the object's center of mass<fn>center of mass is a property you will not need until you begin studying rotational motion</fn>.</p>
+		<p>When you assume that a system can be treated as a <term>point particle</term>, you treat it as only undergoing <alert>translational motion</alert> (motion without rotation).  Under this assumption, you treat all the mass of the system as existing at the object's center of mass<fn>center of mass is a property you will study in <xref ref="sec_center-of-mass"/></fn>.</p>
 	</statement>
 </assumption>
 

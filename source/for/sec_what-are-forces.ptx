@@ -10,17 +10,21 @@
 							<video youtube="FB-VKKcC660"><description>An introduction to forces.</description></video>
 
 		
-	<!-- From Kathy's website -->
-    <p>
-      Simply stated, a force is something that pushes or pulls an object.  Isaac Newton originated the concept of forces, encapsulating the theory in terms of three laws, known as Newton's laws.  Force is a vector. It has a magnitude and a direction. In the simplest terms, you can think of a force as a push or a pull. An object can have more than one force acting on it. If we add up all of the forces acting on an object, we call this the net force. It can be a tricky business, since the forces can be acting in different directions. An object can have two forces acting on it and still have a net force of zero if the two forces are acting in different directions and have the same magnitude.
-    </p>
-		
 		<definition>
 	<title>Force</title>
 	<statement>
-		<p>A <term>force</term> is an interaction between two objects (or systems) that causes those objects to experience a push or pull.  Every force is a vector that has a <em>type</em> and involves two distinct objects acting on each other.</p>
+		<p>A <term>force</term> is an interaction between two objects (or systems) that causes those objects to experience a push or pull.  Every force is a vector (with magnitude and direction) that has a <em>type</em> and involves two distinct objects acting on each other.</p>
 	</statement>
 </definition>
+
+<!--
+	<insight>
+	<title>Forces and Newton</title>
+    <p>
+      Isaac Newton encapsulated forces theoretically in terms of three laws, known as Newton's laws.
+    </p>
+		</insight>
+		-->
 
 
 <exercises>
@@ -41,7 +45,7 @@
 			<p>Brainstorm a list of possible different types of forces you can imagine acting on something.</p>
 			</exercise>
 			<exercise>
-			<p>The SI unit for a force is the Newton, which is not commonly used in everyday.  The Imperial unit for force is the <term>pound</term>.  Use a search to find the number of Newtons in one pound.  An amateur soccer player might be able to kick a soccer ball with a force of around 500-700 pounds.  How many Newton's is this?</p>
+			<p>The SI unit for a force is the newton (N), while the Imperial unit for force is the <term>pound</term> (lb).  Use a search to find the number of newtons in one pound.  If an amateur soccer player is able to kick a soccer ball with a force of around 500-700 pounds, how many newtons are they able to exert?</p>
 			</exercise>
 		</exercises>
   

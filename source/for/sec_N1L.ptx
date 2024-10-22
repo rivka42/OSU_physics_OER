@@ -16,13 +16,6 @@
 	</statement>
 	</principle>
 	
-		<historical>
-		<title>Aristotelian Motion</title>
-	<p>Before Newton's Laws of Motion, a prevailing theory of motion was put forth by Aristotle: that the natural state of an object was to be at rest as close as possible to the center of the universe (which was, of course, the center of the Earth), and that if an object was disturbed, it would move and then return to rest.</p>
-	
-	<p>In contrast, the Law of Inertia states something fundamental about the behavior of objects: that an object has two possible natural states: at rest or moving in a straight line at constant speed.</p>
-	</historical>
-	
 	<p>The term inertia&#8212;more commonly referred to as <term>mass</term>&#8212;is the capacity of an object to resist any change to its motion.  The more mass something has, the more net external force it is going to take to change the object's motion.</p>
 	
 		<definition xml:id="def_mass">
@@ -31,6 +24,13 @@
 	<p>The <term>mass</term> of an object, typically represented by <m>m</m>, is the capacity of that object to resist changes to its motion<fn>as you will see in the next section, mass can be operationally defined as the amount of net force per acceleration required to speed up or slow down the object</fn>.</p>
 	</statement>
 	</definition>
+	
+			<insight>
+		<title>Aristotelian Motion</title>
+	<p>Before Newton's Laws of Motion, a prevailing theory of motion was put forth by Aristotle: that the natural state of an object was to be at rest as close as possible to the center of the universe (which was, of course, the center of the Earth), and that if an object was disturbed, it would move and then return to rest.</p>
+	
+	<p>In contrast, the Law of Inertia states something fundamental about the behavior of objects: that an object has two possible natural states: at rest or moving in a straight line at constant speed.</p>
+	</insight>
 		
 	<exercises>
 					<title>Activity: Explanation Practice</title>
