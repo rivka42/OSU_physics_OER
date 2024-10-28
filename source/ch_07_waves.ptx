@@ -33,6 +33,7 @@
 
 
 <xi:include href="./wave/sec_what_are_waves.ptx" />
+<xi:include href="./wave/sec_representing-waves.ptx" /> 
 <xi:include href="./wave/sec_sinusoidal_waves.ptx" /> 
 <xi:include href="./wave/sec_waves_string.ptx" />
 <xi:include href="./wave/sec_superposition_waves.ptx" />

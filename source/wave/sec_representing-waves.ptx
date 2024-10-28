@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="representing-waves" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Representing Waves</title>
+			
+  	
+<p>A first step in building a <alert> wave model </alert> is to consider different representations (words, graphs, equations, <em>etc.</em>) to help describe the behaviors of waves.  While the figure below shows actual waves in time and space, simplified graphical representations will be more useful.
+</p>
+
+<figure xml:id="wave_source">
+    	<caption>
+	An oscillating source creates a wave with the same frequency.
+	</caption>
+    	<image source="wave/wave_source.gif" width = "50%" ></image>
+</figure>	
+
+
+<exercises>
+<title>History Graphs</title>
+</exercises>
+
+<p>When modeling the motion of point particles, you primarily used a <xref ref="rep_motion-graphs" text="Motion Graph" /> to show, for example, the position of an object across many different instants in time.  This sort of graph can still be used to show the motion of <em>one position</em> in a medium over time.  This is known as a <alert>history graph</alert>.</p>
+
+<figure xml:id="snap_hist">
+    	<caption>
+	A graphical representation of a sinusoidal wave in time (holding space fixed).
+	</caption>
+    	<image source="wave/snap_hist.png" width = "100%" ></image>
+</figure>
+
+<lemma xml:id="rep_history-graph">
+			<title>History Graph</title>
+			<statement>
+				<p>A <term>history graph</term> is a graph of wave motion showing the position of a fixed part of a medium over time.</p>
+			</statement>
+		</lemma>
+    
+<p>
+When you have a history graph, a quantity of note is the <alert>period</alert> <m>T</m>: the time it takes to complete one full oscillation.  As in simple harmonic motion, the period is related to the frequency by 
+
+<me> T = \frac{1}{f} </me>
+
+Another quantity of note is the amplitude: the maximum displacement away from equilibrium of a particle in the medium. 
+</p> 
+
+<exercises>
+<title>Snapshot Graphs</title>
+</exercises>
+
+<p>
+Alternatively, you can graph the displacement of the medium over space at a single instant in time, creating a <alert>snapshot graph</alert>. 
+</p>
+
+<figure xml:id="snap_hist2">
+    	<caption>
+	A graphical representation of a sinusoidal wave in space (holding time fixed).
+	</caption>
+    	<image source="wave/snap_hist2.png" width = "100%" ></image>
+</figure>
+
+<lemma xml:id="rep_snapshot-graph">
+			<title>Snapshot Graph</title>
+			<statement>
+				<p>A <term>snapshot graph</term> is a graph of wave motion showing the position of all parts of a medium at a fixed time.</p>
+			</statement>
+		</lemma>
+
+<p> 
+Now, the quantity of note is the <em>distance</em> spanned from one crest of the wave to the next, or the <alert> wavelength </alert>, symbolized by <m> \lambda </m>.
+</p>
+
+<observation>
+<title>Wave Number</title>
+<p>
+Recall from simple harmonic motion the relationship between angular frequency, frequency, and period,
+
+<me> \omega = 2 \pi f = \frac{2 \pi}{T} </me> 
+
+Time is the physical quantity that connects angular frequency, frequency and period. There is an analogous spatial relationship between wavelength and a quantity called the <alert> wavenumber </alert> <m> k </m>
+
+<me> k = \frac{2 \pi}{\lambda} </me>
+
+The wavenumber represents the spatial frequency of a wave over a unit distance. 
+</p>
+</observation>
+
+<exercises>
+<title>Activities</title>
+<exercise>
+<title>Exploring Wavenumber</title>
+<p>A friend tells you about a wave with wavenumber <m>k = \frac{4\pi}{7} \mathrm{~\frac{rad}{m}}</m>.  What is the wavelength of this wave?  What would the wavenumber be for a different wave with double the wavelength?</p>
+</exercise>
+		</exercises>
+		
+		
+<references>
+<biblio>
+<p>
+Gif image in <xref ref="wave_source"></xref> from Veritasium. <url href="https://www.youtube.com/watch?v=Iuv6hY6zsd0"/>
+ </p>
+</biblio>
+
+<biblio>
+<p>
+<xref ref="snap_hist"></xref> created by Rebecka Tumblin.  </p>
+</biblio>
+
+</references>
+
+		
+</section>
+

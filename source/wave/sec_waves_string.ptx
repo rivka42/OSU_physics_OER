@@ -47,15 +47,15 @@ Consider a stretched string of length <m> L </m> and mass <m> m </m> with tensio
 
 <me> \mu_s = \frac{m}{L}</me>
 
-is the mass-to-length ratio of the string. The wave speed <m> \nu </m>
+is the mass-to-length ratio of the string. The wave speed <m> v </m>
 
-<me> \nu_{\text{string}} = \sqrt{\frac{T_s}{\mu_s}} </me>
+<me> v_{\text{string}} = \sqrt{\frac{T_s}{\mu_s}} </me>
 
 depends on the tension that serves as a restoring force for the medium and the linear density of the string.  Interestingly, the wave speed does not depend on the frequency of the wave!
 </p>
 <figure xml:id="pulse">
     	<caption>
-	A wave pulse passing through a string. The wave propagates with wave speed <m> \nu_{\text{string}}</m>.
+	A wave pulse passing through a string. The wave propagates with wave speed <m> v_{\text{string}}</m>.
 	</caption>
     	<image source="wave/pulse.gif" width = "50%" ></image>
 </figure>	
@@ -68,7 +68,7 @@ depends on the tension that serves as a restoring force for the medium and the l
 <title>Sensemaking: Units of wave speed</title>
 <statement>
 <p>
-Explicitly check the units of <m> \nu_{\text{string}} </m> to confirm its relationship holds.  
+Explicitly check the units of <m> v_{\text{string}} </m> to confirm its relationship holds.  
 </p>
 </statement>
 <answer>

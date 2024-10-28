@@ -8,24 +8,33 @@
 <exercise xml:id="x_intro-waves">
 <title>Explore What You Already Know about Waves</title>
 <statement>
-<p>You have probably already encountered waves in your everyday life.  Make a list of things you already know about waves to get started.</p>
+<p>You have probably already encountered waves in your everyday life.  Get started by writing down a personal list of things you already know about or have observed about waves in your everyday life.</p>
 </statement>
 </exercise>
-<p>Watch the two videos below showing different kinds of waves.</p>
-<video youtube="g49mahYeNgc"><description>Transverse waves.</description></video>
-<video youtube="cV0aaiG_Jy8"><description>Longitudinal waves.</description></video>
 <exercise>
 <title>Explore Transverse and Longitudinal Waves</title>
 <statement>
-<p>Make a list of observations about each video.  Try to find both similarities and differences between the two kinds of waves.</p>
+<p>Watch the two short videos demonstrating some basic wave behavior below.  Make a list of observations about each video.  Try to find both similarities and differences between the two kinds of waves.</p>
 </statement>
 </exercise>
+<video youtube="g49mahYeNgc"><description>Transverse waves.</description></video>
+<video youtube="cV0aaiG_Jy8"><description>Longitudinal waves.</description></video>
 </exercises>
+		
+			<exercises>
+<title>What Are Waves?</title>
+</exercises>
+
+<p>Watch the short video below introducing waves and wave pulses.</p>
 		
 <video youtube="YBq2YvzK9MU"><description>Introducing waves.</description></video>
 
   
-<p> A <alert>mechanical wave</alert> is an organized disturbance that travels through a <alert>medium</alert>. This medium could be air, water, a guitar string, or the fluid that makes up the outer core of the Earth. Any medium that can sustain a wave must have some elasticity which acts as a restoring force. As a wave disturbance propagates through a medium, the particles that make up the medium are displaced away from equilibrium and experience local oscillations. However, it is important to note that the particles in the medium <alert>do not</alert> travel with the wave. Instead, the elastic properties of the medium act to bring the particles back to equilibrium. 
+
+
+<observation>
+<title>Mechanical Waves</title>
+<p>A <alert>mechanical wave</alert> is an organized disturbance that travels through a <alert>medium</alert>. This medium could be air, water, a guitar string, or the fluid that makes up the outer core of the Earth. Any medium that can sustain a wave must have some elasticity which acts as a restoring force. As a wave disturbance propagates through a medium, the particles that make up the medium are displaced away from equilibrium and experience local oscillations. However, it is important to note that the particles in the medium <alert>do not</alert> travel with the wave. Instead, the elastic properties of the medium act to bring the particles back to equilibrium. 
 </p>
 
 <video youtube="iY5zhbtKLO8"><description>A water wave passing under a lily.  Droplets on the lily oscillate as the wave passes.</description></video>
@@ -36,12 +45,14 @@
     		<video source="wave/lily_wave.mp4" width = "100%" ></video>
     </figure>
 -->
+</observation>
 
 <p> 
-A wave disturbance is created by a <alert> source </alert>. The sources of waves are external oscillations of the medium. This could be in the form of a finger plucking a string or a rock tossed into a pond. Once the medium has been disturbed, a wave propagates away from the source of that disturbance at a particular speed called the <alert> wave speed </alert>. The wave speed depends on the properties of the medium, and particularly, restoring forces provided by the elasticity of the medium such as tension in a plucked string or cohesion in water. 
+A wave disturbance is created by a <alert> source </alert>: an external oscillation of the medium. This could be in the form of a finger plucking a string or a rock tossed into a pond. Once the medium has been disturbed, a wave propagates away from the source of that disturbance at a particular speed called the <alert> wave speed </alert>. The wave speed depends on the properties of the medium, and particularly, restoring forces provided by the elasticity of the medium such as tension in a plucked string or cohesion in water. 
 </p>
 
-
+<definition>
+<title>Transverse Waves</title>
 <p>
 A <alert> transverse wave </alert> is a wave in which the displacement of particles in the medium is perpendicular to the direction that the disturbance travels. <xref ref="stringpulse"></xref> shows a wave pulse traveling down a string. Note that the <em>source</em> of the pulse is the action of lifting the string from one end and moving it up and down. The particles in the string are displaced perpendicular to the direction that the wave pulse travels. 
 </p>
@@ -50,8 +61,10 @@ A <alert> transverse wave </alert> is a wave in which the displacement of partic
     	<caption>A wave pulse that displaces particles in the string perpendicular to the direction of that the wave travels.</caption>
     		<image source="wave/stringpulse.gif" width = "75%" ></image>
     </figure>
+</definition>
 
-
+<definition>
+<title>Longitudinal Waves</title>
 <p>
 A <alert> longitudinal wave </alert> is a wave in which the displacement of the medium is parallel to the direction that the disturbance travels. <xref ref="wavepulse"></xref> shows a wave pulse traveling in a fluid. The <em>source</em> is the action of initially forcing all the particles. Intermolecular attraction between molecules in the fluid restores the particles back to their original position after the wave pulse passes. 
  </p>
@@ -63,13 +76,15 @@ A <alert> longitudinal wave </alert> is a wave in which the displacement of the 
 
 
 <p>
-In <xref ref="DR_wave2"></xref> you can see a wave passing through a medium. Three particles are highlighted to show the difference between motion of the wave and motion of the particles that make up the medium. You may ask, if the medium is not traveling with the disturbance, then what is traveling? A wave disturbance carries <alert> energy </alert> and <alert> momentum </alert> from point to point in the medium. 
+In <xref ref="DR_wave2"></xref> you can see a longitudinal wave passing through a medium. Three particles are highlighted to show the difference between motion of the wave and motion of the particles that make up the medium. You may ask, if the medium is not traveling with the disturbance, then what is traveling? A wave disturbance carries <alert> energy </alert> and <alert> momentum </alert> from point to point in the medium. 
 </p>
 
 <figure xml:id="DR_wave2">
     	<caption>A longitudinal wave passes through a medium. A single particle is highlighted in red to show the difference between motion of the wave and motion of particles in the medium. </caption>
     		<image source="wave/DR_wave2.gif" width = "100%" ></image>
     </figure>
+		
+		</definition>
 
 	
 	
