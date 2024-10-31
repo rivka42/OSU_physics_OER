@@ -38,7 +38,7 @@
 <p>
 When you have a history graph, a quantity of note is the <alert>period</alert> <m>T</m>: the time it takes to complete one full oscillation.  As in simple harmonic motion, the period is related to the frequency by 
 
-<me> T = \frac{1}{f} </me>
+<me> T = \frac{1}{f} = \frac{2\pi}{\omega}</me>
 
 Another quantity of note is the amplitude: the maximum displacement away from equilibrium of a particle in the medium. 
 </p> 

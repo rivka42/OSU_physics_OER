@@ -22,7 +22,7 @@
 <li>Define standing waves</li>
 <li>Define intensity</li>
 <li>Define loudness</li>
-<li>Define the Dopper Effect</li>
+<li>Define the Doppler Effect</li>
 
 <li></li>
 </ol>
@@ -39,6 +39,7 @@
 <xi:include href="./wave/sec_superposition_waves.ptx" />
 <xi:include href="./wave/sec_boundary.ptx" />
 <xi:include href="./wave/sec_interference.ptx" />
+<xi:include href="./wave/sec_phase_diff.ptx" />
 <xi:include href="./wave/sec_standing.ptx" />
 <xi:include href="./wave/sec_waves_fluid.ptx" /> 
 <xi:include href="./wave/sec_intensity.ptx" /> 

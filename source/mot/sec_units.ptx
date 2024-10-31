@@ -120,6 +120,7 @@ We can see that the physical quantities under the square root indeed have base u
 
 			<exercise xml:id="x_identifying-units">
 			<title>Practice Identifying Units</title>
+			<statement>
 			  <p>Below is a list of symbols we commonly use in physics to represent physical quantities.  For each symbol, indicate the units you would expect for the corresponding quantity.</p>
 				<ol>
 				<li><m>t</m> (time)</li>
@@ -129,6 +130,19 @@ We can see that the physical quantities under the square root indeed have base u
 				<li><m>\vec{r}</m> (position)</li>
 				<li><m>A</m> (area)</li>
 				</ol>
+				</statement>
+								<answer>
+				<p>
+								<ol>
+				<li>s (seconds)</li>
+				<li>m (meters)</li>
+				<li>kg (kilograms)</li>
+				<li>s (seconds)</li>
+				<li>m (meters)</li>
+				<li><m>\mathrm{m^2}</m> (square meters)</li>
+				</ol>
+				</p>
+				</answer>
 			</exercise>
 			
 			<exercise>
@@ -142,7 +156,14 @@ We can see that the physical quantities under the square root indeed have base u
 			</exercise>
 			<exercise>
 			<title>Practice Identifying an Error with Units</title>
+			<statement>
 			  <p>While looking through a mathematics textbook, you come across the following equation for the surface area of a cylinder: <m>A = 2\pi rh^2 + 2\pi r^2</m>.  You suspect this equation must have a mistake in it.  How can you use units to tell what the mistake is?  How could you use units to <em>fix</em> the mistake?</p>
+				</statement>
+				<solution>
+				<p>
+				When you add two quantities together, they must have the same units!  The numbers <m>2</m> and <m>\pi</m> are unitless, but <m>rh^2</m> has units of cubic meters while <m>r^2</m> only has units of square meters.  Additionally, since area <m>A</m> should have units of square meters, you can tell that the first term is the one that is wrong: you probably need to get rid of either the <m>r</m> or one of the factors of <m>h</m>.
+				</p>
+				</solution>
 			</exercise>
 			
 		</exercises>

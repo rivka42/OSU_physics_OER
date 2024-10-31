@@ -34,6 +34,12 @@ You will start by using the Cartesian coordinates that are probably familiar fro
 		<statement>
 		<p>As with any other vector, a position vector can be broken into components, as shown in the figure above.  Use what you know about triangles and vector components to write equations relating <m>r_x</m> and <m>r_y</m> to <m>r</m> (the magnitude of the position) and <m>\theta</m>.</p>
 		</statement>
+		<answer>
+		<p>
+		<me>r_x = r\cos\theta</me>
+		<me>r_y = r\sin\theta</me>
+		</p>
+		</answer>
 		</exercise>
 			<exercise xml:id="x_state-vectors">
 			<title>Practice: State Vectors</title>
@@ -56,7 +62,7 @@ You will start by using the Cartesian coordinates that are probably familiar fro
 			</exercise>
 		</exercises>
 		
-		<p>The State Vectors exercise above is a good example of a <term>calculation</term>.  When you are doing calculations in physics, you should follow the steps below.</p>
+		<p>The State Vectors exercise above is a good example of a <term>calculation</term>.  When you do calculations in physics, follow the steps below.</p>
 
 		  <figure xml:id="fig_calculation">
 		 <caption>Steps to follow when performing a calculation.</caption>

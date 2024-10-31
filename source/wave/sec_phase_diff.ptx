@@ -1,45 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_phase_diff" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Phase Difference</title>
+  <title>Path Length Difference</title>
 		
-			<!--THIS SECTION MERGED WITH INTERFERENCE -->
-		
-<exercises>
-<title>Activities</title>
-	
-<exercise>
-<title>Sensemaking: Units</title>
-<statement>
+<video youtube="XfU7KmKRt8M"><description>Describing relative phase for interference.</description></video>
+
 <p>
-What are the units of?  
+The phase difference between two waves that gives rise to interference can be due to two sources:
+<ol>
+<li> The initial (natural) phase difference, arising from the where in its cycle each wave begins</li>
+<li> The path length difference, <m>\Delta D</m>: the difference in distances traveled by the two waves from their source to the point of interference.</li>
+</ol>
+The phase difference due to a path length difference can be calculated as
+<me>\Delta \phi = 2\pi\frac{\Delta D}{\lambda}</me>
+Often, the initial (natural) phase difference is 0, in which case interference will be entirely due to the path length difference.
 </p>
-</statement>
-<answer>
-<p></p>
-</answer>
-</exercise>
-</exercises>
 
-<references>
+	<principle>
+	<title>Maximum Constructive Interference</title>
+	<statement>
+		<p>If the initial phase difference between two waves is zero, maximum constructive interference occurs at locations in space where the path length difference is an integer multiple of the wavelength <me>\Delta D = 0, \pm \lambda, \pm 2\lambda, ...</me></p>
+	</statement>
+</principle>
 
-<biblio>
-<p>
-courtesy of Veritasium. <url href="https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"/>
-</p>
-</biblio>
+	<principle>
+	<title>Complete Destructive Interference</title>
+	<statement>
+		<p>If the initial phase difference between two waves is zero, complete destructive interference occurs at locations in space where the path length difference is a half-integer multiple of the wavelength <me>\Delta D = \pm \lambda/2, \pm 3\lambda/2, ...</me></p>
+	</statement>
+</principle>
 
-<biblio>
-<p>
-<xref ref="snap_hist"></xref> created by Rebecka Tumblin.  
-</p>
-</biblio>
 
-<biblio>
-<p> Animations courtesy of Dr. Dan Russell, Grad. Prog. Acoustics, Penn State. licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. For more information see <url href="https://www.acs.psu.edu/drussell/demos.html"/>
-</p>
-</biblio>
-</references>
+	<exercises>
+	<title>Activities</title>
+			<exercise>
+			  <p>You are standing halfway between two sources of waves with the same frequency and amplitude.  You observe destructive interference at your location.  Explain how this is possible.</p>
+			</exercise>
+						<exercise>
+						<statement>
+			  <p>Two waves with the same initial phase, frequency, and amplitude reach you by traveling different distances.  One wave traveled <m>4 \mathrm{~m}</m> to reach you and the other wave traveled <m>5.5 \mathrm{~m}</m> to reach you.  The wavelength is <m>0.5 \mathrm{~m}</m>.  What kind of interference do you see?  Explain your reasoning.</p>
+				</statement>
+				<answer>
+				<p>
+				Maximum constructive interference!
+				</p>
+				</answer>
+			</exercise>
+									<exercise>
+									<statement>
+			  <p>The wavelengths of the waves in the previous activity are changed to <m>1 \mathrm{~m}</m>.  What kind of interference do you see now?  Explain your reasoning.</p>
+				</statement>
+				<answer>
+				<p>
+				Complete destructive interference!
+				</p>
+				</answer>
+			</exercise>
+		</exercises>
+
+  
 
 
 	

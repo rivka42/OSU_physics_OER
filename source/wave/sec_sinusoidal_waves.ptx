@@ -6,21 +6,42 @@
   	
 <p>Waves can take any shape or size, and do not necessarily have a regular, smooth, repeating pattern. However, if a <em> wave source </em> oscillates with simple harmonic motion, then the wave that is generated will be a <alert>sinusoidal wave</alert>.  Sinusoidal waves are periodic in both <em> space </em> and <em> time </em>, so the displacement of a particle in a medium is symbolized by a function like <m> D(x,t) </m> or <m> y(x,t) </m>.
 
-<me> y(x,t) = y_{\mathrm{max}} \sin\left(\frac{2\pi}{\lambda}x \pm \frac{2\pi}{T}t + \phi\right)</me>
+<me> y(x,t) = y_{\mathrm{max}} \sin\left(\frac{2\pi}{\lambda}x \pm \frac{2\pi}{T}t + \phi_i\right)</me>
 
 </p>
-    
-	<p>
+
+<note>
+<title>Traveling Waves</title>
+<p>A sinusoidal wave of this form is also known as a <alert>traveling wave</alert>.  Why do you think this might be a good name?</p>
+</note>
+
+	<definition xml:id="def_phase">
+	<title>Initial Phase</title>
+	<statement>
+		<p>The <term>phase</term> of a wave, typically written as <m>\phi</m>, refers to where in a cycle (from <m>0</m> to <m>2\pi</m>) a sinusoidal wave is at any given point in time and space.  
+		
+		The <term>initial phase</term>, <m>\phi_i</m>, specifies the phase at the origin at <m>t = 0</m>.</p>
+	</statement>
+</definition>
+
+	<principle xml:id="law_wave-speed">
+	<title>Wave Speed</title>
+	<statement>
+		<p>
 		
 		For sinusoidal waves, the <alert> wave speed </alert> can be written
 
 <me> v = \frac{\lambda}{T} = \mathrm{\frac{distance}{time}} = \lambda f</me> 
 
-Each wave crest travels forward a distance of one wavelength <m> \lambda</m> during a time interval of one period <m> T</m>. 
+For a traveling wave, each wave crest travels forward a distance of one wavelength <m> \lambda</m> during a time interval of one period <m> T</m>. 
 </p>
+	</statement>
+	</principle>
+    
+
 
 <observation>
-<title>Elasticity</title>
+<title>Wave Speed and Elasticity</title>
 <p>
 For mechanical waves, <alert> wave speed is a property of the medium's elasticity </alert> while the <alert> frequency of the wave is the frequency of the oscillating source</alert> of the wave. To keep this important aspect of waves in mind, you can use the relationship
 
@@ -33,7 +54,7 @@ For mechanical waves, <alert> wave speed is a property of the medium's elasticit
 <title>Activities</title>
 	<exercise xml:id="x_trig-waves">
 	<title>Graphing Phase</title>
-	<p>You have probably noticed the letter <m>\phi</m> (phi) typically represents a phase inside of a sine or cosine function.  Using a graphing program (like Desmos or Mathematica), try graphing the following functions (use <m>\lambda = 6 \mathrm{~m}</m>).</p>
+	<p>Using a graphing program (like Desmos or Mathematica), try graphing the following functions (use <m>\lambda = 6 \mathrm{~m}</m>).</p>
 				<p>
 				<ul>
 				<li><m> \sin{(2\pi\frac{x}{\lambda})} </m> </li>

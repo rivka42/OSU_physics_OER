@@ -48,7 +48,7 @@
 	<exploration xml:id="psa_for-alpha3">
 		<title>Elevator</title>
 		<statement>
-			<p>The force of gravity on an 80-kg person is about 800 N. Suppose this person is standing on a scale in an elevator that is moving upwards but slowing down with an acceleration magnitude of <m>1 \mathrm{~m/s^2}</m>. What value does the scale read?</p>
+			<p>The force of gravity on an 80-kg person is about <m>800 \mathrm{~N}</m>. Suppose this person is standing on a scale in an elevator that is moving upwards but slowing down with an acceleration magnitude of <m>1 \mathrm{~m/s^2}</m>. What value does the scale read?</p>
 		</statement>
 		<answer>
 			<p>720 N</p>
@@ -58,16 +58,16 @@
 	<exploration xml:id="psa_for-alpha4">
 		<title>Pulling on a rope</title>
 		<statement>
-			<p>An 80-kg person stands at rest on a scale while pulling vertically downward on a rope that is hanging at rest directly above them. Use <m>g = 9.80 \mathrm{~m/s^2}</m>. With what force magnitude must the rope's tension be pulling on the person so that the scale reads 500 N? With what force magnitude must the rope's tension be pulling on the person so that the scale reads 25% of the person's weight? What is the critical magnitude of tension in the rope so that the person just begins to lift off the scale?</p>
+			<p>An 80-kg person stands at rest on a scale while pulling vertically downward on a rope that is hanging at rest directly above them. Use <m>g = 9.80 \mathrm{~m/s^2}</m>. With what force magnitude must the rope's tension be pulling on the person so that the scale reads <m>500 \mathrm{~N}</m>? With what force magnitude must the rope's tension be pulling on the person so that the scale reads 25% of the person's weight? What is the critical magnitude of tension in the rope so that the person just begins to lift off the scale?</p>
 		</statement>
 		<answer>
-			<p>284 N</p>
+			<p><m>284 \mathrm{~N}</m></p>
 		</answer>
 		<answer>
-			<p>588 N</p>
+			<p><m>588 \mathrm{~N}</m></p>
 		</answer>
 		<answer>
-			<p>784 N</p>
+			<p><m>784 \mathrm{~N}</m></p>
 		</answer>
 	</exploration>
 
@@ -102,10 +102,10 @@
 	<exploration xml:id="psa_for-alpha7">
 		<title>Pushing on a block</title>
 		<statement>
-			<p>A 1.40 kg block is at rest on a level table.  The coefficient of static friction between the table and the block is 0.40, and the coefficient of kinetic friction between the two is 0.10.  A person then applies a 6.00 N force at an angle of 30.0<m>\deg</m> downward relative to the positive-x direction. Use <m>g = 9.80 \mathrm{~m/s^2}</m> and a standard coordinate system. What is the magnitude of the friction force acting between the block and table? What is the acceleration of the block? What is the acceleration of the block if the person applies the 6.00 N force at an angle of 30.0<m>\deg</m> upward relative to the positive-x direction?</p>
+			<p>A <m>1.40 \mathrm{~kg}</m> block is at rest on a level table.  The coefficient of static friction between the table and the block is 0.40, and the coefficient of kinetic friction between the two is 0.10.  A person then applies a 6.00 N force at an angle of 30.0<m>\deg</m> downward relative to the positive-x direction. Use <m>g = 9.80 \mathrm{~m/s^2}</m> and a standard coordinate system. What is the magnitude of the friction force acting between the block and table? What is the acceleration of the block? What is the acceleration of the block if the person applies the <m>6.00 \mathrm{~N}</m> force at an angle of 30.0<m>\deg</m> upward relative to the positive-x direction?</p>
 		</statement>
 		<answer>
-			<p>5.20 N</p>
+			<p><m>5.20 \mathrm{~N}</m></p>
 		</answer>
 		<answer>
 			<p><m>\vec{a} = 0 \frac{m}{s^2}</m></p>
