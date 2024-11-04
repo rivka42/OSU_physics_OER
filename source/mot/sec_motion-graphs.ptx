@@ -28,7 +28,10 @@
 			<description>To be filled.</description></image>
   </figure>	
 	
-	<p>Note that there is a distinction between the two diagrams: the strobe diagram has one image for each equal <m>\Delta t</m>. The position vs. time and velocity vs. time graphs also have equally spaced time increments, but unlike the strobe diagram, they are equally spaced along the axes. The two ways of visualizing motion are qualitatively correct, but you cannot make a direct vertical comparison.</p>
+	<note>
+	<title>Diagrams vs. Graphs</title>
+	<p>There is a distinction between the two diagrams: the motion diagram has one image for each equal <m>\Delta t</m>. The position vs. time and velocity vs. time graphs also have equally spaced time increments, but unlike the strobe diagram, they are equally spaced along the axes. The two ways of visualizing motion are qualitatively correct, but you cannot make a direct vertical comparison.</p>
+	</note>
 	
 		<exercises>
 		<title>Activities</title>
@@ -42,7 +45,7 @@
 			</exercise>
 			<exercise xml:id="x_practice-int-motion-graphs">
 			<title>Practice Interpreting a Motion Graph</title>
-			<p>The graph of position vs. time below shows the location of a skydiver.  Use the graph to create (1) a description in words of the skydiver's motion, (2) a graph of the skydiver's velocity vs. time and (3) a motion diagram for the skydiver.</p>
+			<p>The graph of position vs. time below shows the location of a skydiver.  Use the graph to create (1) a description in words of the skydiver's motion, (2) a graph of the skydiver's velocity vs. time, and (3) a motion diagram for the skydiver.</p>
 			</exercise>
 			<figure xml:id="mot_skydiver">
 		 <caption>A graph of position vs. time for a skydiver</caption>

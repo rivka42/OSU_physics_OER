@@ -3,13 +3,12 @@
 <section xml:id="sec_potential-energy" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Potential Energy</title>
 	
+	<p>Start by watching the video, in which a bungee cord<fn>a bungee cord can be treated like a spring or a rubber band</fn> is initially at rest at its equilibrium position.  Then, an instructor pulls on both ends of the cord for a short time, ending with the cord stretched but at rest.  Consider the system consisting only of the bungee cord.</p>
+	
+	      <video youtube="_p0TGVgnK_w"><description>What happens when you pull on a Bungee cord?</description></video>
+
 	<exercises>
 	<title>Activities</title>
-
-      <video youtube="_p0TGVgnK_w"><description>What happens when you pull on a Bungee cord?</description></video>
-
-<p>In the video, a bungee cord<fn>a bungee cord can be treated like a spring or a rubber band</fn> is initially at rest at its equilibrium position.  Then, an instructor pulls on both ends of the cord for a short time, ending with the cord stretched but at rest.  Consider the system consisting only of the bungee cord.</p>
-
 			<exercise>
 <title>Explanation: Work</title>
 			  <p>The work done by each hand is positive (and thus, the net work on the system is positive). Explain why this must be true using our definition for work.</p>

@@ -8,7 +8,7 @@
 	<definition>
 	<title>Power</title>
 	<statement>
-	<p>The time rate of change of energy is known as <term>power</term>: <me>P = \frac{dE}{dt}</me>  Power is measured in Watts (W).</p>
+	<p>The time rate of change of energy is known as <term>power</term>: <me>P = \frac{dE}{dt}</me>  Power is measured in watts (W).</p>
 	</statement>
 	</definition>
 
@@ -26,11 +26,11 @@
 			</exercise>
 			<exercise>
 			<title>Explanation: Power Company</title>
-			  <p>When you get a bill from the power company, you pay for kilowatt-hours, not Watts. What are you actually paying for, and how do you know? </p>
+			  <p>When you get a bill from the power company, you pay for kilowatt-hours, not watts. What are you actually paying for, and how do you know? </p>
 			</exercise>
 			<exercise>
 			<title>Calculation</title>
-			<p>An average person produces 100 W of power.  How much energy does an average person use in one day?</p>
+			<p>An average person produces <m>100 \mathrm{~W}</m> of power.  How much energy does an average person use in one day?</p>
 			</exercise>
 			
 		</exercises>

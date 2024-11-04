@@ -20,7 +20,7 @@ Like many words used in physics, you probably use the word "energy" in your ever
 		<definition>
 	<title>Energy</title>
 	<statement>
-		<p>The <term>Energy</term> of a system is a physical property measuring its ability to <em>exert forces</em> that can <em>impact the displacement</em> of other systems.  Energy is a scalar quantity measured in Joules (J).</p>
+		<p>The <term>energy</term> of a system is a physical property measuring its ability to <em>exert forces</em> that can <em>impact the displacement</em> of other systems.  Energy is a scalar quantity measured in joules (J).</p>
 	</statement>
 </definition>
 
@@ -69,11 +69,11 @@ Historically, Aristotle of Stagira (384–322 BCE) in ancient Greece was the fir
 			</exercise>
 			<exercise xml:id="x_intro-energy-transfers">
 			<title>Practice: Energy Transfer</title>
-			<p>Suppose you have three systems: A, B, and C.  Each system begins with a total energy of 50 J.  The systems then interact so that system A transfers 20 J to system B and system B transfers 35 J to system C.  Find the total energy of each system after the energy transfers.</p>
+			<p>Suppose you have three systems: A, B, and C.  Each system begins with a total energy of <m>50 \mathrm{~J}</m>.  The systems then interact so that system A transfers <m>20 \mathrm{~J}</m> to system B and system B transfers <m>35 \mathrm{~J}</m> to system C.  Find the total energy of each system after the energy transfers.</p>
 			</exercise>
 									<exercise>
 			<title>Sensemaking: Unit Conversion</title>
-			  <p>Another common unit for energy is the kilocalorie (known colloquially as the Calorie).  Look up the number of Joules in a kilocalorie.  How many Joules are in a typical 2000 Calorie daily diet?</p>
+			  <p>Another common unit for energy is the kilocalorie (known colloquially as the Calorie).  Look up the number of joules in a kilocalorie.  How many joules are in a typical <m>2000</m> Calorie daily diet?</p>
 			</exercise>
 		</exercises>
   

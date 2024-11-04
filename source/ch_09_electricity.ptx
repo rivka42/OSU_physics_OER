@@ -48,6 +48,7 @@
 	<xi:include href="./elec/sec_conductors.ptx" />
 	<xi:include href="./elec/sec_capacitors.ptx" />
 	<xi:include href="./elec/sec_elec-summary.ptx" />
+	<xi:include href="./elec/sec_elec-practice.ptx" />
 	
 </chapter>
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_units" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Numbers and Units</title>
+  <title>Sensemaking: Units and Numbers</title>
 	
     <p>
      The measurement of any quantity is reported as a number in terms of some standard, physical unit.  For example, you might measure the length of an object in a physics lab to be 17.4.  Without a specific unit of measurement, the number itself is almost meaningless.  You might mean the length is <m>17.4 \mathrm{~centimeters}</m>, <m>17.4 \mathrm{~inches}</m>, or <m>17.4 \mathrm{~miles}</m>. 

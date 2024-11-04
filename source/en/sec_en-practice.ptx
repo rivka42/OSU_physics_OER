@@ -257,7 +257,7 @@
     <project xml:id="psa_en-08">
         <title>Pulling a Sled</title>
 		<statement>
-		    <p>You decide to pull a 150-kg sled across an icy pond that is 24 m across.  You start pulling with a constant force of 200 N.  When you get halfway across the pond, you hear the ice cracking and decide to increase your force so that it increases linearly with distance, eventually reaching 500 N when you get to the other side of the pond.  How fast is the sled moving when you reach the other side?  </p>
+		    <p>You decide to pull a 150-kg sled across an icy pond that is <m>24 \mathrm{~m}</m> across.  You start pulling with a constant force of <m>200 \mathrm{~N}</m>.  When you get halfway across the pond, you hear the ice cracking and decide to increase your force so that it increases linearly with distance, eventually reaching <m>500 \mathrm{~N}</m> when you get to the other side of the pond.  How fast is the sled moving when you reach the other side?  </p>
 		</statement>
 		<hint>
 		    <p>Graphing the force vs. distance might help!</p>
@@ -267,7 +267,7 @@
 	<project xml:id="psa_en-09">
         <title>Apple on a Spring</title>
 		<statement>
-		    <p>You have a vertical spring with constant <m>k</m>, which is initially neither stretched nor compressed.  You attach an apple (mass <m>m</m>) to the spring and release it from rest at <m>t = 0</m>.  The apple moves downward, and then comes to rest momentarily at <m>t = t_f</m> after falling some distance.  Determine the distance the apple has fallen.</p>
+		    <p>You have a vertical spring with constant <m>k</m>, which is initially neither stretched nor compressed.  You attach an apple (mass <m>m</m>) to the spring and release it from rest at <m>t = 0</m>.  The apple moves downward, and then comes to rest momentarily at some later time after falling some distance.  Determine the distance the apple has fallen.</p>
 		</statement>
 		<!--<hint>
 		    <p></p>
@@ -317,7 +317,7 @@
 <project>
 	<title>Falling Block</title>
 		<statement>
-		    <p>Shown in the figure below are two blocks connected by an ideal string that passes over a massless, frictionless pulley.  The mass of the larger block sits on a flat, frictionless table, and has four times the mass of the smaller block, which hangs vertically. Determine the speed of each block when the larger block reaches the edge of the table, a distance of 0.75 m.</p>
+		    <p>Shown in the figure below are two blocks connected by an ideal string that passes over a massless, frictionless pulley.  The mass of the larger block sits on a flat, frictionless table, and has four times the mass of the smaller block, which hangs vertically. Determine the speed of each block when the larger block reaches the edge of the table, a distance of <m>0.75 \mathrm{~m}</m>.</p>
 		</statement>
 		<figure xml:id="fig_en-falling-block">
 			<caption></caption>
