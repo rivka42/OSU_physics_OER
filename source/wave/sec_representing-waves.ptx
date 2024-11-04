@@ -19,7 +19,7 @@
 <title>History Graphs</title>
 </exercises>
 
-<p>When modeling the motion of point particles, you primarily used a <xref ref="rep_motion-graphs" text="Motion Graph" /> to show, for example, the position of an object across many different instants in time.  This sort of graph can still be used to show the motion of <em>one position</em> in a medium over time.  This is known as a <alert>history graph</alert>.</p>
+<p>When modeling the motion of point particles, you primarily used a <xref ref="rep_motion-graphs" text="title" /> to show, for example, the position of an object across many different instants in time.  This sort of graph can still be used to show the motion of <em>one position</em> in a medium over time.  This is known as a <alert>history graph</alert>.</p>
 
 <figure xml:id="snap_hist">
     	<caption>
