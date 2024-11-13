@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_thin-film-interference" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Thin Film Interference</title>
+    <p>When light is incident on a boundary where the index of refraction is changing, some of the light is reflected and some of that light is transmitted. This can have interesting effects when light is incident on a very thin film of certain materials. Consider the situation below, which could represent oil on top of water. Air would be the top surface, oil would be the thin film, and water would be the bottom surface. </p>
+
+    <figure xml:id="thin_film">
+        <caption></caption>
+        <image source="optics/thin_film_diagram.png" width = "90%" ><description></description></image>
+    </figure>
+
+    <p>Here light ray (1) is the original light beam incident on the top interface. It splits into two rays - (2) is the reflected ray and (3) is the transmitted ray. The refracted (transimitted) ray (3) then interacts with the bottom interface and the reflected ray is (4) and the transmitted ray is (6). Lastly (4) interacts again with the top surface and some of it is transmitted (5). There are more reflections and transmissions, an infinite number in theory, but the first two are the most dominant due to the intensity decreasing at every interface. Now light rays (2) and (5) can interference with each other. They are coherent since they originated from the same source and there is a path length difference (<m>\Delta D</m>) between the two. At near normal incidence the <m>\Delta D</m> is equal to twice the thickness <m>t</m> of the film, <m>\Delta D = 2t</m>. Now before using the standard integer multiple of the wavelength approach to constructive interference, you must first consider phase changes in the reflected rays.</p>
+
+    <p>When light reflects off a material with a higher index of refraction the reflected wave has a phase shift. An analogy to this behavior is when a wave pulse interacts with a medium of a higher density. As seen in <xref ref="lo_hi"></xref>, a wave pulse is travelling to the right, and once the wave starts to interact with the higher density string, the reflected wave reflects downward, shifting the wave by half of a cycle (<m>\pi</m>). In contrast if light reflects off a material with a lower index of refraction, there is no <m>\pi</m> phase shift. Also notice that the transmitted waves never have any phase shift.</p>
+
+    <p>All of this means you have find the relative number of phase shifts between the first reflected wave (2) and the second reflected wave (5). An example would be the air <m>\rightarrow</m> oil <m>\rightarrow</m> water system described above. Oil has a higher index of refraction than air, so ray (2) has a <m>\pi</m> phase shift. When ray (3) reflects off the bottom surface, it is in oil and bouncing off water. Since <m>n_{water}</m> is smaller than <m>n_{oil}</m> there is no phase shift in reflected ray (4) or in (5) since it is transmitted. Ray (2) and (5) are interfering but there is a relative phase shift between them.</p>
+
+    <exercises>
+        <title>Activities</title>
+            <exercise xml:id="x_thin-film-1">
+                <title>Minimum Thickness</title>
+                <p>Find the minimum thickness (in nm) of a soap bubble that appears red when illuminated by white light (incident perpendicular to its surface). Assume the red wavelength is 680 nm, and assume the soap bubble film has the same index of refraction as water.</p>
+            <answer>128 nm</answer>
+            </exercise>
+            
+            
+    </exercises>
+    <references>
+        <biblio xml:id="ref_boxsand">
+            <p>Content provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+        </biblio>
+    </references>
+</section>
