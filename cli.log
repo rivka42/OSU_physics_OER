@@ -1,0 +1,19 @@
+INFO    : PreTeXt project found in `/home/drenniks/Documents/OSU/OER_book`.
+WARNING : Project's CLI version could not be detected from `requirements.txt`.
+WARNING : Try `pretext init --refresh` to produce a compatible file.
+INFO    : No change in assets requiring generating detected.  To force regeneration of assets, use `-g` flag.
+
+INFO    : Preparing to build into /home/drenniks/Documents/OSU/OER_book/output/web.
+INFO    : 
+Now building HTML into /home/drenniks/Documents/OSU/OER_book/output/web
+
+INFO    : discovering source file's directory name: /home/drenniks/Documents/OSU/OER_book/source
+INFO    : verifying and expanding input directory: /home/drenniks/Documents/OSU/OER_book/source/../generated-assets
+INFO    : input directory expanded to absolute path: /home/drenniks/Documents/OSU/OER_book/generated-assets
+INFO    : verifying and expanding input directory: /home/drenniks/Documents/OSU/OER_book/source/../assets
+INFO    : input directory expanded to absolute path: /home/drenniks/Documents/OSU/OER_book/assets
+INFO    : Runestone Services (via PreTeXt repository): version 6.5.0
+INFO    : Runestone Services (using newer, via online CDN query): version 7.4.4
+INFO    : converting /home/drenniks/Documents/OSU/OER_book/source/main.ptx to HTML in /tmp/tmp5bqbfn0c
+INFO    : XSL conversion of /home/drenniks/Documents/OSU/OER_book/source/main.ptx by /home/drenniks/.ptx/xsl/pretext-html.xsl
+INFO    : comprehensive messages, warnings, and errors:

@@ -6,7 +6,7 @@
     <p>When light is incident on a boundary where the index of refraction is changing, some of the light is reflected and some of that light is transmitted. Consider the situation above, which could represent oil on top of water. Air would be the top surface, oil would be the thin film, and water would be the bottom surface. The alternative representation labels all reflected and transmitted rays.</p>
 
     <figure xml:id="thin_film">
-        <caption>An incident ray on a material of a different index of refraction results in a reflected ray (ray 2) and a transmitted, or refracted, ray (ray 3). The transmitted ray is then reflected off of the lower boundary (ray 4) and transmitted through the next material (ray 6). Ray 4 is then transmitted (and refracted) back through the upper boundary, resulting in ray 5. Rays 2 and 5 are what your eye sees.</caption>
+        <caption>An incident ray on a material of a different index of refraction results in a reflected ray (ray 2) and a transmitted, or refracted, ray (ray 3). Ray 3 is then reflected off of the lower boundary (ray 4) and transmitted through the next material (ray 6). Ray 4 is transmitted (and refracted) back through the upper boundary, resulting in ray 5. Rays 2 and 5 are what your eye sees.</caption>
         <image source="optics/openstax-thin-film.png" width = "40%" ><description></description></image>
     </figure>
 
