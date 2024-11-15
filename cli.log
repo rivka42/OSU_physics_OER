@@ -1,19 +1,15 @@
-INFO    : PreTeXt project found in `/home/drenniks/Documents/OSU/OER_book`.
+INFO    : PreTeXt project found in `C:\Users\HP\OER`.
 WARNING : Project's CLI version could not be detected from `requirements.txt`.
 WARNING : Try `pretext init --refresh` to produce a compatible file.
-INFO    : No change in assets requiring generating detected.  To force regeneration of assets, use `-g` flag.
-
-INFO    : Preparing to build into /home/drenniks/Documents/OSU/OER_book/output/web.
+INFO    : Now preparing local server to preview directory `C:\Users\HP\OER\output\web`.
+INFO    :   (Reminder: use `pretext deploy` to deploy your built project to a public
+INFO    :   GitHub Pages site that can be shared with readers who cannot access your
+INFO    :   personal computer.)
 INFO    : 
-Now building HTML into /home/drenniks/Documents/OSU/OER_book/output/web
+INFO    : Success! The most recent build of your project can be viewed in a web browser at the following url:
+INFO    :     http://localhost:8000
+INFO    : This page should open in a new tab automatically.
+INFO    : Use [Ctrl]+[C] to halt the server.
 
-INFO    : discovering source file's directory name: /home/drenniks/Documents/OSU/OER_book/source
-INFO    : verifying and expanding input directory: /home/drenniks/Documents/OSU/OER_book/source/../generated-assets
-INFO    : input directory expanded to absolute path: /home/drenniks/Documents/OSU/OER_book/generated-assets
-INFO    : verifying and expanding input directory: /home/drenniks/Documents/OSU/OER_book/source/../assets
-INFO    : input directory expanded to absolute path: /home/drenniks/Documents/OSU/OER_book/assets
-INFO    : Runestone Services (via PreTeXt repository): version 6.5.0
-INFO    : Runestone Services (using newer, via online CDN query): version 7.4.4
-INFO    : converting /home/drenniks/Documents/OSU/OER_book/source/main.ptx to HTML in /tmp/tmp5bqbfn0c
-INFO    : XSL conversion of /home/drenniks/Documents/OSU/OER_book/source/main.ptx by /home/drenniks/.ptx/xsl/pretext-html.xsl
-INFO    : comprehensive messages, warnings, and errors:
+INFO    : 
+Closing server...

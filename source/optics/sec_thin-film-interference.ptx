@@ -3,37 +3,40 @@
 <section xml:id="sec_thin-film-interference" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Thin Film Interference</title>
 
-    <p>When light is incident on a boundary where the index of refraction is changing, some of the light is reflected and some of that light is transmitted. Consider the situation above, which could represent oil on top of water. Air would be the top surface, oil would be the thin film, and water would be the bottom surface. The alternative representation labels all reflected and transmitted rays.</p>
+    <p>When light is incident on a boundary where the index of refraction is changing, some of the light is reflected and some is transmitted. Consider the situation below, which could represent a thin layer of oil between air and water.</p>
 
     <figure xml:id="thin_film">
-        <caption>An incident ray on a material of a different index of refraction results in a reflected ray (ray 2) and a transmitted, or refracted, ray (ray 3). Ray 3 is then reflected off of the lower boundary (ray 4) and transmitted through the next material (ray 6). Ray 4 is transmitted (and refracted) back through the upper boundary, resulting in ray 5. Rays 2 and 5 are what your eye sees.</caption>
+		<caption>Thin film interference.</caption>
+		<!--
+        <description>An incident ray on a material of a different index of refraction results in a reflected ray (ray 2) and a transmitted, or refracted, ray (ray 3). Ray 3 is then reflected off the lower boundary (ray 4) and transmitted through the next material (ray 6). Ray 4 is transmitted (and refracted) back through the upper boundary, resulting in ray 5. Rays 2 and 5 are what your eye sees.</description>
+				-->
         <image source="optics/openstax-thin-film.png" width = "40%" ><description></description></image>
     </figure>
 
-    <p>Here light ray (1) is the original light beam incident on the top interface. It splits into two rays - (2) is the reflected ray and (3) is the transmitted ray. The refracted (transimitted) ray (3) then interacts with the bottom interface and the reflected ray is (4) and the transmitted ray is (6). Lastly (4) interacts again with the top surface and some of it is transmitted (5). There are more reflections and transmissions, an infinite number in theory, but the first two are the most dominant due to the intensity decreasing at every interface. Now light rays (2) and (5) can interference with each other. They are coherent since they originated from the same source and there is a path length difference (<m>\Delta D</m>) between the two.</p>
+    <p>Here light ray (1) is the original light beam incident on the top interface. It splits into a reflected ray (2) and a transmitted ray (3). At the bottom interface, the transmitted ray then splits into another reflected ray (4) and transmitted ray (6). Lastly, ray 4 interacts again with the top surface and some of it is transmitted (5). There are more reflections and transmissions, but the first two are the most dominant due to the intensity decreasing at every interface. Now light rays (2) and (5), which can be seen by an eye in the original medium, interference with each other. They are coherent since they originated from the same source and there is a path length difference <m>(\Delta D)</m> between the two.</p>
 
     <principle>
         <title>Phase Shifts for Reflected Light</title>
-        <p>When light reflects off a material with a higher index of refraction the reflected wave has a phase shift of <m>\pi</m>. In contrast if light reflects off a material with a lower index of refraction, there is no <m>\pi</m> phase shift. The transmitted waves never have any phase shift.</p>
+        <p>When light reflects off a material with a higher index of refraction, the reflected wave has a phase shift of <m>\pi</m>. In contrast, if light reflects off a material with a lower index of refraction, there is no <m>\pi</m> phase shift.  Transmitted waves never have a phase shift.</p>
     </principle>
 
     <observation>
         <title>Where does the phase shift come from?</title>
-        <p>An analogy to the phase shift for reflected light is to consider a wave pulse that interacts with a medium of a higher density, which corresponds to a slower wave speed. As seen in <xref ref="lo_hi"></xref>, once the wave starts to interact with the higher density string, the reflected wave is inverted, shifting the wave by half of a cycle <m>(\pi)</m>. In contrast, as seen in <xref ref="hi_lo"></xref>, once the wave starts to interact with the lower density string, the reflected wave is not inverted. The transmitted pulse does not invert in either case.</p>
+        <p>An analogy to the phase shift for reflected light is a wave pulse interacting with a medium of a higher density (slower wave speed). As seen in <xref ref="lo_hi"></xref>, once the wave starts to interact with the higher density string, the reflected wave is inverted, shifting the wave by half of a cycle <m>(\pi)</m>. In contrast, as seen in <xref ref="hi_lo"></xref>, once the wave starts to interact with the lower density string, the reflected wave is not inverted. The transmitted pulse does not invert in either case.</p>
     </observation>
 
     <exercises>
         <title>Activities</title>
             <investigation>
                 <title>Path Length Difference</title>
-                <statement><p>Assume the thickness of the thin film is <m>t</m> and the incident ray is nearly normal to the surface. Determine the extra distance travelled by ray (5) compared to ray (2) (the path length difference, <m>\Delta D</m>).</p></statement>
+                <statement><p>Assume the thickness of the thin film is <m>t</m> and the incident ray is nearly normal to the surface. Determine the path length difference, <m>\Delta D</m> (the extra distance traveled by ray (5) compared to ray (2).</p></statement>
                 <solution>
                     <p>At near normal incidence the <m>\Delta D</m> is equal to twice the thickness <m>t</m> of the film, <m>\Delta D = 2t</m>, because ray (5) travels first down then back up.</p>
                 </solution>
             </investigation>
             <investigation>
                 <title>Oil on Water</title>
-                <statement><p>Suppose you have the air <m>\rightarrow</m> oil <m>\rightarrow</m> water system described above. The index of refraction of oil is <m>n_{oil} = 1.44</m> and the index of refraction of water is <m>n_{water} = 1.33</m>. For each of the two reflections, identify whether or not there is a phase shift.</p></statement>
+                <statement><p>Suppose you have the air <m>\rightarrow</m> oil <m>\rightarrow</m> water system described above. The index of refraction for oil is <m>n_{oil} = 1.44</m> and the index of refraction for water is <m>n_{water} = 1.33</m>. For each of the two reflections, identify whether or not there is a phase shift.</p></statement>
                 <solution>
                     <p>Oil has a higher index of refraction than air, so ray (2) has a <m>\pi</m> phase shift. When ray (3) reflects off the bottom surface, it is in oil and bouncing off water. Since <m>n_{water}</m> is smaller than <m>n_{oil}</m> there is no phase shift in reflected ray (4) or in (5) since it is transmitted.</p>
                 </solution>
