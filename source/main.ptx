@@ -23,7 +23,9 @@
     <xi:include href="./meta_frontmatter.ptx" />
     
 
-
+    <!--
+		This is the original structure, which had 11 big chapters
+				-->
     <xi:include href="./ch_01_vectors.ptx" />
     <xi:include href="./ch_02_motion.ptx" />
 		<xi:include href="./ch_03_forces.ptx" />
@@ -36,9 +38,27 @@
 		<xi:include href="./ch_10_circuits.ptx" />
     <xi:include href="./ch_11_magnetism.ptx" />
 		<xi:include href="./ch_00_prep.ptx" />
-								<!--
-		-->
 
+		
+		<!--
+		This is the new structure, which has smaller chapters
+		-->
+		<!--
+
+		<xi:include href="./ch_01_vectors.ptx" />
+    <xi:include href="./ch-n_02_motion.ptx" />
+		<xi:include href="./ch-n_03_forces.ptx" />
+		<xi:include href="./ch-n_04_kin.ptx" />
+		<xi:include href="./ch_04_energy.ptx" />
+		<xi:include href="./ch_05_rotational.ptx" />
+		<xi:include href="./ch_06_oscillate.ptx" />
+		<xi:include href="./ch_07_waves.ptx" />
+		<xi:include href="./ch_08_optics.ptx" />
+    <xi:include href="./ch_09_electricity.ptx" />
+		<xi:include href="./ch_10_circuits.ptx" />
+    <xi:include href="./ch_11_magnetism.ptx" />
+		<xi:include href="./ch_00_prep.ptx" />
+		-->
   
     <!-- This chapter includes several features that require pregeneration   -->
     <!-- of assets with `pretext generate` or similar. Some features require -->

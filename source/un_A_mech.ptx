@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<part xml:id="un_A_mech" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Mechanics</title>
+	<!--
+<introduction>
+</introduction>
+-->
+
+    <xi:include href="./ch_02_motion.ptx" />
+		<xi:include href="./ch_03_forces.ptx" />
+		<xi:include href="./ch_04_energy.ptx" />
+	
+</part>

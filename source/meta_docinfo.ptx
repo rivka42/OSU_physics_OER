@@ -34,6 +34,8 @@
 \setmainfont{Asana-Math}
 
 <!-- It is possible to rename elements using the tags below -->
+<rename element="part">Unit</rename>
+
   <rename element="lemma">Representation</rename>
 	<rename element="heuristic">Sensemaking Strategy</rename>
 	<rename element="insight">Historical Note</rename>

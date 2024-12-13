@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_motion" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Motion</title>
+<introduction>
+    <p>Your first physics topic is motion.</p>
+				
+	<p><alert>Learning Outcomes</alert></p>
+		
+		<p>After successful completion of this module, you will be able to: </p>
+<ol>
+<li>Analyze translational motion using a motion diagram.</li>
+<li>Apply the particle model to analyze translational motion.</li>
+<li>Define average velocity. </li>
+<li>Define average acceleration.</li>
+<li>Define instantaneous velocity.</li>
+<li>Define instantaneous acceleration. </li>
+<li>Analyze motion in a position versus time graph.</li> 
+<li>Draw a correlation between motion diagrams and position versus time graphs.</li>
+<li>Draw a velocity versus time and acceleration versus time graph from a position versus time graph and vice versa. </li>
+<li>Determine the sign of position, velocity and acceleration within a defined coordinate system. </li>
+<li>Determine position, distance, velocity and speed from graphs of position and velocity versus time. </li>
+</ol>
+
+</introduction>
+
+  <xi:include href="./mot/sec_what-is-motion.ptx" />
+	<xi:include href="./mot/sec_position.ptx" />
+	<xi:include href="./mot/sec_units.ptx" />
+	<xi:include href="./mot/sec_displacement.ptx" />
+	 <xi:include href="./mot/sec_particle-model.ptx" />
+	<xi:include href="./mot/sec_motion-diagrams.ptx" />
+	<xi:include href="./mot/sec_velocity.ptx" />
+	<xi:include href="./mot/sec_velocity-reps.ptx" />
+	<xi:include href="./mot/sec_motion-graphs.ptx" />
+	<xi:include href="./mot/sec_acceleration.ptx" />
+	<xi:include href="./mot/sec_acceleration-reps.ptx" />
+	<xi:include href="./mot/sec_sensemaking1.ptx" />
+	<!--
+	<xi:include href="./mot/sec_calc1.ptx" />
+	<xi:include href="./mot/sec_relative-motion.ptx" />
+	<xi:include href="./mot/sec_kinematics-1d.ptx" />
+	<xi:include href="./mot/sec_real-world-context.ptx" />
+	<xi:include href="./mot/sec_kinematics-2d.ptx" />
+	<xi:include href="./mot/sec_motion-summary.ptx" />
+	<xi:include href="./mot/sec_mot-practice.ptx" />
+	-->
+	
+</chapter>
