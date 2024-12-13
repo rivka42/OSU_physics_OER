@@ -56,7 +56,7 @@
             </ol>
             <answer>
                 <p>
-                    The path length difference between rays <m>r_1</m> and <m>r_2</m> and between rays <m>r_2</m> and <m>r_3</m> is <m>\lambda</m> is <m>\lambda / 2</m>. The path length difference between <m>r_1</m> and <m>r_3</m> is <m>\lambda</m>! This means that while rays <m>r_1</m> and <m>r_2</m> and rays <m>r_2</m> and <m>r_3</m> are destructively interfering, rays <m>r_1</m> and <m>r_3</m> constructively interfering! The intensity at this point is no longer zero, as now there is some contribution of light coming from the third slit. 
+                    The path length difference between rays <m>r_1</m> and <m>r_2</m> and between rays <m>r_2</m> and <m>r_3</m> is <m>\lambda / 2</m>. The path length difference between <m>r_1</m> and <m>r_3</m> is <m>\lambda</m>! This means that while rays <m>r_1</m> and <m>r_2</m> and rays <m>r_2</m> and <m>r_3</m> are destructively interfering, rays <m>r_1</m> and <m>r_3</m> constructively interfering! The intensity at this point is no longer zero, as now there is some contribution of light coming from the third slit. 
                 </p>
             </answer>
         </exercise>
