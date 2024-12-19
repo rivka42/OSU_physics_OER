@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_energy" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Energy and Momentum</title>
+	
+<introduction>
+    <p> In this chapter you will focus on the topics of energy and momentum.</p>
+	
+	<p><alert>Learning Outcomes</alert></p>
+  
+  
+<p>After successful completion of this chapter, you will be able to:
+ <ol>
+<li>Define work</li>
+<li>Define kinetic energy</li>
+<li>Evaluate the relationship between work and kinetic energy</li>
+<li>Represent energy concepts using multiple representations (diagrams, graphs, words, equations)</li>
+<li>Define a system</li>
+<li>Define potential energy for a system</li>
+<li>Define mechanical energy and determine when mechanical energy is conserved in a system</li>
+<li>Analyze a system using a conservation of energy approach</li>
+<li>Draw diagrams useful for analysis of a system using an energy approach</li>
+<li>Analyze energy diagrams depicting the total energy as the sum of potential and kinetic energy</li>
+<li>Analyze systems with work done by dissipative forces such as friction</li>
+<li>Differentiate between conservative and non-conservative forces in an energy framework</li>
+<li>Define momentum</li>
+<li>Define impulse</li>
+<li>Evaluate the relationship between impulse and momentum</li>
+<li>Determine when momentum is conserved</li>
+<li>Analyze systems using a conservation of momentum approach</li>
+<li>Analyze elastic and inelastic collisions</li>
+<li>Analyze explosions using a conservation of momentum approach</li>
+<li>Draw diagrams useful for analysis of a system using momentum approach</li>
+<li>Analyze systems that independently conserve momentum and energy</li>
+</ol>
+
+</p>
+
+
+</introduction>
+
+  <xi:include href="./en/sec_what-is-energy.ptx" />
+	<xi:include href="./en/sec_system-diagrams.ptx" />
+	<xi:include href="./en/sec_work-energy-thm.ptx" />
+	<xi:include href="./en/sec_work.ptx" />
+	<xi:include href="./en/sec_work2.ptx" />
+	<xi:include href="./en/sec_ke.ptx" />
+	<xi:include href="./en/sec_power.ptx" />
+	<xi:include href="./en/sec_potential-energy.ptx" />
+	<xi:include href="./en/sec_spring-potential-energy.ptx" />
+	<xi:include href="./en/sec_gravitational-potential-energy.ptx" />
+	<xi:include href="./en/sec_energy-analysis.ptx" />
+	<xi:include href="./en/sec_energy-bar-charts.ptx" />
+	<xi:include href="./en/sec_potential-energy-diagrams.ptx" />
+	<xi:include href="./en/sec_force-and-potential-energy.ptx" />
+	<xi:include href="./en/sec_what-is-momentum.ptx" />
+	<xi:include href="./en/sec_impulse-momentum-thm.ptx" />
+	<xi:include href="./en/sec_momentum-vector-diagrams.ptx" />
+	<xi:include href="./en/sec_collisions.ptx" />
+	<xi:include href="./en/sec_energy-summary.ptx" />
+	<xi:include href="./en/sec_en-practice.ptx" />
+	
+</chapter>
+
+
+
+
+
+
+
+
