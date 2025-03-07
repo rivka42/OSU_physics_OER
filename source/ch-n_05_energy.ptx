@@ -42,6 +42,7 @@
   <xi:include href="./en/sec_what-is-energy.ptx" />
 	<xi:include href="./en/sec_system-diagrams.ptx" />
 	<xi:include href="./en/sec_work-energy-thm.ptx" />
+	<xi:include href="./vec/sec_dot_product.ptx" />
 	<xi:include href="./en/sec_work.ptx" />
 	<xi:include href="./en/sec_work2.ptx" />
 	<xi:include href="./en/sec_ke.ptx" />

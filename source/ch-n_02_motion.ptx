@@ -23,11 +23,11 @@
 </ol>
 
 </introduction>
-
+	
+	<!--INTRODUCTORY SECTIONS-->
   <xi:include href="./mot/sec_what-is-motion.ptx" />
-	<xi:include href="./mot/sec_position.ptx" />
-	<xi:include href="./mot/sec_units.ptx" />
-	<xi:include href="./mot/sec_displacement.ptx" />
+	
+		<!--PREPARE SECTIONS-->
 	 <xi:include href="./mot/sec_particle-model.ptx" />
 	<xi:include href="./mot/sec_motion-diagrams.ptx" />
 	<xi:include href="./mot/sec_velocity.ptx" />
@@ -36,6 +36,9 @@
 	<xi:include href="./mot/sec_acceleration.ptx" />
 	<xi:include href="./mot/sec_acceleration-reps.ptx" />
 	<xi:include href="./mot/sec_sensemaking1.ptx" />
+	
+		<!--PRACTICE SECTIONS-->
+	
 	<!--
 	<xi:include href="./mot/sec_calc1.ptx" />
 	<xi:include href="./mot/sec_relative-motion.ptx" />

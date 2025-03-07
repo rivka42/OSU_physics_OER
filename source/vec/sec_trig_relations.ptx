@@ -79,7 +79,7 @@ r = |\vec{r}| = \sqrt{r_x^2 + r_y^2}
 		</exercise>
 		<exercise>
 		<statement>
-		<p>A vector with length <m>12 \mathrm{~m}</m> points <m>10</m> degrees west of south.  Sketch this vector and find its <m>x</m>- and <m>y</m>-components.</p>
+		<p>A vector with length <m>12 \mathrm{~m}</m> points <m>10</m> degrees east of south.  Sketch this vector and find its <m>x</m>- and <m>y</m>-components.</p>
 		</statement>
 		</exercise>
 		</exercises>

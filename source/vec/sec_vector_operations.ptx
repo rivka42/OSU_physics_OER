@@ -73,7 +73,7 @@ Multiplication of a vector with a positive scalar will <em>scale</em> the magnit
 		</exercise>
 		<exercise>
 		<statement>
-		<p><m>2\vec{A} + 3\vec{A}</m></p>
+		<p><m>\vec{B} = 2\vec{A} + 3\vec{A}</m></p>
 		</statement>
 		</exercise>
 		<exercise>

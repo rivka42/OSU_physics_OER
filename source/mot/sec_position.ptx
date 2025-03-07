@@ -1,38 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_position" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Position</title>
+  <title>Position Vectors</title>
 	
 		  <video youtube="iJoZIbjRrYA"><description>Defining position.</description></video>
 	
 <definition xml:id="def_position">
 	<title>Position</title>
 	<statement>
-		<p>The <term>position</term> of an object describes the location of that object relative to some origin as a vector quantity.</p>
+		<p>The <term>position</term> of an object, represented with the symbol <m>\vec{r}</m>, describes the location of that object relative to some origin as a vector quantity.</p>
 	</statement>
 </definition>
 
-<p>As described above, a position vector is always measured relative to some <term>origin</term> (a fixed location in space) and using some set of <term>coordinates</term>.  In general, position is three-dimensional, but for now, we will stick to two dimensions.  As with any vector, position can be written either by giving a magnitude and a direction, or by writing it in terms of components: <m>\vec{r}= r_x\hat{x} + r_y \hat{y}</m>.  A graphical representation of such a vector is shown below.  Various letters can be used for position, including the generic <m>\vec{r}</m> used above and the generic Cartesian letters <m>\vec{x}</m>, <m>\vec{y}</m>, and <m>\vec{z}</m>.</p>
+<p>A position vector is always measured relative to some <term>origin</term> (a fixed location in space) and using some set of <term>coordinates</term>.  In general, position is three-dimensional, but many positions can be described using only two dimensions.  Various letters can be used for position, including the generic <m>\vec{r}</m> used above and the generic Cartesian letters <m>\vec{x}</m>, <m>\vec{y}</m>, and <m>\vec{z}</m>.</p>
 
-<note>
+<p>As with any vector, position can be written either by giving a magnitude and a direction, or by writing it in terms of components using unit vectors: <me>\vec{r}= r_x\hat{x} + r_y \hat{y}</me>  A graphical representation of such a vector is shown below.</p>
+
+	<definition>
+<title>Unit Vectors</title>
+<p>
+Symbols like <m>\hat{x}</m> and <m>\hat{y}</m> are special vectors called <em>unit vectors</em> or basis vectors.  A unit vector has the following properties:
+</p>
+
+<ul>
+<li><p>A unit vector has a magnitude of 1</p></li>
+<li><p>A unit vector has no dimensions: the magnitude is 1, not 1 meter or 1 second</p></li>
+<li><p>A unit vector always points in the direction along which the given variable is <em>increasing</em>: for example, <m>\hat{x}</m> points in the direction of increasing <m>x</m></p></li>
+<li><p>A unit vector is written with a "hat" symbol instead of an "arrow" symbol.</p></li>
+<li><p>You can turn any vector into a unit vector by dividing it by its own magnitude: for example, <m>\hat{v} = \frac{\vec{v}}{|\vec{v}|}</m></p></li>
+</ul>
+	
+	<p>
+	Some authors, textbooks, and resources will use <m>\hat{i}</m> and <m>\hat{j}</m>, respectively, instead of <m>\hat{x}</m> and <m>\hat{y}</m>, but they mean the same thing.  You can learn more about unit vectors in <xref ref="sec_unit_vector" />.
+</p>
+</definition>
+
+
+  <figure xml:id="mot_position-vector">
+		 <caption>A two-dimensional position vector with c.</caption>
+		<image source="2D position vector with angle.png" width = "50%">
+			<description>On an xy axis, an arrow pointing up and to the right, labeled with magnitude r and angle theta.</description></image>
+  </figure>
+	
+
+
+	
+	<axiom>
+	<title>Breaking a Vector into Components</title>
+	<p>
+	     One of the most important skills to master in physics is <term>breaking a vector into components</term>.</p>
+	<p>Sketch a right triangle, like the one in the figure above, in which the <m>x</m>- and <m>y</m>-components form the legs and the vector itself forms the hypotenuse.  In the equation <m>\vec{r} = r_x \hat{x} + r_y\hat{y}</m>, the scalar values <m>r_x</m> and <m>r_y</m> are called the <alert>components</alert> of <m> \vec{r}</m>.</p>
+
+<!--
+<p>	
+	When multiplied by the unit vectors <m> \hat{x}</m> and  <m> \hat{y}</m> they form a vector quantity. The scalar quantities <m> r_x</m> and <m> r_y </m> tell us how far we must move in the <m>x</m>- and <m>y</m>-direction to be at position <m> \vec{r}</m>.
+	</p>
+	-->
+	
+	<p>
+	An equally valuable skill is being able to start from the components of a vector and determine the magnitude and direction.  In the figure above, for example, the magnitude is <m>|\vec{r}| = r = \sqrt{r_x^2 + r_y^2}</m> and the angle is given by <m>\tan{\theta} = \frac{r_y}{r_x}</m>.
+	</p>
+	</axiom>
+	
+		<note>
 <title>Coordinates</title>
 <p>
 You will start by using the Cartesian coordinates that are probably familiar from math: <m>x</m> along the horizontal axis and <m>y</m> along the vertical axis (plus <m>z</m> if you need it!).  Although these coordinates are familiar, they are also arbitrary, and you will soon find that physics likes to use other coordinates when it is convenient for a situation.  This may mean rotating the Cartesian coordinates so they are tilted, using different coordinates for two different objects in the same context, or even using non-Cartesian coordinates such as circular (polar) coordinates.
 </p>
 </note>
 
-  <figure xml:id="mot_position-vector">
-		 <caption>A two-dimensional position vector within an <m>xy</m>-coordinate system.</caption>
-		<image source="2D position vector with angle.png" width = "50%">
-			<description>On an xy axis, an arrow pointing up and to the right, labeled with magnitude r and angle theta.</description></image>
-  </figure>
+<example>
+<title>Vector Decomposition</title>
+      <video youtube="VZm6mxu2xlk">
+        <description>MIT Vector Decomposition into components.</description>
+      </video>
+
+</example>
+	
 	
 		<exercises>
 		<title>Activities</title>
 		<exercise xml:id="x_positions-comps">
-		<title>Practice: Position Components</title>
+		<title>Finding Position Components</title>
 		<statement>
-		<p>As with any other vector, a position vector can be broken into components, as shown in the figure above.  Use what you know about triangles and vector components to write equations relating <m>r_x</m> and <m>r_y</m> to <m>r</m> (the magnitude of the position) and <m>\theta</m>.</p>
+		<p>Use what you know about triangles and vector components to write equations relating <m>r_x</m> and <m>r_y</m> to <m>r</m> (the magnitude of the position) and <m>\theta</m>.</p>
 		</statement>
 		<answer>
 		<p>
@@ -42,7 +93,7 @@ You will start by using the Cartesian coordinates that are probably familiar fro
 		</answer>
 		</exercise>
 			<exercise xml:id="x_state-vectors">
-			<title>Practice: State Vectors</title>
+			<title>State Vectors</title>
 			<p>Choose a different state (or country) than Oregon and find a simple map.  Mark a few of the major cities or landmarks on the map (at least three).
 			<ol marker="a">
 			<li>
@@ -69,6 +120,12 @@ You will start by using the Cartesian coordinates that are probably familiar fro
 		<image source="CalculationSteps.png" width = "85%">
 			<description>2. Calculating an Unknown Quantity.  2a. Represent principles – identify relevant concepts, laws, or definitions.  2b. Find unknown(s) symbolically – without numbers, find any unknown(s) in terms of symbols representing known quantities.  2c. Plug in numbers – plug numbers (with units) into your symbolic answer! </description></image>
   </figure>	
+	
+	<references>
+	<biblio xml:id="ref_mit-vectors5">
+<p>Vector Decomposition into components by Dr. Michelle Tomasik from MIT 8.01 Classical Mechanics, Fall 2016, used under Creative Commons BY-NC-SA.</p>
+</biblio>
+</references>
 	
 </section>
 

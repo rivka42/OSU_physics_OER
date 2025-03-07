@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_displacement" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Displacement</title>
+  <title>Displacement Vectors</title>
 	
 		  
       <video youtube="Uc5fC3HN2eQ"><description>Defining displacement.</description></video>
@@ -9,7 +9,7 @@
 <definition xml:id="def_displacement">
 	<title>Displacement</title>
 	<statement>
-		<p>The <term>displacement</term> of an object describes the change in that object's position: <m>\Delta \vec{r} = \vec{r}_f - \vec{r}_i</m>.  If the displacement is infinitesimal, you would write <m>\vec{dr}</m> instead of <m>\Delta \vec{r}</m></p>
+		<p>The <term>displacement</term> of an object describes the change in that object's position: <m>\Delta \vec{r} = \vec{r}_f - \vec{r}_i</m>.  If the displacement is infinitesimal, you write <m>\vec{dr}</m> instead of <m>\Delta \vec{r}</m></p>
 	</statement>
 </definition>
 	
@@ -18,7 +18,7 @@
 	<note>
 <title>Subscripts</title>
 <p>
-You have probably noticed that physics notation uses subscripts to mean a lot of different things!  In general, physics symbols try to be descriptive, choosing evocative letters like <m>m</m> for mass and <m>t</m> for time.  Physics symbols also try to be specific (<m>m_1</m> for the mass of object 1, <m>m_2</m> for the mass of object 2, <em>etc.</em>) and detailed (<m>t_i</m> for the initial time and <m>t_f</m> for the final time).  Sometimes, subcripts might even be combined: <m>r_{x3i}</m> for the <m>x</m>-component of object 3's initial position.  As you practice, you will start to get a sense for all the different things you can use a subscript for.
+You have probably noticed that physics notation uses subscripts to mean a lot of different things!  In general, physics symbols try to be descriptive, choosing evocative letters like <m>m</m> for mass and <m>t</m> for time.  Physics symbols also try to be specific (<m>m_1</m> for the mass of object 1, <m>m_2</m> for the mass of object 2, <em>etc.</em>) and detailed (<m>t_i</m> for the initial time and <m>t_f</m> for the final time).  Sometimes, subscripts might even be combined: <m>r_{x3i}</m> for the <m>x</m>-component of object 3's initial position.  As you practice, you will start to get a sense for all the different things you can use a subscript to specify.
 </p>
 </note>
 
@@ -30,8 +30,14 @@ You have probably noticed that physics notation uses subscripts to mean a lot of
   
 	<exercises>
 	<title>Activities</title>
+	<exercise xml:id="x_state-vectors-2">
+			<title>State Vectors II</title>
+			<statement>
+			<p>Choose any pair of vectors that you drew in <xref ref="x_state-vectors" text="type-local-title"/>, sketch the displacement vector, and write the displacement vector in component form.</p>
+			</statement>
+			</exercise>
 			<exercise xml:id="x_vectors-park">
-			<title>Practice: Vectors in the Park</title>
+			<title>Vectors in the Park</title>
 			<statement>
 			<p>You and your friend are each standing at opposite ends of a <m>125 \mathrm{~m}</m> long park.  Your friend, who is initially due south of you, walks <m>50 \mathrm{~m}</m> east and stops to wait for you.  Then, you walk in a straight line until you reach your friend.
 			<ol marker="a">

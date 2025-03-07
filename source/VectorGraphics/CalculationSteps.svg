@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="350mm"
-   height="59.95295mm"
-   viewBox="0 0 349.99999 59.952949"
+   width="305.38293mm"
+   height="67.747391mm"
+   viewBox="0 0 305.38293 67.74739"
    version="1.1"
    id="svg5"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,8 +46,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.5"
-     inkscape:cx="35.54437"
-     inkscape:cy="-111.16942"
+     inkscape:cx="364.66039"
+     inkscape:cy="-81.710124"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -704,28 +704,33 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667004px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.26458299"
            x="-28.055561"
            y="46.130821"
-           id="tspan1301">2a. <tspan
+           id="tspan1301">2a. P<tspan
    style="font-weight:bold"
-   id="tspan1328">Represent principles</tspan> – identify relevant concepts, laws, or definitions.  </tspan><tspan
+   id="tspan1328">rinciples</tspan> – identify any fundamental physics concepts,</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667004px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.26458299"
            x="-28.055561"
            y="56.959629"
-           id="tspan964">2b. <tspan
-   style="font-weight:bold"
-   id="tspan1330">Find unknown(s) symbolically</tspan> – without numbers, find any unknown(s)</tspan><tspan
+           id="tspan960">laws, or definitions you are starting with</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667004px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.26458299"
            x="-28.055561"
-           y="67.788437"
-           id="tspan970">in terms of symbols representing known quantities.  </tspan><tspan
+           y="67.752174"
+           id="tspan964">2b. <tspan
+   style="font-weight:bold"
+   id="tspan1330">Find unknown(s) symbolically</tspan> – without numbers, find any</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667004px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.26458299"
            x="-28.055561"
            y="78.580978"
+           id="tspan970">unknown(s) in terms of symbols representing known quantities.  </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667004px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.26458299"
+           x="-28.055561"
+           y="89.373528"
            id="tspan1364">2c. <tspan
    style="font-weight:bold"
-   id="tspan1332">Plug in numbers</tspan> – plug numbers (with units) into your symbolic answer! </tspan></text>
+   id="tspan1332">Plug in numbers</tspan> – plug numbers (with units) into your answer! </tspan></text>
     </g>
     <g
        id="g1314">

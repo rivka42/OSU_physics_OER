@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_vectors" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Vectors</title>
+<introduction>
+    <p>
+Vector analysis is an important aspect of quantifying motion that occurs in more than one physical dimension. Driving a car on a flat surface is an example of motion in two dimensions, whereas, flying a plane through the air is an example of three-dimensional motion.
+    </p>
+    
+    <p> 
+Let's begin your study of motion by gaining a foundational understanding of what vectors are and how to represent them visually and mathematically. 
+    </p>
+		
+
+    
+    <p><alert>Learning Outcomes</alert></p>
+    
+    <p>After successful completion of this chapter, you will be able to:
+ <ol>
+<li>Explain the difference between a vector and a scalar</li>
+<li>List common vectors and scalars</li>
+<li>Represent vectors using multiple representations (diagrams, graphs, words, equations)</li>
+<li>Resolve a vector into components</li>
+<li>Define and use unit vector notation</li>
+<li>Add and subtract vectors graphically and mathematically</li>
+<li>Multiply a vector by a scalar quantity</li>
+<li>Take the dot product between two vectors</li>
+<li>Move between the component representation and the magnitude and direction angle representation of vectors. </li>
+</ol>
+
+</p>
+    
+    
+</introduction>
+	
+	<!--INTRODUCTORY SECTIONS-->
+  <xi:include href="./vec/sec_what-are-vectors.ptx" />
+	
+	<!--OPTIONAL SECTIONS-->
+	 <xi:include href="./vec/sec_vector_operations.ptx" />
+  <xi:include href="./vec/sec_unit_vector.ptx" />
+  <xi:include href="./vec/sec_vector_algebra.ptx" />
+	
+	<!--PREPARE SECTIONS-->
+		<xi:include href="./mot/sec_position.ptx" />
+	<xi:include href="./mot/sec_displacement.ptx" />
+	
+	<!--PRACTICE SECTIONS-->
+		<xi:include href="./mot/sec_units.ptx" />
+   <xi:include href="./vec/sec_trig_relations.ptx" />
+	<xi:include href="./vec/sec_vec-practice.ptx" />
+	
+		<!--CHALLENGE SECTIONS-->
+<xi:include href="./vec/sec_vec-challenge.ptx" />
+
+  	
+</chapter>

@@ -38,6 +38,7 @@
 
   <rename element="lemma">Representation</rename>
 	<rename element="heuristic">Sensemaking Strategy</rename>
+	<rename element="axiom">Key Skill</rename>
 	<rename element="insight">Historical Note</rename>
 	<rename element="observation">Additional Detail</rename>
 	
