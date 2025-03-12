@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_forces" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Force Models</title>
+<introduction>
+    <p>We will now begin a new topic, perhaps the most foundational in all of physics: Forces.</p>
+		
+	<p><alert>Learning Outcomes</alert></p>
+		
+		<p>After successful completion of this chapter, you will be able to:
+		<ol>
+		  <li>Differentiate between contact forces and non-contact forces</li>
+		  <li>State and apply Newton's laws</li>
+		  <li>Draw a free-body diagram of an object or multiple objects in a system</li>
+		  <li>Define the normal force acting on an object in various situations</li>
+		  <li>Define tension in a system</li>
+		  <li>Construct net force equations in multiple dimensions for an object based on its acceleration and its free-body diagram</li>
+		  <li>Solve net force equations symbolically in terms of given variables</li>
+		  <li>Include friction force acting between two objects at rest or in motion</li>
+		  <li>Identify Newton's third law force pairs</li>
+		  <li>Analyze systems of massive objects and pulleys of negligible mass using a force approach</li>
+		</ol>
+		</p>
+
+</introduction>
+
+	  <!--INTRODUCTORY SECTIONS-->
+		
+		
+		<!--PREPARE SECTIONS-->
+		
+		
+		<!--PRACTICE SECTIONS-->
+		
+		
+		<!--CHALLENGE SECTIONS-->
+	
+
+	<xi:include href="./for/sec_gravity.ptx" />
+	<xi:include href="./for/sec_gravitational-field.ptx" />
+	<xi:include href="./for/sec_gravity-near-earth.ptx" />
+	<xi:include href="./for/sec_solving-forces1.ptx" />
+	<xi:include href="./for/sec_special-cases.ptx" />
+	<xi:include href="./for/sec_static-friction.ptx" />
+	<xi:include href="./for/sec_kinetic-friction.ptx" />
+	<xi:include href="./for/sec_tension.ptx" />
+	<xi:include href="./for/sec_elastic-force.ptx" />
+	<xi:include href="./for/sec_solving-forces2.ptx" />
+	<xi:include href="./for/sec_forces-summary.ptx" />
+	<xi:include href="./for/sec_for-practice.ptx" />
+	
+	<!--
+	  <xi:include href="./for/sec_what-are-forces.ptx" />
+	<xi:include href="./for/sec_fbds.ptx" />
+	<xi:include href="./for/sec_N1L.ptx" />
+	<xi:include href="./for/sec_N2L.ptx" />
+		<xi:include href="./for/sec_N3L.ptx" />
+	<xi:include href="./for/sec_normal-force.ptx" />
+		<xi:include href="./for/sec_ideal-pulleys.ptx" />
+	-->
+	
+</chapter>
+
+	  <!--INTRODUCTORY SECTIONS-->
+		
+		
+		<!--PREPARE SECTIONS-->
+		
+		
+		<!--PRACTICE SECTIONS-->
+		
+		
+		<!--CHALLENGE SECTIONS-->

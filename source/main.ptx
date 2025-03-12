@@ -46,7 +46,8 @@
 	
 		<xi:include href="./ch-n_01_vectors.ptx" />
     <xi:include href="./ch-n_02_motion.ptx" />
-		<xi:include href="./ch-n_03_forces.ptx" />
+		<xi:include href="./ch-n_03_lom.ptx" />
+		<xi:include href="./ch-n_04_forces.ptx" />
 		<xi:include href="./ch-n_04_kin.ptx" />
 		<xi:include href="./ch-n_05_energy.ptx" />
 		<!--
