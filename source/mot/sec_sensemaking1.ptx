@@ -29,7 +29,7 @@
 		
 <p>Consider the equation <m>\Delta x = v\Delta t</m>, rewritten from the definition of average velocity.  This equation relates <m>\Delta x</m> to two other quantities: velocity <m>v</m> and time <m>\Delta t</m>.  We can investigate each relationship with <m>\Delta x</m> separately by holding the other quantity constant.</p>
 
-<p>Physically, velocity is a measure of how fast something is traveling.  In general, a faster object with travel a greater distance in the same amount of time than a slower object: you might think about a race or a car chase.  On the other hand, two objects with the same speed can travel different distances if they travel for different times, and the more time spent traveling, the farther something will travel.  The equation agrees with both because <m>\Delta x</m> is the product of <m>v</m> and <m>\Delta t</m>.  If either <m>v</m> or <m>\Delta t</m> had been <em>divided</em> instead, we would have seen a different relationship.</p>
+<p>Physically, velocity is a measure of how fast something is traveling.  In general, a faster object with travel a greater distance in the same amount of time than a slower object: you might think about a race or a car chase.  On the other hand, two objects with the same speed can travel different distances if they travel for different times, and the more time spent traveling, the farther something will travel.  The equation agrees with both because <m>\Delta x</m> is the product of <m>v</m> and <m>\Delta t</m>.  If either <m>v</m> or <m>\Delta t</m> had been <em>divided</em> instead, you would have seen a different relationship.</p>
 
 </example>
 

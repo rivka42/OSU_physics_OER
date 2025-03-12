@@ -11,46 +11,9 @@
 	-->
 	
 <subsection>
-<title>Practice</title>
+<title>Generic Vectors</title>
 
-		    <exploration xml:id="psa_vec-alpha0">
-        <title>Sums and Differences of Vectors</title>
-		<statement>
-		    <p>Use the figure to determine a single vector that is equivalent to the given summation of vectors in each of the cases below.  (The notation <m>\vec{PQ}</m> represents a vector pointing from point <m>P</m> to point <m>Q</m>.)</p>
-				<figure xml:id="fig_vector-quadrangle">
-  <caption>Two vectors.</caption>
-  <image source="Quadrangle.png" width = "50%">
-  <description></description>
-  </image>
- </figure>
-<p>
-<ol marker="(a)">
-<li><m>\vec{PQ} + \vec{QR}</m></li>
-<li><m>\vec{RP} + \vec{PS}</m></li>
-<li><m>\vec{QS} + \vec{PS}</m></li>
-<li><m>\vec{RS} + \vec{SP} + \vec{PQ}</m></li>
-</ol>
-</p>
-		</statement>
-		<!--
-		<hint>
-		    <p></p>
-		</hint>
-		-->
-		<answer>
-		    <p>
-<ol marker="(a)">
-<li><m>\vec{PR}</m></li>
-<li><m>\vec{RS}</m></li>
-<li><m>\vec{QP}</m></li>
-<li><m>\vec{RQ}</m></li>
-</ol>
-</p>
-
-		</answer>
-	</exploration>
-	
-	    <exploration xml:id="psa_vec-alpha1">
+		    <exploration xml:id="psa_vec-alpha1">
         <title>Two Vectors I</title>
 		<statement>
 		  <p>In the following figure, the magnitudes of the vectors are <m>|\vec{a}| = 8</m> and <m>|\vec{b}| = 4.5</m>.  Assume that <m>\vec{c} = \vec{a} + \vec{b}</m> and <m>\vec{d} = \vec{a} - \vec{b}</m>.</p>
@@ -111,8 +74,99 @@
 		    <p><m>4.4</m> at <m>-97^o</m></p>
 		</answer>
 	</exploration>
+	
+	
+	
+	<exploration xml:id="psa_vec-alpha0">
+        <title>Sums and Differences of Vectors</title>
+		<statement>
+		    <p>Use the figure to determine a single vector that is equivalent to the given summation of vectors in each of the cases below.  (The notation <m>\vec{PQ}</m> represents a vector pointing from point <m>P</m> to point <m>Q</m>.)</p>
+				<figure xml:id="fig_vector-quadrangle">
+  <caption>Four points.</caption>
+  <image source="Quadrangle.png" width = "50%">
+  <description></description>
+  </image>
+ </figure>
+<p>
+<ol marker="(a)">
+<li><m>\vec{PQ} + \vec{QR}</m></li>
+<li><m>\vec{RP} + \vec{PS}</m></li>
+<li><m>\vec{QS} + \vec{PS}</m></li>
+<li><m>\vec{RS} + \vec{SP} + \vec{PQ}</m></li>
+</ol>
+</p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p>
+<ol marker="(a)">
+<li><m>\vec{PR}</m></li>
+<li><m>\vec{RS}</m></li>
+<li><m>\vec{QP}</m></li>
+<li><m>\vec{RQ}</m></li>
+</ol>
+</p>
+
+		</answer>
+	</exploration>
 
 </subsection>
+
+
+
+
+<subsection>
+<title>Position and Displacement Vectors</title>
+
+   <exploration xml:id="psa_mot-alpha1">
+        <title>Punting a Football</title>
+		<statement>
+		    <p>A kicker punts a football from the very center of the field to the sideline <m>42</m> yards downfield.  What is the magnitude of the net displacement of the ball in yards?</p>
+		</statement>
+		<hint>
+		    <p>A football field is <m>100</m> yards long and <m>55</m> yards wide.</p>
+		</hint>
+		<answer>
+		    <p><m>50.2</m> yards</p>
+		</answer>
+	</exploration>
+	
+	    <exploration xml:id="psa_mot-alpha2">
+        <title>The Flying Saucer</title>
+		<statement>
+		    <p>A certain flying saucer is initially located at a position <m>\vec{r}_i = 400 \hat{x} + 350 \hat{y} \mathrm{~m}</m>.  After a few minutes it has moved to a location <m>\vec{r}_f = 650 \hat{x} - 800 \hat{y} \mathrm{~m}</m>.  What is the displacement of the flying saucer? </p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p><m>\Delta \vec{r} = 250 \hat{x} - 1150 \hat{y} \mathrm{~m}</m></p>
+		</answer>
+	</exploration>
+	
+	    <exploration xml:id="psa_mot-alpha3">
+        <title>Waddling Pond</title>
+		<statement>
+		    <p>A park has a circular pond with a radius of <m>100 \mathrm{~m}</m>.  Benny starts at its westernmost point, then waddles counterclockwise around the pond until he is at its northernmost point.  What is the magnitude and direction of Benny's change in position?</p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p><m>141 \mathrm{~m}</m> northeast</p>
+		</answer>
+	</exploration>
+
+</subsection>
+
 
 
 

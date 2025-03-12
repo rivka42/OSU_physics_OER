@@ -24,13 +24,11 @@
 	<p>The study of the motion is sometimes called mechanics.  Mechanics is an expansive name that itself includes many related ideas, including forces, energy, and momentum.  You will study two branches of mechanics: first, you will study <alert>how</alert> objects move through space (sometimes called kinematics); then you will study <alert>why</alert> objects move (sometimes called dynamics).</p>
 	</note>
 	
-	<p>Another way to define physics is as a collection of practices.  Physics is a systematic way of looking at the world that involves building <em>quantitative models</em> and <em>mechanistic explanations</em> for why real-world objects and systems behave the way they do.  Eventually, such models and explanations will be rich and detailed, including one or more systems, assumptions or idealizations, graphs or diagrams, laws and equations, and calculations or estimates.  You will start with a core idea that will inform your future work: how to construct an <term>explanation</term>.</p>
+	
 
-	  <figure xml:id="fig_explanation">
-		 <caption>Steps to follow when giving an explanation.</caption>
-		<image source="ExplanationSteps.png" width = "85%">
-			<description>Explanations in Physics.  1. Principles – what fundamental physics concepts, laws, or definitions did you start with?  2. Reasoning – explain all the reasoning steps to go from your starting point to your conclusion.  3. Conclusion – state your conclusion clearly.</description></image>
-  </figure>	
+
+	
+	
 	
 				<exercises>
 				<title>Explanation Activity</title>
@@ -38,6 +36,7 @@
 						<statement>
 							<p>An example of how you might talk about motion in your everyday life is the expression "distance equals rate times time."  Use this as a fundamental concept to practice constructing an explanation for the context below.</p>
 							<p>You and a friend are driving in separate cars from the city of Corvallis to its neighboring city of Albany.  You travel at a speed that is just under the speed limit, while your friend travels at a speed that is just over the speed limit.  Which of you arrives in Albany first?</p>
+							<p>Make sure to include and label all three steps outlined in <xref ref="fig_explanation"/>.</p>
 						</statement>
 						<hint>Sometimes you need to make additional assumptions in order to answer a question.  What assumptions might be important here?</hint>
 						<answer>Your friend arrives first!</answer>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_reps-of-motion" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Representations of Motion</title>
+	
+	<p>You now have two major quantities for describing motion: <em>position</em> and <em>velocity</em>.  You want to make sure both kinds of quantities can be encoded in a <em>motion diagram</em>.</p>
+	
+			<lemma xml:id="rep_motion-diagrams-velocity">
+			<title>Motion Diagram</title>
+			<statement>
+				<p>A <term>motion diagram</term> is a physical representation in which an object is represented at different <em>positions</em> that are separated by <em>equal time intervals</em>.  For each instant, you can draw and label a vector indicating the velocity of our object of interest.</p>
+			</statement>
+		</lemma>
+	
+			<p>The simplest possible motion is motion along a straight-line path with a constant, unvarying speed. Let's imagine a car that is driving to the right at a constant speed. Suppose you take images at a regular time interval, once every second:</p>
+		
+  <figure xml:id="mot_car-with-constant-v">
+		 <caption>A stroboscopic diagram of a car moving at constant speed.</caption>
+		<image source="car with constant velocity.png" width = "75%">
+			<description>Six pictures of a car arranged horizontally.  A blue arrow above each car points to the right.</description></image>
+  </figure>
+	
+	<p>You can apply the particle model and represent the car as a point object, creating a motion diagram showing the position of the car at each instant of time and the corresponding displacement vectors.</p>
+	
+  <figure xml:id="mot_car-with-constant-v-diagram">
+		 <caption>A motion diagram of a car moving at constant speed.</caption>
+		<image source="motion diagram car constant velocity.png" width = "75%">
+			<description>Six horizontally spaced dots, each dot separated by a labeled arrow.</description></image>
+  </figure>	
+	
+	<p>Notice that the displacement vectors are equal in length when the car moves at constant speed.</p>
+	
+	<exercises>
+	<title>Practice Activities</title>
+	<exercise>
+	<title>Extending Your Previous Work</title>
+	<p>Recall the motion diagram you made for the ball rolling across the floor: <xref ref="mot_vb-ball-floor"></xref>.</p>
+	<p>At each point on your diagram, add a vector representing the instantaneous velocity at that instant.  You should be able to explain how you used the position vectors you have already drawn to determine both the magnitude and the direction of your new velocity vectors.</p>
+	</exercise>
+    <p>
+      <alert>Use the strobe diagram below for the remaining exercises.</alert>  The diagram shows a ball moving from left to right.  A total of <m>1 \mathrm{~s}</m> has passed between each successive dot.  The distance between the leftmost and rightmost points is <m>12 \mathrm{~m}</m>.
+    </p>
+		<figure xml:id="mot_MotionA">
+		  <caption>A strobe diagram.</caption>
+      <image source="MotionA.png" width = "100%">
+			<description>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.</description>
+			</image>
+    </figure>
+			<exercise xml:id="x_practice-rep-vel">
+			<title>Practice Creating a Motion Diagram</title>
+			<p>
+			Use the strobe diagram to make a <term>motion diagram</term> with both position and velocity vectors.
+			</p>
+			</exercise>
+			<exercise>
+			<title>Explanation</title>
+			  <p>Describe how the velocity of the ball is changing. Explain how you can tell from the strobe diagram.</p>
+			</exercise>
+			<exercise>
+			<title>Calculation</title>
+			<statement>
+			<p>What is the average speed during the motion?</p>
+			</statement>
+			<hint>
+			<p>Recall the steps for performing a calculation from <xref ref="fig_calculation"></xref>.</p>
+			</hint>
+			<answer>
+			<p><m>v_{ave} = 2 \mathrm{~m/s}</m></p>
+			</answer>
+			</exercise>
+			<exercise>
+			<title>Explanation</title>
+			<statement>
+			  <p>Is the instantaneous speed at the point in the middle <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the average speed?  Explain your reasoning.</p>
+				</statement>
+				<answer>
+				<p>Greater than!</p>
+				</answer>
+			</exercise>
+		</exercises>
+  
+
+	
+</section>
+

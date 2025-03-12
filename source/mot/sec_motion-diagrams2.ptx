@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_motion-diagrams2" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Motion Diagrams</title>
+
+	<exercises>
+	<title>Activity: Drawing a Motion Diagram</title>
+			
+			<p>Watch the video below of an instructor rolling a ball across the floor.</p>
+				
+			<figure xml:id="mot_vb-ball-floor">
+						<caption>A ball rolls across the floor.</caption>
+						<video youtube="n4hoKgGRx_k"></video>
+      </figure>
+
+			<exercise xml:id="x_md-ball">
+			<statement>
+			  <p>Describe the motion of the ball <em>between the green markers</em> in words.  Use complete sentences.​  Did you make any assumptions or idealizations about the ball's motion? </p>
+				</statement>
+				<!--
+				<hint>
+				<p>When you make an assumption or idealization, remember to follow the steps in <xref ref="fig_assumptions"/>.</p>
+				</hint>
+				-->
+			</exercise>
+			
+						<lemma xml:id="r_strobe-diagram">
+			<title>Strobe Diagram</title>
+			<statement>
+				<p>A <term>strobe diagram</term> is a physical representation in which an object is represented at different <em>instants in time</em> that are separated by <em>equal time intervals</em>.  For each instant, you can draw a vector (starting at the origin) to represent the object's <term>position</term>.</p>
+			</statement>
+		</lemma>
+		
+		<note>
+		<title>Representations in Physics</title>
+		<p>You will encounter many different representations in physics.  In fact, you have already seen several other representations, including numerical values, symbolic equations, and even verbal descriptions!  Diagrams, graphs, and other visual representations are especially common and useful, as they give you alternative ways to display information in a way that is often compact, simple, and useful.</p>
+		</note>
+			
+			<exercise>
+			<statement>
+			  <p>Draw a motion diagram for the ball when it is between the green markers.</p>
+				</statement>
+				<hint>
+				<p>
+				Make sure to choose a coordinate system with an origin!
+				</p>
+				</hint>
+				<answer>
+				<p>Depending on your assumptions, you might have a diagram like the one below.</p>
+				<figure xml:id="mot_StrobeDiagram">
+		  <caption>A strobe diagram.</caption>
+      <image source="StrobeDiagram.png" width = "100%">
+			<description>Five dots distributed equally along a horizontal line.</description>
+			</image>
+    </figure>
+				</answer>
+								<!--
+				<solution>
+							<figure xml:id="mot_vel-sol">
+						<caption>Solution discussion.</caption>
+						<video youtube="K2-CUYB0PTA"></video>
+      </figure>
+				</solution>
+				-->
+							</exercise>
+							
+							
+			<p>You will typically use a strobe diagram to make an even richer representation known as a <alert>motion diagram</alert>.</p>
+			
+			<lemma xml:id="r_motion-diagram">
+			<title>Motion Diagram</title>
+			<statement>
+				<p>A <term>motion diagram</term> is a physical representation in which an object is represented at different <em>instants in time</em> that are separated by <em>equal time intervals</em>.  For each instant, you should draw a vector representing the object's <term>velocity</term>.</p>
+			</statement>
+		</lemma>
+		
+		<exercise>
+	<p>At each point on your diagram, add a vector representing the instantaneous velocity at that instant.  You should be able to explain how you used the position vectors you have already drawn to determine both the magnitude and the direction of your new velocity vectors.</p>
+	</exercise>
+	
+	<p>It is also common to add <alert>acceleration</alert> vectors to a motion diagram by repeating the process above.  It can be helpful to use clear labels along with a different color and scale for the acceleration vectors to distinguish them from the velocity vectors.</p>
+	
+			<exercise>
+	<p>At each point on your diagram, add a vector representing the instantaneous acceleration at that instant.  You should be able to explain how you used the velocity vectors you have already drawn to determine both the magnitude and the direction of your new acceleration vectors.  Make sure your acceleration vectors are consistent with any assumptions you made about the acceleration at the beginning of the activity.</p>
+	</exercise>
+			
+		</exercises>
+		
+			<example>
+		<title>Dr. Paws on the Run</title>
+		<video youtube="_nO9GlsTdfU"><description>An example of a simple motion diagram being created.</description></video>
+		</example>
+		
+</section>
+

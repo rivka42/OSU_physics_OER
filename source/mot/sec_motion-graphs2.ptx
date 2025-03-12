@@ -14,8 +14,15 @@
 			</statement>
 		</lemma>
 		
-    <p>
-		It is often useful to create motion graphs alongside motion diagrams to provide multiple ways of representing the same motion. Below are motion diagrams and motion graphs for the same car undergoing three different possible kinds of motion.
+			<note>
+	<title>Diagrams vs. Graphs</title>
+	<p>It is often useful to create motion graphs alongside motion diagrams to provide multiple ways of representing the same motion.  There is a distinction between the two representations, however: the motion diagram has one image for each equal <m>\Delta t</m>. The position vs. time and velocity vs. time graphs also have equally spaced time increments, but unlike the strobe diagram, they are equally spaced along the axes. The two ways of visualizing motion are qualitatively correct, but you cannot make a direct vertical comparison.</p>
+	</note>
+		
+		<example>
+		<title>Three Motion Graphs</title>
+		<p>
+		Below are motion diagrams and motion graphs for the same car undergoing three different possible kinds of motion.
     </p>
   
 <figure xml:id="mot_car-1">
@@ -27,11 +34,9 @@
 					<image source="motion graph slowing down.png" width = "75%">
 			<description>To be filled.</description></image>
   </figure>	
+	</example>
 	
-	<note>
-	<title>Diagrams vs. Graphs</title>
-	<p>There is a distinction between the two representations: the motion diagram has one image for each equal <m>\Delta t</m>. The position vs. time and velocity vs. time graphs also have equally spaced time increments, but unlike the strobe diagram, they are equally spaced along the axes. The two ways of visualizing motion are qualitatively correct, but you cannot make a direct vertical comparison.</p>
-	</note>
+
 	
 		<exercises>
 		<title>Activities</title>
@@ -39,10 +44,12 @@
 			<title>Summarize What You Learned</title>
 			<p>You know that velocity and position are related by <m>\vec{v} = \frac{d\vec{r}}{dt}</m>.  How does this relationship appear on graphs of velocity and position vs. time for the same object?</p>
 			</exercise>
+			<!--
 			<exercise xml:id="x_practice-making-motion-graphs">
 			<title>Practice Creating a Motion Graph</title>
 			<p>Recall <xref ref="mot_MotionA"></xref>.  Sketch motion graphs for the ball showing position vs. time and velocity vs. time.</p>
 			</exercise>
+			-->
 			<exercise xml:id="x_practice-int-motion-graphs">
 			<title>Practice Interpreting a Motion Graph</title>
 			<p>The graph of position vs. time below shows the location of a skydiver.  Use the graph to create (1) a description in words of the skydiver's motion, (2) a graph of the skydiver's velocity vs. time, and (3) a motion diagram for the skydiver.</p>

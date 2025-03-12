@@ -10,6 +10,53 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 	
+	<subsection>
+	<title>Explanation Task Instructions</title>
+	
+	<p>Physics is a systematic way of looking at the world that involves building <em>quantitative models</em> and <em>mechanistic explanations</em> for why real-world objects and systems behave the way they do.  When you provide an explanation, include the steps detailed below.</p>
+	
+		  <figure xml:id="fig_explanation">
+		 <caption>Steps to follow when giving an explanation.</caption>
+		<image source="ExplanationSteps.png" width = "100%">
+			<description>Explanations in Physics.  1. Principles – what fundamental physics concepts, laws, or definitions did you start with?  2. Claims – clearly state your claims about the situation.  3. Reasoning – explain all the reasoning steps to go from your starting point to your conclusion.  3. Conclusion – state your conclusion clearly.</description></image>
+  </figure>	
+	
+	<example xml:id="ex_park-explanation">
+	<title>Rectangular Park I</title>
+	<p>
+	     You manage parks for Corvallis, and you are comparing two rectangular parks that have the same total area.  Park 1 is 2 km long, while park 2 is 3 km long.  Is the width of park 2 greater, less than, or equal to the width of park 1?
+	</p>
+<p>
+     <ol>
+		     <li><em>Building Blocks</em>: If <m>l</m> is the length and <m>w</m> is the width of a rectangular park, the area is <m>A_{rectangle} = lw</m>.</li>
+		     <li><em>Claims</em>: Since the area of the two parks is constant, we can say that <m>A_1 = A_2</m> or alternatively <m>l_1 w_1 = l_2 w_2</m>.</li>
+		     <li><em>Reasoning</em>: Since <m>l_2</m> is greater than <m>l_1</m>, we must have that <m>w_2</m> is smaller than <m>w_1</m> to keep the product of l and w the same for the two parks.  The width of park 2 is less than the width of park 1.  A way of making sense of this is to draw pictures of two example parks that have different widths but the same area.</li>
+		</ol>
+</p>
+
+<figure xml:id="fig_park-area">
+		 <caption>Two rectangles, one with greater length than the other.</caption>
+		<image source="park-area.png" width = "60%">
+			<description></description></image>
+  </figure>	
+	
+	<p><alert>Commentary</alert></p>
+	
+	<p>
+     <ol>
+		     <li><em>Building Blocks</em>: The Building Block for this problem is relatively simple!  Sometimes you will only have one simple Building Block like in this problem, while other times you may have several.</li>
+		     <li><em>Claims</em>: An important claim here is that the parks have the same area.  Note that even though this is stated in the problem, make sure you list it here—often there is information in the problem statement that is not directly relevant or necessary to consider.</li>
+		     <li><em>Reasoning</em>: Note that you should go through every step of the reasoning here, starting from our Building Block: first, from the claim that two areas are equal, use proportional reasoning to go from the given relationship between <m>l</m>’s to the desired relationship between <m>w</m>’s.  You can mix words, symbols, and even pictures in your reasoning!</li>
+		</ol>
+</p>
+	
+</example>
+
+</subsection>
+
+<subsection>
+<title>Explanation Tasks</title>
+
 	<p><em>Don't ignore the tips!  They can help make sure you don't lose points for overlooking something obvious.</em></p>
 	
 	 	<investigation xml:id="ch_vec-1">
@@ -17,7 +64,7 @@
 		<statement>
 		<p></p>
 		
-		<p>Make sure to include and label all three steps outlined in <xref ref="fig_explanation"/>.</p>
+		
 		
 		    <p>In each case below, the top vector is being subtracted from the bottom vector. All of the vectors have the same magnitude.  Is the magnitude of the difference in the left case <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the difference in the right case?</p>
 				 <figure xml:id="fig_vector-pairs">
@@ -37,19 +84,13 @@
 		-->
 	</investigation>
 	
-	
-	
-	
-	
-	
+			
 		 	<investigation xml:id="ch_vec-2">
         <title>A Walk in the Park</title>
 		<statement>
 		<p></p>
 		
-		<p>Make sure to include and label all three steps outlined in <xref ref="fig_explanation"/>.</p>
-		
-		    <p>You have been asked to walk Dr. Paws around a large park.  Dr. Paws always walks north first, then turns and walks in a different direction for the same distance, and last she turns again and walks in another different direction for the same distance.  At the end of the walk, you find yourself back at the exact position where you started!  Give an explanation for how this is possible.</p>
+		    <p>You have been asked to walk Dr. Paws around a large park.  Dr. Paws always walks north first, then turns and walks in a different direction for the same distance, and last she turns again and walks in another different direction for the same distance.  At the end of today's walk, you find yourself back at the exact position where you started!  Give an explanation for how this is possible.</p>
 
 		</statement>
 		<hint>
@@ -58,11 +99,12 @@
 
 	</investigation>
 
+</subsection>
 
-
 	
 	
-	
+	<subsection>
+	<title>Calculation Activities</title>
 	
 	<activity xml:id="ch_vec-3">
         <title>The Trees upon the Hillside</title>
@@ -144,7 +186,14 @@
 		
 	</activity>
 	
+	</subsection>
 	
+	<subsection>
+	<title>Reflection</title>
+	<p>
+	     Choose at least one of the Challenge Activities.  Reflect on how this activity was similar to or different from other activities you worked on throughout this chapter (these can be in or out of class activities).  Cite specific activities by name and be specific about how the <em>solutions</em>, not just the activities themselves, were related.  Include a sentence at the end about why you think a reflection activity like this might be useful in helping you learn physics.
+	</p>
+	</subsection>
 	
 	
 	
