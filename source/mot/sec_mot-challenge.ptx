@@ -9,28 +9,30 @@
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
+
 	
 <subsection>
 <title>Explanation Tasks</title>
 
+<p>If necessary, review the steps in <xref ref="fig_explanation"/>.</p>
+
 <investigation xml:id="psa_mot-8">
         <title>Moving Cars</title>
 		<statement>
+		<p></p>
 		    <p>At <m>t_1</m>, car A and car B are each located at position <m>x_o</m> moving forward at speed <m>v</m>.  At <m>t_2</m>, car A is located at position <m>2x_o</m> moving forward at speed <m>3v</m>, while car B is located at position <m>2x_o</m> but is moving backward at speed <m>v</m>.</p>
 		    <p>Is the average velocity of car A between <m>t_1</m> and <m>t_2</m> <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the average velocity of car B between <m>t_1</m> and <m>t_2</m>?</p>
 		</statement>
-		<hint>
-		    <p>Explaining your reasoning, as outlined in <xref ref="fig_explanation"/>, is usually the most important part of an activity like this!</p>
-		</hint>
 	</investigation>
 	
 		<investigation xml:id="psa_mot-9">
         <title>Bouncing Bumper Cars</title>
 		<statement>
+		<p></p>
 		    <p>Two bumper cars roll toward each other as shown in the figure below.  The left side shows the cars before they bounce and the right side shows the cars after they bounce.  The vector beside each car represents the velocity of the car at that instant.</p>
 				<figure xml:id="fig_motion-bumper-cars">
   <caption>Two bumper cars before and after a collision.</caption>
-  <image source="Bumper-Cars.png" width = "25%">
+  <image source="Bumper-Cars.png" width = "40%">
   <description></description>
   </image>
  </figure>
@@ -40,10 +42,73 @@
 		    <p>Sketch vectors to represent the change in velocity for each bumper car.</p>
 		</hint>
 	</investigation>
+	
+				<investigation xml:id="psa_mot-10">
+        <title>Ramp Timing</title>
+		<statement>
+		<p></p>
+		    <p>You release a ball from rest at the top of a ramp and decide to assume that the ball’s acceleration is constant as it speeds up moving down the ramp.  You observe the ball at three times while it is on the ramp: <m>t_A = 1.5  \mathrm{~s}</m>, <m>t_B = 3.0 \mathrm{~s}</m>, and <m>t_C = 4.5 \mathrm{~s}</m>.  Using these observations, you determine <m>\Delta v_{AB}</m> (the change in velocity between <m>t_A</m> and <m>t_B</m>) and <m>\Delta v_{BC}</m> (the change in velocity between <m>t_B</m> and <m>t_C</m>).</p>
+		    <p>Is the magnitude of <m>\Delta v_{BC}</m> <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of <m>\Delta v_{AB}</m>?</p>
+		</statement>
+	</investigation>
 
 </subsection>
 
 
+
+
+	<subsection>
+	<title>Calculation Activities</title>
+
+<activity xml:id="ch_mot-1">
+        <title>The 100-meter Dash</title>
+		<introduction>
+		<p></p>
+		    <p>In a race with a total distance of <m>d = 100 \mathrm{~m}</m>, the winner is timed at <m>t_1 = 11.2 \mathrm{~s}</m>. The second-place finisher’s time is <m>t_2 = 11.6 \mathrm{~s}</m>. How far is the second-place finisher behind when the winner crosses the finish line? Assume the velocity of each runner is constant throughout the race.
+				</p>
+		</introduction>
+		
+				<task>
+		<title>Calculate</title>
+		<statement>
+		<p>Follow the steps in <xref ref="fig_calculation"/> to perform the calculation.  Most of the credit will be given for your <alert>symbolic calculation</alert>.</p>
+		</statement>
+		</task>
+		
+		<task>
+		<title>Sensemake</title>
+		<statement>
+		<p>Use covariational reasoning for each of the three given quantities: <m>d</m>, <m>t_1</m>, and <m>t_2</m>.  The steps for sensemaking are in <xref ref="fig_sensemaking"/>.</p>
+		</statement>
+		</task>		
+
+	</activity>
+
+</subsection>
+
+<!-- I'm not sure I like this activity that much anymore, so it's hidden
+
+	<investigation xml:id="psa_mot-3">
+        <title>Ramp Experiment</title>
+		<statement>
+		    <p>You release a ball from rest at the top of a ramp and measure the amount of time for the ball to reach the base of the ramp.  Your friend performs the same experiment (with the same ball) with their ramp, which is the same length as your ramp.  Your friend determines that it took more time for the ball to reach the bottom of their ramp than it did for the ball to reach the bottom of your ramp.</p>
+		    <p>Is the magnitude of the average acceleration of the ball for your friend’s ramp <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the average acceleration of the ball for your ramp?</p>
+		</statement>
+		<hint>
+		    <p></p>
+		</hint>
+		<solution>
+		    <p></p>
+		</solution>
+	</investigation>
+	
+	-->
+	
+	<references>
+	<biblio xml:id="ref_openstax-mot">
+	<p>The 100-meter Dash activity adapted from Openstax: https://openstax.org/books/university-physics-volume-1/pages/3-challenge-problems.</p>
+	</biblio>
+</references>
 	
 </section>
 

@@ -8,7 +8,9 @@
 <definition xml:id="def_position">
 	<title>Position</title>
 	<statement>
+	<p></p>
 		<p>The <term>position</term> of an object, represented with the symbol <m>\vec{r}</m>, describes the location of that object relative to some origin as a vector quantity.</p>
+		<p></p>
 	</statement>
 </definition>
 
@@ -18,6 +20,7 @@
 
 	<definition>
 <title>Unit Vectors</title>
+<p></p>
 <p>
 Symbols like <m>\hat{x}</m> and <m>\hat{y}</m> are special vectors called <em>unit vectors</em> or basis vectors.  A unit vector has the following properties:
 </p>
@@ -47,6 +50,7 @@ Symbols like <m>\hat{x}</m> and <m>\hat{y}</m> are special vectors called <em>un
 	
 	<axiom>
 	<title>Breaking a Vector into Components</title>
+	<p></p>
 	<p>
 	     One of the most important skills to master in physics is <term>breaking a vector into components</term>.</p>
 	<p>Sketch a right triangle, like the one in the figure above, in which the <m>x</m>- and <m>y</m>-components form the legs and the vector itself forms the hypotenuse.  In the equation <m>\vec{r} = r_x \hat{x} + r_y\hat{y}</m>, the scalar values <m>r_x</m> and <m>r_y</m> are called the <alert>components</alert> of <m> \vec{r}</m>.</p>
@@ -83,6 +87,7 @@ You will start by using the Cartesian coordinates that are probably familiar fro
 		<exercise xml:id="x_positions-comps">
 		<title>Finding Position Components</title>
 		<statement>
+		<p></p>
 		<p>Use what you know about triangles and vector components to write equations relating <m>r_x</m> and <m>r_y</m> to <m>r</m> (the magnitude of the position) and <m>\theta</m>.</p>
 		</statement>
 		<answer>
@@ -94,6 +99,7 @@ You will start by using the Cartesian coordinates that are probably familiar fro
 		</exercise>
 			<exercise xml:id="x_state-vectors">
 			<title>State Vectors</title>
+			<p></p>
 			<p>Choose a different state (or country) than Oregon and find a simple map.  Mark a few of the major cities or landmarks on the map (at least three).
 			<ol marker="a">
 			<li>

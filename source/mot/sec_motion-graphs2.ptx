@@ -52,7 +52,7 @@
 			-->
 			<exercise xml:id="x_practice-int-motion-graphs">
 			<title>Practice Interpreting a Motion Graph</title>
-			<p>The graph of position vs. time below shows the location of a skydiver.  Use the graph to create (1) a description in words of the skydiver's motion, (2) a graph of the skydiver's velocity vs. time, and (3) a motion diagram for the skydiver.</p>
+			<p>The graph of position vs. time below shows the location of a skydiver.  Use the graph to create (1) a description in words of the skydiver's motion, (2) a graph of the skydiver's velocity vs. time, and (3) a motion diagram for the skydiver.  Include an estimate of the skydiver's speed at <m>t = 26</m> s.</p>
 			</exercise>
 			<figure xml:id="mot_skydiver">
 		 <caption>A graph of position vs. time for a skydiver</caption>

@@ -51,12 +51,14 @@ Another, common example of a vector is <alert>velocity</alert>. Velocity is a qu
 		<exercise xml:id="x_vectors-scalars">
 		<title>Explore Vectors and Scalars</title>
 		<statement>
+		<p></p>
 		<p>Make a list of physical quantities you are familiar with from your everyday experience.  For each quantity, do you think it would be better to represent it as a <em>scalar</em> or as a <em>vector</em>?</p>
 		</statement>
 		</exercise>
 				<exercise xml:id="x_length">
 		<title>Explore Magnitude</title>
 		<statement>
+		<p></p>
 		<p>A vector is typically represented graphically by an arrow.  Which property of the arrow do you think represents the magnitude of the vector?  How would you represent two vectors that have the same direction but different magnitudes?</p>
 		</statement>
 		</exercise>

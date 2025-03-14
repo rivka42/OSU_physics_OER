@@ -28,26 +28,29 @@
 		
 		
 		<!--PREPARE SECTIONS-->
-		
-		
-		<!--PRACTICE SECTIONS-->
-		
-		
-		<!--CHALLENGE SECTIONS-->
-	
-
-	<xi:include href="./for/sec_gravity.ptx" />
+			<xi:include href="./for/sec_gravity.ptx" />
 	<xi:include href="./for/sec_gravitational-field.ptx" />
 	<xi:include href="./for/sec_gravity-near-earth.ptx" />
+			<xi:include href="./for/sec_static-friction.ptx" />
+	<xi:include href="./for/sec_kinetic-friction.ptx" />
+		<xi:include href="./for/sec_tension.ptx" />
+	<xi:include href="./for/sec_elastic-force.ptx" />
+					<xi:include href="./for/sec_ideal-pulleys.ptx" />
+					
+					
+		<!--PRACTICE SECTIONS-->
+		
+		<xi:include href="./for/sec_for-practice.ptx" />
+		
+		<!--CHALLENGE SECTIONS-->
+	<xi:include href="./for/sec_for-challenge.ptx" />
+
+
 	<xi:include href="./for/sec_solving-forces1.ptx" />
 	<xi:include href="./for/sec_special-cases.ptx" />
-	<xi:include href="./for/sec_static-friction.ptx" />
-	<xi:include href="./for/sec_kinetic-friction.ptx" />
-	<xi:include href="./for/sec_tension.ptx" />
-	<xi:include href="./for/sec_elastic-force.ptx" />
 	<xi:include href="./for/sec_solving-forces2.ptx" />
 	<xi:include href="./for/sec_forces-summary.ptx" />
-	<xi:include href="./for/sec_for-practice.ptx" />
+	
 	
 	<!--
 	  <xi:include href="./for/sec_what-are-forces.ptx" />

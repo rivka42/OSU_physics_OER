@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_lom-challenge" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Challenge - Forces</title>
+	
+	<!--
+	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
+	If you want an Explain activity, use the <investigation> tag.
+		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
+	If you want a Calculate activity, use the <exploration> tag.
+	-->
+	
+	<subsection>
+	<title>Explanation Tasks</title>
+	
+	  <investigation xml:id="psa_for-05">
+        <title>Three Cars Redux</title>
+		<statement>
+		<p></p>
+		    <p>Recall <xref ref = "x_three-cars"></xref>. Answer this question again. As part of your explanation, discuss how your answer, your reasoning, or your understanding has changed since you first thought about this task.</p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+	</investigation>
+	
+	    <investigation xml:id="psa_for-05a">
+        <title>The Angled Block</title>
+		<statement>
+		<p></p>
+		    <p>In the two situations depicted below, an angled block is at rest on a ramp.  In each case, a hand pushes on the block with constant force.  In Case A, the hand pushes on the upper horizontal surface of the block.  In Case B, the hand pushes on the upper angled surface with a constant force of the same magnitude.  In both cases, the block remains at rest on the ramp.</p>
+				<figure xml:id="for_x-angled">
+		 <caption>A hand pushes on different surfaces on a block on a ramp.</caption>
+		<image source="Angled.png" width = "50%">
+			<description></description></image>
+  </figure>
+				<p>Part A: Is the magnitude of the net force on the block in Case B <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the net force in Case A?</p>
+				<p>Part B: Is the magnitude of the frictional force exerted on the block by the ramp in Case B <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the frictional force in Case A?</p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+	</investigation>
+	
+	</subsection>
+	
+	<subsection>
+	<title>A*R*C*S Activities</title>
+	
+		<project xml:id="psa_for-07">
+        <title>The Gymnast</title>
+		<statement>
+		<p></p>
+		    <p>A gymnast is training by hanging from two ropes attached to the ceiling, as shown in the figure. The angles <m>\theta</m> and <m>\alpha</m> are different.  The gravitational force on the gymnast is 750 N downward.  Determine the magnitude of the tension in each rope.</p>
+				<figure xml:id="for_x-athlete">
+		 <caption>A gymnast suspended by two ropes.</caption>
+		<image source="Athlete.png" width = "30%">
+			<description></description></image>
+  </figure>
+		</statement>
+		<hint>
+		    <p>As part of your symbolic sensemaking (part 3c), use special-case analysis in the case that the two angles are equal to each other.</p>
+		</hint>
+	</project>
+	
+	
+	</subsection>
+	
+	
+	
+	
+	
+	
+
+
+</section>
+

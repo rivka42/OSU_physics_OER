@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_lom-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Practice - Forces</title>
+	
+	<!--
+	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
+	If you want an Explain activity, use the <investigation> tag.
+		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
+	If you want a Calculate activity, use the <exploration> tag.
+	-->
+
+<subsection>
+<title>Practice</title>
+
+	<exploration xml:id="psa_for-alpha1">
+		<title>Balancing the forces</title>
+		<statement>
+			<p>Each of the following (2-dimensional) free-body diagrams shows the directions of all the forces that are acting on an object. If the magnitude of each force can be adjusted to any non-zero value <em>but its direction cannot be changed</em>, which of the objects can be put into equilibrium?</p>
+			<figure xml:id="fig_force-balance-forces">
+			<caption></caption>
+			<image source="balance_forces.png" width = "100%">
+				<description></description>
+			</image>
+		</figure>
+		</statement>
+		<answer>
+			<p>(1), (2), and (5)</p>
+		</answer>
+	</exploration>
+
+	<exploration xml:id="psa_for-alpha2">
+		<title>Teapot</title>
+		<statement>
+			<p>A person pushes a cart to the left at constant velocity across a level floor. A teapot sits on the cart without slipping. Assume there is no air resistance. Choose the correct free-body diagram for the teapot.</p>
+		<figure xml:id="fig_force-teapot">
+			<caption></caption>
+			<image source="teapot.png" width = "100%">
+				<description></description>
+			</image>
+		</figure>	
+		</statement>
+		<answer>
+			<p>(1)</p>
+		</answer>
+	</exploration>
+
+</subsection>
+
+<references>
+	<biblio xml:id="ref_boxsand-lom">
+	<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+	</biblio>
+</references>
+
+</section>
+

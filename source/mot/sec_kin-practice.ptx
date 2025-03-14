@@ -13,6 +13,24 @@
 <subsection>
 <title>Numerical Practice</title>
 
+		    <exploration xml:id="psa_mot-alpha9">
+        <title>The Race Car</title>
+		<statement>
+		    <p>A race car can accelerate from rest to incredible speeds.  In one case, a dragster is able to finish the <m>305 \mathrm{~m}</m> run in <m>3.64 \mathrm{~s}</m> (and it continues to accelerate throughout this time)!  What was the magnitude of the average acceleration during this run?  What is the top speed of the dragster?</p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p><m>46.0  \mathrm{~m/s^2}</m></p>
+		</answer>
+		<answer>
+		    <p><m>168  \mathrm{~m/s}</m></p>
+		</answer>
+	</exploration>
+
    		    <exploration xml:id="psa_mot-alpha10">
         <title>The Comfortable Train</title>
 		<statement>

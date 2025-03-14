@@ -18,6 +18,7 @@
 	    <exploration xml:id="psa_mot-alpha4">
         <title>Mysterious Object I</title>
 		<statement>
+		<p></p>
 		    <p>At a certain moment in time, an object was located at <m>\vec{r}_1 = \hat{x} + 4 \hat{y} \mathrm{~m}</m>.  At some later moment, it is located at <m>\vec{r}_2 = -1 \hat{x} - 1 \hat{y} \mathrm{~m}</m>.  The object's average velocity for this motion was <m>\vec{v}_{ave} = -0.2 \hat{x} -0.5 \hat{y} \mathrm{~m/s}</m>.  How much time elapsed during the motion?</p>
 		</statement>
 		<!--
@@ -33,6 +34,7 @@
 	    <exploration xml:id="psa_mot-alpha5">
         <title>Mysterious Object II</title>
 		<statement>
+		<p></p>
 		    <p>At one moment, an object was at location <m>\vec{r}_1 = \hat{x} + 5 \hat{y} \mathrm{~m}</m>, traveling with velocity <m>\vec{v}_1 = 3 \hat{x} + 2 \hat{y} \mathrm{~m/s}</m>.  At some later moment, the object was traveling with velocity <m>\vec{v}_2 = 5 \hat{x} + 7 \hat{y} \mathrm{~m/s}</m>.  The average acceleration of the object during this time period was <m>\vec{a}_{ave} = 0.1 \hat{x} + 0.25 \hat{y} \mathrm{~m/s^2}</m>.  How much time elapsed during this motion?</p>
 		</statement>
 		<!--
@@ -48,6 +50,7 @@
 	    <exploration xml:id="psa_mot-alpha6">
         <title>Mysterious Object III</title>
 		<statement>
+		<p></p>
 		    <p>An object, initially located at the origin, is traveling with velocity <m>\vec{v}_i = -\hat{x} - 2 \hat{y} \mathrm{~m/s}</m>. The object travels for <m>4.0 \mathrm{~s}</m> with an average acceleration of <m>\vec{a}_{ave} = 0.25 \hat{x} + 0.5 \hat{y} \mathrm{~m/s^2}</m>.  At the end of the <m>4.0 \mathrm{~s}</m>, what is the velocity of the object?</p>
 		</statement>
 		<!--
@@ -63,6 +66,7 @@
 	    <exploration xml:id="psa_mot-alpha7">
         <title>The Jumbo Jet</title>
 		<statement>
+		<p></p>
 		    <p>A jumbo jet, flying northward, is landing with a speed of <m>70 \mathrm{~m/s}</m>.  Once the jet touches down, it has <m>800 \mathrm{~m}</m> of straight, level runway in which to reduce its speed to <m>5.0 \mathrm{~m/s}</m>.  Compute the <m>x</m>-component of the jet's average acceleration during the landing.  Assume north is the positive <m>x</m>-direction.</p>
 		</statement>
 		<!--
@@ -78,6 +82,7 @@
 	    <exploration xml:id="psa_mot-alpha8">
         <title>The Sports Car</title>
 		<statement>
+		<p></p>
 		    <p>The driver of a sports car, traveling at <m>10.0 \mathrm{~m/s}</m> in the positive <m>x</m>-direction, steps down hard on the accelerator for <m>5.0 \mathrm{~s}</m>.  As a result, the velocity increases to <m>30.0 \mathrm{~m/s}</m>.  What was the average <m>x</m>-component of acceleration of the car during that <m>5.0 \mathrm{~s}</m> time interval?</p>
 		</statement>
 		<!--
@@ -90,92 +95,12 @@
 		</answer>
 	</exploration>
 	
-		    <exploration xml:id="psa_mot-alpha9">
-        <title>The Race Car</title>
-		<statement>
-		    <p>A race car can accelerate from rest to incredible speeds.  In one case, a dragster is able to finish the <m>305 \mathrm{~m}</m> run in <m>3.64 \mathrm{~s}</m> (and it continues to accelerate throughout this time)!  What was the magnitude of the average acceleration during this run?  What is the top speed of the dragster?</p>
-		</statement>
-		<!--
-		<hint>
-		    <p></p>
-		</hint>
-		-->
-		<answer>
-		    <p><m>46.0  \mathrm{~m/s^2}</m></p>
-		</answer>
-		<answer>
-		    <p><m>168  \mathrm{~m/s}</m></p>
-		</answer>
-	</exploration>
-	
 		    </subsection>
 
-<subsection>
-<title>Study</title>
 
-		<project xml:id="psa_mot-1">
-        <title>Throwing a Ball</title>
-		<statement>
-		    <p>You have a tennis ball that you throw directly upward with initial speed <m>v</m>.  The ball rises to height <m>h</m>, then falls back down.  At time <m>t</m>, you catch the ball when it is moving downward with the same speed <m>v</m>.</p>
-				<p>Determine the average velocity of the tennis ball during this time interval.</p>
-		</statement>
-		<hint>
-		    <p>When making sense of your symbolic answer, a good starting point is to check which variables your answer does and does not depend on.  As part of making sense, always make sure to discuss not just what your answer says, but what the answer should say!</p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>
-	</project>
-	
-			<project xml:id="psa_mot-2">
-        <title>Catching a Ball</title>
-		<statement>
-		    <p>You have a tennis ball that you throw directly downward at <m>t = 0</m> with speed <m>v</m>.  At <m>t = t_o</m>, after falling a distance <m>y</m>, the ball hits the ground and bounces.  At <m>t = 4t_o</m>, when the ball is moving upward with speed <m>v/3</m>, you catch the ball at the same point where you released it.</p>
-				<p>Determine the average acceleration of the tennis ball between <m>t = 0</m> and <m>t = 4t_o</m>.</p>
-		</statement>
-		<hint>
-		    <p>Velocity and acceleration are vectors!</p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>
-	</project>
-
-	<investigation xml:id="psa_mot-3">
-        <title>Ramp Experiment</title>
-		<statement>
-		    <p>You release a ball from rest at the top of a ramp and measure the amount of time for the ball to reach the base of the ramp.  Your friend performs the same experiment (with the same ball) with their ramp, which is the same length as your ramp.  Your friend determines that it took more time for the ball to reach the bottom of their ramp than it did for the ball to reach the bottom of your ramp.</p>
-		    <p>Is the magnitude of the average acceleration of the ball for your friend’s ramp <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the average acceleration of the ball for your ramp?</p>
-		</statement>
-		<hint>
-		    <p></p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>
-	</investigation>
 
 	
-
-</subsection>
-
-<subsection>
-<title>Apply</title>
-
-
-
-		<investigation xml:id="psa_mot-10">
-        <title>Ramp Timing</title>
-		<statement>
-		    <p>You release a ball from rest at the top of a ramp and decide to assume that the ball’s acceleration is constant as it speeds up moving down the ramp.  You observe the ball at three times while it is on the ramp: <m>t_A = 1.5  \mathrm{~s}</m>, <m>t_B = 3.0 \mathrm{~s}</m>, and <m>t_C = 4.5 \mathrm{~s}</m>.  Using these observations, you determine <m>\Delta v_{AB}</m> (the change in velocity between <m>t_A</m> and <m>t_B</m>) and <m>\Delta v_{BC}</m> (the change in velocity between <m>t_B</m> and <m>t_C</m>).</p>
-		    <p>Is the magnitude of <m>\Delta v_{BC}</m> <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of <m>\Delta v_{AB}</m>?</p>
-		</statement>
-	</investigation>
-	
-
-
-</subsection>
-  
+	  
 <references>
 <biblio xml:id="ref_boxsand-motion">
 <p>Numerical practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>

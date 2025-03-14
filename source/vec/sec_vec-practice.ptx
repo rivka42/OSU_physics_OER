@@ -16,6 +16,7 @@
 		    <exploration xml:id="psa_vec-alpha1">
         <title>Two Vectors I</title>
 		<statement>
+		<p></p>
 		  <p>In the following figure, the magnitudes of the vectors are <m>|\vec{a}| = 8</m> and <m>|\vec{b}| = 4.5</m>.  Assume that <m>\vec{c} = \vec{a} + \vec{b}</m> and <m>\vec{d} = \vec{a} - \vec{b}</m>.</p>
 	<figure xml:id="fig_vector-sum">
   <caption>Two vectors.</caption>
@@ -39,6 +40,7 @@
 	    <exploration xml:id="psa_vec-alpha2">
         <title>Two Vectors II</title>
 		<statement>
+		<p></p>
 		  <p>In the following figure, the magnitudes of the vectors are <m>|\vec{a}| = 5</m> and <m>|\vec{b}| = 5</m>.  Assume that <m>\vec{c} = \vec{a} + \vec{b}</m> and <m>\vec{d} = \vec{a} - \vec{b}</m>.</p>
 	<figure xml:id="fig_vector-sum2">
   <caption>Two vectors.</caption>
@@ -63,6 +65,7 @@
 		    <exploration xml:id="psa_vec-alpha3">
         <title>Vector Contest</title>
 		<statement>
+		<p></p>
 		    <p>Three vectors add together to equal <m>0</m>.  One vector has magnitude <m>3</m> and points in the positive <m>x</m>-direction; a second vector has magnitude <m>5</m> and points at <m>120^o</m> from the positive <m>x</m>-axis.  Determine the third vector as a magnitude and direction.</p>
 		</statement>
 		<!--
@@ -80,6 +83,7 @@
 	<exploration xml:id="psa_vec-alpha0">
         <title>Sums and Differences of Vectors</title>
 		<statement>
+		<p></p>
 		    <p>Use the figure to determine a single vector that is equivalent to the given summation of vectors in each of the cases below.  (The notation <m>\vec{PQ}</m> represents a vector pointing from point <m>P</m> to point <m>Q</m>.)</p>
 				<figure xml:id="fig_vector-quadrangle">
   <caption>Four points.</caption>
@@ -125,6 +129,7 @@
    <exploration xml:id="psa_mot-alpha1">
         <title>Punting a Football</title>
 		<statement>
+		<p></p>
 		    <p>A kicker punts a football from the very center of the field to the sideline <m>42</m> yards downfield.  What is the magnitude of the net displacement of the ball in yards?</p>
 		</statement>
 		<hint>
@@ -138,6 +143,7 @@
 	    <exploration xml:id="psa_mot-alpha2">
         <title>The Flying Saucer</title>
 		<statement>
+		<p></p>
 		    <p>A certain flying saucer is initially located at a position <m>\vec{r}_i = 400 \hat{x} + 350 \hat{y} \mathrm{~m}</m>.  After a few minutes it has moved to a location <m>\vec{r}_f = 650 \hat{x} - 800 \hat{y} \mathrm{~m}</m>.  What is the displacement of the flying saucer? </p>
 		</statement>
 		<!--
@@ -153,6 +159,7 @@
 	    <exploration xml:id="psa_mot-alpha3">
         <title>Waddling Pond</title>
 		<statement>
+		<p></p>
 		    <p>A park has a circular pond with a radius of <m>100 \mathrm{~m}</m>.  Benny starts at its westernmost point, then waddles counterclockwise around the pond until he is at its northernmost point.  What is the magnitude and direction of Benny's change in position?</p>
 		</statement>
 		<!--

@@ -54,14 +54,16 @@ Units for physical quantities can be divided into two categories: base units and
 
   <figure xml:id="fig_sensemaking">
 		 <caption>Steps to follow when sensemaking.</caption>
-		<image source="SensemakingSteps.png" width = "75%">
+		<image source="SensemakingSteps.png" width = "70%">
 			<description>Physics Sensemaking.  1. Choose a sensemaking strategy.  2a. What should this strategy say about the context?  2b. Give a physical reason for why it says this.  3a. What does your answer actually say?  3b. Show what it says explicitly. 4. Compare what your answer actually says and what it should say!</description></image>
   </figure>	
 
 <heuristic xml:id="sm_units">
 	<title>Check Units</title>
 	<statement>
+	<p></p>
 		<p>For any equation, including at any point while you are solving a problem, you should be able to <term>check the units</term> to make sure the units accurately describe all relevant quantities.</p>
+		<p></p>
 	</statement>
 </heuristic>
 
@@ -73,15 +75,7 @@ When we speak about the units of a quantity, we are referring to the base units 
 
 <example>
   <title>How to Check Units</title>
-	
-	<note>
-<title>Dimensions</title>
-<p>
-Sometimes, the physics will use the word dimensions to refer to the class of unit for a quantity.  For example, speed can be measured in units of km/hr, m/s, or mi/hr but the base <em>dimensions</em>, represented in square brackets, are always a length [L] divided by a time [T].
-</p>
-</note>
-
-<p>
+	<p>
 Suppose that we have derived the escape speed of a rocket from a planet of mass <m>M</m> and radius <m>R</m> (escape speed is the speed at which an object must reach to escape the gravitational pull): <m>v_{esc} = \sqrt{\frac{2GM}{R}}</m>.  As a speed, <m>v_{esc}</m> should have units like m/s (distance divided by time).
 </p>
 
@@ -99,10 +93,19 @@ We can see that the physical quantities under the square root indeed have base u
 
 </example>
 
+	<note>
+<title>Dimensions</title>
+<p>
+Physics uses the word dimensions to refer to the class of unit for a quantity.  For example, speed can be measured in units of km/hr, m/s, or mi/hr but the base <em>dimensions</em>, represented in square brackets, are always a length [L] divided by a time [T].
+</p>
+</note>
+
 <heuristic xml:id="sm_numbers">
 	<title>Check Numbers</title>
 	<statement>
+	<p></p>
 		<p>For any numerical value (with units), you want to have a sense for how reasonable the value is given numerical values for other (possibly related) contexts with the same units.  You also want to know whether the number should be positive or negative (if it is a scalar) or what direction it should point (if it is a vector).</p>
+		<p></p>
 	</statement>
 </heuristic>
 
@@ -121,6 +124,7 @@ We can see that the physical quantities under the square root indeed have base u
 			<exercise xml:id="x_identifying-units">
 			<title>Practice Identifying Units</title>
 			<statement>
+			<p></p>
 			  <p>Below is a list of symbols we commonly use in physics to represent physical quantities.  For each symbol, indicate the units you would expect for the corresponding quantity.</p>
 				<ol>
 				<li><m>t</m> (time)</li>
@@ -148,6 +152,7 @@ We can see that the physical quantities under the square root indeed have base u
 			<exercise>
 			<title>Practice Checking Units</title>
 			<statement>
+			<p></p>
 			  <p>Your friend has developed a new engine that creates carbon dioxide gas.  Your friend shows you an equation they created relating the volume of gas created (<m>V</m>) to the width of the engine (<m>w</m>), the amount of time the engine has been running (<m>\Delta t</m>), and the mass of a single molecule of carbon dioxide (<m>M</m>): <m>V = k\frac{w^2\Delta t}{M}</m>.  Use what you know about the other symbols in the problem to determine the units of <m>k</m>.</p>
 				</statement>
 				<answer>
@@ -157,6 +162,7 @@ We can see that the physical quantities under the square root indeed have base u
 			<exercise>
 			<title>Practice Identifying an Error with Units</title>
 			<statement>
+			<p></p>
 			  <p>While looking through a mathematics textbook, you come across the following equation for the surface area of a cylinder: <m>A = 2\pi rh^2 + 2\pi r^2</m>.  You suspect this equation must have a mistake in it.  How can you use units to tell what the mistake is?  How could you use units to <em>fix</em> the mistake?</p>
 				</statement>
 				<solution>
@@ -173,6 +179,7 @@ We can see that the physical quantities under the square root indeed have base u
 
 			<exercise xml:id="x_identifying-numbers">
 			<title>Practice Identifying Numbers</title>
+			<p></p>
 			  <p>Below is a list of numbers with units.  For each number, find a real-world object or system with a measurement that is reasonably close<fn><m>\mu</m> is the symbol for the prefix micro-; you can search for how big it is</fn>.</p>
 				<ol>
 				<li><m>900,000 \mathrm{~kg}</m></li>
@@ -185,6 +192,7 @@ We can see that the physical quantities under the square root indeed have base u
 			</exercise>
 			<exercise>
 			<title>Practice Checking Numbers and Identifying Errors</title>
+			<p></p>
 			  <p>Imagine that you came upon the following numbers while reading an article.  Try to identify whether or not each number is reasonable <term>without</term> directly looking up the quantity in question.</p>
 				<ol>
 				<li>It takes light around <m>8.5</m> minutes to reach Earth from the Sun</li>
