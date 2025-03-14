@@ -3,44 +3,40 @@
 <section xml:id="sec_relative-motion" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Relative Motion</title>
 
+<p>In <xref ref="sec_position" />, you defined position vectors in terms of a <xref ref="def_coordinates" text="title"/> with a specified origin and axes.  In order to describe other vectors, including velocity, you will generalize this idea into a <alert>reference frame</alert> that also specifies how your coordinate system is moving through space.</p>
+
+<definition xml:id="def_ref-frame">
+	<title>Reference Frame</title>
+	<statement>
+	<p></p>
+		<p>A <term>reference frame</term> is a coordinate system (a set of axes with an origin) for which the velocity is specified.  Typically, the velocity is specified to be 0 relative to some object whose motion is known.  For example, you might work with the reference frame for <em>the ground</em> or for <em>a car moving at 30 mph down a level street</em>.  An example of how to draw different possible reference frames is shown below</p>
+			<figure xml:id="rep_ref-frames">
+		 <caption>Two Cartesian reference frames, one moving to the right relative to the other.</caption>
+		<image source="Cartesian2.png" width = "70%">
+			<description></description></image>
+  </figure>
+			</statement>
+</definition>
+
+	<axiom>
+	<title>Shifting Reference Frames</title>
+	<p></p>
+	<p>Physics is often concerned with multiple objects that are moving relative to each other.  The video below will help you determine the velocity of different objects in different reference frames.</p>
+ <video youtube="sN-m5WkbMyI"><description>Introducing relative motion.</description></video>
+	</axiom>
+
+
+		<example>
+	<title>Walking Toward an Airplane</title>
+	<p>You are stationary on the ground, watching as a person walks past you traveling east at <m>\vec{v}_{p,g} = +5 \hat{x} \mathrm{~km/hr}</m> toward the front of an airplane which is traveling west at <m>\vec{v}_{a,g} = -150 \hat{x} \mathrm{~km/hr}</m>.  The first subscript (<m>p</m> and <m>a</m>) represents the object, while the second (<m>g</m>) indicates that these velocities are given relative to <alert>the ground's</alert> reference frame.  Since this also happens to be your reference frame, your velocity is <m>\vec{v}_{y,g} = 0 \mathrm{~km/hr}</m>.</p>
+<p>From the walking person's perspective, you are traveling with velocity <m>\vec{v}_{y,p} = \vec{v}_{y,g} - \vec{v}_{p,g} = -5 \hat{x} \mathrm{~km/hr}</m>, while the airplane is traveling with velocity <m>\vec{v}_{a,p} = \vec{v}_{a,g} - \vec{v}_{p,g} = -145 \hat{x} \mathrm{~km/hr}.</m></p>
 	
-    <p>
-     First, watch this introduction to relative motion.
-    </p>
-		
-      <video youtube="sN-m5WkbMyI"><description>Introducing relative motion.</description></video>
-		
-		 <p>
-     Then, check out the video below from Mythbusters.
-    </p>
-		
-      <video youtube="BLuI118nhzc"><description>The Mythbusters test relative motion.</description></video>
- 
-		<exercises>
-	<title>Activities</title>
-			<exercise>
-			<statement>
-			  <p>You are running down a straight track at a speed of 8 m/s (relative to the track).  Two friends, one in front of you and one behind, each throw a baseball horizontally toward you at a speed of 24 m/s (relative to the track).  Relative to <em>you</em>, which baseball, if either, has a greater speed?  Explain your reasoning.</p>
-				</statement>
-				<hint>
-				<p>Relative motion problems can be tricky to visualize, so it often helps to draw a diagram!</p>
-				</hint>
-			</exercise>
-			<exercise>
-			<statement>
-			  <p>You are running down a straight track at a speed of 8 m/s (relative to the track).  Two friends, one in front of you and one behind, each throw a baseball horizontally toward you.  Relative to you, each baseball has a speed of 24 m/s.  Relative to the <em>track</em>, which baseball has a greater speed?   Explain your reasoning.</p>
-				</statement>
-			</exercise>
-		</exercises>
-		
-		<p>Whenever you examine a physics problem, you will typically approach it by considering a <alert>frame of reference</alert>.  The laws of physics are only accurate if the reference frame you consider is <em>not accelerating</em>.</p>
+	<p>See if you can determine your velocity and the walking person's velocity relative to the airplane!</p>
+	</example>
 	
-	
-	<note>
-	<title>Frames of Reference</title>
-	<p>Any measurement of position or velocity needs to be made with respect to a specific frame of reference. Suppose a person is walking past you at 5 km/hr toward the front of an airplane which is traveling west at 150 km/hr. The speed of 5 km/hr is with respect to the plane's frame of reference. With respect to the ground, this person is actually moving at speed (150 km/hr + 5 km/hr = 155 km/hr). Just as it is always important to specify the units of a quantity when reporting a number, it is equally important to specify the frame of reference from which you are making a measurement.</p>
-	
-	<p>Imagine you threw and caught a ball while you were sitting on a train moving at a constant velocity past a train station. To you, the ball appears to simply travel vertically up and then down under the influence of gravity. However, to an observer who stood on the station platform the ball would appear to travel in a parabola, with a constant horizontal component of velocity equal to the velocity of the train.</p>
+	<example>
+	<title>A Thrown Ball in Different Reference Frames</title>
+	<p>Imagine you threw and caught a ball while you were sitting on a train moving at a constant velocity past a train station. To you, the ball appears to simply travel vertically up and then down. However, to an observer who stood on the station platform the ball would appear to travel in a parabola, with a constant horizontal component of velocity equal to the velocity of the train.</p>
 	
 	<!--We need to add in the actual figures!
 
@@ -51,12 +47,44 @@
    </figure>
 	
 	-->
+	</example>
 	
-	<p>The different observations occur because the two observers are in different <em>frames of reference</em>. A frame of reference is a set of coordinates that can be used to determine positions and velocities of objects in that frame; different frames of reference move relative to one another.  Specifically, an inertial frame is one that is not accelerating.</p>
+	<insight>
+	<title>Inertial Reference Frames</title>
+	<p>The laws of physics privilege reference frames that are not accelerating: such a reference frame is known as an <alert>inertial reference frame</alert>.  The fact that the laws of physics are the same in all inertial frames is known as Galilean invariance, and asserts that there is no experiment you can do to determine which reference frame you are in.  Einstein used this hypothesis to devise the theory of Special Relativity.</p>
 	
-	<p>The laws of physics are the same in all inertial frames (this is known as Galilean invariance). Put in another way, there is no experiment that you could do to determine which reference frame you are in (Einstein used this hypothesis to devise the theory of Special Relativity). This means that we can address problems in any reference frame to give an equivalent solution, but we must specify the coordinate system (frame of reference) we are using whenever we are solving a problem in physics.</p>
+	</insight>	
+     
+		<example>
+		<title>Relative Motion with a Cannonball</title>
+		 <p>
+     The video below illustrates relative motion with a precise and powerful example.
+    </p>
+      <video youtube="BLuI118nhzc"><description>The Mythbusters test relative motion.</description></video>
+		</example>
+
+		<exercises>
+	<title>Activities</title>
+			<exercise>
+			<statement>
+			  <p>Suppose you are running down a straight track at a speed of 8 m/s (relative to the track).  Two friends, one in front of you and one behind, each throw a baseball horizontally toward you at a speed of 24 m/s (relative to the track).  Relative to <em>you</em>, which baseball, if either, has a greater speed?  Explain your reasoning.</p>
+				</statement>
+				<hint>
+				<p>Relative motion problems can be tricky to visualize, so it often helps to draw a diagram!</p>
+				</hint>
+			</exercise>
+			<exercise>
+			<statement>
+			  <p>Now suppose you are running down a straight track at a speed of 8 m/s (relative to the track).  Two friends, one in front of you and one behind, each throw a baseball horizontally toward you.  Relative to you, each baseball has a speed of 24 m/s.  Relative to the <em>track</em>, which baseball has a greater speed?   Explain your reasoning.</p>
+				</statement>
+								<hint>
+				<p>The difference between this activity and the previous one is subtle, but impactful!</p>
+				</hint>
+			</exercise>
+					</exercises>
+		
 	
-	</note>
+	
   
 <references>
 <biblio xml:id="ref_mit-rel-mot">

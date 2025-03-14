@@ -10,12 +10,21 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 	
+	
+	
 <subsection>
 <title>Numerical Practice</title>
 
- 
-	
-	    <exploration xml:id="psa_mot-alpha4">
+ 	    <exploration xml:id="psa_mot-rel">
+        <title>Adventurers on a Train</title>
+		<statement>
+		<p></p>
+		    <p>You are waiting in your car as a train moves northward at a speed of 45 mph.  As you wait, you notice two mysterious adventurers walking along the top of the train.  Relative to you, Adventurer 1 is moving north at 55 mph, while Adventurer 2 is moving north at 30 mph.  You then observe Adventurer 1 throw a golden idol toward Adventurer 2; relative to you, the golden idol is moving south at 20 mph.  Determine the velocity of each relevant object (you, the train, Adventurer 1, Adventurer 2, and the golden idol) relative to the train.</p>
+				<p>(If you want further practice, determine each velocity relative to each of the other objects!)</p>
+		</statement>
+	</exploration>
+
+ 	    <exploration xml:id="psa_mot-alpha4">
         <title>Mysterious Object I</title>
 		<statement>
 		<p></p>
@@ -103,7 +112,7 @@
 	  
 <references>
 <biblio xml:id="ref_boxsand-motion">
-<p>Numerical practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+<p>Most numerical practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
 </biblio>
 </references>
 	

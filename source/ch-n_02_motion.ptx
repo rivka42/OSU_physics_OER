@@ -3,7 +3,7 @@
 <chapter xml:id="ch_motion" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Motion</title>
 <introduction>
-    <p>Your first physics topic is motion.</p>
+    <p>Now that you have a foundation in vectors, you will begin looking at your first major physics topic: motion.</p>
 				
 	<p><alert>Learning Outcomes</alert></p>
 		
@@ -20,6 +20,7 @@
 <li>Draw a velocity versus time and acceleration versus time graph from a position versus time graph and vice versa. </li>
 <li>Determine the sign of position, velocity and acceleration within a defined coordinate system. </li>
 <li>Determine position, distance, velocity and speed from graphs of position and velocity versus time. </li>
+<li>Make sense of a symbolic quantity using covariational reasoning.</li>
 </ol>
 
 </introduction>
