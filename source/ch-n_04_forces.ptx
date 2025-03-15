@@ -41,6 +41,8 @@
 	<xi:include href="./for/sec_for-challenge.ptx" />
 
 
+
+		<xi:include href="./for/sec_N3L.ptx" />
 	<xi:include href="./for/sec_solving-forces1.ptx" />
 	<xi:include href="./for/sec_special-cases.ptx" />
 	<xi:include href="./for/sec_solving-forces2.ptx" />
@@ -52,7 +54,6 @@
 	<xi:include href="./for/sec_fbds.ptx" />
 	<xi:include href="./for/sec_N1L.ptx" />
 	<xi:include href="./for/sec_N2L.ptx" />
-		<xi:include href="./for/sec_N3L.ptx" />
 	<xi:include href="./for/sec_normal-force.ptx" />
 		<xi:include href="./for/sec_ideal-pulleys.ptx" />
 	-->

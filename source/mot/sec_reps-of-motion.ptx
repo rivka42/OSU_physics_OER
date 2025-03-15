@@ -33,6 +33,47 @@
 		</exercises>
 	
   
+		<figure xml:id="mot_Tortoise-slide">
+		  <caption>A tortoise at the top of a slide.</caption>
+      <image source="Tortoise-slide.png" width = "100%">
+			<description>A tortoise at the top of a slide.</description>
+			</image>
+    </figure>
+		
+			<activity>
+	<title>The Tortoise down the Slide</title>
+<introduction>
+<p></p>
+    <p>
+      It takes 40 s for a tortoise to travel down the slide shown in the figure above.  Its initial speed is 0 and its final speed is 0.2 m/s down the ramp.  Assume the slide is 4 m long and the given angle is equal to <m>22^o</m>.
+    </p>
+		</introduction>
+			<task xml:id="x_practice-tortoise">
+			<title>Practice Creating a Strobe Diagram</title>
+			<p>
+			Sketch a qualitatively accurate strobe diagram for the tortoise using the given information.  Your diagram should have about 4-6 points.
+			</p>
+			</task>
+			<task>
+			<title>Calculation</title>
+			<statement>
+			  <p>Determine the magnitude of the tortoise's average acceleration.</p>
+				</statement>
+				<answer>
+				<p><m>0.005  \mathrm{~m/s^2}</m></p>
+				</answer>
+			</task>
+			<task>
+			<title>Key Skill: Breaking a Vector into Components</title>
+			<statement>
+			<p>Determine the horizontal (<m>x</m>) component of the tortoise's average acceleration</p>
+			</statement>
+			<hint>
+			<p>Draw a right triangle where the hypotenuse is the average acceleration vector and the legs represent the horizontal and vertical components.  Be sure to label the given angle <m>\theta</m> carefully in your triangle!</p>
+			</hint>
+			</task>
+		</activity>
+
 		<figure xml:id="mot_MotionA">
 		  <caption>A strobe diagram.</caption>
       <image source="MotionA.png" width = "100%">
@@ -118,8 +159,12 @@
 			</task>
 					</activity>
 
-  
-
+  <references>
+	<biblio xml:id="ref_tortoise">
+	<p>Tortoise image based on tortoise by vector quipo from <a href="https://thenounproject.com/browse/icons/term/tortoise/" target="_blank" title="tortoise Icons">Noun Project</a> (CC BY 3.0)
+</p>
+	</biblio>
+</references>
 
 	
 </section>

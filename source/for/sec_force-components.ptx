@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_force-components" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Finding Force Components</title>
+	
+<p>Forces are one of the most important and universal quantities in physics.  They are also vectors.  Being able to break a vector into components is an essential skill that will be useful throughout your study of physics.</p>
+
+<exercises>
+	<title>Practice Activities</title>
+		</exercises>
+	  
+		<figure xml:id="lom_Tortoise-pebble">
+		  <caption>A tortoise climbing on a pebble.</caption>
+      <image source="Tortoise-pebble.png" width = "100%">
+			<description>A tortoise climbing on a pebble.</description>
+			</image>
+    </figure>
+		
+			<activity>
+	<title>The Tortoise and the Pebble</title>
+<introduction>
+<p></p>
+    <p>
+      A tortoise is walking across the desert floor when it encounters a small pebble that it wants to climb over.  It uses one of its front legs to act a normal force with magnitude <m>F^N</m> on the pebble, causing the pebble to act a normal force with magnitude <m>F^N</m> on the tortoise.
+    </p>
+		</introduction>
+			<task xml:id="x_practice-tortoise-pebble">
+			<title>Choosing a Reference Frame</title>
+			<p>
+			Two potential reference frames, both stationary with respect to the ground, are shown in the figure.  Before doing any calculations: which reference frame do you think would be easier to use for describing the normal force on the tortoise by the pebble?
+			</p>
+			</task>
+						<task>
+			<title>Represent</title>
+			<statement>
+			<p>Sketch a diagram showing the normal force on the tortoise by the pebble in each reference frame.  Make sure to include the components of the force and the given angle <m>\theta</m>.</p>
+			</statement>
+			</task>
+			<task>
+			<title>Key Skill: Breaking a Vector into Components</title>
+			<statement>
+			  <p>For <alert>both</alert> reference frames, determine the <m>x</m> and <m>y</m> components of the normal force on the tortoise by the pebble.</p>
+				</statement>
+			</task>
+						<task>
+			<title>Metacognition</title>
+			<p>
+			Revisit your answer to the first part of the activity.  Which reference frame do you think ended up being easier to describe the normal force?  Why?
+			</p>
+			</task>
+		</activity>
+
+
+
+
+
+<references>
+	<biblio xml:id="ref_openstax-lom">
+	<p>Practice activities from Openstax: https://openstax.org/books/university-physics-volume-1/pages/5-problems.</p>
+	</biblio>
+</references>
+
+
+
+
+</section>
+

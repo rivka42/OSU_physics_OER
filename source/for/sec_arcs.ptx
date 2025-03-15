@@ -9,26 +9,35 @@
 <li><p>Identifying assumptions, as shown in <xref ref="fig_assumptions"/></p></li>
 <li><p>Drawing graphs and other representations, such as <xref ref="rep_motion-graphs"/></p></li>
 <li><p>Calculating an unknown quantity, as shown in <xref ref="fig_calculation"/></p></li>
-<li><p>Checking units to make sense of an answer, as described in <xref ref="sec_units"/></p></li>
-<li><p>Making sense of a symbolic equation using covariation, as described in <xref ref="sec_covariation"/></p></li>
+<li><p>Checking units to make sense of an answer, as described in <xref ref="sm_units"/></p></li>
+<li><p>Making sense of a symbolic equation using covariation, as described in <xref ref="sm_covariation"/></p></li>
 </ul>
 
-<p>While each of these skills is useful on its own, they are most powerful when used <em>together</em> to help you examine complicated contexts that often draw on real-world experiences.  Throughout this text, big activities where you should carry out all of the steps above are labeled A*R*C*S: Analyze-Represent-Calculate-Sensemake.  The figure below shows all the individual steps to help you keep track of them.</p>
+<p>While each of these skills is useful on its own, they are most powerful when used <em>together</em> to help you examine complicated contexts that often draw on real-world experiences.  Activities where you should carry out all of the steps above are labeled A*R*C*S: Analyze-Represent-Calculate-Sensemake.  The figure below shows all the individual steps to help you keep track of them.</p>
 
-<!--
-<p>
-A Real-world Context is a situation or problem with a real setting, where you attempt to answer specific questions about a situation that could occur in the real world by making assumptions and simplifications, applying relevant aspects of your physics knowledge to determine both symbolic and numerical answers, and lastly making sense of those answers to reevaluate your understanding of the situation.  Real-world Contexts are what you will spend the vast majority of your time in physics considering.  The figure below shows all the steps involved in approaching a Real-world Context.  It seems like a lot of steps, but remember that you have already practiced each step many times already.</p>
--->
+
 		
 		
   <figure xml:id="fig_realworld">
-		 <caption>Steps to follow when you consider a big activity using A*R*C*S.</caption>
+		 <caption>Steps to follow when you consider an A*R*C*S activity.</caption>
 		<image source="RealworldSteps.png" width = "100%">
 			<description></description></image>
   </figure>	
 	
 	<p>Below is an example of using all the A*R*C*S steps.</p>
-	<!--
+	
+	
+	
+
+  
+	
+	<!-- Deprecated language
+<p>
+A Real-world Context is a situation or problem with a real setting, where you attempt to answer specific questions about a situation that could occur in the real world by making assumptions and simplifications, applying relevant aspects of your physics knowledge to determine both symbolic and numerical answers, and lastly making sense of those answers to reevaluate your understanding of the situation.  Real-world Contexts are what you will spend the vast majority of your time in physics considering.  The figure below shows all the steps involved in approaching a Real-world Context.  It seems like a lot of steps, but remember that you have already practiced each step many times already.</p>
+-->
+
+	<!-- Moved examples
+	
 			<figure xml:id="mot_vb-rwc">
 		  <caption>An example of using the A*R*C*S steps.</caption>
       <video youtube="kJ9qrl0SrPI"></video>
@@ -46,9 +55,19 @@ A Real-world Context is a situation or problem with a real setting, where you at
 			</hint>
 			</exercise>
 			
+				
+				<exercise xml:id="x_forces-driver">
+			<title>A*R*C*S: Net Force on a Driver</title>
+			<statement>
+			  <p>You are driving in an everyday car when you decide to hit the accelerator to make your car begin to move with its maximum acceleration.  Estimate the magnitude of the net force exerted on you, the driver.  Remember to use the A*R*C*S steps from <xref ref="fig_realworld"></xref>.</p>
+				</statement>
+				<answer>
+				<p>For a driver with a mass of <m>80 \mathrm{~kg}</m> and a car with a maximum acceleration of <m>6 \mathrm{~m/s^2}</m>, the net force on the driver would be <m>480 \mathrm{~N}</m>.</p>
+				</answer>
+			</exercise>
+			
 		</exercises>
 -->
-  
 
 	
 </section>

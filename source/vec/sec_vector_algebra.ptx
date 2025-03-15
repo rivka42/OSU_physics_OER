@@ -12,15 +12,20 @@ Representing vectors as arrows is a good way to get a geometric understanding an
 </me>
     
  <p>
-Now you can <em>algebraically</em> compute the vector operations you learned previously!
-</p>
+Now you can <em>algebraically</em> compute the vector operations you learned previously!  For example, to multiply a vector by a scalar algebraically, you multiply each component by the scalar separately.
+ </p>
+ 
+ <me>
+ a\vec{A} = (aA_x)\hat{x} + (aA_y)\hat{y} + (aA_z)\hat{z}
+ </me>
 
-<exercises>
- <title> Vector Addition</title>
- </exercises>
-  
+<axiom>
+ <title> Vector Addition and Subtraction</title>
+
+  <p></p>
+
 <p>
-To add vectors algebraically, you simply add like components.
+To add vectors that are written in terms of components algebraically, you add the components (<m>x</m>, <m>y</m>, and <m>z</m>, for example) for the two vectors separately.
 </p>
 
 <md>
@@ -28,33 +33,22 @@ To add vectors algebraically, you simply add like components.
 <mrow> \amp = (A_x +B_x)\hat{x} + (A_y + B_y)\hat{y} + (A_z+B_z) \hat{z}</mrow>
 </md>
 
- 
-  <exercises>
- <title> Vector Subtraction</title>
- </exercises>
+
+ <p></p>
  
  <p>
-To subtract vectors algebraically, you simple subtract like components.
+Similarly, to subtract vectors algebraically, you subtract like components.
 </p>
  
  <md>
 <mrow> \vec{A} - \vec{B} \amp = (A_x \hat{x} + A_y \hat{y}+ A_z\hat{z}) - (B_x \hat{x} + B_y \hat{y}+ B_z\hat{z}) </mrow>
 <mrow> \amp = (A_x - B_x)\hat{x} + (A_y - B_y)\hat{y} + (A_z - B_z) \hat{z} </mrow>
 </md>
+</axiom>
+
 
  
- <exercises>
- <title> Multiplication of a vector by a scalar</title>
- </exercises>
- 
- <p>
- To multiply a vector by a scalar algebraically you multiply each component.
- </p>
- 
- <me>
- a\vec{A} = (aA_x)\hat{x} + (aA_y)\hat{y} + (aA_z)\hat{z}
- </me>
- 
+<!--
  <exercises>
  <title> The dot product of two vectors</title>
  </exercises>
@@ -70,6 +64,8 @@ To subtract vectors algebraically, you simple subtract like components.
 </md>
  
  Recall: <m>\hat{x} \cdot \hat{x} = \hat{y} \cdot \hat{y} = \hat{z} \cdot \hat{z} = 1</m>
+
+-->
  
 <!-- Omitted for brevity
  <p>

@@ -6,7 +6,7 @@
     <p>You previously learned how to make sense of both units and numbers in <xref ref="sec_units"/>.  Perhaps the most powerful type of physics sensemaking is <em>symbolic</em>, since so much of physics is concerned with symbolic equations.  The most general way to make sense of a symbolic equation is with covariational reasoning.
     </p>
 		
-		<heuristic xml:id="sense_covariation">
+		<heuristic xml:id="sm_covariation">
 	<title>Covariational Reasoning</title>
 	<statement>
 	<p></p>

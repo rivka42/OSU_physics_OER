@@ -13,6 +13,7 @@
 		  <li>State and apply Newton's laws</li>
 		  <li>Draw a free-body diagram of an object or multiple objects in a system</li>
 		  <li>Define the normal force acting on an object in various situations</li>
+			<li>Break a vector into appropriate components</li>
 		  <li>Construct net force equations in multiple dimensions for an object based on its acceleration and its free-body diagram</li>
 		  <li>Solve net force equations symbolically in terms of given variables</li>
 			<li>Use special-case analysis to make sense of a symbolic equation</li>
@@ -26,23 +27,23 @@
 	
 	  <!--INTRODUCTORY SECTIONS-->
 		  <xi:include href="./for/sec_what-are-forces.ptx" />
-
 		
 		<!--PREPARE SECTIONS-->
 			<xi:include href="./for/sec_fbds.ptx" />
 	<xi:include href="./for/sec_N1L.ptx" />
 	<xi:include href="./for/sec_N2L.ptx" />
-
 	<xi:include href="./for/sec_normal-force.ptx" />
 		
 		<!--PRACTICE SECTIONS-->
-		<xi:include href="./for/sec_arcs.ptx" />
+		<xi:include href="./for/sec_force-components.ptx" />
+		<xi:include href="./for/sec_solving-equations.ptx" />
 		<xi:include href="./for/sec_lom-practice.ptx" />
 		
 		<!--CHALLENGE SECTIONS-->
+		<xi:include href="./for/sec_arcs.ptx" />
 		<xi:include href="./for/sec_lom-challenge.ptx" />
 		
-			<xi:include href="./for/sec_N3L.ptx" />
+
 		
 	
 <!--
@@ -55,6 +56,8 @@
 	<xi:include href="./for/sec_kinetic-friction.ptx" />
 	<xi:include href="./for/sec_tension.ptx" />
 	<xi:include href="./for/sec_elastic-force.ptx" />
+	
+				<xi:include href="./for/sec_N3L.ptx" />
 	
 	<xi:include href="./for/sec_solving-forces2.ptx" />
 	
