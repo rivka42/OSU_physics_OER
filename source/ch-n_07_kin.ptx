@@ -29,21 +29,20 @@
 		<xi:include href="./mot/sec_mot-practice.ptx" />
 	-->
 		<!--INTRODUCTORY SECTIONS-->
-		
+	
 		
 				<!--PREPARE SECTIONS-->
-				
-				
-				
-						<!--PRACTICE SECTIONS-->
-	
-	<xi:include href="./mot/sec_calc1.ptx" />
-
-	<xi:include href="./mot/sec_kinematics-1d.ptx" />
+					<xi:include href="./mot/sec_kinematics-1d.ptx" />
 	<xi:include href="./mot/sec_real-world-context.ptx" />
 	<xi:include href="./mot/sec_kinematics-2d.ptx" />
-	<xi:include href="./mot/sec_motion-summary.ptx" />
-	<xi:include href="./mot/sec_kin-practice.ptx" />
+				
+						<!--PRACTICE SECTIONS-->
+						<xi:include href="./mot/sec_kin-practice.ptx" />
+	
+						<!--CHALLENGE SECTIONS-->
+						<xi:include href="./mot/sec_kin-challenge.ptx" />
+	
+		<xi:include href="./mot/sec_motion-summary.ptx" />
 	
 	
 

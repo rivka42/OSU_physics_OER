@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 
-<chapter xml:id="ch_energy" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Energy and Momentum</title>
+<chapter xml:id="ch_mechanics" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Mechanics</title>
 	
 <introduction>
     <p> In this chapter you will focus on the topics of energy and momentum.</p>
@@ -39,6 +39,25 @@
 
 </introduction>
 
+<!--INTRODUCTORY SECTIONS-->
+
+		
+		<!--PREPARE SECTIONS-->
+<xi:include href="./en/sec_power.ptx" />
+	<xi:include href="./en/sec_potential-energy-diagrams.ptx" />
+	<xi:include href="./en/sec_force-and-potential-energy.ptx" />
+		
+		<!--PRACTICE SECTIONS-->
+
+<xi:include href="./en/sec_mech-practice.ptx" />
+		
+		<!--CHALLENGE SECTIONS-->
+<xi:include href="./en/sec_mech-challenge.ptx" />
+
+		<xi:include href="./en/sec_energy-summary.ptx" />
+		
+		
+<!--
   <xi:include href="./en/sec_what-is-energy.ptx" />
 	<xi:include href="./en/sec_system-diagrams.ptx" />
 	<xi:include href="./en/sec_work-energy-thm.ptx" />
@@ -59,6 +78,7 @@
 	<xi:include href="./en/sec_collisions.ptx" />
 	<xi:include href="./en/sec_energy-summary.ptx" />
 	<xi:include href="./en/sec_en-practice.ptx" />
+	-->
 	
 </chapter>
 

@@ -51,13 +51,13 @@
 	<subsection>
 	<title>A*R*C*S Activities</title>
 	
-		<project xml:id="psa_for-07">
-        <title>The Gymnast</title>
+		<project xml:id="psa_lom-01">
+        <title>The Gymnast//</title>
 		<statement>
 		<p></p>
 		    <p>A gymnast is training by hanging from two ropes attached to the ceiling, as shown in the figure. The angles <m>\theta</m> and <m>\alpha</m> are different.  The gravitational force on the gymnast is 750 N downward.  Determine the magnitude of the tension in each rope.</p>
-				<figure xml:id="for_x-athlete">
-		 <caption>A gymnast suspended by two ropes.</caption>
+				<figure xml:id="for_x-xx">
+		 <caption>.</caption>
 		<image source="Athlete.png" width = "30%">
 			<description></description></image>
   </figure>

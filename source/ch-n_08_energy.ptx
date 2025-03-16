@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 
 <chapter xml:id="ch_energy" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Energy and Momentum</title>
+  <title>Energy</title>
 	
 <introduction>
     <p> In this chapter you will focus on the topics of energy and momentum.</p>
@@ -39,19 +39,31 @@
 
 </introduction>
 
-  <xi:include href="./en/sec_what-is-energy.ptx" />
-	<xi:include href="./en/sec_system-diagrams.ptx" />
+ <!--INTRODUCTORY SECTIONS-->
+<xi:include href="./en/sec_what-is-energy.ptx" />
+		
+		<!--PREPARE SECTIONS-->
+		<xi:include href="./en/sec_system-diagrams.ptx" />
 	<xi:include href="./en/sec_work-energy-thm.ptx" />
-	<xi:include href="./vec/sec_dot_product.ptx" />
-	<xi:include href="./en/sec_work.ptx" />
-	<xi:include href="./en/sec_work2.ptx" />
 	<xi:include href="./en/sec_ke.ptx" />
-	<xi:include href="./en/sec_power.ptx" />
-	<xi:include href="./en/sec_potential-energy.ptx" />
+
+		
+		<!--PRACTICE SECTIONS-->
+		<xi:include href="./en/sec_potential-energy.ptx" />
 	<xi:include href="./en/sec_spring-potential-energy.ptx" />
 	<xi:include href="./en/sec_gravitational-potential-energy.ptx" />
 	<xi:include href="./en/sec_energy-analysis.ptx" />
 	<xi:include href="./en/sec_energy-bar-charts.ptx" />
+
+<xi:include href="./en/sec_en-practice.ptx" />
+		
+		<!--CHALLENGE SECTIONS-->
+<xi:include href="./en/sec_en-challenge.ptx" />
+
+<!--
+  
+	
+	<xi:include href="./en/sec_power.ptx" />
 	<xi:include href="./en/sec_potential-energy-diagrams.ptx" />
 	<xi:include href="./en/sec_force-and-potential-energy.ptx" />
 	<xi:include href="./en/sec_what-is-momentum.ptx" />
@@ -60,6 +72,7 @@
 	<xi:include href="./en/sec_collisions.ptx" />
 	<xi:include href="./en/sec_energy-summary.ptx" />
 	<xi:include href="./en/sec_en-practice.ptx" />
+	-->
 	
 </chapter>
 

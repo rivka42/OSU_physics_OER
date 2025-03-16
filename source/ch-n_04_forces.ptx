@@ -12,8 +12,6 @@
 			<li>Construct net force equations in multiple dimensions for an object based on its acceleration and its free-body diagram</li>
 		  <li>Solve net force equations symbolically in terms of given variables</li>
 		  <li>Include friction force acting between two objects at rest or in motion</li>
-		  <li>Identify Newton's third law force pairs</li>
-		  <li>Analyze systems of massive objects and pulleys of negligible mass using a force approach</li>
 		</ol>
 		</p>
 
@@ -28,25 +26,24 @@
 	<xi:include href="./for/sec_gravity-near-earth.ptx" />
 			<xi:include href="./for/sec_static-friction.ptx" />
 	<xi:include href="./for/sec_kinetic-friction.ptx" />
-		<xi:include href="./for/sec_tension.ptx" />
-	<xi:include href="./for/sec_elastic-force.ptx" />
-					<xi:include href="./for/sec_ideal-pulleys.ptx" />
-					
+
 					
 		<!--PRACTICE SECTIONS-->
-		
+			<xi:include href="./for/sec_elastic-force.ptx" />
+				<xi:include href="./for/sec_solving-forces1.ptx" />
 		<xi:include href="./for/sec_for-practice.ptx" />
 		
 		<!--CHALLENGE SECTIONS-->
+			<xi:include href="./for/sec_special-cases.ptx" />
 	<xi:include href="./for/sec_for-challenge.ptx" />
 
 
 
-		<xi:include href="./for/sec_N3L.ptx" />
-	<xi:include href="./for/sec_solving-forces1.ptx" />
-	<xi:include href="./for/sec_special-cases.ptx" />
-	<xi:include href="./for/sec_solving-forces2.ptx" />
-	<xi:include href="./for/sec_forces-summary.ptx" />
+
+
+
+
+
 	
 	
 	<!--
@@ -56,6 +53,10 @@
 	<xi:include href="./for/sec_N2L.ptx" />
 	<xi:include href="./for/sec_normal-force.ptx" />
 		<xi:include href="./for/sec_ideal-pulleys.ptx" />
+				<xi:include href="./for/sec_tension.ptx" />
+			<xi:include href="./for/sec_forces-summary.ptx" />
+					<xi:include href="./for/sec_N3L.ptx" />
+				<xi:include href="./for/sec_solving-forces2.ptx" />
 	-->
 	
 </chapter>

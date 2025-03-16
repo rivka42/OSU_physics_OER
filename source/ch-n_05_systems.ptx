@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_systems" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Interacting Systems</title>
+<introduction>
+    <p>We will now build quantitative models for the most common forces.</p>
+		
+	<p><alert>Learning Outcomes</alert></p>
+		
+		<p>After successful completion of this chapter, you will be able to:
+		<ol>
+			<li>Construct net force equations in multiple dimensions for multiple objects or systems based on acceleration and free-body diagrams</li>
+		  <li>Solve net force equations symbolically in terms of given variables</li>
+		  <li>Identify Newton's third law force pairs</li>
+		  <li>Analyze systems of massive objects and pulleys of negligible mass using a force approach</li>
+		</ol>
+		</p>
+
+</introduction>
+
+	  <!--INTRODUCTORY SECTIONS-->
+		
+		
+		<!--PREPARE SECTIONS-->
+		<xi:include href="./for/sec_N3L.ptx" />
+		<xi:include href="./for/sec_tension.ptx" />
+		<xi:include href="./for/sec_ideal-pulleys.ptx" />
+					
+					
+		<!--PRACTICE SECTIONS-->
+	<xi:include href="./for/sec_solving-forces2.ptx" />		
+		<xi:include href="./for/sec_sys-practice.ptx" />
+		
+		<!--CHALLENGE SECTIONS-->
+	<xi:include href="./for/sec_sys-challenge.ptx" />
+	<xi:include href="./for/sec_forces-summary.ptx" />
+
+
+
+
+
+	
+	
+	<!--
+	  <xi:include href="./for/sec_what-are-forces.ptx" />
+	<xi:include href="./for/sec_fbds.ptx" />
+	<xi:include href="./for/sec_N1L.ptx" />
+	<xi:include href="./for/sec_N2L.ptx" />
+	<xi:include href="./for/sec_normal-force.ptx" />
+		<xi:include href="./for/sec_ideal-pulleys.ptx" />
+		
+	<xi:include href="./for/sec_solving-forces1.ptx" />
+	<xi:include href="./for/sec_special-cases.ptx" />
+	-->
+	
+</chapter>
+
+	  <!--INTRODUCTORY SECTIONS-->
+		
+		
+		<!--PREPARE SECTIONS-->
+		
+		
+		<!--PRACTICE SECTIONS-->
+		
+		
+		<!--CHALLENGE SECTIONS-->
