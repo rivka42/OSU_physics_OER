@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_mag-and-dir" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Magnitude and Direction</title>
+		
+<p>As you have seen, one of the most common shorthand ways of describing a vector is as something with <q>magnitude and direction</q>.  Determining or working with these two quantities are essential for using vectors in physics.</p>
+
+	
+	<exercises>
+	<title>Activities</title>
+	
+	
+		
+<exercise xml:id="class_three-vectors">
+        <title>Warm-up 1: Three Vectors</title>
+		
+		<p></p>
+		
+		    <p>Which of the following is <m>\vec{C}</m>?</p>
+		
+			<figure xml:id="fig_3Vecs">
+		 <caption>Three vectors in a triangle.</caption>
+		<image source="3Vecs.png" width = "50%">
+			<description></description></image>
+  </figure>
+
+  	<ol marker="A">
+		<li>
+			<p>
+				<m>\vec{C} = \vec{A} + \vec{B}</m>
+			</p>
+		</li>
+		<li>
+			<p>
+				<m>\vec{C} = \vec{B} + \vec{A}</m>
+			</p>
+		</li>
+		<li>
+			<p>
+				<m>\vec{C} = \vec{A} - \vec{B}</m>
+			</p>
+		</li>
+		<li>
+			<p>
+				<m>\vec{C} = \vec{B} - \vec{A}</m>
+			</p>
+		</li>
+		<li>
+			<p>
+				None of the above
+			</p>
+		</li>
+	</ol>
+  
+		
+	</exercise>
+
+	<exercise xml:id="class_vec-comp">
+	<title>Warm-up 2: Vector Component</title>
+		
+		<p></p>
+		
+		    <p>Find the y-component of the vector shown below.</p>
+		
+			<figure xml:id="fig_vec-comp">
+		 <caption>A vector.</caption>
+		<image source="vec-comp.png" width = "50%">
+			<description></description></image>
+  </figure>
+	</exercise>
+
+<figure xml:id="fig_vec-pairs">
+		 <caption>A vector.</caption>
+		<image source="Vector-Pairs.png" width = "50%">
+			<description></description></image>
+  </figure>
+
+	<exercise xml:id="class_vec-qual">
+	<title>Explanation: Vector Comparison</title>
+	<statement>
+		
+		<p></p>
+		
+		    <p>All the vectors above have the same magnitude. 
+Is the magnitude of the sum of the two vectors on the left greater than, less than, or equal to the magnitude of the sum of the two vectors on the right? 
+What could you draw to help explain your reasoning?
+</p>
+</statement>
+		<hint>
+			<p>
+				This is a good activity to practice the steps in <xref ref="fig_explanation"/>.
+			</p>
+		</hint>
+			
+	</exercise>
+
+
+	<exercise xml:id="arcs_planets-building">
+        <title>The Planets around the Sun</title>
+		<statement>
+		<p></p>
+		
+		    <p>
+				Consider four of the planets distributed around the Sun: Earth, Mars, Jupiter, and Saturn. 
+Suppose you want each planet to be able to send a message to any of the other planets.
+			</p>
+			<p>
+				Start by choosing any two planets. 
+Your objective is to find the angle at which to direct the message from one planet to the other. 
+			</p>
+			<p>
+Begin by brainstorming what information you think would be useful to you in achieving this objective.
+
+			</p>
+			<p> Below is information about the position of each planet relative to the Sun and an arbitrary positive axis starting at the Sun.</p>
+
+			<ul>
+				<li>
+					<p>
+						Earth: 1 AU from the Sun; 150 degrees left of the axis
+					</p>
+				</li>
+				<li>
+					<p>
+						Mars: 1.5 AU from the Sun; 90 degrees right of the axis
+					</p>
+				</li>
+				<li>
+					<p>
+						Jupiter: 5.2 AU from the Sun; 120 degrees left of the axis
+					</p>
+				</li>
+				<li>
+					<p>
+						Saturn: 9.5 AU from the Sun; 30 degrees right of the axis
+					</p>
+				</li>
+			</ul>
+				
+	</statement>
+	<hint>
+		<p>
+			This is a good activity to practice the steps in <xref ref="fig_calculation"/>. 
+			In particular, consider how much work might be saved by solving for one pair of planets symbolically in contrast to solving for every pair of planets separately.
+		</p>
+	</hint>
+	</exercise>
+
+
+
+
+	</exercises>
+	
+
+	
+</section>
+

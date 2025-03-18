@@ -56,6 +56,7 @@ You will begin your study of physics by gaining a foundational understanding of 
 	<xi:include href="./vec/sec_vec-practice.ptx" />
 	
 		<!--CHALLENGE SECTIONS-->
+<xi:include href="./vec/sec_mag-and-dir.ptx" />
 <xi:include href="./vec/sec_vec-challenge.ptx" />
 
   	

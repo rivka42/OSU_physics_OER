@@ -9,10 +9,15 @@
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
+	
 
 
 <subsection>
 <title>Practice</title>
+
+<p>ADD SOME OPENSTAX</p>
+
+</subsection>
 
 	<exploration xml:id="psa_for-alpha1">
 		<title>Balancing the forces</title>
@@ -48,7 +53,6 @@
 		</answer>
 	</exploration>
 
-</subsection>
 
 
 

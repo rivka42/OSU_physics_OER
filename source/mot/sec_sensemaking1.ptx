@@ -58,6 +58,65 @@
 			  <p>A manufacturer claims that an office space with length <m>x</m> and width <m>y</m> can fit the following number of their cubicles: <m>N=5\frac{y}{x}</m>.</p>
 			</exercise>
 			
+	<exercise xml:id="class_covariation1">
+        <title>The Ball and the Bounce I</title>
+		<statement>
+		    <p>
+				At <m>t_o = 0 \mathrm{s}</m>, The instructor throws a tennis ball directly downward at <m>v_i = 12 \mathrm{~m/s}</m>. 
+At <m>t_1 = 0.2 \mathrm{~s}</m>, after falling <m>h = 1.2 \mathrm{~m}</m>, the ball hits the ground and bounces. 
+At <m>t_2 = 0.48 \mathrm{~s}</m>, the instructor catches the ball at the same point where they released it, moving upward at <m>v_f = 4 \mathrm{~m/s}</m>. 
+Determine the average acceleration of the tennis ball.	
+			</p>
+		</statement>
+		<answer>
+		    <p><me>
+				a_{ave} = \frac{v_f + v_i}{t_2}
+			</me>
+			</p>
+		</answer>
+	</exercise>
+
+	<exercise xml:id="class_covariation2">
+        <title>The Ball and the Bounce II</title>
+		<statement>
+		    <p>
+				Use covariational reasoning for each quantity to evaluate the symbolic equation for <m>a_{ave}</m>.
+			</p>
+			<ul>
+				<li>
+					<p>
+						<m>v_i</m>
+					</p>
+				</li>
+				<li>
+					<p>
+						<m>h</m>
+					</p>
+				</li>
+				<li>
+					<p>
+						<m>t_1</m>
+					</p>
+				</li>
+				<li>
+					<p>
+						<m>t_2</m>
+					</p>
+				</li>
+				<li>
+					<p>
+						<m>v_f</m>
+					</p>
+				</li>
+			</ul>
+		</statement>
+		<answer>
+		    <p><me>
+				a_{ave} = \frac{v_f + v_i}{t_2}
+			</me>
+			</p>
+		</answer>
+	</exercise>
 			
 			<!--
 					<exercise xml:id="psa_mot-2">

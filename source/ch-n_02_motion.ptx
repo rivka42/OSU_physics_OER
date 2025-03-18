@@ -38,11 +38,11 @@
 		<!--PRACTICE SECTIONS-->
 			<xi:include href="./mot/sec_motion-graphs2.ptx" />
 			<xi:include href="./mot/sec_reps-of-motion.ptx" />
-			<xi:include href="./mot/sec_sensemaking1.ptx" />
 			<xi:include href="./mot/sec_mot-practice.ptx" />
 		
 		<!--CHALLENGE SECTIONS-->
-<xi:include href="./mot/sec_mot-challenge.ptx" />
+		<xi:include href="./mot/sec_sensemaking1.ptx" />
+		<xi:include href="./mot/sec_mot-challenge.ptx" />
 
 			
 	<!--

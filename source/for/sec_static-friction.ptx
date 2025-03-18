@@ -19,16 +19,6 @@
 		<exercises>
 		<title>Activities</title>
 			<exercise>
-			<title>Largest and Smallest</title>
-			  <p>A small car might have a mass of around 1000 kg, and the coefficient of static friction between the tires and the road is about 0.9. What is the largest possible force that static friction can exert on this car? (in N)</p>
-			</exercise>
-			<exercise>
-			  <p>A small car might have a mass of around 1000 kg, and the coefficient of static friction between the tires and the road is about 0.9.  What is the smallest possible force that static friction can exert on this car? (in N)</p>
-			</exercise>
-			<exercise>
-			  <p>Describe situations when each of the previous cases (the largest and smallest possible forces from static friction) would occur.</p>
-			</exercise>
-			<exercise>
 			<title>Sensemaking - Units</title>
 			<statement>
 			  <p>Using the definition above, determine the units for <m>\mu_s</m>.</p>
@@ -37,6 +27,19 @@
 				<p><m>\mu_s</m> is unitless!</p>
 				</answer>
 			</exercise>
+			<exercise>
+			<title>Largest</title>
+			  <p>A small car might have a mass of around 1000 kg, and the coefficient of static friction between the tires and the road is about 0.9. What is the largest possible force that static friction can exert on this car? (in N)</p>
+			</exercise>
+			<exercise>
+			<title>Smallest</title>
+			  <p>A small car might have a mass of around 1000 kg, and the coefficient of static friction between the tires and the road is about 0.9.  What is the smallest possible force that static friction can exert on this car? (in N)</p>
+			</exercise>
+			<exercise>
+			<title>Largest and Smallest</title>
+			  <p>Describe situations when each of the previous cases (the largest and smallest possible forces from static friction) would occur.</p>
+			</exercise>
+			
 		</exercises>
 
 	
