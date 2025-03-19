@@ -35,10 +35,11 @@
 		<xi:include href="./en/sec_momentum-vector-diagrams.ptx" />
 		<xi:include href="./en/sec_collisions.ptx" />
 		
-		<!--PRACTICE SECTIONS-->
+		<!--PRACTICE SECTIONS-->	
+		<xi:include href="./en/sec_mom-practice.ptx" />
 		
 		<!--CHALLENGE SECTIONS-->
-
+		<xi:include href="./en/sec_mom-challenge.ptx" />
 		
 		
 <!--

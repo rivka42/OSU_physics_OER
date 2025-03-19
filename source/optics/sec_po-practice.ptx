@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_po-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Practice - Physical Optics</title>
+	
+	<!--
+	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
+	If you want an Explain activity, use the <investigation> tag.
+		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
+	If you want a Calculate activity, use the <problem> tag.  (This tag is Example-like, not Project-like, so you cannot embed lettered steps into it using <task>.
+	-->
+
+<subsection>
+<title>Practice</title>
+    <problem xml:id="psa_opt-alpha0">
+        <title>Double-Slit I</title>
+		<statement>
+			<p>
+				The 3rd bright fringe of a double-slit interference pattern is 30.0 cm above the central bright fringe. If the angle from the horizontal (the central bright fringe) to this 3rd bright fringe is 12.0 degrees, what is the distance (in meters) between the double slits and the viewing screen?
+			</p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p>1.41 meters</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_opt-alpha1">
+        <title>Double-Slit II</title>
+		<statement>
+			<p>
+				A 500 nm laser illuminates a double-slit apparatus with a slit separation distance of 7.73 <m>\mu</m>m.  What is the angle (in degrees) from the horizontal to the 4th bright fringe? 
+			</p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p><m>15^{\circ}</m></p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_opt-alpha2">
+        <title>Double-Slit III</title>
+		<statement>
+			<p>
+				A 680 nm laser illuminates a double-slit apparatus with a slit separation distance of 7.83 <m>\mu</m>m.  On the viewing screen, you measure the distance from the central bright fringe to the 2nd bright fringe to be 88.2 cm.  How far away (in meters) is the viewing screen from the double slits? 
+			</p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p>5 meters</p>
+		</answer>
+	</problem>
+
+	<problem xml:id="psa_opt-alpha3">
+        <title>Single-Slit</title>
+		<statement>
+			<p>
+				A laser of unknown wavelength is used to illuminate a single slit of width 100 <m>\mu</m>m.  A viewing screen is placed 1.50 meters away from the slit.  A measurement between the central bright fringe and the 2nd dark fringe yields a result of 1.95 cm.  What is the wavelength (in nm) of the laser?
+			</p>
+		</statement>
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p>650 nm</p>
+		</answer>
+	</problem>
+
+</subsection>
+
+
+
+
+<references>
+	<biblio xml:id="ref_boxsand-po">
+	<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+	</biblio>
+</references>
+</section>
+

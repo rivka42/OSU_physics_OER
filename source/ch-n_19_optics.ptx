@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_optics" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Optics</title>
+	<introduction>
+    <p> In this chapter you will learn how to model light.</p>
+	
+	<p><alert>Learning Outcomes</alert></p>
+  
+	<p>
+		After successful completion of this chapter, you will be able to:
+		<ol>
+			<li>Draw ray diagrams using the Ray Model for Light.</li>
+			<li>Explain how light is reflected and refracted upon hitting a surface or entering a medium.</li>
+			<li>Apply the law of refraction to determine how light travels through different mediums.</li>
+			<li>Explain how images are produced by flat and curved mirrors.</li>
+			<li>Explain how lenses work.</li>
+			<li>Differentiate between the wave and ray models for light, and explain in what cases they are most useful.</li>
+		</ol>
+	</p>
+
+	</introduction>
+
+	<!--INTRODUCTORY SECTIONS-->
+
+
+	<!--PREPARE SECTIONS-->
+
+
+    <!--PRACTICE SECTIONS-->
+
+
+    <!--CHALLENGE SECTIONS-->
+
+
+
+
+
+	<!--INTRODUCTORY SECTIONS-->
+	<xi:include href="./optics/sec_ray-model.ptx" /> 
+
+	<!--PREPARE SECTIONS-->
+	<xi:include href="./optics/sec_reflection.ptx" />
+	<xi:include href="./optics/sec_plane-mirrors.ptx" />
+	<xi:include href="./optics/sec_refraction.ptx" />
+	<xi:include href="./optics/sec_lenses.ptx" /> 
+	<xi:include href="./optics/sec_curved-mirrors.ptx" />
+
+    <!--PRACTICE SECTIONS-->
+	<xi:include href="./optics/sec_optics-summary.ptx" />
+	<xi:include href="./optics/sec_opt-practice.ptx" />
+
+    <!--CHALLENGE SECTIONS-->
+	<xi:include href="./optics/sec_opt-challenge.ptx" />
+
+
+
+</chapter>
+
+
+
+
+
+
+
+

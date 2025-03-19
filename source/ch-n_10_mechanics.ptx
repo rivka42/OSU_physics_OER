@@ -29,10 +29,13 @@
 
 		
 		<!--PRACTICE SECTIONS-->
+		<xi:include href="./en/sec_power.ptx" />
 
 
+		<xi:include href="./en/sec_mech-practice.ptx" />
 		
 		<!--CHALLENGE SECTIONS-->
+		<xi:include href="./en/sec_mech-challenge.ptx" />
 		<xi:include href="./en/sec_energy-summary.ptx" />
 
 		

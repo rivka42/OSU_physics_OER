@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_oscl-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Practice, Study, and Apply - Oscillations</title>
+  <title>Practice - Oscillations</title>
 	
 	<!--
 	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
@@ -173,53 +173,7 @@
 
 </subsection>
 
-<subsection>
-<title>Study</title>
 
-	<project xml:id="pa_oscl-01">
-        <title>Ant on a String</title>
-		<statement>
-		<p>A string (length <m>L</m>) with constant tension <m>T</m> is tied horizontally between two walls (this is effectively how strings in musical instruments work!).  An ant (mass <m>m</m>) clings to the very center of the string, which is moving back and forth horizontally with amplitude <m>A</m> much smaller than <m>L</m>.</p>
-
-		<p>Model the situation as a simple harmonic oscillator, find the angular frequency, and create one or more graphs showing the motion of the system as a function of time.</p>
-		</statement>
-		<hint>
-		    <p>You may find it necessary to make an approximation in order to model the system as a simple harmonic oscillator!</p>
-		</hint>
-	</project>
-
-	<investigation xml:id="pa_oscl-02">
-		<title>Weighted Pendulum</title>
-		<statement>
-			<p>You can make an interesting pendulum by taking a very light, stiff, cylindrical object (like a paper towel roll) of length L and taping or gluing two small, heavy objects to the inside: mass <m>m_1</m> at an end and mass <m>m_2</m> exactly in the center. The end with nothing attached to it is then attached to the ceiling with a very short piece of string, and the pendulum is allowed to swing back and forth with amplitude A much smaller than <m>L</m>.</p>
-
-			<p>In case A, suppose that <m>m_1</m> > <m>m_2</m>, and in case B, suppose that <m>m_2</m> > <m>m_1</m>.  Will the period in case A be <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the period in case B?</p>
-		</statement>
-	</investigation>
-
-
-</subsection>
-
-<subsection>
-<title>Apply</title>
-
-	<investigation xml:id="psa_oscl-01">
-		<title>Pendulum on a Tree</title>
-		<statement>
-		<p>You find a very tall tree one day and decide to measure the height of the tree using a pendulum. You tie a small rock to a rope that is also tied to a branch at the top of the tree, so that when the rope is vertical the rock is very close to the ground. You then release the rock from rest at an initial angle of 5°. You measure the amount of time it takes for the rock to return to your hand. Your friend performs the same experiment with a different tree, but uses a smaller initial angle of only 2.5°. Your friend measures the amount of time it takes for the rock to return to her hand to be half as big as the time you found. Is the height of your tree <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the height of your friend's tree?</p>
-		</statement>
-	</investigation>
-
-	<project xml:id="psa_oscl-02">
-        <title>Coin on a Block</title>
-		<statement>
-		    <p>A block is attached to the top of a spring that is oscillating vertically. A small coin with negligible mass is riding on top of the block (it is not attached to either the block or the spring). You measure that the largest possible time for the block to complete one full oscillation, without causing the coin to fall off, is 2.5 s. What is the amplitude of this oscillation?</p>
-		</statement>
-		<hint>For your representation (part 1c), sketch graphs of the position, velocity, and acceleration of the block vs. time.</hint>
-	</project>
-
-
-</subsection>
 <references>
 	<biblio xml:id="ref_boxsand-oscl">
 	<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>

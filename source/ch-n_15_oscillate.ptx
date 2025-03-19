@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_oscillate" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Oscillations</title>
+	<introduction>
+    <p> Oscillations are ubiquitous in the natural world. The swaying of a tree in the wind, the motion of a child playing on a swing, springs, pendulums, musical instruments and even atoms bonded together in modules all undergo oscillatory motion. Additionally, as we will later see, oscillations are the source of waves. Our physical models of oscillatory motion will carry over to the next chapter where we study wave motion. In this chapter you will focus on applying physics models to oscillations and oscillatory motion.</p>
+	
+	<p><alert>Learning Outcomes</alert></p>
+  
+  
+<p> After successful completion of this chapter, you will be able to:
+ <ol>
+<li>Define simple harmonic motion.</li>
+<li>Define and represent graphically the amplitude, frequency, angular frequency, period and phase constant of an oscillating system.</li>
+<li>Define and represent graphically the position, velocity, and acceleration of an oscillating system</li>
+<li>Identify relationships between oscillatory motion and circular motion.</li>
+<li>Define a restoring force.</li> 
+<li>Identify when a restoring force is directly proportional to displacement.</li>
+<li>Represent oscillations using diagrams, graphs, words, equations, etc..</li>
+<li>Define the energy of an object undergoing simple harmonic motion.</li>
+<li>Analyze an oscillating system using a conservation of energy approach.</li>
+<li>Draw and analyze potential energy graphs for oscillating systems.</li>
+<li>Determine an equation of motion for oscillating systems.</li>
+<li>Determine the period and frequency for oscillating systems.</li>
+<li>Apply the small-angle approximation.</li>
+<li>Analyze oscillating systems using the force model and torque model.</li>
+<li>Analyze oscillating systems with dissipative forces such as friction.</li>
+</ol>
+
+</p>
+
+</introduction>
+
+    <!--INTRODUCTORY SECTIONS-->
+    <xi:include href="./oscl/sec_simpleHM.ptx" /> 
+
+
+		<!--PREPARE SECTIONS-->
+    <xi:include href="./oscl/sec_graphTrig.ptx" /> 
+    <xi:include href="./oscl/sec_kinematicsHM.ptx" /> 
+    <xi:include href="./oscl/sec_springs.ptx" /> 
+    <xi:include href="./oscl/sec_EOM.ptx" /> 
+    <xi:include href="./oscl/sec_circularHM.ptx" /> 
+    <xi:include href="./oscl/sec_energyHM.ptx" /> 
+    <xi:include href="./oscl/sec_pendula.ptx" />
+    <xi:include href="./oscl/sec_smallA.ptx" />
+    <xi:include href="./oscl/sec_Ppendula.ptx" />
+    <xi:include href="./oscl/sec_damped.ptx" /> 
+
+		
+    
+    <!--PRACTICE SECTIONS-->
+    <xi:include href="./oscl/sec_oscl-practice.ptx" /> 
+
+
+    <!--CHALLENGE SECTIONS-->
+    <xi:include href="./oscl/sec_oscl-challenge.ptx" /> 
+
+    
+</chapter>
+
+
+
+
+
+
+
+

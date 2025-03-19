@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_opt-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Practice, Study, and Apply - Optics</title>
+  <title>Practice - Ray Optics</title>
 	
 	<!--
 	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
@@ -12,74 +12,7 @@
 
 <subsection>
 <title>Practice</title>
-    <problem xml:id="psa_opt-alpha0">
-        <title>Double-Slit I</title>
-		<statement>
-			<p>
-				The 3rd bright fringe of a double-slit interference pattern is 30.0 cm above the central bright fringe. If the angle from the horizontal (the central bright fringe) to this 3rd bright fringe is 12.0 degrees, what is the distance (in meters) between the double slits and the viewing screen?
-			</p>
-		</statement>
-		<!--
-		<hint>
-		    <p></p>
-		</hint>
-		-->
-		<answer>
-		    <p>1.41 meters</p>
-		</answer>
-	</problem>
-
-	<problem xml:id="psa_opt-alpha1">
-        <title>Double-Slit II</title>
-		<statement>
-			<p>
-				A 500 nm laser illuminates a double-slit apparatus with a slit separation distance of 7.73 <m>\mu</m>m.  What is the angle (in degrees) from the horizontal to the 4th bright fringe? 
-			</p>
-		</statement>
-		<!--
-		<hint>
-		    <p></p>
-		</hint>
-		-->
-		<answer>
-		    <p><m>15^{\circ}</m></p>
-		</answer>
-	</problem>
-
-	<problem xml:id="psa_opt-alpha2">
-        <title>Double-Slit III</title>
-		<statement>
-			<p>
-				A 680 nm laser illuminates a double-slit apparatus with a slit separation distance of 7.83 <m>\mu</m>m.  On the viewing screen, you measure the distance from the central bright fringe to the 2nd bright fringe to be 88.2 cm.  How far away (in meters) is the viewing screen from the double slits? 
-			</p>
-		</statement>
-		<!--
-		<hint>
-		    <p></p>
-		</hint>
-		-->
-		<answer>
-		    <p>5 meters</p>
-		</answer>
-	</problem>
-
-	<problem xml:id="psa_opt-alpha3">
-        <title>Single-Slit</title>
-		<statement>
-			<p>
-				A laser of unknown wavelength is used to illuminate a single slit of width 100 <m>\mu</m>m.  A viewing screen is placed 1.50 meters away from the slit.  A measurement between the central bright fringe and the 2nd dark fringe yields a result of 1.95 cm.  What is the wavelength (in nm) of the laser?
-			</p>
-		</statement>
-		<!--
-		<hint>
-		    <p></p>
-		</hint>
-		-->
-		<answer>
-		    <p>650 nm</p>
-		</answer>
-	</problem>
-
+    
 	<problem xml:id="psa_opt-alpha4">
         <title>Angle of Refraction</title>
 		<statement>
@@ -183,74 +116,9 @@
 
 </subsection>
 
-<subsection>
-<title>Study</title>
-
-	<project xml:id="pa_opt-0">
-		<title>Fun House Mirror</title>
-		<statement>
-			<p>You go to the hall of mirrors in a funhouse and stand 2.25 m in front of a spherical mirror. The mirror forms an image of you at a point 1.25 m behind the mirror. What is the focal length of the mirror?</p>
-		</statement>
-	</project>
-
-	<investigation xml:id="pa_opt-1">
-		<title>Ray Diagram</title>
-		<statement>
-			<p>
-				Two objects and a mirror are arranged as shown below. Draw a ray diagram to determine the location of the image of each of the two objects.
-			</p>
-			<figure xml:id="fig_opt-mirror">
-				<caption>Two objects and a mirror.</caption>
-				<image source="ray-diagram-1.png" width = "100%">
-					<description></description>
-				</image>
-			</figure>
-		</statement>
-	</investigation>
-
-	<investigation xml:id="pa_opt-2">
-		<title>Single Slit</title>
-		<statement>
-			<p>
-				A laser shines through a single slit of unknown width a. You observe at least one dark spot on a distant screen.Is the width of the slit <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the wavelength of the laser?
-			</p>
-		</statement>
-		
-		
-	</investigation>
-
-</subsection>
-
-<subsection>
-<title>Apply</title>
-
-	<investigation xml:id="psa_opt-0">
-		<title>Ray Diagram</title>
-		<statement>
-		<p>A candle is located near two mirrors as shown in the figure below. Draw a ray diagram showing the location of the image that your eye sees when looking into the left mirror.</p>
-		<figure xml:id="fig_opt-ray-diagram">
-			<caption>A candle and two mirrors.</caption>
-			<image source="ray-diagram.png" width = "25%">
-				<description></description>
-			</image>
-		</figure>
-		</statement>
-	</investigation>
-
-	<project xml:id="psa_opt-1">
-        <title>Human Eye</title>
-		<statement>
-		    <p>The average human eye is about 2.4 cm in diameter, that is, the lens is 2.4 cm from the retina. Assume you have an average eye, and that an object that is 5.0 cm high is located 25 cm from your eye. What focal length must your lens be to create an image on your retina?</p>
-		</statement>
-		<hint>
-			<p>
-				Sensemaking suggestion: What type of lens is this? How can you tell?
-			</p>
-		</hint>
-	</project>
 
 
-</subsection>
+
 <references>
 	<biblio xml:id="ref_boxsand-opt">
 	<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
