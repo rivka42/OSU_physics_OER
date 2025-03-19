@@ -64,7 +64,7 @@ r = |\vec{r}| = \sqrt{r_x^2 + r_y^2}
 </me>	
 
 
-			<exercises>
+			<exercises xml:id="x_trig-rel">
 		<title>Practice Activities</title>
 				<exercise xml:id="x_vector-lengths">
 		<statement>

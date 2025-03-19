@@ -99,7 +99,7 @@ Suppose you want to know the exact temperature of the gas at the end of the expa
 
 		
 		
-		<note>
+		<note xml:id="note_zero">
 <title>What about Zero?</title>
 <p>There is one special exception to solving equations without plugging in numbers: the number zero.  When a quantity is known to be zero, it is often the result of some special, fundamental property of the situation; thus, you are unlikely to want to go back and change the number away from zero (if you do, you often make the situation more complicated).  So if you have a quantity you know is zero, feel free to plug it into any equations early!</p>
 </note>
@@ -117,7 +117,7 @@ Suppose you want to know the exact temperature of the gas at the end of the expa
 			</image>
     </figure>
 		
-	<activity>
+	<activity xml:id="x_vel-man">
 	<title>Velocity Manipulation</title>
 <introduction>
 <p></p>
@@ -162,7 +162,7 @@ Suppose you want to know the exact temperature of the gas at the end of the expa
 		</activity>
 		
 
-<activity>
+<activity xml:id="x_air-cart">
 	<title>The Air Cart</title>
 <introduction>
 <p></p>

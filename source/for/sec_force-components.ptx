@@ -16,7 +16,7 @@
 			</image>
     </figure>
 		
-			<activity>
+			<activity xml:id="x_tortoise-pebble">
 	<title>The Tortoise and the Pebble</title>
 <introduction>
 <p></p>
