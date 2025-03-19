@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_inertia-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Practice - Moments of Inertia</title>
+
+	<!--
+	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
+	If you want an Explain activity, use the <investigation> tag.
+		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
+	If you want a Calculate activity, use the <exploration> tag.
+	-->
+	
+<subsection>
+<title>Numerical Practice</title>
+
+	
+	<exploration xml:id="psa_rot-alpha5">
+		<title>Moment of Inertia</title>
+		<statement>
+			<p>
+				Which of the following statements concerning the moment of inertia <em>I</em> are false?
+			</p>
+			<p>
+				<ol marker="A">
+				  <li><em>I</em> may be expressed in units of <m>\mathrm{~kg m^2}</m></li>
+				  <li><em>I</em> depends on the angular acceleration of the object as it rotates</li>
+				  <li><em>I</em> depends on the location of the rotation axis relative to the particles that make up the object.</li>
+				  <li><em>I</em> depends on the orientation of the rotation axis relative to the particles that make up the object.</li>
+				</ol>
+			  </p>
+		</statement>
+		<answer>
+			<p>
+				B.
+			</p>
+		</answer>
+	</exploration>
+
+	</subsection>
+  
+<references>
+<biblio xml:id="ref_inertia">
+<p>Numerical practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+</biblio>
+</references>
+	
+</section>
+

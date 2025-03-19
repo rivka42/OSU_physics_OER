@@ -11,18 +11,6 @@
   
 <p>After successful completion of this chapter, you will be able to:
  <ol>
-<li>Define work</li>
-<li>Define kinetic energy</li>
-<li>Evaluate the relationship between work and kinetic energy</li>
-<li>Represent energy concepts using multiple representations (diagrams, graphs, words, equations)</li>
-<li>Define a system</li>
-<li>Define potential energy for a system</li>
-<li>Define mechanical energy and determine when mechanical energy is conserved in a system</li>
-<li>Analyze a system using a conservation of energy approach</li>
-<li>Draw diagrams useful for analysis of a system using an energy approach</li>
-<li>Analyze energy diagrams depicting the total energy as the sum of potential and kinetic energy</li>
-<li>Analyze systems with work done by dissipative forces such as friction</li>
-<li>Differentiate between conservative and non-conservative forces in an energy framework</li>
 <li>Define momentum</li>
 <li>Define impulse</li>
 <li>Evaluate the relationship between impulse and momentum</li>
@@ -39,21 +27,17 @@
 
 </introduction>
 
-<!--INTRODUCTORY SECTIONS-->
-
+		<!--INTRODUCTORY SECTIONS-->
+		<xi:include href="./en/sec_what-is-momentum.ptx" />
 		
-		<!--PREPARE SECTIONS-->
-	<xi:include href="./en/sec_what-is-momentum.ptx" />
-	<xi:include href="./en/sec_impulse-momentum-thm.ptx" />
-	<xi:include href="./en/sec_momentum-vector-diagrams.ptx" />
-	<xi:include href="./en/sec_collisions.ptx" />
+		<!--PREPARE SECTIONS-->	
+		<xi:include href="./en/sec_impulse-momentum-thm.ptx" />
+		<xi:include href="./en/sec_momentum-vector-diagrams.ptx" />
+		<xi:include href="./en/sec_collisions.ptx" />
 		
 		<!--PRACTICE SECTIONS-->
-
-		<xi:include href="./en/sec_mom-practice.ptx" />
 		
 		<!--CHALLENGE SECTIONS-->
-<xi:include href="./en/sec_mom-challenge.ptx" />
 
 		
 		
@@ -72,10 +56,7 @@
 	<xi:include href="./en/sec_energy-bar-charts.ptx" />
 	<xi:include href="./en/sec_potential-energy-diagrams.ptx" />
 	<xi:include href="./en/sec_force-and-potential-energy.ptx" />
-	<xi:include href="./en/sec_what-is-momentum.ptx" />
-	<xi:include href="./en/sec_impulse-momentum-thm.ptx" />
-	<xi:include href="./en/sec_momentum-vector-diagrams.ptx" />
-	<xi:include href="./en/sec_collisions.ptx" />
+
 	<xi:include href="./en/sec_energy-summary.ptx" />
 	<xi:include href="./en/sec_en-practice.ptx" />
 	-->

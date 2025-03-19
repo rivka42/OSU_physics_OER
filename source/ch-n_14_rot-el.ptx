@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_rot-el" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Rotational Energy and Angular Momentum</title>
+	<introduction>
+    <p> In this chapter you will focus on applying physics models to rotational motion.</p>
+	
+	<p><alert>Learning Outcomes</alert></p>
+  
+  
+<p>After successful completion of this chapter, you will be able to:
+ <ol>
+<li>Define rotational kinetic energy</li>
+<li>Define rotational work</li>
+<li>Determine when energy is conserved for rotating systems</li>
+<li>Define angular momentum</li>
+<li>Determine when angular momentum is conserved</li>
+<li>Analyze systems using conservation laws</li>
+<li>Define precession</li>
+</ol>
+
+</p>
+
+</introduction>
+
+    <!--INTRODUCTORY SECTIONS-->
+
+
+		<!--PREPARE SECTIONS-->
+		<xi:include href="./rot/sec_rot-ke.ptx" />
+    <xi:include href="./rot/sec_rot-work.ptx" />
+    <xi:include href="./rot/sec_angular-momentum.ptx" />
+    <xi:include href="./rot/sec_angular-momentum-vd.ptx" />
+    <xi:include href="./rot/sec_conservation-analysis.ptx" />
+    <xi:include href="./rot/sec_precession.ptx" />
+    <xi:include href="./rot/sec_rotation-summary.ptx" />
+    
+    
+    <!--PRACTICE SECTIONS-->
+		<xi:include href="./rot/sec_rotel-practice.ptx" />
+    
+    <!--CHALLENGE SECTIONS-->
+    <xi:include href="./rot/sec_rotel-challenge.ptx" />
+
+
+
+    <!--
+<xi:include href="./rot/sec_models.ptx" /> 
+<xi:include href="./vec/sec_cross_product.ptx" />
+<xi:include href="./rot/sec_centripetal.ptx" /> 
+<xi:include href="./rot/sec_tangential.ptx" /> 
+<xi:include href="./rot/sec_ang-motion.ptx" />
+<xi:include href="./rot/sec_uniform-circular.ptx" />
+<xi:include href="./rot/sec_constant-alpha.ptx" />
+<xi:include href="./rot/sec_orbital.ptx" />
+<xi:include href="./rot/sec_rolling-slipping.ptx" />
+<xi:include href="./rot/sec_rigid-body.ptx" />
+<xi:include href="./rot/sec_ext-fbds.ptx" />
+<xi:include href="./rot/sec_torque.ptx" />
+<xi:include href="./rot/sec_law-of-motion-angular.ptx" />
+<xi:include href="./rot/sec_center-of-mass.ptx" />
+<xi:include href="./rot/sec_moment-of-inertia.ptx" />
+<xi:include href="./rot/sec_modeling-inertia.ptx" />
+<xi:include href="./rot/sec_parallel-axis.ptx" />
+<xi:include href="./rot/sec_torque-analysis.ptx" />
+
+    -->
+	
+</chapter>
+
+
+
+
+
+
+
+

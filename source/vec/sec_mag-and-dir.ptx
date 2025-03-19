@@ -60,20 +60,16 @@
 		
 		<p></p>
 		
-		    <p>Find the y-component of the vector shown below.</p>
+		    <p>Find the <m>y</m>-component of the vector shown below.</p>
 		
 			<figure xml:id="fig_vec-comp">
 		 <caption>A vector.</caption>
-		<image source="vec-comp.png" width = "50%">
+		<image source="vec-comp.png" width = "40%">
 			<description></description></image>
   </figure>
 	</exercise>
 
-<figure xml:id="fig_vec-pairs">
-		 <caption>A vector.</caption>
-		<image source="Vector-Pairs.png" width = "50%">
-			<description></description></image>
-  </figure>
+
 
 	<exercise xml:id="class_vec-qual">
 	<title>Explanation: Vector Comparison</title>
@@ -81,7 +77,7 @@
 		
 		<p></p>
 		
-		    <p>All the vectors above have the same magnitude. 
+		    <p>All the vectors below have the same magnitude. 
 Is the magnitude of the sum of the two vectors on the left greater than, less than, or equal to the magnitude of the sum of the two vectors on the right? 
 What could you draw to help explain your reasoning?
 </p>
@@ -94,6 +90,11 @@ What could you draw to help explain your reasoning?
 			
 	</exercise>
 
+<figure xml:id="fig_vec-pairs">
+		 <caption>A vector.</caption>
+		<image source="Vector-Pairs.png" width = "30%">
+			<description></description></image>
+  </figure>
 
 	<exercise xml:id="arcs_planets-building">
         <title>The Planets around the Sun</title>

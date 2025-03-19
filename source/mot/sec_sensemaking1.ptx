@@ -44,25 +44,36 @@
 
 	<exercises>
 	<title>Activities: Practice Sensemaking</title>
-  <p>The statements below are incorrect.  For each statement, use a sensemaking strategy to determine why it is incorrect, such as the one introduced in this section or those in <xref ref="sec_units"></xref>.</p>
-			<exercise>
+
+	<exercise>
+	<title>Rejecting Incorrect Claims</title>
+			<p>The statements below are incorrect.  For each statement, use a sensemaking strategy to determine why it is incorrect, such as the one introduced in this section or those in <xref ref="sec_units"></xref>.</p>
+			<ol marker="a">
+				<li>
 			  <p>Your friend has built a rocket and reports that it has a top speed of <m>v=700 \mathrm{~m/s^2}</m>.</p>
-			</exercise>
-			<exercise>
+			</li>
+			<li>
 			  <p>The Wizard of Oz claims the volume of his balloon <m>V</m> is related to the temperature <m>T</m> by a constant <m>\alpha</m>: <m>V = \frac{\alpha}{T}</m>.</p>
-			</exercise>
-			<exercise>
+			</li>
+			<li>
    			<p>A car dealer claims that a certain new car has a mass of <m>4000 \mathrm{~g}</m>.</p>
-			</exercise>
-			<exercise>
+			</li>
+			<li>
 			  <p>A manufacturer claims that an office space with length <m>x</m> and width <m>y</m> can fit the following number of their cubicles: <m>N=5\frac{y}{x}</m>.</p>
-			</exercise>
+			</li>
+			</ol>
+	</exercise>
+  
 			
+			<exercise>
+			  <p>When you are making sense of something in physics, it can be tempting to just say "Yes, this makes sense to me."  Why do you think you should say more when sensemaking?</p>
+			</exercise>
+
 	<exercise xml:id="class_covariation1">
         <title>The Ball and the Bounce I</title>
 		<statement>
 		    <p>
-				At <m>t_o = 0 \mathrm{s}</m>, The instructor throws a tennis ball directly downward at <m>v_i = 12 \mathrm{~m/s}</m>. 
+				At <m>t_o = 0 \mathrm{~s}</m>, The instructor throws a tennis ball directly downward at <m>v_i = 12 \mathrm{~m/s}</m>. 
 At <m>t_1 = 0.2 \mathrm{~s}</m>, after falling <m>h = 1.2 \mathrm{~m}</m>, the ball hits the ground and bounces. 
 At <m>t_2 = 0.48 \mathrm{~s}</m>, the instructor catches the ball at the same point where they released it, moving upward at <m>v_f = 4 \mathrm{~m/s}</m>. 
 Determine the average acceleration of the tennis ball.	
@@ -110,12 +121,7 @@ Determine the average acceleration of the tennis ball.
 				</li>
 			</ul>
 		</statement>
-		<answer>
-		    <p><me>
-				a_{ave} = \frac{v_f + v_i}{t_2}
-			</me>
-			</p>
-		</answer>
+		
 	</exercise>
 			
 			<!--

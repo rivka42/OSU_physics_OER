@@ -55,6 +55,9 @@
 		<xi:include href="./ch-n_09_momentum.ptx" />
 		<xi:include href="./ch-n_10_mechanics.ptx" />
 		<xi:include href="./ch-n_11_rotational.ptx" />
+		<xi:include href="./ch-n_12_torque.ptx" />
+		<xi:include href="./ch-n_13_inertia.ptx" />
+		<xi:include href="./ch-n_14_rot-el.ptx" />
 		
 		<!--
 		<xi:include href="./ch_06_oscillate.ptx" />

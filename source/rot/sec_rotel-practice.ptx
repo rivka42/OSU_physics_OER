@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_rotel-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Practice - Rotational Energy and Angular Momentum</title>
+
+	<!--
+	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
+	If you want an Explain activity, use the <investigation> tag.
+		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
+	If you want a Calculate activity, use the <exploration> tag.
+	-->
+	
+<subsection>
+<title>Numerical Practice</title>
+
+	<exploration xml:id="psa_rot-alpha7">
+		<title>Olympic High Diver</title>
+		<statement>
+			<p>
+				An Olympic high diver in midair pulls her legs inward toward her chest. Doing so changes which of these quantities?
+			</p>
+			<p>
+				<ol marker="A">
+				  <li>Angular momentum</li>
+				  <li>Rotational inertia about her center of mass</li>
+				  <li>Angular velocity</li>
+				  <li>Translational (linear) momentum</li>
+				  <li>Translational (linear) kinetic energy</li>
+				  <li>Rotational kinetic energy</li>
+				</ol>
+			  </p>
+		</statement>
+		<answer>
+			<p>
+				B., C., E.
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration xml:id="psa_rot-alpha8">
+		<title>Helicopter I</title>
+		<statement>
+			<p>
+				A typical small rescue helicopter has four blades. Each blade is <m>4.0 \mathrm{~m}</m> long and has a mass of <m>50.0 \mathrm{~kg}</m>. The blades can be approximated as thin rods that rotate about one end of an axis perpendicular to their length. The helicopter has a total loaded mass of <m>1000 \mathrm{~kg}</m>. Calculate the rotational kinetic energy in the blades when they rotate at <m>300 \mathrm{~rpm}</m>.
+			</p>
+		</statement>
+		<answer>
+			<p>
+				<m>5.26 \times 10^5 \mathrm{~J}</m>
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration xml:id="psa_rot-alpha9">
+		<title>Helicopter II</title>
+		<statement>
+		<p>
+			A typical small rescue helicopter has four blades. Each blade is <m>4.00 \mathrm{~m}</m> long and has a mass of <m>50.0 \mathrm{~kg}</m>. The blades can be approximated as thin rods that rotate about one end of an axis perpendicular to their length. The helicopter has a total loaded mass of <m>1000 \mathrm{~kg}</m>. What is the ratio of translational kinetic energy of the helicopter over the rotational kinetic energy of its blades when it flies at <m>20.0 \mathrm{~m/s}</m>?
+		</p>
+		</statement>
+	<answer>
+		<p>
+			0.38
+		</p>
+	</answer>
+	</exploration>
+	
+	<exploration xml:id="psa_rot-alpha10">
+		<title>Helicopter III</title>
+		<statement>
+			<p>
+				A typical small rescue helicopter has four blades. Each blade is <m>4.00 \mathrm{~m}</m> long and has a mass of <m>50.0 \mathrm{~kg}</m>. The blades can be approximated as thin rods that rotate about one end of an axis perpendicular to their length. The helicopter has a total loaded mass of <m>1000 \mathrm{~kg}</m>. To what height could the helicopter be raised if all of the rotational kinetic energy could be used to lift it?
+			</p>
+		</statement>
+		<answer>
+			<p>
+			<m>53.7 \mathrm{~m}</m>
+			</p>
+		</answer>
+	</exploration>
+
+	</subsection>
+  
+<references>
+<biblio xml:id="ref_rotel">
+<p>Numerical practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+</biblio>
+</references>
+	
+</section>
+
