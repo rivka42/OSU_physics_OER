@@ -40,7 +40,7 @@
 			</image>
     </figure>
 		
-			<activity>
+			<activity xml:id="x_tortoise-slide">
 	<title>The Tortoise down the Slide</title>
 <introduction>
 <p></p>
@@ -81,7 +81,7 @@
 			</image>
     </figure>
 		
-	<activity>
+	<activity xml:id="x_rolling-bal">
 	<title>The Rolling Ball</title>
 <introduction>
 <p></p>
@@ -128,7 +128,7 @@
 			
 		</activity>
 		
-			<activity>
+	<activity xml:id="x_thrown-ball">
 	<title>The Thrown Ball</title>
 <introduction>
 <p></p>
@@ -157,6 +157,43 @@
 			  <p>Average velocity is a vector quantity.  Show that it is a vector with a reasonable direction.</p>
 				</statement>
 			</task>
+					</activity>
+
+<figure xml:id="mot_MotionB">
+		  <caption>A strobe diagram.</caption>
+      <image source="MotionB.png" width = "100%">
+			<description></description>
+			</image>
+    </figure>
+
+<activity xml:id="class_changing-vel">
+	<title>Changing Velocity</title>
+<introduction>
+<p></p>
+    <p>
+      A total of <m>0.2 \mathrm{~s}</m> passes between each successive dot. 
+	  The distance between the leftmost and rightmost points is <m>64 \mathrm{~cm}</m>.
+    </p>
+		</introduction>
+<p>
+	<ol>
+		<li>
+		Describe how the velocity of the ball is changing.  Explain how you can tell from the strobe diagram.
+		</li>
+		<li>
+		Make a motion diagram with velocity and acceleration vectors.
+		</li>
+		<li>
+		What is the average speed during the motion?
+		</li>
+		<li>
+		Is the instantaneous speed at the point in the middle greater than, less than, or equal to the average speed? Explain your reasoning.
+		</li>
+		<li>
+		Sketch motion graphs for the ball showing position, velocity, and acceleration vs. time. Confirm that your graph agrees with the derivative relationships between position, velocity, and acceleration.
+					</li>
+					</ol>
+					</p>
 					</activity>
 
   <references>

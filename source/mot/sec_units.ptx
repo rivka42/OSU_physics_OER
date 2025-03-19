@@ -50,13 +50,7 @@ Units for physical quantities can be divided into two categories: base units and
 
 </insight>
 
-<p>Checking units or numbers are two of the easiest and most powerful ways to <term>make sense</term> of something in physics.  When you make sense of something, your objective is evaluate whether or not what physics says about a context aligns with your physical understanding and reasoning about that context.  The steps below will help give you a process to follow for physics sensemaking.</p>
-
-  <figure xml:id="fig_sensemaking">
-		 <caption>Steps to follow when sensemaking.</caption>
-		<image source="SensemakingSteps.png" width = "50%">
-			<description>Physics Sensemaking.  1. Choose a sensemaking strategy.  2a. What should this strategy say about the context?  2b. Give a physical reason for why it says this.  3a. What does your answer actually say?  3b. Show what it says explicitly. 4. Compare what your answer actually says and what it should say!</description></image>
-  </figure>	
+<p>Checking units or numbers are two of the easiest and most powerful ways to <term>make sense</term> of something in physics.  When you make sense of something, your objective is evaluate whether or not what physics says about a context aligns with your physical understanding and reasoning about that context, following the steps in <xref ref="fig_sensemaking"/>.</p>
 
 <heuristic xml:id="sm_units">
 	<title>Check Units</title>
@@ -73,7 +67,7 @@ When we speak about the units of a quantity, we are referring to the base units 
 </p>
 -->
 
-<example>
+<example xml:id="ex_how-to-check-units">
   <title>How to Check Units</title>
 	<p>
 Suppose that we have derived the escape speed of a rocket from a planet of mass <m>M</m> and radius <m>R</m> (escape speed is the speed at which an object must reach to escape the gravitational pull): <m>v_{esc} = \sqrt{\frac{2GM}{R}}</m>.  As a speed, <m>v_{esc}</m> should have units like m/s (distance divided by time).
@@ -93,7 +87,7 @@ We can see that the physical quantities under the square root indeed have base u
 
 </example>
 
-	<note>
+	<note xml:id="note_dimensions">
 <title>Dimensions</title>
 <p>
 Physics uses the word dimensions to refer to the class of unit for a quantity.  For example, speed can be measured in units of km/hr, m/s, or mi/hr but the base <em>dimensions</em>, represented in square brackets, are always a length [L] divided by a time [T].
@@ -109,7 +103,7 @@ Physics uses the word dimensions to refer to the class of unit for a quantity.  
 	</statement>
 </heuristic>
 
-<example>
+<example xml:id="ex_how-to-check-numbers">
 <title>How to Check Numbers</title>
 <p>Consider the example from the start of this section, where you measured the length of an object in a physics lab to be <m>17.4 \mathrm{~cm}</m>.  You may want to compare this number to the length of other objects that you might expect to find in a physics lab.  For example, you might expect that many objects in a physics lab can be held in one hand; you would then want to compare the <m>17.4 \mathrm{~cm}</m> measurement to the size of a human hand to evaluate its reasonableness.  The search term "human hand size" results in a measurement of between <m>6.8</m> and <m>7.6 \mathrm{~in}</m>, which you might approximate to about <m>7 \mathrm{~in}</m> (note: when checking numbers, you do not need to be precise, just approximate).  Converting this <m>7 \mathrm{~in}</m> to SI units gives approximately <m>17.8 \mathrm{~cm}</m>.  This is very close to the object you measured in the lab, so it seems like this measurement was pretty reasonable!  It is also worth noting here that length is usually given as a positive number, which this measurement is.</p>
 <p>You might be asking yourself: what would an <em>unreasonable</em> answer have looked like?  Perhaps your measurement had been <m>174 \mathrm{~cm}</m> instead of <m>17.4 \mathrm{~cm}</m>.  This is only about ten times bigger, and still seems like a reasonable measurement for a physics lab (something about the height of a person).  On the other hand, measuring something like <m>17.4 \mathrm{~km}</m> would be fairly unreasonable for an ordinary physics lab: 100,000 times bigger than a person's hand!</p>
@@ -118,7 +112,7 @@ Physics uses the word dimensions to refer to the class of unit for a quantity.  
 
 
 
-	<exercises>
+	<exercises xml:id="x_units">
 	<title>Units Activities</title>
 
 			<exercise xml:id="x_identifying-units">
@@ -174,7 +168,7 @@ Physics uses the word dimensions to refer to the class of unit for a quantity.  
 			
 		</exercises>
 		
-			<exercises>
+			<exercises xml:id="x_nums">
 	<title>Numbers Activities</title>
 
 			<exercise xml:id="x_identifying-numbers">

@@ -1,142 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_covariation" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Sensemaking: Covariational Reasoning</title>
+<section xml:id="sec_sensemaking" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Physics Sensemaking</title>
 	
-    <p>You previously learned how to make sense of both units and numbers in <xref ref="sec_units"/>.  Perhaps the most powerful type of physics sensemaking is <em>symbolic</em>, since so much of physics is concerned with symbolic equations.  The most general way to make sense of a symbolic equation is with covariational reasoning.
-    </p>
-		
-		<heuristic xml:id="sm_covariation">
-	<title>Covariational Reasoning</title>
-	<statement>
-	<p></p>
-		<p><term>Covariational Reasoning</term>, or <term>Covariation</term>, involves examining the relationship between two (or more) quantities to see how they are changing together<fn>"co" meaning together and "variation" meaning changing</fn>.  The objective is to state <em>how</em> the quantities are related and <em>why</em> that relationship makes sense.</p>
-	</statement>
-</heuristic>
+<p>Physics is fundamentally about using quantitative models to make sense of the natural world. 
+When you make sense of something, your objective is evaluate whether or not what physics says about a context aligns with your physical understanding and reasoning about that context.  
+The steps in the following figure will guide you in making sense of physics.
+</p>
 
-
-<p>When you use covariational reasoning, continue to follow the sensemaking steps from <xref ref="fig_sensemaking"/>.  </p>
-
-
-	<example>
-<title>Covariational Sensemaking: Area of a Circle</title>
-<p>Consider the equation for the area of a circle in terms of its radius: <m>A_{circle} = \pi r^2</m>.</p>
-<p><alert>Physical Understanding:</alert>  You might start by considering all the various circles you have drawn or seen.  You might even draw a few circles with different radii to see how they behave.  Together, physical reasoning tells you that increasing the radius of a circle will also lead to an increase in the area, since radius and area are both measures of the size of a circle.</p>
-<p><alert>Symbolic Equation:</alert> <m>A_{circle}</m> clearly <em>depends on</em> <m>r</m>; in fact, increasing <m>r</m> leads to an <em>increase</em> in <m>A_{circle}</m>.  You can actually say something stronger: the equation is <em>quadratic</em>, so doubling <m>r</m> actually increases <m>A_{circle}</m> by a factor of four!</p>  
-<p><alert>Do they agree?</alert> In this instance, the physical reasoning and the equation clearly agree with each other, as both suggest an increase in <m>A_{circle}</m>.  Even the stronger claim agrees, because changing the radius changes the size of the circle both horizontally and vertically, so it should impact the area more strongly than a linear relationship!</p>
-</example>
-
-  <video youtube="IPm1qX6NUio"><description>An example of using Covariational Reasoning.</description></video>
-	
-
-
-<example>
-<title>Covariational Sensemaking: Displacement</title>
-		
-<p>Consider the equation <m>\Delta x = v\Delta t</m>, rewritten from the definition of average velocity.  This equation relates <m>\Delta x</m> to two other quantities: velocity <m>v</m> and time <m>\Delta t</m>.  We can investigate each relationship with <m>\Delta x</m> separately by holding the other quantity constant.</p>
-
-<p>Physically, velocity is a measure of how fast something is traveling.  In general, a faster object with travel a greater distance in the same amount of time than a slower object: you might think about a race or a car chase.  On the other hand, two objects with the same speed can travel different distances if they travel for different times, and the more time spent traveling, the farther something will travel.  The equation agrees with both because <m>\Delta x</m> is the product of <m>v</m> and <m>\Delta t</m>.  If either <m>v</m> or <m>\Delta t</m> had been <em>divided</em> instead, the relationship would be inverted instead.</p>
-
-</example>
-
-
+<figure xml:id="fig_sensemaking">
+		 <caption>Steps to follow when sensemaking.</caption>
+		<image source="SensemakingSteps.png" width = "50%">
+			<description>Physics Sensemaking.  1. Choose a sensemaking strategy.  2a. What should this strategy say about the context?  2b. Give a physical reason for why it says this.  3a. What does your answer actually say?  3b. Show what it says explicitly. 4. Compare what your answer actually says and what it should say!</description></image>
+  </figure>	
 
 
 	<exercises>
-	<title>Activities: Practice Sensemaking</title>
+	<title>Practice Activity</title>
 
 	<exercise>
-	<title>Rejecting Incorrect Claims</title>
-			<p>The statements below are incorrect.  For each statement, use a sensemaking strategy to determine why it is incorrect, such as the one introduced in this section or those in <xref ref="sec_units"></xref>.</p>
-			<ol marker="a">
-				<li>
-			  <p>Your friend has built a rocket and reports that it has a top speed of <m>v=700 \mathrm{~m/s^2}</m>.</p>
-			</li>
-			<li>
-			  <p>The Wizard of Oz claims the volume of his balloon <m>V</m> is related to the temperature <m>T</m> by a constant <m>\alpha</m>: <m>V = \frac{\alpha}{T}</m>.</p>
-			</li>
-			<li>
-   			<p>A car dealer claims that a certain new car has a mass of <m>4000 \mathrm{~g}</m>.</p>
-			</li>
-			<li>
-			  <p>A manufacturer claims that an office space with length <m>x</m> and width <m>y</m> can fit the following number of their cubicles: <m>N=5\frac{y}{x}</m>.</p>
-			</li>
-			</ol>
-	</exercise>
-  
-			
-			<exercise>
-			  <p>When you are making sense of something in physics, it can be tempting to just say "Yes, this makes sense to me."  Why do you think you should say more when sensemaking?</p>
-			</exercise>
-
-	<exercise xml:id="class_covariation1">
-        <title>The Ball and the Bounce I</title>
-		<statement>
-		    <p>
-				At <m>t_o = 0 \mathrm{~s}</m>, The instructor throws a tennis ball directly downward at <m>v_i = 12 \mathrm{~m/s}</m>. 
-At <m>t_1 = 0.2 \mathrm{~s}</m>, after falling <m>h = 1.2 \mathrm{~m}</m>, the ball hits the ground and bounces. 
-At <m>t_2 = 0.48 \mathrm{~s}</m>, the instructor catches the ball at the same point where they released it, moving upward at <m>v_f = 4 \mathrm{~m/s}</m>. 
-Determine the average acceleration of the tennis ball.	
-			</p>
-		</statement>
-		<answer>
-		    <p><me>
-				a_{ave} = \frac{v_f + v_i}{t_2}
+	<title>Driving to Portland</title>
+	<p></p>
+			<p>You drive from Corvallis to Portland, and you measure your gas tank (in gallons) as a function of time (in hours): 
+			<me>
+				G(t) = G_o - \beta t^2
 			</me>
 			</p>
-		</answer>
-	</exercise>
-
-	<exercise xml:id="class_covariation2">
-        <title>The Ball and the Bounce II</title>
-		<statement>
-		    <p>
-				Use covariational reasoning for each quantity to evaluate the symbolic equation for <m>a_{ave}</m>.
+			<p>
+				1. For each symbol in this equation (<m>G</m>, <m>t</m>, <m>G_o</m>, <m>\beta</m>):
+				<ol marker="a">
+					<li>
+						Describe what the symbol represents in words.
+					</li>
+					<li>
+						Determine the units of the symbol.
+					</li>
+				</ol>
 			</p>
-			<ul>
-				<li>
-					<p>
-						<m>v_i</m>
-					</p>
-				</li>
-				<li>
-					<p>
-						<m>h</m>
-					</p>
-				</li>
-				<li>
-					<p>
-						<m>t_1</m>
-					</p>
-				</li>
-				<li>
-					<p>
-						<m>t_2</m>
-					</p>
-				</li>
-				<li>
-					<p>
-						<m>v_f</m>
-					</p>
-				</li>
-			</ul>
-		</statement>
-		
+			<p>
+				2. Graph the function by hand.
+				<ol marker="a">
+					<li>
+						Clearly label the axes and any important features.
+					</li>
+					<li>
+						Where are Corvallis and Portland on your graph?
+					</li>
+				</ol>
+			</p>
 	</exercise>
-			
-			<!--
-					<exercise xml:id="psa_mot-2">
-        <title>Catching a Ball</title>
-		<statement>
-		    <p>You have a tennis ball that you throw directly downward at <m>t = 0</m> with speed <m>v</m>.  At <m>t = t_o</m>, after falling a distance <m>y</m>, the ball hits the ground and bounces.  At <m>t = 4t_o</m>, when the ball is moving upward with speed <m>v/3</m>, you catch the ball at the same point where you released it.</p>
-				<p>Determine the average acceleration of the tennis ball between <m>t = 0</m> and <m>t = 4t_o</m>.</p>
-		</statement>
-		<hint>
-		    <p>Velocity and acceleration are vectors!</p>
-		</hint>
-	</exercise>
-	-->
 
+  
+			
 			
 		</exercises>
 	

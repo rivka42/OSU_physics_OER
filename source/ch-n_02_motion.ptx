@@ -34,6 +34,8 @@
 	<xi:include href="./mot/sec_relative-motion.ptx" />
 	<xi:include href="./mot/sec_acceleration.ptx" />
 	<xi:include href="./mot/sec_motion-diagrams2.ptx" />
+	<xi:include href="./mot/sec_modeling-motion.ptx" />
+	
 						
 		<!--PRACTICE SECTIONS-->
 			<xi:include href="./mot/sec_motion-graphs2.ptx" />
@@ -41,7 +43,7 @@
 			<xi:include href="./mot/sec_mot-practice.ptx" />
 		
 		<!--CHALLENGE SECTIONS-->
-		<xi:include href="./mot/sec_sensemaking1.ptx" />
+		<xi:include href="./mot/sec_covariation.ptx" />
 		<xi:include href="./mot/sec_mot-challenge.ptx" />
 
 			

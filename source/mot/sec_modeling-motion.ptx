@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_modeling-motion" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Modeling Motion</title>
+	
+	<exercises>
+	<title>Practice Activities</title>
+
+	  <figure xml:id="mot_simple-motion-diagram">
+		 <caption>A simple strobe diagram.</caption>
+		<image source="Simple-Motion-Diagram.png" width = "75%">
+			<description></description></image>
+  </figure>
+
+	<exercise xml:id="class_motion-warmup">
+		<title>Warm-up</title>
+		<p>
+			Is the average speed of the upper object greater than, less than, or equal to the average speed of the lower object?  
+			Explain your reasoning.
+		</p>
+	</exercise>
+
+	<exercise xml:id="class_ball-in-the-air">
+		<title>The Ball in the Air</title>
+		<p>
+			Imagine throwing  a ball straight into the air.  
+			<ol>
+				<li>
+					Describe the motion in words (use complete sentences).
+				</li>
+				<li>
+					Identify any quantities of interest by symbol.
+				</li>
+				<li>
+					Draw a motion diagram for the ball.
+				</li>
+				<li>
+					Discuss any assumptions or idealizations you want to make.
+				</li>
+			</ol>
+		</p>
+<p>
+			Estimate the average velocity of the ball:
+			<ol>
+				<li>
+					During the entire motion
+				</li>
+				<li>
+					During the first half of the motion
+				</li>
+				<li>
+					During the second half of the motion
+				</li>
+			</ol>
+		</p>
+	</exercise>
+
+	<figure xml:id="mot_runaway-cart">
+		 <caption>A simple strobe diagram.</caption>
+		<image source="Runaway Cart.png" width = "100%">
+			<description></description></image>
+  </figure>
+
+	<exercise xml:id="class_runaway-cart">
+		<title>The Runaway Cart</title>
+		<p>
+			Determine the average velocity during each time interval for the cart in the figure above.  
+			How would you estimate the instantaneous velocity at <m>t_2</m>?  
+			What acceleration can you estimate?
+		</p>
+	</exercise>
+
+		</exercises>
+	
+</section>
+

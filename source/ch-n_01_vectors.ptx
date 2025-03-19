@@ -51,7 +51,9 @@ You will begin your study of physics by gaining a foundational understanding of 
 	<xi:include href="./mot/sec_displacement.ptx" />
 	
 	<!--PRACTICE SECTIONS-->
+  <xi:include href="./mot/sec_sensemaking1.ptx" />
 		<xi:include href="./mot/sec_units.ptx" />
+    <xi:include href="./vec/sec_reps-of-vecs.ptx" />
    <xi:include href="./vec/sec_trig_relations.ptx" />
 	<xi:include href="./vec/sec_vec-practice.ptx" />
 	
