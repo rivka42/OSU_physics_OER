@@ -5,6 +5,8 @@
 <!-- just imports other .ptx files which contain content. Open   -->
 <!-- those files to see more pretext features                    -->
 
+<!--     python -m pretext build web -g     -->
+
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
 
   <!-- we first include a file which contains the docinfo element: -->
@@ -58,14 +60,12 @@
 		<xi:include href="./ch-n_12_torque.ptx" />
 		<xi:include href="./ch-n_13_inertia.ptx" />
 		<xi:include href="./ch-n_14_rot-el.ptx" />
-		<!--<xi:include href="./ch-n_15_oscillate.ptx" />
 
-		
+		<xi:include href="./ch-n_15_oscillate.ptx" />
 		<xi:include href="./ch-n_16_waves.ptx" />
 		<xi:include href="./ch-n_17_superposition.ptx" />
 		<xi:include href="./ch-n_18_physical-optics.ptx" />
 		<xi:include href="./ch-n_19_optics.ptx" />
-		-->
 
 		<xi:include href="./ch_00_prep.ptx" />
 
