@@ -3,6 +3,10 @@
 <section xml:id="sec_spring-forces" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Spring Forces</title>
 	
+	<p>
+		You have now built quantitative models for the gravitational force and the frictional force.  
+		Next you will build a model for the spring force.
+	</p>
 		<exercises>
 		<title>Exploring Spring Forces</title>
 			<exercise>
@@ -19,12 +23,18 @@
 		<definition xml:id="def_spring">
 	<title>Hooke's Law</title>
 	<statement>
+		<p>
+			
+		</p>
 		<p>An ideal spring<fn>a spring that is massless and does not deform when displaced from equilibrium</fn> obeys Hooke's Law, with a force that is linearly proportional to the displacement from equilibrium: <me>\vec{F}^{S} = -k(\vec{x} - \vec{x}_{eq})</me></p>
+			<p>
+				
+			</p>
 	</statement>
 </definition>
 	
 			<exercises>
-		<title>Activities: Practice with Spring Forces</title>
+		<title>Practice with Spring Forces</title>
 			<exercise>
 			  <p>Explain how the expression in Hooke's Law is consistent with your observations from the simulation (cite a specific observation!).</p>
 			</exercise>
@@ -36,6 +46,28 @@
 				<p>N/m</p>
 				</answer>
 			</exercise>
+			<exercise>
+				<statement>
+					<p>
+						What is the meaning of the negative sign in Hooke's Law?
+					</p>
+				</statement>
+			</exercise>
+			<exercise>
+			<statement>
+				<p>
+					Suppose you have a spring with a spring constant of <m>k = 40 \mathrm{~N/m}</m>.  
+			  How far must you compress this spring for the spring force to reach <m>5 \mathrm{~N}</m>?
+				</p>
+			</statement>
+			  <answer>
+				<p>
+					<m>0.125 \mathrm{~m}</m>
+				</p>
+			  </answer>
+			</exercise>
+
+
 		</exercises>
 		
 </section>
