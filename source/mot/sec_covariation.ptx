@@ -47,6 +47,9 @@
 
 	<exercise>
 	<title>Rejecting Incorrect Claims</title>
+	<p>
+		
+	</p>
 			<p>The statements below are incorrect.  For each statement, use a sensemaking strategy to determine why it is incorrect, such as the one introduced in this section or those in <xref ref="sec_units"></xref>.</p>
 			<ol marker="a">
 				<li>
@@ -66,17 +69,42 @@
   
 			
 			<exercise>
-			  <p>When you are making sense of something in physics, it can be tempting to just say "Yes, this makes sense to me."  Why do you think you should say more when sensemaking?</p>
+			<title>Metacognition</title>
+			<statement>
+				<p>
+				</p>
+			  <p>When you are making sense of something in physics, it can be tempting to just say <q>Yes, this makes sense to me.</q></p>
+			  <ul>
+				<li>
+					<p>
+						Why do you think you should say more when sensemaking?
+					</p>
+				</li>
+				<li>
+					<p>
+						Why do you think covariational reasoning is useful?
+					</p>
+				</li>
+				<li>
+					<p>
+						Why do you think sensemaking in general might be useful?
+					</p>
+				</li>
+			  </ul>
+			</statement>
 			</exercise>
 
 	<exercise xml:id="class_covariation1">
         <title>The Ball and the Bounce I</title>
 		<statement>
+			<p>
+				
+			</p>
 		    <p>
 				At <m>t_o = 0 \mathrm{~s}</m>, The instructor throws a tennis ball directly downward at <m>v_i = 12 \mathrm{~m/s}</m>. 
 At <m>t_1 = 0.2 \mathrm{~s}</m>, after falling <m>h = 1.2 \mathrm{~m}</m>, the ball hits the ground and bounces. 
 At <m>t_2 = 0.48 \mathrm{~s}</m>, the instructor catches the ball at the same point where they released it, moving upward at <m>v_f = 4 \mathrm{~m/s}</m>. 
-Determine the average acceleration of the tennis ball.	
+Determine the average acceleration of the tennis ball.	Do you think it would be appropriate or necessary to use a calculator for this activity?
 			</p>
 		</statement>
 		<answer>
@@ -90,6 +118,9 @@ Determine the average acceleration of the tennis ball.
 	<exercise xml:id="class_covariation2">
         <title>The Ball and the Bounce II</title>
 		<statement>
+			<p>
+				
+			</p>
 		    <p>
 				Use covariational reasoning for each quantity to evaluate the symbolic equation for <m>a_{ave}</m>.
 			</p>

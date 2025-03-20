@@ -23,6 +23,9 @@
 	<exercise xml:id="class_ball-in-the-air">
 		<title>The Ball in the Air</title>
 		<p>
+			
+		</p>
+		<p>
 			Imagine throwing  a ball straight into the air.  
 			<ol>
 				<li>
@@ -53,22 +56,31 @@
 				</li>
 			</ol>
 		</p>
+		<p>
+			Do you think it would be appropriate or necessary to use a calculator for this activity?
+		</p>
 	</exercise>
 
-	<figure xml:id="mot_runaway-cart">
-		 <caption>A simple strobe diagram.</caption>
-		<image source="Runaway Cart.png" width = "100%">
-			<description></description></image>
-  </figure>
+
 
 	<exercise xml:id="class_runaway-cart">
 		<title>The Runaway Cart</title>
 		<p>
-			Determine the average velocity during each time interval for the cart in the figure above.  
+			
+		</p>
+		<p>
+			Determine the average velocity during each time interval for the cart in the figure below.  
 			How would you estimate the instantaneous velocity at <m>t_2</m>?  
-			What acceleration can you estimate?
+			What acceleration can you estimate?  
+			Do you think it would be appropriate or necessary to use a calculator for this activity?
 		</p>
 	</exercise>
+
+		<figure xml:id="mot_runaway-cart">
+		 <caption>A simple strobe diagram.</caption>
+		<image source="Runaway Cart.png" width = "100%">
+			<description></description></image>
+  </figure>
 
 		</exercises>
 	
