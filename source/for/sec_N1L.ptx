@@ -12,8 +12,10 @@
 	<principle xml:id="law_N1L">
 	<title>The Law of Inertia</title>
 	<statement>
+		<p></p>
 	An object at rest stays at rest and an object in motion stays in motion at a constant speed in a straight line unless acted upon by a net external force.
-	</statement>
+	<p></p>
+		</statement>
 	</principle>
 	
 	<p>The term inertia&#8212;more commonly referred to as <term>mass</term>&#8212;is the capacity of an object to resist any change to its motion.  The more mass something has, the more net external force it is going to take to change the object's motion.</p>
@@ -21,8 +23,10 @@
 		<definition xml:id="def_mass">
 	<title>Mass</title>
 	<statement>
+		<p></p>
 	<p>The <term>mass</term> of an object, typically represented by <m>m</m>, is the capacity of that object to resist changes to its motion<fn>as you will see in the next section, mass can be operationally defined as the amount of net force per acceleration required to speed up or slow down the object</fn>.</p>
-	</statement>
+	<p></p>
+		</statement>
 	</definition>
 	
 			<insight>

@@ -26,6 +26,7 @@
 		</introduction>
 			<task xml:id="x_practice-tortoise-pebble">
 			<title>Choosing a Reference Frame</title>
+			<p></p>
 			<p>
 			Two potential reference frames, both stationary with respect to the ground, are shown in the figure.  Before doing any calculations: which reference frame do you think would be easier to use for describing the normal force on the tortoise by the pebble?
 			</p>
@@ -33,17 +34,20 @@
 						<task>
 			<title>Represent</title>
 			<statement>
+				<p></p>
 			<p>Sketch a diagram showing the normal force on the tortoise by the pebble in each reference frame.  Make sure to include the components of the force and the given angle <m>\theta</m>.</p>
 			</statement>
 			</task>
 			<task>
 			<title>Key Skill: Breaking a Vector into Components</title>
 			<statement>
+				<p></p>
 			  <p>For <alert>both</alert> reference frames, determine the <m>x</m> and <m>y</m> components of the normal force on the tortoise by the pebble.</p>
 				</statement>
 			</task>
 						<task>
 			<title>Metacognition</title>
+			<p></p>
 			<p>
 			Revisit your answer to the first part of the activity.  Which reference frame do you think ended up being easier to describe the normal force?  Why?
 			</p>

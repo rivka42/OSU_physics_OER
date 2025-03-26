@@ -14,7 +14,7 @@
 	<title>Explanation Tasks</title>
 	
 	  <investigation xml:id="psa_for-05">
-        <title>Three Cars Redux</title>
+        <title>Three Cars - Metacognition</title>
 		<statement>
 		<p></p>
 		    <p>Recall <xref ref = "x_three-cars"></xref>. Answer this question again. As part of your explanation, discuss how your answer, your reasoning, or your understanding has changed since you first thought about this task.</p>
@@ -82,12 +82,12 @@
 		<p></p>
 		    <p>
 				The figure below shows a top-down view of a tug-of-war between a coach (in red on the left) and two teams of <q>student-athletes</q>.  
-				The coach can pull with a force of 1500 N, and the two teams together are just able to keep the rock connected to the ropes 
+				The coach can pull with a force of <m>1500 \mathrm{~N}</m>, and the two teams together are just able to keep the rock connected to the ropes 
 				from beginning to accelerate.  Determine the magnitude of the tension force provided by each of the two teams.
 			</p>
 				<figure xml:id="for_tug-of-war">
 		 <caption>A tug of war between a coach (left) and two teams of student-athletes (right).</caption>
-		<image source="tug-of-war.png" width = "80%">
+		<image source="tug-of-war.png" width = "60%">
 			<description></description></image>
   </figure>
 		</statement>

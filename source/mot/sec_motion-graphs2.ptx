@@ -10,8 +10,10 @@
 				<lemma xml:id="rep_motion-graphs">
 			<title>Motion Graph</title>
 			<statement>
+				<p></p>
 				<p>A <term>motion graph</term> is a graphical representation showing a motion quantity (like position or velocity) on the vertical axis and <em>time</em> on the horizontal axis.</p>
-			</statement>
+			<p></p>
+				</statement>
 		</lemma>
 		
 			<note>
@@ -42,6 +44,7 @@
 		<title>Activities</title>
 			<exercise xml:id="x_summarize-motion-graphs">
 			<title>Summarize What You Learned</title>
+			<p></p>
 			<p>You know that velocity and position are related by <m>\vec{v} = \frac{d\vec{r}}{dt}</m>.  How does this relationship appear on graphs of velocity and position vs. time for the same object?</p>
 			</exercise>
 			<!--
@@ -52,6 +55,7 @@
 			-->
 			<exercise xml:id="x_practice-int-motion-graphs">
 			<title>Practice Interpreting a Motion Graph</title>
+			<p></p>
 			<p>The graph of position vs. time below shows the location of a skydiver.  Use the graph to create (1) a description in words of the skydiver's motion, (2) a graph of the skydiver's velocity vs. time, and (3) a motion diagram for the skydiver.  Include an estimate of the skydiver's speed at <m>t = 26</m> s.</p>
 			</exercise>
 			<figure xml:id="mot_skydiver">

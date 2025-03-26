@@ -10,6 +10,7 @@
 	<definition>
 	<title>Average Acceleration</title>
 	<statement>
+		<p></p>
 		<p>The <term>average acceleration</term> of an object is the object's change in velocity divided by the interval of time required to change the velocity: <me>\vec{a}_{ave} = \frac{\Delta \vec{v}}{\Delta t}</me></p>
 	</statement>
 </definition>
@@ -17,6 +18,7 @@
 	<definition>
 	<title>Instantaneous Acceleration</title>
 	<statement>
+		<p></p>
 		<p>The <term>instantaneous acceleration</term> of an object is given by <me>\vec{a} = \frac{d \vec{v}}{d t}</me></p>
 	</statement>
 </definition>
@@ -26,11 +28,13 @@
 	<title>Activities</title>
 			<exercise xml:id="x_summarize-acceleration">
 			<title>Summarize What You Learned - Acceleration</title>
+			<p></p>
 			  <p>Write a 1-2 sentence description of what the definition of acceleration says in words. </p>
 			</exercise>
 			<exercise>
 			<title>Sensemaking: Units</title>
 			<statement>
+				<p></p>
 			  <p>What are the units of acceleration? Explain how these units are consistent with the units of other quantities you have learned about.</p>
 				</statement>
 				<answer>
@@ -40,6 +44,7 @@
 						<exercise>
 						<title>Explanation: Direction</title>
 			<statement>
+				<p></p>
 			  <p>How does the direction of the average acceleration vector compare to the direction of the change in velocity vector?</p>
 				</statement>
 				<hint>

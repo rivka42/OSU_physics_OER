@@ -16,6 +16,7 @@
 <li>Symbolic equations allow you to do powerful sensemaking above and beyond what is possible with numerical quantities alone</li>
 </ul>
 </p>
+<p></p>
 </axiom>
 
 
@@ -60,6 +61,7 @@ In this equation, t represents time, x represents the position of an object alon
 <li>If you have multiple unknown quantities but you only need to find one of them, <em>solve for the other unknown quantities first</em> when using substitution.  It may seem counterintuitive, but you want the last equation you plug everything into to have only the unknown quantity you care about in it!</li>
 </ul>
 </p>
+<p></p>
 </axiom>
 
 <example>
@@ -128,6 +130,7 @@ Suppose you want to know the exact temperature of the gas at the end of the expa
 			<task xml:id="x_practice-angle-solve">
 			<title>Vector Components</title>
 			<statement>
+				<p></p>
 			<p>
 			Write a symbolic equation that gives <m>v_x</m> in terms of <m>v</m> (the magnitude of  <m>\vec{v}</m>) and the given angle <m>\theta</m>.
 			</p>
@@ -141,6 +144,7 @@ Suppose you want to know the exact temperature of the gas at the end of the expa
 			<task>
 			<title>Solving for v</title>
 			<statement>
+				<p></p>
 			  <p>Rewrite your symbolic equation for <m>v</m> instead.</p>
 				</statement>
 							<answer>
@@ -152,6 +156,7 @@ Suppose you want to know the exact temperature of the gas at the end of the expa
 			<task>
 			<title>Solving for theta</title>
 			<statement>
+				<p></p>
 			<p>Rewrite your symbolic equation for <m>\theta</m> instead.</p>
 			</statement>
 			<answer>
@@ -173,6 +178,7 @@ Suppose you want to know the exact temperature of the gas at the end of the expa
 			<task xml:id="x_air-cart-race">
 			<title>Unknown Quantities</title>
 			<statement>
+				<p></p>
 			<p>
 			Identify the unknown quantities of interest and give them an appropriate symbol.
 			</p>
@@ -184,6 +190,7 @@ Suppose you want to know the exact temperature of the gas at the end of the expa
 			<task>
 			<title>Representation</title>
 			<statement>
+				<p></p>
 			<p>
 			Sketch a free-body diagram for the air cart during each experiment.
 			</p>
@@ -200,6 +207,7 @@ Suppose you want to know the exact temperature of the gas at the end of the expa
 			<task>
 			<title>The Law of Motion</title>
 			<statement>
+				<p></p>
 			  <p>Use your free-body diagrams to write equations relating the forces and the accelerations.</p>
 				</statement>
 							<answer>
@@ -212,6 +220,7 @@ Suppose you want to know the exact temperature of the gas at the end of the expa
 			<task>
 			<title>Calculation</title>
 			<statement>
+				<p></p>
 			<p>Solve your equations for the unknown quantities.</p>
 			</statement>
 			</task>

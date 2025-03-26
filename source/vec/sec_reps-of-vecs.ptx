@@ -8,6 +8,7 @@
 
 	<exercise xml:id="class_reps-of-volume">
 		<title>Representations of Volume</title>
+		<p></p>
 		<p>
 			You want to determine the volume of the room you are in. 
 			<ol>
@@ -30,6 +31,7 @@
 
 	<exercise xml:id="class_vector-metacognition">
 		<title>Metacognition</title>
+		<p></p>
 		<p>
 			Make a list of the kinds of representations you used during the previous activity, and how they were helpful.  
 			Explicitly identify any assumptions you made during the activity.  
@@ -40,6 +42,7 @@
 
 	<exercise xml:id="class_summ-reps">
 		<title>Summarize Representations</title>
+		<p></p>
 		<p>
 			Write down a list of things about vectors you have learned so far. 
 			Organize your thinking by representation: (a) words or sentences, 
@@ -117,6 +120,7 @@
   
 	<exercise xml:id="class_a-pair-of-vectors">
 		<title>A Pair of Vectors</title>
+		<p></p>
 		<p>You have two vectors that have the same magnitude <m>a</m>, but can point in any direction.  
 		Sketch the vectors in each case below.  Your sketches should be quantitatively accurate (you should know the angle between the vectors).
 		<ul>

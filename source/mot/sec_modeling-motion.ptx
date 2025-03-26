@@ -77,7 +77,7 @@
 	</exercise>
 
 		<figure xml:id="mot_runaway-cart">
-		 <caption>A simple strobe diagram.</caption>
+		 <caption>A strobe diagram for a cart.</caption>
 		<image source="Runaway Cart.png" width = "100%">
 			<description></description></image>
   </figure>

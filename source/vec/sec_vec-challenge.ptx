@@ -119,6 +119,7 @@
 		<task>
 		<title>Sensemake</title>
 		<statement>
+			<p></p>
 		<p>It looks like the surveyor forgot to report the specific units for the constants <m>a_1</m> and <m>a_2</m>.  Determine appropriate units for these constants.  Describe why these are sensible units given the equation for <m>y(x)</m>.</p>
 		</statement>
 		</task>
@@ -126,6 +127,7 @@
 		<task>
 		<title>Represent</title>
 		<statement>
+			<p></p>
 		<p>Sketch and label a quantitatively accurate diagram of the hillside and the trees.</p>
 		</statement>
 		<hint>
@@ -136,6 +138,7 @@
 		<task>
 		<title>Calculate</title>
 		<statement>
+			<p></p>
 		<p>Determine the displacement vector from the base of tree 2 to the base of tree 3.</p>
 		</statement>
 		<hint>
@@ -162,6 +165,7 @@
 				<task>
 		<title>Represent</title>
 		<statement>
+			<p></p>
 		<p>Sketch and label a quantitatively accurate diagram.</p>
 		</statement>
 		</task>
@@ -169,6 +173,7 @@
 				<task>
 		<title>Calculate</title>
 		<statement>
+			<p></p>
 		<p>Determine the relevant quantities.  Start by writing a brief sentence or two describing your strategy.</p>
 		</statement>
 		<hint>
@@ -179,6 +184,7 @@
 		<task>
 		<title>Sensemake</title>
 		<statement>
+			<p></p>
 		<p>This is a good activity for numerical sensemaking, especially about the distance.  What is another distance you could compare it to?  Should it be bigger or smaller than that other distance?  Justify your answers.</p>
 		</statement>
 		<hint><p>The steps for sensemaking can be found in <xref ref="fig_sensemaking" />.</p></hint>
@@ -189,7 +195,7 @@
 	</subsection>
 	
 	<subsection>
-	<title>Reflection</title>
+	<title>Metacognitive Reflection</title>
 	<p>
 	     Choose at least one of the Challenge Activities.  Reflect on how this activity was similar to or different from other activities you worked on throughout this chapter (these can be in or out of class activities).  Cite specific activities by name and be specific about how the <em>solutions</em>, not just the activities themselves, were related.  Include a sentence at the end about why you think a reflection activity like this might be useful in helping you learn physics.
 	</p>

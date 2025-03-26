@@ -33,6 +33,7 @@
 	<xi:include href="./for/sec_N1L.ptx" />
 	<xi:include href="./for/sec_N2L.ptx" />
 	<xi:include href="./for/sec_normal-force.ptx" />
+	<xi:include href="./for/sec_solving-forces0.ptx" />
 		
 		<!--PRACTICE SECTIONS-->
 		<xi:include href="./for/sec_force-components.ptx" />

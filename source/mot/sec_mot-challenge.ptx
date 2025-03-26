@@ -71,6 +71,7 @@
 				<task>
 		<title>Calculate</title>
 		<statement>
+			<p></p>
 		<p>Follow the steps in <xref ref="fig_calculation"/> to perform the calculation.  Most of the credit will be given for your <alert>symbolic calculation</alert>.</p>
 		</statement>
 		</task>
@@ -78,6 +79,7 @@
 		<task>
 		<title>Sensemake</title>
 		<statement>
+			<p></p>
 		<p>Use covariational reasoning for each of the three given quantities: <m>d</m>, <m>t_1</m>, and <m>t_2</m>.  The steps for sensemaking are in <xref ref="fig_sensemaking"/>.</p>
 		</statement>
 		</task>		

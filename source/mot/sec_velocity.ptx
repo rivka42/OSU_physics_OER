@@ -13,6 +13,7 @@
 	<definition>
 	<title>Average Velocity</title>
 	<statement>
+		<p></p>
 		<p>The <term>average velocity</term> of an object is the object's displacement divided by the interval of time required to move through that displacement: <me>\vec{v}_{ave} = \frac{\Delta \vec{r}}{\Delta t}</me></p>
 	</statement>
 </definition>
@@ -37,6 +38,7 @@ Time is a quantity you will encounter throughout your study of physics.  In fact
 	<definition>
 	<title>Instantaneous Velocity</title>
 	<statement>
+		<p></p>
 		<p>The <term>instantaneous velocity</term> of an object is given by <me>\vec{v} = \frac{d \vec{r}}{d t}</me></p>
 	</statement>
 </definition>
@@ -48,11 +50,13 @@ Time is a quantity you will encounter throughout your study of physics.  In fact
 	<p>With definitions like the one above, you should aim to understand each mathematical symbol in the symbolic equation, along with how those symbols work together.  You should also know the kind of quantity each symbol represents, and the units associated with that quantity.  The exercises below are intended to help you build this understanding.</p>
 			<exercise xml:id="x_summarize-velocity">
 			<title>Summarize What You Learned - Velocity</title>
+			<p></p>
 			  <p>Write a 1-2 sentence description of what the definition of average velocity says in words. </p>
 			</exercise>
 			<exercise>
 			<title>Sensemaking: Units</title>
 			 <statement>
+				<p></p>
 			  <p>What are the units of velocity? Explain how these units are consistent with the units of the other quantities in the definition of average velocity given above.</p>
 				</statement>
 				<answer>
@@ -62,6 +66,7 @@ Time is a quantity you will encounter throughout your study of physics.  In fact
 			<exercise>
 			<title>Explanation: Direction of Velocity</title>
 			<statement>
+				<p></p>
 			  <p>How does the direction of the average velocity vector compare to the direction of the displacement vector?  Explain your reasoning using the steps in <xref ref="fig_explanation"/>.</p>
 				</statement>
 				<answer>

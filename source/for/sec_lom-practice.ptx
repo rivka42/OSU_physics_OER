@@ -10,13 +10,245 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 	
+	<subsection>
+<title>Practice</title>
+</subsection>
 
+<!-- Starting March 20, 2025 (3/20/25)-->
+<exploration xml:id="ex_the_ropes_around_the_tree">
+<!-- Problem 5.1.19-->
+<!-- https://openstax.org/books/university-physics-volume-1/pages/5-problems-->
+  <title>The Ropes around the Tree</title>
+  
+  <introduction>
+    <p></p>
+	<p>
+      Two ropes are attatched to a tree, and forces of <m>\vec{F}^{T}_{tree,r_1} = 2\hat{x} + 4\hat{y} \mathrm{~N}</m> and 
+	  <m>\vec{F}^{T}_{tree,r_2} = 3\hat{x} + 6\hat{y} \mathrm{~N}</m> are applied. 
+    </p>
+  </introduction>
+
+  <task>
+    <statement>
+      <p></p>
+      What is the net force of these two force vectors?
+    </statement>
+
+    <answer>
+      <p>
+        <m>\vec{F}_{net} = 5\hat{x} + 10\hat{y} ~\mathrm{N}</m>
+      </p>
+    </answer>
+  </task>
+
+  <task>
+    <statement>
+      <p></p>
+      Find the magniude and direction of this net force.
+    </statement>
+
+    <answer>
+      <p>
+        The magnitude is <m>F_{net} = 11 ~\mathrm{N}</m>, and the direction is <m>\theta = 63&#176;</m>
+      </p>
+    </answer>
+  </task>
+
+</exploration>
+
+<exploration xml:id="ex_telephone_pole_secured_by_cables">
+<title>Telephone Pole Secured by Cables</title>
+<!-- Problem 5.1.20-->
+<!-- https://openstax.org/books/university-physics-volume-1/pages/5-problems-->
+  <introduction>
+  <p></p>
+    <p>
+      A telephone pole has three cables pulling with <m>\vec{F}^{T}_{pole,c_1} = (300\hat{x} + 500\hat{y}) \mathrm{~N}</m>, 
+	  <m>\vec{F}^{T}_{pole,c_2} = -200\hat{x} \mathrm{~N}</m>, and <m>\vec{F}^{T}_{pole,c_3} = -800\hat{y} \mathrm{~N}</m>.
+    </p>
+  </introduction>
+  
+  <task>
+    <statement>
+      <p></p>
+      Find the net force on the telephone pole in component form.
+    </statement>
+  </task>
+
+  <task>
+    <statement>
+      <p></p>
+      Find the magnitude and direction of this net force.
+    </statement>
+  </task>
+  <!-- NOTE: This problem references a figure that is just labeled F1, F2, F3 in openstax.-->
+</exploration>
+
+<exploration xml:id="ex_balancing_three_forces">
+<title>Balancing Three Forces</title>
+<!-- Problem 5.2.22-->
+<!-- https://openstax.org/books/university-physics-volume-1/pages/5-problems-->
+  <statement>
+  <p></p>
+    <p>
+    Two forces of <m>\vec{F}_1 = \frac{75.0}{\sqrt{2}}(\hat{x} - \hat{y}) ~\mathrm{N}</m> and <m>\vec{F}_2 = \frac{150.0}{\sqrt{2}}(\hat{x} - \hat{y}) ~\mathrm{N}</m> act on an object.  
+    </p>
+      <p>
+      Find the third force <m>\vec{F}_3</m> that is needed to balance the first two forces.
+	  </p>
+    </statement>
+
+
+</exploration>
+
+<exploration xml:id="ex_pushing_the_couch">
+<title>Pushing the Couch</title>
+<!-- Problem 5.2.23-->
+<!-- https://openstax.org/books/university-physics-volume-1/pages/5-problems-->
+  <introduction>
+  <p></p>
+    <p>
+    While sliding a couch across a floor, Andrea and Jennifer exert forces <m>\vec{F}_A</m> and <m>\vec{F}_J</m> on the couch. Andrea's force is due north with a magnitude of <m>130 ~\mathrm{N}</m> and Jennifer's force is <m>32&#176;</m>
+      east of north with a magnitude of <m>180 ~\mathrm{N}</m>.  
+    </p>
+  </introduction>
+  
+  <task>
+    <statement>
+      <p></p>
+      Find the net force in component form.
+    </statement>
+
+    <answer>
+      <p>
+        <m>\vec{F}_{net} = 95\hat{x} + 283\hat{y} ~\mathrm{N}</m>
+      </p>
+    </answer>
+  </task>
+
+  <task>
+    <statement>
+      <p></p>
+      Find the magnitude and direction of the net force.
+    </statement>
+
+    <answer>
+      <p>
+        <m>F_{net} = 299 ~\mathrm{N}</m> at <m>71&#176;</m> north of east
+      </p>
+    </answer>
+  </task>
+
+  <task>
+    <statement>
+      <p></p>
+      If Andrea and Jennifer's housemates, David and Stephanie, disagree with the move and want to prevent its relocation, with what combined force <m>\vec{F}_{DS}</m> should they push so that the couch does not move?
+    </statement>
+
+    <answer>
+      <p>
+        <m>\vec{F}_{DS} = (95\hat{x} + 283\hat{y}) ~\mathrm{N}</m>
+      </p>
+    </answer>
+  </task>
+
+</exploration>
+
+<exploration xml:id="ex_a_sprinters_force">
+<title>A Sprinter's Force</title>
+<!-- Problem 5.3.24-->
+<!-- https://openstax.org/books/university-physics-volume-1/pages/5-problems-->
+  <statement>
+  <p></p>
+    <p>
+    Vivenna, a <m>63 ~\mathrm{kg}</m> sprinter, starts a race with an acceleration of <m>4.2 ~\mathrm{m/s^2}</m>.
+    </p>
+
+      <p>
+      What is the net external force on Vivenna?
+	  </p>
+    </statement>
+
+
+</exploration>
+
+<!-- Starting March 24, 2025 (3/24/25)-->
+<exploration xml:id="ex_cleaner_pushing_a_cart">
+<title>Cleaner Pushing a Cart</title>
+<!-- Problem 5.3.26-->
+<!-- https://openstax.org/books/university-physics-volume-1/pages/5-problems-->
+  <statement>
+  <p></p>
+    <p>
+    A cleaner pushes a <m>4.5 ~\mathrm{kg}</m> laundry cart in such a way that the net external force on it is <m>60 \mathrm{N}</m>. Calculate the magnitude of his cart's acceleration.
+    </p>
+  </statement>
+  
+</exploration>
+
+<exploration xml:id="ex_accelerating_rocket_I">
+<title>Accelerating Rocket I</title>
+<!-- Problem 5.3.29-->
+<!-- https://openstax.org/books/university-physics-volume-1/pages/5-problems-->
+  <statement>
+  <p></p>
+    <p>
+    A rocket sled (with its rockets off) accelerates opposite its direction of motion at a rate of <m>196 ~\mathrm{m/s^2}</m>. 
+	The mass of the rocket is <m>2.1 \times 10^3 ~\mathrm{kg}</m>.
+    </p>
+      <p>
+        What force is necessary to produce this acceleration opposite to the motion?
+      </p>
+    </statement>
+
+    <answer>
+      <p>
+        <m>F_{net} = 4.12 \times 10^5 ~\mathrm{N}</m>
+      </p>
+    </answer>
+
+<!-- NOTE: This problem has a figure that needs to be edited before including-->
+</exploration>
+
+<exploration xml:id="ex_accelerating_rocket_II">
+<title>Accelerating Rocket II</title>
+<!-- Problem 5.3.30-->
+<!-- https://openstax.org/books/university-physics-volume-1/pages/5-problems-->
+  <statement>
+  <p></p>
+    <p>
+    Suppose the rocket sled from the previous activity starts with one rocket burning.  
+	Assume that the mass of the system is <m>2.10 \times 103 ~\mathrm{kg}</m>, the thrust is <m>2.40 \times 10^4 ~\mathrm{N}</m>, 
+	and the force of friction opposing the motion is <m>650 ~\mathrm{N}</m>.
+    </p>
+      <p>
+      What is the magnitude of this acceleration?
+	  </p>
+    </statement>
+</exploration>
+
+<exploration xml:id="ex_sliding_frictionless_block">
+<title>Sliding Frictionless Block</title>
+<!-- Problem 5.3.40-->
+<!-- https://openstax.org/books/university-physics-volume-1/pages/5-problems-->
+  <statement>
+  <p></p>
+    <p>
+    A <m>M = 10 \mathrm{~kg}</m> block slides on a frictionless surface. Suppose two forces are acting on the block, each with magnitude 
+	<m>F = 30 ~\mathrm{N}</m>.  One force acts horizontally to the right, while the other acts down and to the right such that it makes 
+	a <m>30^o</m> angle with the horizontal.
+    </p>
+      <p>
+      What is the magnitude of the resulting acceleration of the block?
+	  </p>
+    </statement>
+
+<!-- NOTE: Figure does not have superscrips to denote forces. Not sure if one is supposed to be normal and the other tension.-->
+<!-- Did not include figure (still need to add)-->
+</exploration>
 
 <subsection>
-<title>Practice</title>
-
-<p>ADD SOME OPENSTAX</p>
-
+<title>Additional Practice</title>
 </subsection>
 
 	<exploration xml:id="psa_for-alpha1">
@@ -58,8 +290,11 @@
 
 
 <references>
+	<biblio xml:id="ref_openstax-lom2">
+	<p>Practice activities adapted from OpenStax: https://openstax.org/books/university-physics-volume-1/pages/5-problems.</p>
+	</biblio>
 	<biblio xml:id="ref_boxsand-lom">
-	<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+	<p>Additional practice activities from BoxSand: https://boxsand.physics.oregonstate.edu/.</p>
 	</biblio>
 </references>
 

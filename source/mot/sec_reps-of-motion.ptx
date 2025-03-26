@@ -31,25 +31,24 @@
 	<exercises>
 	<title>Practice Activities</title>
 		</exercises>
-	
-  
-		<figure xml:id="mot_Tortoise-slide">
-		  <caption>A tortoise at the top of a slide.</caption>
-      <image source="Tortoise-slide.png" width = "100%">
-			<description>A tortoise at the top of a slide.</description>
-			</image>
-    </figure>
 		
 			<activity xml:id="x_tortoise-slide">
 	<title>The Tortoise down the Slide</title>
 <introduction>
 <p></p>
     <p>
-      It takes 40 s for a tortoise to travel down the slide shown in the figure above.  Its initial speed is 0 and its final speed is 0.2 m/s down the ramp.  Assume the slide is 4 m long and the given angle is equal to <m>22^o</m>.
+      It takes <m>40 \mathrm{~s}</m> for a tortoise to travel down the slide shown in the figure below.  Its initial speed is 0 and its final speed is <m>0.2 \mathrm{~m/s}</m> down the ramp.  Assume the slide is <m>4 \mathrm{~m}</m> long and the given angle is equal to <m>22^o</m>.
     </p>
+		<figure xml:id="mot_Tortoise-slide">
+		  <caption>A tortoise at the top of a slide.</caption>
+      <image source="Tortoise-slide.png" width = "70%">
+			<description>A tortoise at the top of a slide.</description>
+			</image>
+    </figure>
 		</introduction>
 			<task xml:id="x_practice-tortoise">
 			<title>Practice Creating a Strobe Diagram</title>
+			<p></p>
 			<p>
 			Sketch a qualitatively accurate strobe diagram for the tortoise using the given information.  Your diagram should have about 4-6 points.
 			</p>
@@ -57,6 +56,7 @@
 			<task>
 			<title>Calculation</title>
 			<statement>
+				<p></p>
 			  <p>Determine the magnitude of the tortoise's average acceleration.</p>
 				</statement>
 				<answer>
@@ -66,6 +66,7 @@
 			<task>
 			<title>Key Skill: Breaking a Vector into Components</title>
 			<statement>
+				<p></p>
 			<p>Determine the horizontal (<m>x</m>) component of the tortoise's average acceleration</p>
 			</statement>
 			<hint>
@@ -74,107 +75,90 @@
 			</task>
 		</activity>
 
-		<figure xml:id="mot_MotionA">
-		  <caption>A strobe diagram.</caption>
-      <image source="MotionA.png" width = "100%">
-			<description>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.</description>
+<activity xml:id="class_strobe-diagrams">
+	<title>Four Strobe Diagrams</title>
+<introduction>
+<p></p>
+    <p>
+      The initial position in each strobe diagram is labeled <m>t_o</m>.
+    </p>
+		</introduction>
+		<figure xml:id="mot_MotionArray">
+		  <caption>Four strobe diagrams.</caption>
+      <image source="MotionArray.png" width = "40%">
+			<description></description>
 			</image>
     </figure>
-		
-	<activity xml:id="x_rolling-bal">
-	<title>The Rolling Ball</title>
-<introduction>
-<p></p>
-    <p>
-      The strobe diagram above shows a ball moving from left to right.  A total of <m>1 \mathrm{~s}</m> has passed between each successive dot.  The distance between the leftmost and rightmost points is <m>12 \mathrm{~m}</m>.
-    </p>
-		</introduction>
-			<task xml:id="x_practice-rep-vel">
-			<title>Practice Creating a Motion Diagram</title>
-			<p>
-			Use the strobe diagram to make a <term>motion diagram</term> with both velocity and acceleration vectors.
-			</p>
-			</task>
-			<task>
-			<title>Explanation</title>
-			<statement>
-			  <p>Describe how the velocity of the ball is changing. Explain how you can tell from the strobe diagram.</p>
-				</statement>
-				<answer>
-				<p>The velocity always points to the right, and the speed is first increasing and then decreasing.</p>
-				</answer>
-			</task>
-			<task>
-			<title>Calculation</title>
-			<statement>
-			<p>What is the average speed during the motion?</p>
-			</statement>
-			<hint>
-			<p>Recall the steps for performing a calculation from <xref ref="fig_calculation"></xref>.</p>
-			</hint>
-			<answer>
-			<p><m>v_{ave} = 2 \mathrm{~m/s}</m></p>
-			</answer>
-			</task>
-			<task>
-			<title>Explanation</title>
-			<statement>
-			  <p>Is the instantaneous speed at the point in the middle <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the average speed?  Explain your reasoning.</p>
-				</statement>
-				<answer>
-				<p>Greater than!</p>
-				</answer>
-			</task>
-			
-		</activity>
-		
-	<activity xml:id="x_thrown-ball">
-	<title>The Thrown Ball</title>
-<introduction>
-<p></p>
-    <p>
-      You have a tennis ball that you throw directly upward with initial speed <m>v</m>.  The ball rises to height <m>h</m>, then falls back down.  At time <m>t</m>, you catch the ball when it is moving downward with the same speed <m>v</m>.
-    </p>
-		</introduction>
-					<task>
-			<title>Practice Creating a Motion Graph</title>
-			<p>
-			Use the given information to make a graph of the ball's velocity vs. time.  What assumptions did you make about the ball's motion?
-			</p>
-			</task>
-			<task>
-			<title>Calculation</title>
-			<statement>
-			<p>Determine the average velocity of the tennis ball during this time interval.</p>
-			</statement>
-			<hint>
-			<p>Recall the steps for performing a calculation from <xref ref="fig_calculation"></xref>.</p>
-			</hint>
-			</task>
-			<task>
-			<title>Sensemaking</title>
-			<statement>
-			  <p>Average velocity is a vector quantity.  Show that it is a vector with a reasonable direction.</p>
-				</statement>
-			</task>
-					</activity>
+<p>
+	Using a standard reference frame for each case: 
+	<ol>
+		<li>
+		Sketch velocity vectors for each point
+		</li>
+		<li>
+		Sketch acceleration vectors for each point
+		</li>
+		<li>
+		Identify whether your vectors are positive or negative
+		</li>
+		<li>
+		Sketch a set of motion graphs
+		</li>
+	</ol>
+	</p>
+</activity>
 
-<figure xml:id="mot_MotionB">
+<activity xml:id="class_motion-diagrams">
+	<title>Motion Diagrams for Two Cars</title>
+<introduction>
+<p></p>
+    <p>
+      Below are strobe diagrams for two cars.
+    </p>
+		</introduction>
+		<figure xml:id="mot_MotionCars">
+		  <caption>Two strobe diagrams.</caption>
+      <image source="MotionCars.png" width = "100%">
+			<description></description>
+			</image>
+    </figure>
+<p> 
+	<ol>
+		<li>
+		Draw and label <m>x</m> vs. <m>t</m> graphs for cars A and B on the same set of axes.
+		</li>
+		<li>
+		Draw and label <m>v</m> vs. <m>t</m> graphs for cars A and B on the same set of axes.
+		</li>
+		<li>
+		Do the cars ever have the same position at one instant in time?
+		</li>
+		<li>
+		Do the cars ever have the same velocity at one instant in time?
+		</li>
+		<li>
+		Do you think it would be appropriate to use a graphing calculator for this activity?
+		</li>
+	</ol>
+	</p>
+</activity>
+
+
+	<activity xml:id="class_changing-vel">
+	<title>Changing Velocity</title>
+<introduction>
+<p></p>
+    <p>
+      A total of <m>0.2 \mathrm{~s}</m> passes between each successive dot in the strobe diagram below. 
+	  The distance between the leftmost and rightmost points is <m>64 \mathrm{~cm}</m>.
+    </p>
+		</introduction>
+		<figure xml:id="mot_MotionB">
 		  <caption>A strobe diagram.</caption>
       <image source="MotionB.png" width = "100%">
 			<description></description>
 			</image>
     </figure>
-
-<activity xml:id="class_changing-vel">
-	<title>Changing Velocity</title>
-<introduction>
-<p></p>
-    <p>
-      A total of <m>0.2 \mathrm{~s}</m> passes between each successive dot. 
-	  The distance between the leftmost and rightmost points is <m>64 \mathrm{~cm}</m>.
-    </p>
-		</introduction>
 <p>
 	<ol>
 		<li>
@@ -194,11 +178,153 @@
 					</li>
 					</ol>
 					</p>
+</activity>
+
+<activity xml:id="class_motion-metacognition">
+		<title>Metacognition</title>
+		<p></p>
+		<p>
+			Why do you think working with so many different representations is useful in physics?  
+			Cite some specific activities where different representations have led you to understand something differently.
+		</p>
+	</activity>
+
+
+<activity xml:id="class_relative-bicycles">
+	<title>Relative Bicycles</title>
+<introduction>
+<p></p>
+    <p>
+      You and a friend are each riding a bicycle.  You are moving <m>8 \mathrm{~m/s}</m> to the west relative to the ground.  
+	  Your friend is moving <m>12 \mathrm{~m/s}</m> to the west relative to the ground. 
+    </p>
+		</introduction>
+		
+<p>
+	<ol>
+		<li>
+		Explain why the information given above is not enough for tell whether your friend's position is east, west, or the same as your position.
+		</li>
+		<li>
+		Suppose at <m>t = 0</m> your friend is located <m>400 \mathrm{~m}</m> east of you.  Draw position vs. time graphs for each bicycle.
+		</li>
+		<li>
+		Use your graphs to write equations that describe the position of each bicycle as a function of time.
+		</li>
+		<li>
+		Determine when the bicycles are at the same position.
+		</li>
+		<li>
+		Choose a different reference frame; how would your answers to the above questions change, if at all?
+					</li>
+					</ol>
+					</p>
+</activity>
+		
+		
+	<activity xml:id="x_rolling-bal">
+	<title>The Rolling Ball</title>
+<introduction>
+<p></p>
+    <p>
+      The strobe diagram below shows a ball moving from left to right.  A total of <m>1 \mathrm{~s}</m> has passed between each successive dot.  The distance between the leftmost and rightmost points is <m>12 \mathrm{~m}</m>.
+    </p>
+		</introduction>
+		<figure xml:id="mot_MotionA">
+		  <caption>A strobe diagram.</caption>
+      <image source="MotionA.png" width = "100%">
+			<description>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.</description>
+			</image>
+    </figure>
+			<task xml:id="x_practice-rep-vel">
+			<title>Practice Creating a Motion Diagram</title>
+			<p></p>
+			<p>
+			Use the strobe diagram to make a <term>motion diagram</term> with both velocity and acceleration vectors.
+			</p>
+			</task>
+			<task>
+			<title>Explanation</title>
+			<statement>
+				<p></p>
+			  <p>Describe how the velocity of the ball is changing. Explain how you can tell from the strobe diagram.</p>
+				</statement>
+				<answer>
+				<p>The velocity always points to the right, and the speed is first increasing and then decreasing.</p>
+				</answer>
+			</task>
+			<task>
+			<title>Calculation</title>
+			<statement>
+				<p></p>
+			<p>What is the average speed during the motion?</p>
+			</statement>
+			<hint>
+			<p>Recall the steps for performing a calculation from <xref ref="fig_calculation"></xref>.</p>
+			</hint>
+			<answer>
+			<p><m>v_{ave} = 2 \mathrm{~m/s}</m></p>
+			</answer>
+			</task>
+			<task>
+			<title>Explanation</title>
+			<statement>
+				<p></p>
+			  <p>Is the instantaneous speed at the point in the middle <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the average speed?  Explain your reasoning.</p>
+				</statement>
+				<answer>
+				<p>Greater than!</p>
+				</answer>
+			</task>
+			
+		</activity>
+		
+	<activity xml:id="x_thrown-ball">
+	<title>The Thrown Ball</title>
+<introduction>
+<p></p>
+    <p>
+      You have a tennis ball that you throw directly upward with initial speed <m>v</m>.  The ball rises to height <m>h</m>, then falls back down.  At time <m>t</m>, you catch the ball when it is moving downward with the same speed <m>v</m>.
+    </p>
+		</introduction>
+					<task>
+			<title>Practice Creating a Motion Graph</title>
+				<p></p>
+			<p>
+			Use the given information to make a graph of the ball's velocity vs. time.  What assumptions did you make about the ball's motion?
+			</p>
+			</task>
+			<task>
+			<title>Calculation</title>
+			<statement>
+				<p></p>
+			<p>Determine the average velocity of the tennis ball during this time interval.</p>
+			</statement>
+			<hint>
+			<p>Recall the steps for performing a calculation from <xref ref="fig_calculation"></xref>.</p>
+			</hint>
+			</task>
+			<task>
+			<title>Sensemaking</title>
+			<statement>
+				<p></p>
+			  <p>Average velocity is a vector quantity.  Show that it is a vector with a reasonable direction.</p>
+				</statement>
+			</task>
 					</activity>
+
+
+
+
 
   <references>
 	<biblio xml:id="ref_tortoise">
 	<p>Tortoise image based on tortoise by vector quipo from <a href="https://thenounproject.com/browse/icons/term/tortoise/" target="_blank" title="tortoise Icons">Noun Project</a> (CC BY 3.0)
+</p>
+	</biblio>
+	<biblio xml:id="ref_active-lg-motion">
+	<p>The <q>Four Strobe Diagrams,</q> <q>Motion Diagrams for Two Cars,</q> and <q>Relative Bicycles</q> activities adapted from 
+	<em>Active Learning Guide for College Physics</em> by Etkina, Gentile, and Van Heuvelen.
 </p>
 	</biblio>
 </references>

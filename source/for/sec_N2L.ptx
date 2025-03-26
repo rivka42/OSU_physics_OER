@@ -11,8 +11,10 @@
 	<definition xml:id="def_net-force">
 	<title>Net force</title>
 	<statement>
+		<p></p>
 	<p>The <term>net force</term> on an object or system is equal to the (vector) sum of all forces acting on it: <me>\vec{F}_{net} = \sum_i \vec{F}_i = \vec{F}_1 + \vec{F}_2 + \vec{F}_3 + \dots</me>.</p>
-	</statement>
+	<p></p>
+		</statement>
 	</definition>
 	
 	<!--An object can have more than one force acting on it. If you add up all of the forces acting on an object, we call this the net force. It can be a tricky business, since the forces can be acting in different directions. An object can have two forces acting on it and still have a net force of zero if the two forces are acting in different directions and have the same magnitude.-->
@@ -21,8 +23,10 @@
 	<principle xml:id="law_N2L">
 	<title>The Law of Motion</title>
 	<statement>
+		<p></p>
 	<p>The net force on an object or system is equivalent to the product of object's mass and its acceleration: <me>\vec{F}_{net} = m\vec{a}</me>.</p>
-	</statement>
+	<p></p>
+		</statement>
 	</principle>
 	
 
@@ -31,15 +35,18 @@
 			<title>Activities</title>
 		   <exercise xml:id="x_summarize-n2l">
 			<title>Summarize What You Learned - Law of Motion</title>
+			<p></p>
 			  <p>Above, you learned a relationship between net force and acceleration.  Write a 2-3 sentence description of what this symbolic equation says in your own words.</p>
 			</exercise>
 			<exercise xml:id="x_force-units">
 			<title>Sensemaking - Units of Force</title>
+			<p></p>
 			  <p>Using what you learned above, how would you write the units of a force (newtons) in terms of other units you are familiar with? </p>
 			</exercise>
 
 				<exercise  xml:id="x_three-cars">
 				<title>Explanation - Three Cars</title>
+				<p></p>
 			  <p>Consider the following three situations: </p>
 				<ol marker="A">
 				<li>You are in a car when the speed limit changes from <m>35 \mathrm{~mph}</m> to <m>45 \mathrm{~mph}</m>.</li>

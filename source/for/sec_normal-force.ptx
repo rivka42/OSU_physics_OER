@@ -21,12 +21,14 @@
 			<exercise xml:id="x_mountain-climbing">
 			<title>Mountain Climbing</title>
 			<statement>
+				<p></p>
 			  <p>A mountain climber is connected to a vertical rope anchored at the top of a cliff.  The climber decides to take a short break at a point where the surface of the cliff makes a <m>75^o</m> angle to the horizontal.  Draw a free-body diagram for the climber showing all of the following forces: normal, friction, tension, and gravity<fn>you will learn about gravity soon, but for now assume it points straight downward</fn>.  Your diagram should be qualitatively correct, but you do not need to solve for anything.</p>
 				</statement>
 			</exercise>
 			<exercise>
 			<title>Explaining the Forces</title>
 			<statement>
+				<p></p>
 			  <p>Is the horizontal component of the normal force greater than, less than, or equal to the horizontal component of the friction force?  If your original free-body diagram does not agree with your answer, draw a new one that does!</p>
 				</statement>
 				<!--
