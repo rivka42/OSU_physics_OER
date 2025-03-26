@@ -38,7 +38,7 @@
 		</li>
 		<li>
 			<p>
-				Check that your answer makes sense
+				Check that your claims make sense
 			</p>
 		</li>
 	</ol>
@@ -98,6 +98,81 @@
 		</ol>
 	</activity>
 
+	<activity xml:id="class_strange-box">
+	<title>Moving a Strange Box</title>
+<introduction>
+<p></p>
+    <p>
+      Mike and Lucas are attempting to move a box, which does not move.
+    </p>
+		</introduction>
+		<figure xml:id="lom_StrangeBox">
+		  <caption>Two people trying to move a box.</caption>
+      <image source="StrangeBox.png" width = "60%">
+			<description></description>
+			</image>
+    </figure>
+	<p> 
+		Follow the Forces approach to understand what is happening:
+	</p>
+	<ol>
+		<li>
+			<p>
+				Identify a system and choose a reference frame
+			</p>
+		</li>
+		<li> 
+			<p>
+				Identify external forces and draw a free-body diagram
+			</p>
+		</li>
+		<li>
+			<p>
+				Identify the acceleration
+			</p>
+		</li>
+		<li>
+			<p>
+				Use the Laws of Motion to make claims about the forces
+			</p>
+		</li>
+		<li>
+			<p>
+				Check that your claims make sense
+			</p>
+		</li>
+	</ol>
+
+	<p>
+      El now pushes the box with a mental force, and it finally begins to speed up.
+    </p>
+		<figure xml:id="lom_StrangerBox">
+		  <caption>Three people trying to move a box.</caption>
+      <image source="StrangerBox.png" width = "60%">
+			<description></description>
+			</image>
+    </figure>
+
+	<ol>
+		<li>
+			<p>
+				Modify your free-body diagram
+			</p>
+		</li>
+		<li> 
+			<p>
+				Indicate the direction of the acceleration
+			</p>
+		</li>
+		<li>
+			<p>
+				Write a symbolic expression for the magnitude of the acceleration in terms of the other forces
+			</p>
+		</li>
+	</ol>
+
+</activity>
+
 	<activity xml:id="class_book-on-ramp">
 	<title>The Book on the Ramp</title>
 <introduction>
@@ -112,31 +187,45 @@
 			<description></description>
 			</image>
     </figure>
-<p> 
 	<ol>
 		<li>
-		/////Draw and label <m>x</m> vs. <m>t</m> graphs for cars A and B on the same set of axes.
+			<p>
+				Identify a system and choose a reference frame (what reference frame do you think will make approaching this situation easiest?)
+			</p>
+		</li>
+		<li> 
+			<p>
+				Identify external forces and draw a free-body diagram
+			</p>
 		</li>
 		<li>
-		Draw and label <m>v</m> vs. <m>t</m> graphs for cars A and B on the same set of axes.
+			<p>
+				Identify the acceleration
+			</p>
 		</li>
 		<li>
-		Do the cars ever have the same position at one instant in time?
+			<p>
+				Use the Laws of Motion to make claims about the forces (assume you know the magnitude of the gravitational force is <m>F^g</m>.)
+			</p>
 		</li>
 		<li>
-		Do the cars ever have the same velocity at one instant in time?
-		</li>
-		<li>
-		Do you think it would be appropriate to use a graphing calculator for this activity?
+			<p>
+				Check that your claims make sense (suppose the table is slanted so that it becomes steeper: 
+				does the magnitude of each force increase, decrease, or stay the same?)
+			</p>
 		</li>
 	</ol>
-	</p>
 </activity>
 
 <references>
 	<biblio xml:id="ref_active-lg-groceries">
 	<p>The <q>Bag of Groceries</q> activity adapted from 
 	<em>Active Learning Guide for College Physics</em> by Etkina, Gentile, and Van Heuvelen.
+</p>
+	</biblio>
+	<biblio xml:id="ref_tutorials-forces">
+	<p>The <q>Moving a Strange Box</q> activities loosely adapted from 
+	<em>Tutorials in Introductory Physics</em>.
 </p>
 	</biblio>
 </references>
