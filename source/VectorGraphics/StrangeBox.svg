@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="4.9034486in"
-   height="1.3940425in"
-   viewBox="0 0 124.5476 35.408678"
+   height="1.6175765in"
+   viewBox="0 0 124.5476 41.086441"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -57,8 +57,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="131.36681"
-     inkscape:cy="89.201833"
+     inkscape:cx="-46.420037"
+     inkscape:cy="110.66111"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -141,5 +141,27 @@
          d="m 297.00849,-133.6003 c 20.06872,20.96066 33.89384,35.231753 38.79952,35.677713 4.90569,0.44597 23.19051,5.35166 26.75829,4.9057 3.56776,-0.44598 12.93317,-7.135563 12.93317,-14.271093 0,-7.13554 4.01374,-104.80328 0.89194,-107.92509 -3.12181,-3.12179 -12.4872,-2.22985 -13.82511,2.67583 -1.33791,4.90569 1.33791,48.16491 -1.78389,48.16491 -3.1218,0 -26.75828,-49.05684 -29.88008,-50.84074 -3.1218,-1.78388 -12.04124,-3.56776 -13.37915,0.89195 -1.33792,4.45971 27.20426,58.86822 27.20426,63.32794 0,4.45972 2.67583,33.00188 -0.44597,35.23174 -3.1218,2.22985 -33.00189,-19.17678 -35.23175,-19.17678 -2.22985,0 -12.04123,1.33792 -12.04123,1.33792 z"
          style="fill:#d73f09;fill-opacity:1;stroke:#000000;stroke-width:1.68556118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
+       x="-27.131065"
+       y="203.00758"
+       id="text851"><tspan
+         sodipodi:role="line"
+         id="tspan849"
+         x="-27.131065"
+         y="203.00758"
+         style="stroke-width:0.26458332">Mike</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
+       x="44.497166"
+       y="203.00758"
+       id="text851-8"><tspan
+         sodipodi:role="line"
+         id="tspan849-1"
+         x="44.497166"
+         y="203.00758"
+         style="stroke-width:0.26458332">Lucas</tspan></text>
   </g>
 </svg>

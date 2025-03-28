@@ -75,6 +75,48 @@
 			</task>
 		</activity>
 
+<activity xml:id="class_motion-ramp">
+	<title>Up and Down the Ramp</title>
+<introduction>
+<p></p>
+    <p>
+      Draw a motion diagram for the ball rolling up and then down the ramp..
+    </p>
+		</introduction>
+		<figure xml:id="mot_MotionRamp">
+		  <caption>A strobe diagram of a ball rolling up and then down a ramp.</caption>
+      <image source="MotionRamp.png" width = "40%">
+			<description></description>
+			</image>
+    </figure>
+<p>
+	Start by sketching velocity vectors for each instant.
+</p>
+<p>
+	Then use the steps below to help you sketch acceleration vectors 
+	<ol marker="A">
+		<li>
+		Draw a vector for Δv between instants 1 and 2
+		</li>
+		<li>
+		Use this to draw a vector for a between instants 1 and 2
+		</li>
+		<li>
+		Repeat the above steps for instants 7 and 8
+		</li>
+		<li>
+		What was different about these instants?
+		</li>
+		<li>
+			Repeat the above steps for the instants around the turnaround point at the top of the ramp
+		</li>
+		<li>
+		What was different about these instants?
+		</li>
+	</ol>
+	</p>
+</activity>
+
 <activity xml:id="class_strobe-diagrams">
 	<title>Four Strobe Diagrams</title>
 <introduction>
@@ -320,6 +362,11 @@
   <references>
 	<biblio xml:id="ref_tortoise">
 	<p>Tortoise image based on tortoise by vector quipo from <a href="https://thenounproject.com/browse/icons/term/tortoise/" target="_blank" title="tortoise Icons">Noun Project</a> (CC BY 3.0)
+</p>
+	</biblio>
+	<biblio xml:id="ref_tut-ramp">
+	<p>The <q>Up and Down the Ramp</q>activity adapted from 
+	<em>Tutorials in Introductory Physics</em>.
 </p>
 	</biblio>
 	<biblio xml:id="ref_active-lg-motion">

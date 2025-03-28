@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="4.9034486in"
-   height="1.3940425in"
-   viewBox="0 0 124.5476 35.408678"
+   height="1.6175765in"
+   viewBox="0 0 124.5476 41.086441"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -57,8 +57,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="-45.618535"
-     inkscape:cy="50.776827"
+     inkscape:cx="-171.33282"
+     inkscape:cy="72.236102"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -154,5 +154,38 @@
        d="m -42.240302,174.85459 c -1.876641,2.12563 -5.056955,2.02912 -5.801806,1.94082 -0.744852,-0.0883 -2.74403,-0.63839 -3.288948,-0.58537 -0.544914,0.0531 -1.234706,0.32325 -1.264404,1.40938 -0.0297,1.08611 -1.047132,15.93567 -0.584948,16.42384 0.462186,0.48817 1.891429,0.39139 2.115494,-0.34975 0.224063,-0.74114 -0.0032,-7.33688 0.471992,-7.32388 0.475177,0.0129 3.868774,7.57844 4.336527,7.86296 0.467753,0.28453 1.81798,0.59318 2.040188,-0.0801 0.22221,-0.67327 -3.895822,-9.07372 -3.877262,-9.75254 0.01856,-0.67883 -0.26994,-5.03444 0.214518,-5.36086 0.484458,-0.32642 5.543449,-2.34333 5.882862,-2.33405 0.339412,0.009 -0.244213,-1.85047 -0.244213,-1.85047 z"
        id="path1019-0-49"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
+       x="-27.131065"
+       y="203.00758"
+       id="text851"><tspan
+         sodipodi:role="line"
+         id="tspan849"
+         x="-27.131065"
+         y="203.00758"
+         style="stroke-width:0.26458332">Mike</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
+       x="44.497162"
+       y="203.00758"
+       id="text851-8"><tspan
+         sodipodi:role="line"
+         id="tspan849-1"
+         x="44.497162"
+         y="203.00758"
+         style="stroke-width:0.26458332">Lucas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
+       x="-52.190884"
+       y="203.00758"
+       id="text851-2"><tspan
+         sodipodi:role="line"
+         id="tspan849-11"
+         x="-52.190884"
+         y="203.00758"
+         style="stroke-width:0.26458332">El</tspan></text>
   </g>
 </svg>

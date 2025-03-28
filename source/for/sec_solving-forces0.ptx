@@ -7,6 +7,11 @@
 	<title>Practice Activities</title>
 </exercises>
 
+<activity>
+	<title>Warmup</title>
+	<p>
+		
+	</p>
     <p>
 		Observe the motion of the aircar in the video below.
 	</p>
@@ -42,6 +47,7 @@
 			</p>
 		</li>
 	</ol>
+	</activity>
 
 	<p>
 		The five steps above make up a general strategy that can be used to approach many physical situations,  
@@ -170,8 +176,46 @@
 			</p>
 		</li>
 	</ol>
-
 </activity>
+
+
+<activity xml:id="class_deducing-forces">
+	<title>Deducing Forces</title>
+<introduction>
+<p></p>
+    <p>
+      In each case below, three forces act on a <m>0.5 \mathrm{~kg}</m> object.  
+	  Two of the forces are shown on the free-body diagrams, but the third is missing.
+    </p>
+		</introduction>
+		<figure xml:id="lom_2Forces">
+		  <caption>Three cases, each showing two of the three forces acting on an object.</caption>
+      <image source="2Forces.png" width = "70%">
+			<description></description>
+			</image>
+    </figure>
+	<p>
+		Draw and label the missing force vector for each case for the three motions below.
+	</p>
+	<ul>
+		<li>
+			<p>
+				Motion 1: <m>a = 2 \mathrm{~m/s^2}</m> to the right
+			</p>
+		</li>
+		<li> 
+			<p>
+				Motion 2: <m>a = 3 \mathrm{~m/s^2}</m> downward
+			</p>
+		</li>
+		<li>
+			<p>
+				Motion 3: constant speed
+			</p>
+		</li>
+	</ul>
+</activity>
+
 
 	<activity xml:id="class_book-on-ramp">
 	<title>The Book on the Ramp</title>
@@ -183,7 +227,7 @@
 		</introduction>
 		<figure xml:id="lom_BookRamp">
 		  <caption>A book on a ramp connected to a string.</caption>
-      <image source="BookRamp.png" width = "100%">
+      <image source="BookRamp.png" width = "50%">
 			<description></description>
 			</image>
     </figure>
@@ -219,7 +263,7 @@
 
 <references>
 	<biblio xml:id="ref_active-lg-groceries">
-	<p>The <q>Bag of Groceries</q> activity adapted from 
+	<p>The <q>Bag of Groceries</q> and <q>Deducing Forces</q> activities adapted from 
 	<em>Active Learning Guide for College Physics</em> by Etkina, Gentile, and Van Heuvelen.
 </p>
 	</biblio>

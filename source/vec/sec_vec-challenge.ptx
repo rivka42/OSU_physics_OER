@@ -9,16 +9,32 @@
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
+	<subsection>
+		<title>Challenge Activity Philosophy</title>
+		<introduction>
+			<p>
+		When you work on a challegne activity, your goal is not just to solve a problem, 
+		but to <alert>learn new physics</alert> and <alert>practice communicating</alert>.
+	</p>
+		</introduction>
+	</subsection>
+	
 	
 	<subsection>
 	<title>Explanation Task Instructions</title>
 	
-	<p>Physics is a systematic way of looking at the world that involves building <em>quantitative models</em> and <em>mechanistic explanations</em> for why real-world objects and systems behave the way they do.  When you provide an explanation, include the steps detailed below.</p>
+	<p>Physics is a systematic way of looking at the world that involves building <em>quantitative models</em> and 
+	<em>mechanistic explanations</em> for why real-world objects and systems behave the way they do.  
+	When you provide an explanation, include the steps detailed below.</p>
 	
 		  <figure xml:id="fig_explanation">
 		 <caption>Steps to follow when giving an explanation.</caption>
 		<image source="ExplanationSteps.png" width = "100%">
-			<description>Explanations in Physics.  1. Principles – what fundamental physics concepts, laws, or definitions did you start with?  2. Claims – clearly state your claims about the situation.  3. Reasoning – explain all the reasoning steps to go from your starting point to your conclusion.  3. Conclusion – state your conclusion clearly.</description></image>
+			<description>Explanations in Physics.  
+			1. Principles - what fundamental physics concepts, laws, or definitions did you start with? 
+			2. Claims - clearly state your claims about the situation.  
+			3. Reasoning - explain all the reasoning steps to go from your starting point to your conclusion.  
+			</description></image>
   </figure>	
 	
 	<example xml:id="ex_park-explanation">
