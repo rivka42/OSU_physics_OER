@@ -11,7 +11,13 @@
 	<assumption xml:id="a_near-earth">
 	<title>Near the Surface of the Earth</title>
 	<statement>
+		<p>
+			
+		</p>
 		<p>The gravitational field due to the Earth near the surface of the Earth is uniform: <me>\vec{g} = g (-\hat{y})</me> where <m>g = 9.81 \mathrm{~m/s}^2 \approx 10 \mathrm{~m/s}^2</m>.</p>
+	<p>
+		
+	</p>
 	</statement>
 </assumption>
 		
@@ -20,6 +26,9 @@
 			<exercise xml:id="x_gravity-assumptions">
 						<title>Sensemaking - Direction</title>
 						<statement>
+							<p>
+								
+							</p>
 			  <p>How does this assumption hold up to the questions in <xref ref="fig_assumptions"></xref>?</p>
 				</statement>
 				<answer>
@@ -28,10 +37,16 @@
 			</exercise>
 			<exercise xml:id="x_gravity-directions">
 						<title>Sensemaking - Direction</title>
+						<p>
+							
+						</p>
 			  <p>How is it possible that both <m>-\hat{y}</m> and <m>-\hat{r}</m> can both be reasonable directions for the Earth's gravitational field?</p>
 			</exercise>
 		<exercise>
 		<title>A*R*C*S - Gravity on Mars</title>
+		<p>
+			
+		</p>
 			  <p>You are going to be the first person on Mars, and you want to know how the gravity on Mars compares to the gravity on Earth.  Calculate the gravitational field near the surface on Mars and how far from the surface you can get before the gravitational field changes by about 0.1%.</p>
 			</exercise>
 			</exercises>

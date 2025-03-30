@@ -16,6 +16,9 @@
 		<definition>
 	<title>The Gravitational Force</title>
 	<statement>
+		<p>
+			
+		</p>
 	<p>The <term>gravitational force</term> on a system with mass <m>m_A</m> in the presence of a gravitational field <m>\vec{g}_B</m> is: <me>\vec{F}^{G}_{AB} = m_A\vec{g}_B</me></p>
 	</statement>
 	</definition>
@@ -28,28 +31,40 @@
 			<title>Activities</title>
 			<exercise xml:id="x_summarize-grav-field">
 			<title>Summarize What You Learned - Gravitational Field</title>
+			<p>
+				
+			</p>
 			  <p>At the end of the video, you are asked to think about what kind of quantity the gravitational field is.  Take a moment to think about the name, symbol, and equation.  Then, write down 2-3 things you think might be true for the gravitational field.</p>
 			</exercise>
 		<exercise xml:id="x_grav-alert">
 			<title>Sensemaking - Equations</title>
+			<p>
+				
+			</p>
 	<p>The equation for the gravitational force given above looks a lot like the Law of Motion: <m>\vec{F}_{net} = m\vec{a}</m>.  However, these two equations are not the same.  Identify at least two differences between the equations.</p>
 			</exercise>
 			<exercise xml:id="x_units-grav-field">
 			<title>Sensemaking - Units</title>
 			<statement>
+				<p>
+					
+				</p>
 			<p>What are the units of the gravitational field?  What do you think the units mean here?</p>
 			</statement>
 			<answer>
-			Either N/kg or m/s<m>^2</m>.
+			Either <m>\mathrm{N/kg}</m> or <m>\mathrm{m/s^2}</m>.
 			</answer>
 			</exercise>
 						<exercise xml:id="x_practice-grav-field">
 			<title>Practice - Gravitational Field</title>
 			<statement>
+				<p>
+					
+				</p>
 			<p>Your friend claims they have a gravitational field generator that can create a gravitational field throughout their physics lab.  You decide to test it by placing a 12 kg object in the lab and measuring a gravitational force with magnitude 7.8 N acting on the object.  What is the magnitude of the gravitational field your friend has created?</p>
 			</statement>
 			<answer>
-			0.65 N/kg
+			<m>0.65 \mathrm{~N/kg}</m>
 			</answer>
 			</exercise>
 		</exercises>

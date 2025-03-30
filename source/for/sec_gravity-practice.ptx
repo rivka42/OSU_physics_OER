@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_gravity-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Practice - Gravity</title>
+		
+		<exercises>
+	<title>Practice Activities</title>
+</exercises>
+
+	<activity xml:id="class_volleyball">
+	<title>The Volleyball inside the Elevator</title>
+<introduction>
+<p></p>
+    <p>
+      You attach a volleyball with mass 275 grams to a string and suspend it from the ceiling of an elevator moving upward at speed <m>1.5 \mathrm{~m/s}</m>. 
+	  <ol marker="A">
+		<li>
+			The elevator is moving at constant speed
+		</li>
+		<li>
+			The elevator is accelerating upwards at a constant rate of <m>2.5 \mathrm{~m/s^2}</m>
+		</li>
+		<li>
+			The elevator is accelerating downwards at a constant rate of <m>2.5 \mathrm{~m/s^2}</m>
+		</li>
+	  </ol>
+	  </p>
+		</introduction>
+	<p> 
+		Follow the Forces approach to understand what is happening with the tension in the string in the following three cases above.  As you work on each case, explicitly discuss any assumptions you are making.
+	</p>
+	<ol>
+		<li>
+			<p>
+				Identify a system and choose a reference frame
+			</p>
+		</li>
+		<li> 
+			<p>
+				Identify external forces and draw a free-body diagram
+			</p>
+		</li>
+		<li>
+			<p>
+				Identify the acceleration
+			</p>
+		</li>
+		<li>
+			<p>
+				Use the Laws of Motion to make claims about the forces
+			</p>
+		</li>
+		<li>
+			<p>
+				Check that your claims make sense
+			</p>
+		</li>
+	</ol>
+
+	<p>
+      The elevator is now located above the surface of the Earth by a distance <m>h</m>.  
+	  Follow the steps above to find the new tension.  Explicitly discuss which steps have changed.  
+	  At the end, choose a value for <m>h</m> for something like the space station.
+    </p>
+</activity>
+	
+</section>
+

@@ -21,11 +21,13 @@
 		
 		
 		<!--PREPARE SECTIONS-->
-			<xi:include href="./for/sec_gravity.ptx" />
-	<xi:include href="./for/sec_gravitational-field.ptx" />
-	<xi:include href="./for/sec_gravity-near-earth.ptx" />
-			<xi:include href="./for/sec_static-friction.ptx" />
-	<xi:include href="./for/sec_kinetic-friction.ptx" />
+		<xi:include href="./for/sec_gravity.ptx" />
+		<xi:include href="./for/sec_gravitational-field.ptx" />
+		<xi:include href="./for/sec_gravity-near-earth.ptx" />
+		<xi:include href="./for/sec_gravity-practice.ptx" />
+		<xi:include href="./for/sec_static-friction.ptx" />
+		<xi:include href="./for/sec_kinetic-friction.ptx" />
+		<xi:include href="./for/sec_friction-practice.ptx" />
 
 					
 		<!--PRACTICE SECTIONS-->

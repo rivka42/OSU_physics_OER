@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_friction-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Practice - Friction</title>
+	
+      <exercises>
+	<title>Practice Activities</title>
+</exercises>
+
+<activity xml:id="class_book-wall">
+	<title>The Book against the Wall</title>
+<introduction>
+<p></p>
+    <p>
+      You push a book against a vertical wall so the book does not move.
+    </p>
+		</introduction>
+
+	<p> 
+		Follow the Forces approach to understand the magnitudes of the forces acting on the book. 
+		What happens to each force if you push harder?
+	</p>
+	<ol>
+		<li>
+			<p>
+				Identify a system and choose a reference frame
+			</p>
+		</li>
+		<li> 
+			<p>
+				Identify external forces and draw a free-body diagram
+			</p>
+		</li>
+		<li>
+			<p>
+				Identify the acceleration
+			</p>
+		</li>
+		<li>
+			<p>
+				Use the Laws of Motion to make claims about the forces
+			</p>
+		</li>
+		<li>
+			<p>
+				Check that your claims make sense
+			</p>
+		</li>
+	</ol>
+
+	<p>
+      Suppose you push a different book horizontally against a vertical wall so that the book slides downward at constant speed.  
+	  You know the coefficients of friction are <m>\mu_b</m> (between the book and the wall) and zero (between the book and your hand).  
+	  You also know the mass <m>m</m> of the book.  
+	Follow the Forces approach above to find the magnitude of the force your hand must exert on the book.
+
+    </p>
+		
+</activity>
+
+<project xml:id="class_suitcase">
+        <title>Suitcase on a Ramp</title>
+		<statement>
+		<p></p>
+		    <p>
+				A suitcase of mass <m>m</m> is at rest on a ramp that makes an angle <m>\theta</m> with the horizontal. 
+				You know the coefficients of friction (<m>\mu_s</m> and <m>\mu_k</m>) between the suitcase and the ramp.  
+				Determine the possible angles for which the suitcase remains at rest.
+			</p>
+				
+		</statement>
+		<hint>
+		    <p>
+				Follow the A*R*C*S format from <xref ref="fig_realworld"/>.
+			</p>
+		</hint>
+	</project>
+
+	
+</section>
+

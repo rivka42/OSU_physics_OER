@@ -3,6 +3,59 @@
 <section xml:id="sec_work" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Work</title>
 	
+	<p>
+		The models you built for forces in the previous chapters can be used to explain many different physical systems.  
+		For some systems, it is useful to define the <alert>work</alert> done by a force.
+	</p>
+
+	<definition xml:id="def_work">
+	<title>Work by a Constant Force</title>
+	<statement>
+		<p>
+			
+		</p>
+	<p>The <term>work</term> done by a single, constant force <m>\vec{F}</m> on an object moving from 
+	<m>\vec{r}_i</m> to <m>\vec{r}_f</m> is: <me>W = \vec{F} \cdot \Delta \vec{r}</me> </p>
+	</statement>
+	</definition>
+
+
+	<exercises>
+	<title>Activities</title>
+	
+	
+	<exercise xml:id="x_work-box">
+			<title>Practice Calculating Work</title>
+			<statement>
+			<ol>
+			  <li><p>You are pulling a box across the floor using a horizontal rope with a constant tension force of <m>250 \mathrm{~N}</m>.  How much work have you done after the box has slid <m>3 \mathrm{~m}</m> along the floor?</p></li>
+			  <li><p>Suppose you were to angle your rope so that it makes an angle of <m>20^o</m> with the horizontal (the magnitude of the tension is unchanged).  How much work have you done after the box has slid 3 m along the floor?</p></li>
+				<li><p>Suppose you were to angle your rope so that it is oriented vertically (the magnitude of the tension is unchanged).  How much work have you done after the box has slid <m>3 \mathrm{~m}</m> along the floor?</p></li>
+				<li><p>Why is the work you calculated for the three situations above not the same?</p></li>
+				</ol>
+				</statement>
+			</exercise>
+			
+						<exercise>
+			<title>Extension: Multiple External Forces</title>
+			<statement>
+			  <p>Suppose you have a system with two objects, <m>A</m> and <m>B</m>.  Different <alert>constant</alert> external forces, <m>\vec{F}_A</m> and <m>\vec{F}_B</m>, act on the two objects, which undergo different displacements <m>\Delta \vec{r}_A</m> and <m>\Delta\vec{r}_B</m>.  Which of the following expressions do you think correctly describes the net work on this system?  Why?</p>
+				
+				<p>Option 1: <m>W_{\text{net,external}} = \vec{F}_A \cdot \Delta\vec{r}_A + \vec{F}_B \cdot \Delta\vec{r}_B</m></p>
+				
+				<p>Option 2: <m>W_{\text{net,external}} = (\vec{F}_A + \vec{F}_B) \cdot (\Delta\vec{r}_A + \Delta\vec{r}_B)</m></p>
+				</statement>
+				<answer>
+				<p>Option 1 is correct because it separately calculates the work by each force before adding them together!</p>
+				</answer>
+			</exercise>
+			
+		</exercises>
+
+
+
+	<!--ORIGINAL WORK SECTION
+
     <p>
      As you saw in previous sections, one way to change the energy of an object is to do work on it.  Work arises when a force acts on an object that is displaced.
     </p>
@@ -70,6 +123,8 @@
 			</exercise>
 			
 		</exercises>
+
+		-->
 	
 </section>
 

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_density" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Density</title>
+	
+	<p>
+		In <xref ref="sec_N1L"/>, you learned about the mass as a property of an object.  
+		In some situations, you may care about how that mass is distributed in space, 
+		which is useful to describe using a new quantity known as density.
+	</p>
+	
+	<definition xml:id="def_mass-density">
+	<title>Mass Density</title>
+	<statement>
+		<p>
+			
+		</p>
+	<p>
+		The <term>mass density</term> of an object, <m>\rho</m>, can be found by dividing the object's mass by its volume: <me>
+			\rho = \frac{m}{V}
+		</me>
+		
+	</p>
+	</statement>
+	</definition>
+
+	<note>
+		<title>1D and 2D Density</title>
+		<p>
+			The symbol <m>\rho</m> represents the volume (three-dimensional) mass density.  
+			Physics also commonly makes use of surface (two-dimensional) mass density, symbolized by <m>\sigma</m>, 
+			and linear (one-dimensional) mass density, symbolized by <m>\lambda</m>.  
+		</p>
+		
+	</note>
+
+	<exercises>
+		<title>Activities</title>
+		<exercise>
+			<title>Sensemaking: Units</title>
+			<statement>
+				<p>
+					
+				</p>
+			<p>Determine the units for mass density.</p>
+			</statement>
+			<answer>
+				<p>
+					<m>\mathrm{kg/m^3}</m>
+				</p>
+			</answer>
+		</exercise>
+		<exercise>
+			<title>Sensemaking: Numbers</title>
+			<statement>
+				<p>
+					
+				</p>
+				<p>
+					One cup of water has a mass of approximately <m>240 \mathrm{~g}</m>.  
+					Use this to estimate the density of water.  
+					Make sure to convert your final answer to SI units, and comment on whether or not this number makes sense.
+				</p>
+			</statement>
+		</exercise>
+		<exercise>
+			<title>Sensemaking: Covariation</title>
+			<statement>
+				<p>
+					
+				</p>
+				<p>
+					Density depends on two quantities: mass and volume.  
+					Use the covariational reasoning sensemaking strategy to check that the definition for density makes sense given your everyday experience.
+				</p>
+			</statement>
+			
+		</exercise>
+		</exercises>
+	
+</section>
+
+

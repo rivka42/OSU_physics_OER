@@ -10,7 +10,7 @@
 		<exercises>
 		<title>Exploring Spring Forces</title>
 			<exercise>
-			  <p>Play with this spring simulation: <url href="https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics_en.html"/>.  Play around with it for at least a few minutes.</p>
+			  <p>Play with <url href="https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics_en.html" visual="this simulation"/> for at least a few minutes.</p>
 			</exercise>
 			<exercise>
 			  <p>With the simulation from the previous question, investigate how the spring force appears to be related to the displacement of the spring.</p>

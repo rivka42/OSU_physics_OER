@@ -9,14 +9,24 @@
       <video youtube="09lGQ0qCaCo"></video>
     </figure>
 
-    			<p>
-Vectors do not multiply in the same way as scalars due to their inherent directionality.  One way to multiply vectors is the <em>dot product</em>, named because you will use a dot to represent the multiplication. The dot product of two vectors is itself a <alert>scalar</alert> value, not a new vector.
-</p>
+    		<p>
+			Vectors do not multiply in the same way as scalars due to their inherent directionality.  
+			One way to multiply vectors is the <em>dot product</em>, 
+			named because you will use a dot to represent the multiplication. 
+			The dot product of two vectors is itself a <alert>scalar</alert> value, not a new vector.
+			</p>
 
 <definition >
 <title>The Dot Product</title>
 <statement>
-<p>The dot product between two vectors is given by <m>\vec{A} \cdot \vec{B} = AB \cos\theta</m>, where <m>\theta</m> is the angle between the vectors when placed tail-to-tail.</p>
+	<p>
+		
+	</p>
+<p>The dot product between two vectors is given by <m>\vec{A} \cdot \vec{B} = AB \cos\theta</m>, 
+where <m>\theta</m> is the angle between the vectors when placed tail-to-tail.</p>
+	<p>
+		
+	</p>
 </statement>
 </definition>
 
@@ -32,18 +42,36 @@ Here, <m> \theta</m> represents the angle between the two vectors when they are 
 Conceptually, the dot product quantifies how much of one vector is in the same direction as another vector, or how parallel two vectors are. The dot product is the magnitude of <m> \vec{B}</m> multiplied by the projection of  <m> \vec{A}</m> along <m> \vec{B}</m>. You can think of a projection as the length of the shadow that <m> \vec{A}</m> would cast on <m> \vec{B}</m> if you were to shine a light from above.
 </p>
 
-<insight>
-<p>
-Many physical quantities (work, torque, angular momentum) depend on how parallel or how perpendicular two vector quantities are with respect to each other. The underlying conceptual framework of what a dot product tells us about nature is geometric. In this class you will be exploring many situations which will require us to build our geometric reasoning skills.
-  </p>
-	</insight>
+<note>
+	<title>Vector Algebra for the Dot Product</title>
+	
+	<p>
+		Though you are less likely to calculate the dot product algebraically in physics, 
+		you can do so by multiplying like components and then adding the resulting products together.
+ </p>
+ 
+ <md>
+<mrow> \vec{A} \cdot \vec{B} \amp = (A_x \hat{x} + A_y \hat{y}+ A_z\hat{z}) \cdot (B_x \hat{x} + B_y \hat{y}+ B_z\hat{z})</mrow>
+<mrow> \amp = A_xB_x(\hat{x} \cdot \hat{x}) + A_yB_y(\hat{y} \cdot \hat{y}) + A_zB_z (\hat{z} \cdot \hat{z}) </mrow>
+<mrow>\amp = A_xB_x + A_yB_y+A_zB_z </mrow>
+</md>
+ 
+ Recall: <m>\hat{x} \cdot \hat{x} = \hat{y} \cdot \hat{y} = \hat{z} \cdot \hat{z} = 1</m>
+	
+</note>
+
+
   
 			<exercises>
 		<title>Practice Activity</title>
 				<exercise xml:id="x_dot">
 				<title>Explore Dot Product Signs</title>
 		<statement>
-		<p>The result of the dot product can be <em>positive</em>, <em>negative</em>, or <em>zero</em>.  Sketch 2-3 possible pairs of vectors for each possible result of the dot product.</p>
+			<p>
+				
+			</p>
+		<p>The result of the dot product can be <em>positive</em>, <em>negative</em>, or <em>zero</em>.  
+		Sketch 2-3 possible pairs of vectors for each possible result of the dot product.</p>
 		</statement>
 		</exercise>
 		</exercises>
