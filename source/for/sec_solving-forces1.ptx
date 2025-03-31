@@ -2,36 +2,52 @@
 
 <section xml:id="sec_solving-forces1" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Force Analysis for a Single System</title>
-
-      <video youtube="i6yXnUEO82k"><description>A strategy for using forces to solve physics problems.</description></video>
-    
-
-<p>At this point, you have approached several A*R*C*S contexts using the steps in <xref ref="fig_realworld"></xref>, mostly by analyzing the motion of a system.  Now you need to be able to use the same structure when analyzing the <em>forces</em> acting on a system.  The steps below can be extremely helpful.</p>
-
-<p><alert>Analyze and Represent:</alert> Identify a system and draw a Free-body Diagram.</p>
-
-<p><alert>Calculate:</alert> Is the acceleration <m>0 \mathrm{~m/s^2}</m> (static or dynamic equilibrium) or not <m>0 \mathrm{~m/s^2}</m> (dynamics)?  Once you know, use the Law of Motion!</p>
-
-<p><alert>Sensemake:</alert> All the sensemaking strategies you have will work, but a new strategy called Special-case Analysis (see <xref ref="sec_special-cases"/>) can be especially useful.</p>
-  
 	<exercises>
-	<title>Activities: Practice with Force Analysis</title>
+	<title>Activities: Practice with Force Analysis for a Single System</title>
+	<exercise>
+		<title>The Skateboarder and the Kite</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>
+				A skateboarder on flat, level ground is being pulled forward by an angled kite.
+			</p>
+		</statement>
+		<solution>
+			<video youtube="i6yXnUEO82k"><description>A strategy for using forces to solve physics problems.</description></video>
+		</solution>
+	</exercise>
 	<exercise>
 	<title>Solving for a Different Quantity</title>
-	<p>Using the context given in the video above, find the magnitude of the normal force acting on the skateboarder.</p>
+	<p>
+		
+	</p>
+	<p>Using the skateboarder context above, find the magnitude of the normal force acting on the skateboarder.</p>
 	</exercise>
 			<exercise>
 			<title>Exploring Systems of Equations</title>
-			  <p>It is very common in physics (and especially when using Force Analysis) to end up with a <term>system of equations</term>.  Suppose you are in the middle of using Force Analysis and you end up finding a system of two equations that contain three different unknown quantities.  How do you think you could make further progress on such a problem?</p>
+			<p>
+				
+			</p>
+			  <p>When using Force Analysis, it is especially common to end up with a <term>system of equations</term>.  
+			  Suppose you are in the middle of using Force Analysis and you end up finding a system of two equations 
+			  that contain three different unknown quantities.  
+			  How do you think you could make further progress on such a calculation?</p>
 			</exercise>
 			
 			<exercise xml:id="x_force-analysis">
-			<title>Practice with Force Analysis</title>
+			<title>The Kite and the Wagon</title>
 			<statement>
-			  <p>A child in a wagon is trailing a large kite behind her at a low angle while her father pulls the wagon forward so it moves at constant speed.  Find the force the father exerts on the wagon.</p>
+				<p>
+					
+				</p>
+			  <p>A child in a wagon is trailing a large kite behind her at a low angle while her father pulls the wagon forward 
+			  so it moves at constant speed.  Find the force the father exerts on the wagon.</p>
 				</statement>
 				<hint>
-				<p>Model both the force from the kite and the force from the father as constant.  (Don't forget to use the A*R*C*S format along with the steps above!)</p>
+				<p>Model both the force from the kite and the force from the father as constant.  
+				(Don't forget to use the A*R*C*S format!)</p>
 				</hint>
 			</exercise>
 		</exercises>

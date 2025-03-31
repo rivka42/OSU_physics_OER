@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_solving-forces0" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>The Forces Approach to Problem Solving</title>
-
-<exercises>
-	<title>Practice Activities</title>
-</exercises>
+  <title>Force Analysis</title>
 
 <activity>
 	<title>Warmup</title>
@@ -54,13 +50,52 @@
 		This strategy is typically known as the <q>Forces</q> approach to solving problems, or <term>Force Analysis</term>.
 	</p>
 
+	<algorithm xml:id="force-analysis">
+	<title>Force Analysis</title>
+		<statement>
+	<ol>
+		<li>
+			<p>
+				Identify a system and choose a reference frame
+			</p>
+		</li>
+		<li> 
+			<p>
+				Identify external forces and draw a free-body diagram.
+			</p>
+		</li>
+		<li>
+			<p>
+				Identify the acceleration
+			</p>
+		</li>
+		<li>
+			<p>
+				Use the Laws of Motion to make claims about the forces
+			</p>
+		</li>
+		<li>
+			<p>
+				Check that your claims make sense
+			</p>
+		</li>
+	</ol>
+		</statement>
+	</algorithm>
+
+<exercises>
+	<title>Practice Activities</title>
+</exercises>
+
+
+
 	<activity>
 		<title>Metacognition</title>
 		<p>
 			
 		</p>
 		<p>
-			Why do you think the Forces approach might be useful for situations like the one above?
+			Why do you think <xref ref="force-analysis" text="title"/> might be useful for situations like the one above?
 		</p>
 		
 	</activity>
@@ -72,7 +107,7 @@
 		</p>
 		<p>
 			Consider what changes you could make to the aircar that might result in the following motions: at rest, moving with constant speed, speeding up, and slowing down.  
-			For each, use a Forces approach to understand what is happening.
+			For each, use <xref ref="force-analysis" text="title"/> to understand what is happening.
 		</p>
 		
 	</activity>
@@ -83,7 +118,7 @@
 			
 		</p>
 		<p>
-			Consider the three situations below.  For each, use a Forces approach to understand what is happening.
+			Consider the three situations below.  For each, use <xref ref="force-analysis" text="title"/> to understand what is happening.
 		</p>
 		<ol marker="a">
 			<li>
@@ -111,16 +146,18 @@
     <p>
       Mike and Lucas are attempting to move a box, which does not move.
     </p>
-		</introduction>
-		<figure xml:id="lom_StrangeBox">
+</introduction>
+	<figure xml:id="lom_StrangeBox">
 		  <caption>Two people trying to move a box.</caption>
       <image source="StrangeBox.png" width = "60%">
 			<description></description>
-			</image>
+	  </image>
     </figure>
+	<task>
 	<p> 
-		Follow the Forces approach to understand what is happening:
+		Use <xref ref="force-analysis" text="title"/> to understand what is happening:
 	</p>
+	
 	<ol>
 		<li>
 			<p>
@@ -148,7 +185,8 @@
 			</p>
 		</li>
 	</ol>
-
+	</task>
+	<task>
 	<p>
       El now pushes the box with a mental force, and it finally begins to speed up.
     </p>
@@ -176,6 +214,7 @@
 			</p>
 		</li>
 	</ol>
+	</task>
 </activity>
 
 
@@ -231,6 +270,9 @@
 			<description></description>
 			</image>
     </figure>
+	<p>
+		Use <xref ref="force-analysis" text="title"/> to describe the forces acting on the book.
+	</p>
 	<ol>
 		<li>
 			<p>

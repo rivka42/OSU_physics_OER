@@ -23,18 +23,21 @@
 		
 		<!--PREPARE SECTIONS-->
 		<xi:include href="./for/sec_N3L.ptx" />
+		<xi:include href="./for/sec_changing-systems.ptx" />
 		<xi:include href="./for/sec_tension.ptx" />
 		<xi:include href="./for/sec_ideal-pulleys.ptx" />
 					
 					
 		<!--PRACTICE SECTIONS-->
-	<xi:include href="./for/sec_solving-forces2.ptx" />		
+		<xi:include href="./for/sec_solving-forces2.ptx" />		
 		<xi:include href="./for/sec_sys-practice.ptx" />
 		
 		<!--CHALLENGE SECTIONS-->
-	<xi:include href="./for/sec_sys-challenge.ptx" />
-	<xi:include href="./for/sec_forces-summary.ptx" />
+		<xi:include href="./for/sec_force-analysis.ptx" />
+		<xi:include href="./for/sec_sys-challenge.ptx" />
 
+
+	
 
 
 
@@ -51,6 +54,8 @@
 		
 	<xi:include href="./for/sec_solving-forces1.ptx" />
 	<xi:include href="./for/sec_special-cases.ptx" />
+	<xi:include href="./for/sec_forces-summary.ptx" />
+
 	-->
 	
 </chapter>

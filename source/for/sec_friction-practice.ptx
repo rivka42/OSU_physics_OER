@@ -7,6 +7,50 @@
 	<title>Practice Activities</title>
 </exercises>
 
+<activity xml:id="class_crate-truck">
+	<title>The Book against the Wall</title>
+<introduction>
+<p></p>
+    <p>
+      A truck is initially moving to the right with speed <m>v_i</m>.
+    </p>
+		</introduction>
+
+		<figure xml:id="for_truck-crate">
+		  <caption>A crate on top of a truck.</caption>
+      <image source="TruckCrate.png" width = "60%">
+			<description></description>
+			</image>
+    </figure>
+	<p> 
+		The driver left a crate on top of the truck. You know the mass of the crate (<m>m_c</m>) and the coefficients of friction (<m>\mu_s</m> and <m>\mu_k</m>).  
+		The truck begins speeding up, but the driver wants to prevent the crate from sliding.
+	</p>
+	<task>
+	<p> 
+		What force causes the <em>crate</em> to accelerate?
+	</p>
+	</task>
+	<task>
+	<p>
+		Use <xref ref="force-analysis" text="title"/> to determine how fast the crate can accelerate.
+	</p>
+	</task>
+
+	<task>
+	<p>
+      What would happen in the above example if the coefficients of friction were very small?
+    </p>
+	</task>
+	<task>
+	<p>
+		Suppose the driver suddenly has to slam on the brakes, causing the crate to begin sliding.  
+		What is the crate's acceleration?  Which things are different compared to the first example?
+	</p>
+	</task>
+		
+</activity>
+
 <activity xml:id="class_book-wall">
 	<title>The Book against the Wall</title>
 <introduction>
@@ -15,47 +59,21 @@
       You push a book against a vertical wall so the book does not move.
     </p>
 		</introduction>
-
+	<task>
 	<p> 
-		Follow the Forces approach to understand the magnitudes of the forces acting on the book. 
+		Use <xref ref="force-analysis" text="title"/> to understand the magnitudes of the forces acting on the book. 
 		What happens to each force if you push harder?
 	</p>
-	<ol>
-		<li>
-			<p>
-				Identify a system and choose a reference frame
-			</p>
-		</li>
-		<li> 
-			<p>
-				Identify external forces and draw a free-body diagram
-			</p>
-		</li>
-		<li>
-			<p>
-				Identify the acceleration
-			</p>
-		</li>
-		<li>
-			<p>
-				Use the Laws of Motion to make claims about the forces
-			</p>
-		</li>
-		<li>
-			<p>
-				Check that your claims make sense
-			</p>
-		</li>
-	</ol>
-
+	</task>
+	<task>
 	<p>
       Suppose you push a different book horizontally against a vertical wall so that the book slides downward at constant speed.  
 	  You know the coefficients of friction are <m>\mu_b</m> (between the book and the wall) and zero (between the book and your hand).  
 	  You also know the mass <m>m</m> of the book.  
-	Follow the Forces approach above to find the magnitude of the force your hand must exert on the book.
-
+	Use <xref ref="force-analysis" text="title"/> to find the magnitude of the force your hand must exert on the book.
+	
     </p>
-		
+	</task>	
 </activity>
 
 <project xml:id="class_suitcase">

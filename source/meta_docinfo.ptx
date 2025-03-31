@@ -41,6 +41,7 @@
 	<rename element="axiom">Key Skill</rename>
 	<rename element="insight">Historical Note</rename>
 	<rename element="observation">Additional Detail</rename>
+  <rename element="algorithm">Strategy</rename>
 	
 	<rename element="project">A*R*C*S</rename>
 	<rename element="investigation">Explanation</rename>

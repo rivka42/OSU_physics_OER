@@ -3,6 +3,149 @@
 <section xml:id="sec_special-cases" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Special-case Analysis</title>
 
+
+<heuristic xml:id="sense_special-cases">
+	<title>Special-case Analysis</title>
+	<statement>
+		<p></p>
+		<p><term>Special-case Analysis</term> allows you to make sense of a symbolic equation in physics.  
+		The objective is to choose a case that is <em>special</em> because the answer is obvious or the context becomes straightforward and check to see if your equation matches your intuition.</p>
+	<p></p>
+	</statement>
+</heuristic>
+
+<p>When you use Special-case Analysis, continue to follow the sensemaking steps you saw in <xref ref="fig_sensemaking"/>.  
+Some particular things to keep in mind are listed below.</p>
+
+<ul>
+	<li>
+		<p>
+			You will often need to <em>identify</em> an interesting special case.  
+			Good cases are special if they are <alert>easy to solve</alert> or if 
+			<alert>you have solved them before</alert>.
+		</p>
+	</li>
+	<li>
+		<p>
+			When you identify a good special case, you should quickly be able to write down the answer in that case.  
+			The answer you write down should <alert>be specific</alert>.
+		</p>
+	</li>
+	<li>
+		<p>
+			When you evaluate your answer in the special case, you will need to identify the value that a variable of interest 
+			takes on in the case and then evaluate your symbolic equation at that value.  Sometimes the value may require you to take a limit!
+		</p>
+	</li>
+	<li>
+		<p>
+			At the end, you should compare your two answers; typically, this involves comparing two symbolic equations and checking 
+			if they are exactly equal!
+		</p>
+	</li>
+</ul>
+
+
+
+
+	<exercises>
+	<title>Activities</title>
+			
+			<exercise xml:id="x_gymnast1">
+			<title>A*R*C*S: The Gymnast</title>
+			<statement>
+				<p>
+					
+				</p>
+			  <p>
+				A gymnast is training using two ropes attached to the ceiling, as shown in the figure.  
+				The gymnast is currently suspended at rest. The mass of the gymnast is <m>75 \mathrm{~kg}</m>.  
+				Your goal is to find the tension in each rope.
+				</p>
+				</statement>
+				<figure xml:id="for_x-gymnast1">
+		 <caption>A gymnast suspended by two ropes.</caption>
+		<image source="Gymnast.png" width = "30%">
+			<description></description></image>
+  </figure>
+  <p><alert>1. Analyze and Represent</alert></p>
+		
+		<p>
+			<ol marker="a">
+				<li>
+					<p>
+						Identify known and unknown quantities with both a symbol and a number.
+					</p>
+				</li>
+				<li>
+					<p>
+						Identify and justify any assumptions.
+					</p>
+				</li>
+				<li>
+					<p>
+						Choose an appropriate system and draw a-free-body diagram for the system.
+					</p>
+				</li>
+			</ol>
+
+			</p>
+		
+		
+		<p><alert>2. Calculate</alert></p>
+		
+		<p>
+			<ol marker="a">
+				<li>
+					<p>
+						Identify relevant laws that will help you solve for the tensions.
+					</p>
+				</li>
+				<li>
+					<p>
+						Determine a symbolic equation for each unknown quantity in terms of known variables.
+					</p>
+				</li>
+				<li>
+					<p>
+						Plug numbers into your symbolic answer.
+					</p>
+				</li>
+			</ol>
+			</p>
+		
+		
+		<p><alert>3. Sensemake</alert></p>
+		
+		<p>
+			<ol marker="a">
+				<li>
+					<p>
+						Check the units of your symbolic answer.
+					</p>
+				</li>
+				<li>
+					<p>
+						Compare your numerical answers to appropriate numerical quantities with the same units.
+					</p>
+				</li>
+				<li>
+					<p>
+						Consider a special case: a simplified version of the physical situation where the answer is easy!
+					</p>
+				</li>
+			</ol>
+			</p>
+			</exercise>
+		</exercises>
+
+</section>
+
+
+
+
+<!-- Original Section
+
       <video youtube="dlprnaTxgGc"><description>An introduction to Special-case Analysis.</description></video>
     
 		
@@ -47,14 +190,13 @@ Some particular things to keep in mind are listed below.</p>
 	</li>
 </ul>
 
-<!--Old Chart 
+Old Chart 
   <figure xml:id="fig_special-cases">
 		 <caption>Steps to follow when using Special-case Analysis.</caption>
 		<image source="SpecialCases.png" width = "50%">
 			<description>A flow chart with the steps for Special-case Analysis.</description></image>
   </figure>	
-  -->
-
+  
 	<exercises>
 	<title>Activities</title>
 			
@@ -64,10 +206,11 @@ Some particular things to keep in mind are listed below.</p>
 			  <p>Recall <xref ref="x_force-analysis"></xref> from the previous section.  Use Special-Case Analysis to make sense of your original solution to this context.  There are several possible special cases you might try here!</p>
 				</statement>
 				<hint>
-				<p>Remember that the goal is to find a case that is truly special in the sense that the answer seems obvious or intuitive.  For example, if the kite string is horizontal, the force by the kite and the force by the father must directly cancel out if the wagon is to move at constant speed.  (Angles often make good special cases--are there any other special angles here?)</p>
+				<p>Remember that the goal is to find a case that is truly special in the sense that the answer seems obvious or intuitive.  For example, if the kite string is horizontal, the force by the kite and the force by the father must directly cancel out if the wagon is to move at constant speed.  (Angles often make good special cases: are there any other special angles here?)</p>
 				</hint>
 			</exercise>
 		</exercises>
-	
-</section>
+
+	-->
+
 

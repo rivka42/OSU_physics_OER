@@ -285,7 +285,26 @@
 		</answer>
 	</exploration>
 
-
+	<investigation xml:id="pa_for-03">
+        <title>Walking a Cat</title>
+		<statement>
+		    <p>You are trying to exercise your cat by walking them around the room with a harness - a jacket is strapped around the cat with a leash that you can pull. To get your cat moving, you pull on the leash at an angle <m>\theta</m> above the horizontal (note this is <b>not</b> how you should train your cat with a harness). Annoyed, your cat flops onto their side where there is a sizable friction between the cat and the floor. As you pull your cat, you notice they move with a constant speed. </p>
+			<p>From previous experiments with this harness, you know that your "pull" at the given angle has a vertical component equal to <b>half</b> the weight of your cat. </p>
+			<task>
+			<title>Rank the forces</title>
+			<statement>
+			<p>During the pull, rank the magnitude of the forces acting on the cat.</p>
+			</statement>
+			</task>
+			<p>To assist you, you add an additional rope hanging from the ceiling that always stays vertical but the attachment is free to move along the ceiling (like something you would find in an action movie). This new rope's tension has a magnitude equal to the vertical component of your pull. You now pull on the leash with the same magnitude and direction as before.</p>
+			<task>
+			<title>Explain</title>
+			<statement>
+			<p>Now, you notice the cat speeds up. Explain why this occurs. </p>
+			</statement>
+			</task>
+		</statement>
+	</investigation>
 
 
 

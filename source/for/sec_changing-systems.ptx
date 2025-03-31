@@ -1,26 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_tension" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Tension Forces</title>
+<section xml:id="sec_changing-systems" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Changing Systems</title>
 
       <video youtube="yLdrVot7WmY"><description>An introduction to the tension force.</description></video> 
 
 <p>As you saw in <xref ref="sec_contact-forces"></xref>, tension is a force between a rope or a string and another system that pulls along the direction of the rope at the surface of contact.  In fact, tension is also the name of the internal force between the different molecules that make up the rope or string.  You usually want to be able to assume the tension in the rope is uniform (equal throughout the rope and at both ends), which requires that all of the following be true.</p>
 
-<assumption xml:id="a_tension">
-	<title>Ideal Rope</title>
-	<statement>
-		<p>
-			
-		</p>
-		<p>An ideal rope will have a uniform tension only if it is (1) massless, (2) inextensible, and (3) free of forces other than tension acting on the middle of the rope.</p>
-	</statement>
-</assumption>
 
 	<exercises>
 	<title>Activities</title>
-			<exercise xml:id="x_rope">
-			  <p>For each of the three requirements for the ideal rope assumption, describe an everyday context where that requirement is not met.</p>
+			<exercise xml:id="x_systms">
+			  <p>
+			  </p>
+			  <p>
+					
+			  </p>
 			</exercise>
 	</exercises>
 
