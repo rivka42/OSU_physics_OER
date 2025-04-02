@@ -13,6 +13,236 @@
 <subsection>
 <title>Practice</title>
 
+	<!-- Starting March 25, 2025 (3/31/25)-->
+<exploration xml:id="ex_rope_climbing_tension">
+<title>Rope Climbing Tension</title>
+<!-- Problem 5.6.60-->
+<!-- https://openstax.org/books/university-physics-volume-1/pages/5-problems-->
+  <introduction>
+    <p></p>
+    <p>
+    Suppose Kevin, a <m>60 ~\mathrm{kg}</m> gymnast, climbs a rope.
+    </p>
+  </introduction>
+  
+  <task>
+    <statement>
+      <p></p>
+      What is the tension in the rope if he climbs at a constant speed?
+    </statement>
+
+  </task>
+
+  <task>
+    <statement>
+      <p></p>
+      What is the tension in the rope if he accelerates upward at a rate of <m>1.5 ~\mathrm{m/s^2}</m>?
+    </statement>
+
+  </task>
+
+</exploration>
+
+<exploration xml:id="ex_block_up_a_ramp_I">
+<title>Block up a Ramp I</title>
+<!-- Problem 5.6.66-->
+<!-- https://openstax.org/books/university-physics-volume-1/pages/5-problems-->
+  <introduction>
+    <p></p>
+    <p>
+    What force must be applied to a <m>100 ~\mathrm{kg}</m> crate on a frictionless plane inclined at <m>30&#176;</m> to cause an acceleration of <m>2 ~\mathrm{m/s^2}</m> up the plane?
+    </p>
+  </introduction>
+  
+<!-- NOTE: This problem has a figure, but It is labeled with just F vector. The Problem says "applied force" and the arrow points up the ramp toward the box. Would need denote a tension or normal force or leave it arbitrary for students to figure out-->
+</exploration>
+
+<exploration xml:id="ex_block_up_a_ramp_II">
+<title>Block up a Ramp II</title>
+<!-- Problem 5.6.67-->
+<!-- https://openstax.org/books/university-physics-volume-1/pages/5-problems-->
+  <introduction>
+    <p></p>
+    <p>
+    A <m>2 ~\mathrm{kg}</m> block is on a perfectly smooth ramp that makes an angle of <m>30&#176;</m> with the horizontal.
+    </p>
+  </introduction>
+  
+  <task>
+    <statement>
+      <p></p>
+      What is the block's acceleration down the ramp and the force of the ramp on the block?
+    </statement>
+
+    <answer>
+      <p>
+        <m>4.9 ~\mathrm{m/s^2}</m>; <m>17 ~\mathrm{N}</m>
+      </p>
+    </answer>
+  </task>
+
+  <task>
+    <statement>
+      <p></p>
+      What force applied upward along and parallel to the ramp would allow the block to move with constant velocity?
+    </statement>
+
+    <answer>
+      <p>
+        <m>9.8 ~\mathrm{N}</m>
+      </p>
+    </answer>
+  </task>
+<!-- NOTE: The solution key contains a figure which is also not labeled as we label things, so I did not include it in the answer dropdown-->
+</exploration>
+
+<exploration xml:id="ex_Box-Ramp_System_Spring_Constant">
+<title>Box-Ramp System Spring Constant</title>
+<!-- Problem A.P.88-->
+<!-- https://openstax.org/books/university-physics-volume-1/pages/5-additional-problems-->
+  <introduction>
+    <p></p>
+    <p>
+    Shown below is a <m>30 ~\mathrm{kg}</m> block resting on a frictionless ramp inclined at <m>60&#176;</m> to the horizontal. The block is held by a spring that is stretched <m>5 ~\mathrm{cm}</m>.
+    </p>
+	<figure xml:id="prac_Box-Ramp">
+		 <caption></caption>
+  <image source="AP88.png" width = "50%">
+  </image>
+  </figure>
+  </introduction>
+  
+  
+
+  <task>
+    <statement>
+      <p></p>
+		<p>
+      What is the spring constant of the spring?
+	  </p>
+    </statement>
+  </task>
+<!-- NOTE: OpenStax uses "force constant" I put "spring constant" since that is what I've heard-->
+<!-- NOTE: I've tried attatching the figure, but I can't seem to get it to work with all the ways I've tried-->
+</exploration>
+
+<exploration xml:id="ex_block_up_a_ramp_III">
+<title>Block up a Ramp III</title>
+<!-- Problem A.P.90-->
+<!-- https://openstax.org/books/university-physics-volume-1/pages/5-additional-problems-->
+  <introduction>
+    <p></p>
+    <p>
+    A force is applied to a block to move it up a <m>30&#176;</m> incline. The incline is frictionless; <m>F = 60 ~\mathrm{N}</m> and <m>M = 5 ~\mathrm{kg}</m>, 
+    </p>
+	  <figure xml:id="prac_block-ramp-ii">
+		 <caption></caption>
+  <image source="AP90.png" width = "50%">
+  </image>
+  </figure>
+  </introduction>
+
+
+  <task>
+    <statement>
+      <p></p>
+		<p>
+      What is the magnitude of the acceleration of the block?
+	  </p>
+    </statement>
+  </task>
+<!-- NOTE: The way this problem is worded, it can't be done without the figure.-->
+</exploration>
+
+<exploration xml:id="ex_mountain_climber">
+<title>Mountain Climber</title>
+<!-- Problem 6.2.61-->
+<!-- https://openstax.org/books/university-physics-volume-1/pages/6-problems-->
+  <introduction>
+    <p></p>
+    <p>
+    Consider the <m>52 ~\mathrm{kg}</m> mountain climber shown below.
+    </p>
+	<figure xml:id="prac_mountain-climber">
+		 <caption></caption>
+  <image source="6.2.61.png" width = "50%">
+  </image>
+	</figure>
+  </introduction>
+  
+  
+  <task>
+    <statement>
+      <p></p>
+		<p>
+      Find the tension in the rope and the force that the mountain climber must exert with her feet on the vertical rock face to remain stationary. Assume that the force is exerted parallel to her legs. Also, assume negligible force exerted by her arms.
+		</p>
+	</statement>
+
+    <answer>
+      <p>
+        <m>272 ~\mathrm{N}</m>; <m>512 ~\mathrm{N}</m>
+      </p>
+    </answer>
+  </task>
+
+  <task>
+    <statement>
+      <p></p>
+		<p>
+      What is the minimum coefficient of friction between her shoes and the cliff?
+	  </p>
+    </statement>
+
+    <answer>
+      <p>
+        0.268
+      </p>
+    </answer>
+  </task>
+<!-- NOTE: Tension in the figure has different notation than we use-->
+</exploration>
+
+<exploration xml:id="ex_corner_hanging_mass">
+<title>Corner Hanging Mass</title>
+<!-- Problem 6.2.93-->
+<!-- https://openstax.org/books/university-physics-volume-1/pages/6-additional-problems-->
+  <introduction>
+    <p></p>
+    <p>
+    As shown below, if <m>M = 5.5 ~\mathrm{kg}</m>,
+    </p>
+	<figure xml:id="prac_hanging-mass">
+		 <caption></caption>
+  <image source="AP93.png" width = "50%">
+  </image>
+  </figure>
+  </introduction>
+  
+  
+
+  <task>
+    <statement>
+      <p></p>
+		<p>
+      What is the tension in string 1?
+	  </p>
+    </statement>
+
+    <answer>
+      <p>
+        <m>199 ~\mathrm{N}</m>
+      </p>
+    </answer>
+  </task>
+<!-- NOTE: This problem has a figure-->
+</exploration>
+
+</subsection>
+
+<subsection>
+<title>Additional Practice</title>
+
 	<exploration xml:id="psa_for-alpha3">
 		<title>Elevator</title>
 		<statement>
@@ -75,7 +305,11 @@
 		<title>Pushing on a block</title>
 		<statement>
 			<p></p>
-			<p>A <m>1.40 \mathrm{~kg}</m> block is at rest on a level table.  The coefficient of static friction between the table and the block is 0.40, and the coefficient of kinetic friction between the two is 0.10.  A person then applies a 6.00 N force at an angle of 30.0<m>\deg</m> downward relative to the positive-x direction. Use <m>g = 9.80 \mathrm{~m/s^2}</m> and a standard coordinate system. What is the magnitude of the friction force acting between the block and table? What is the acceleration of the block? What is the acceleration of the block if the person applies the <m>6.00 \mathrm{~N}</m> force at an angle of 30.0<m>\deg</m> upward relative to the positive-x direction?</p>
+			<p>A <m>1.40 \mathrm{~kg}</m> block is at rest on a level table.  
+			The coefficient of static friction between the table and the block is 0.40, 
+			and the coefficient of kinetic friction between the two is 0.10.  
+			A person then applies a <m>6.00 \mathrm{~N}</m> force at an angle of <m>30^o</m> downward relative to the positive <m>x</m>-direction. 
+			Use <m>g = 9.80 \mathrm{~m/s^2}</m> and a standard coordinate system. What is the magnitude of the friction force acting between the block and table? What is the acceleration of the block? What is the acceleration of the block if the person applies the <m>6.00 \mathrm{~N}</m> force at an angle of <m>30.0^o</m> upward relative to the positive-x direction?</p>
 		</statement>
 		<answer>
 			<p><m>5.20 \mathrm{~N}</m></p>
@@ -92,8 +326,11 @@
 
 
 <references>
+<biblio xml:id="ref_openstax-force">
+	<p>Practice activities adapted from OpenStax: https://openstax.org/books/university-physics-volume-1/pages/5-problems.</p>
+	</biblio>
 	<biblio xml:id="ref_boxsand-force">
-	<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+	<p>Additional practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
 	</biblio>
 </references>
 

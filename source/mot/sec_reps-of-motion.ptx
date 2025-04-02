@@ -37,7 +37,9 @@
 <introduction>
 <p></p>
     <p>
-      It takes <m>40 \mathrm{~s}</m> for a tortoise to travel down the slide shown in the figure below.  Its initial speed is 0 and its final speed is <m>0.2 \mathrm{~m/s}</m> down the ramp.  Assume the slide is <m>4 \mathrm{~m}</m> long and the given angle is equal to <m>22^o</m>.
+      It takes <m>40 \mathrm{~s}</m> for a tortoise to travel down the slide shown in the figure below.  
+	  Its initial speed is 0 and its final speed is <m>0.2 \mathrm{~m/s}</m> down the ramp.  
+	  Assume the slide is <m>4 \mathrm{~m}</m> long and the given angle is equal to <m>22^o</m>.
     </p>
 		<figure xml:id="mot_Tortoise-slide">
 		  <caption>A tortoise at the top of a slide.</caption>
