@@ -38,7 +38,7 @@
 <p></p>
     <p>
       It takes <m>40 \mathrm{~s}</m> for a tortoise to travel down the slide shown in the figure below.  
-	  Its initial speed is 0 and its final speed is <m>0.2 \mathrm{~m/s}</m> down the ramp.  
+	  Its initial speed is <m>0 \mathrm{~m/s}</m> and its final speed is <m>0.2 \mathrm{~m/s}</m> down the ramp.  
 	  Assume the slide is <m>4 \mathrm{~m}</m> long and the given angle is equal to <m>22^o</m>.
     </p>
 		<figure xml:id="mot_Tortoise-slide">
@@ -52,17 +52,18 @@
 			<title>Practice Creating a Strobe Diagram</title>
 			<p></p>
 			<p>
-			Sketch a qualitatively accurate strobe diagram for the tortoise using the given information.  Your diagram should have about 4-6 points.
+			Sketch a qualitatively accurate strobe diagram for the tortoise using the given information.  
+			Your diagram should have about 4-6 points.
 			</p>
 			</task>
 			<task>
 			<title>Calculation</title>
 			<statement>
 				<p></p>
-			  <p>Determine the magnitude of the tortoise's average acceleration.</p>
+			  <p>Determine the magnitude of the tortoise's average acceleration.  What direction does it point?</p>
 				</statement>
 				<answer>
-				<p><m>0.005  \mathrm{~m/s^2}</m></p>
+				<p><m>0.005  \mathrm{~m/s^2}</m> down the ramp</p>
 				</answer>
 			</task>
 			<task>
@@ -87,7 +88,7 @@
 		</introduction>
 		<figure xml:id="mot_MotionRamp">
 		  <caption>A strobe diagram of a ball rolling up and then down a ramp.</caption>
-      <image source="MotionRamp.png" width = "40%">
+      <image source="MotionRamp.png" width = "60%">
 			<description></description>
 			</image>
     </figure>
@@ -271,21 +272,39 @@
 <introduction>
 <p></p>
     <p>
-      The strobe diagram below shows a ball moving from left to right.  A total of <m>1 \mathrm{~s}</m> has passed between each successive dot.  The distance between the leftmost and rightmost points is <m>12 \mathrm{~m}</m>.
+      The strobe diagram below shows a ball moving from left to right.  
+	  A total of <m>1 \mathrm{~s}</m> has passed between each successive dot.  
+	  The distance between the leftmost and rightmost points is <m>12 \mathrm{~m}</m>.
     </p>
-		</introduction>
-		<figure xml:id="mot_MotionA">
+	<figure xml:id="mot_MotionA">
 		  <caption>A strobe diagram.</caption>
       <image source="MotionA.png" width = "100%">
 			<description>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.</description>
 			</image>
     </figure>
+		</introduction>
+		
 			<task xml:id="x_practice-rep-vel">
 			<title>Practice Creating a Motion Diagram</title>
+			<statement>
 			<p></p>
 			<p>
 			Use the strobe diagram to make a <term>motion diagram</term> with both velocity and acceleration vectors.
 			</p>
+			</statement>
+			<solution>
+				<figure xml:id="mot_MotionDiagramFilled">
+		  <caption>A motion diagram with velocity vectors (middle, red) and acceleration vectors (bottom, blue).</caption>
+      		<image source="MotionDiagramFilled.png" width = "80%">
+			<description></description>
+			</image>
+    		</figure>
+				<p>
+					The instantaneous velocity vectors (middle, red) can be found by looking at the change in position on either side of each dot.  
+					The average velocity vectors (bottom, blue) can be found by looking at the change in <em>velocity</em> at the start and end of each interval. 
+					This diagram assumes that the speed at the start and end is zero, and that the acceleration is zero during the middle.
+				</p>
+			</solution>
 			</task>
 			<task>
 			<title>Explanation</title>
@@ -293,9 +312,10 @@
 				<p></p>
 			  <p>Describe how the velocity of the ball is changing. Explain how you can tell from the strobe diagram.</p>
 				</statement>
-				<answer>
-				<p>The velocity always points to the right, and the speed is first increasing and then decreasing.</p>
-				</answer>
+				<solution>
+				<p>The velocity always points to the right, and the speed is first increasing and then decreasing.  
+				This can be seen by using the definition of velocity, which is the change in position divided by the change in time.</p>
+				</solution>
 			</task>
 			<task>
 			<title>Calculation</title>
@@ -303,12 +323,9 @@
 				<p></p>
 			<p>What is the average speed during the motion?</p>
 			</statement>
-			<hint>
-			<p>Recall the steps for performing a calculation from <xref ref="fig_calculation"></xref>.</p>
-			</hint>
-			<answer>
-			<p><m>v_{ave} = 2 \mathrm{~m/s}</m></p>
-			</answer>
+			<solution>
+			<p><m>v_{x,ave} = \frac{\Delta x}{\Delta t} = \frac{12 \mathrm{~m}}{1 \mathrm{~s}} 2 \mathrm{~m/s}</m></p>
+			</solution>
 			</task>
 			<task>
 			<title>Explanation</title>
@@ -316,9 +333,11 @@
 				<p></p>
 			  <p>Is the instantaneous speed at the point in the middle <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the average speed?  Explain your reasoning.</p>
 				</statement>
-				<answer>
-				<p>Greater than!</p>
-				</answer>
+				<solution>
+				<p>The instantaneous speed is the magnitude of the change in position divided by the change in time.  
+				The change in time is the same for each successive instant in a strobe diagram, so you only have to look at the change in position.  
+				Given that the objects are draw farther apart in the middle, the change in position has a bigger magnitude there, and therefore the instantaneous speed is also greater!</p>
+				</solution>
 			</task>
 			
 		</activity>

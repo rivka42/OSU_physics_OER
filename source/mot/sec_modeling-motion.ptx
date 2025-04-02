@@ -6,11 +6,7 @@
 	<exercises>
 	<title>Practice Activities</title>
 
-	  <figure xml:id="mot_simple-motion-diagram">
-		 <caption>A simple strobe diagram.</caption>
-		<image source="Simple-Motion-Diagram.png" width = "75%">
-			<description></description></image>
-  </figure>
+	  
 
 	<exercise xml:id="class_motion-warmup">
 		<title>Warm-up</title>
@@ -18,6 +14,11 @@
 			Is the average speed of the upper object greater than, less than, or equal to the average speed of the lower object?  
 			Explain your reasoning.
 		</p>
+		<figure xml:id="mot_simple-motion-diagram">
+		 <caption>A pair of strobe diagrams.</caption>
+		<image source="Simple-Motion-Diagram.png" width = "75%">
+			<description></description></image>
+  </figure>
 	</exercise>
 
 	<exercise xml:id="class_ball-in-the-air">

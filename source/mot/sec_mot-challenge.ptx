@@ -14,7 +14,7 @@
 <subsection>
 <title>Explanation Tasks</title>
 
-<p>If necessary, review the steps in <xref ref="fig_explanation"/>.</p>
+<p>If necessary, review the <xref ref="fig_explanation" text='title'/>.</p>
 
 <investigation xml:id="psa_mot-8">
         <title>Moving Cars</title>
@@ -72,7 +72,7 @@
 		<title>Calculate</title>
 		<statement>
 			<p></p>
-		<p>Follow the steps in <xref ref="fig_calculation"/> to perform the calculation.  Most of the credit will be given for your <alert>symbolic calculation</alert>.</p>
+		<p>Follow the <xref ref="fig_calculation" text='title'/>: most of the credit will be given for your <alert>symbolic calculation</alert>.</p>
 		</statement>
 		</task>
 		
@@ -80,7 +80,7 @@
 		<title>Sensemake</title>
 		<statement>
 			<p></p>
-		<p>Use covariational reasoning for each of the three given quantities: <m>d</m>, <m>t_1</m>, and <m>t_2</m>.  The steps for sensemaking are in <xref ref="fig_sensemaking"/>.</p>
+		<p>Use covariational reasoning and the <xref ref="fig_sensemaking" text='title'/> for each of the three given quantities: <m>d</m>, <m>t_1</m>, and <m>t_2</m>.</p>
 		</statement>
 		</task>		
 

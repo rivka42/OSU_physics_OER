@@ -28,6 +28,7 @@
 	When you provide an explanation, include the steps detailed below.</p>
 	
 		  <figure xml:id="fig_explanation">
+		  <title>Explanation Task Steps</title>
 		 <caption>Steps to follow when giving an explanation.</caption>
 		<image source="ExplanationSteps.png" width = "100%">
 			<description>Explanations in Physics.  
@@ -62,7 +63,8 @@
      <ol>
 		     <li><em>Building Blocks</em>: The Building Block for this problem is relatively simple!  Sometimes you will only have one simple Building Block like in this problem, while other times you may have several.</li>
 		     <li><em>Claims</em>: An important claim here is that the parks have the same area.  Note that even though this is stated in the problem, make sure you list it here—often there is information in the problem statement that is not directly relevant or necessary to consider.</li>
-		     <li><em>Reasoning</em>: Note that you should go through every step of the reasoning here, starting from our Building Block: first, from the claim that two areas are equal, use proportional reasoning to go from the given relationship between <m>l</m>’s to the desired relationship between <m>w</m>’s.  You can mix words, symbols, and even pictures in your reasoning!</li>
+		     <li><em>Reasoning</em>: Note that you should go through every step of the reasoning here, starting from our Building Block: first, from the claim that two areas are equal, use proportional reasoning to go from the given relationship between <m>l</m>'s to the desired relationship between <m>w</m>'s.  
+			 You can mix words, symbols, and even pictures in your reasoning!</li>
 		</ol>
 </p>
 	
@@ -158,7 +160,8 @@
 		<p>Determine the displacement vector from the base of tree 2 to the base of tree 3.</p>
 		</statement>
 		<hint>
-		    <p>Remember to do all calculations <em>symbolically</em> before you plug in numbers, following the steps in <xref ref="fig_calculation"/>.</p>
+		    <p>Remember to do all calculations <em>symbolically</em> before you plug in numbers, 
+			following the <xref ref="fig_calculation" text='title'/>.</p>
 		</hint>
 		</task>
 	</activity>
@@ -203,7 +206,7 @@
 			<p></p>
 		<p>This is a good activity for numerical sensemaking, especially about the distance.  What is another distance you could compare it to?  Should it be bigger or smaller than that other distance?  Justify your answers.</p>
 		</statement>
-		<hint><p>The steps for sensemaking can be found in <xref ref="fig_sensemaking" />.</p></hint>
+		<hint><p>Remember to use the <xref ref="fig_sensemaking" text='title'/>.</p></hint>
 		</task>
 		
 	</activity>
