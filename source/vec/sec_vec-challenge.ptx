@@ -52,6 +52,7 @@
 </p>
 
 <figure xml:id="fig_park-area">
+		<title>Two Parks Figure</title>
 		 <caption>Two rectangles, one with greater length than the other.</caption>
 		<image source="park-area.png" width = "60%">
 			<description></description></image>
@@ -86,6 +87,7 @@
 		
 		    <p>In each case below, the top vector is being subtracted from the bottom vector. All of the vectors have the same magnitude.  Is the magnitude of the difference in the left case <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the difference in the right case?</p>
 				 <figure xml:id="fig_vector-pairs">
+		<title>Vector Pairs Figure</title>
   <caption>Two pairs of vectors.</caption>
   <image source="Vector-Pairs.png" width = "25%">
   <description></description>

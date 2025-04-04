@@ -9,6 +9,7 @@
 	<exercises>
 	<title>Activities</title>
 	<figure xml:id="x_fig_LC">
+			<title>Inductor and Capacitor Circuit Diagram</title>
     		<caption>A circuit with a charged capacitor and an inductor.</caption>
     		<image source="LC-circuit.png" width = "60%" ></image>
 		</figure>

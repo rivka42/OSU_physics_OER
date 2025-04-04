@@ -11,7 +11,6 @@
 	<statement>
 	<p></p>
 		<p>The <term>displacement</term> of an object describes the change in that object's position: <m>\Delta \vec{r} = \vec{r}_f - \vec{r}_i</m>.  If the displacement is infinitesimal, you write <m>\vec{dr}</m> instead of <m>\Delta \vec{r}</m></p>
-		<p></p>
 	</statement>
 </definition>
 	

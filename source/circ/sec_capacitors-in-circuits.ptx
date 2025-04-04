@@ -10,6 +10,7 @@
 	<p>Combining capacitors in series and in parallel is opposite to how you combine resistors.</p>
 
 	<figure xml:id="CD_C">
+			  <title>Capacitor Circuit Diagram</title>
 			<caption>The circuit diagram representation for a capacitor.</caption>
 			<image source="CD_C.png" width = "10%" ><description>Two parallel lines of equal length representing a capacitor.</description></image>
 		</figure>

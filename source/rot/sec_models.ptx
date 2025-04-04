@@ -6,6 +6,7 @@
 	<p>You now have a foundational model for how objects move, the interactions between objects that cause changes in motion, and the changes in energy and momentum that result from these interactions.  Most of physics involves applying this model to new contexts, adding to this model to account for new interactions, or building alternative models to account for situations where the existing model is insufficient.  As you encounter new situations, it can be very useful to think about (1) what aspects of your model already apply to the new situation, (2) what aspects definitely do not apply, and (3) what aspects might need to change.</p>
 	
 		  <figure xml:id="fig_applications">
+			<title>Models Steps</title>
 		 <caption>Questions to ask when applying or adapting your model.</caption>
 		<image source="ApplicationsSteps.png" width = "75%">
 			<description>Applying and Adapting a Model.  1. What aspects of your existing model already apply?  2. What aspects do not apply?  3. What aspects need to change?</description></image>
@@ -34,6 +35,7 @@
 					<p>A car moves counterclockwise at constant speed along the curved road shown below.  Choose an origin and coordinates and use them to sketch vectors you believe best represent the directions of the (a) instantaneous position, (b) instantaneous velocity, and (c) instantaneous acceleration of the car at the instant shown.  Explain how you predicted the direction of each vector.</p>
 					</exercise>
 					  <figure xml:id="rot_curved-road">
+			<title>Curved Road Figure</title>
 		 <caption>A car moving along a curved road.</caption>
 		<image source="CurvedPath.png" width = "20%">
 			<description>A top-view diagram of a road curving from the bottom of the screen to the top left.</description></image>

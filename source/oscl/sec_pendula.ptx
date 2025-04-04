@@ -24,6 +24,7 @@ The string has length <m> L </m> and the mass is initially pulled out an angle <
 </p>
 
 <figure xml:id="pendulum">
+<title>Simple Pendulum Figure</title>
     	<caption>A pictorial representation of a simple pendulum and an accompanying free-body diagram.</caption>
     		<image source="oscillate/pend_FBD.png" width = "100%" ></image>
     </figure>
@@ -41,7 +42,7 @@ The gravitational torque <m> \tau = -Lmg\sin\theta(t)</m> is the torque about th
 <men xml:id="pendulumE">  mL^2 \frac{d^2}{dt^2}\theta(t) = -Lmg \sin\theta(t) </men>
 
 
-<men xml:id="pendulumE2"> \frac{d^2}{dt^2}\theta(t)=-\frac{g}{L} \sin\theta(t)</men>
+<men xml:id="pendulumE2"> \frac{d^2}{dt^2}\theta(t)=-\frac{g}{L} \sin\theta(t) </men>
 
 This is the equation of motion for the pendulum in terms of the angular position as a function of time. 
 </p>
@@ -52,7 +53,7 @@ This is the equation of motion for the pendulum in terms of the angular position
 		<exercise>
 		<title>Analyzing the Equation of Motion</title>
 		<statement>
-		<p>Looking at equation <xref ref="pendulumE2"></xref>, does this equation of motion satisfy the condition proposed in <xref ref="HM_model"></xref>? Explain why or why not. </p>
+		<p>Does the equation above satisfy the condition proposed in <xref ref="HM_model" text='type-global'></xref>? Explain why or why not. </p>
 		</statement>
 		<answer>
 		<p>The equation of motion for the simple pendulum does not satisfy the condition. The restoring force is not directly proportional to the angular displacement. Instead, it depends on <m> \sin\theta(t)</m>. </p>

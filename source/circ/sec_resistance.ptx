@@ -16,6 +16,7 @@
 		<title>Activities</title>
 		<p>Shown below is a circuit with three resistors.  In a circuit diagram, a resistor is represented by a jagged line.</p>
 			<figure xml:id="circuit1">
+			  <title>Circuit Diagram</title>
 				<caption>A circuit diagram consisting of a battery and three resistors. Resistors 1 and 2 are in series, and are both in parallel with Resistor 3.</caption>
 				<image source="circ/circuit.png" width = "50%" ><description>A circuit diagram consisting of a battery and three resistors. Resistors 1 and 2 are in series, and are both in parallel with Resistor 3.</description></image>
 			</figure>

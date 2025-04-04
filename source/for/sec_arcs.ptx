@@ -6,9 +6,9 @@
 <p>At this point, you have learned a wide range of skills that you can apply to a physics context, including:</p>
 
 <ul>
-<li><p>Identifying assumptions, as shown in <xref ref="fig_assumptions"/></p></li>
-<li><p>Drawing graphs and other representations, such as <xref ref="rep_motion-graphs"/></p></li>
-<li><p>Calculating an unknown quantity, as shown in <xref ref="fig_calculation"/></p></li>
+<li><p>Identifying assumptions, as shown in the <xref ref="fig_assumptions"/></p></li>
+<li><p>Drawing graphs and other representations, such as a <xref ref="rep_motion-graphs"/></p></li>
+<li><p>Calculating an unknown quantity, as shown in the <xref ref="fig_calculation"/></p></li>
 <li><p>Checking units to make sense of an answer, as described in <xref ref="sm_units"/></p></li>
 <li><p>Making sense of a symbolic equation using covariation, as described in <xref ref="sm_covariation"/></p></li>
 </ul>
@@ -19,6 +19,9 @@
 		
 		
   <figure xml:id="fig_realworld">
+  <title>A*R*C*S Steps</title>
+  
+  
 		 <caption>Steps to follow when you consider an A*R*C*S activity.</caption>
 		<image source="RealworldSteps.png" width = "100%">
 			<description></description></image>
@@ -28,7 +31,7 @@
 	
 	<exercises>
 		
-<exercise xml:id="class_brick-rail">
+<project xml:id="class_brick-rail">
         <title>The Brick against the Rail</title>
 		
 		<p></p>
@@ -38,6 +41,7 @@ You pull on the rope at the <m>60^o</m> angle shown so that the acceleration of 
 Find the magnitudes of all forces on the brick.</p>
 		
 			<figure xml:id="for_brick-pull">
+			<title>Brick Figure</title>
 		 <caption>A brick is pulled against a metal railing.</caption>
 		<image source="BrickPull.png" width = "50%">
 			<description></description></image>
@@ -110,13 +114,13 @@ Find the magnitudes of all forces on the brick.</p>
 			</ol>
 			</p>
 
-	</exercise>
+	</project>
 
 
 
 
-	<exercise xml:id="arcs_block-ice">
-        <title>A*R*C*S: The Block upon the Ice</title>
+	<project xml:id="arcs_block-ice">
+        <title>The Block upon the Ice</title>
 		
 		<p></p>
 		
@@ -127,6 +131,7 @@ Assume the gravitational force on the block points downward with a magnitude equ
 		
 		
 	<figure xml:id="for_block-ice">
+			<title>Ice Block Figure</title>
 		 <caption>A block is pulled across an icy pond.</caption>
 		<image source="BlockIce.png" width = "50%">
 			<description></description></image>
@@ -201,7 +206,7 @@ Assume the gravitational force on the block points downward with a magnitude equ
 			</ol>
 			</p>
 		
-	</exercise>
+	</project>
 
 
 

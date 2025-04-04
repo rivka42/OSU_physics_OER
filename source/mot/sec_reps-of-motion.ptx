@@ -324,7 +324,7 @@
 			<p>What is the average speed during the motion?</p>
 			</statement>
 			<solution>
-			<p><m>v_{x,ave} = \frac{\Delta x}{\Delta t} = \frac{12 \mathrm{~m}}{1 \mathrm{~s}} 2 \mathrm{~m/s}</m></p>
+			<p><m>v_{x,ave} = \frac{\Delta x}{\Delta t} = \frac{12 \mathrm{~m}}{1 \mathrm{~s}} = 2 \mathrm{~m/s}</m></p>
 			</solution>
 			</task>
 			<task>
@@ -364,7 +364,7 @@
 			<p>Determine the average velocity of the tennis ball during this time interval.</p>
 			</statement>
 			<hint>
-			<p>Recall the steps for performing a calculation from <xref ref="fig_calculation"></xref>.</p>
+			<p>Recall the <xref ref="fig_calculation"></xref>.</p>
 			</hint>
 			</task>
 			<task>

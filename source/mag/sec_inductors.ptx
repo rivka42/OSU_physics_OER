@@ -15,6 +15,7 @@
 	</definition>
 	
 	<figure xml:id="x_fig_CD-L">
+			<title>Inductor Circuit Diagram</title>
     		<caption>The sumbol for an inductor in a circuit diagram.</caption>
     		<image source="CD_L.png" width = "10%" ></image>
 		</figure>

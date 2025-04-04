@@ -16,6 +16,7 @@
     </principle>
 
     <figure>
+			<title>Diffraction Figure</title>
         <caption>A representation of single-slit diffraction and the intensity pattern that results on the screen. For a single-slit with width <m>a</m>, dark spots are located at <m>y_p</m> on the screen.</caption>
         <image source="optics/single_slit.jpg" width = "75%"><description>A single-slit sits on the left side of the diagram, a distance L away from a screen. On the screen, an intensity pattern is shown. A dashed line extends from the center of the slit to the screen, indicating the middle of the slit and the screen. A solid line extends from the center of the slit to the screen at an angle theta sub p and hits the screen at a distance y sub p from the center. Another solid line with arrow heads on both side extends from the slit to the screen and is labelled as "L >> a".</description></image>
     </figure>

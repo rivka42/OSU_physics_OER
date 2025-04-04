@@ -14,6 +14,7 @@
         <statement>
           <p>For a ray of light incident on a locally flat mirror, the reflected angle <m>\theta_{r}</m> is equal to the incident angle <m>\theta_{i}</m>, both measured from the line normal to the surface: <me>\theta_{r} = \theta_{i}</me>
             <figure xml:id="reflection">
+			<title>Reflection Figure</title>
                 <caption>A diagram of the Law of Reflection.</caption>
                     <image source="optics/reflection.png" width = "90%" ><description>A transparent box sits in the center of the screen. A ray, labelled "Incident ray", hits the top of the box from the left side at an angle theta sub i and is reflected, labelled "Reflected ray", to the right side at an angle theta sub r. The Law of Reflection, theta sub i equals theta sub r, is annotated on the image.</description></image>
             </figure>

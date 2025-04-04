@@ -148,6 +148,7 @@
     </p>
 </introduction>
 	<figure xml:id="lom_StrangeBox">
+			<title>Strange Box Figure</title>
 		  <caption>Two people trying to move a box.</caption>
       <image source="StrangeBox.png" width = "60%">
 			<description></description>
@@ -191,6 +192,7 @@
       El now pushes the box with a mental force, and it finally begins to speed up.
     </p>
 		<figure xml:id="lom_StrangerBox">
+			<title>Stranger Box Figure</title>
 		  <caption>Three people trying to move a box.</caption>
       <image source="StrangerBox.png" width = "60%">
 			<description></description>
@@ -228,6 +230,7 @@
     </p>
 		</introduction>
 		<figure xml:id="lom_2Forces">
+			<title>Three Cases Figure</title>
 		  <caption>Three cases, each showing two of the three forces acting on an object.</caption>
       <image source="2Forces.png" width = "70%">
 			<description></description>
@@ -265,6 +268,7 @@
     </p>
 		</introduction>
 		<figure xml:id="lom_BookRamp">
+			<title>Book on a Ramp Figure</title>
 		  <caption>A book on a ramp connected to a string.</caption>
       <image source="BookRamp.png" width = "50%">
 			<description></description>

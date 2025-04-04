@@ -19,9 +19,10 @@ Both expressions above are valid only when <m>\theta</m> is measured in radians.
 <men> \sin(\theta) \approx \theta</men>
 <men> \cos(\theta) \approx 1 - \frac{\theta^2}{2!}</men>
 
-In <xref ref="small-angle"></xref> you can see a graphical representation of the small-angle approximation for the <m> \sin(\theta)</m> function. You can see the linear function <m> \theta</m> and the trigonometric function <m> \sin(\theta)</m> closely match each other when the angle is small. </p>
+In <xref ref="small-angle" text='type-global'></xref> you can see a graphical representation of the small-angle approximation for the <m> \sin(\theta)</m> function. You can see the linear function <m> \theta</m> and the trigonometric function <m> \sin(\theta)</m> closely match each other when the angle is small. </p>
 
 <figure xml:id="small-angle">
+<title>Small Angle Approximation for Sine Figure</title>
     	<caption>Graphical representation of the small-angle approximation for the <m>\sin\theta</m> function.</caption>
     		<image source="oscillate/small_angle.jpg" width = "100%" ></image>
     </figure>
@@ -40,7 +41,7 @@ We should always take time to think about and determine the error associated wit
 		<exercise>
 		<title>Analyzing the Equation of Motion</title>
 		<statement>
-		<p>Looking at equation <xref ref="pendulumE2"></xref> apply the small-angle approximation to determine an equation of motion. Then determine the oscillation frequency of the simple pendulum. </p>
+		<p>Looking at equation <xref ref="pendulumE2" text='type-global'></xref> apply the small-angle approximation to determine an equation of motion. Then determine the oscillation frequency of the simple pendulum. </p>
 		</statement>
 		<answer>
 		<p> Applying the small-angle approximation you find that <m> \sin\theta \approx \theta</m> and the equation of motion becomes,
@@ -71,7 +72,7 @@ from this and your model of simple harmonic motion, you can directly see that th
 
 <references>
 <biblio>
-<p><xref ref="small-angle"></xref> created by Rebecka Tumblin.</p>
+<p><xref ref="small-angle" text='type-global'></xref> created by Rebecka Tumblin.</p>
 </biblio>
 </references>
 		

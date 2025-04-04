@@ -19,6 +19,7 @@
 		<p></p>
 		  <p>In the following figure, the magnitudes of the vectors are <m>|\vec{a}| = 8</m> and <m>|\vec{b}| = 4.5</m>.  Assume that <m>\vec{c} = \vec{a} + \vec{b}</m> and <m>\vec{d} = \vec{a} - \vec{b}</m>.</p>
 	<figure xml:id="fig_vector-sum">
+		<title>Vector Sum Figure</title>
   <caption>Two vectors.</caption>
   <image source="Vector-Sum.png" width = "40%">
   <description></description>
@@ -43,6 +44,7 @@
 		<p></p>
 		  <p>In the following figure, the magnitudes of the vectors are <m>|\vec{a}| = 5</m> and <m>|\vec{b}| = 5</m>.  Assume that <m>\vec{c} = \vec{a} + \vec{b}</m> and <m>\vec{d} = \vec{a} - \vec{b}</m>.</p>
 	<figure xml:id="fig_vector-sum2">
+		<title>Vector Sum Figure</title>
   <caption>Two vectors.</caption>
   <image source="Vector-Sum2.png" width = "30%">
   <description></description>
@@ -86,6 +88,7 @@
 		<p></p>
 		    <p>Use the figure to determine a single vector that is equivalent to the given summation of vectors in each of the cases below.  (The notation <m>\vec{PQ}</m> represents a vector pointing from point <m>P</m> to point <m>Q</m>.)</p>
 				<figure xml:id="fig_vector-quadrangle">
+		<title>Vector Quadrangle Figure</title>
   <caption>Four points.</caption>
   <image source="Quadrangle.png" width = "50%">
   <description></description>

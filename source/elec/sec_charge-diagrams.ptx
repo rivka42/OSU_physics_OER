@@ -15,6 +15,7 @@
 	<exercises>
 		<title>Activities</title>
 		<figure xml:id="chg-dgm">
+			  <title>Example Charge Diagram</title>
     		<caption>An example charge diagram.</caption>
     		<image source="Charged_disc.png" width = "50%" ></image>
 		</figure>

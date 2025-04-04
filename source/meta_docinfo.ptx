@@ -49,7 +49,7 @@
   <rename element="hint">Tip</rename>
 
 <!-- Specify the default type of cross reference:           -->
-  <cross-references text="type-global" />
+  <cross-references text="title" />
   
 
 </docinfo>

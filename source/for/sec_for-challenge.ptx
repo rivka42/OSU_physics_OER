@@ -21,6 +21,7 @@
 			</p>
 		    <p>A truck is traveling in a straight line on level ground, and is accelerating uniformly. Two ropes are tied to the back of the truck. The other end of each rope is tied to a bucket: the bucket tied to rope 1 has a larger mass than the bucket tied to rope 2. You notice that each rope is hanging from the back of the truck at a fixed (but potentially different) angle. Is the angle of rope 1 <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the angle of rope 2?</p>
 				<figure xml:id="for_x-truck">
+			<title>Truck and Bucket Figure</title>
 		 <caption>A bucket suspended from the back of an accelerating truck.</caption>
 		<image source="Truck.png" width = "50%">
 			<description></description></image>
@@ -101,6 +102,7 @@
 		<p></p>
 		    <p>A gymnast is training by hanging from two ropes attached to the ceiling, as shown in the figure. The angles <m>\theta</m> and <m>\alpha</m> are different.  The gravitational force on the gymnast is 750 N downward.  Determine the magnitude of the tension in each rope.</p>
 				<figure xml:id="for_x-athlete">
+			<title>Gymnast Figure</title>
 		 <caption>A gymnast suspended by two ropes.</caption>
 		<image source="Athlete.png" width = "30%">
 			<description></description></image>

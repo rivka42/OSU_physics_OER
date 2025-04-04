@@ -25,6 +25,7 @@
 		<title>Activities</title>
 		<p>Below is a picture of a closed surface (the outside cover of a book).</p>
 		<figure xml:id="x_fig_book">
+			  <title>Book Figure</title>
     		<caption>A simple representation of a book.</caption>
     		<image source="Book.png" width = "25%" ></image>
 		</figure>

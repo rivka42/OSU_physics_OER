@@ -6,6 +6,7 @@
 	<p>When two traveling waves with the same frequency and amplitude move past each other in opposite directions, they create what is known as a <term>standing wave</term>, such as the example shown below.</p>
 	
 	    <figure xml:id="standing-pos">
+			  <title>Standing Waves Figure</title>
     	<caption>The superposition of two traveling waves creating a standing wave.</caption>
     		<image source="wave/standing-pos.gif" width = "75%" ></image>
     </figure>

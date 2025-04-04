@@ -8,6 +8,7 @@ In physics, you will often decide to make assumptions or idealizations.  When yo
 </p>
 	
 	  <figure xml:id="fig_assumptions">
+	  <title>Assumptions Steps</title>
 		 <caption>Questions to ask when you make an assumption.</caption>
 		<image source="AssumptionsSteps.png" width = "75%">
 			<description>Assumptions and Idealizations. 1 Is the assumption useful for the context?  2 Is the assumption reasonable for the context?  3 Are there any limitations for the context?</description></image>
@@ -31,6 +32,9 @@ To begin to investigate motion, you will make a <em>simplifying assumption</em> 
 <assumption xml:id="a_particle">
 	<title>The Particle Model</title>
 	<statement>
+		<p>
+			
+		</p>
 		<p>When you assume that a system can be treated as a <term>point particle</term>, you treat it as only undergoing <alert>translational motion</alert> (motion without rotation).  Under this assumption, you treat all the mass of the system as existing at the object's center of mass<fn>center of mass is a property you will study in <xref ref="sec_center-of-mass"/></fn>.</p>
 	</statement>
 </assumption>

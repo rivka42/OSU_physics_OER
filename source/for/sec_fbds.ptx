@@ -10,7 +10,6 @@
 	<statement>
 	<p></p>
 	<p>A <term>system</term> is an object or collection of objects considered as a single group.  Everything in a context can be considered as either <em>internal</em> or <em>external</em> to a system.</p>
-	<p></p>
 	</statement>
 	</definition>
 
@@ -23,6 +22,7 @@
 	<p>
 	A <term>Free-body Diagram</term> is a way to represent the forces acting on an object.  In a <term>free-body diagram</term>, each force should be labeled with information about the type of force and the objects involved.  For example, in the symbol <me>\vec{F}_{BC}^A</me> <m>\vec{F}</m> indicates that the symbol represents a force, the superscript <m>A</m> represents the type of force (such as <m>G</m> for gravity), <m>B</m> represents the system on which the force is acted, and <m>C</m> represents the system that is exerting the force.  Additional relevant information such as the system of interest, the reference frame, and the direction of the acceleration are commonly written to the side of a free-body diagram, as in the simple example below.</p>
 	<figure xml:id="for_FBD">
+			<title>Simple Free-body Diagram</title>
 		 <caption>A simple free-body diagram.</caption>
 		<image source="FBD.png" width = "40%">
 			<description></description></image>

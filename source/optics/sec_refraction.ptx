@@ -33,6 +33,7 @@
         <statement>
           <p>Light refracts (bends) when it enters into a different medium at some angle, <m>\theta_1</m>: <me>n_1 \mathrm{sin}(\theta_1) = n_2 \mathrm{sin}(\theta_2)</me>.
             <figure xml:id="refraction">
+            <title>Refraction Figure</title>
             <caption>A diagram of the Law of Refraction.</caption>
                 <image source="optics/refraction.jpg" width = "90%" ><description>A blue box sits in the center of the diagram. A ray, labelled as "incident ray", extends from above the box and hits the top of the box at an angle theta sub 1. At that point, the ray is bent inside the box at an angle theta sub 2. This ray is labelled as "refracted ray". Outside of the box sits the label "n sub 1" and inside the box sits the label "n sub 2" to denote the indices of refraction of the two mediums.</description></image>
         </figure></p>
@@ -53,7 +54,7 @@
                 <p>When a ray of light passes from one medium into another, the ray will be refracted in the second medium according to the Law of Refraction. But for some critical angle and above, the ray of light will be completely reflected back into the initial medium. In this activity, we will work through this phenomenon to arrive at a useful conclusion. Work through the following questions.</p>
                 <ol>
                     <li>
-                        Starting with the Figure above (<xref ref="refraction" />), think about the initial condition for total internal reflection. If you want the second ray (the one entering the second medium) to start to be reflected back (i.e., the ray will not be entering the second medium), what does the second angle need to be equal to? Write down Snell's Law for this situation.
+                        Starting with the (<xref ref="refraction" />), think about the initial condition for total internal reflection. If you want the second ray (the one entering the second medium) to start to be reflected back (i.e., the ray will not be entering the second medium), what does the second angle need to be equal to? Write down Snell's Law for this situation.
                         <answer>
                         <p><m>90^\circ</m>. This means the second ray is going to point along the interface between the first and second medium. This would be the starting point for the initial ray being completely reflected back into the first medium. Snell's law would then be: <m>n_1 \mathrm{sin} \theta_c = n_2 \mathrm{sin}(90^\circ) = n_2</m>. <m>\theta_c</m> is known as the critical angle.</p>
                         </answer>

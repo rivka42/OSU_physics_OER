@@ -17,6 +17,7 @@
 	<exercises>
 		<title>Activities</title>
 		<figure xml:id="eq">
+			  <title>Equipotential Graph</title>
 			<caption>An equipotential graph in a region of space. The numbers indicate the value of the electric potential for the corresponding line. </caption>
 			<image source="elec/eq2.png" width = "90%" ><description>An equipotential graph in a region of space. The graph shows a region of space, x vs. y, and 10 equipotential lines.</description></image>
 		</figure>

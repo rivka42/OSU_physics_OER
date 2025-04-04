@@ -6,6 +6,7 @@
 	<exercises xml:id="voltage_ex">
 		<title>Activities</title>
 		<figure xml:id="precircuit">
+			  <title>Circuit Diagram</title>
 			<caption>A diagram of a complete circuit consisting of a square marked with three boxes (A, B, and C) on the left, upper, and right sides, respectively. A small dot below box A is marked as a starting point.</caption>
 			<image source="circ/PreCircuit.png" width = "50%" ><description>A diagram of a complete circuit consisting of a square marked with three boxes (A, B, and C) on the left, upper, and right sides, respectively. A small dot below box A is marked as a starting point.</description></image>
 		</figure>

@@ -18,6 +18,7 @@
 		<title>Activities</title>
 		<p>The figure below shows a proton moving to the right with speed <m>v = 10^3</m> m/s.  The three labeled points all lie 2 m away from the proton at the instant shown.</p>
 <figure xml:id="x_fig_mag-charge">
+			<title>Moving Proton Figure</title>
     		<caption>Several points around a moving proton.</caption>
     		<image source="MagCharge.png" width = "70%" ></image>
 		</figure>

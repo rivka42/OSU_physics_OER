@@ -7,6 +7,7 @@
 	<title>Activities</title>
 		<p>Not all waves are one-dimensional<mdash/>in fact, most waves are two- or even three-dimensional.  The diagram below shows a periodic circular wave, where each circle represents a wave crest.</p>
 			  <figure xml:id="two-d-wave">
+			  <title>Circular Wave Figure</title>
 		 <caption>A circular wave.</caption>
 		<image source="2SI-1.jpg" width = "75%"></image>
   </figure>
@@ -21,6 +22,7 @@
 	<p>The diagram below shows two overlapping periodic circular waves, their sources separated by some known distance.</p>
 	
 				  <figure xml:id="two-d-waves">
+			  <title>Circular Waves Figure</title>
 		 <caption>Two overlapping circular waves.</caption>
 		<image source="2SI-2.jpg" width = "75%"></image>
   </figure>

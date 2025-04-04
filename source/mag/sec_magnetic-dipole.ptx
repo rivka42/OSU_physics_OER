@@ -6,6 +6,7 @@
 		<title>Warm-up Activity</title>
 		<exercise><p>Shown below are two bar magnets. Describe how they will interact with one another. What will happen to their motion?</p> </exercise>
 		<figure xml:id="bar_magnets">
+			<title>Bar Magnets Figure</title>
 			<caption>Two bar magnets sit side by side, with their south poles facing each other.</caption>
 			<image source="mag/bars.png" width = "70%" ><description>Two bar magnets sit side by side, with their south poles facing each other.</description></image>
 		</figure>
@@ -25,6 +26,7 @@
 	<p>The magnetic field around a simple magnetic dipole has the form shown below.</p>
 	
 	<figure xml:id="fig_mag-field-lines">
+			<title>Magnetic Field Lines Figure</title>
     		<caption>Magnetic Field Lines of a bar magnet.</caption>
     		<image source="MagneticDipoleLines.jpg" width = "60%" ></image>
 				<shortdescription>A bar magnet with a north and south pole. The field lines come out of the north pole and curve out and around to the south pole.</shortdescription>
@@ -34,6 +36,7 @@
 		<title>Activities</title>
 		<p>The figure below shows a bar magnet and a loop with current that is running clockwise when viewed from above.</p>
 		<figure xml:id="loop_magnet">
+			<title>Loop Figure</title>
 				<caption>A bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</caption>
 				<image source="mag/loop.png" width = "70%" ><description>A bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</description></image>
 			</figure>

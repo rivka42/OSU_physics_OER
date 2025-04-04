@@ -27,6 +27,7 @@
 		<p>Shown below is a motion diagram of a ball rolling along a semicircular track. The time intervals between each pair of consecutive points are equal. The ball starts from rest at point 1, and just reaches point 9 before rolling back down the right side of the track. </p>
 		
 		<figure xml:id="fig_rot-The-Bowl">
+			<title>Bowl Figure</title>
 			<caption></caption>
 			<image source="The-Bowl.png" width = "75%">
 				<description>A motion diagram of a ball on a semicircular track.</description>

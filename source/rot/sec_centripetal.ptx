@@ -11,6 +11,7 @@
 	<title>Model Application - Acceleration Direction</title>
 	<p>The figure below shows four different instants (A-D) for a car moving clockwise along a curved path at constant speed.</p>
 	<figure xml:id="rot_centa">
+			<title>Curved Path Figure</title>
 		<image source="CurvedPathX1.png" width = "100%">
 			<description>Three cases, each showing a car moving clockwise around a curved path, with points A and B far apart, A and C closer together, and A and D very close together.</description></image>
   </figure>
@@ -31,6 +32,7 @@
 	<title>Model Application - Acceleration Magnitude</title>
 	<p>The figure below shows three identical cars, each moving around a circular track.  Cars A and B move at different constant speeds around tracks with the same radius.  Cars A and C move at the same speed around tracks with different radii.</p>
 		<figure xml:id="rot_centb">
+			<title>Curved Path Figure</title>
 		<image source="CurvedPathX2.png" width = "75%">
 			<description>Three cases, each showing a car moving clockwise around a circular path of radius d.  Car A moves at constant speed v, Car B moves at constant speed 2v, and Car C moves at constant speed v around a circle of radius d/2.</description></image>
   </figure>
@@ -39,6 +41,7 @@
 			</exercise>
 			<p>The figure below shows several instants for the cars described above.  In each case, the two points are separated by the same distance along the path.</p>
 								<figure xml:id="rot_centc">
+			<title>Curved Path Figure</title>
 					<image source="CurvedPathX3.png" width = "100%">
 			<description>Three cases, each showing a car moving clockwise around a circular path of radius r.  Car A moves at constant speed v, Car B moves at constant speed 2v, and Car C moves at constant speed v around a circle of radius r/2.</description></image>
   </figure>
@@ -59,6 +62,9 @@
 	<definition>
 	<title>Centripetal Acceleration</title>
 	<statement>
+		<p>
+			
+		</p>
 		<p>An object moving along a curved path experiences a <term>centripetal acceleration</term> that points perpendicular to the path (inward) with magnitude <m>a_{c} = \frac{v^2}{r}</m>, where <m>r</m> is the local radius of curvature.  If the object is moving at constant speed, the acceleration is entirely centripetal.</p>
 	</statement>
 </definition>

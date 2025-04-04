@@ -3,22 +3,74 @@
 <section xml:id="sec_changing-systems" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Changing Systems</title>
 
-      <video youtube="yLdrVot7WmY"><description>An introduction to the tension force.</description></video> 
-
-<p>As you saw in <xref ref="sec_contact-forces"></xref>, tension is a force between a rope or a string and another system that pulls along the direction of the rope at the surface of contact.  In fact, tension is also the name of the internal force between the different molecules that make up the rope or string.  You usually want to be able to assume the tension in the rope is uniform (equal throughout the rope and at both ends), which requires that all of the following be true.</p>
+<p>In physics, you will often encounter situations where you can choose which <xref ref="def_system" text='title'></xref> 
+	you will analyze.  While your choice of system cannot change any physically observable quantity, it can often have a big impact 
+	on how your analysis proceeds and what it can reveal about the situation.
+</p>
 
 
 	<exercises>
-	<title>Activities</title>
+	<title>Activity: From a Certain Point of View</title>
+			<exercise xml:id="x_point-of-view">
+			<introduction>
+			  <p>
+			  </p>
+			  <p>
+					The figure below shows a green mentor perched on the shoulders of his orange trainee.  
+					An external Force (not shown) acts on the trainee, causing both him and his mentor to accelerate upwards.
+			  </p>
+			  <figure xml:id="fig_point-of-view">
+			<title>Point of View Figure</title>
+			<caption></caption>
+			<image source="Lifting.png" width = "30%">
+				<description></description>
+			</image>
+		</figure>
+
+			</introduction>
+			<task>
+				<statement>
+					<p>
+						Start by considering the mentor and his trainee as <em>separate systems</em>.  
+						Sketch a free-body diagram for each system.  
+						Explicitly identify any forces (across both diagrams) that have equal magnitude.
+					</p>
+				</statement>
+			</task>
+
+
+
+			</exercise>
+	</exercises>
+
+<!-- 
+
+<title>Activity: The Snowboarders</title>
 			<exercise xml:id="x_systms">
 			  <p>
 			  </p>
 			  <p>
-					
+					The figure below shows two children with different masses <m>m_1 \gt m_2</m>, each riding on a snowboard.  
+					The children are connected by a rope, and the child in the front is being pulled forward by another rope.  
+					The child in the back has a known acceleration <m>a_1</m>.
 			  </p>
-			</exercise>
-	</exercises>
+			  <figure xml:id="fig_rope-systems">
+			<caption>Two children on snowboards</caption>
+			<image source="rope-systems.png" width = "80%">
+				<description></description>
+			</image>
+		</figure>
 
+			<task>
+				<statement>
+					<p>
+						Start by considering each child as a <em>separate system</em>.  
+						Sketch a free-body diagram for each child.
+					</p>
+				</statement>
+			</task>
+
+-->
 	
 </section>
 

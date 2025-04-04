@@ -26,6 +26,7 @@
 		<statement>
 		    <p>The two blocks in the figure are being pushed so that they move together with increasing speed and that block B does not move vertically.</p>
 				<figure xml:id="for_x-blocks">
+			<title>Blocks Figure</title>
 		 <caption>Two blocks moving together.</caption>
 		<image source="Supported_Block.png" width = "60%">
 			<description></description></image>
@@ -44,6 +45,7 @@
 		<statement>
 						<p>The blocks below have different masses, <m>m_1</m> and <m>m_2</m>.  Each block is connected to a horizontal rope; the upper rope is connected to the wall and the lower rope is being pulled to the right with known tension <m>T</m>.  All coefficients of kinetic friction <m>\mu_k</m> between all surfaces are equal and nonzero.  Determine the tension in the upper rope and the acceleration of the lower block?</p>
 						<figure xml:id="for_x-blocks-ropes">
+			<title>Blocks Figure</title>
 		 <caption>Two blocks attached to ropes.</caption>
 		<image source="Blocks_Ropes.png" width = "30%">
 			<description></description></image>
@@ -65,6 +67,7 @@
 		<statement>
 		    <p>The two books from class (shown below) are in an elevator that is moving downward.  As the elevator approaches the ground floor, its speed decreases.  Identify and rank all forces acting on the two books by magnitude, from largest to smallest.</p>
 				<figure xml:id="for_x-books">
+			<title>Books in an Elevator Figure</title>
 		 <caption>Two books in an elevator.</caption>
 		<image source="Stacked_Books.png" width = "30%">
 			<description></description></image>
@@ -80,6 +83,7 @@
 		<statement>
 		    <p>The two boxes below are initially at rest, connected by ropes and sitting on tables. Determine the acceleration of the system, assuming that the boxes begin to slide and that both surfaces have nonzero friction (<m>\mu_k</m>).</p>
 			<figure xml:id="for_tiltedramp">
+			<title>Tilted Ramp Figure</title>
 				<caption>Two blocks, connected by a rope on a tilted ramp.</caption>
 			   	<image source="tiltedramp.png" width = "50%">
 				<description></description></image>
@@ -97,6 +101,7 @@
 				Shown below are two blocks connected by an ideal string that passes over a massless, frictionless pulley. The mass of the larger block sits on a flat, frictionless table, and has four times the mass of the smaller block, which hangs vertically. Determine the speed of each block when the larger block reaches the edge of the table, a distance of 0.75 m.
 			</p>
 			<figure xml:id="for_moving-blocks">
+			<title>Moving Blocks Figure</title>
 				<caption>Two blocks, connected by a rope.</caption>
 			   	<image source="moving-blocks.png" width = "50%">
 				<description></description></image>

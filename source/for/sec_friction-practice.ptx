@@ -17,6 +17,7 @@
 		</introduction>
 
 		<figure xml:id="for_truck-crate">
+			<title>Truck and Crate Figure</title>
 		  <caption>A crate on top of a truck.</caption>
       <image source="TruckCrate.png" width = "60%">
 			<description></description>

@@ -57,6 +57,9 @@
 			<answer>
 			
 						<figure xml:id="hi_lo">
+						<title>Boundary Reflection Figure</title>
+						
+						
     	<caption>
 	A wave encountering a discontinuity from a high density to a low density.
 	</caption>
@@ -71,6 +74,7 @@
 			</statement>
 			<answer>
 <figure xml:id="lo_hi">
+<title>Boundary Reflection Figure</title>
     	<caption>
 	A wave encountering a discontinuity from a low density to a high density.
 	</caption>

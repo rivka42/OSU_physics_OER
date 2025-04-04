@@ -31,6 +31,7 @@ where <m>\theta</m> is the angle between the vectors when placed tail-to-tail.</
 </definition>
 
      <figure xml:id="vec_dot_product">
+		<title>Dot Product Figure</title>
     	<caption>A representation of vectors A and B and the angle between them illustrating the dot product for two vectors.</caption>
     		<image source="vectors/vec_dot_product.png" width = "25%" ></image>
     </figure>

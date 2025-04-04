@@ -13,8 +13,7 @@
 	<title>The Law of Inertia</title>
 	<statement>
 		<p></p>
-	An object at rest stays at rest and an object in motion stays in motion at a constant speed in a straight line unless acted upon by a net external force.
-	<p></p>
+	<p>An object at rest stays at rest and an object in motion stays in motion at a constant speed in a straight line unless acted upon by a net external force.</p>
 		</statement>
 	</principle>
 	
@@ -25,7 +24,6 @@
 	<statement>
 		<p></p>
 	<p>The <term>mass</term> of an object, typically represented by <m>m</m>, is the capacity of that object to resist changes to its motion<fn>as you will see in the next section, mass can be operationally defined as the amount of net force per acceleration required to speed up or slow down the object</fn>.</p>
-	<p></p>
 		</statement>
 	</definition>
 	

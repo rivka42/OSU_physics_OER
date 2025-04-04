@@ -20,6 +20,7 @@ Suppose you have a vector <m>\vec{A}</m>. The  negative vector <m>-\vec{A}</m> h
     </p>
     
     <figure xml:id="vec_neg_vec">
+		<title>Vectors as Arrows Figure</title>
 	<caption>A representation of vectors as arrows showing a vector and also the negative of that vector.</caption>
        	<image source="vectors/vec_neg_vec.png" width = "35%" ></image>
     </figure>
@@ -35,6 +36,7 @@ Suppose you have a vector <m>\vec{A}</m>. The  negative vector <m>-\vec{A}</m> h
  </p>
  
   <figure xml:id="vec_displacement">
+		<title>Displacement Vector Figure</title>
 	<caption>The displacement vector for an object that moves North 40 km and then West 30 km.</caption>
        	<image source="vectors/vec_displacement.png" width = "45%" ></image>
   </figure>

@@ -22,6 +22,7 @@ Suppose you have two vectors <m> \vec{A}</m> and <m> \vec{B}</m>. To add the two
 </p>
 		
     <figure xml:id="vec_addition">
+		<title>Vector Addition Figure</title>
     	<caption>A representation of vector addition using arrows.</caption>
     		<image source="vectors/vec_addition.png" width = "25%" ></image>
     </figure>
@@ -35,6 +36,7 @@ To subtract two vectors, you again start by placing the vectors tail-to-tail.  T
  </p>
  
      <figure xml:id="vec_subtraction2">
+		<title>Vector Subtraction Figure</title>
     	<caption>A representation of vector subtraction using arrows.</caption>
     		<image source="vectors/vec_subtraction.png" width = "25%" ></image>
     </figure>
@@ -45,6 +47,7 @@ Alternatively, you can add the negative <m> \vec{A} + (-\vec{B})</m>. Recall tha
  </p>
  
      <figure xml:id="vec_subtraction">
+		<title>Vector Subtraction Figure</title>
     	<caption>Another representation of vector subtraction using arrows.</caption>
     		<image source="vectors/vec_subtraction.png" width = "25%" ></image>
     </figure>
@@ -58,6 +61,7 @@ Multiplication of a vector with a positive scalar will <em>scale</em> the magnit
 </p>
 
      <figure xml:id="vec_scalar_mult">
+		<title>Vector Multiplication Figure</title>
     	<caption>An arrow representing vector A is shown. The scalar multiplication of A by -1/2 and 2 is also shown.</caption>
     		<image source="vectors/vec_scalar_mult.png" width = "100%" ></image>
     </figure>

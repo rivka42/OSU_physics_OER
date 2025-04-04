@@ -36,6 +36,7 @@ The kinetic energy of the mass at that point depends on the square of the speed.
 <p>For a point source wave, emanating as a spherical wave front, the area is the surface area of a sphere. Intensity takes the form: <me>I = \frac{P}{4\pi r^2}</me>
 </p>
  <figure xml:id="surface_area_sphere">
+ <title>Surface Area of a Sphere Figure</title>
         <caption>
         Energy from a point source decreases as the surface area of the sphere increases. 
         </caption>

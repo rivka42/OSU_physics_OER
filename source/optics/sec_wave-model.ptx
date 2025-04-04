@@ -14,6 +14,7 @@
         <statement>
           <p>Every point along a wave front can be considered a source of a waves emanating from that point in the direction of light propagation.</p>
           <figure>
+			<title>Huygen's Principle Figure</title>
             <caption>A diagram of Huygen's Princple. As light travels through an opening, each point along a wave front can be understood as a source of waves.</caption>
             <image source="optics/huygens.jpg" width = "75%"><description>A single slit of width a sits horizontally. A straight line sits inside the slit, parallel to the slits. Seven dots are evenly distributed across this line. Multiple concentric half circles extend outwards from each point, travelling upwards.</description></image>
           </figure>

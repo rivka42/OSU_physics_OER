@@ -7,6 +7,7 @@
 		<title>Activities</title>
 		<p>A metal loop is located near a bar magnet, as shown below.</p>
 		<figure xml:id="x_fig_moving-loop">
+			<title>Loop and Magnet Figure</title>
     		<caption>A metal loop near a bar magnet.</caption>
     		<image source="MovingLoop.png" width = "50%" ></image>
 		</figure>

@@ -14,6 +14,7 @@
 			</statement>
 			<answer>
 					<figure xml:id="x_fig_sheet1">
+			  <title>Infinite Sheet</title>
     		<caption>An infinitely charged sheet.</caption>
     		<image source="InfiniteSheet1.png" width = "70%" ></image>
 		</figure>
@@ -40,6 +41,7 @@
 			<answer>
 			<p>Any box will do, such as the cube of side length <m>L</m> drawn below (the box can actually have any cross-section, even a round one).  The box is centered on the <m>xy</m>-plane.</p>
 					<figure xml:id="x_fig_sheet2">
+			  <title>Charged Sheet Figure</title>
     		<caption>An infinitely charged sheet with a Gaussian surface.</caption>
     		<image source="InfiniteSheet2.png" width = "70%" ></image>
 		</figure>

@@ -31,6 +31,7 @@ You can always set the zero point of potential energy to <m> U_0 = 0</m>. The to
 This holds as long as you assume no dissipative forces act on the system. </p>
 
 <figure xml:id="energySHM">
+<title>Simple Harmonic Motion Energy Graphs</title>
     	<caption>Energy functions of an object in Simple Harmonic Motion.</caption>
     		<image source="oscillate/energySHM.png" width = "100%" ></image>
 </figure>

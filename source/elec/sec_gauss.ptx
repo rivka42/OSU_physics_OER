@@ -17,6 +17,7 @@
 	<exercises>
 		<title>Activities</title>
 		<figure xml:id="x_fig_gauss-rank">
+			  <title>Gauss Rank Figure</title>
     		<caption>Several charge distributions and Gaussian surfaces. The circles represent spheres, and the square represents a cube. </caption>
     		<image source="GaussRank.png" width = "100%" ></image>
 		</figure>

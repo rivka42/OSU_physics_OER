@@ -17,7 +17,6 @@
 	<statement>
 		<p></p>
 		<p>A <term>force</term> is an interaction between two objects (or systems) that causes those objects to experience a push or pull.  Every force is a vector (with magnitude and direction) that has a <em>type</em> and involves two distinct objects acting on each other.</p>
-	<p></p>
 	</statement>
 </definition>
 
@@ -35,6 +34,7 @@
 	<title>Activities: Explore forces</title>
 				<p>Use the video below to answer the exploration questions.</p>
 				<figure xml:id="for_ball">
+			<title>Dr. Paws Video</title>
 					<caption>Dr. Paws gets a ball.</caption>
 					<video youtube="_bhzaBtdUIE">
 					</video>

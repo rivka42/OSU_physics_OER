@@ -8,6 +8,9 @@ The models you have built for simple harmonic motion of spring, simple pendulums
  </p>
  
  <figure xml:id="Damped_spring">
+ <title>Damped Spring Figure</title>
+ 
+ 
     	<caption>A mass on a spring including dissipative forces.</caption>
     		<image source="oscillate/Damped_spring.gif" width = "15%" ></image>
     </figure>
@@ -21,6 +24,9 @@ The <alert>damping constant </alert>, <m>b</m>, depends on the shape of the obje
 </p>
 
 <figure xml:id="mass_spring_damp">
+<title>Damped Spring Figure</title>
+
+
     	<caption>A mass on a spring including drag forces.</caption>
     		<image source="oscillate/mass_spring_damp.png" width = "100%" ></image>
     </figure>
@@ -48,6 +54,9 @@ You can see that the oscillation frequency is equivalent to the original oscilla
 </p>
 
 <figure xml:id="damped_pos">
+<title>Damped Spring Motion Graph</title>
+
+
     	<caption>The position as a function of time for the damped oscillator.</caption>
     		<image source="oscillate/damped2.png" width = "100%" ></image>
     </figure>

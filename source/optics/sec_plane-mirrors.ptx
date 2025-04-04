@@ -8,6 +8,7 @@
     <p>Images are produced by intersecting light rays and can be seen all over the natural world.</p>
 
     <figure xml:id="plane_mirror">
+			<title>Plane Mirror Figure</title>
         <caption>Diagram of a plane mirror. An object sits at a distance <m>d_o</m> from the mirror, and an image is produced at a distance <m>d_i</m> behind the mirror.</caption>
         <image source="optics/plane_mirror.jpg" width = "90%" ><description>A green arrow, labelled as "object", sits a distance d sub o away from a plane mirror on the left side. Two rays extend from the tip of the arrow and hit the mirror: the first hits the mirror perpendicularly, and is reflected backwards along the same line. The second ray hits the mirror at some angle and is reflected back at that angle. Both reflected rays are extended as dashed lines behind the mirror and intersect. Another green arrow, labelled as "image", sits behind the mirror with the tip of the arrow pointing at the intersection point.</description></image>
     </figure>

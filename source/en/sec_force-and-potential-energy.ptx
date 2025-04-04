@@ -16,6 +16,7 @@
 	<title>Activity: Practice Diagram</title>
 	<p>Below is a potential energy diagram for some system.</p>
 	  <figure xml:id="en_U-vs-x">
+			<title>Potential Energy Diagram</title>
 		 <caption>A potential energy diagram.</caption>
 		<image source="Uvsx.png" width = "50%">
 			<description>A graph of U vs. x that starts near 4 J, decreases to 1 J at x = 4 m and then rises to around 6 J.</description></image>

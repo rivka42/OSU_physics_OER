@@ -46,6 +46,7 @@
 			</ol>
 			</exercise>
 			<figure xml:id="rot_catapult">
+			<title>Catapult Figure</title>
 		<image source="Catapult1.png" width = "75%">
 			<description>A round rock with mass m1 on the left edge and a square block with mass m2 on the right edge of a long, straight arm, balanced on a pivot point that is a small distance r2 from the right edge and a bigger distance r1 from the left edge.</description></image>
   </figure>

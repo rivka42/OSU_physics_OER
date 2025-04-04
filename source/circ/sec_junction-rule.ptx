@@ -8,6 +8,7 @@
 		<exercise>
 			<p>Shown below is part of a circuit where two wires combine into one wire.</p>
 			<figure xml:id="current1">
+			  <title>Junction Circuit Diagram</title>
 				<caption>Two wires meet at a junction.</caption>
 				<image source="circ/current1.png" width = "50%" ><description>Two wires meet at a junction, connected to a single third wire.</description></image>
 			</figure>

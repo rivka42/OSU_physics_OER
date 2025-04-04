@@ -15,7 +15,8 @@ The next situation to which you will apply and adapt your physics model is <aler
 </exercises>
 
  <figure xml:id="pendulum_gif">
-    	<caption>A simple pendulum oscillates around its equilibrium position.</caption>
+ <title>Pendulum Figure</title>
+     	<caption>A simple pendulum oscillates around its equilibrium position.</caption>
     		<image source="oscillate/pendulum.gif" width = "50%" ></image>
     </figure>
 

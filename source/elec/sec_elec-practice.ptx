@@ -251,6 +251,7 @@
 
 	
 		<figure xml:id="x_point-charges-arc">
+			  <title>Point Charges and Arc Figure</title>
     	<caption>
 	A distribution of point charges.
 	</caption>
@@ -272,6 +273,7 @@
 	</project>
 	
 		<figure xml:id="x_point-charges-flux">
+			  <title>Flux Figure</title>
     	<caption>
 	Two points and an imaginary square loop.
 	</caption>
@@ -414,6 +416,7 @@ As part of your explanation, you should include and use the following:
 	</investigation>
 	
 	<figure xml:id="x_charge-arc">
+			  <title>Point Charges Figure</title>
     	<caption>
 	Three point charges.
 	</caption>
@@ -430,6 +433,7 @@ As part of your explanation, you should include and use the following:
 	</investigation>
 
 		<figure xml:id="x_point-charges-arc2">
+			  <title>Point Charges and Arc Figure</title>
     	<caption>
 	Three cases with different charges.
 	</caption>
@@ -447,6 +451,7 @@ As part of your explanation, you should include and use the following:
 	</project>
 	
 			<figure xml:id="x_cube-gauss">
+			  <title>Gaussian Cube Figure</title>
     	<caption>
 	Two point charges and a Gaussian cube.
 	</caption>

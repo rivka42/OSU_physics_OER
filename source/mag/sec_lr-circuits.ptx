@@ -6,6 +6,7 @@
 	<exercises>
 	<title>Activities</title>
 	<figure xml:id="x_fig_RL">
+			<title>LR Circuit Diagram</title>
     		<caption>A circuit with a battery, a resistor, and an inductor.</caption>
     		<image source="LR-circuit.png" width = "60%" ></image>
 		</figure>

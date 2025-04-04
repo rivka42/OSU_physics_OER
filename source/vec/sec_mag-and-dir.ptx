@@ -19,6 +19,7 @@
 		    <p>Which of the following is <m>\vec{C}</m>?</p>
 		
 			<figure xml:id="fig_3Vecs">
+		<title>Three Vectors Figure</title>
 		 <caption>Three vectors in a triangle.</caption>
 		<image source="3Vecs.png" width = "50%">
 			<description></description></image>
@@ -63,6 +64,7 @@
 		    <p>Find the <m>y</m>-component of the vector shown below.</p>
 		
 			<figure xml:id="fig_vec-comp">
+		<title>Vector Figure</title>
 		 <caption>A vector.</caption>
 		<image source="vec-comp.png" width = "40%">
 			<description></description></image>
@@ -91,6 +93,7 @@ What could you draw to help explain your reasoning?
 	</exercise>
 
 <figure xml:id="fig_vec-pairs">
+		<title>Vector Pairs Figure</title>
 		 <caption>Two pairs of vectors.</caption>
 		<image source="Vector-Pairs.png" width = "30%">
 			<description></description></image>

@@ -106,6 +106,7 @@
     Shown below is a <m>30 ~\mathrm{kg}</m> block resting on a frictionless ramp inclined at <m>60&#176;</m> to the horizontal. The block is held by a spring that is stretched <m>5 ~\mathrm{cm}</m>.
     </p>
 	<figure xml:id="prac_Box-Ramp">
+			<title>Box and Ramp Figure</title>
 		 <caption></caption>
   <image source="AP88.png" width = "50%">
   </image>
@@ -136,6 +137,7 @@
     A force is applied to a block to move it up a <m>30&#176;</m> incline. The incline is frictionless; <m>F = 60 ~\mathrm{N}</m> and <m>M = 5 ~\mathrm{kg}</m>, 
     </p>
 	  <figure xml:id="prac_block-ramp-ii">
+			<title>Block and Ramp Figure</title>
 		 <caption></caption>
   <image source="AP90.png" width = "50%">
   </image>
@@ -164,6 +166,7 @@
     Consider the <m>52 ~\mathrm{kg}</m> mountain climber shown below.
     </p>
 	<figure xml:id="prac_mountain-climber">
+			<title>Mountain Climber Figure</title>
 		 <caption></caption>
   <image source="6.2.61.png" width = "50%">
   </image>
@@ -213,6 +216,7 @@
     As shown below, if <m>M = 5.5 ~\mathrm{kg}</m>,
     </p>
 	<figure xml:id="prac_hanging-mass">
+			<title>Hanging Mass Figure</title>
 		 <caption></caption>
   <image source="AP93.png" width = "50%">
   </image>

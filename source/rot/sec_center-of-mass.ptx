@@ -17,6 +17,7 @@
 	<exercises>
 	<title>Activities</title>
 <figure xml:id="rot_cubes-cm">
+			<title>Two Cubes Figure</title>
 		 <caption>Two adjacent cubes.</caption>
 		<image source="blocks-cm.jpg" width = "35%">
 			<description>A cube with side length 2L on the left next to a cube with side length L on the right, the centers of their faces touching.</description></image>

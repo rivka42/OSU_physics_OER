@@ -10,6 +10,7 @@
 		</exercises>
 	  
 		<figure xml:id="lom_Tortoise-pebble">
+			<title>Tortoise and Pebble Figure</title>
 		  <caption>A tortoise climbing on a pebble.</caption>
       <image source="Tortoise-pebble.png" width = "100%">
 			<description>A tortoise climbing on a pebble.</description>

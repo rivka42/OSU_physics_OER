@@ -57,7 +57,6 @@ Units for physical quantities can be divided into two categories: base units and
 	<statement>
 	<p></p>
 		<p>For any equation, including at any point while you are solving a problem, you should be able to <term>check the units</term> to make sure the units accurately describe all relevant quantities.</p>
-		<p></p>
 	</statement>
 </heuristic>
 
@@ -99,7 +98,6 @@ Physics uses the word dimensions to refer to the class of unit for a quantity.  
 	<statement>
 	<p></p>
 		<p>For any numerical value (with units), you want to have a sense for how reasonable the value is given numerical values for other (possibly related) contexts with the same units.  You also want to know whether the number should be positive or negative (if it is a scalar) or what direction it should point (if it is a vector).</p>
-		<p></p>
 	</statement>
 </heuristic>
 
@@ -190,7 +188,7 @@ Physics uses the word dimensions to refer to the class of unit for a quantity.  
 			  <p>Imagine that you came upon the following numbers while reading an article.  Try to identify whether or not each number is reasonable <term>without</term> directly looking up the quantity in question.</p>
 				<ol>
 				<li>It takes light around <m>8.5</m> minutes to reach Earth from the Sun</li>
-				<li>A semitruck was declared to be overloaded at a mass of <m>5000 \mathrm{~kg}</m></li>
+				<li>A semitruck and its loaded trailer is measured to have a mass of <m>500 \mathrm{~kg}</m></li>
 				<li>The distance from the Earth to the Moon is <m>384\times10^6 \mathrm{~\mu m}</m>.</li>
 				<li>The mass of a pea is <m>0.2 \mathrm{~g}</m></li>
 				<li>An Olympic marathon is <m>42 \mathrm{~km}</m></li>

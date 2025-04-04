@@ -16,6 +16,7 @@ Consider a <alert>position</alert> vector <m>\vec{r}</m> shown in the two-dimens
 </p>
 
     <figure xml:id="vec_2D_position_vec_w_angle">
+		<title>Vector Figure</title>
     	<caption>A representation of a position vector in an <m>xy</m>-coordinate system showing the positive angle from the <m>x</m>-axis and the components of <m>\vec{r}</m> along the <m>x</m>- and <m>y</m>-axes .</caption>
     		<image source="vectors/vec_2D_position_vec_w_angle.png" width = "50%" ></image>
     </figure>

@@ -15,6 +15,7 @@ Here, the notation <m> \vec{x}(t)</m> reminds you that the position <m>\vec{x}</
 </p> 
 
 <figure xml:id="HM_position">
+<title>Simple Harmonic Motion Position Graph</title>
     	<caption>Position function of an object in Simple Harmonic Motion.</caption>
     		<image source="oscillate/HM_position.png" width = "50%" ></image>
 </figure>
@@ -59,7 +60,7 @@ This relation holds true in simple harmonic motion. When describing oscillatory 
 		<exercise>
 		<title>Physical Units</title>
 		<statement>
-		<p>Looking at equation <xref ref="pos_HM"></xref> what are the physical dimension and SI units of amplitude and period? How can you tell?</p>
+		<p>Looking at equation <xref ref="pos_HM" text='type-global'></xref> what are the physical dimension and SI units of amplitude and period? How can you tell?</p>
 		</statement>
 		<answer>
 		<p>The equation as a whole is a position and has dimension of length with SI units of meters. Trigonometric functions are dimensionless. Therefore, the amplitude must have dimension of length for the equation to be true. The SI units of amplitude are meters. The argument of a trigonometric function must also be dimensionless with SI units of radians. Therefore, the fraction <m>\frac{2\pi t}{T}</m> must be dimensionless. The only way for this to be true is if the dimension of period is time. The SI units of time are seconds. </p>
@@ -81,7 +82,7 @@ This relation holds true in simple harmonic motion. When describing oscillatory 
 		<exercise>
 		<title>Exploring the Position Function</title>
 		<statement>
-		<p>It is often useful to be able to represent the position function in terms of the period <m>T</m>, the frequency <m>f</m> or the angular frequency <m>\omega</m>. Rewrite equation <xref ref="pos_HM"></xref> in terms of the frequency <m>f</m> and the angular frequency <m>\omega</m>.</p>
+		<p>It is often useful to be able to represent the position function in terms of the period <m>T</m>, the frequency <m>f</m> or the angular frequency <m>\omega</m>. Rewrite equation <xref ref="pos_HM" text='type-global'></xref> in terms of the frequency <m>f</m> and the angular frequency <m>\omega</m>.</p>
 		</statement>
 		</exercise>
 		<answer>

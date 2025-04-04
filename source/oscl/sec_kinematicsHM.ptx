@@ -23,6 +23,7 @@ As the object passes through the equilibrium position located at <m> \vec{x} = 0
 
 
  <figure xml:id="HM_velocity">
+<title>Simple Harmonic Motion Position and Velocity Graphs</title>
     	<caption>The position and velocity as a function of time for an object in Simple Harmonic Motion. The graphs are aligned such that the time axes in both graphs correspond to the same point in time. </caption>
     		<image source="oscillate/HM_velocity.png" width = "100%" ></image>
     </figure>
@@ -33,7 +34,7 @@ As the object passes through the equilibrium position located at <m> \vec{x} = 0
 		<exercise>
 		<title>Physical Units</title>
 		<statement>
-		<p>Looking at equation <xref ref="vel_HM"></xref> what are the SI units of the quantity <m> \omega A</m>? What is the physical significance of this quantity?</p>
+		<p>Looking at equation <xref ref="vel_HM" text='type-global'></xref> what are the SI units of the quantity <m> \omega A</m>? What is the physical significance of this quantity?</p>
 		</statement>
 		<answer>
 		<p>The equation as a whole is a velocity and has dimension of length/time with SI units of meters/second. Trigonometric functions are dimensionless. Therefore, the quantity <m> \omega A</m> must have dimension of length/time for the equation to be true. Note that the SI units of <m> \omega</m> are <m> rad/s</m>. While radians are an SI unit, they are dimensionless. The physical significance of this quantity is that it corresponds to the maximum speed <m> v_{max} = \omega A </m> of the object. This allows us to re-write equation <xref ref="HM_velocity"></xref> as follows</p>
@@ -51,7 +52,7 @@ As the object passes through the equilibrium position located at <m> \vec{x} = 0
 		<p>Derive the acceleration of an object in simple harmonic motion using the methods discussed in this section. </p>
 		</statement>
 		<answer>
-		<p>Looking at equation <xref ref="HM_velocity"></xref> we take the time derivative of velocity determine the acceleration of the system.</p>
+		<p>Looking at equation <xref ref="HM_velocity" text='type-global'></xref> we take the time derivative of velocity determine the acceleration of the system.</p>
 			
 	<p>
 	<men> \vec{a}(t) = - \omega^2 A \cos(\omega t + \phi_0) \hat{x} </men>
@@ -64,7 +65,7 @@ As the object passes through the equilibrium position located at <m> \vec{x} = 0
 		<exercise>
 		<title>Exploring Acceleration Graphically</title>
 		<statement>
-		<p>Referencing figure <xref ref="HM_velocity"></xref>, sketch the accompanying <m> a_x(t)</m> function.  </p>
+		<p>Referencing <xref ref="HM_velocity" text='type-global'></xref>, sketch the accompanying <m> a_x(t)</m> function.  </p>
 		</statement>
 		</exercise>
 		

@@ -7,6 +7,7 @@
 	<title>Warm-up Activities</title>
 	<p>The picture below shows two weights that have the same mass but that have that mass distributed differently.  The upper weight has most of its mass near the center.  The lower weight has most of its mass near the edges.</p>
 	<figure xml:id="rot_weights">
+			<title>Dog Weights Figure</title>
 		<image source="dog-weights.jpg" width = "75%">
 			<description>A golden retriever and two barbells, one with weights at the far ends and one with weights about halfway from the middle.</description></image>
   </figure>

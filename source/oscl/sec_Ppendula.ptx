@@ -7,6 +7,7 @@
 A pendulum does not need to be a simple mass on a string. In fact, many objects that can be modeled in the rigid-body model can act as pendulums. For example, as you walk, your leg swings like a pendulum. Consider a pendulum made from a rigid-body object. </p>
     
     <figure xml:id="Ppendulum">
+<title>Rigid-body Pendulum Figure</title>
     	<caption>A rigid-body pendulum.</caption>
     		<image source="oscillate/Ppend2.png" width = "75%" ></image>
     </figure>
@@ -24,7 +25,7 @@ Note that this analysis will only provide an accurate predictive model when the 
 
 <men xml:id="PpendulumE"> \frac{d^2}{dt^2}\theta(t)=-\frac{MgL}{I} \theta(t)</men>
 
-The equation of motion is in the form of equation <xref ref="HM_model"></xref> and so you can directly determine the oscillation frequency and period of the system.
+The equation of motion is in the form of equation <xref ref="HM_model" text='type-global'></xref> and so you can directly determine the oscillation frequency and period of the system.
 
  <men xml:id="PpendulumE2"> \omega=\sqrt{\frac{MgL}{I}}= \frac{2 \pi}{T}</men>
  
@@ -34,7 +35,7 @@ This equation is general for any rigid-body object so long as you specify the mo
 
 <references>
 <biblio>
-<p><xref ref="Ppendulum"></xref> created by Rebecka Tumblin.</p>
+<p><xref ref="Ppendulum" text='type-global'></xref> created by Rebecka Tumblin.</p>
 </biblio>
 </references>
 		

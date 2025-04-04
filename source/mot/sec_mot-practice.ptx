@@ -19,11 +19,12 @@
         <title>Adventurers on a Train</title>
 		<statement>
 		<p></p>
-		    <p>You are waiting in your car as a train moves northward at a speed of 45 mph.  
+		    <p>You are waiting in your car as a train moves northward at a speed of <m>45 \mathrm{~mph}</m>.  
 			As you wait, you notice two adventurers walking along the top of the train.  
-			Relative to you, Adventurer Jones is moving north at 55 mph, while Adventurer Marks is moving north at 30 mph.  
+			Relative to you, Adventurer Jones is moving north at <m>55 \mathrm{~mph}</m>, 
+			while Adventurer Marks is moving north at <m>30 \mathrm{~mph}</m>.  
 			You then observe Adventurer Jones throw a golden idol toward Adventurer Marks; 
-			relative to you, the golden idol is moving south at 20 mph.  
+			relative to you, the golden idol is moving south at <m>20 \mathrm{~mph}</m>.  
 			Determine the velocity of each relevant object (you, the train, Adventurer Jones, Adventurer Marks, and the golden idol)
 			relative to the train.</p>
 				<p>(If you want further practice, determine each velocity relative to each of the other objects!)</p>

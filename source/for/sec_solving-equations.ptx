@@ -3,7 +3,7 @@
 <section xml:id="sec_solving-equations" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Solving Symbolic Equations</title>
 	
-	<p>Physics uses symbols to represent physical quantities that describe some aspect of the real world.  For example, the physical quantity time is typically represented by the letter <m>t</m>.  Symbols are extremely versatile: the letter <m>t</m> is used to represent any specific instant in time, such as <m>t = 3</m> s, or a generic, unspecified instant, time <m>t</m>.  Different times are further specified by the use of subscripts, such as <m>t_i</m> for initial time, <m>t_f</m> for final time, or <m>t_4</m> for the fourth in a series of related times.  Every symbol also carries its own appropriate units!  For example, you would not want to write <q>I turned on the machine at <m>t</m> seconds</q>; instead, you would write <q>I turned on the machine at time <m>t</m>.</q></p>
+	<p>Physics uses symbols to represent physical quantities that describe some aspect of the real world.  For example, the physical quantity time is typically represented by the letter <m>t</m>.  Symbols are extremely versatile: the letter <m>t</m> is used to represent any specific instant in time, such as <m>t = 3 \mathrm{~s}</m>, or a generic, unspecified instant, time <m>t</m>.  Different times are further specified by the use of subscripts, such as <m>t_i</m> for initial time, <m>t_f</m> for final time, or <m>t_4</m> for the fourth in a series of related times.  Every symbol also carries its own appropriate units!  For example, you would not want to write <q>I turned on the machine at <m>t</m> seconds</q>; instead, you would write <q>I turned on the machine at time <m>t</m>.</q></p>
 
 <axiom>
 <title>Solving a Symbolic Equation</title>
@@ -16,7 +16,6 @@
 <li>Symbolic equations allow you to do powerful sensemaking above and beyond what is possible with numerical quantities alone</li>
 </ul>
 </p>
-<p></p>
 </axiom>
 
 
@@ -61,7 +60,6 @@ In this equation, t represents time, x represents the position of an object alon
 <li>If you have multiple unknown quantities but you only need to find one of them, <em>solve for the other unknown quantities first</em> when using substitution.  It may seem counterintuitive, but you want the last equation you plug everything into to have only the unknown quantity you care about in it!</li>
 </ul>
 </p>
-<p></p>
 </axiom>
 
 <example>
@@ -113,6 +111,7 @@ Suppose you want to know the exact temperature of the gas at the end of the expa
 	
   
 		<figure xml:id="lom_Angle-solve">
+			<title>Angle Solve Figure</title>
 		  <caption>A velocity vector and its <m>x</m>-component.</caption>
       <image source="Angle-solve.png" width = "25%">
 			<description></description>
@@ -197,6 +196,7 @@ Suppose you want to know the exact temperature of the gas at the end of the expa
 			</statement>
 			<answer>
 					<figure xml:id="lom_Air-carts">
+			<title>Air Carts Figure</title>
 		  <caption>Free-body diagrams of the air cart.</caption>
       <image source="Air-carts.png" width = "80%">
 			<description></description>

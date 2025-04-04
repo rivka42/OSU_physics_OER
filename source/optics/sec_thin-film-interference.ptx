@@ -6,6 +6,7 @@
     <p>When light is incident on a boundary where the index of refraction is changing, some of the light is reflected and some is transmitted. Consider the situation below, which could represent a thin layer of oil between air and water.</p>
 
     <figure xml:id="thin_film">
+			<title>Thin Film Figure</title>
 		<caption>Thin film interference.</caption>
 		<!--
         <description>An incident ray on a material of a different index of refraction results in a reflected ray (ray 2) and a transmitted, or refracted, ray (ray 3). Ray 3 is then reflected off the lower boundary (ray 4) and transmitted through the next material (ray 6). Ray 4 is transmitted (and refracted) back through the upper boundary, resulting in ray 5. Rays 2 and 5 are what your eye sees.</description>
@@ -22,7 +23,15 @@
 
     <observation>
         <title>Where does the phase shift come from?</title>
-        <p>An analogy to the phase shift for reflected light is a wave pulse interacting with a medium of a higher density (slower wave speed). As seen in <xref ref="lo_hi"></xref>, once the wave starts to interact with the higher density string, the reflected wave is inverted, shifting the wave by half of a cycle <m>(\pi)</m>. In contrast, as seen in <xref ref="hi_lo"></xref>, once the wave starts to interact with the lower density string, the reflected wave is not inverted. The transmitted pulse does not invert in either case.</p>
+        <p>
+            
+        </p>
+        <p>An analogy to the phase shift for reflected light is a wave pulse interacting with a medium of a higher density 
+        (slower wave speed). As seen in <xref ref="lo_hi"></xref>, 
+        once the wave starts to interact with the higher density string, the reflected wave is inverted, 
+        shifting the wave by half of a cycle <m>(\pi)</m>. In contrast, as seen in <xref ref="hi_lo"></xref>, 
+        once the wave starts to interact with the lower density string, the reflected wave is not inverted. 
+        The transmitted pulse does not invert in either case.</p>
     </observation>
 
     <exercises>

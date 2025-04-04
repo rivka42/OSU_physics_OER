@@ -11,6 +11,7 @@
 					<p>The circuit below contains a battery, a bulb, a switch, and a capacitor. The capacitor is initially uncharged and the voltage of the battery is <m>V</m>.</p>
 					
 					<figure xml:id="RC1">
+			  <title>Light Bulb and Capacitor Circuit Diagram</title>
 			<caption>A circuit diagram with both a light bulb and a capacitor.</caption>
 			<image source="RC1.png" width = "50%" ><description>A circuit diagram with a battery, open switch, light bulb, and capacitor.</description></image>
 		</figure>

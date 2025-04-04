@@ -10,7 +10,6 @@
 	<statement>
 	<p></p>
 		<p>The <term>position</term> of an object, represented with the symbol <m>\vec{r}</m>, describes the location of that object relative to some origin as a vector quantity.</p>
-		<p></p>
 	</statement>
 </definition>
 
@@ -48,7 +47,8 @@ Symbols like <m>\hat{x}</m> and <m>\hat{y}</m> are special vectors called <em>un
 </ul>
 	
 	<p>
-	Some authors, textbooks, and resources will use <m>\hat{i}</m> and <m>\hat{j}</m>, respectively, instead of <m>\hat{x}</m> and <m>\hat{y}</m>, but they mean the same thing.  You can learn more about unit vectors in <xref ref="sec_unit_vector" />.
+	Some authors, textbooks, and resources will use <m>\hat{i}</m> and <m>\hat{j}</m>, respectively, instead of <m>\hat{x}</m> and <m>\hat{y}</m>, but they mean the same thing.  
+	You can learn more in <xref ref="sec_unit_vector" />.
 </p>
 </definition>
 

@@ -5,6 +5,7 @@
 
 <!--THIS VIDEOS IS INTENTIONALLY IN A FIGURE FOR CROSS-REFERENCE PURPOSES.  NORMAL VIDEOS CANNOT BE CROSS-REFERENCED AND SO DO NOT NEED AN XML:ID -->
 		<figure xml:id="vec_vb-cross">
+		<title>Cross Product Video</title>
 		  <caption>Introducing the cross product.</caption>
       <video youtube="ohX0ywFbPXY"></video>
     </figure>
@@ -21,6 +22,7 @@ In a previous section you learned about the dot product as one way to multiply v
 </definition>
 
      <figure xml:id="vec_cross_product">
+		<title>Cross Product Figure</title>
     	<caption>A representation of vectors A and B and the angle between them illustrating the cross product for two vectors.</caption>
     		<image source="vectors/vec_dot_product.png" width = "25%" ></image>
     </figure>
@@ -31,6 +33,7 @@ Here, <m> \theta</m> represents the angle between the two vectors when they are 
 
 <!--THIS VIDEOS IS INTENTIONALLY IN A FIGURE FOR CROSS-REFERENCE PURPOSES.  NORMAL VIDEOS CANNOT BE CROSS-REFERENCED AND SO DO NOT NEED AN XML:ID -->
 		<figure xml:id="vec_vb-rhr">
+		<title>Right Hand Rule Figure</title>
 		  <caption>Introducing the right hand rule.</caption>
       <video youtube="7sCtIXsKo8s"></video>
     </figure>
@@ -40,6 +43,7 @@ Here, <m> \theta</m> represents the angle between the two vectors when they are 
 			<statement>
 				<p>The direction of the vector <m>\vec{C}</m> that results from the cross product <m>\vec{C} = \vec{A} \times \vec{B}</m> can be determined using the <term>right hand rule</term>.  To use the right hand rule, place your fingers in the direction of <m>\vec{A}</m>, curl them in the direction of vector <m>\vec{B}</m>, and your thumb will point in the direction of vector <m>\vec{C}</m>.</p>
 				<figure xml:id="vec_rhr">
+		<title>Right Hand Rule Figure</title>
     	<caption>One example of the right hand rule that can be used to find the direction of a cross product.</caption>
     		<image source="RHR.png" width = "25%" ></image>
     </figure>
@@ -51,6 +55,7 @@ Conceptually, the magnitude of the cross product quantifies how perpendicular tw
 </p>
 
 <figure xml:id="vec_in-and-out">
+		<title>Vectors Figure</title>
     	<caption></caption>
     		<image source="InAndOutVectors.png" width = "25%" ></image>
     </figure>
@@ -66,6 +71,7 @@ Conceptually, the magnitude of the cross product quantifies how perpendicular tw
 		</exercise>
 				<p>Use the two vectors shown below for the remaining questions.</p>
 				     <figure xml:id="vec_x-cross-product">
+		<title>Cross Product Figure</title>
     	<caption></caption>
     		<image source="CrossProductVectors.png" width = "50%" ></image>
     </figure>

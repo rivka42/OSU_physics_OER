@@ -32,6 +32,7 @@
 		<p></p>
 		    <p>In the two situations depicted below, an angled block is at rest on a ramp.  In each case, a hand pushes on the block with constant force.  In Case A, the hand pushes on the upper horizontal surface of the block.  In Case B, the hand pushes on the upper angled surface with a constant force of the same magnitude.  In both cases, the block remains at rest on the ramp.</p>
 				<figure xml:id="for_x-angled">
+			<title>Hand Blocks Figure</title>
 		 <caption>A hand pushes on different surfaces on a block on a ramp.</caption>
 		<image source="Angled.png" width = "60%">
 			<description></description></image>
@@ -69,7 +70,7 @@
 		</statement>
 	</activity>
 
-	<p>For each A*R*C*S activity, you are expected to complete <alert>all</alert> of the steps in <xref ref="fig_realworld"/>.  
+	<p>For each A*R*C*S activity, you are expected to complete <alert>all</alert> of the <xref ref="fig_realworld"/>.  
 	For your first several A*R*C*S activities, the tips include several helper pointers.
 	</p>
 	
@@ -86,6 +87,7 @@
 				from beginning to accelerate.  Determine the magnitude of the tension force provided by each of the two teams.
 			</p>
 				<figure xml:id="for_tug-of-war">
+			<title>Tug-of-War Figure</title>
 		 <caption>A tug of war between a coach (left) and two teams of student-athletes (right).</caption>
 		<image source="tug-of-war.png" width = "60%">
 			<description></description></image>

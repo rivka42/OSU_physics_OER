@@ -180,7 +180,7 @@
   <statement>
   <p></p>
     <p>
-    A cleaner pushes a <m>4.5 ~\mathrm{kg}</m> laundry cart in such a way that the net external force on it is <m>60 \mathrm{N}</m>. Calculate the magnitude of his cart's acceleration.
+    A cleaner pushes a <m>4.5 \mathrm{~kg}</m> laundry cart in such a way that the net external force on it is <m>60 \mathrm{~N}</m>. Calculate the magnitude of his cart's acceleration.
     </p>
   </statement>
   
@@ -257,6 +257,7 @@
 		<p></p>
 			<p>Each of the following (2-dimensional) free-body diagrams shows the directions of all the forces that are acting on an object. If the magnitude of each force can be adjusted to any non-zero value <em>but its direction cannot be changed</em>, which of the objects can be put into equilibrium?</p>
 			<figure xml:id="fig_force-balance-forces">
+			<title>Force Balance Figure</title>
 			<caption></caption>
 			<image source="balance_forces.png" width = "100%">
 				<description></description>
@@ -274,6 +275,7 @@
 		<p></p>
 			<p>A person pushes a cart to the left at constant velocity across a level floor. A teapot sits on the cart without slipping. Assume there is no air resistance. Choose the correct free-body diagram for the teapot.</p>
 		<figure xml:id="fig_force-teapot">
+			<title>Teapot Figure</title>
 			<caption></caption>
 			<image source="teapot.png" width = "100%">
 				<description></description>
@@ -288,11 +290,17 @@
 	<investigation xml:id="pa_for-03">
         <title>Walking a Cat</title>
 		<statement>
+      <p>
+        
+      </p>
 		    <p>You are trying to exercise your cat by walking them around the room with a harness - a jacket is strapped around the cat with a leash that you can pull. To get your cat moving, you pull on the leash at an angle <m>\theta</m> above the horizontal (note this is <b>not</b> how you should train your cat with a harness). Annoyed, your cat flops onto their side where there is a sizable friction between the cat and the floor. As you pull your cat, you notice they move with a constant speed. </p>
 			<p>From previous experiments with this harness, you know that your "pull" at the given angle has a vertical component equal to <b>half</b> the weight of your cat. </p>
 			<task>
 			<title>Rank the forces</title>
 			<statement>
+        <p>
+          
+        </p>
 			<p>During the pull, rank the magnitude of the forces acting on the cat.</p>
 			</statement>
 			</task>
@@ -300,6 +308,9 @@
 			<task>
 			<title>Explain</title>
 			<statement>
+        <p>
+          
+        </p>
 			<p>Now, you notice the cat speeds up. Explain why this occurs. </p>
 			</statement>
 			</task>

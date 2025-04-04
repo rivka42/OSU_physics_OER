@@ -29,7 +29,6 @@
 			<statement>
 				<p></p>
 				<p>A <term>strobe diagram</term> is a physical representation in which an object is represented at different <em>instants in time</em> that are separated by <em>equal time intervals</em>.  For each instant, you can draw a vector (starting at the origin) to represent the object's <term>position</term>.</p>
-			<p></p>
 				</statement>
 		</lemma>
 		
@@ -76,7 +75,6 @@
 				<p>A <term>motion diagram</term> is a physical representation in which an object is represented at different <em>instants in time</em> that are separated by <em>equal time intervals</em>.  
 				For each instant, you should draw a vector representing the object's <term>velocity</term>.  
 				Often, it is also useful to draw vectors representing the object's <term>acceleration</term>.</p>
-			<p></p>
 				</statement>
 		</lemma>
 		

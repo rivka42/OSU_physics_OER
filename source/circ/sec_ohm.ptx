@@ -20,6 +20,7 @@
 	</assumption>
 	
 	<figure xml:id="CD_R">
+			  <title>Ohmic Resistor Diagram</title>
 			<caption>The circuit diagram representation for an Ohmic resistor.</caption>
 			<image source="CD_R.png" width = "10%" ><description>A jagged line representing an Ohmic resistor.</description></image>
 		</figure>

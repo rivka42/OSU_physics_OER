@@ -31,6 +31,7 @@ The spring has equilibrium length <m> x_o</m> and is initially stretched and the
 </p>
 
  <figure xml:id="mass_spring">
+<title>Mass on a Spring Figure</title>
     	<caption>A mass on a spring.</caption>
     		<image source="oscillate/mass_spring.png" width = "100%" ></image>
     </figure>
@@ -48,11 +49,11 @@ Using the relationship between position and acceleration<fn>acceleration is the 
  
 <me> a_x(t) = \frac{d}{dt} v_x(t) = \frac{d^2}{dt^2}x(t) </me>
 
-and equation <xref ref="Hookes"></xref> can be written in terms of position only
+and equation <xref ref="Hookes" text='type-global'></xref> can be written in terms of position only
 
 <men xml:id="EOM"> \frac{d^2}{dt^2}x(t) = -\frac{k}{m} x(t)</men>
 
-Equation <xref ref="EOM"></xref> is called the <alert>equation of motion</alert> for the mass on the spring. This is a second-order differential equation. Unlike algebraic functions whose solutions are numbers, solutions of differential equation are <em>functions</em>. This differential equation is one in which taking two derivatives of the function <m>x(t)</m> yields the original function multiplied by a negative constant. 
+Equation <xref ref="EOM" text='type-global'></xref> is called the <alert>equation of motion</alert> for the mass on the spring. This is a second-order differential equation. Unlike algebraic functions whose solutions are numbers, solutions of differential equation are <em>functions</em>. This differential equation is one in which taking two derivatives of the function <m>x(t)</m> yields the original function multiplied by a negative constant. 
 </p>
 
 <p>
@@ -129,7 +130,7 @@ Since the oscillation frequency depends solely on the physical characteristics o
 
 <references>
 <biblio>
-<p><xref ref="mass_spring"></xref> created by Rebecka Tumblin.</p>
+<p><xref ref="mass_spring" text='type-global'></xref> created by Rebecka Tumblin.</p>
 </biblio>
 </references>
 		

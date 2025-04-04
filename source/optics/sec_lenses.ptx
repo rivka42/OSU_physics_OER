@@ -36,11 +36,13 @@
     <video youtube="PABQvartcmY"><description>How to draw rays through a converging lens.</description></video>
     <p><term>Converging lenses</term> are where both sides of the lens are curved outward. When light passes through the lens, all parallel rays converge to the focal point of the lens. If the object is located past the focal length of the lens, as light enters the lens from one side, the light is bent, or converges, to a single point on the opposite side, producing a real image. If the object is located within the focal length of the lens, the image produced is virtual.
         <figure xml:id="converging">
+			<title>Converging Lens Figure</title>
             <caption>A converging lens. Under the thin-lens approximation, light rays that are parallel to the optical axis will refract at the lens plane, and converge to the focal point.</caption>
             <image source="optics/converging.jpg" width = "90%" ><description>A converging sits in the center of the diagram. The optical axis runs through the center of the lens, perpendicular to the lens plane. Five evenly distributed rays, each parallel to the optical axis, hit the lens plane from the left side. Each ray is bent at the lens plane and travels through the focal point on the right side.</description></image>
         </figure>
     </p>
     <figure xml:id="converging1">
+			<title>Converging Lens Image</title>
         <caption>A converging lens producing an image. An object of height <m>h_o</m> sits at a distance <m>d_o</m> from the lens. The image is located at a distance <m>d_i</m> from the lens on the opposite side, and has a height <m>h_i</m>.</caption>
         <image source="optics/converging1.jpg" width = "90%" ><description>A converging lens sits in the center of the diagram. The optical axis runs through the center of the lens. A red arrow, labelled "object", sits to the left of the lens at a distance d sub o away from the lens. This arrow has a height h sub o. Two rays extend from the tip of the arrow: one parallel to the optical axis is bent at the lens plane and travels through the focal point on the right side, and the other travels straight through the center of the lens and does not bend. Another red arrow sits on the right of the lens, with the head of the arrow pointing to the intersection point of the two rays. This arrow has a height h sub i and sits at a distance d sub i away from the lens.</description></image>
     </figure>
@@ -48,10 +50,12 @@
     <video youtube="HeMTeL_KgKQ"><description>How to draw rays through a diverging lens.</description></video>
     <p><term>Diverging lenses</term> are just the opposite: they will diverge light rays away from each other after they exit the lens. These lenses have two curved surfaces inwards. These types of lenses always produce a virtual image located within the virtual focal length of the lens.
         <figure xml:id="diverging1">
+			<title>Diverging Lens Figure</title>
             <caption>A diverging lens. Under the thin-lens approximation, light rays that are parallel to the optical axis will refract at the lens plane, and diverge away from each other on the opposite side of the lens, while a virtual image is created at the virtual focal point.</caption>
             <image source="optics/diverging1.png" width = "90%" ><description>A diverging lens sits at the center of the diagram. The optical axis travels through the center of the lens, perpendicular to the lens plane. Five evenly distributed arrows, each parallel to the optical axis, hit the lens plane from the left side. Each ray is bent at the lens plane at an angle that would extend the ray from the lens plane to the virtual focal point on the left side. The extension of these rays are dashed and they each converge on the virtual focal point.</description></image>
         </figure>
         <figure xml:id="diverging">
+			<title>Diverging Lens Figure</title>
             <caption>A diverging lens. Under the thin-lens approximation, converging light rays will enter the lens, refract at the lens plane, and will exit the lens parallel to the optical axis.</caption>
             <image source="optics/diverging.png" width = "90%" ><description>A diverging lens sits at the center of the diagram. The optical axis travels through the center of the lens, perpendicualr to the lens plane. Five evenly distributed arrows hit the lens from the left hand side at different angles, each pointing towards the focal point on the right side of the lens. Extensions of the arrows from the lens plane to the focal point are dashed lines. The arrows bend at the lens plane and exit the lens on the right side, each parallel to the optical axis.</description></image>
         </figure>
@@ -66,6 +70,7 @@
     </definition> -->
     
     <figure xml:id="diverging2">
+			<title>Converging Lens Image</title>
         <caption>A diverging lens producing an image. An object of height <m>h_o</m> sits at a distance <m>d_o</m> from the lens. The virtual image is located at a disatnce <m>d_i</m> from the lens on the same side as the object, and has a height <m>h_i</m>.</caption>
         <image source="optics/diverging2.jpg" width = "90%" ><description>A diverging lens sits at the center of the diagram. A red arrow sits at a distance d sub o on the left side of the lens and has a height h sub o. Two rays travel from the head of the arrow: one travels parallel to the optical axis, hits the lens plane, and is bent at an angle such that the extension of the exiting ray travels through the focal point on the left side. The second ray travels through the center of the lens and continues on. These rays intersect each other on the left side. Another arrow sits along the optical axis on the left side of the lens whose arrow head sits at the intersection point of these rays. This arrow has a height h sub i and sits at a distance d sub i from the lens.</description></image>
     </figure>
@@ -84,6 +89,7 @@
                 <title>Summarize</title>
                 <p>Summarize what you've learned about lenses. Use the following figure in your explanation. Explain each part of the diagram, whether it is a converging or diverging lens, and what type of image is produced and why. Can you come up with a set of rules to follow that will help you draw ray diagrams for lenses?</p>
                 <figure>
+			<title>Ray Diagrams Summary</title>
                     <caption>A summary of ray diagrams involving lenses. The red arrow is the object, and the green arrow is the image.</caption>
                     <image source="optics/lens_summary.jpg"><description>Three lens diagrams sit side by side. Each diagram has a red object arrow and a green image arrow, and two rays that travel from the object arrow, and through the lens. The intersection point of these arrows is where the green image arrow sits. The first is a converging lens diagram with the red arrow sitting on the left side of the lens and a green arrow sitting on the right side of the lens, upside down. The second diagram is a converging lens diagram with the red arrow sitting on the left side of the lens inside the focal length, and the green arrow sitting on the left side of the lens outside of the focal length. The third diagram is a diverging lens diagram with the red arrow sitting on the left side of the lens outside of the focal length, and the green arrow sitting on the left side of the lens inside the focal length.</description></image>
                 </figure>

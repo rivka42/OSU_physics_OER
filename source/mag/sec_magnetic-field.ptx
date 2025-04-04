@@ -21,6 +21,7 @@
 		<title>Activities</title>
 		<p>The wire shown below carries current <m>I</m> out of the screen.  The circle represents a distance <m>R</m> away from the wire.</p>
 				<figure xml:id="x_fig_mag">
+			<title>Wire Figure</title>
     		<caption>A wire surrounded by four marked test points.</caption>
     		<image source="MagWire.png" width = "50%" ></image>
 		</figure>
@@ -31,6 +32,7 @@
 			</statement>
 			<answer>
 							<figure xml:id="x_fig_mag-sol">
+			<title>Wire Figure</title>
     		<caption>The magnetic field around a long straight wire.</caption>
     		<image source="MagWire-sol.png" width = "50%" ></image>
 		</figure>
@@ -61,10 +63,12 @@
 			</statement>
 			<answer>
 			<figure xml:id="x_fig_mag-full">
+			<title>Magnetic Wire Figure</title>
     		<caption>A magnetic field vector map for a long straight wire.  The field points in a counter-clockwise direction and gets smaller as you get farther from the wire.</caption>
     		<image source="MagWire-full.png" width = "100%" ></image>
 		</figure>
 		<figure xml:id="x_fig_mag-full2">
+			<title>Magnetic Wire Figure</title>
     		<caption>Some magnetic field lines of a long straight wire. The direction of <m>\vec{B}</m> can be found with a form of the right-hand rule.</caption>
     		<image source="MagneticFieldWire.jpg" width = "100%" ></image>
 				<description>This figure demonstrates the right-hand rule. The wire is held with the right hand so that the thumb points along the current. The fingers wrap around the wire in the same sense as the magnetic field.</description>

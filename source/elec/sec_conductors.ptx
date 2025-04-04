@@ -6,6 +6,7 @@
 	<exercises>
 		<title>Warm-Up Activity</title>
 		<figure xml:id="conductor-img">
+			  <title>Conductor Figure</title>
 			<caption>A large positive charge to the left of a square conductor.</caption>
 			<image source="Conductor.png" width = "50%" ><description>A long rod is positively charged and is held next to a circular conductor.</description></image>
 		</figure>
@@ -38,6 +39,7 @@
 	<title>Conductor Activities</title>
 		<p>Consider the charged conductor shown below.</p>
 				<figure xml:id="conductor-img2">
+			  <title>Charged Conductor Figure</title>
 			<caption>A charged conductor and an external electric field.</caption>
 			<image source="ConductorCharged.png" width = "50%" ><description>A long rod is positively charged and is held next to a circular conductor.</description></image>
 		</figure>

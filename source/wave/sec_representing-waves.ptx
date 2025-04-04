@@ -8,6 +8,7 @@
 </p>
 
 <figure xml:id="wave_source">
+<title>Wave Source Figure</title>
     	<caption>
 	An oscillating source creates a wave with the same frequency.
 	</caption>
@@ -22,6 +23,7 @@
 <p>When modeling the motion of point particles, you primarily used a <xref ref="rep_motion-graphs" text="title" /> to show, for example, the position of an object across many different instants in time.  This sort of graph can still be used to show the motion of <em>one position</em> in a medium over time.  This is known as a <alert>history graph</alert>.</p>
 
 <figure xml:id="snap_hist">
+<title>History Diagram Figure</title>
     	<caption>
 	A graphical representation of a sinusoidal wave in time (holding space fixed).
 	</caption>
@@ -52,6 +54,9 @@ Alternatively, you can graph the displacement of the medium over space at a sing
 </p>
 
 <figure xml:id="snap_hist2">
+<title>Snapshot Graph Figure</title>
+
+
     	<caption>
 	A graphical representation of a sinusoidal wave in space (holding time fixed).
 	</caption>
