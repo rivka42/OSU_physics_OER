@@ -15,7 +15,7 @@
 
 	<investigation xml:id="pa_rot-02">
 		<title>Acceleration of a Pendulum</title>
-		<statement>
+		<statement><p></p>
 			<p>Suppose a pendulum is pulled to one side and released at <m>t_1</m>.  At <m>t_2</m>, the pendulum has swung halfway back to a vertical position.  At <m>t_3</m>, the pendulum has swung all the way back to a vertical position.  Rank the three instants in time by the magnitude of the centripetal acceleration, from greatest to least.</p>
 		</statement>
 	</investigation>
@@ -23,7 +23,7 @@
 	<investigation xml:id="psa_rot-01">
 		<title>The Bowl</title>
 		<statement>
-		
+		<p></p>
 		<p>Shown below is a motion diagram of a ball rolling along a semicircular track. The time intervals between each pair of consecutive points are equal. The ball starts from rest at point 1, and just reaches point 9 before rolling back down the right side of the track. </p>
 		
 		<figure xml:id="fig_rot-The-Bowl">
@@ -49,14 +49,14 @@
 
 	<project xml:id="pa_rot-01">
 		<title>Swinging a Bucket</title>
-		<statement>
+		<statement><p></p>
 			<p>You swing a bucket of water with total mass m in a vertical circle with a radius given by the length of your arm, <m>L</m>.  Determine the slowest speed at which you can swing the bucket without water falling on you.  For that speed, determine the tension in your arm <m>T</m> at the bottom of the swing.</p>
 		</statement>
 	</project>
 
 	<project xml:id="pa_rot-03">
 		<title>Conical Pendulum</title>
-		<statement>
+		<statement><p></p>
 			<p>A conical pendulum is formed by attaching a ball of mass <m>m</m> to a string of length <m>L</m>, then allowing the ball to move in a horizontal circle of radius <m>r</m>.</p>
 			<p>Part A.	Find an expression for the tension <m>T</m> in the string.</p>
 			<p>Part B.	Find an expression for the ball's angular speed <m>\omega</m>.</p>
@@ -65,7 +65,7 @@
 
     <project xml:id="pa_rot-04">
         <title>Car Around a Curve</title>
-		<statement>
+		<statement><p></p>
 		    <p>A car starts from rest on a curve with a radius of <m>120 \mathrm{~m}</m> and tangential acceleration of <m>1.5 \mathrm{~m/s^2}</m>.  Through what angle will the car have traveled when the magnitude of its total acceleration is <m>3 \mathrm{~m/s^2}</m>?</p>
 		</statement>
 		<hint>
@@ -75,7 +75,7 @@
 
 	<project xml:id="psa_rot-02">
         <title>The Conical Bowl</title>
-		<statement>
+		<statement><p></p>
 		    <p>You are riding a <m>150 \mathrm{~kg}</m> bicycle at constant speed along a circular track of radius <m>25 \mathrm{~m}</m>.  The shape of the track is a conical bowl, so the track makes a consistent angle of 15° with the horizontal. Determine the speed of the bicycle.</p>
 		</statement>
 		<hint>

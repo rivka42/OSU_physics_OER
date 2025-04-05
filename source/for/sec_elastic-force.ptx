@@ -26,9 +26,9 @@
 		<p>
 			
 		</p>
-		<p>An ideal spring<fn>a spring that is massless and does not deform when displaced from equilibrium</fn> obeys Hooke's Law, with a force that is linearly proportional to the displacement from equilibrium: <me>\vec{F}^{S} = -k(\vec{x} - \vec{x}_{eq})</me></p>
+		<p>An ideal spring obeys Hooke's Law, with a force that is linearly proportional to the displacement from equilibrium: <me>\vec{F}^{S} = -k(\vec{x} - \vec{x}_{eq})</me></p>
 			<p>
-				
+				<alert>Assumption:</alert> An ideal spring is massless and does not deform when displaced from equilibrium.
 			</p>
 	</statement>
 </definition>

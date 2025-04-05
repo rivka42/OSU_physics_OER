@@ -9,7 +9,7 @@
 	
 		<definition>
 	<title>Angular Position</title>
-	<statement>
+	<statement><p></p>
 		<p>The <term>angular position</term> of an object moving around a circle measures the location of the object as an angle from some fixed axis (by default, the positive horizontal axis): measured in radians, it is given by <m>\theta = \frac{s}{r}</m>, where <m>s</m> is the arc length and <m>r</m> is the radius.</p>
 	</statement>
 </definition>
@@ -18,14 +18,14 @@
 
 	<definition>
 	<title>Angular Velocity</title>
-	<statement>
+	<statement><p></p>
 		<p>The <term>angular velocity</term> of an object moving around a circle is given by <m>\vec{\omega} = \frac{d \vec{\theta}}{d t}</m>.  Combining this with the definition of angular position allows you to relate angular and tangential speed as <m>\omega = \frac{v_t}{r}</m>.</p>
 	</statement>
 </definition>
 
 	<definition>
 	<title>Angular Acceleration</title>
-	<statement>
+	<statement><p></p>
 		<p>The <term>angular acceleration</term> of an object moving around a circle is given by <m>\vec{\alpha} = \frac{d \vec{\omega}}{d t}</m>.  Combining this with the definition of angular position allows you to relate the magnitudes of the angular and tangential acceleration as <m>\alpha = \frac{a_t}{r}</m>.</p>
 	</statement>
 </definition>
@@ -55,7 +55,7 @@
 				
 				<lemma xml:id="rep_angular-vectors">
 			<title>Direction of Angular Vectors</title>
-			<statement>
+			<statement><p></p>
 				<p>The direction of an angular vector points along the axis of rotation.  For an object moving in the <m>xy</m>-plane, the vector pointing outward (in the <m>+z</m>-direction) corresponds to counterclockwise while the vector pointing inward (in the <m>-z</m>-direction) corresponds to clockwise.</p>
 			</statement>
 		</lemma>
@@ -63,18 +63,26 @@
 
 	<exercises>
 	<title>Activities - Circling Helicopter</title>
-	<p>A helicopter is flying in a horizontal circle of radius 40 m with an initial angular speed of 1.2 rad/s.  The angular velocity vector points upward.</p>
+	<p>A helicopter is flying in a horizontal circle of radius <m>40 \mathrm{~m}</m> with an initial angular speed of <m>1.2 \mathrm{~rad/s}</m>.  The angular velocity vector points upward.</p>
 			<exercise>
 			  <p>When viewed from above, is the helicopter moving clockwise or counterclockwise?</p>
 			</exercise>
 						<exercise>
 			  <p>How long does it take for the helicopter to complete one full rotation?  This time is often known as the period, and is denoted using the letter <m>T</m>.</p>
 			</exercise>
+			<definition xml:id="def_period">
+			<title>Period</title>
+				<statement><p></p>
+					<p>
+						When an object undergoes regular, repeated motion, the amount of time <m>T</m> required to complete a full cycle is typically referred to as the <term>period</term>.
+					</p>
+				</statement>
+			</definition>
 			<exercise>
 			  <p>What is the helicopter's tangential speed?</p>
 			</exercise>
 			<exercise>
-			  <p>Suppose the helicopter begins slowing down with an angular acceleration that has a magnitude of <m>4 \frac{\text{m}}{\text{s}^2}</m>.  What is the helicopter's angular acceleration (magnitude and direction!)?</p>
+			  <p>Suppose the helicopter begins slowing down with an angular acceleration that has a magnitude of <m>4 \mathrm{~m/s^2}</m>.  What is the helicopter's angular acceleration (magnitude and direction!)?</p>
 			</exercise>
 		</exercises>
 

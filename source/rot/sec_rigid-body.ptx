@@ -9,7 +9,7 @@
 	
 	<assumption xml:id="a_rigid-body">
 	<title>The Rigid-body Model</title>
-	<statement>
+	<statement><p></p>
 		<p>When you assume that a system can be treated as a <term>rigid body</term>, you treat it as undergoing both <alert>translational motion</alert> and <alert>rotational motion</alert>.  Under this assumption, you treat all parts of the system as moving with the same angular velocity, while the center of mass of the object is treated as moving with the translational velocity.</p>
 	</statement>
 </assumption>

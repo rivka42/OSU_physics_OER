@@ -7,13 +7,34 @@
         <description>MIT vectors vs. scalars.</description>
       </video>
 			
-    <p>
-A mathematical object which has a both a <em>magnitude</em> (a size or amount) and a <em>direction</em> is called a <alert>vector</alert>.  It is essential to take into account how both the magnitude and direction of a vector quantity changes when you analyze motion. A quantity that has no direction is called a <alert>scalar</alert>.
-    </p>
+	<definition xml:id="def_vector">
+		<title>Vectors</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>
+				A <alert>vector</alert> is a mathematical object with both a <em>magnitude</em> (a size or amount) and a <em>direction</em>.  
+			</p>
+		</statement>
+	</definition>
     
     <p>
 In diagrams, vectors are represented by arrows. The length of the arrow represents the magnitude of the vector and the arrowhead indicates the direction of the vector. Symbolically, you draw an arrow on top of a symbol to denote a vector quantity, such as <m>\vec{A}</m>.   On its own, the symbol <m>A</m> would represent the <em>magnitude</em> of the vector, which is sometimes written <m>|\vec{A}|</m>.
      </p>
+
+	 
+	<definition xml:id="def_scalar">
+		<title>Scalars</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>
+				A <alert>scalar</alert> is a mathematical object that has a <em>value</em> (which can in general be either positive or negative) but has not <em>direction</em>.  
+			</p>
+		</statement>
+	</definition>
      
      <p>
 Suppose you have a vector <m>\vec{A}</m>. The  negative vector <m>-\vec{A}</m> has the same magnitude as vector <m>\vec{A}</m>, but points in the opposite direction. 
@@ -21,7 +42,7 @@ Suppose you have a vector <m>\vec{A}</m>. The  negative vector <m>-\vec{A}</m> h
     
     <figure xml:id="vec_neg_vec">
 		<title>Negative Vector Figure</title>
-	<caption>A representation of vectors as arrows showing a vector and also the negative of that vector.</caption>
+	<caption>A representation of a vector and the negative of that vector as arrows.</caption>
        	<image source="vectors/vec_neg_vec.png" width = "35%" ></image>
     </figure>
 
@@ -55,6 +76,12 @@ Another, common example of a vector is <alert>velocity</alert>. Velocity is a qu
 		<p></p>
 		<p>Make a list of physical quantities you are familiar with from your everyday experience.  For each quantity, do you think it would be better to represent it as a <em>scalar</em> or as a <em>vector</em>?</p>
 		</statement>
+		<answer>
+			<p>
+				Position, velocity, acceleration, force, and momentum are examples of physical quantities that are represented by vectors.  
+				In contrast, time, mass, charge, and temperature are represented by scalars.
+			</p>
+		</answer>
 		</exercise>
 				<exercise xml:id="x_length">
 		<title>Explore Magnitude</title>

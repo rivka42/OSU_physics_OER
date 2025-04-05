@@ -9,7 +9,7 @@
 	
 	<definition>
 	<title>Angular Momentum for a Rigid Object</title>
-	<statement>
+	<statement><p></p>
 		<p>The <term>angular momentum</term> of a rigid object about a given axis is the product of the object's moment of inertia and angular velocity about that axis: <me>\vec{L} = I\vec{\omega}</me></p>
 	</statement>
 </definition>
@@ -18,7 +18,7 @@
 
 	<definition>
 	<title>Angular Momentum for a Point Particle</title>
-	<statement>
+	<statement><p></p>
 		<p>The <term>angular momentum</term> of a point particle about a given axis is the cross product between the object's position and its translational momentum: <me>\vec{L} = \vec{r} \times \vec{p}</me></p>
 	</statement>
 </definition>
@@ -30,11 +30,13 @@
 	<title>Activities</title>
 			<exercise xml:id="x_summarize-L">
 			<title>Summarize What You Learned - Angular Momentum</title>
+			<p></p>
 			  <p>Write a 1-2 sentence description of what the definitions of angular momentum say in words.  How can you tell which definition to use?</p>
 			</exercise>
 			<exercise>
 			<title>Sensemaking: Units</title>
 			<statement>
+				<p></p>
 			  <p>What are the units of angular momentum?  How do they compare to the units of translational momentum?</p>
 				</statement>
 				<answer>
@@ -44,6 +46,7 @@
 						<exercise>
 						<title>Explanation: Adding Momentum?</title>
 			<statement>
+				<p></p>
 			  <p>Suppose a friend of yours wrote down the following equation for something they call the "total momentum": <m>\vec{p} + \vec{L}</m>.  How could you convince your friend that this equation is incorrect, and that there cannot be such a thing as total momentum.</p>
 				</statement>
 				<hint>

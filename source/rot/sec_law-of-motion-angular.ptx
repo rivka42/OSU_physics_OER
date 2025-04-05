@@ -9,7 +9,7 @@
 
 	<principle xml:id="law_N2LR">
 	<title>The Rotational Law of Motion (Newton's 2nd Law for Rotation)</title>
-	<statement>
+	<statement><p></p>
 	<p>The net torque on an object or system is equivalent to the product of object's moment of inertia <m>I</m> and its angular acceleration <m>\alpha</m>: <me>\vec{\tau}_{net} = I\vec{\alpha}</me></p>
 	</statement>
 	</principle>
@@ -18,7 +18,7 @@
 	
 		<definition xml:id="def_net-torque">
 	<title>Net torque</title>
-	<statement>
+	<statement><p></p>
 	<p>The <term>net torque</term> on an object or system is equal to the (vector) sum of all torques acting on it: <me>\vec{\tau}_{net} = \sum_i \vec{\tau}_i = \vec{\tau}_1 + \vec{\tau}_2 + \vec{\tau}_3 + \dots</me></p>
 	</statement>
 	</definition>
@@ -26,15 +26,15 @@
 
 	<exercises>
 	<title>The Catapult</title>
-			<p>Recall <xref ref="rot_catapult"></xref>, for which you previously drew an extended free-body diagram and found the torque exerted by each force.</p>
-		<exercise>
+			<p>Recall the <xref ref="rot_catapult"></xref>, for which you previously drew an extended free-body diagram and found the torque exerted by each force.</p>
+		<activity>
 		<statement>
 			<p>Use your previous answers along with the Rotational Law of Motion to determine the relationship between <m>m_1</m> and <m>m_2</m> that will allow the catapult to launch the rock.</p>
 			</statement>
 			<solution>
       <video youtube="ydVOtjiHm4w">      <description>Solution to the Catapult activity.</description></video>			
 			</solution>
-			</exercise>
+			</activity>
 		</exercises>
 
 	

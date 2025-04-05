@@ -16,12 +16,18 @@
 	<title>Introductory Activities</title>
 			<exercise xml:id="x_summarize-model">
 			<title>Summarize Your Model</title>
+			<p>
+				
+			</p>
 			  <p>Take this opportunity to synthesize and summarize the model you have already built in a way that makes sense to you.  Such a synthesis is often most useful when you use multiple representations (such as words, equations, and graphs or diagrams) to highlight key concepts and connections between key concepts.</p>
 			</exercise>
-			<p>The questions below will introduce you to the first new situation in which you will be applying your physics models.</p>
+			<p><alert>The questions below will introduce you to the first new situation in which you will be applying your physics models.</alert></p>
 								<exercise xml:id="x_intro-rotation">
 									<title>Exploration - Curved Road</title>
 						<statement>
+							<p>
+								
+							</p>
 							<p>Suppose you are in the right seat of a car driving along a curved road.  Use everyday language to explain what happens as the car is turning to the left along a curved road. In particular:</p>
 							<ol>
 							<li><p>What direction do you move relative to the car?</p></li>
@@ -32,6 +38,7 @@
 					</exercise>
 					<exercise>
 					<title>Prediction - Car Turning</title>
+					<p></p>
 					<p>A car moves counterclockwise at constant speed along the curved road shown below.  Choose an origin and coordinates and use them to sketch vectors you believe best represent the directions of the (a) instantaneous position, (b) instantaneous velocity, and (c) instantaneous acceleration of the car at the instant shown.  Explain how you predicted the direction of each vector.</p>
 					</exercise>
 					  <figure xml:id="rot_curved-road">
@@ -42,6 +49,7 @@
   </figure>
 						<exercise>
 					<title>Prediction - Car Slowing Down</title>
+					<p></p>
 					<p>Suppose the car in the previous activity were instead slowing down.  How if at all would you expect the three vectors to change?</p>
 					</exercise>
 		</exercises>

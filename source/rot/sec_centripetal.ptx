@@ -62,9 +62,7 @@
 	<definition>
 	<title>Centripetal Acceleration</title>
 	<statement>
-		<p>
-			
-		</p>
+		<p></p>
 		<p>An object moving along a curved path experiences a <term>centripetal acceleration</term> that points perpendicular to the path (inward) with magnitude <m>a_{c} = \frac{v^2}{r}</m>, where <m>r</m> is the local radius of curvature.  If the object is moving at constant speed, the acceleration is entirely centripetal.</p>
 	</statement>
 </definition>

@@ -15,7 +15,7 @@
 
 	<exploration xml:id="psa_rot-alpha7">
 		<title>Olympic High Diver</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				An Olympic high diver in midair pulls her legs inward toward her chest. Doing so changes which of these quantities?
 			</p>
@@ -39,7 +39,7 @@
 
 	<exploration xml:id="psa_rot-alpha8">
 		<title>Helicopter I</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				A typical small rescue helicopter has four blades. Each blade is <m>4.0 \mathrm{~m}</m> long and has a mass of <m>50.0 \mathrm{~kg}</m>. The blades can be approximated as thin rods that rotate about one end of an axis perpendicular to their length. The helicopter has a total loaded mass of <m>1000 \mathrm{~kg}</m>. Calculate the rotational kinetic energy in the blades when they rotate at <m>300 \mathrm{~rpm}</m>.
 			</p>
@@ -53,7 +53,7 @@
 
 	<exploration xml:id="psa_rot-alpha9">
 		<title>Helicopter II</title>
-		<statement>
+		<statement><p></p>
 		<p>
 			A typical small rescue helicopter has four blades. Each blade is <m>4.00 \mathrm{~m}</m> long and has a mass of <m>50.0 \mathrm{~kg}</m>. The blades can be approximated as thin rods that rotate about one end of an axis perpendicular to their length. The helicopter has a total loaded mass of <m>1000 \mathrm{~kg}</m>. What is the ratio of translational kinetic energy of the helicopter over the rotational kinetic energy of its blades when it flies at <m>20.0 \mathrm{~m/s}</m>?
 		</p>
@@ -67,7 +67,7 @@
 	
 	<exploration xml:id="psa_rot-alpha10">
 		<title>Helicopter III</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				A typical small rescue helicopter has four blades. Each blade is <m>4.00 \mathrm{~m}</m> long and has a mass of <m>50.0 \mathrm{~kg}</m>. The blades can be approximated as thin rods that rotate about one end of an axis perpendicular to their length. The helicopter has a total loaded mass of <m>1000 \mathrm{~kg}</m>. To what height could the helicopter be raised if all of the rotational kinetic energy could be used to lift it?
 			</p>

@@ -24,7 +24,7 @@
 	
 	<definition>
 	<title>Moment of Inertia</title>
-	<statement>
+	<statement><p></p>
 		<p>The <term>moment of inertia</term> of a rigid object is its capacity to resist changes to its angular motion, and can be found as a weighted average of the distance squared: <me>I = \sum_{i} m_ir_i^2</me> for a set of discrete objects and <me>I = \int r^2 dm</me> for a continuous object.</p>
 	</statement>
 </definition>
@@ -32,7 +32,7 @@
 	<exercises>
 	<title>Activities</title>
 			<exercise>
-			<p>You are riding a 150 kg bicycle at constant speed along a circular track of radius 25 m.  What is the moment of inertia of the bicycle about the center of the track?  What assumptions do you need to make so that you do not have to do any integrals?</p>
+			<p>You are riding a <m>150 \mathrm{~kg}</m>> bicycle at constant speed along a circular track of radius <m>25 \mathrm{~m}</m>>.  What is the moment of inertia of the bicycle about the center of the track?  What assumptions do you need to make so that you do not have to do any integrals?</p>
 			</exercise>
 			<exercise>
 			<p>Suppose you want to find the moment of inertia of the lower weight from the Warm-up Activities.  What information would you need to know?  What assumptions would you want to make?  What equations would you decide to use?</p>

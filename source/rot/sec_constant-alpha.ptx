@@ -11,17 +11,21 @@
 
 	<exercises>
 	<title>Activity - The Go-kart</title>
-	<p>You are on a Go-kart at a circular track such that the Go-kart's angular acceleration is a constant <m>0.6 \frac{\text{rad}}{\text{s}^2}</m>.  Your initial angular speed is <m>-1.2 \frac{\text{rad}}{\text{s}}</m>.</p>
+	<p>You are on a Go-kart at a circular track such that the Go-kart's angular acceleration is a constant <m>0.6 \mathrm{~rad/s^2}</m>.  
+	Your initial angular speed is <m>-1.2 \mathrm{~rad/s}</m>.</p>
 			<exercise xml:id="x_go-kart">
 			<title>Representations</title>
+			<p></p>
 			  <p>Sketch graphs of the angular acceleration, angular velocity, and angular position vs. time.</p>
 			</exercise>
 			<exercise>
 			<title>Calculations</title>
+			<p></p>
 			  <p>Find equations for the angular position, angular velocity, and angular acceleration as functions of time.</p>
 			</exercise>
 			<exercise>
 			<title>Understanding</title>
+			<p></p>
 			  <p>How does the centripetal acceleration of your Go-kart change as you go?</p>
 			</exercise>
 		</exercises>

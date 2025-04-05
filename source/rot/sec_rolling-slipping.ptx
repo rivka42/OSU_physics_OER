@@ -17,7 +17,7 @@
 
 	<assumption>
 	<title>Rolling without Slipping</title>
-	<statement>
+	<statement><p></p>
 		<p>An object that rolls along the ground without slipping has an angular speed given by <m>\omega = \frac{v_t}{r}</m>, where <m>r</m> is the radius at the point of contact between the rolling object and the surface.</p>
 	</statement>
 </assumption>

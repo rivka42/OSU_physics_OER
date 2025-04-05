@@ -14,7 +14,7 @@
 <title>Practice</title>
     <exploration xml:id="psa_rot-alpha0">
         <title>Crankshaft</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				The crankshaft (<m>r = 3 \mathrm{~cm}</m>) in a race car accelerates uniformly from rest to <m>3000 \mathrm{~rpm}</m> in <m>2.0 \mathrm{~s}</m>. How many revolutions does it make?
 			</p>
@@ -40,7 +40,7 @@
 	</exploration>
 	<exploration xml:id="psa_rot-alpha1">
 		<title>Angular motion</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				A 60 cm diameter wheel accelerates from rest at a rate of <m>7 \mathrm{~rad/s^2}</m>.
 			</p>
@@ -65,7 +65,7 @@
 
 	<exploration xml:id="psa_rot-alpha2">
 		<title>Army the Armadillo</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				The Brazilian three-banded armadillo has a hard outer exterior, and when it senses danger, it rolls into a ball for protection. Suppose that Army the armadillo rolls into a ball (with a <m>5 \mathrm{~cm}</m> radius) while on the slope of a hill. As a result, they begin to roll down the hill; and after <m>15 \mathrm{~s}</m>, they have undergone <m>45.8</m> revolutions. What is Army's angular speed at this time?
 			</p>

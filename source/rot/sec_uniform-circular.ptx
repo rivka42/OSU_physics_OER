@@ -14,7 +14,7 @@
 	<p>You see a truck with known mass <m>M</m> driving along a flat road at a constant speed <m>v_{truck}</m>.  The truck reaches a part of the road that follows a circular path with radius <m>R</m>.</p>
 			<exercise xml:id="x_truck-circle">
 			<title>Representation</title>
-			<statement>
+			<statement><p></p>
 			  <p>Sketch a free-body diagram for the truck.  What force points in the same direction as the acceleration?</p>
 				</statement>
 				<hint>
@@ -23,6 +23,7 @@
 			</exercise>
 			<exercise>
 			<title>Calculation</title>
+			<p></p>
 			<p>Suppose you also know the coefficient of static friction <m>\mu_s</m> between the ground and the truck's tires.  Find two possible expressions for the magnitude of the force of static friction on the truck.  Which expression is more informative?</p>
 			</exercise>
 		</exercises>

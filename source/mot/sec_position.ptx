@@ -102,7 +102,8 @@ You will start by using the Cartesian coordinates that are probably familiar fro
 		<title>Finding Position Components</title>
 		<statement>
 		<p></p>
-		<p>Use what you know about triangles and vector components to write equations relating <m>r_x</m> and <m>r_y</m> to <m>r</m> (the magnitude of <m>\vec{r}</m>) and <m>\theta</m> in the figure above.</p>
+		<p>Use what you know about triangles and vector components to write equations relating <m>r_x</m> and <m>r_y</m> to <m>r</m> (the magnitude of <m>\vec{r}</m>) and <m>\theta</m> in the figure above.  
+		How would the answer have differed if you wanted to write the components in terms of the other angle in the triangle?</p>
 		</statement>
 		<answer>
 		<p>

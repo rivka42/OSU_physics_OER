@@ -11,6 +11,9 @@
 				<definition>
 	<title>Kinetic Friction</title>
 	<statement>
+		<p>
+			
+		</p>
 		<p>The magnitude of any <term>kinetic friction</term> force is related to the corresponding normal force<me>|\vec{F}^{kf}_{12}| = \mu_k |\vec{F}^{N}_{12}|</me>  The kinetic friction will act in a direction that opposes the relative motion of the objects involved.</p>
 	</statement>
 </definition>
@@ -40,7 +43,7 @@
 			<p>
 				
 			</p>
-			  <p>Play with this forces simulation: <url href="https://phet.colorado.edu/en/simulations/forces-and-motion-basics"/>.  Make sure to investigate all four tabs.</p>
+			  <p>Play with this <url href="https://phet.colorado.edu/en/simulations/forces-and-motion-basics">forces simulation</url>.  Make sure to investigate all four tabs.</p>
 			</exercise>
 			<exercise>
 			<title>Describe Friction</title>

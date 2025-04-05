@@ -3,7 +3,7 @@
 <section xml:id="sec_reps-of-motion" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Representations of Motion</title>
 	
-	<p>You now have two major representations for describing motion: <alert>motion diagrams</alert> (see <xref ref="sec_motion-diagrams"/>) and <alert>motion graphs</alert> (see <xref ref="sec_motion-graphs"/>).  Coordinating these representations with words and equations can give you a powerful understanding of an object's motion.</p>
+	<p>You now have two major representations for describing motion: <xref ref="r_motion-diagram"/> and <xref ref="rep_motion-graphs"/>.  Coordinating these representations with words and equations can give you a powerful understanding of an object's motion.</p>
 	
 
 <example>
@@ -88,7 +88,7 @@
 		</introduction>
 		<figure xml:id="mot_MotionRamp">
 		  <caption>A strobe diagram of a ball rolling up and then down a ramp.</caption>
-      <image source="MotionRamp.png" width = "60%">
+      <image source="MotionRamp.png" width = "80%">
 			<description></description>
 			</image>
     </figure>

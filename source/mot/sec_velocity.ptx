@@ -67,7 +67,7 @@ Time is a quantity you will encounter throughout your study of physics.  In fact
 			<title>Explanation: Direction of Velocity</title>
 			<statement>
 				<p></p>
-			  <p>How does the direction of the average velocity vector compare to the direction of the displacement vector?  Explain your reasoning using the steps in <xref ref="fig_explanation"/>.</p>
+			  <p>How does the direction of the average velocity vector compare to the direction of the displacement vector?  Explain your reasoning using the <xref ref="fig_explanation"/>.</p>
 				</statement>
 				<answer>
 				<p>The average velocity vector points in the same direction as the displacement vector and tells us the direction of the object's motion.</p>

@@ -23,9 +23,18 @@ Since <m> \hat{x} </m>, <m> \hat{y} </m> and <m> \hat{z} </m> are mutually perpe
 \hat{x} \cdot \hat{y} = \hat{x} \cdot \hat{z} = \hat{y} \cdot \hat{z} = 0
 </me>		
 
-<p>
-Many textbooks, and authors use different notation for the unit vectors. Often, you will see unit vectors written using <m> \hat{i} </m>, <m> \hat{j} </m> and <m> \hat{k} </m> to represent the positive <m>x</m>-direction, positive <m>y</m>-direction, and positive <m>z</m>-direction. Both notations are equivalent, and are just a convention. Use whatever notation is more comfortable for you. 
+<note>
+	<title>Unit Vector Notation</title>
+	<p>
+Different textbooks and authors use different notation for the unit vectors.  
+Often, you will see unit vectors written using <m> \hat{i} </m>, <m> \hat{j} </m> and <m> \hat{k} </m> to represent the positive 
+<m>x</m>-direction, positive <m>y</m>-direction, and positive <m>z</m>-direction, respectively.  
+Both notations are equivalent, but many physicists use <m> \hat{x} </m> instead of <m> \hat{i} </m> because it more directly evokes 
+the direction in which the unit vector points.
 </p>
+	
+</note>
+
 
 <p>This short video includes a brief summary of unit vectors:</p>	
 

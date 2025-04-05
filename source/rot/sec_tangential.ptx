@@ -9,14 +9,14 @@
 	
 	<definition>
 	<title>Tangential Acceleration</title>
-	<statement>
+	<statement><p></p>
 		<p>The <term>tangential acceleration</term> of an object, <m>a_t</m>, points parallel to the instantaneous velocity, in the same direction if the object is speeding up and in the opposite direction if the object is slowing down.</p>
 	</statement>
 </definition>
 
 	<exercises>
 			<title>Centripetal and Tangential Acceleration</title>
-	    <p>Recall <xref ref="rot_curved-road"></xref>, which shows a car moving counterclockwise while slowing down. </p>
+	    <p>Recall the <xref ref="rot_curved-road"></xref>, which shows a car moving counterclockwise while slowing down. </p>
 			<exercise xml:id="x_forest-road">
 			  <p>Indicate the direction of the centripetal acceleration of the car.</p>
 			</exercise>
@@ -30,7 +30,7 @@
 			  <p>As the car moves around the track, slowing down, how does each acceleration (centripetal, tangential, and the combined instantaneous) change?</p>
 			</exercise>
 			<exercise>
-			  <p>Consider the questions from <xref ref="fig_applications"></xref>.  How would you answer them after what you have learned so far?</p>
+			  <p>Consider the <xref ref="fig_applications" />.  How would you answer them after what you have learned so far?</p>
 			</exercise>
 		</exercises>
 

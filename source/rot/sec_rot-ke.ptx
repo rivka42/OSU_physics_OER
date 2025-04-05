@@ -20,7 +20,7 @@
 	
 	<definition>
 	<title>Rotational Kinetic Energy</title>
-	<statement>
+	<statement><p></p>
 		<p>The <term>rotational kinetic energy</term> of a rigid object with angular speed <m>\omega</m> and moment of inertia <m>I</m> is given by: <me>K_{rot} = \frac{1}{2}I\omega^2</me></p>
 	</statement>
 </definition>

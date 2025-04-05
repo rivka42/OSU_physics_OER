@@ -9,9 +9,9 @@
 
 <p><alert>Understanding:</alert> Identify all relevant systems and draw an Extended Free-body Diagram for each.</p>
 
-<p><alert>Calculating:</alert> Is the acceleration of each system <m>0 \text{ m/s}^2</m> (static or dynamic equilibrium) or not <m>0 \text{ m/s}^2</m> (dynamics)?  What about the angular acceleration?  Once you know, use the Law of Motion, the Angular Law of Motion, and any action/reaction pairs between any interacting systems.</p>
+<p><alert>Calculating:</alert> Is the acceleration of each system <m>0 \mathrm{~m/s^2}</m> (static or dynamic equilibrium) or not <m>0 \mathrm{~m/s^2}</m> (dynamics)?  What about the angular acceleration?  Once you know, use the Law of Motion, the Angular Law of Motion, and any action/reaction pairs between any interacting systems.</p>
 
-<p><alert>Sensemaking:</alert> All the sensemaking strategies you have will work, including Special-case Analysis (see <xref ref="sec_special-cases"/>), especially for special cases that reduce the context to one in which there is no rotational motion.</p>
+<p><alert>Sensemaking:</alert> All the sensemaking strategies you have will work, including <xref ref="sec_special-cases"/>, especially for special cases that reduce the context to one in which there is no rotational motion.</p>
 
   
 	<exercises>

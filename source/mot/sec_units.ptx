@@ -4,7 +4,8 @@
   <title>Sensemaking: Units and Numbers</title>
 	
     <p>
-     The measurement of any quantity is reported as a number in terms of some standard, physical unit.  For example, you might measure the length of an object in a physics lab to be 17.4.  Without a specific unit of measurement, the number itself is almost meaningless.  You might mean the length is <m>17.4 \mathrm{~centimeters}</m>, <m>17.4 \mathrm{~inches}</m>, or <m>17.4 \mathrm{~miles}</m>. 
+     The measurement of any quantity is reported as a number in terms of some standard, physical unit.  
+	 For example, you might measure the length of an object in a physics lab to be <m>17.4</m>.  Without a specific unit of measurement, the number itself is almost meaningless.  You might mean the length is <m>17.4 \mathrm{~centimeters}</m>, <m>17.4 \mathrm{~inches}</m>, or <m>17.4 \mathrm{~miles}</m>. 
 		</p>
 		
 
@@ -50,7 +51,7 @@ Units for physical quantities can be divided into two categories: base units and
 
 </insight>
 
-<p>Checking units or numbers are two of the easiest and most powerful ways to <term>make sense</term> of something in physics.  When you make sense of something, your objective is evaluate whether or not what physics says about a context aligns with your physical understanding and reasoning about that context, following the steps in <xref ref="fig_sensemaking"/>.</p>
+<p>Checking units or numbers are two of the easiest and most powerful ways to <term>make sense</term> of something in physics.  When you make sense of something, your objective is evaluate whether or not what physics says about a context aligns with your physical understanding and reasoning about that context, following the <xref ref="fig_sensemaking"/>.</p>
 
 <heuristic xml:id="sm_units">
 	<title>Check Units</title>

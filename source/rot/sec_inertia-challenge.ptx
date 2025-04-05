@@ -12,7 +12,7 @@
 
 		<investigation xml:id="psa_rot-03">
 		<title>Balancing Bat</title>
-		<statement>
+		<statement><p></p>
 		<p>You spend some time experimenting with a baseball bat, and eventually you are able to balance the bat on a single finger.  A friend notices this, and makes the following claim:</p>
 
 		<p><em>“It looks like the balancing point isn't in the middle of the bat—it's a little closer to the thicker end of the bat.  That balancing point must be the location where half the bat's mass is on the left and half the bat's mass is on the right.”</em></p>
@@ -22,17 +22,9 @@
 		</statement>
 	</investigation>
 
-	<subsection>
-	<title>Explanation Tasks</title>
-
-	</subsection>
-
-	<subsection>
-	<title>A*R*C*S Activities</title>
-
 		<project xml:id="pa_rot-06">
 		<title>Center of Mass</title>
-		<statement>
+		<statement><p></p>
 			<p>You have a triangular piece of metal with total mass <m>M</m>, base length <m>L</m>, and height <m>H</m>.  You know the mass density is uniform. Find the center of mass of the piece of metal.</p>
 		</statement>
 	</project>
@@ -41,14 +33,14 @@
 
 	<project xml:id="pa_rot-08">
 		<title>Moment of Inertia of a Tennis Ball</title>
-		<statement>
+		<statement><p></p>
 			<p>A tennis ball can be modeled as a spherical shell with total mass <m>M</m> concentrated at radius <m>R</m>.  Calculate the moment of inertia about an axis passing through the center of the tennis ball.</p>
 		</statement>
 	</project>
 
 		<project xml:id="psa_rot-05">
         <title>The Cheese Slice</title>
-		<statement>
+		<statement><p></p>
 		    <p>You have a one-dimensional slice of cheese with total mass <m>M</m> and total length <m>L</m>.  You know the linear mass density is <m>\lambda(x) = k \sqrt{x}</m>.  Find the constant of proportionality <m>k</m> (including its units) and the center of mass of the slice of cheese.</p>
 		</statement>
 		<hint>
@@ -61,19 +53,19 @@
 
 	<project xml:id="psa_rot-06">
         <title>The Cube I</title>
-		<statement>
+		<statement><p></p>
 		    <p>A wooden cube with side length <m>L</m> and total mass <m>M</m> is rotating about an axis passing through one of its edges.  Use an integral to calculate the moment of inertia.</p>
 		</statement>
 	</project>
 
 	<investigation xml:id="psa_rot-07">
         <title>The Cube II</title>
-		<statement>
+		<statement><p></p>
 		    <p>The cube from the previous activity is instead rotating about an axis passing through its center (and through the center of one of its faces).  The parallel axis theorem can be used to demonstrate that the moment of inertia about this axis is smaller than the moment of inertia about the axis in the previous activity.  Give a qualitative explanation accounting for this result.</p>
 		</statement>
 	</investigation>
 
-	</subsection>
+
 
 
 	

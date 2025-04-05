@@ -16,7 +16,7 @@
 	
 	<exploration xml:id="psa_rot-alpha5">
 		<title>Moment of Inertia</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Which of the following statements concerning the moment of inertia <em>I</em> are false?
 			</p>

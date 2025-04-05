@@ -7,7 +7,7 @@
 	
 	<definition xml:id="def_rot-work">
 	<title>Rotational Work</title>
-	<statement>
+	<statement><p></p>
 	<p>The <term>work</term> done by a torque <m>\vec{\tau}</m> on an object rotating through <m>\vec{d\theta}</m> is: <me>W = \int_{\theta_i}^{\theta_f} {\vec{\tau} \cdot \vec{d\theta}}</me> </p>
 	</statement>
 	</definition>
@@ -18,6 +18,7 @@
 	<title>Activities</title>
 			<exercise>
 			<title>Calculation: Unwinding a Spool</title>
+			<p></p>
 			<p>Suppose you unwind a string that has been wrapped around a spool of radius <m>R</m> three times, causing the spool to gain a known amount of rotational kinetic energy <m>K_{rot}</m>.  Find the magnitude of the force you exerted on the string.</p>
 			</exercise>
 		</exercises>

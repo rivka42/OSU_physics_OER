@@ -9,14 +9,14 @@
 	
 		<definition>
 	<title>Torque</title>
-	<statement>
+	<statement><p></p>
 		<p>The <term>torque</term> exerted by a force <m>\vec{F}</m> acting on a rigid body about a given axis is <m>\vec{\tau} = \vec{r} \times \vec{F}</m>, where <m>\vec{r}</m> is the perpendicular vector from the axis to the point of contact of the force.</p>
 	</statement>
 </definition>
 
-<p>Calculating torque requires the cross product, a mathematical operation discussed in <xref ref="sec_cross-product"></xref>.  Finding the direction of the torque thus typically requires use of <xref ref="rep_rhr" text="title"></xref>.</p>
+<p>Calculating torque requires <xref ref="sec_cross-product"></xref>.  Finding the direction of the torque thus typically requires use of <xref ref="rep_rhr" text="title"></xref>.</p>
 	
-	<p>Torque is a <em>rotational analogue</em> for force.  You have seen other rotational analogues before: angular acceleration (<m>\vec{\alpha}</m>) is a rotational analogue for translational acceleration (<m>\vec{a}</m>).  Angular acceleration and translational acceleration are different quantities, but they serve the same role in their respective models, and they are related to each other.  Similarly, force and torque serve equivalent roles in their respective models, but they are <em>different</em> even though they are related.</p>
+	<p>Torque is a <alert>rotational analogue</alert> for force.  You have seen other rotational analogues before: angular acceleration (<m>\vec{\alpha}</m>) is a rotational analogue for translational acceleration (<m>\vec{a}</m>).  Angular acceleration and translational acceleration are different quantities, but they serve the same role in their respective models, and they are related to each other.  Similarly, force and torque serve equivalent roles in their respective models, but they are <em>different</em> even though they are related.</p>
 	
 	<p>As you continue to adapt your model for motion to rotational context, you will eventually develop a rotational analogue for every translational quantity.</p>
 	
@@ -26,24 +26,28 @@
 	<title>Activities</title>
 				<exercise xml:id="x_summarize-torque">
 			<title>Summarize What You Learned - Torque</title>
+			<p></p>
 			  <p>Write a 1-2 sentence description of what the definition of torque says in words. </p>
 			</exercise>
 			<exercise>
 			<title>Sensemaking: Units</title>
 			 <statement>
+				<p></p>
 			  <p>What are the units of torque?</p>
 				</statement>
 				<answer>
 				<p>The units for torque are Nm (Newton-meters).  Interestingly, the units for energy (Joules) can also be written Nm, but the units for torque are never written as Joules because torque and energy are fundamentally different quantities that just happen to have matching units.</p>
 				</answer>
 			</exercise>
-			<p>Recall <xref ref="rot_catapult"></xref>, for which you previously drew an extended free-body diagram.</p>
+			<p>Recall the <xref ref="rot_catapult"></xref>, for which you previously drew an extended free-body diagram.</p>
 		<exercise>
 		<title>Calculate - The Catapult</title>
+		<p></p>
 			<p>Use your diagram to help you find the torque exerted by each force acting on the catapult (continue to neglect the mass of the arm).  Choose the pivot point as your axis of rotation (why do you think this might be a reasonable choice?).  Pay attention to both the magnitude and the direction of each torque!</p>
 			</exercise>
 					<exercise>
 		<title>Practice - The Toppling Pencil</title>
+		<p></p>
 			<p>Find a pencil (or something with a similar shape) and hold it vertically so that one end is touching a table.  Let go of the pencil in such a way that it begins to fall over, with the base of the pencil as the axis of rotation.  Sketch an extended free-body diagram for the pencil at an instant where it is about 10 degrees from vertical after you have let go of it.  Use your diagram to help you find the direction of the torque exerted by each force acting on the pencil about the axis of rotation.  Try choosing a different point as the origin to see how that can change the direction of the torques!</p>
 			</exercise>
 		</exercises>

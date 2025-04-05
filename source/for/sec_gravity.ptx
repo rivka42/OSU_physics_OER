@@ -10,7 +10,9 @@
 		
 	<note>
 	<title>Gravity acting on a system</title>
-	<p>In general, a system might contain multiple objects, each with its own mass.  For the purpose of finding the gravitational force on such a system, you can simply use the total mass of the system (by adding together the masses of all the objects in the system).  You can then assume the gravitational force acts on the system's <xref ref="sec_center-of-mass" text="title"></xref>, a term you will define when you begin learning about rotational motion.</p>
+	<p>In general, a system might contain multiple objects, each with its own mass.  
+	For the purpose of finding the gravitational force on such a system, you can simply use the total mass of the system (by adding together the masses of all the objects in the system).  
+	You can then assume the gravitational force acts on the system's <xref ref="def_center-of-mass" text="title"></xref>, a term you will define when you begin learning about rotational motion.</p>
 	</note>
 	
 		<definition>
@@ -61,10 +63,13 @@
 				<p>
 					
 				</p>
-			<p>Your friend claims they have a gravitational field generator that can create a gravitational field throughout their physics lab.  You decide to test it by placing a 12 kg object in the lab and measuring a gravitational force with magnitude 7.8 N acting on the object.  What is the magnitude of the gravitational field your friend has created?</p>
+			<p>Your friend claims they have a gravitational field generator that can create a gravitational field throughout their physics lab.  
+			You decide to test it by placing a <m>12 \mathrm{~kg}</m> object in the lab and measuring a gravitational force with 
+			magnitude <m>7.8 \mathrm{~N}</m> acting on the object.  
+			What is the magnitude of the gravitational field your friend has created?</p>
 			</statement>
 			<answer>
-			<m>0.65 \mathrm{~N/kg}</m>
+			<p><m>0.65 \mathrm{~N/kg}</m></p>
 			</answer>
 			</exercise>
 		</exercises>

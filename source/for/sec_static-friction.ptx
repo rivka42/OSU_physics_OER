@@ -14,9 +14,6 @@
 			
 		</p>
 		<p>The maximum magnitude of any <term>static friction</term> force is related to the corresponding normal force<me>|\vec{F}^{sf}_{12}| \leq \mu_s |\vec{F}^{N}_{12}|</me>  The static friction will act in a direction that opposes the attempted relative motion of the objects involved.</p>
-	<p>
-		
-	</p>
 	</statement>
 </definition>
 
@@ -41,14 +38,14 @@
 			<p>
 				
 			</p>
-			  <p>A small car might have a mass of around <m>1000 \mathrm{~kg}</m>, and the coefficient of static friction between the tires and the road is about 0.9. What is the largest possible force that static friction can exert on this car? (in N)</p>
+			  <p>A small car might have a mass of around <m>1000 \mathrm{~kg}</m>, and the coefficient of static friction between the tires and the road is about <m>0.9</m>. What is the largest possible force that static friction can exert on this car?</p>
 			</exercise>
 			<exercise>
 			<title>Smallest</title>
 			<p>
 				
 			</p>
-			  <p>A small car might have a mass of around <m>1000 \mathrm{~kg}</m>, and the coefficient of static friction between the tires and the road is about 0.9.  What is the smallest possible force that static friction can exert on this car? (in N)</p>
+			  <p>A small car might have a mass of around <m>1000 \mathrm{~kg}</m>, and the coefficient of static friction between the tires and the road is about <m>0.9</m>.  What is the smallest possible force that static friction can exert on this car?</p>
 			</exercise>
 			<exercise>
 			<title>Largest and Smallest</title>

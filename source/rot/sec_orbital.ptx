@@ -30,7 +30,7 @@
 
 	<principle>
 	<title>Law of Orbital Periods (Kepler's Third Law)</title>
-	<statement>
+	<statement><p></p>
 		<p>The period of an orbit <m>T</m> is related to the semi-major axis<fn>for a circular orbit, this is equal to the radius</fn> of the orbit <m>a</m> by <me>a^3 = \frac{GM}{(2\pi)^2}T^2</me> where <m>G</m> is the universal gravitational constant and <m>M</m> is the mass of the object that is being orbited.  This law assumes that the mass of the orbiting object is much smaller than the mass of the object being orbited.</p>
 	</statement>
 </principle>

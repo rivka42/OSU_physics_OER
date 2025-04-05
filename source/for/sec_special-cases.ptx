@@ -14,7 +14,7 @@
 	</statement>
 </heuristic>
 
-<p>When you use Special-case Analysis, continue to follow the sensemaking steps you saw in <xref ref="fig_sensemaking"/>.  
+<p>When you use Special-case Analysis, continue to follow the <xref ref="fig_sensemaking"/>.  
 Some particular things to keep in mind are listed below.</p>
 
 <ul>
@@ -62,13 +62,13 @@ Some particular things to keep in mind are listed below.</p>
 				The gymnast is currently suspended at rest. The mass of the gymnast is <m>75 \mathrm{~kg}</m>.  
 				Your goal is to find the tension in each rope.
 				</p>
-				</statement>
 				<figure xml:id="for_x-gymnast1">
 			<title>Gymnast Figure</title>
 		 <caption>A gymnast suspended by two ropes.</caption>
 		<image source="Gymnast.png" width = "30%">
 			<description></description></image>
   </figure>
+			
   <p><alert>1. Analyze and Represent</alert></p>
 		
 		<p>
@@ -137,6 +137,7 @@ Some particular things to keep in mind are listed below.</p>
 				</li>
 			</ol>
 			</p>
+			</statement>
 			</exercise>
 		</exercises>
 

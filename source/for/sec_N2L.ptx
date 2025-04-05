@@ -40,8 +40,15 @@
 			</exercise>
 			<exercise xml:id="x_force-units">
 			<title>Sensemaking - Units of Force</title>
+			<statement>
 			<p></p>
 			  <p>Using what you learned above, how would you write the units of a force (newtons) in terms of other units you are familiar with? </p>
+			</statement>
+			<answer>
+				<p>
+					<m>\mathrm{\frac{kg m}{s^2}}</m>
+				</p>
+			</answer>
 			</exercise>
 
 				<exercise  xml:id="x_three-cars">

@@ -15,7 +15,7 @@
 
 	<exploration xml:id="psa_rot-alpha3">
 		<title>Torque</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				A force is applied on a lever arm <m>1 \mathrm{~m}</m> away from the pivot point, and it produces torque. How much force would have to be applied to produce the same amount of torque if it were applied <m>4 \mathrm{~m}</m> from the pivot point? Assume that both forces are applied perpendicularly to the lever arm.
 			</p>
@@ -38,7 +38,7 @@
 
 	<exploration xml:id="psa_rot-alpha4">
 		<title>See-Saw</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Two children of different weights are riding a seesaw. How do they position themselves with respect to the pivot point (the fulcrum) so that they are balanced?
 			</p>
@@ -61,7 +61,7 @@
 
 	<exploration xml:id="psa_rot-alpha6">
 		<title>Angular Acceleration</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				A uniform, solid disk with a mass of <m>24.3 \mathrm{~kg}</m> and a radius of <m>0.314 \mathrm{~m}</m> is oriented vertically and is free to rotate about a frictionless axle. Forces of <m>90 \mathrm{~N}</m> and <m>125 \mathrm{~N}</m> are applied to the disk in the same horizontal direction, but one force is applied to the top and the other is applied to the bottom. What is the magnitude of the angular acceleration of the disk?
 			</p>

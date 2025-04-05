@@ -9,7 +9,7 @@
 	
 	<definition xml:id="def_center-of-mass">
 	<title>Center of Mass</title>
-	<statement>
+	<statement><p></p>
 		<p>The single location where you may consider an extended object to be located is known as the <term>center of mass</term>.  It can be calculated as the average position of all parts of the object weighted by the mass at that position: <me>\vec{r}_{cm} = \frac{1}{M} \sum_{i} \vec{r}_i m_i</me> for a set of discrete objects and <me>\vec{r}_{cm} = \frac{1}{M} \int \vec{r} dm</me> for a continuous object.</p>
 	</statement>
 </definition>
@@ -24,11 +24,13 @@
   </figure>
 				<exercise xml:id="x_two-blocks">
 			<title>Calculate - Two Blocks</title>
+			<p></p>
 			  <p>Find the center of mass of the system of two cubes, assuming they are made of the same uniform material.  Make sure to specify your origin!  Why do you not need to integrate?</p>
 			</exercise>
 			<exercisegroup>
 			<title>Calculate - The Board</title> 
 			<introduction>
+			<p></p>
 		<p> You want to find the center of mass of a board that has a length of 2.5 m and a total mass of 7.5 kg.</p>
 		</introduction>
 		<exercise>
