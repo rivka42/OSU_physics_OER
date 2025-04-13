@@ -29,7 +29,7 @@
 		<example>
 	<title>Walking Toward an Airplane</title>
 	<p>You are stationary on the ground, watching as a person walks past you traveling east at <m>\vec{v}_{p,g} = +5 \hat{x} \mathrm{~km/hr}</m> toward the front of an airplane which is traveling west at <m>\vec{v}_{a,g} = -150 \hat{x} \mathrm{~km/hr}</m>.  The first subscript (<m>p</m> and <m>a</m>) represents the object, while the second (<m>g</m>) indicates that these velocities are given relative to <alert>the ground's</alert> reference frame.  Since this also happens to be your reference frame, your velocity is <m>\vec{v}_{y,g} = 0 \mathrm{~km/hr}</m>.</p>
-<p>From the walking person's perspective, you are traveling with velocity <m>\vec{v}_{y,p} = \vec{v}_{y,g} - \vec{v}_{p,g} = -5 \hat{x} \mathrm{~km/hr}</m>, while the airplane is traveling with velocity <m>\vec{v}_{a,p} = \vec{v}_{a,g} - \vec{v}_{p,g} = -145 \hat{x} \mathrm{~km/hr}.</m></p>
+<p>From the walking person's perspective, you are traveling with velocity <m>\vec{v}_{y,p} = \vec{v}_{y,g} - \vec{v}_{p,g} = -5 \hat{x} \mathrm{~km/hr}</m>, while the airplane is traveling with velocity <m>\vec{v}_{a,p} = \vec{v}_{a,g} - \vec{v}_{p,g} = -155 \hat{x} \mathrm{~km/hr}.</m></p>
 	
 	<p>See if you can determine your velocity and the walking person's velocity relative to the airplane!</p>
 	</example>

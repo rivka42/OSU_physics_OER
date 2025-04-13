@@ -14,7 +14,7 @@
 	<title>Explanation Tasks</title>
 	
 	  <investigation xml:id="psa_for-05">
-        <title>Three Cars - Metacognition</title>
+        <title>Three Cars - Redux</title>
 		<statement>
 		<p></p>
 		    <p>Recall <xref ref = "x_three-cars"></xref>. Answer this question again. As part of your explanation, discuss how your answer, your reasoning, or your understanding has changed since you first thought about this task.</p>
@@ -70,8 +70,8 @@
 		</statement>
 	</activity>
 
-	<p>For each A*R*C*S activity, you are expected to complete <alert>all</alert> of the <xref ref="fig_realworld"/>.  
-	For your first several A*R*C*S activities, the tips include several helper pointers.
+	<p>For each A*R*C*S activity, you are expected to complete and label <alert>all</alert> of the <xref ref="fig_realworld"/>.  
+	For your first several A*R*C*S activities, the tips include several helper pointers.  A simple example is provided in <xref ref="ex_park-arcs"/>.
 	</p>
 	
 		  
@@ -117,6 +117,11 @@
 	<biblio xml:id="ref_tug-of-war">
 	<p>Tug of War image inspired by teamwork by Lucas Helle from <a href="https://thenounproject.com/browse/icons/term/teamwork/" target="_blank" title="teamwork Icons">Noun Project</a> (CC BY 3.0)
 </p>
+	</biblio>
+	<biblio>
+	<p>
+		<q>The Angled Block</q> activity adapted from Tutorials in Introductory Physics.
+	</p>
 	</biblio>
 </references>
 	

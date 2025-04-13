@@ -23,7 +23,10 @@
 	<title>Mass</title>
 	<statement>
 		<p></p>
-	<p>The <term>mass</term> of an object, typically represented by <m>m</m>, is the capacity of that object to resist changes to its motion<fn>as you will see in the next section, mass can be operationally defined as the amount of net force per acceleration required to speed up or slow down the object</fn>.</p>
+	<p>The <term>mass</term> of an object, typically represented by <m>m</m>, 
+	is the capacity of that object to resist changes to its motion
+	<fn>as you will see in the next section, mass can be operationally defined as the amount of 
+	net force per acceleration required to speed up or slow down the object</fn>.  The SI unit for mass is the kilogram (kg).</p>
 		</statement>
 	</definition>
 	

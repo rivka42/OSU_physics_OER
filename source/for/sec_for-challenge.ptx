@@ -71,7 +71,7 @@
 				<p>
 					
 				</p>
-			<p>Suppose the skydiver throws an object downward so that the object's speed is greater than the terminal velocity, with respect to the ground. In this situation, the acceleration of the object will be <em>upward</em>. Draw and label a free-body diagram for the object. Rank the magnitudes of all forces on the object.</p>
+			<p>Suppose the skydiver throws an object downward so that the object's speed is greater than the terminal velocity, with respect to the ground. In this situation, the acceleration of the object will be <em>upward</em>. Draw and label a free-body diagram for the object. Rank the magnitudes of all forces on the skydiver.</p>
 			</statement>
 			</task>
 		</statement>
@@ -114,12 +114,14 @@
 	</project>
 
 	<project xml:id="pa_for-02">
-        <title>Water Slide</title>
+        <title>The Water Slide</title>
 		<statement>
 			<p>
 				
 			</p>
-		    <p>You slide down a water slide of length <m>L</m> that makes an angle <m>\theta</m> with the horizontal, starting from rest. Do not neglect friction (use <m>\mu_k</m> as the coefficient of kinetic friction). Determine the amount of time it takes you to reach the bottom of the slide.</p>
+		    <p>You go down a water slide of length <m>L</m> that makes an angle <m>\theta</m> with the horizontal, 
+			starting from rest. Do not neglect friction (use <m>\mu_k</m> as the coefficient of kinetic friction). 
+			Determine your acceleration.</p>
 		</statement>
 		<hint>
 		    <p>To make sense of your answer, use special-case analysis in the case that friction can be neglected.</p>

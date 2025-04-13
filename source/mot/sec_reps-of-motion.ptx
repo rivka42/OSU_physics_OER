@@ -358,10 +358,11 @@
 			</p>
 			</task>
 			<task>
-			<title>Calculation</title>
+			<title>Calculations</title>
 			<statement>
 				<p></p>
-			<p>Determine the average velocity of the tennis ball during this time interval.</p>
+			<p>Calculate (1) the average velocity of the tennis ball during this time interval and (2) the change in velocity 
+			of the tennis ball over this time interval.</p>
 			</statement>
 			<hint>
 			<p>Recall the <xref ref="fig_calculation"></xref>.</p>
@@ -371,7 +372,7 @@
 			<title>Sensemaking</title>
 			<statement>
 				<p></p>
-			  <p>Average velocity is a vector quantity.  Show that it is a vector with a reasonable direction.</p>
+			  <p>Average velocity and change in velocity are both vectors.  Show that they are vectors with reasonable directions.</p>
 				</statement>
 			</task>
 					</activity>

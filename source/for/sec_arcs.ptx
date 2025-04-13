@@ -27,7 +27,141 @@
 			<description></description></image>
   </figure>	
 	
-	<p>Below is an example of using all the A*R*C*S steps.</p>
+	<example xml:id="ex_park-arcs">
+	<title>A*R*C*S Example: Rectangular Park II</title>
+	<p>
+	     You manage parks for Corvallis, and you are responsible for putting up fences around two new parks that have the same area.  
+		 Park 1 is a square, while park 2 is a rectangle whose length is <m>110 \mathrm{~m}</m>.  
+		 If park 2 requires twice as much fencing as park 1, what is the area of each park?
+	</p>
+
+
+	
+<p><alert>1. Analyze and Represent</alert></p>
+		
+		<p>
+			<ol marker="a">
+				<li>
+					<p>
+						<alert>List quantities.</alert>  The only known here is <m>l = 110 \mathrm{~m}</m>, the length of the rectangular park.  
+						There are many unknowns: <m>s</m> (the side length of the square park), <m>w</m> (the width of the rectangle), 
+						<m>P_{square}</m>, <m>A_{rectangle}</m>, and <m>P_{rectangle}</m>, and <m>A_{square}</m> (which we are trying to find).
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Identify assumptions.</alert>  There is no physics in this activity, but the problem stated that the parks are rectangular, 
+						which is probably a simplification given that real parks are often strange shapes.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Represent the situation physically.</alert>  Below is a diagram of the square and the rectangle, with all distances labeled.
+					</p>
+				</li>
+			</ol>
+
+			<figure xml:id="fig_park-arcs">
+		<title>Two Parks Figure</title>
+		 <caption>A rectangular park and a square park.</caption>
+		<image source="park-area-2.png" width = "60%">
+			<description></description></image>
+  </figure>	
+
+			</p>
+		
+		<p><alert>2. Calculate</alert></p>
+		
+		<p>
+			<ol marker="a">
+				<li>
+					<p>
+						<alert>Represent principles symbolically.</alert> 
+						The area of a square is <m>A_{square} = s^2</m> and the perimeter (the length of the fence) is <m>P_{square} = 4s</m>.  
+						The area of a rectangle is <m>A_{rectangle} = lw</m> and the perimeter (the length of the fence) is <m>P_{rectangle} = 2l + 2w</m>.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Solve unknown(s) symbolically.</alert>  
+						Start by setting the two areas equal and relating the perimeters 
+						<me>A_{square} = A_{rectangle}</me>
+						<me>s^2 = lw</me>
+						<me>P_{rectangle} = 2P_{square}</me>
+						<me>2l + 2w = 8s</me>
+						Combine these expressions algebraically by solving the first equation for <m>w</m> 
+						and plugging it into the second equation:
+						<me>w = s^2/l</me>
+						<me>2l + 2s^2/l = 8s</me>
+						<me>s^2 - 4sl + l^2 = 0</me>		
+						Use the quadratic formula to solve this last equation for <m>s</m>, then square <m>s</m> 
+						to get the area of the square!
+						<me>s = \frac{4l \pm \sqrt{16l^2 - 4l^2}}{2} = \left(2 \pm \sqrt{3}\right)l</me>
+						<me>A = s^2 = \left(7 \pm 4\sqrt{3}\right)l^2</me>
+
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Plug in numerical values.</alert>
+						The two possible approximate values for <m>A</m> are <m>13.9l^2 \approx 168190 \mathrm{~m^2}</m> 
+						or <m>0.07l^2 \approx 847 \mathrm{~m^2}</m>.
+					</p>
+				</li>
+			</ol>
+			</p>
+	
+		<p><alert>3. Sensemake</alert></p>
+		
+		<p>
+			<ol marker="a">
+				<li>
+					<p>
+						<alert>Are the units correct?</alert>  
+						The units for area should be <m>\mathrm{m^2}</m>.  
+						Each factor of <m>l</m> in our answer has units of <m>\mathrm{m}</m>, so squaring it gives <m>\mathrm{m^2}</m>, which is what we expect!
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Is your numerical answer reasonable?</alert>  
+						Something a little weird happened.  You got <em>two</em>> numbers.  What does that mean?  
+						In this case you were told that the length of the park was <m>l</m>, 
+						but you were not told whether the length was bigger or smaller than the width!  
+						The two cases correspond to those two possibilities.  
+						The units <m>\mathrm{m^2}</m> are not great for making sense of something as big as a park, 
+						so you can look up how many <m>\mathrm{m^2}</m> are in an acre (4047), 
+						which is a more reasonable measure of land area for a park.  
+						This gives us 41.6 acres (this would be a pretty big park!) and 0.2 acres (on the other hand, very small).
+					</p>
+				</li>
+				<li>
+					<p>
+							<alert>Does your symbolic answer make physical sense?</alert>  
+							A quick way to check if our answer makes sense is to evaluate how it depends on the given quantities.  
+							In our case, the area varies like <m>l^2</m>.  
+							First of all, it depends on the square of <m>l</m>, 
+							which is something you have seen before in many other expressions for area, 
+							such as for squares, circles, polygons, etc.  
+							More specifically, this means that increasing <m>l</m> (making the given parameter bigger) 
+							corresponds to an increase in the area.  Lastly, we can check special values of <m>l</m> 
+							and see what your answer is.  The most special value of <m>l</m> is <m>l = 0</m>, 
+							which corresponds to no park at all!  
+							In this case, the area of the park should of course be 0, 
+							which is what your symbolic answer says as well: <me>A = s^2 = \left(7 \pm 4\sqrt{3}\right) 0^2 = 0 </me>
+
+					</p>
+				</li>
+			</ol>
+			</p>
+	
+</example>
+
+
+
+
+
+
 	
 	<exercises>
 		
@@ -36,13 +170,13 @@
 		
 		<p></p>
 		
-		    <p>A small, heavy brick of mass <m>40 \mathrm{~kg}</m> is positioned against a horizontal metal railing. 
-You pull on the rope at the <m>60^o</m> angle shown so that the acceleration of the brick is <m>1.5 \mathrm{~m/s^2}</m> to the left. 
+		    <p>A small brick of mass <m>0.8 \mathrm{~kg}</m> is positioned against a horizontal wooden railing. 
+You pull on the rope at the <m>60^o</m> angle shown so that the acceleration of the brick is <m>2 \mathrm{~m/s^2}</m> to the left. 
 Find the magnitudes of all forces on the brick.</p>
 		
 			<figure xml:id="for_brick-pull">
 			<title>Brick Figure</title>
-		 <caption>A brick is pulled against a metal railing.</caption>
+		 <caption>A brick is pulled against a wooden railing.</caption>
 		<image source="BrickPull.png" width = "50%">
 			<description></description></image>
   </figure>
@@ -76,7 +210,7 @@ Find the magnitudes of all forces on the brick.</p>
 			<ol marker="a">
 				<li>
 					<p>
-						Identify relevant laws that will help you solve for the tensions.
+						Represent physics principles that will help you solve for the tensions.
 					</p>
 				</li>
 				<li>
@@ -167,7 +301,7 @@ Assume the gravitational force on the block points downward with a magnitude equ
 			<ol marker="a">
 				<li>
 					<p>
-						Identify relevant laws that will help you solve for the forces.
+						Represent physics principles that will help you solve for the forces.
 					</p>
 				</li>
 				<li>

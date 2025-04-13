@@ -97,7 +97,7 @@
 </exploration>
 
 <exploration xml:id="ex_Box-Ramp_System_Spring_Constant">
-<title>Box-Ramp System Spring Constant</title>
+<title>The Block, the Spring, and the Ramp</title>
 <!-- Problem A.P.88-->
 <!-- https://openstax.org/books/university-physics-volume-1/pages/5-additional-problems-->
   <introduction>
@@ -115,14 +115,11 @@
   
   
 
-  <task>
-    <statement>
-      <p></p>
+
 		<p>
       What is the spring constant of the spring?
 	  </p>
-    </statement>
-  </task>
+
 <!-- NOTE: OpenStax uses "force constant" I put "spring constant" since that is what I've heard-->
 <!-- NOTE: I've tried attatching the figure, but I can't seem to get it to work with all the ways I've tried-->
 </exploration>
