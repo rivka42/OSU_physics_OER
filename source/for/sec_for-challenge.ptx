@@ -100,7 +100,10 @@
         <title>The Gymnast II</title>
 		<statement>
 		<p></p>
-		    <p>A gymnast is training by hanging from two ropes attached to the ceiling, as shown in the figure. The angles <m>\theta</m> and <m>\alpha</m> are different.  The gravitational force on the gymnast is 750 N downward.  Determine the magnitude of the tension in each rope.</p>
+		    <p>A gymnast is training by hanging from two ropes attached to the ceiling, as shown in the figure. 
+				The angles <m>\theta</m> and <m>\alpha</m> are different.  
+				The mass of the gymnast is <m>75 \mathrm{~kg}</m>.  
+				Determine the magnitude of the tension in each rope.</p>
 				<figure xml:id="for_x-athlete">
 			<title>Gymnast Figure</title>
 		 <caption>A gymnast suspended by two ropes.</caption>

@@ -59,7 +59,7 @@ Similarly, to subtract vectors algebraically, you subtract like components.
 		<p>Use the following two vectors for these activities: <m>\vec{A}=-5\hat{x}-\hat{y}</m> and <m>\vec{B}=-2\hat{x}+3\hat{y} </m> </p>
 				<exercise xml:id="x_vector-operations">
 		<statement>
-		<p>Find <m>-\vec{B}/5</m>.</p>
+		<p>Find <m>-\vec{A}/5</m>.</p>
 		</statement>
 		<answer>
 		<p><m>-\vec{B}/5 = \hat{x}+\frac{1}{5}\hat{y}</m></p>
