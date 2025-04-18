@@ -210,7 +210,7 @@ Find the magnitudes of all forces on the brick.</p>
 			<ol marker="a">
 				<li>
 					<p>
-						Represent physics principles that will help you solve for the tensions.
+						Represent physics principles that will help you solve for the unknown quantities.
 					</p>
 				</li>
 				<li>
@@ -258,9 +258,9 @@ Find the magnitudes of all forces on the brick.</p>
 		
 		<p></p>
 		
-		    <p>You are pulling a small, heavy block across an icy lake.  
-You pull on the rope at the angle shown in such a way that the normal force on the block by the ice is zero and the acceleration of the block is <m>2.4 \mathrm{~m/s^2}</m> to the left. 
-Find the magnitude of the tension and the mass of the block.  
+		    <p>You are pulling a small, heavy block of mass <m>40 \mathrm{~kg}</m> across an icy lake.  
+You pull on the rope at the angle shown in such a way that the normal force on the block by the ice is zero. 
+Find the magnitude of the tension and the magnitude of the acceleration.  
 Assume the gravitational force on the block points downward with a magnitude equal to <m>mg</m>, where <m>m</m> is the block's mass and <m>g = 10 \mathrm{~m/s^2}</m>.</p>
 		
 		
@@ -301,7 +301,7 @@ Assume the gravitational force on the block points downward with a magnitude equ
 			<ol marker="a">
 				<li>
 					<p>
-						Represent physics principles that will help you solve for the forces.
+						Represent physics principles that will help you solve for the tension and the acceleration.
 					</p>
 				</li>
 				<li>
@@ -334,7 +334,7 @@ Assume the gravitational force on the block points downward with a magnitude equ
 				</li>
 				<li>
 					<p>
-						Use covariational reasoning: how should your symbolic equations depend on <m>a</m>, and <m>\theta</m>?
+						Use covariational reasoning: how should your symbolic equations depend on <m>m</m> and <m>\theta</m>?
 					</p>
 				</li>
 			</ol>
