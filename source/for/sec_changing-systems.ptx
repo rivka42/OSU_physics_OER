@@ -10,14 +10,14 @@
 
 
 	<exercises>
-	<title>Activity: From a Certain Point of View</title>
+	<title>Activity: Point of View</title>
 			<exercise xml:id="x_point-of-view">
 			<introduction>
 			  <p>
 			  </p>
 			  <p>
 					The figure below shows a green mentor perched on the shoulders of his orange trainee.  
-					An external Force (not shown) acts on the trainee, causing both him and his mentor to accelerate upwards.
+					An external Force (not shown) acts on the trainee, causing him and his mentor to move upwards together at constant speed.
 			  </p>
 			  <figure xml:id="fig_point-of-view">
 			<title>Point of View Figure</title>
@@ -29,19 +29,74 @@
 
 			</introduction>
 			<task>
+				<title>Perspective 1: Separate Systems</title>
 				<statement>
 					<p>
 						Start by considering the mentor and his trainee as <em>separate systems</em>.  
 						Sketch a free-body diagram for each system.  
-						Explicitly identify any forces (across both diagrams) that have equal magnitude.
+						Explicitly identify any forces (across both diagrams) that have equal magnitude, and give a reason for each.
 					</p>
 				</statement>
 			</task>
 
+			<task>
+				<title>Perspective 2: A Single System</title>
+				<statement>
+					<p>
+						Now consider a <em>single system</em> consisting of both the mentor and his trainee.  
+						Sketch a free-body diagram for each system.
+					</p>
+				</statement>
+			</task>
 
+			<task>
+				<title>Changing Your Perspective</title>
+				<statement>
+					<p>
+						Examine your free-body diagrams from the two perspectives closely.  
+						Identify at least one force that appears on diagrams from multiple perspectives.  
+						Explain why this force appears in both perspectives.
+					</p>
+					<p>
+						Identify at least one force that appears only on a diagram from one perspective.   
+						Explain why this force does not appear in both perspectives.
+					</p>
+				</statement>
+			</task>
 
 			</exercise>
 	</exercises>
+
+	<note>
+		<title>Changing Systems</title>
+		<p>
+			Choosing a system is a tool for you to analyze part of the natural world: 
+			you can always choose any collection of objects as your system of interest.
+		</p>
+		<ul>
+			<li>
+				<p>
+					Different systems will have different forces!
+				</p>
+			</li>
+			<li>
+				<p>
+					Things that are internal do not act forces on the system.
+				</p>
+			</li>
+			<li>
+				<p>
+					Things that are external can act forces on the system.
+				</p>
+			</li>
+			<li>
+				<p>
+					The system you choose cannot change physical predictions about what happens to the world.
+				</p>
+			</li>
+		</ul>
+		
+	</note>
 
 <!-- 
 

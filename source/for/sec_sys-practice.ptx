@@ -11,21 +11,85 @@
 	-->
 
 	
-			<exercise>
-			<title>Explanation</title>
-			<p>
-				
-			</p>
-			  <p>Block A is accelerated across a frictionless horizontal table by a hanging 10 N weight. An identical block B is accelerated by a constant 10 N tension in a string.  Neglect friction in both cases.  Predict whether the magnitude of the acceleration of block B is greater than, less than, or equal to the magnitude of the acceleration of block A?  Explain your reasoning.</p>
-			</exercise>
+
 
 <subsection>
 <title>Practice</title>
 
+<investigation xml:id="psa_for-08">
+	<title>Two Books in an Elevator</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>The two books below are in an elevator that is moving downward.  
+			As the elevator approaches the ground floor, its speed decreases.  
+			Identify and rank all forces acting on the two books by magnitude, from largest to smallest.</p>
+			<figure xml:id="for_x-books">
+		<title>Books in an Elevator Figure</title>
+	 <caption>Two books in an elevator.</caption>
+	<image source="Stacked_Books.png" width = "30%">
+		<description></description></image>
+</figure>
+	</statement>
+	<hint>
+		<p>Free-body diagrams can be very helpful!  Your reasoning should specifically reference how you used Newton’s Laws.</p>
+	</hint>
+</investigation>
+
+	<project>
+		<title>The Action Movie Star and the Helicopter</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>
+				An action movie star is standing on a heavy industrial crate lifted upward by a helicopter.  
+				Assume you know all masses and the tension in the cable connected to the crate.  
+				Determine the acceleration of the crate and the movie star.
+			</p>
+		</statement>
+		<solution>
+			<video xml:id="for_vb-solving-forces2" youtube="iZTNDzuC7A4"><description>A refined strategy for using forces to solve physics problems.</description></video>
+		</solution>
+	</project>
+
+	<project xml:id="psa_for-04z">
+        <title>Stacked Blocks</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>The blocks below have different masses, <m>m_1</m> and <m>m_2</m>.  
+			   Each block is connected to a horizontal rope; 
+			   the upper rope is connected to the wall and the lower rope is being pulled to the right with known tension <m>T</m>.  
+			   All coefficients of kinetic friction <m>\mu_k</m> between all surfaces are equal and nonzero.  
+			   Determine the tension in the upper rope and the acceleration of the lower block.</p>
+			<figure xml:id="for_x-blocks-ropes">
+			<title>Blocks Figure</title>
+		 	<caption>Two blocks attached to ropes.</caption>
+			<image source="Blocks_Ropes.png" width = "50%">
+			<description></description></image>
+  			</figure>
+		</statement>
+	</project>
+
+
+
 	<exploration xml:id="psa_for-alpha8">
 		<title>Angled ramp with a pulley</title>
 		<statement>
-			<p>A box (<m>m_1 = 10.5 \mathrm{~kg}</m>) is on an inclined plane with negligible friction between the box and the incline.  This box is attached via an ideal string and pulley to the hanging mass (<m>m_1 = 5.5 \mathrm{~kg}</m>), as shown.  The incline make an angle of 20.0° with respect to the horizontal.  Use <m>g = 9.80 \mathrm{~m/s^2}</m>. Rank the magnitude of accelerations for <m>m_1</m> and <m>m_2</m>. Do we necessarily know the direction of acceleration of <m>m_1</m> without doing any calculations? Find the magnitude of acceleration for <m>m_1</m>. What direction is the acceleration of <m>m_1</m>? </p>
+			<p>
+				
+			</p>
+			<p>A box with <m>m_1 = 10.5 \mathrm{~kg}</m> is on an inclined plane with negligible friction 
+				between the box and the incline.  
+				This box is attached via an ideal string and pulley to a hanging mass with <m>m_1 = 5.5 \mathrm{~kg}</m>, 
+				as shown.  The incline make an angle of 20.0° with respect to the horizontal.  
+				Use <m>g = 9.80 \mathrm{~m/s^2}</m>. 
+				Rank the magnitude of accelerations for <m>m_1</m> and <m>m_2</m>. 
+				Do you necessarily know the direction of acceleration of <m>m_1</m> without doing any calculations? 
+				Find the magnitude of acceleration for <m>m_1</m>. What direction is the acceleration of <m>m_1</m>? </p>
 		<figure xml:id="fig_force-pulley-angle">
 			<title>Force Pulley Figure</title>
 			<caption></caption>

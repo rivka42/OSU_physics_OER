@@ -57,7 +57,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="232.77982"
+     inkscape:cx="54.992972"
      inkscape:cy="357.23712"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -65,7 +65,7 @@
      units="in"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
-     inkscape:window-x="-9"
+     inkscape:window-x="1911"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      fit-margin-top="0"
@@ -97,46 +97,46 @@
        x="-165.47803"
        y="78.05661" />
     <rect
-       style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:2.96813846;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect863-4"
-       width="46.771877"
-       height="118.91988"
-       x="-237.70421"
-       y="-128.15622"
+       style="fill:#d73f09;fill-opacity:1;stroke:#000000;stroke-width:3.52753401;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect863"
+       width="33.777534"
+       height="141.33235"
+       x="-266.72882"
+       y="-139.60493"
        ry="0"
        rx="0"
        transform="rotate(-90)" />
     <text
        xml:space="preserve"
-       style="font-size:21.9329319px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:1.17497861"
-       x="-99.994629"
-       y="218.01466"
-       id="text871-7"><tspan
+       style="font-size:32.61074066px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:1.74700391"
+       x="-115.33379"
+       y="260.88129"
+       id="text871"><tspan
+         sodipodi:role="line"
+         id="tspan869"
+         x="-115.33379"
+         y="260.88129"
+         style="fill:#ffffff;stroke-width:1.74700391">Book 1</tspan></text>
+    <rect
+       style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:3.52753401;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect863-7"
+       width="63.44445"
+       height="141.33235"
+       x="-229.77629"
+       y="-139.60493"
+       ry="0"
+       rx="0"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-size:32.61074066px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:1.74700391"
+       x="-115.33382"
+       y="208.96165"
+       id="text871-4"><tspan
          sodipodi:role="line"
          id="tspan869-1"
-         x="-99.994629"
-         y="218.01466"
-         style="stroke-width:1.17497861">Upper</tspan></text>
-    <rect
-       style="fill:#d73f09;fill-opacity:1;stroke:#000000;stroke-width:2.96813846;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect863-4-3"
-       width="28.421104"
-       height="118.91988"
-       x="-266.12531"
-       y="-128.15622"
-       ry="0"
-       rx="0"
-       transform="rotate(-90)" />
-    <text
-       xml:space="preserve"
-       style="font-size:21.9329319px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:1.17497861"
-       x="-100.18739"
-       y="259.35248"
-       id="text871-7-9"><tspan
-         sodipodi:role="line"
-         id="tspan869-1-0"
-         x="-100.18739"
-         y="259.35248"
-         style="stroke-width:1.17497861">Lower</tspan></text>
+         x="-115.33382"
+         y="208.96165"
+         style="fill:#ffffff;stroke-width:1.74700391">Book 2</tspan></text>
   </g>
 </svg>

@@ -1,34 +1,236 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_solving-forces2" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Force Analysis for Interacting Systems</title>
+  <title>Using Action-Reaction Pairs</title>
+
+  <exercises>
+	<title>Practice Activities</title>
+</exercises>
+
+<activity xml:id="class_book-stack">
+	<title>The Book Stack</title>
+<introduction>
+<p></p>
+    <p>
+      A stack of two books is at rest on table.
+    </p>
+		</introduction>
+
+		<figure xml:id="for_book-stack-0">
+			<title>Book Stack Figure</title>
+		  <caption>A stack of two books.</caption>
+      <image source="BookStack.png" width = "35%">
+			<description></description>
+			</image>
+		</figure>
+	<p>
+		Use <xref ref="force-analysis" text="title"/> to identify all Action-Reaction (Newton's 3rd Law) Pairs and identify any 
+		forces that are equal in magnitude.
+	</p>
+</activity>
 	
-      <video xml:id="for_vb-solving-forces2" youtube="iZTNDzuC7A4"><description>A refined strategy for using forces to solve physics problems.</description></video>
-  
+<activity xml:id="class_uhoh-dog">
+	<title>A*R*C*S: Uh-Oh Dr. Paws</title>
+<introduction>
+	<video xml:id="for_vb-dog-on-stool" youtube="zTqmp750d2E"><description>Dr. Paws is pushed across the floor.</description></video>
+    <p>
+		The instructor pushes a footstool (mass <m>m_1</m>) across the floor with a constant force so that the footstool speeds up.  
+		Dr. Paws (a dog with mass <m>m_2</m>) is sitting on the footstool.  
+		The coefficient of static friction between the dog and footstool is <m>\mu</m> (assume no friction with the ground).
+    </p>
 
-<p>Force analysis can be particularly powerful when you use it to examine interacting systems.  The steps below are very similar to what you saw in <xref ref="sec_solving-forces1"/>, but will help you account for multiple systems of interest.</p>
-
-<p><alert>Analyze and Represent:</alert> Identify all relevant systems and draw a Free-body Diagram for each.</p>
-
-<p><alert>Calculate:</alert> Is the acceleration of each system <m>0 \mathrm{~m/s^2}</m> (static or dynamic equilibrium) or not <m>0 \mathrm{~m/s^2}</m> (dynamics)?  In addition to the Law of Motion, use any action/reaction pairs between the interacting systems.</p>
-
-<p><alert>Sensemake:</alert> All the sensemaking strategies you have will work, but a new strategy called Special-case Analysis (see <xref ref="sec_special-cases"/>) can be especially useful.</p>
-
-  
-	<exercises>
-	<title>Activities</title>
-      <video xml:id="for_vb-dog-on-stool" youtube="zTqmp750d2E"><description>Dr. Paws is pushed across the floor.</description></video>
-			<exercise>
-			<title>A*R*C*S: Uh-Oh Dr. Paws</title>
-			<statement>
-			  <p>In the video, a footstool is pushed across the floor so that Dr. Paws and the footstool speed up together.  What is the maximum magnitude of the force the person could exert on the footstool before Dr. Paws begins sliding?</p>
-				</statement>
-				<hint>
-				What kind of friction acts on Dr. Paws before she begins to slide?
-				</hint>
-			</exercise>
-		</exercises>
+	<figure xml:id="fig_uhoh-dog">
+			<title>Dog on Footstool Figure</title>
+		  <caption>A simplified sketch of a dog on a footstool.</caption>
+      <image source="DogFootstool.png" width = "15%">
+			<description></description>
+			</image>
+    </figure>
+		</introduction>
 		
+	<p>
+		Determine how much force the instructor can exert on the footstool before the dog begins sliding.
+	</p>
+
+	<task>
+
+	<title>1. Analyze and Represent</title>
+		<statement>
+			<p>
+				In the example that follows, describe why the assumptions are reasonable, identify all Action-Reaction (Newton's 3rd Law) Pairs, 
+				and identify and fix the problems with the free-body diagrams.
+			</p>
+			<p>
+				<ol marker="a">
+					<li>
+						<p>
+							<alert>List quantities.</alert>
+						</p>
+						<p>
+							Mass of the footstool: <m>m_1 = 10 \mathrm{~kg}</m>
+						</p>
+						<p>
+							Mass of the dog: <m>m_2 = 30 \mathrm{~kg}</m>
+						</p>
+						<p>
+							Coefficient of static friction: <m>\mu = 0.4</m>
+						</p>
+						<p>
+							Instructor force: <m>F_i = ?</m>
+						</p>
+					</li>
+					<li>
+						<p>
+							<alert>Identify assumptions.</alert>  
+						</p>
+						<p>
+							Near-earth: <m>g = 10 \mathrm{~m/s^2}</m>; particle-model; neglect air-resistance; no friction with the ground.
+						</p>
+					</li>
+					<li>
+						<p>
+							<alert>Represent the situation physically.</alert>
+						</p>
+					</li>
+				</ol>
+	
+				<figure xml:id="fig_uhoh-fbds">
+			<title>Dog and Footstool FBDs</title>
+			 <caption>Two free-body diagrams.</caption>
+			<image source="uhoh-fbds.png" width = "80%">
+				<description></description></image>
+	  </figure>	
+	
+				</p>
+		</statement>
+	</task>
+	<task>
+		<title>3. Sensemake</title>
+		<statement>
+		<p>
+			You have three friends who each calculate a different equation for the maximum allowable force the instructor can apply: 
+			<me>
+				F_{SP}^N = \mu \frac{𝑚_1}{𝑚_1 + 𝑚_2}g
+			</me>
+			<me>
+				F_{SP}^N = \mu\left( 𝑚_2 - 𝑚_1 \right)g
+			</me>
+			<me>
+				F_{SP}^N = \mu \frac{𝑚_1 𝑚_2}{(𝑚_1 + 𝑚_2}g
+			</me>
+			
+			Use a sensemaking strategy to give a reason why each expression is <alert>incorrect</alert>.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<title>2. Calculate</title>
+		<statement>
+		<p>
+			<ol marker="a">
+				<li>
+					<p>
+						Represent physics principles that will help you solve for the tension and the acceleration.
+					</p>
+				</li>
+				<li>
+					<p>
+						Determine a symbolic equation for each unknown quantity in terms of known variables.
+					</p>
+				</li>
+				<li>
+					<p>
+						Plug numbers into your symbolic answer.
+					</p>
+				</li>
+			</ol>
+			</p>
+		</statement>
+		</task>
+	
+</activity>
+
+<activity xml:id="class_block-race">
+	<title>The Block Race</title>
+<introduction>
+<p></p>
+    <p>
+		Block A is accelerated across a frictionless table by a hanging <m>10 \mathrm{~N}</m> mass. 
+		An identical block B is accelerated by a constant <m>10 \mathrm{~N}</m> tension in the string.
+    </p>
+	<figure xml:id="fig_block-race">
+		<title>Block Race Figure</title>
+	  <caption>Two Blocks connected to strings.</caption>
+  <image source="BlocksRace.png" width = "100%">
+		<description></description>
+		</image>
+</figure>
+		</introduction>
+	<task>
+		<statement>
+			<p>
+				Before you begin, predict which block you think will have a larger acceleration.
+			</p>
+		</statement>
+	</task>
+	<task>
+	<p> 
+		Use <xref ref="force-analysis" text="title"/> to determine the acceleration of each block.  
+		Sketching free-body diagrams for each object is essential!
+	</p>
+	</task>	
+</activity>
+
+<activity xml:id="class_block-pair">
+	<title>The Pair of Blocks</title>
+		<statement>
+			<p></p>
+    <p>
+		Blocks A and B are connected by an ideal string via a massless pulley.  The coefficient of kinetic friction is <m>\mu</m>.
+    </p>
+	<figure xml:id="fig_block-pair">
+		<title>Pair of Blocks Figure</title>
+	  <caption>Two Blocks connected by a string over a pulley.</caption>
+  <image source="BlockPulleyFriction.png" width = "60%">
+		<description></description>
+		</image>
+</figure>
+			<p>
+				Use the <xref ref="fig_realworld"/> to determine the acceleration of each block.
+			</p>
+			<p>
+				This situation is a particularly good one for special-case analysis: what are some cases you might want to try?
+			</p>
+		</statement>
+
+</activity>
+
+<activity xml:id="class_pulley-pair">
+	<title>The Pair of Pulleys</title>
+		<statement>
+			<p></p>
+    <p>
+		Blocks A and B are connected by an ideal string via two massless pulleys.
+    </p>
+	<figure xml:id="fig_pulley-pair">
+		<title>Pair of Pulleys Figure</title>
+	  <caption>Two Blocks connected by a string to two pulleys.</caption>
+  <image source="BlockPulley2.png" width = "40%">
+		<description></description>
+		</image>
+</figure>
+			<p>
+				Use the <xref ref="fig_realworld"/> to determine the acceleration of each block.
+			</p>
+		</statement>
+		<hint>
+			<p>
+				The magnitudes of the block's accelerations are different.  How can you relate them?
+			</p>
+		</hint>
+</activity>
+
+
 
 	
 </section>
