@@ -43,6 +43,8 @@
     
     <!--CHALLENGE SECTIONS-->
 
+    <xi:include href="./wave/sec_wave-challenge.ptx" />
+
 
 
 
