@@ -84,9 +84,9 @@
 			</p>
 			<p>A box with <m>m_1 = 10.5 \mathrm{~kg}</m> is on an inclined plane with negligible friction 
 				between the box and the incline.  
-				This box is attached via an ideal string and pulley to a hanging mass with <m>m_1 = 5.5 \mathrm{~kg}</m>, 
-				as shown.  The incline make an angle of 20.0° with respect to the horizontal.  
-				Use <m>g = 9.80 \mathrm{~m/s^2}</m>. 
+				This box is attached via an ideal string and pulley to a hanging mass with <m>m_2 = 5.5 \mathrm{~kg}</m>, 
+				as shown.  The incline makes an angle of 20.0° with respect to the horizontal.  
+				Use <m>g = 10 \mathrm{~m/s^2}</m>. 
 				Rank the magnitude of accelerations for <m>m_1</m> and <m>m_2</m>. 
 				Do you necessarily know the direction of acceleration of <m>m_1</m> without doing any calculations? 
 				Find the magnitude of acceleration for <m>m_1</m>. What direction is the acceleration of <m>m_1</m>? </p>
@@ -103,10 +103,12 @@
 			<p><m>|\vec{a}_1| = |\vec{a}_2|</m></p>
 		</answer>
 		<answer>
-			<p>No, but we can just guess a direction.  For example, if we assume <m>m_1</m> accelerates up the ramp but our analysis results in a negative acceleration for <m>m_1</m>, that means we picked the wrong direction, but the magnitude of our result is correct. </p>
+			<p>No, but you can just guess a direction.  
+				For example, if you assume <m>m_1</m> accelerates up the ramp but our analysis results in a negative acceleration 
+				for <m>m_1</m>, that means you picked the wrong direction, but the magnitude of your result is correct. </p>
 		</answer>
 		<answer>
-			<p><m>1.17 \mathrm{~m/s^2}</m></p>
+			<p><m>1.19 \mathrm{~m/s^2}</m></p>
 		</answer>
 		<answer>
 			<p>Up the incline.</p>
