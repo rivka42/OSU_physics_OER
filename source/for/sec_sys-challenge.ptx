@@ -11,26 +11,25 @@
 	-->
 	
 		<subsection>
-	<title>Explanation Tasks</title>
+	<title>Explanation Task</title>
 		</subsection>
-		
-		
-		
-	
+			
 	<investigation xml:id="psa_for-04y">
         <title>Supported Block</title>
 		<statement>
 			<p>
 				
 			</p>
-		    <p>The two blocks in the figure are being pushed so that they move together with increasing speed and that block B does not move vertically.</p>
+		    <p>Two blocks with <m>m_1 \gt m_2</m> are being pushed so that they move together with increasing speed in such a way that 
+				block 2 does not move vertically.</p>
 				<figure xml:id="for_x-blocks">
 			<title>Blocks Figure</title>
 		 <caption>Two blocks moving together.</caption>
 		<image source="Supported_Block.png" width = "80%">
 			<description></description></image>
   </figure>
-				<p>Sketch a free-body diagram for each block and explicitly rank the magnitudes of the forces acting on each block.</p>
+				<p>Sketch a free-body diagram for each block and rank the magnitudes of all the <em>vertical</em> 
+					forces acting on the two blocks.</p>
 		</statement>
 		<!--
 		<hint>
@@ -49,7 +48,31 @@
 
 	
 
-
+	<project xml:id="psa_sys-wedges">
+        <title>The Pair of Wedges</title>
+		<statement>
+			<p>
+				
+			</p>
+		    <p>The figure shows two wedges with different masses, <m>m_1</m> and <m>m_2</m>, sitting on a table.  
+				Both the table and the surface between the wedges are frictionless.  
+				You push on one of the masses with an unknown constant force in such a way that the wedges move with the same constant acceleration to the right. 
+				Determine the magnitude of the unknown force and the magnitude of the acceleration.
+			</p>
+			<figure xml:id="for_wedges">
+			<title>Wedges Figure</title>
+				<caption>Two wedges pushed by a hand.</caption>
+			   	<image source="Wedges.png" width = "60%">
+				<description></description></image>
+		 	</figure>
+		</statement>
+		<hint>
+			<p>
+				The two wedges are accelerating <em>together</em>.  It can be especially useful to choose a reference frame in which 
+				the acceleration points along one of the axis directions.
+			</p>
+		</hint>
+	</project>
 
 	<project xml:id="psa_for-09">
         <title>Tilted Ramp</title>
@@ -66,7 +89,8 @@
 		 	</figure>
 		</statement>
 		<hint>
-		    <p>As part of your sensemaking, evaluate your answer in at least one special case, including a detailed explanation for what the answer should be for the case you chose.</p>
+		    <p>As part of your symbolic sensemaking (part 3c), evaluate your answer in at least one special case, 
+				including a detailed explanation for what the answer should be for the case you chose.</p>
 		</hint>
 	</project>
 

@@ -71,7 +71,9 @@
 				<p>
 					
 				</p>
-			<p>Suppose the skydiver throws an object downward so that the object's speed is greater than the terminal velocity, with respect to the ground. In this situation, the acceleration of the object will be <em>upward</em>. Draw and label a free-body diagram for the object. Rank the magnitudes of all forces on the skydiver.</p>
+			<p>Suppose the skydiver throws an object downward so that the object's speed is greater than the terminal velocity, 
+				with respect to the ground. In this situation, the acceleration of the object will be <em>upward</em>. 
+				Draw and label a free-body diagram for the object. Rank the magnitudes of all forces on the object.</p>
 			</statement>
 			</task>
 		</statement>
@@ -148,7 +150,7 @@
 			Determine your acceleration.</p>
 		</statement>
 		<hint>
-		    <p>To make sense of your answer, use special-case analysis in the case that friction can be neglected.</p>
+		    <p>For part 3c (symbolic sensemaking), use special-case analysis in the case that friction can be neglected.</p>
 		</hint>
 	</project>
 
