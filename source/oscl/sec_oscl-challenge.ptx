@@ -12,7 +12,29 @@
 
 
 <subsection>
-<title>Study</title>
+<title>Explanation Tasks</title>
+
+	<investigation xml:id="pa_oscl-02">
+		<title>Weighted Pendulum</title>
+		<statement>
+			<p>You can make an interesting pendulum by taking a very light, stiff, cylindrical object (like a paper towel roll) of length L and taping or gluing two small, heavy objects to the inside: mass <m>m_1</m> at an end and mass <m>m_2</m> exactly in the center. The end with nothing attached to it is then attached to the ceiling with a very short piece of string, and the pendulum is allowed to swing back and forth with amplitude A much smaller than <m>L</m>.</p>
+
+			<p>In case A, suppose that <m>m_1</m> > <m>m_2</m>, and in case B, suppose that <m>m_2</m> > <m>m_1</m>.  Will the period in case A be <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the period in case B?</p>
+		</statement>
+	</investigation>
+
+	<investigation xml:id="psa_oscl-01">
+		<title>Pendulum on a Tree</title>
+		<statement>
+		<p>You find a very tall tree one day and decide to measure the height of the tree using a pendulum. You tie a small rock to a rope that is also tied to a branch at the top of the tree, so that when the rope is vertical the rock is very close to the ground. You then release the rock from rest at an initial angle of 5°. You measure the amount of time it takes for the rock to return to your hand. Your friend performs the same experiment with a different tree, but uses a smaller initial angle of only 2.5°. Your friend measures the amount of time it takes for the rock to return to her hand to be half as big as the time you found. Is the height of your tree <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the height of your friend's tree?</p>
+		</statement>
+	</investigation>
+
+
+</subsection>
+
+<subsection>
+<title>A*R*C*S Activities</title>
 
 	<project xml:id="pa_oscl-01">
         <title>Ant on a String</title>
@@ -25,28 +47,6 @@
 		    <p>You may find it necessary to make an approximation in order to model the system as a simple harmonic oscillator!</p>
 		</hint>
 	</project>
-
-	<investigation xml:id="pa_oscl-02">
-		<title>Weighted Pendulum</title>
-		<statement>
-			<p>You can make an interesting pendulum by taking a very light, stiff, cylindrical object (like a paper towel roll) of length L and taping or gluing two small, heavy objects to the inside: mass <m>m_1</m> at an end and mass <m>m_2</m> exactly in the center. The end with nothing attached to it is then attached to the ceiling with a very short piece of string, and the pendulum is allowed to swing back and forth with amplitude A much smaller than <m>L</m>.</p>
-
-			<p>In case A, suppose that <m>m_1</m> > <m>m_2</m>, and in case B, suppose that <m>m_2</m> > <m>m_1</m>.  Will the period in case A be <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the period in case B?</p>
-		</statement>
-	</investigation>
-
-
-</subsection>
-
-<subsection>
-<title>Apply</title>
-
-	<investigation xml:id="psa_oscl-01">
-		<title>Pendulum on a Tree</title>
-		<statement>
-		<p>You find a very tall tree one day and decide to measure the height of the tree using a pendulum. You tie a small rock to a rope that is also tied to a branch at the top of the tree, so that when the rope is vertical the rock is very close to the ground. You then release the rock from rest at an initial angle of 5°. You measure the amount of time it takes for the rock to return to your hand. Your friend performs the same experiment with a different tree, but uses a smaller initial angle of only 2.5°. Your friend measures the amount of time it takes for the rock to return to her hand to be half as big as the time you found. Is the height of your tree <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the height of your friend's tree?</p>
-		</statement>
-	</investigation>
 
 	<project xml:id="psa_oscl-02">
         <title>Coin on a Block</title>

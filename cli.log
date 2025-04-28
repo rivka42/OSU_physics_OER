@@ -1,7 +1,19 @@
-INFO    : PreTeXt project found in `C:\Users\HP\OER`.
+INFO    : PreTeXt project found in `/home/drenniks/Documents/OSU/OER_book`.
 WARNING : Project's CLI version could not be detected from `requirements.txt`.
 WARNING : Try `pretext init --refresh` to produce a compatible file.
+<<<<<<< HEAD
 INFO    : No change in assets requiring generating detected.  To force regeneration of assets, use `-g` flag.
+=======
+INFO    : Now preparing local server to preview directory `/home/drenniks/Documents/OSU/OER_book/output/web`.
+INFO    :   (Reminder: use `pretext deploy` to deploy your built project to a public
+INFO    :   GitHub Pages site that can be shared with readers who cannot access your
+INFO    :   personal computer.)
+INFO    : 
+INFO    : Success! The most recent build of your project can be viewed in a web browser at the following url:
+INFO    :     http://localhost:8000
+INFO    : This page should open in a new tab automatically.
+INFO    : Use [Ctrl]+[C] to halt the server.
+>>>>>>> c10b645c7694af1b572f8c49288f6784d2f2cde4
 
 INFO    : Generating all assets in default formats as requested.
 INFO    : Note: PreTeXt will automatically generate assets that have been changed since your last build, so this option is no longer necessary unless something isn't happening as expected.
