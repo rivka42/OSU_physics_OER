@@ -31,6 +31,7 @@
 		</figure>
 		
 		<exercise xml:id="x_area-book">
+			<title>Area Vectors for a Book</title>
 			<p>Which direction is the area vector for the front cover of the book?  For the spine?  How many different area vectors do you need for the entire book?</p>
 		</exercise>
 		<exercise>

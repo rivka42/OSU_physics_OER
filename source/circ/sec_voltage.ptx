@@ -38,9 +38,11 @@
 </assumption>
 	
 		<exercise xml:id="x_voltage-predict">
+			<title>Voltage Prediction</title>
 			<p>How do you think the voltage across the light bulb compares to the voltage across the battery in the circuit from the end of the video?  Explain your reasoning.</p>
 		</exercise>
 		<exercise xml:id="x_voltage-sketch">
+			<title>Voltage Sketch</title>
 			<p>Pretend you are a little positive charge starting at the bottom left corner of the circuit from the end of the video. Sketch the voltage you experience as a function of time as you travel once around the circuit. Explain your reasoning behind your sketch.  You will refer to this sketch in the upcoming sections.</p>
 		</exercise>
 	</exercises>

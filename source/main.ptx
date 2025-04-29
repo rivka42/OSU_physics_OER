@@ -70,7 +70,13 @@
 		<xi:include href="./ch-n_18_physical-optics.ptx" />
 		<xi:include href="./ch-n_19_optics.ptx" />
 
+
+		<xi:include href="./ch_09_electricity.ptx" />
+		<xi:include href="./ch_10_circuits.ptx" />
+    	<xi:include href="./ch_11_magnetism.ptx" />
 		<xi:include href="./ch_00_prep.ptx" />
+
+		
 <!--
 -->
 
