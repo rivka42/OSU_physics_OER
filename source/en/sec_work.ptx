@@ -15,7 +15,9 @@
 			
 		</p>
 	<p>The <term>work</term> done by a single, constant force <m>\vec{F}</m> on an object moving from 
-	<m>\vec{r}_i</m> to <m>\vec{r}_f</m> is: <me>W = \vec{F} \cdot \Delta \vec{r}</me> </p>
+	<m>\vec{r}_i</m> to <m>\vec{r}_f</m> is: <me>W = \vec{F} \cdot \Delta \vec{r}</me> 
+		The SI unit for work is the joule (J).
+	</p>
 	</statement>
 	</definition>
 
@@ -186,6 +188,20 @@
 
 	<exercises>
 	<title>Activities</title>
+	<exercise>
+		<title>Sensemaking: Units</title>
+		<statement>
+		<p></p>
+		<p>
+			Write the units of work in terms other SI units with which you are familiar.
+		</p>
+	</statement>
+	<answer>
+		<p>
+			<m>\mathrm{Nm}</m> or <m>\mathrm{kgm^2/s^2}</m>
+		</p>
+	</answer>
+	</exercise>
 	
 	
 	<exercise xml:id="x_work-box">

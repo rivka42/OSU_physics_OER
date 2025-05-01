@@ -8,7 +8,15 @@
 				<lemma>
 			<title>Energy System Diagram</title>
 			<statement>
-				<p>An <term>Energy System Diagram</term> is a pictorial way to represent both the transfer of energy between systems and the transformation of energy within those systems.  Each system of interest is drawn as a large circle or oval labeled with a list of objects in the system.  Small boxes represent each form of energy within each system.  Arrows connecting the systems represent the transfer of energy between systems, while arrows between the boxes represent the transformation of energy from one form to another within a system.</p>
+				<p>
+					
+				</p>
+				<p>An <term>Energy System Diagram</term> is a pictorial way to represent both the transfer of energy between 
+					systems and the transformation of energy within those systems.  
+					Each system of interest is drawn as a large circle or oval labeled with a list of objects in the system.  
+					Small boxes represent each form of energy within each system.  
+					Arrows connecting the systems represent the transfer of energy between systems, 
+					while arrows between the boxes represent the transformation of energy from one form to another within a system.</p>
 			</statement>
 		</lemma>
 		

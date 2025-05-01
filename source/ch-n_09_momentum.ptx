@@ -39,6 +39,7 @@
 		<xi:include href="./en/sec_mom-practice.ptx" />
 		
 		<!--CHALLENGE SECTIONS-->
+		<xi:include href="./en/sec_2dp.ptx" />
 		<xi:include href="./en/sec_mom-challenge.ptx" />
 		
 		

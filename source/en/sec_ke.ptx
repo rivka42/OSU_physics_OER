@@ -9,7 +9,9 @@
 	<definition>
 	<title>Kinetic Energy</title>
 	<statement>
-	<p>The <term>translational kinetic energy</term> of an object is: <me>K_t = 1/2mv^2</me>  When you make the Particle Model <xref ref="a_particle"></xref> (that is, no rotational motion), all kinetic energy is translational, and it is often simply called <term>kinetic energy</term> and written <me>K = 1/2mv^2</me></p>
+		<p></p>
+	<p>The <term>translational kinetic energy</term> of an object is: <me>K_t = 1/2mv^2</me>  
+		When you assume <xref ref="a_particle"></xref> (that is, no rotational motion), all kinetic energy is translational, and it is often simply called <term>kinetic energy</term> and written <me>K = 1/2mv^2</me></p>
 	</statement>
 	</definition>
 
@@ -26,15 +28,19 @@
 <title>Kinetic Energy Activities</title>
 			<exercise xml:id="x_summarize-ke">
 			<title>Summarize What You Learned - Kinetic Energy</title>
+			<p></p>
 			  <p>Write a 1-2 sentence description of what the definition of kinetic energy says in words and why it makes sense given your everyday experience. </p>
 			</exercise>
 			<exercise>
 			<title>Sensemaking: Units</title>
-			  <p>Energy is measured in joules (J).  Use the definition of kinetic energy to write a joule in terms of other units you are familiar with.</p>
+			  <p>Energy is measured in joules (J).  
+				Use the definition of kinetic energy to write a joule in terms of other units you are familiar with.  
+			Does this agree with other definitions of the joule you have seen?</p>
 			</exercise>
 				<exercise>
 			<title>Extension: Systems with Multiple Objects</title>
 			<statement>
+				<p></p>
 			  			<p>Many systems include more than one object.  In general, the different objects could have different masses and different speeds.  How do you think you could find the kinetic energy for such a system?  Write an equation for the total kinetic energy.</p>
 							</statement>
 							<answer>
@@ -44,6 +50,7 @@
 			<exercise>
 			<title>Sensemaking: Numbers for a Car</title>
 			<statement>
+				<p></p>
 			  			<p>Estimate the kinetic energy of a car traveling down a highway at the speed limit.  Make sense of this number using <xref ref="sm_numbers"></xref>.</p>
 							</statement>
 							<answer>
@@ -53,6 +60,7 @@
 						<exercise>
 			<title>Explanation: Numbers for Two Cars</title>
 			<statement>
+				<p></p>
 			  			<p>Estimate the kinetic energy (in J) of a system consisting of two identical cars traveling toward each other, both traveling at the same speed.  Is your answer greater than, less than, or equal to the kinetic energy for a single car you found in the previous activity?  Explain why this makes sense.</p>
 							</statement>
 							<answer>

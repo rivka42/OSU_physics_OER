@@ -5,7 +5,7 @@
 
 		<p><alert>Introductory Activity:</alert> Start by writing 2-4 things you already know about energy, each as a single complete sentence.</p>
   
-	<!--OMITTED FOR BREVITY
+	<!--OMITTED FOR BREVITY 
 <p>
 Thus far you have been analyzing motion using the concepts of force and Newton's laws of motion. However, we will now consider an alternative approach in terms of <em>energy</em>. 
 </p>
@@ -20,6 +20,7 @@ Like many words used in physics, you probably use the word "energy" in your ever
 		<definition>
 	<title>Energy</title>
 	<statement>
+		<p></p>
 		<p>The <term>energy</term> of a system is a physical property measuring its ability to <em>exert forces</em> that can <em>impact the displacement</em> of other systems.  Energy is a scalar quantity measured in joules (J).</p>
 	</statement>
 </definition>
@@ -39,10 +40,11 @@ Energy comes in many types known as <term>forms</term>.  The primary forms you w
 Energy can be transferred from one system to another when those two systems interact with each other in certain ways.  When energy is transferred from one system to another, the total energy of one system will increase and the total energy of the other system will decrease by the same amount.  The primary means of energy transfer in physics are <alert>work</alert> (energy transfer associated with a force) and <alert>heat</alert> (energy transfer associated with a difference in temperature).  If a system is not interacting with anything external (or if all external energy transfers sum to zero), you can say that the total energy of the system is <term>conserved</term>, or constant in time.  If you were to choose a system consisting of everything in the universe, since there is nothing external to interact with the universe, you can say that the total energy in the universe should be conserved.
 </p>
 
-<aside>
+<note>
 <title>Conservation</title>
-<p>Conservation laws are powerful natural laws which describe which processes simply can or cannot occur.  Energy becomes especially valuable when you have systems of many objects interacting where a detailed consideration of all the forces may be difficult or impossible.</p>
-</aside>
+<p>Conservation laws are powerful natural laws which describe which processes simply can or cannot occur.  
+	Energy becomes especially valuable when you have systems of many objects interacting where a detailed consideration of all the forces may be difficult or impossible.</p>
+</note>
 
 <insight>
 <title>Origins of Energy as a Concept</title>
@@ -57,6 +59,7 @@ Historically, Aristotle of Stagira (384–322 BCE) in ancient Greece was the fir
 			<exercise xml:id="x_intro-energy-scalar">
 			<title>Sensemaking: Type of Quantity</title>
 			<statement>
+				<p></p>
 			  <p>In contrast to the many <em>vector</em> quantities you have studied, energy is a <em>scalar</em> quantity.  What is the primary difference between a vector quantity and a scalar quantity?</p>
 				</statement>
 				<answer>
@@ -65,14 +68,17 @@ Historically, Aristotle of Stagira (384–322 BCE) in ancient Greece was the fir
 			</exercise>
 			<exercise xml:id="x_intro-energy-forms">
 			<title>Exploration: Energy Forms for a Skier</title>
+			<p></p>
 			  <p>Just before you start skiing down a mountain, your system starts with a large amount of gravitational potential energy.  As you ski down the mountain, your system's gravitational potential energy <em>decreases</em>, transforming into other forms.  What other forms of your system's energy do you think are changing as you ski down the mountain?  Are they increasing or decreasing?  Do you expect any forms of energy to change in more than one way?</p>
 			</exercise>
 			<exercise xml:id="x_intro-energy-transfers">
 			<title>Practice: Energy Transfer</title>
+			<p></p>
 			<p>Suppose you have three systems: A, B, and C.  Each system begins with a total energy of <m>50 \mathrm{~J}</m>.  The systems then interact so that system A transfers <m>20 \mathrm{~J}</m> to system B and system B transfers <m>35 \mathrm{~J}</m> to system C.  Find the total energy of each system after the energy transfers.</p>
 			</exercise>
 									<exercise>
 			<title>Sensemaking: Unit Conversion</title>
+			<p></p>
 			  <p>Another common unit for energy is the kilocalorie (known colloquially as the Calorie).  Look up the number of joules in a kilocalorie.  How many joules are in a typical <m>2000</m> Calorie daily diet?</p>
 			</exercise>
 		</exercises>
