@@ -1,30 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_work2" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Chop-Multiply-Add: Work for Non-Constant Forces</title>
+  <title>Practice - Work</title>
 	
-    <p>
-     In <xref ref="sec_calc1"></xref>, you learned the Chop-Multiply-Add strategy for constructing physics integrals.  You can use this strategy to help find the work done by non-constant forces.
-    </p>
-			
-	<p><term>Chop:</term> Work involves multiplying force and displacement along some path traveled by an object.  You can start by chopping up the path into small steps.  Each step along the path is given by an infinitesimal vector displacement <m>\vec{dr}</m>.</p>
-	
-	<p><term>Multiply:</term> You can then multiply the force acting on the object by the displacement step above to get the infinitesimal amount of work done along only that step <m>dW = \vec{F} \cdot \vec{dr}</m>.</p>
-	
-		<p><term>Add:</term> Last, you <em>add</em> up all the infinitesimal works with an integral along the entire path: <me>W = \int_{i}^{f}\vec{F} \cdot \vec{dr}</me></p>
+  <exercises>
+	<title>Practice Activities</title>
+</exercises>
 
-	<exercises>
-	<title>Activities</title>
-			<exercise>
-			<statement>
-			  <p>You have a winch<fn>a machine that uses a rope to pull on another object</fn> that can be set to exert a changing force.  You decide to set your winch to produce the force <me>\vec{F}^{winch} = \frac{F_o}{L^2} (xL - x^2)\hat{x}</me> where <m>F_o</m> and <m>L</m> are constants and <m>x</m> is the position of the object being pulled.  Sketch a graph of this force vs. position and use it to find the work done by the winch between <m>x_i = 0</m> and <m>x_f = L</m>.</p>
-				</statement>
-				<answer>
-				<p><me>W_{winch} = \frac{F_o L}{6}</me></p>
-				</answer>
-			</exercise>
-			
-			</exercises>
+<activity xml:id="class_work-warmup">
+	<title>Work Warmup</title>
+	<p>
+		
+	</p>
+	<p>
+		You push a heavy box across the ground at constant speed, as shown in the free-body diagram below.  
+		Is the work done by each force positive, negative, or zero?
+	</p>
+	<figure xml:id="fig_warmup-fbd">
+		<title>Simple Free-body Diagram</title>
+	  <caption>A free-body diagram for a heavy box.</caption>
+  <image source="SimpleFBD.png" width = "60%">
+		<description></description>
+		</image>
+</figure>
+</activity>
+
+<activity xml:id="class_rev-crate-truck">
+	<title>Revisit: The Crate on Top of the Truck</title>
+	<p>
+		
+	</p>
+	<p>
+		Recall <xref ref="class_crate-truck"/>.
+	</p>
+	<p>
+		Draw a free-body diagram for the crate.  
+		Make a qualitative <xref ref="rep_work-table"/> indicating the direction of each force, the direction of the corresponding displacement, and the sign of the work done by each force
+	</p>
+	
+</activity>
+
+<activity xml:id="class_rev-brick-rail">
+	<title>Revisit: The Brick against the Railing</title>
+	<p>
+		
+	</p>
+	<p>
+		Recall <xref ref="class_brick-rail"/>.
+	</p>
+	<p> 
+		Assume you pull on the rope with tension <m>T</m> at the angle shown so the acceleration of the brick is to the left, 
+		causing the brick to slide a total distance <m>d</m>.
+		Draw a free-body diagram for the brick.  
+		Make a quantitative <xref ref="rep_work-table"/> indicating the direction of each force, the direction of the corresponding displacement, and the sign of the work done by each force
+	</p>
+	
+</activity>
+
+<activity xml:id="class_book-push">
+	<title>Pushing Books</title>
+	<p>
+		
+	</p>
+	<p>
+		Two books on the same frictionless surface are pushed toward each other; consider the system of both books.  
+		Assume each hand pushes with the same constant force <m>F^H</m> and that each book moves the same distance <m>d_b</m>.  
+		Draw a free-body diagram for the system.  
+		Make a quantitative Work Table indicating the direction of each force, the direction of the corresponding displacement, and the work done by each force
+	</p>
+	<figure xml:id="fig_book-push">
+		<title>Pushing Books Diagram</title>
+	  <caption>Two books being pushed toward each other.</caption>
+  <image source="BookPush.png" width = "100%">
+		<description></description>
+		</image>
+</figure>
+	
+</activity>
+
+<activity xml:id="class_work-tables">
+	<title>Work Tables</title>
+	<p>
+		
+	</p>
+	<p>
+		For each situation: (1) draw a free-body diagram, 
+		(2) make a qualitative Work Table to determine if the work done by each force is positive, negative, or zero, 
+		and (3) determine if the net work is positive, negative, or zero
+
+	</p>
+	<ol marker="a">
+		<li>
+			<p>
+				An elevator moves downward at constant speed (system = elevator).
+			</p>
+		</li>
+		<li>
+			<p>
+				A ball has been thrown and travels upward in a straight line (system = ball).
+			</p>
+		</li>
+		<li>
+			<p>
+				A sled slides to a stop while traveling up a rocky slope (system = sled).
+			</p>
+		</li>
+	</ol>
+</activity>
+
+<references>
+	<biblio>
+	<p>
+		<q>Pushing Blocks</q> activity adapted from Tutorials in Introductory Physics.
+	</p>
+	</biblio>
+</references>
 	
 </section>
 

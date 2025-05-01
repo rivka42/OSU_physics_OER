@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_constant-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Practice - Constant Acceleration</title>
+		
+  <exercises>
+	<title>Practice Activities</title>
+	  </exercises>
+		  
+	  <project xml:id="x_realworld-kinematics">
+		<title>Stopping a Car</title>
+		<statement>
+			<p>
+				
+			</p>
+		<p>You are driving a car on a residential street when a ball bounces in front of you and you slam on the brakes.  
+			How much time does it take for you to stop?  How much distance have you traveled in this time?</p>
+		</statement>
+		<!--
+		<hint>
+		<p><xref ref="x_practice-kinematics"></xref> for constant acceleration will probably be helpful!  You should also estimate a reasonable initial velocity for a car on a residential street and a reasonable acceleration for a car slamming on its brakes<fn>perhaps try searching "how fast can a car brake?"</fn>.</p>
+		</hint>
+		-->
+	</project>
+      
+	  <project xml:id="psa_mot-4">
+        <title>Pitching Speed</title>
+		<statement>
+			<p></p>
+		    <p>A baseball player wants to determine his pitching speed. You have him stand on a ledge and throw the ball horizontally from an elevation <m>5.0 \mathrm{~m}</m> above the ground.  The ball hits the ground <m>30 \mathrm{~m}</m> away.  What is his pitching speed?</p>
+		</statement>
+		<hint>
+		    <p>When making sense of your answer, you should often look to add something to your knowledge or confidence in your answer.</p>
+		</hint>
+		<!--
+		<solution>
+		    <p></p>
+		</solution>
+		-->
+	</project>
+
+	<investigation xml:id="psa_mot-5">
+        <title>Pitching in the Wind</title>
+		<statement>
+			<p></p>
+		    <p>The baseball player from the previous problem throws the baseball again with the same initial conditions as above.  This time, however, a strong wind causes the ball to experience a small backward horizontal acceleration throughout its motion.  Is the horizontal distance traveled by the ball before it hits the ground in this situation <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the original distance?</p>
+		</statement>
+		<hint>
+		    <p></p>
+		</hint>
+		<!--
+		<solution>
+		    <p></p>
+		</solution>
+		-->
+	</investigation>
+
+	<investigation xml:id="psa_mot-7">
+        <title>Ramp Race</title>
+		<statement>
+			<p></p>
+		    <p>You release a ball from rest at the top of a ramp and measure the amount of time for the ball to reach the base of the ramp.  Your friend performs the same experiment (with the same ball) with their ramp, which is the same length as your ramp.  Your friend determines that it took more time for the ball to reach the bottom of their ramp than it did for the ball to reach the bottom of your ramp.  Is the magnitude of the average acceleration of the ball for your friend’s ramp <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the average acceleration of the ball for your ramp?</p>
+		</statement>
+		<!--
+		<solution>
+		    <p></p>
+		</solution>
+		-->
+	</investigation>
+
+		
+	<project xml:id="psa_mot-12">
+        <title>Throwing at a Cliff</title>
+		<statement>
+			<p></p>
+		    <p>A ball is thrown toward a cliff of height <m>h</m> with a speed of <m>27 \mathrm{~m/s}</m> and an angle of <m>60^o</m> above the horizontal. It lands on the edge of the cliff <m>3.2 \mathrm{~s}</m> later.  How high is the cliff?</p>
+		</statement>
+		<hint>
+		    <p>When making sense of your answer, you should often look to add something to your knowledge or confidence in your answer.  Reiterating the process you used to solve the problem does not count!</p>
+		</hint>
+	</project>
+	
+			<investigation xml:id="psa_mot-13">
+        <title>Throwing It Back</title>
+		<statement>
+			<p></p>
+		    <p>In the previous activity, you considered a ball thrown up to the top of a cliff.  
+				Suppose you wanted to throw the ball back from the top of the cliff so that it took the same amount of time 
+				to travel to the place where it was originally thrown from.  Is it possible to do this?  
+				If so, how?  If not, why not?  (Note: you do not need to find any numbers: let your reasoning do the talking!)</p>
+		</statement>
+	</investigation>
+		
+
+	
+</section>
+

@@ -1,53 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_real-world-context" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>A*R*C*S</title>
+<section xml:id="sec_changing-a-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Practice - Non-constant Acceleration</title>
 		
-<p>At this point, you have learned a wide range of skills that you can apply to a physics context, including:</p>
-
-<ul>
-<li><p>Identifying assumptions, as shown in <xref ref="fig_assumptions"/></p></li>
-<li><p>Drawing graphs and other representations, such as <xref ref="rep_motion-graphs"/></p></li>
-<li><p>Calculating an unknown quantity, as shown in <xref ref="fig_calculation"/></p></li>
-<li><p>Checking units to make sense of an answer, as described in <xref ref="sec_units"/></p></li>
-<li><p>Making sense of a symbolic equation using covariation, as described in <xref ref="sec_covariation"/></p></li>
-</ul>
-
-<p>While each of these skills is useful on its own, they are most powerful when used <em>together</em> to help you examine complicated contexts that often draw on real-world experiences.  Throughout this text, big activities where you should carry out all of the steps above are labeled A*R*C*S: Analyze-Represent-Calculate-Sensemake.  The figure below shows all the individual steps to help you keep track of them.</p>
-
-<!--
-<p>
-A Real-world Context is a situation or problem with a real setting, where you attempt to answer specific questions about a situation that could occur in the real world by making assumptions and simplifications, applying relevant aspects of your physics knowledge to determine both symbolic and numerical answers, and lastly making sense of those answers to reevaluate your understanding of the situation.  Real-world Contexts are what you will spend the vast majority of your time in physics considering.  The figure below shows all the steps involved in approaching a Real-world Context.  It seems like a lot of steps, but remember that you have already practiced each step many times already.</p>
--->
-		
-		<!--
-  <figure xml:id="fig_realworld">
-		 <caption>Steps to follow when you consider a big activity using A*R*C*S.</caption>
-		<image source="RealworldSteps.png" width = "100%">
-			<description></description></image>
-  </figure>	
-	-->
-	
-	<p>Below is an example of using all the A*R*C*S steps.</p>
+  <exercises>
+	<title>Practice Activities</title>
+	  </exercises>
 	
 			<figure xml:id="mot_vb-rwc">
 		  <caption>An example of using the A*R*C*S steps.</caption>
       <video youtube="kJ9qrl0SrPI"></video>
     </figure>
 		
-	<exercises>
-	<title>Practice Activity</title>
-						<exercise xml:id="x_realworld-kinematics">
-			<title>A*R*C*S - Stopping a Car</title>
-			<statement>
-			<p>You are driving a car on a residential street when a ball bounces in front of you and you slam on the brakes.  How much time does it take for you to stop?  How much distance have you traveled in this time?</p>
-			</statement>
-			<hint>
-			<p><xref ref="x_practice-kinematics"></xref> for constant acceleration will probably be helpful!  You should also estimate a reasonable initial velocity for a car on a residential street and a reasonable acceleration for a car slamming on its brakes<fn>perhaps try searching "how fast can a car brake?"</fn>.</p>
-			</hint>
-			</exercise>
-			
-		</exercises>
+
+	<project xml:id="psa_mot-6">
+        <title>The Rolling Cylinder</title>
+		<statement>
+			<p></p>
+		    <p>A large cylinder rolls along flat, level ground. Because of substantial air resistance and varying amounts of friction, its speed decreases in a complicated way. 
+				Its speed as a function of time is <m>v = at^2 + bt + c</m>, where 
+				<m>a = -2.00 \mathrm{~m/s^3}</m>, <m>b = -2.00 \mathrm{~m/s^2}</m>, 
+				and <m>c =12.0 \mathrm{~m/s}</m>. How far does the cylinder move from <m>t = 0 \mathrm{~s}</m> until it comes to rest?</p>
+		</statement>
+		<hint>
+		    <p>For the physical representation (part 1b), draw and label a graph of velocity vs. time.</p>
+				<p>As part of your sensemaking (part 3c), draw and label graphs of position and acceleration vs. time, and discuss how all three of your graphs are related.</p>
+		</hint>
+	</project>
 
   
 

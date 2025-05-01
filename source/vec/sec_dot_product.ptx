@@ -57,9 +57,7 @@ Conceptually, the dot product quantifies how much of one vector is in the same d
 <mrow>\amp = A_xB_x + A_yB_y+A_zB_z </mrow>
 </md>
  
- Recall: <m>\hat{x} \cdot \hat{x} = \hat{y} \cdot \hat{y} = \hat{z} \cdot \hat{z} = 1</m>
-	
-</note>
+ </note>
 
 
   
@@ -74,6 +72,15 @@ Conceptually, the dot product quantifies how much of one vector is in the same d
 		<p>The result of the dot product can be <em>positive</em>, <em>negative</em>, or <em>zero</em>.  
 		Sketch 2-3 possible pairs of vectors for each possible result of the dot product.</p>
 		</statement>
+		</exercise>
+		<exercise>
+			<title>Unit Vectors</title>
+			<p>
+				
+			</p>
+			<p>
+				Using the definition of a <xref ref="def_unit-vector"/>, show that <me>\hat{x} \cdot \hat{x} = \hat{y} \cdot \hat{y} = \hat{z} \cdot \hat{z} = 1</me>
+			</p>
 		</exercise>
 		</exercises>
       

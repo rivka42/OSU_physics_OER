@@ -43,14 +43,18 @@
 		<xi:include href="./en/sec_density.ptx" />
 		<xi:include href="./vec/sec_dot_product.ptx" />
 		<xi:include href="./en/sec_work.ptx" />
-		<xi:include href="./mot/sec_calc0.ptx" />	
 				
 		<!--PRACTICE SECTIONS-->
 		<xi:include href="./en/sec_work2.ptx" />
-		<xi:include href="./mot/sec_calc1.ptx" />
+		<xi:include href="./en/sec_cma-mass.ptx" />
+		<xi:include href="./mot/sec_calc0.ptx" />
+		<!--	
 		<xi:include href="./mot/sec_int-practice.ptx" />
-	
+		-->
+
+		
 		<!--CHALLENGE SECTIONS-->
+		<xi:include href="./mot/sec_calc1.ptx" />
 		<xi:include href="./mot/sec_int-challenge.ptx" />
 	
 

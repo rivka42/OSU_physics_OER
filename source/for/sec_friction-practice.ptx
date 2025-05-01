@@ -14,15 +14,16 @@
     <p>
       A truck is initially moving to the right with speed <m>v_i</m>.
     </p>
+	<figure xml:id="for_truck-crate">
+		<title>Truck and Crate Figure</title>
+	  <caption>A crate on top of a truck.</caption>
+  <image source="TruckCrate.png" width = "60%">
+		<description></description>
+		</image>
+</figure>
 		</introduction>
 
-		<figure xml:id="for_truck-crate">
-			<title>Truck and Crate Figure</title>
-		  <caption>A crate on top of a truck.</caption>
-      <image source="TruckCrate.png" width = "60%">
-			<description></description>
-			</image>
-    </figure>
+		
 	<p> 
 		The driver left a crate on top of the truck. You know the mass of the crate (<m>m_c</m>) and the coefficients of friction (<m>\mu_s</m> and <m>\mu_k</m>).  
 		The truck begins speeding up, but the driver wants to prevent the crate from sliding.

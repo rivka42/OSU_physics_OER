@@ -4,16 +4,14 @@
   <title>Density</title>
 	
 	<p>
-		In <xref ref="sec_N1L"/>, you learned about the mass as a property of an object.  
-		In some situations, you may care about how that mass is distributed in space, 
-		which is useful to describe using a new quantity known as density.
+		In <xref ref="sec_N1L"/>, you learned about <alert>mass</alert> as a property of an object.  
+		In some situations, you might care about <alert>density</alert>, which describes how mass is distributed in space.
 	</p>
 	
 	<definition xml:id="def_mass-density">
 	<title>Mass Density</title>
 	<statement>
 		<p>
-			
 		</p>
 	<p>
 		The <term>mass density</term> of an object, <m>\rho</m>, can be found by dividing the object's mass by its volume: <me>
@@ -42,7 +40,7 @@
 				<p>
 					
 				</p>
-			<p>Determine the units for mass density.</p>
+			<p>Determine the units for mass density <m>(\rho)</m>.</p>
 			</statement>
 			<answer>
 				<p>
@@ -62,6 +60,11 @@
 					Make sure to convert your final answer to SI units, and comment on whether or not this number makes sense.
 				</p>
 			</statement>
+			<answer>
+				<p>
+					The density of water is approximately <m>1000 \mathrm{~kg/m^3}</m> or <m>1 \mathrm{~g/mL}</m>.
+				</p>
+			</answer>
 		</exercise>
 		<exercise>
 			<title>Sensemaking: Covariation</title>
@@ -72,6 +75,20 @@
 				<p>
 					Density depends on two quantities: mass and volume.  
 					Use the covariational reasoning sensemaking strategy to check that the definition for density makes sense given your everyday experience.
+				</p>
+			</statement>
+			
+		</exercise>
+		<exercise>
+			<title>Calculation</title>
+			<statement>
+				<p>
+					
+				</p>
+				<p>
+					Suppose you find a rock that breaks into two parts, each of which has the same volume <m>V_o</m>.  
+					You are able to determine that one part has density <m>\rho_1</m>, while the other has density <m>\rho_2</m>.  
+					Write an equation for the mass of the entire rock.
 				</p>
 			</statement>
 			

@@ -33,17 +33,19 @@
 		
 				<!--PREPARE SECTIONS-->
 					<xi:include href="./mot/sec_kinematics-1d.ptx" />
-	<xi:include href="./mot/sec_real-world-context.ptx" />
-	<xi:include href="./mot/sec_kinematics-2d.ptx" />
+					<xi:include href="./mot/sec_kinematics-2d.ptx" />
 				
 						<!--PRACTICE SECTIONS-->
+						<xi:include href="./mot/sec_constant-practice.ptx" />
+						<xi:include href="./mot/sec_real-world-context.ptx" />
 						<xi:include href="./mot/sec_kin-practice.ptx" />
 	
 						<!--CHALLENGE SECTIONS-->
+						<xi:include href="./mot/sec_projectiles.ptx" />
 						<xi:include href="./mot/sec_kin-challenge.ptx" />
-	
+	<!--
 		<xi:include href="./mot/sec_motion-summary.ptx" />
-	
+	-->
 	
 
 	

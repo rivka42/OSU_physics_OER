@@ -9,8 +9,48 @@
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
+
+	<subsection>
+		<title>Explanation Tasks</title>
 	
-  
+	<investigation xml:id="psa_en-11">
+        <title>Colliding Astronauts</title>
+		<statement>
+			<p></p>
+		    <p>Two astronauts, Michael and Collins, conduct several collision experiments in an environment with no external forces.  Michael has a larger mass than Collins.  In each experiment, Michael is initially moving with speed <m>v_i</m> in the positive <m>x</m>-direction and Collins is initially at rest.</p>
+				<ul>
+				<li><p>In case A, Michael's final velocity is <m>0</m>.</p></li>
+				<li><p>In case B, Michael's final velocity is <m>\frac{v_i}{4}</m> in the negative <m>x</m>-direction.</p></li>
+				<li><p>In case C, Michael's final velocity is <m>\frac{v_i}{4}</m> in the positive <m>x</m>-direction.</p></li>
+				</ul>
+				<p>Rank the experiments by Collins' final kinetic energy.</p>
+		</statement>
+		<hint>
+		    <p>Sketch a momentum vector diagram for each case.</p>
+		</hint>
+	</investigation>
+
+	</subsection>
+
+	<subsection>
+		<title>A*R*C*S Activities</title>
+
+<project xml:id="psa_en-012">
+        <title>The Exploding Firecracker</title>
+		<statement>
+			<p></p>
+		    <p>You throw a firecracker vertically upward.  At <m>t = 0</m>, the firecracker is moving upward with speed <m>v_1</m>, at which point it begins to explode, splitting into an upper piece with mass <m>m_u</m> and a lower piece with mass <m>m_l</m>.  The explosion finishes at <m>t = \frac{v_1}{g}</m>, at which point you observe that the upper piece is still moving upward with speed <m>3v_1</m>.</p>
+				<p>Determine the velocity of the lower piece at <m>t = \frac{v_1}{g}</m>.</p>
+		</statement>
+		<hint>
+		    <p>For your representation (part 1c), sketch a momentum vector diagram.</p>
+		</hint>
+		<hint>
+		    <p>For your symbolic sensemaking (part 3c), try at least two special cases.</p>
+		</hint>
+	</project>
+
+	</subsection>
 	
 </section>
 

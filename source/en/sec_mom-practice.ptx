@@ -10,10 +10,105 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 	
-<subsection>
-<title>Numerical Practice</title>
+	<subsection>
+		<title>Numerical Practice</title>
+		
+			<exploration xml:id="psa_en-alpha0">
+				<title>Impulse</title>
+				<statement>
+					<p></p>
+					<p>If an object's mass and velocity are both constant, the impulse acting on it... </p>
+					<ol marker="A">
+						  <li>must be constant and nonzero.</li>
+						  <li>must be zero.</li>
+						  <li>must be increasing.</li>
+						  <li>must be decreasing.</li>
+						</ol>
+				</statement>
+				<!--
+				<hint>
+					<p></p>
+				</hint>
+				-->
+				<answer>
+					<p>B</p>
+				</answer>
+			</exploration>
+		
+			<exploration xml:id="psa_en-alpha1">
+			<title>Crumple zone</title>
+			<statement>
+				<p></p>
+					<p>Modern cars have parts that are purposely designed to crumple or collapse in the event of an accident. 
+						What is the advantage of this?</p>
+					<ol marker="A">
+						  <li>It reduces injury to the passengers by increasing the time of impact.</li>
+						  <li>It reduces injury to the passengers by decreasing the time of impact.</li>
+						  <li>It reduces injury to the passengers by increasing the change in momentum. </li>
+						  <li>It reduces injury to the passengers by decreasing the change in momentum. </li>
+						</ol>
+				</statement>
+				<answer>
+					<p>A</p>
+				</answer>
+			</exploration>
+		
+			<exploration xml:id="psa_en-alpha2">
+			<title>Soccer Player I</title>
+			<statement>
+				<p></p>
+					<p>A <m>70 \mathrm{~kg}</m> soccer player, running at <m>10 \mathrm{~m/s}</m>, 
+						kicks a <m>0.4 \mathrm{~kg}</m> ball, which then travels at <m>50 \mathrm{~m/s}</m>. 
+						What is the magnitude of the player's linear momentum? What is the magnitude of the ball's linear momentum?</p>
+				</statement>
+				<answer>
+					<p><m>700 \mathrm{~kg m/s}</m></p>
+				</answer>
+				<answer>
+					<p><m>20 \mathrm{~kg m/s}</m></p>
+				</answer>
+			</exploration>
+		
+			<exploration xml:id="psa_en-alpha3">
+			<title>Soccer Player II</title>
+			<statement>
+				<p></p>
+					<p>The ball from the previous problem is then kicked back towards the player, so that it is now traveling in the opposite direction with the same speed. Has the linear momentum of the ball changed? When the ball was kicked back towards the player, if the foot was in contact with the ball for <m>0.22 \mathrm{~s}</m>, what was the magnitude of the impulse that acted on the ball?</p>
+				</statement>
+				<answer>
+					<p>Yes, the same mass but a different velocity means a different linear momentum.</p>
+				</answer>
+				<answer>
+					<p><m>40 \mathrm{~kg m/s}</m></p>
+				</answer>
+			</exploration>
+		
+			<exploration xml:id="psa_en-alpha4">
+			<title>Pushing a car</title>
+			<statement>
+				<p></p>
+					<p>A force <m>F</m> pushes a car with a small mass <m>m</m>.  
+						Another, identical force <m>F</m> pushes a truck with a bigger mass <m>M</m>. 
+						The car and truck are both pushed for the same amount of time. 
+						Is the car or the truck going faster at the end of the time?</p>
+				</statement>
+				<answer>
+					<p>The car.</p>
+				</answer>
+			</exploration>
+		
+			
+		</subsection>
 
-	</subsection>
+		<project xml:id="psa-en-05">
+			<title>Ball of Clay</title>
+			<statement>
+				<p></p>
+				<p>A <m>50 \mathrm{~g}</m> ball of clay traveling at speed <m>v_0</m> hits and sticks to a 
+					<m>1.0 \mathrm{~kg}</m> brick sitting at rest on a frictionless surface.  
+					What is the speed of the brick after the collision?</p>
+			</statement>
+		</project>
   
 <references>
 <biblio xml:id="momentum">

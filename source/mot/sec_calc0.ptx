@@ -1,31 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_calc0" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Calculus in Physics</title>
-		
-		  
-      <video youtube="26vbUjdFpBk"><description>Using integrals in physics.</description></video>
-    
+<section xml:id="sec_work3" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Chop-Multiply-Add: Work for Non-Constant Forces</title>
 	
-	<p>A strategy you will use to solve a variety of physics problems can be thought of as a sequence of steps called <term>Chop-Multiply-Add</term>.  You can see these steps outlined in the video above for one example.  Below is another example: if you know an object's acceleration as a function of time and you want to find the change in velocity between some initial and final time.</p>
+    <p>
+     In <xref ref="sec_cma-mass"></xref>, you learned the Chop-Multiply-Add strategy for constructing physics integrals.  
+	 You can use this strategy to help find the work done by non-constant forces.
+    </p>
+			
+	<p><term>Chop:</term> Work involves multiplying force and displacement along some path traveled by an object.  You can start by chopping up the path into small steps.  Each step along the path is given by an infinitesimal vector displacement <m>\vec{dr}</m>.</p>
 	
-	<p><term>Chop:</term> You can start by chopping up a time interval into small pieces.  Each piece of time is represented by the expression <m>dt</m>, where the <m>d</m> indicates that the actual amount of time is <em>infinitesimally small</em>.</p>
+	<p><term>Multiply:</term> You can then multiply the force acting on the object by the displacement step above to get the infinitesimal amount of work done along only that step <m>dW = \vec{F} \cdot \vec{dr}</m>.</p>
 	
-	<p><term>Multiply:</term> You want to know about velocity, but you know about acceleration.  Although you want <m>\Delta \vec{v}</m>, the change in velocity over a whole time interval, you can start by trying to find an infinitesimal change in velocity <m>d\vec{v}</m>.  By rewriting the definition of instantaneous acceleration as <m>d \vec{v} = \vec{a}(t) dt</m>, you can see that a way to get <m>d\vec{v}</m> is to <em>multiply</em> <m>\vec{a}(t)</m> and <m>dt</m>.</p>
-	
-		<p><term>Add:</term> Last, once you have the infinitesimal <m>d\vec{v}</m>, you need to <em>add</em> together every <m>d\vec{v}</m> over the full times of interest, which can be done with an integral: <me>\int_{v_i}^{v_f}d \vec{v} = \int_{t_i}^{t_f} \vec{a}(t) dt</me>  The left hand side of this equation can be easily evaluated to give <me>\Delta \vec{v} = \int_{t_i}^{t_f} \vec{a}(t) dt</me></p>
-	
+		<p><term>Add:</term> Last, you <em>add</em> up all the infinitesimal works with an integral along the entire path: <me>W = \int_{i}^{f}\vec{F} \cdot \vec{dr}</me></p>
 
 	<exercises>
-<title>Activities</title>
+	<title>Activities</title>
+	<exercise xml:id="class_work-pulling">
+		<title>Doing Work</title>
+		<p>
+			
+		</p>
+		<p>
+			You are pulling the box shown below from <m>x = 0</m> to <m>x = L</m>.  
+			You find that as the box moves, the tension in the rope is not constant; 
+			instead, it starts at <m>5T_0</m>, but by the time you reach <m>x = L</m> it has changed to <m>T_0</m>.  
+			Assume the tension decreases linearly.
+		</p>
+		<figure xml:id="fig_doing-work">
+			<title>Doin Work Diagram</title>
+		  <caption>A person pulling a heavy box.</caption>
+	  <image source="BoxPull.png" width = "40%">
+			<description></description>
+			</image>
+	</figure>
+			<ol marker="A">
+				<li>
+					<p>
+						Sketch a graph of the tension vs. position <m>x</m>
+					</p>
+				</li>
+				<li>
+					<p>
+						Write an equation for the tension as a function of <m>x</m>
+					</p>
+				</li>
+				<li>
+					<p>
+						Use the Chop-Multiply-Add strategy to find the total work the rope does on the box: 
+					</p>
+					<p>
+						<alert>Chop:</alert> Divide space into appropriate, infinitesimal pieces; 
+						label one of these pieces on your graph
+					</p>
+					<p>
+						<alert>Multiply:</alert> Find the work done on the box during one infinitesimal piece of space
+					</p>
+					<p>
+						<alert>Add:</alert> Find the total work done on the box
+					</p>
+				</li>
+			</ol>
+			</exercise>
 			<exercise>
-			  <p>The following two equations are both reasonable to write down for a displacement vector: </p>
-				<p><me>1: \Delta \vec{r} = \int_{t_i}^{t_f}\vec{v}(t)dt</me></p>
-				<p><me>2: \Delta \vec{r}= \vec{v}\Delta t</me> </p>
-				<p>What is the difference between them?  In what situations would you use the first equation?  In what situations would you use the second equation?</p>
+				<title>Non-Constant Winch</title>
+			<statement>
+				<p>
+					
+				</p>
+			  <p>You have a winch<fn>a machine that uses a rope to pull on another object</fn> that can be set to exert a changing force.  You decide to set your winch to produce the force <me>\vec{F}^{winch} = \frac{F_o}{L^2} (xL - x^2)\hat{x}</me> where <m>F_o</m> and <m>L</m> are constants and <m>x</m> is the position of the object being pulled.  Sketch a graph of this force vs. position and use it to find the work done by the winch between <m>x_i = 0</m> and <m>x_f = L</m>.</p>
+				</statement>
+				<answer>
+				<p><me>W_{winch} = \frac{F_o L}{6}</me></p>
+				</answer>
 			</exercise>
 			
-		</exercises>
+			</exercises>
 	
 </section>
 

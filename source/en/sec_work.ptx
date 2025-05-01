@@ -19,6 +19,170 @@
 	</statement>
 	</definition>
 
+	<p>
+		Every force that acts on an object has the capacity to do work.  
+		Since objects frequently have many forces acting on them, it can be useful to keep track in a table like the one introduced below.
+	</p>
+
+	<lemma xml:id="rep_work-table">
+		<title>Work Table</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>
+				A <term>Work Table</term> is a representation for keeping track of the work done on a system.  
+				In a work table, each row represents a different force acting on the system, while the columns 
+				represent the displacement, force, and work for that force.  A work table can be qualitative, 
+				where you only represent the direction of the displacement and the force and the sign of the work, 
+				or quantitative, where you include the full value for each quantity.
+			</p>
+			<table xml:id="table_empty">
+				<title>Empty Work Table</title>
+				<tabular halign="center">
+				  <row header="yes" bottom="minor" >
+					<cell></cell>
+					<cell>Force</cell>
+					<cell>Displacement</cell>
+					<cell>Work</cell>
+				  </row>
+				  <row>
+					<cell>Force 1</cell>
+					<cell></cell>
+					<cell></cell>
+					<cell></cell>
+				  </row>
+				  <row>
+					<cell>Force 2</cell>
+					<cell></cell>
+					<cell></cell>
+					<cell></cell>
+				  </row>
+				  <row bottom="medium">
+					<cell>...</cell>
+					<cell></cell>
+					<cell></cell>
+					<cell></cell>
+				  </row>
+				  <row>
+					<cell></cell>
+					<cell></cell>
+					<cell>Net work:</cell>
+					<cell><m>0</m></cell>
+				  </row>
+				</tabular>
+			  </table>
+		</statement>
+	</lemma>
+
+	<p>
+		At the end of a work table, you can often easily add up the last column to get the net work on the system!  
+		Sometimes, if you only have a qualitative work table, you may not have enough information to determine the net work.
+	</p>
+
+	<definition xml:id="def_net-work">
+		<title>Net (External) Work</title>
+		<statement>
+			<p>
+				
+			</p>
+		<p>The net work on a system is the sum of the works done by every external force acting on the system: <me>
+			W_{\text{net,ext}} = \sum_i W_i = W_1 + W_2 + W_3 + \dots
+		</me>
+		</p>
+		</statement>
+		</definition>
+
+	<example>
+		<title>Work on a Grocery Bag</title>
+		<p>
+			In the last part of <xref ref="class_groceries"/>, you lifted a bag of groceries so that it moves upward at constant speed.  
+			Find the work done on the bag of groceries by each force.
+		</p>
+		<p>
+			The bag is an obvious choice for a system, along with a Cartesian reference frame stationary with respect to the ground.  
+			Since the bag is moving upward at constant speed, there are two forces acting on the bag, as shown in the figure below.
+		</p>
+
+		<figure xml:id="ex_groceries">
+			<title>Groceries Free-body Diagram</title>
+		  <caption>A free-body diagram for a bag of groceries.</caption>
+	  <image source="GroceriesFBD.png" width = "40%">
+			<description></description>
+	  </image>
+	</figure>
+
+	<p>
+		Below are examples of qualitative and quantitative Work Tables summarizing the work done by each force, 
+		and the net work at the end, supposing the mass of the bag is <m>m</m> and the vertical displacement of the bag is <m>h</m>.
+	</p>
+
+	<table xml:id="table_groceries1">
+		<title>Qualitative Groceries Work Table</title>
+		<tabular halign="center">
+		  <row header="yes" bottom="minor" >
+			<cell></cell>
+			<cell>Force</cell>
+			<cell>Displacement</cell>
+			<cell>Work</cell>
+		  </row>
+		  <row>
+			<cell><m>\vec{F}_{BE}^g</m></cell>
+			<cell><m>\downarrow</m></cell>
+			<cell><m>\uparrow</m></cell>
+			<cell><m>-</m></cell>
+		  </row>
+		  <row bottom="medium">
+			<cell><m>\vec{F}_{BYou}^N</m></cell>
+			<cell><m>\uparrow</m></cell>
+			<cell><m>\uparrow</m></cell>
+			<cell><m>+</m></cell>
+		  </row>
+		  <row>
+			<cell></cell>
+			<cell></cell>
+			<cell>Net work:</cell>
+			<cell><m>0</m></cell>
+		  </row>
+		</tabular>
+	  </table>
+
+	  <table xml:id="table_groceries2">
+		<title>Quantitative Groceries Work Table</title>
+		<tabular halign="center">
+		  <row header="yes" bottom="minor" >
+			<cell></cell>
+			<cell>Force</cell>
+			<cell>Displacement</cell>
+			<cell>Work</cell>
+		  </row>
+		  <row>
+			<cell><m>\vec{F}_{BE}^g</m></cell>
+			<cell><m>-mg\hat{y}</m></cell>
+			<cell><m>+h\hat{y}</m></cell>
+			<cell><m>-mgh</m></cell>
+		  </row>
+		  <row bottom="medium">
+			<cell><m>\vec{F}_{BYou}^N</m></cell>
+			<cell><m>+mg\hat{y}</m></cell>
+			<cell><m>+h\hat{y}</m></cell>
+			<cell><m>+mgh</m></cell>
+		  </row>
+		  <row>
+			<cell></cell>
+			<cell></cell>
+			<cell>Net work:</cell>
+			<cell><m>0</m></cell>
+		  </row>
+		</tabular>
+	  </table>
+
+	  <p>
+		Note that in this example, the displacement is the same for both forces, because the system consists only of a single object.
+	  </p>
+		
+	</example>
+
 
 	<exercises>
 	<title>Activities</title>
@@ -28,9 +192,12 @@
 			<title>Practice Calculating Work</title>
 			<statement>
 			<ol>
-			  <li><p>You are pulling a box across the floor using a horizontal rope with a constant tension force of <m>250 \mathrm{~N}</m>.  How much work have you done after the box has slid <m>3 \mathrm{~m}</m> along the floor?</p></li>
-			  <li><p>Suppose you were to angle your rope so that it makes an angle of <m>20^o</m> with the horizontal (the magnitude of the tension is unchanged).  How much work have you done after the box has slid 3 m along the floor?</p></li>
-				<li><p>Suppose you were to angle your rope so that it is oriented vertically (the magnitude of the tension is unchanged).  How much work have you done after the box has slid <m>3 \mathrm{~m}</m> along the floor?</p></li>
+			  <li><p>You are pulling a box across the floor using a horizontal rope with a constant tension force of 
+				<m>250 \mathrm{~N}</m>.  How much work have you done after the box has slid <m>3 \mathrm{~m}</m> along the floor?</p></li>
+			  <li><p>Suppose you were to angle your rope so that it makes an angle of <m>20^o</m> with the horizontal 
+				(the magnitude of the tension is unchanged).  How much work have you done after the box has slid <m>3 \mathrm{~m}</m> along the floor?</p></li>
+				<li><p>Suppose you were to angle your rope so that it is oriented vertically (the magnitude of the tension is 
+					unchanged).  How much work have you done after the box has slid <m>3 \mathrm{~m}</m> along the floor?</p></li>
 				<li><p>Why is the work you calculated for the three situations above not the same?</p></li>
 				</ol>
 				</statement>
@@ -39,6 +206,9 @@
 						<exercise>
 			<title>Extension: Multiple External Forces</title>
 			<statement>
+				<p>
+					
+				</p>
 			  <p>Suppose you have a system with two objects, <m>A</m> and <m>B</m>.  Different <alert>constant</alert> external forces, <m>\vec{F}_A</m> and <m>\vec{F}_B</m>, act on the two objects, which undergo different displacements <m>\Delta \vec{r}_A</m> and <m>\Delta\vec{r}_B</m>.  Which of the following expressions do you think correctly describes the net work on this system?  Why?</p>
 				
 				<p>Option 1: <m>W_{\text{net,external}} = \vec{F}_A \cdot \Delta\vec{r}_A + \vec{F}_B \cdot \Delta\vec{r}_B</m></p>

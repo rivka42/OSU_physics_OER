@@ -11,6 +11,54 @@
 	-->
 	
   
+
+	<subsection>
+		<title>Explanation Tasks</title>
+
+
+
+
+
+	</subsection>
+
+
+	<subsection>
+		<title>A*R*C*S Activities</title>
+
+		<project xml:id="psa_mot-14">
+			<title>The Penny in the Elevator</title>
+			<statement>
+				<p></p>
+				<p>You are standing in an elevator with no ceiling that is initially at rest near the middle of a building.  
+					You throw a penny straight upward with a known initial velocity <m>v_{iy}</m> at exactly the instant the elevator begins to accelerate 
+					downward with a known acceleration <m>a_e</m> much smaller than <m>g</m>.  
+					Find the displacement of the elevator when you catch the penny, and the amount of time the penny was in the air.</p>
+			</statement>
+			<hint>
+				<p>For your representation (part 1c), sketch graphs of the position vs. time and the velocity vs. time for both the elevator and the penny.  It can help to graph these on the same set of axes if you are careful about labeling your different graphs.</p>
+					<p>For your symbolic sensemaking (part 3c), use the Covariational Reasoning strategy to discuss how and why your answer depends on each important variable, especially the initial velocity of the penny and the acceleration of the elevator.</p>
+			</hint>
+		</project>
+		
+					<project xml:id="psa_mot-15">
+			<title>The Paper Airplane toward the Shelf</title>
+			<statement>
+				<p></p>
+				<p>You throw a paper airplane that can be modeled as having a constant acceleration with a nonzero component in 
+					both the <m>x</m>- and <m>y</m>-directions 
+					(do not assume that either component of the acceleration is equal to <m>g</m>).  
+					After flying a horizontal distance <m>L</m>, 
+					the paper airplane reaches a shelf at an instant in time when the <m>x</m>-velocity is zero.  
+					The height of the shelf is the same as the initial height of the airplane, 
+					and the initial <m>y</m>-velocity of the airplane is known to be <m>v_y</m>.  
+					Determine an expression relating the 
+					<m>x</m>- and <m>y</m>-components of the acceleration.</p>
+			</statement>
+		</project>
+
+
+</subsection>
+
 	
 </section>
 

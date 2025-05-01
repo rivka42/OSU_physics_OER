@@ -9,6 +9,9 @@
 	<assumption>
 	<title>Motion with Constant Acceleration</title>
 	<statement>
+		<p>
+			
+		</p>
 		<p>When you assume an object is moving with <term>constant acceleration</term> in <em>one dimension</em><fn>here, the <m>x</m>-direction</fn>, you can derive the following equations of motion from the definitions of acceleration and velocity:</p>
 		
 		<p><me>r_x(t) = r_{xi} + v_{xi}t + \frac{1}{2}a_x t^2</me></p>
@@ -17,12 +20,25 @@
 		
 	</statement>
 </assumption>
+
+<note>
+	<title>The Kinematics Equations</title>
+	
+	
+	<p>
+		The expressions above are the equations of motion for any object moving with constant acceleration, 
+		and are sometimes known as the kinematics equations.
+	</p>		
+</note>
 		
 	<exercises>
 	<title>Activities</title>
 			<exercise xml:id="x_sensemaking-kinematics">
 			<title>Sensemaking - Covariation</title>
 			<statement>
+				<p>
+					
+				</p>
 			  <p>Explore the relationship between the quantities in the constant-acceleration equations by considering how changing the <em>value</em> of the constant acceleration might impact the other quantities.  For example, if the magnitude of an object's acceleration is larger, what do the equations say about the final velocity and position of the object?  Do your answers depend on any of the other quantities in the equations?  Does this agree with your everyday experience of accelerating objects?</p>
 				</statement>
 				<hint>
@@ -33,19 +49,27 @@
 			<exercise xml:id="x_practice-kinematics">
 			<title>Practice - Tricycle</title>
 			<statement>
+				<p>
+					
+				</p>
 			<p>Consider a child on a tricycle accelerating from rest<fn>the initial velocity is <m>v_i = 0 \mathrm{~m/s}</m></fn> at a rate of <m>a=0.75 \mathrm{~m/s^2}</m> for a total of <m>9 \mathrm{~s}</m>.  Find the child's final velocity and final position.</p>
 			</statement>
 			<hint>
 			<p>You can define the child's initial position to be <m>0</m>.  Don't forget to pick a coordinate system!</p>
 			</hint>
 			<answer>
-			<p>Choosing <m>\vec{a} = a\hat{x} = 0.75\hat{x} \mathrm{~m/s^2}</m>, we end up with <m>\vec{v}_f = \vec{a}t = 6.75 \hat{x} \mathrm{~m/s}</m> and <m>\vec{r}_f = \frac{1}{2}\vec{a}t^2 = 30.375 \hat{x} \mathrm{~m}</m></p>
+			<p>Choosing <m>\vec{a} = a\hat{x} = 0.75\hat{x} \mathrm{~m/s^2}</m>, 
+				you end up with <m>\vec{v}_f = \vec{a}t = 6.75 \hat{x} \mathrm{~m/s}</m> and 
+				<m>\vec{r}_f = \frac{1}{2}\vec{a}t^2 = 30.375 \hat{x} \mathrm{~m}</m></p>
 			</answer>
 			</exercise>
 			
 			<exercise xml:id="x_extension-kinematics">
 			<title>Extending your Knowledge</title>
 			<statement>
+				<p>
+					
+				</p>
 			<p>Consider a generic object moving in the <m>x</m>-direction with a known constant acceleration <m>a_x</m> from some initial velocity <m>v_{xi}</m>.  However, suppose that instead of knowing the amount of time it takes for this change in velocity to occur, you know the total distance traveled <m>\Delta x = r_{xf} - r_{xi}</m>.  Find a general equation for the final velocity <m>v_{xf}</m>. </p>
 			</statement>
 			<hint>
@@ -53,7 +77,9 @@
 			</hint>
 			<answer>
 			<p><m>v_{xf}^2 = v_{xi}^2 + 2a_x \Delta x</m></p>
-			<p>This answer is often considered as useful as the other constant acceleration equations, and all three are sometimes named <term>kinematics equations</term>, though the name <term>equations for constant acceleration</term>is more descriptive.</p>
+			<p>This answer is often as useful as the other constant acceleration equations, 
+				and is typically included as one of the <term>equations for constant acceleration</term> 
+				(or, more colloquially, the <term>kinematics equations</term>).</p>
 			</answer>
 			</exercise>
 			

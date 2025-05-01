@@ -16,6 +16,7 @@
 		    <exploration xml:id="psa_mot-alpha9">
         <title>The Race Car</title>
 		<statement>
+			<p></p>
 		    <p>A race car can accelerate from rest to incredible speeds.  In one case, a dragster is able to finish the <m>305 \mathrm{~m}</m> run in <m>3.64 \mathrm{~s}</m> (and it continues to accelerate throughout this time)!  What was the magnitude of the average acceleration during this run?  What is the top speed of the dragster?</p>
 		</statement>
 		<!--
@@ -34,6 +35,7 @@
    		    <exploration xml:id="psa_mot-alpha10">
         <title>The Comfortable Train</title>
 		<statement>
+			<p></p>
 		    <p>The maximum acceleration that feels comfortable for passengers in a train is <m>1.2 \mathrm{~m/s^2}</m>.  Suppose that train's route includes two adjacent stations (stops) that are just <m>800 \mathrm{~m}</m> apart.  What is the fastest speed the train could attain between the stations and still pick up and drop off passengers at both?  What is the shortest time between the stations?</p>
 		</statement>
 		<!--
@@ -52,6 +54,7 @@
 		    <exploration xml:id="psa_mot-alpha11">
         <title>The Diver</title>
 		<statement>
+			<p></p>
 		    <p>A diver bounces straight up from a diving board and (avoiding the diving board on the way down) falls feet first into a pool.  She leaves the board with a velocity of <m>4.00 \mathrm{~m/s}</m>, and her takeoff point is <m>1.80 \mathrm{~m}</m> above the pool. How long are her feet in the air?  What is her speed when her feet hit the water?  What is her highest point above the board?</p>
 		</statement>
 		<!--
@@ -73,6 +76,7 @@
 		    <exploration xml:id="psa_mot-alpha12">
         <title>Rugby Collision</title>
 		<statement>
+			<p></p>
 		    <p>Two rugby players start from rest, <m>46 \mathrm{~m}</m> apart.  Each player runs directly toward the other, both of them accelerating.  Player 1’s acceleration magnitude is <m>0.60 \mathrm{~m/s^2}</m>.  Player 2’s acceleration magnitude is <m>0.40 \mathrm{~m/s^2}</m>.  How much time passes before the players collide?  At the instant they collide, how far has player 1 run?  Assuming player 1 is traveling in the positive <m>x</m>-direction, what is the displacement of player 2 in the <m>x</m>-direction?</p>
 		</statement>
 		<!--
@@ -94,7 +98,8 @@
 		    <exploration xml:id="psa_mot-alpha13">
         <title>Leaping Frog</title>
 		<statement>
-		    <p>A frog leaps from level ground with a speed of <m>2.00 \mathrm{~m/s}</m> at an angle <m>40.0^o</m> up from the horizontal.  Unlike usual, use the more precise value <m>g = 9.82 \mathrm{~m/s^2}</m>.  What is the time of flight for the frog?  What is the range of the frog's flight?  What is the max height the frog achieves?</p>
+			<p></p>
+		    <p>A frog leaps from level ground with a speed of <m>2.00 \mathrm{~m/s}</m> at an angle <m>40.0^o</m> up from the horizontal.  Unlike usual, use the more precise value <m>g = 9.81 \mathrm{~m/s^2}</m>.  What is the time of flight for the frog?  What is the range of the frog's flight?  What is the max height the frog achieves?</p>
 		</statement>
 		<!--
 		<hint>
@@ -115,115 +120,14 @@
 
 </subsection>
 
-<subsection>
-<title>Study</title>
 
-	<project xml:id="psa_mot-4">
-        <title>Pitching Speed</title>
-		<statement>
-		    <p>A baseball player wants to determine his pitching speed. You have him stand on a ledge and throw the ball horizontally from an elevation <m>5.0 \mathrm{~m}</m> above the ground.  The ball hits the ground <m>30 \mathrm{~m}</m> away.  What is his pitching speed?</p>
-		</statement>
-		<hint>
-		    <p>When making sense of your answer, you should often look to add something to your knowledge or confidence in your answer.</p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>
-	</project>
 
-	<investigation xml:id="psa_mot-5">
-        <title>Pitching in the Wind</title>
-		<statement>
-		    <p>The baseball player from the previous problem throws the baseball again with the same initial conditions as above.  This time, however, a strong wind causes the ball to experience a small backward horizontal acceleration throughout its motion.  Is the horizontal distance traveled by the ball before it hits the ground in this situation <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the original distance?</p>
-		</statement>
-		<hint>
-		    <p></p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>
-	</investigation>
-	
-				<project xml:id="psa_mot-6">
-        <title>The Rolling Cylinder</title>
-		<statement>
-		    <p>A large cylinder rolls along flat, level ground. Because of substantial air resistance and varying amounts of friction, its speed decreases in a complicated way. Its speed as a function of time is <m>v = at^2 + bt + c</m>, where <m>a = –2.00 \mathrm{~m/s^3}</m>, <m>b = –2.00 \mathrm{~m/s^2}</m>, and <m>c =12.0 \mathrm{~m/s}</m>. How far does the cylinder move from <m>t = 0 \mathrm{~s}</m> until it comes to rest?</p>
-		</statement>
-		<hint>
-		    <p>For the physical representation (part 1b), draw and label a graph of velocity vs. time.</p>
-				<p>As part of your sensemaking (part 3c), draw and label graphs of position and acceleration vs. time, and discuss how all three of your graphs are related.</p>
-		</hint>
-	</project>
-	
-		<investigation xml:id="psa_mot-7">
-        <title>Ramp Race</title>
-		<statement>
-		    <p>You release a ball from rest at the top of a ramp and measure the amount of time for the ball to reach the base of the ramp.  Your friend performs the same experiment (with the same ball) with their ramp, which is the same length as your ramp.  Your friend determines that it took more time for the ball to reach the bottom of their ramp than it did for the ball to reach the bottom of your ramp.  Is the magnitude of the average acceleration of the ball for your friend’s ramp <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the average acceleration of the ball for your ramp?</p>
-		</statement>
-		<solution>
-		    <p></p>
-		</solution>
-	</investigation>
-
-</subsection>
-
-<subsection>
-<title>Apply</title>
 
 	
-		<project xml:id="psa_mot-11">
-        <title>A Bicycle between Stoplights</title>
-				<p>Before you start this activity, if you have not done so already, review <xref ref="sec_real-world-context" />.</p>
-		    <p>You are riding your bicycle along a busy street.  You are stopped at a stoplight that turns green at <m>t = 0</m>, after which your digital speedometer measures your velocity until you have to stop at the next stoplight as a function of time to be <me>\vec{v}(t)=V\left( 1-\left(\frac{t}{T}-1\right)^4 \right) \hat{y}</me></p>
-				<p>Determine the distance between the stoplights.</p>
-		<hint>
-		    <p>For the physical representation (part 1c), draw graphs of position, velocity, and acceleration vs. time, paying careful attention to the domain of your graphs.</p>
-		</hint>
-		<hint>
-		    <p>For the numerical calculation (part 2c), you can choose any everyday numbers for the constants <m>V</m> and <m>T</m> that would be reasonable for a bicycle.</p>
-		</hint>
-		<hint>
-		    <p>As part of your sensemaking (part 3c), describe the physical meaning of V and T and use the Covariational Reasoning from <xref ref="sec_covariation" /> strategy to discuss how and why your answer depends on each variable.</p>
-		</hint>
+		
 
-	</project>
 	
-		<project xml:id="psa_mot-12">
-        <title>Throwing at a Cliff</title>
-		<statement>
-		    <p>A ball is thrown toward a cliff of height <m>h</m> with a speed of <m>27 \mathrm{~m/s}</m> and an angle of <m>60^o</m> above the horizontal. It lands on the edge of the cliff <m>3.2 \mathrm{~s}</m> later.  How high is the cliff?</p>
-		</statement>
-		<hint>
-		    <p>When making sense of your answer, you should often look to add something to your knowledge or confidence in your answer.  Reiterating the process you used to solve the problem does not count!</p>
-		</hint>
-	</project>
-	
-			<investigation xml:id="psa_mot-13">
-        <title>Throwing It Back</title>
-		<statement>
-		    <p>In the previous activity, you considered a ball thrown up to the top of a cliff.  Suppose you wanted to throw the ball back from the top of the cliff so that it took the same amount of time to travel to the place where it was originally thrown from.  Is it possible to do this?  If so, how?  If not, why not?  (Note: you do not need to find any numbers for this problem—let your reasoning do the talking!)</p>
-		</statement>
-	</investigation>
-	
-			<project xml:id="psa_mot-14">
-        <title>The Penny in the Elevator</title>
-		<statement>
-		    <p>You are standing in an elevator with no ceiling that is initially at rest near the middle of a building.  You throw a penny straight upward with a known initial velocity at exactly the instant the elevator begins to accelerate downward with a known acceleration much smaller than g.  Find the displacement of the elevator when you catch the penny, and the amount of time the penny was in the air.</p>
-		</statement>
-		<hint>
-		    <p>For your representation, sketch graphs of the position vs. time and the velocity vs. time for both the elevator and the penny.  It can help to graph these on the same set of axes if you are careful about labeling your different graphs.</p>
-				<p>For your symbolic sensemaking, use the Covariational Reasoning strategy again to discuss how and why your answer depends on each important variable, especially the initial velocity of the penny and the acceleration of the elevator.</p>
-		</hint>
-	</project>
-	
-				<project xml:id="psa_mot-15">
-        <title>The Paper Airplane toward the Shelf</title>
-		<statement>
-		    <p>You throw a paper airplane that can be modeled as having a constant acceleration with a nonzero component in both the <m>x</m>- and <m>y</m>-directions (do not assume that either component of the acceleration is equal to <m>g</m>).  After flying a horizontal distance <m>L</m>, the paper airplane lands on a shelf at an instant in time when the <m>x</m>-velocity is zero.  The height of the shelf is the same as the initial height of the airplane, and the initial <m>y</m>-velocity of the airplane is known.  Determine an expression relating the <m>x</m>- and <m>y</m>-components of the acceleration.</p>
-		</statement>
-	</project>
 
-</subsection>
   
 <references>
 <biblio xml:id="ref_boxsand-kinematics">

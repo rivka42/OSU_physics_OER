@@ -11,20 +11,46 @@
 	<exercises>
 	<title>Activities</title>
 		<exercise xml:id="x_realworld-ball">
-			<title>A*R*C*S Real-world Context - Throwing a Ball</title>
+			<title>A*R*C*S Throwing a Ball</title>
 			<statement>
-			<p>You throw a ball that flies through the air and eventually lands some distance away from you.  Find the initial velocity and speed with which you threw the ball.</p>
+				<p>
+					
+				</p>
+			<p>While lying on the ground, you throw a ball that flies through the air and lands on the ground 
+				a known distance <m>d</m> away from you after a total time <m>T</m>.  
+				Find the initial velocity with which you threw the ball.</p>
 			</statement>
 			<hint>
-			<p>Remember to follow the full set of steps from <xref ref="fig_realworld"/>.  Part 1a can be especially helpful in keeping track of all the known and unknown quantities.  What numbers do you need to estimate for this problem?</p>
+			<p>Part 1a from the <xref ref="fig_realworld"/> can be especially helpful in keeping track of all the 
+				known and unknown quantities.</p>
 			</hint>
 
-			<solution>
+			<answer>
+				<p>
+					Starting with the <m>x</m>-direction position equation:
+					<me>
+						v_{ix} = \frac{d}{T}
+					</me>
+					Then using the <m>y</m>-direction position equation:
+					<me>
+						v_{iy} = \frac{1}{2}gT^2
+					</me>
+					And putting it all together:
+					<me>
+						\vec{v}_{i} = \frac{d}{T}\hat{x} + \frac{1}{2}gT^2\hat{y}
+					</me>
+					
+					
+				</p>
+
+
+				<!--
 					<figure xml:id="mot_vb_proj-mot">
 		  <caption>A projectile motion practice problem.</caption>
       <video youtube="lyOJABYAlO4"></video>
     </figure>
-		</solution>
+	-->
+			</answer>
 			</exercise>
 
 

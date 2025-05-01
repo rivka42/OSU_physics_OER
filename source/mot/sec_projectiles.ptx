@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_projectiles" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Projectile Motion</title>
+		
+  <activity xml:id="class_marbles">
+	<title>Three Marbles</title>
+	<statement>
+	<p>
+		
+	</p>
+	<p>
+		You throw three marbles off a table, each with the same initial speed but a different direction.  
+		Before you do any calculations, make the following predictions:  
+		<ul>
+			<li>
+				Which is in the air for the most time?
+			</li>
+			<li>
+				Which travels the most horizontal distance?
+			</li>
+			<li>
+				Which is moving fastest when it hits?
+			</li>
+		</ul>
+	</p>
+	<figure xml:id="fig_marbless">
+		<caption>Three marbles launched off a table.</caption>
+	   <image source="Marbles.png" width = "50%">
+		   <description></description></image>
+ </figure>
+<p>
+		Start with Marble 2.
+		<ol>
+			<li>
+				If the height of the table is <m>h</m>, how much time does it take for marble 2 to hit the ground?
+			</li>
+			<li>
+				How far has the marble traveled horizontally in that amount of time?
+			</li>
+			<li>
+				What is the marble's speed when it hits the ground?
+			</li>
+		</ol>
+	</p>
+	<p>
+		Now try Marble 1.
+		<ol>
+			<li>
+				If the angle is <m>\theta</m>, how long does it take for marble 1 to hit the ground?
+			</li>
+			<li>
+				How far has the marble traveled horizontally in that amount of time?
+			</li>
+			<li>
+				What is the marble's speed when it hits the ground?
+			</li>
+		</ol>
+	</p>
+	<p>
+		Last of all, make sense of the solution!
+	</p>
+</statement>
+<solution>
+	<p>
+		<me>
+			t = \frac{v}{g}\sin\theta \pm \sqrt{\frac{v^2}{g^2}\sin^2\theta + 2\frac{h}{g}}
+		</me>
+		<me>
+			x = vt\cos\theta
+		</me>
+		<me>
+			v_f = \sqrt{v^2 + 2gh}
+		</me>
+	</p>
+</solution>
+
+</activity>
+	
+</section>
+

@@ -6,9 +6,22 @@
     <p>
 You will often need to orient a vector within a particular coordinate system. A unit vector is a vector that has magnitude of one. For this reason, unit vectors are often called direction vectors.
     </p>
+
+	<definition xml:id="def_unit-vector">
+		<title>Unit Vector</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>
+				A unit vector has magnitude one, is symbolized with a <q>hat</q>, and points in the direction indicated by its name.  
+				For example, the unit vector <m>\hat{x}</m> points in the positive <m>x</m>-direction.
+			</p>
+		</statement>
+	</definition>
     
  <p>
-You represent a unit vector symbolically with a "hat." Most commonly, unit vectors are used for indicating the directions of a coordinate system. For example <m> \hat{x} </m>, <m> \hat{y} </m> and <m> \hat{z} </m> are unit vectors which point parallel to the positive <m>x</m>-direction, positive <m>y</m>-direction and positive <m>z</m>-direction (these are often called basis vectors in a mathematics class).
+You represent a unit vector symbolically with a <q>hat</q>. Most commonly, unit vectors are used for indicating the directions of a coordinate system. For example <m> \hat{x} </m>, <m> \hat{y} </m> and <m> \hat{z} </m> are unit vectors which point parallel to the positive <m>x</m>-direction, positive <m>y</m>-direction and positive <m>z</m>-direction (these are often called basis vectors in a mathematics class).
 </p>
 
 <p>

@@ -11,6 +11,86 @@
 	-->
 	
   
+	<subsection>
+		<title>Explanation Tasks</title>
+
+		<investigation xml:id="psa_en-06">
+			<title>Work on a Single Block</title>
+			<statement>
+				<p>
+					
+				</p>
+				<p>You push on a single block on a level, frictionless table as described in the three cases below.  In each case, you push with a constant force for the same amount of time.  For each, consider the system of the block on its own.</p>
+					<p>
+					<ul>
+					<li>Case 1: The block has mass <m>m</m> and you push on it to the right.</li>
+					<li>Case 2: The block has mass <m>m</m> and you push on it to the left.</li>
+					<li>Case 3: The block has mass <m>m/3</m> and you push on it to the right.</li>
+					</ul>
+					</p>
+				<p>Rank the three cases by the net external work done on each system.</p>
+			</statement>
+			<!--<hint>
+				<p></p>
+			</hint>
+			<solution>
+				<p></p>
+			</solution>-->
+		</investigation>
+		
+	<investigation xml:id="psa_en-07">
+			<title>Pushing apart the Blocks</title>
+			<statement>
+				<p>
+					
+				</p>
+				<p>You push on two blocks on a level, frictionless table as shown in the three cases below.  In each case, each hand pushes with a constant force for the same amount of time.  For each, consider the system of the two blocks plus, if applicable, any objects connecting the blocks.  In case B, the blocks are connected by an ideal spring; in case C, they are connected by an ideal rope.</p>
+					<figure xml:id="fig_en-blocks">
+				<title>Energy Blocks Figure</title>
+				<caption></caption>
+				<image source="work-blocks.png" width = "50%">
+					<description></description>
+				</image>
+			</figure>
+				<p>Rank the three cases by the net external work done on each system.</p>
+			</statement>
+			<!--<hint>
+				<p></p>
+			</hint>
+			<solution>
+				<p></p>
+			</solution>-->
+		</investigation>
+
+
+
+	</subsection>
+
+
+	<subsection>
+		<title>A*R*C*S Activities</title>
+
+	<project xml:id="psa_mot-11">
+        <title>A Bicycle between Stoplights</title>
+		<p></p>
+		    <p>You are riding your bicycle along a busy street.  You are stopped at a stoplight that turns green at <m>t = 0</m>, 
+				after which your digital speedometer measures your velocity until you have to stop at the next stoplight as a 
+				function of time to be <me>\vec{v}(t)=V\left[ 1-\left(\frac{t}{T}-1\right)^4 \right] \hat{y}</me></p>
+				<p>Determine the distance between the stoplights.</p>
+		<hint>
+		    <p>For the physical representation (part 1c), draw graphs of position, velocity, and acceleration vs. time, paying careful attention to the domain of your graphs.</p>
+		</hint>
+		<hint>
+		    <p>For the numerical calculation (part 2c), you can choose any everyday numbers for the constants <m>V</m> and <m>T</m> that would be reasonable for a bicycle.</p>
+		</hint>
+		<hint>
+		    <p>As part of your sensemaking (part 3c), describe the physical meaning of V and T and use <xref ref="sm_covariation" /> to discuss how and why your answer depends on each variable.</p>
+		</hint>
+
+	</project>
+
+
+</subsection>
 	
 </section>
 

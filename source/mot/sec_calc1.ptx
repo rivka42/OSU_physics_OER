@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_calc1" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Using Integrals in Physics</title>
+  <title>Chop-Multiply-Add: Non-Constant Acceleration</title>
 		
 		  
       <video youtube="26vbUjdFpBk"><description>Using integrals in physics.</description></video>
@@ -26,6 +26,55 @@
 			</exercise>
 			
 		</exercises>
+
+		<project xml:id="class_mario">
+			<title>Super Mario's Acceleration</title>
+			
+			<p></p>
+			
+				<p>Super Mario (mass <m>M</m>) is initially located at position xi running to the right with constant speed <m>v_i</m>.
+					At <m>t = 0</m>, Mario finds a Super Star that results in the following force acting on him: 
+					<me>\vec{F}^* = F_o\left(1 - \frac{t}{T}\right)\hat{x}</me> 
+					Find the time and position at which Mario has returned to his initial velocity.</p>
+			
+			<p><alert>1. Analyze and Represent</alert></p>
+			
+			<p>
+				<alert>Representation:</alert> sketch a graph of the force as a function of time.
+			</p>
+			<p>
+				<alert>Quantities:</alert> Give physical interpretations for <m>F_o</m> and <m>T</m>
+				</p>
+			
+			<p><alert>2. Calculate</alert></p>
+			
+			<p>
+				First find a symbolic expression for Mario's velocity as a function of time.  
+				Then use your expression to find when Mario's velocity is equal to <m>v_i</m>.  
+				Last of all, find Mario's position.
+				</p>
+		
+			<p><alert>3. Sensemake</alert></p>
+			
+			<p>
+				Brainstorm a way to make sense of the equations:
+				<me>
+					\vec{v}(t) = \left[v_i + \frac{F_o}{M} \left(t - \frac{t^2}{2T}\right)\right] \hat{x}
+				</me>
+				<me>
+					t_f = 2T
+				</me>
+				<me>
+					\vec{x}(t) = \left[x_i + v_i t + \frac{F_o}{M} \left(\frac{t^2}{2} - \frac{t^3}{6T}\right)\right] \hat{x}
+				</me>
+				<me>
+					\vec{x}_f = \left[x_i + 2v_i T + \frac{2}{3} \frac{F_o}{M} T^2\right] \hat{x}
+				</me>
+						
+				
+				</p>
+	
+		</project>
 	
 </section>
 

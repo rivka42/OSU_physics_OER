@@ -11,85 +11,14 @@
 	-->
 
 <subsection>
-<title>Practice</title>
+<title>Numerical Practice</title>
 
-    <exploration xml:id="psa_en-alpha0">
-        <title>Impulse</title>
-		<statement>
-		    <p>If an object's mass and velocity are both constant, the impulse acting on it... </p>
-			<ol marker="A">
-				  <li>must be constant and nonzero.</li>
-				  <li>must be zero.</li>
-				  <li>must be increasing.</li>
-				  <li>must be decreasing.</li>
-				</ol>
-		</statement>
-		<!--
-		<hint>
-		    <p></p>
-		</hint>
-		-->
-		<answer>
-		    <p>B</p>
-		</answer>
-	</exploration>
-
-	<exploration xml:id="psa_en-alpha1">
-	<title>Crumple zone</title>
-	<statement>
-		    <p>Modern cars have parts that are purposely designed to crumple or collapse in the event of an accident. What is the advantage of this?</p>
-			<ol marker="A">
-				  <li>It reduces injury to the passengers by increasing the time of impact.</li>
-				  <li>It reduces injury to the passengers by decreasing the time of impact.</li>
-				  <li>It reduces injury to the passengers by increasing the change in momentum. </li>
-				  <li>It reduces injury to the passengers by decreasing the change in momentum. </li>
-				</ol>
-		</statement>
-		<answer>
-		    <p>A</p>
-		</answer>
-	</exploration>
-
-	<exploration xml:id="psa_en-alpha2">
-	<title>Soccer Player I</title>
-	<statement>
-		    <p>A <m>70 \mathrm{~kg}</m> soccer player, running at <m>10 \mathrm{~m/s}</m>, kicks a <m>0.4 \mathrm{~kg}</m> ball, which then travels at <m>50 \mathrm{~m/s}</m>. What is the magnitude of the player's linear momentum? What is the magnitude of the ball's linear momentum?</p>
-		</statement>
-		<answer>
-		    <p><m>700 \mathrm{~kg m/s}</m></p>
-		</answer>
-		<answer>
-		    <p><m>20 \mathrm{~kg m/s}</m></p>
-		</answer>
-	</exploration>
-
-	<exploration xml:id="psa_en-alpha3">
-	<title>Soccer Player II</title>
-	<statement>
-		    <p>The ball from the previous problem is then kicked back towards the player, so that it is now traveling in the opposite direction with the same speed. Has the linear momentum of the ball changed? When the ball was kicked back towards the player, if the foot was in contact with the ball for <m>0.22 \mathrm{~s}</m>, what was the magnitude of the impulse that acted on the ball?</p>
-		</statement>
-		<answer>
-		    <p>Yes, the same mass but a different velocity means a different linear momentum.</p>
-		</answer>
-		<answer>
-		    <p><m>40 \mathrm{~kg m/s}</m></p>
-		</answer>
-	</exploration>
-
-	<exploration xml:id="psa_en-alpha4">
-	<title>Pushing a car</title>
-	<statement>
-		    <p>A force <m>F</m> pushes a car with a small mass <m>m</m>.  Another, identical force <m>F</m> pushes a truck with a bigger mass <m>M</m>. The car and truck are both pushed for the same amount of time. Is the car or the truck going faster at the end of the time?</p>
-		</statement>
-		<answer>
-		    <p>The car.</p>
-		</answer>
-	</exploration>
-
-	<exploration xml:id="psa_en-alpha5">
+   	<exploration xml:id="psa_en-alpha5">
 	<title>Scanning a can</title>
 	<statement>
-		    <p>How much work, in joules, does a supermarket checkout attendant do on a can of soup that he pushes <m>0.6 \mathrm{~m}</m> horizontally while exerting a force of <m>5 \mathrm{~N}</m>?</p>
+		<p></p>
+		    <p>How much work, in joules, does a supermarket checkout attendant do on a can of soup that he pushes 
+				<m>0.6 \mathrm{~m}</m> horizontally while exerting a force of <m>5 \mathrm{~N}</m>?</p>
 		</statement>
 		<answer>
 		    <p><m>3 \mathrm{~J}</m></p>
@@ -99,7 +28,12 @@
 	<exploration xml:id="psa_en-alpha6">
 	<title>Car bumper</title>
 	<statement>
-		    <p>A car's bumper is designed to withstand a <m>4 \mathrm{~km/hr}</m> (<m>1.1 \mathrm{~m/s}</m>) collision with an immovable object without damage to the body of the car.  The bumper cushions the shock by absorbing the force over a distance.  Calculate the magnitude of the average force on a bumper that collapses <m>0.2 \mathrm{~m}</m> while bringing a <m>900 \mathrm{~kg}</m> car to rest from an initial speed of <m>1.1 \mathrm{~m/s}</m>.</p>
+		<p></p>
+		    <p>A car's bumper is designed to withstand a <m>4 \mathrm{~km/hr}</m> (<m>1.1 \mathrm{~m/s}</m>) 
+				collision with an immovable object without damage to the body of the car.  
+				The bumper cushions the shock by absorbing the force over a distance.  
+				Calculate the magnitude of the average force on a bumper that collapses <m>0.2 \mathrm{~m}</m> while bringing a 
+				<m>900 \mathrm{~kg}</m> car to rest from an initial speed of <m>1.1 \mathrm{~m/s}</m>.</p>
 		</statement>
 		<answer>
 		    <p><m>2.7 \times 10^3 \mathrm{~N}</m></p>
@@ -109,7 +43,11 @@
 	<exploration xml:id="psa_en-alpha7">
 	<title>Extraterrestrial gravity</title>
 	<statement>
-		    <p>Settlers on the surface of a distant planet are trying to determine the local value of g. They throw a wrench downward from a height of <m>3 \mathrm{~m}</m> with an initial speed of <m>2 \mathrm{~m/s}</m>; its speed just before impact is <m>10 \mathrm{~m/s}</m>. Use an energy analysis to calculate the local value of <m>g</m>.</p>
+		<p></p>
+		    <p>Settlers on the surface of a distant planet are trying to determine the local value of g. 
+				They throw a wrench downward from a height of <m>3 \mathrm{~m}</m> with an initial speed of 
+				<m>2 \mathrm{~m/s}</m>; its speed just before impact is <m>10 \mathrm{~m/s}</m>. 
+				Use an energy analysis to calculate the local value of <m>g</m>.</p>
 		</statement>
 		<answer>
 		    <p><m>16 \mathrm{~m/s^2}</m></p>
@@ -119,27 +57,46 @@
 	<exploration xml:id="psa_en-alpha8">
 	<title>Rocket sled</title>
 	<statement>
-		    <p>A rocket sled driver is attempting to break the land speed record out in a flat, dry lake bed. The sled's thrusters apply a <m>20,000 \mathrm{~N}</m> force for <m>1000 \mathrm{~m}</m>. There is a constant <m>4,000 \mathrm{~N}</m> wind force directed against the motion of the sled but downward at angle of 30° from the horizontal. If the sled reaches a top speed of <m>300 \mathrm{~m/s}</m>, what is its mass? Some large, simplifying assumptions to use here: Ignore friction from the ground, and assume both the wind force and sled mass are constant.</p>
+		<p></p>
+		    <p>A rocket sled driver is attempting to break the land speed record out in a flat, dry lake bed. 
+				The sled's thrusters apply a <m>20,000 \mathrm{~N}</m> force for <m>1000 \mathrm{~m}</m>. 
+				There is a constant <m>4,000 \mathrm{~N}</m> wind force directed against the motion of the sled but 
+				downward at angle of 30° from the horizontal. If the sled reaches a top speed of <m>300 \mathrm{~m/s}</m>, 
+				what is its mass? Some large, simplifying assumptions to use here: 
+				Ignore friction from the ground, and assume both the wind force and sled mass are constant.</p>
 		</statement>
 		<answer>
 		    <p><m>367 \mathrm{~kg}</m></p>
 		</answer>
 	</exploration>
 
+	<!--This activity involves calculating the work from kinetic friction, which is trickier than the activity makes it
+
 	<exploration xml:id="psa_en-alpha9">
 	<title>Friction on a box</title>
 	<statement>
-		    <p> A cardboard box of unknown mass is sliding at a speed of <m>4.56 \mathrm{~m/s}</m> on a level, frictionless surface. Then the box encounters friction. After sliding <m>0.7 \mathrm{~m}</m> on the frictional portion of the surface, the box's speed is <m>3.33 \mathrm{~m/s}</m>.  What is the coefficient of kinetic friction between the box and that portion of the surface?</p>
+		<p></p>
+		    <p> A cardboard box of unknown mass is sliding at a speed of <m>4.56 \mathrm{~m/s}</m> on a level, 
+				frictionless surface. Then the box encounters friction. 
+				After sliding <m>0.7 \mathrm{~m}</m> on the frictional portion of the surface, 
+				the box's speed is <m>3.33 \mathrm{~m/s}</m>.  
+				What is the coefficient of kinetic friction between the box and that portion of the surface?</p>
 		</statement>
 		<answer>
 		    <p><m>0.707</m></p>
 		</answer>
 	</exploration>
 
+	-->
+
 	<exploration xml:id="psa_en-alpha10">
-	<title>Friction on a box</title>
+	<title>Box and Spring</title>
 	<statement>
-		    <p>A <m>1.8 \mathrm{~kg}</m> block slides on a rough, level surface. When it is traveling at <m>2 \mathrm{~m/s}</m>, the block hits a linear, ideal spring and compresses it by a distance of <m>11 \mathrm{~cm}</m> before (momentarily) coming to rest. The coefficient of kinetic friction between the block and the surface is <m>0.56</m>. What is the force constant of the spring?</p>
+		<p></p>
+		    <p>A <m>1.8 \mathrm{~kg}</m> block slides on a rough, level surface. When it is traveling at 
+				<m>2 \mathrm{~m/s}</m>, the block hits a linear, ideal spring and compresses it by a distance of 
+				<m>11 \mathrm{~cm}</m> before (momentarily) coming to rest. The coefficient of kinetic friction between the 
+				block and the surface is <m>0.56</m>. What is the force constant of the spring?</p>
 		</statement>
 		<answer>
 		    <p><m>415 \mathrm{~N/m}</m></p>
@@ -153,7 +110,12 @@
     <investigation xml:id="pa_en-01">
         <title>Stopping a Meteor I</title>
 		<statement>
-		    <p>You are an astronaut in charge of defending a space station from a small, incoming meteor.  The meteor has mass <em>m</em> and speed <em>v</em>, is initially a distance <em>d</em> from the space station, and is moving directly at the space station.  Your space station can exert a constant force on the meteor.  What force must you exert if you are to stop the meteor before it hits the space station?</p>
+			<p></p>
+		    <p>You are an astronaut in charge of defending a space station from a small, incoming meteor.  
+				The meteor has mass <em>m</em> and speed <em>v</em>, is initially a distance <em>d</em> from the space station, 
+				and is moving directly at the space station.  
+				Your space station can exert a constant force on the meteor.  
+				What force must you exert if you are to stop the meteor before it hits the space station?</p>
 		</statement>
 		<!--<hint>
 		    <p></p>
@@ -166,6 +128,7 @@
 	<investigation xml:id="psa_en-02">
         <title>Stopping a Meteor II</title>
 		<statement>
+			<p></p>
 		    <p>After you save the space station from the meteor, you detect two new incoming meteors: both meteors have the same mass and start the same distance away from the space station.  Once again, you are able to stop both meteors right before they hit the space station, but only by setting your space station to exert a force on Meteor 2 that is twice as large as the force on Meteor 1.  Based on this, was the initial speed of Meteor 2 <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the initial speed of Meteor 1?</p>
 		</statement>
 		<!--<hint>
@@ -179,13 +142,18 @@
 	<project xml:id="psa-en-03">
 		<title>Landing Jet Plane</title>
 		<statement>
-			<p>As a <m>1.4 \times 10^4 \mathrm{~kg}</m> jet plane lands on an aircraft carrier, its tail hook snags a cable to slow it down. The cable is attached to a spring with spring constant <m>6.5 \times 10^4 \mathrm{~N/m}</m>.  If the spring stretches <m>29 \mathrm{~m}</m> to stop the plane, what was the plane's landing speed? </p>
+			<p></p>
+			<p>As a <m>1.4 \times 10^4 \mathrm{~kg}</m> jet plane lands on an aircraft carrier, 
+				its tail hook snags a cable to slow it down. The cable is attached to a spring with spring constant 
+				<m>6.5 \times 10^4 \mathrm{~N/m}</m>.  If the spring stretches <m>29 \mathrm{~m}</m> to stop the plane, 
+				what was the plane's landing speed? </p>
 		</statement>
 	</project>
 
 	<investigation xml:id="psa_en-04">
         <title>Three Catapults</title>
 		<statement>
+			<p></p>
 		    <p>Three catapults are configured to throw the same bowling ball into the air with the same initial speed.  Each catapult is positioned at the top of the same tall cliff, but they are designed to release the bowling ball differently.</p>
 			<p>Catapult A releases the bowling ball at a 30<m>^{\circ}</m> angle with respect to the horizontal.</p>
 			<p>Catapult B releases the bowling ball at a 45<m>^{\circ}</m> angle with respect to the horizontal.</p>
@@ -200,134 +168,38 @@
 		</solution>-->
 	</investigation>
 
-	<project xml:id="psa-en-05">
-		<title>Ball of Clay</title>
-		<statement>
-			<p>A <m>50 \mathrm{~g}</m> ball of clay traveling at speed <m>v_0</m> hits and sticks to a <m>1.0 \mathrm{~kg}</m> brick sitting at rest on a frictionless surface.  What is the speed of the brick after the collision?</p>
-		</statement>
-	</project>
+
 
 </subsection>
 
 <subsection>
 <title>Apply</title>
 
-<investigation xml:id="psa_en-06">
-        <title>Work on a Single Block</title>
-		<statement>
-		    <p>You push on a single block on a level, frictionless table as described in the three cases below.  In each case, you push with a constant force for the same amount of time.  For each, consider the system of the block on its own.</p>
-				<p>
-				<ul>
-				<li>Case 1: The block has mass <m>m</m> and you push on it to the right.</li>
-				<li>Case 2: The block has mass <m>m</m> and you push on it to the left.</li>
-				<li>Case 3: The block has mass <m>m/3</m> and you push on it to the right.</li>
-				</ul>
-				</p>
-			<p>Rank the three cases by the net external work done on each system.</p>
-		</statement>
-		<!--<hint>
-		    <p></p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>-->
-	</investigation>
-	
-<investigation xml:id="psa_en-07">
-        <title>Pushing apart the Blocks</title>
-		<statement>
-		    <p>You push on two blocks on a level, frictionless table as shown in the three cases below.  In each case, each hand pushes with a constant force for the same amount of time.  For each, consider the system of the two blocks plus, if applicable, any objects connecting the blocks.  In case B, the blocks are connected by an ideal spring; in case C, they are connected by an ideal rope.</p>
-				<figure xml:id="fig_en-blocks">
-			<title>Energy Blocks Figure</title>
-			<caption></caption>
-			<image source="work-blocks.png" width = "100%">
-				<description></description>
-			</image>
-		</figure>
-			<p>Rank the three cases by the net external work done on each system.</p>
-		</statement>
-		<!--<hint>
-		    <p></p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>-->
-	</investigation>
+
 
 
     <project xml:id="psa_en-08">
         <title>Pulling a Sled</title>
 		<statement>
-		    <p>You decide to pull a 150-kg sled across an icy pond that is <m>24 \mathrm{~m}</m> across.  You start pulling with a constant force of <m>200 \mathrm{~N}</m>.  When you get halfway across the pond, you hear the ice cracking and decide to increase your force so that it increases linearly with distance, eventually reaching <m>500 \mathrm{~N}</m> when you get to the other side of the pond.  How fast is the sled moving when you reach the other side?  </p>
+			<p></p>
+		    <p>You decide to pull a 150-kg sled across an icy pond that is <m>24 \mathrm{~m}</m> across.  
+				You start pulling with a constant force of <m>200 \mathrm{~N}</m>.  
+				When you get halfway across the pond, you hear the ice cracking and decide to increase your force so that 
+				it increases linearly with distance, eventually reaching <m>500 \mathrm{~N}</m> when you get to the other side 
+				of the pond.  How fast is the sled moving when you reach the other side?  </p>
 		</statement>
 		<hint>
 		    <p>Graphing the force vs. distance might help!</p>
 		</hint>
 	</project>
 
-	<project xml:id="psa_en-09">
-        <title>Apple on a Spring</title>
-		<statement>
-		    <p>You have a vertical spring with constant <m>k</m>, which is initially neither stretched nor compressed.  You attach an apple (mass <m>m</m>) to the spring and release it from rest at <m>t = 0</m>.  The apple moves downward, and then comes to rest momentarily at some later time after falling some distance.  Determine the distance the apple has fallen.</p>
-		</statement>
-		<!--<hint>
-		    <p></p>
-		</hint>-->
-	</project>
-
-	<investigation xml:id="psa_en-10">
-        <title>Repulsive Force</title>
-		<statement>
-		    <p>Two objects exert a (conservative) force on each other that is repulsive. For example, the force on object 1 from object 2 points away from object 2.  If the two objects move toward each other, does the potential energy of the two objects <em>increase</em>, <em>decrease</em>, or <em>stay the same</em>?</p>
-		</statement>
-		<!--<hint>
-		    <p></p>
-		</hint>-->
-	</investigation>
 	
-		<investigation xml:id="psa_en-11">
-        <title>Colliding Astronauts</title>
-		<statement>
-		    <p>Two astronauts, Michael and Collins, conduct several collision experiments in an environment with no external forces.  Michael has a larger mass than Collins.  In each experiment, Michael is initially moving with speed <m>v_i</m> in the positive <m>x</m>-direction and Collins is initially at rest.</p>
-				<ul>
-				<li><p>In case A, Michael's final velocity is <m>0</m>.</p></li>
-				<li><p>In case B, Michael's final velocity is <m>\frac{v_i}{4}</m> in the negative <m>x</m>-direction.</p></li>
-				<li><p>In case C, Michael's final velocity is <m>\frac{v_i}{4}</m> in the positive <m>x</m>-direction.</p></li>
-				</ul>
-				<p>Rank the experiments by Collins' final kinetic energy.</p>
-		</statement>
-		<hint>
-		    <p>Sketch a momentum vector diagram for each case.</p>
-		</hint>
-	</investigation>
 
-<project xml:id="psa_en-012">
-        <title>The Exploding Firecracker</title>
-		<statement>
-		    <p>You throw a firecracker vertically upward.  At <m>t = 0</m>, the firecracker is moving upward with speed <m>v_1</m>, at which point it begins to explode, splitting into an upper piece with mass <m>m_u</m> and a lower piece with mass <m>m_l</m>.  The explosion finishes at <m>t = \frac{v_1}{g}</m>, at which point you observe that the upper piece is still moving upward with speed <m>3v_1</m>.</p>
-				<p>Determine the velocity of the lower piece at <m>t = \frac{v_1}{g}</m>.</p>
-		</statement>
-		<hint>
-		    <p>For your representation (part 1c), sketch a momentum vector diagram.</p>
-		</hint>
-		<hint>
-		    <p>For your symbolic sensemaking (part 3c), try at least two special cases.</p>
-		</hint>
-	</project>
 
-<project>
-	<title>Falling Block</title>
-		<statement>
-		    <p>Shown in the figure below are two blocks connected by an ideal string that passes over a massless, frictionless pulley.  The mass of the larger block sits on a flat, frictionless table, and has four times the mass of the smaller block, which hangs vertically. Determine the speed of each block when the larger block reaches the edge of the table, a distance of <m>0.75 \mathrm{~m}</m>.</p>
-		</statement>
-		<figure xml:id="fig_en-falling-block">
-			<title>Falling Block Figure</title>
-			<caption></caption>
-			<image source="Falling-Block.png" width = "100%">
-				<description></description>
-			</image>
-		</figure>
-</project>
+	
+		
+
+
 
 </subsection>
   

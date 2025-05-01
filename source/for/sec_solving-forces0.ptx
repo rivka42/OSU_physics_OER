@@ -115,7 +115,7 @@
 		
 	</activity>
 	
-<activity>
+<activity xml:id="class_groceries">
 		<title>The Bag of Groceries</title>
 		<p>
 			
