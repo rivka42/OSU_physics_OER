@@ -54,9 +54,9 @@
 			<p>
 				
 			</p>
-		    <p>The figure shows two wedges with different masses, <m>m_1</m> and <m>m_2</m>, sitting on a table.  
+		    <p>The figure shows two wedges with different masses: <m>m_2</m> is on a table and <m>m_1</m> is on <m>m_2</m> (not touching the table).  
 				Both the table and the surface between the wedges are frictionless.  
-				You push on one of the masses with an unknown constant force in such a way that the wedges move with the same constant acceleration to the right. 
+				You push on <m>m_2</m> with an unknown constant force in such a way that the wedges move with the same constant acceleration to the right. 
 				Determine the magnitude of the unknown force and the magnitude of the acceleration.
 			</p>
 			<figure xml:id="for_wedges">

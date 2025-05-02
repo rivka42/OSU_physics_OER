@@ -4,7 +4,7 @@
 	<title>Chop-Multiply-Add: Work for Non-Constant Forces</title>
 	
     <p>
-     In <xref ref="sec_cma-mass"></xref>, you learned the Chop-Multiply-Add strategy for constructing physics integrals.  
+     You have previously learned the <xref ref="chop-multiply-add"/> strategy for constructing physics integrals.  
 	 You can use this strategy to help find the work done by non-constant forces.
     </p>
 			

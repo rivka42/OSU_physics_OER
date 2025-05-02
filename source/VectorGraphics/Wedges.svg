@@ -82,9 +82,9 @@
      fit-margin-right="2"
      fit-margin-bottom="2"
      inkscape:zoom="0.5"
-     inkscape:cx="246.96648"
+     inkscape:cx="-105.03352"
      inkscape:cy="390.65626"
-     inkscape:window-x="-9"
+     inkscape:window-x="1911"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="g10" /><g
@@ -130,6 +130,7 @@
        id="tspan4223-4-5">m</tspan><tspan
        style="font-size:51.51100159px;baseline-shift:sub;fill:#ffffff;stroke-width:2.18412685px"
        id="tspan4221-0-8">1</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:99.05962372px;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.18412685px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -146,6 +147,7 @@
        id="tspan4223-4">m</tspan><tspan
        style="font-size:51.51100159px;baseline-shift:sub;stroke-width:2.18412685px"
        id="tspan4221-0">2</tspan></tspan></text>
+
 <g
    id="g4821-3"
    transform="matrix(0.83855073,-0.00274986,0.00274986,0.83855073,-85.51329,-296.16162)"><rect
@@ -253,4 +255,24 @@
      height="25.102289"
      width="17.960512"
      id="rect4804-6"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></g></g></svg>
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></g><text
+   id="text900"
+   y="294.95737"
+   x="243.6443"
+   style="font-style:normal;font-variant:normal;font-weight:400;font-size:36.92081451px;line-height:125%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.51375794"
+   xml:space="preserve"
+   transform="scale(1,-1)"><tspan
+     id="tspan898"
+     y="294.95737"
+     x="243.6443"
+     sodipodi:role="line"
+     style="fill:#000000;stroke-width:2.51375794"><tspan
+       id="tspan894"
+       style="font-style:italic;font-variant:normal;font-weight:400;font-size:36.92081451px;font-family:'Times New Roman';fill:#000000;stroke-width:2.51375794"
+       dy="0"
+       dx="0">θ</tspan><tspan
+       id="tspan896"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:40.22012711px;font-family:'Times New Roman';fill:#000000;stroke-width:2.51375794"
+       dy="0"
+       dx="0"> </tspan></tspan></text>
+</g></svg>

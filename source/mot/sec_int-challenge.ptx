@@ -9,6 +9,17 @@
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
+
+	<activity>
+		<title>Metacognition: Integrals</title>
+		<p>
+			
+		</p>
+		<p>
+			In this chapter, you learned a strategy for constructing integrals for physical calculations involving quantities that are not constant.  
+			Write a 1-2 paragraph reflection about how this strategy is similar to or different from your previous experience with integrals.
+		</p>
+	</activity>
 	
   
 	<subsection>
@@ -84,13 +95,21 @@
 		    <p>For the numerical calculation (part 2c), you can choose any everyday numbers for the constants <m>V</m> and <m>T</m> that would be reasonable for a bicycle.</p>
 		</hint>
 		<hint>
-		    <p>As part of your sensemaking (part 3c), describe the physical meaning of V and T and use <xref ref="sm_covariation" /> to discuss how and why your answer depends on each variable.</p>
+		    <p>As part of your sensemaking (part 3c), describe the physical meaning of <m>V</m> and <m>T</m> and use <xref ref="sm_covariation" /> to discuss how and why your answer depends on each variable.</p>
 		</hint>
 
 	</project>
 
 
 </subsection>
+
+<references>
+	<biblio xml:id="ref_tutorials-work">
+	<p>The <q>Work on a Single Block</q> and <q>Pushing apart the Blocks</q> activities adapted from 
+	<em>Tutorials in Introductory Physics</em>.
+</p>
+	</biblio>
+</references>
 	
 </section>
 

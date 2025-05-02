@@ -8,6 +8,7 @@
 	<title>Activities</title>
 			<exercise>
 <title>Exploration</title>
+<p></p>
 			  <p> Visit this <url href="https://phet.colorado.edu/sims/html/energy-skate-park-basics/latest/energy-skate-park-basics_en.html" visual="phet.colorado.edu">simulation</url>.  Play around with it for at least a few minutes.</p>
 <p>Describe two observations you were able to make using the simulation, especially if you observed anything that you consider unexpected or surprising. Specifically describe why they were interesting to you.</p>
 			</exercise>
@@ -15,12 +16,14 @@
 			<exercise>
 <title>Representation: Energy Bar Chart</title>
 <statement>
+	<p></p>
 			  <p>Explain what information the bar graph representation (from the simulation) displays and how it displays this information.</p>
 </statement>
 <answer>
 <lemma xml:id="r_energy-bar-chart">
 	<title>Energy Bar Chart</title>
 	<statement>
+		<p></p>
 	<p>An energy bar chart is a graphical representation where each form of energy in a system is represented by a vertical bar.  It is often common to draw a different bar chart for each instant of interest.</p>
 	</statement>
 	</lemma>

@@ -6,11 +6,27 @@
   <exercises>
 	<title>Practice Activities</title>
 	  </exercises>
+
+	  <project xml:id="psa_sprinter">
+        <title>The Sprinter</title>
+		<statement>
+			<p></p>
+			<p>
+				An sprinter can be modeled as having a velocity in the <m>x</m>-direction of <m>v_x = c\left(1 - e^{-t/b}\right)</m>.  
+				What is the magnitude of the sprinter's maximum acceleration?
+			</p>
+		    </statement>
+<solution>
+	<p>
+		<figure xml:id="mot_vb-rwc">
+			<caption>An example of using the A*R*C*S steps.</caption>
+		<video youtube="kJ9qrl0SrPI"></video>
+	  </figure>
+	</p>
+</solution>
+	</project>
 	
-			<figure xml:id="mot_vb-rwc">
-		  <caption>An example of using the A*R*C*S steps.</caption>
-      <video youtube="kJ9qrl0SrPI"></video>
-    </figure>
+			
 		
 
 	<project xml:id="psa_mot-6">
@@ -22,14 +38,23 @@
 				<m>a = -2.00 \mathrm{~m/s^3}</m>, <m>b = -2.00 \mathrm{~m/s^2}</m>, 
 				and <m>c =12.0 \mathrm{~m/s}</m>. How far does the cylinder move from <m>t = 0 \mathrm{~s}</m> until it comes to rest?</p>
 		</statement>
+		<!--
 		<hint>
 		    <p>For the physical representation (part 1b), draw and label a graph of velocity vs. time.</p>
-				<p>As part of your sensemaking (part 3c), draw and label graphs of position and acceleration vs. time, and discuss how all three of your graphs are related.</p>
+				<p>As part of your sensemaking (part 3c), draw and label graphs of position and acceleration vs. time, 
+				and discuss how all three of your graphs are related.</p>
 		</hint>
+		-->
 	</project>
 
   
-
+	<references>
+		<biblio xml:id="ref_knight-sprinter">
+		<p><q>The Sprinter</q> adapted from Knight's 
+		<em>Physics for Scientists and Engineers</em>.
+	</p>
+		</biblio>
+	</references>
 	
 </section>
 

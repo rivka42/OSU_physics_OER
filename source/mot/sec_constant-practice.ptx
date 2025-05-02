@@ -6,6 +6,131 @@
   <exercises>
 	<title>Practice Activities</title>
 	  </exercises>
+
+	  <project xml:id="psa_mot-4">
+        <title>Pitching Speed</title>
+		<statement>
+			<p></p>
+		    <p>A baseball player wants to determine his pitching speed. 
+				You have him stand on a ledge and throw the ball horizontally from an elevation <m>5 \mathrm{~m}</m> 
+				above the ground.  The ball hits the ground <m>30 \mathrm{~m}</m> away.  What is his pitching speed?</p>
+		</statement>
+		<!--
+		<hint>
+		    <p>When making sense of your answer, you should often look to add something to your knowledge or confidence in your answer.</p>
+		</hint>
+		-->
+		<solution>
+			<p><alert>1. Analyze and Represent</alert></p>
+		
+			<p>
+				<ol marker="a">
+					<li>
+						<p>
+							<me>
+								y_i = 5 \mathrm{~m}
+							</me>
+							<me>
+								y_f = 0
+							</me>
+							<me>
+								x_i = 0
+							</me>
+							<me>
+								x_f = 30 \mathrm{~m}
+							</me>
+							<me>
+								a_y = -g = -10 \mathrm{~m/s^2}
+							</me>
+							<me>
+								v_{ix} = ?
+							</me>
+						</p>
+					</li>
+					<li>
+						<p>
+							Particle model: ignore rotation of the ball.  Near Earth with gravity as the only force, leading to an acceleration of <m>-g\hat{y}</m>.
+						</p>
+					</li>
+					<li>
+						<p>
+							A simple physical picture will probably do here.
+						</p>
+						<figure xml:id="Baseball">
+							<title>Baseball Figure</title>
+								<caption>A baseball's path.</caption>
+								   <image source="Baseball.png" width = "60%">
+								<description></description></image>
+							 </figure>
+					</li>
+				</ol>
+	
+				</p>
+			
+			<p><alert>2. Calculate</alert></p>
+			
+			<p>
+				<ol marker="a">
+					<li>
+						<p>
+							<me>x_f = x_{i} + v_{ix}t</me>
+							<me>y_f = y_{i} + v_{iy}t + \frac{1}{2}a_y t^2</me>
+						</p>
+					</li>
+					<li>
+						<p>
+							<me>0 = y_{i} - \frac{1}{2}g t^2</me>
+							<me>
+								t = \sqrt{\frac{2y_i}{g}}
+							</me>
+							<me>x_f = v_{ix}t = v_{ix}\sqrt{\frac{2y_i}{g}}</me>
+							<me>
+								v_{ix} = x_f\sqrt{\frac{g}{2y_i}}
+							</me>
+							
+						</p>
+					</li>
+					<li>
+						<p>
+							<me>v_{ix} = 30 \mathrm{~m/s}</me>
+						</p>
+					</li>
+				</ol>
+				</p>
+		
+			<p><alert>3. Sensemake</alert></p>
+			
+			<p>
+				<ol marker="a">
+					<li>
+						<p>
+							<me>\mathrm{m/s} = \mathrm{m}\sqrt{\frac{\mathrm{m/s^2}}{\mathrm{m}}} = \mathrm{m/s}</me>
+						</p>
+					</li>
+					<li>
+						<p>
+							<m>30 \mathrm{~m/s}</m> is about <m>65 \mathrm{~mph}</m>.  
+							Professional baseball pitchers regularly reach around <m>100 \mathrm{~mph}</m>, so while my friend is doing okay, 
+							he might need a little more practice before going pro.
+						</p>
+					</li>
+					<li>
+						<p>
+							<m>v_{ix}</m> depends on three quantities, two of which are of interest: <m>y_i</m> and <m>x_f</m>.  
+							For <m>x_f</m>, if you are able to throw the ball a greater horizontal distance without it falling farther, 
+							you must be throwing it faster.  Sure enough, <m>x_f</m> is in the numerator of our expression, so this agrees with our physical reasoning.
+						</p>
+						<p>
+							On the other hand, a larger value of <m>y_i</m> means that the baseball will fall a greater distance without actually traveling any farther horizontally.  
+							This can only be true if the ball is thrown with a smaller initial speed.  The equation has <m>y_i</m> in the denominator, so once again this agrees!
+						</p>
+					</li>
+				</ol>
+				</p>
+		</solution>
+	</project>
+
+
 		  
 	  <project xml:id="x_realworld-kinematics">
 		<title>Stopping a Car</title>
@@ -13,7 +138,9 @@
 			<p>
 				
 			</p>
-		<p>You are driving a car on a residential street when a ball bounces in front of you and you slam on the brakes.  
+		<p>You are driving a car on a residential street at a speed of about <m>v = 10 \mathrm{~m/s}</m> 
+			when a ball bounces in front of you and you slam on the brakes, leading to an acceleration with a magnitude of about 
+			<m>a = 12.5 \mathrm{~m/s^2}</m>.  
 			How much time does it take for you to stop?  How much distance have you traveled in this time?</p>
 		</statement>
 		<!--
@@ -23,37 +150,7 @@
 		-->
 	</project>
       
-	  <project xml:id="psa_mot-4">
-        <title>Pitching Speed</title>
-		<statement>
-			<p></p>
-		    <p>A baseball player wants to determine his pitching speed. You have him stand on a ledge and throw the ball horizontally from an elevation <m>5.0 \mathrm{~m}</m> above the ground.  The ball hits the ground <m>30 \mathrm{~m}</m> away.  What is his pitching speed?</p>
-		</statement>
-		<hint>
-		    <p>When making sense of your answer, you should often look to add something to your knowledge or confidence in your answer.</p>
-		</hint>
-		<!--
-		<solution>
-		    <p></p>
-		</solution>
-		-->
-	</project>
-
-	<investigation xml:id="psa_mot-5">
-        <title>Pitching in the Wind</title>
-		<statement>
-			<p></p>
-		    <p>The baseball player from the previous problem throws the baseball again with the same initial conditions as above.  This time, however, a strong wind causes the ball to experience a small backward horizontal acceleration throughout its motion.  Is the horizontal distance traveled by the ball before it hits the ground in this situation <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the original distance?</p>
-		</statement>
-		<hint>
-		    <p></p>
-		</hint>
-		<!--
-		<solution>
-		    <p></p>
-		</solution>
-		-->
-	</investigation>
+	  
 
 	<investigation xml:id="psa_mot-7">
         <title>Ramp Race</title>

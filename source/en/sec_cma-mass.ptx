@@ -3,7 +3,270 @@
 <section xml:id="sec_cma-mass" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Chop-Multiply-Add: Total Mass</title>
 	
+  <subsection>
+    <title>Part I. Mass and Density</title>
+    
+    <ol marker="A">
+      <li>
+        <p>
+          Write down a symbolic equation relating the mass of an object and its density.
+        </p>
+        <p>
+          Are there any additional quantities you need to define?
+        </p>
+        <p>
+          Are there any assumptions that must be made for your equation to be true?
+        </p>
+      </li>
+      <li>
+        <p>
+          Choose three of the small objects made of the same kind of wood shown in the figure below.  Write an equation for the mass of each object, using unique symbols for any quantities that are different from each other.
+        </p>
+        <p>
+          The wood the objects are made from has a density of approximately <m>\rho = 700 \mathrm{~kg/m^3}</m>.  Estimate a numerical value for the mass of each object.  Make sense of your answers.
+        </p>
+      </li>
+      <li>
+        <p>
+          Consider the system consisting of all three objects together.  Write an equation for the total mass of the system.  Simplify your equation as much as possible before finding a numerical value.
+        </p>
+        <p>
+          Why is the equation you wrote in part A incorrect for the mass of this system?  Are there any other systems for which you think the equation in part A would be incorrect?
+        </p>
+      </li>
+    </ol>
+    
+  <p>
+    Arrange your collective objects from left to right in order of increasing mass.
+  </p>
+ 
+ 
+</subsection>
+ <subsection>
+  <title>Part II. Chopping up Space</title>
+  
 
+  <p>
+  You are interested in finding the total mass m of an object such as the one with the cross-section shown at right.
+  </p>
+  <p>
+    The three objects you studied in Part I can each be used to represent part of the larger object.
+  </p>
+  <ol marker="A">
+          <li>
+            <p>
+              Sketch your three objects on the figure.  Label each sketch with the symbols you used in Part I.
+            </p>
+            <figure xml:id="fig_cma-1">
+              <title>CMA Figure 1</title>
+              <caption></caption>
+              <image source="CMA-1.png" width = "50%">
+                <description></description>
+              </image>
+            </figure>
+          </li>
+          <li>
+            <p>
+            Consider the following equation for the mass of one of the objects: <me>dm = \rho dV</me>.
+            Why do you think <m>dm</m> is an appropriate symbol for the mass of this object?  Why is it important that there is a differential symbol <m>d</m> on both sides of the equation?
+            </p>
+          </li>
+          <li>
+            <p>
+            Write an equation for <m>dV</m> using the coordinate system below.  
+            Which other quantities in this equation should also be written with the differential symbol <m>d</m>?
+            </p>
+            <figure xml:id="fig_cma-1a">
+              <title>CMA Figure 1.5</title>
+              <caption></caption>
+              <image source="Reference Frame.png" width = "50%">
+                <description></description>
+              </image>
+            </figure>
+          </li>
+          <li>
+            <p>
+            Which of the quantities in your equation for <m>dV</m> are the same for all three of your objects?  Which are different?
+            </p>
+          </li>
+          <li>
+            <p>
+              Suppose the curved line above can be written <m>y = \frac{x^2}{L}</m>, where <m>L</m> is the horizontal length of the object.
+  Label <m>x</m> and <m>L</m> on the figure above.  What is the difference between these two quantities?  Where is the origin?  Why would the simpler equation <m>y = x^2</m> be incorrect for this line?
+            </p>
+          </li>
+          <li>
+            <p>
+              The task of finding <m>dV</m> in an equation like <m>dm = \rho dV</m> (both as its own equation and by sketching the parts of <m>dV</m> on a figure) is known as chopping up space, or, more simply, chopping.
+  Why do you think this is an appropriate name for this task?  Why do you think it is important?
+            </p>
+          </li>
+  </ol>
+  
+  
+</subsection>
+<subsection>
+  <title>Part III. Multiplying and Adding</title>
+  
+
+    <p>
+  The equation <m>dm = \rho dV</m> describes the mass of a small piece of the object in Part II.
+    </p>
+
+    <ol marker="A">
+      <li>
+        <p>
+          Substitute your expression for <m>dV</m> from the end of Part II into this equation.
+        </p>
+      </li>
+      <li>
+        <p>
+          Is the density, <m>\rho</m>, the same or different for each of the small pieces you have drawn on the figure?
+        </p>
+      </li>
+      <li>
+        <p>
+          The task of multiplying quantities like <m>\rho</m> and <m>dV</m> to find dm is known as <alert>multiplying</alert>.
+        </p>
+        <p>
+    Now that you know the mass of each small piece, <m>dm</m>, describe a conceptual procedure you could use to determine the total mass m of the object.
+  
+        </p>
+        <p>
+          What mathematical procedure corresponds to the conceptual procedure you described?
+        </p>
+      </li>
+      <li>
+        <p>
+          Carry out the procedure you described above using the information from the previous parts.  You should end up with both an equation for m in terms of known quantities and a numerical answer.
+        </p>
+      </li>
+      <li>
+        <p>
+          Check that your calculations make sense using the units, numbers, and covariational reasoning sensemaking strategies.
+        </p>
+      </li>
+    </ol>
+    <p>
+  The task of integrating both sides of an equation like <m>dm = \rho dV</m> (including appropriate limits) is a form of <alert>adding</alert>, or, alternatively, <alert>accumulating</alert>.
+    </p>
+  
+</subsection>
+<subsection>
+  <title>Part IV. Varying Density</title>
+  
+
+    <p>
+  You now have a three-step strategy that can be used to construct symbolic equations for quantities that are made from 
+  changing quantities: <alert>Chop-Multiply-Add</alert>.  Now you will have a chance to apply this strategy in a new context.
+    </p>
+  <p><alert>Chop</alert></p>
+  <p>The object shown below has a mass density that increases from left to right.  The density is uniform in the other directions.  The horizontal length of the object is <m>L</m> and the height and depth are both <m>a</m>.</p>
+    
+  <figure xml:id="fig_cma-2">
+    <title>CMA Figure 2</title>
+    <caption></caption>
+    <image source="CMA-2.png" width = "50%">
+      <description></description>
+    </image>
+  </figure>
+
+  <ol marker="A">
+    <li>
+      <p>
+        List a few different ways you could chop this object into small pieces.  Write a symbolic equation for the volume of an example small piece for each way you think of.  Make sure to use the differential <m>d</m> symbol appropriately in your equations.
+      </p>
+      <p>
+        Which ways of chopping correspond to cases where the density of each piece can be approximated as uniform?
+      </p>
+    </li>
+    <li>
+      <p>
+        Choose the way of chopping up the object that allows your small pieces to be as large as possible while allowing you to treat the density of each piece as uniform.  Sketch an arbitrary example on the figure above and label both its size and position (make sure to specify your coordinate system).
+      </p>
+    </li>
+  </ol>
+
+  <p>
+    <alert>Multiply</alert>
+  </p>
+
+  <p>
+    Assume the mass density <m>\rho</m> varies linearly with respect to <m>x</m> (the horizontal position), from <m>\rho_o</m> at the left 
+    edge to <m>3\rho_o</m> at the right edge.
+  </p>
+
+  <ol marker="A">
+    <li>
+      <p>
+        Start by writing a symbolic equation for <m>\rho</m> in terms of <m>x</m>, using what you know about the equation for a straight line.  Make sure your equation agrees with your chosen reference frame.
+      </p>
+    </li>
+    <li>
+      <p>
+        Write a symbolic equation for dm, the mass of the small piece you labeled on the figure in the Chop part.  It can often help to add a label for dm to your figure.  Your equation should only be written in terms of known variables (such as <m>L</m>, <m>a</m>, or <m>\rho_o</m>) or coordinate variables (such as <m>x</m>, <m>y</m>, <m>z</m>, or <m>dx</m>, <m>dy</m>, <m>dz</m>).
+      </p>
+    </li>
+  </ol>
+  
+  <p>
+    <alert>Add</alert>
+  </p>
+    
+  <p>
+  You should now have an equation that looks like <m>dm = ...</m>, which you can integrate to get an equation for <m>m</m>!
+  </p>
+  <ol marker="A">
+    <li>
+      <p>
+        How many integrals do you need to do?  How would your answer change if you had chosen a different way of chopping the object into small pieces?
+      </p>
+      <p>
+        Do you need to insert an extra differential (like <m>dx</m>) into your expression now that it is an integral?  Why or why not?
+      </p>
+    </li>
+    <li>
+      <p>
+        Use the diagram you drew on the previous page to determine the appropriate limits of integration.  Why would it be incorrect to do an indefinite integral here?
+      </p>
+    </li>
+    <li>
+      <p>
+        Evaluate your integral expression.  Do you need to use an integral calculator or is this an integral that is manageable to do by hand?  
+        (Hint: pay careful attention to which quantities are constant and which are not.)
+      </p>
+    </li>
+    <li>
+      <p>
+        Check that your calculations make sense using the units, numbers, and covariational reasoning sensemaking strategies.
+      </p>
+    </li>
+    <li>
+      <p>
+        <alert>Metacognitive Reflection</alert>
+      </p>
+      <p>
+        How did this example differ from the original example you explored in the first three sections?  What was similar?  What do you want to remember about this process for future activities that ask you to use a chop-multiply-add strategy?
+      </p>
+    </li>
+  </ol>
+  
+    </subsection>
+
+<algorithm xml:id="chop-multiply-add">
+  <title>Chop-Multiply-Add</title>
+  <statement>
+    <p><term>Chop-Multiply-Add</term> is a strategy that can be used to perform a calculation when one or more of the involved quantities is <em>not constant</em>.    </p>
+
+    <p><term>Chop:</term> Start by chopping something up into small pieces: usually regions of space or intervals of time.  Label each relevant piece with a differential, such as <m>dx</m> or <m>dt</m>.</p>
+	
+    <p><term>Multiply:</term> Multiply appropriate quantities, including the infinitesimal quantity identified in the Chop step, to find an infinitesimal version fo the desired quantity.  For example, mass might be written in terms of linear mass density <m>\lambda</m> as <m>dm = \lambda dx</m>.</p>
+    
+      <p><term>Add:</term> Last, add up all the infinitesimal pieces of the relevant quantity: for example <m>M = \int_{x_i}^{x_f}\lambda dx</m>.</p>  
+  </statement>
+</algorithm>
+
+    
 	
 </section>
 

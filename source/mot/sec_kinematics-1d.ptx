@@ -6,7 +6,7 @@
 		  
       <video youtube="u67tATWkDQk"><description>Motion with constant acceleration in one dimension.</description></video>
    	
-	<assumption>
+	<assumption xml:id="kinematics-equations">
 	<title>Motion with Constant Acceleration</title>
 	<statement>
 		<p>

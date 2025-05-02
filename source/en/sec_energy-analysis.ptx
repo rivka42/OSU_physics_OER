@@ -5,18 +5,53 @@
 	
 	<video youtube="hMlkGos6HA0"><description>Energy Analysis.</description></video>
 	
-<p>In <xref ref="sec_solving-forces1"></xref>, you saw a strategy for force analysis.  Approaching a context from an energy perspective follows a similar structure, but the goals are often different. The steps below can be extremely helpful.</p>
+<p>In <xref ref="sec_solving-forces1"></xref>, you saw a strategy for force analysis.  
+	Approaching a context from an energy perspective follows a similar structure, but the goals are often different. 
+</p>
 
-<p><alert>Analyze and Represent:</alert> Identify a system and draw an Energy System Diagram (and/or Energy Bar Diagrams or Potential Energy Diagrams, once you learn how to use them).</p>
+<algorithm xml:id="energy-analysis">
+	<title>Energy Analysis</title>
+	<statement>
+<p></p>
+<ol>
+	<li>
+		<p>
+			Identify a system and choose a reference frame
+		</p>
+	</li>
+	<li> 
+		<p>
+			Identify all forms of energy in the system
+		</p>
+	</li>
+	<li>
+		<p>
+			Determine the net external work on the system
+		</p>
+	</li>
+	<li>
+		<p>
+			Use the Work-Energy Theorem to relate change in energy and work
+		</p>
+	</li>
+	<li>
+		<p>
+			Check that your claims make sense
+		</p>
+	</li>
+</ol>
+		
+	</statement>
+</algorithm>
 
-<p><alert>Calculate:</alert> Is your system's energy conserved or not?  Once you know, use the Work-energy Theorem!</p>
-
-<p><alert>Sensemake:</alert> All the sensemaking strategies you have will work, but a new strategy is sometimes useful: Solve Multiple Ways.</p>
 
 				<heuristic xml:id="sense_solve-multiple-ways">
 	<title>Solve Multiple Ways</title>
 	<statement>
-		<p>Many problems in physics can be solved multiple ways.  Since both ways should result in the same answer, this can be a strong confirmation that an answer is correct.  Often, Force Analysis and Energy Analysis provide two distinct ways of solving a problem.</p>
+		<p></p>
+		<p>Many problems in physics can be solved multiple ways.  
+			Since both ways should result in the same answer, this can be a strong confirmation that an answer is correct.  
+			Often, Force Analysis and Energy Analysis provide two distinct ways of solving a problem.</p>
 	</statement>
 </heuristic>
 
@@ -25,6 +60,7 @@
 			<exercise>
 			<title>A*R*C*S: Pulling a Box</title>
 			<statement>
+				<p></p>
 			  <p>In <xref ref="x_work-box"></xref>, you considered the situation of pulling a box across a flat, level floor using a rope that makes an angle to the horizontal.  Assuming you know the tension in the rope, find the speed of the box after it has traveled across the room.</p>
 				</statement>
 				<hint>Try solving this problem with both Energy Analysis and Force Analysis.</hint>

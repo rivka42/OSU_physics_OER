@@ -16,7 +16,26 @@
 		<title>Explanation Tasks</title>
 
 
-
+		<investigation xml:id="psa_mot-5">
+			<title>Pitching in the Wind</title>
+			<statement>
+				<p></p>
+				<p>The baseball player from <xref ref="psa_mot-4"/> throws the baseball again with the same initial conditions.  
+					This time, however, a strong wind causes the ball to experience a small backward horizontal acceleration 
+					throughout its motion.  
+					Is the horizontal distance traveled by the ball before it hits the ground in this situation 
+					<em>greater than</em>, <em>less than</em>, or <em>equal to</em> the original distance?</p>
+			</statement>
+					<!--
+			<hint>
+				<p></p>
+			</hint>
+	
+			<solution>
+				<p></p>
+			</solution>
+			-->
+		</investigation>
 
 
 	</subsection>
