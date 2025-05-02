@@ -24,9 +24,6 @@
 	</p>
 <p>The dot product between two vectors is given by <m>\vec{A} \cdot \vec{B} = AB \cos\theta</m>, 
 where <m>\theta</m> is the angle between the vectors when placed tail-to-tail.</p>
-	<p>
-		
-	</p>
 </statement>
 </definition>
 
