@@ -7,6 +7,24 @@
 	<title>Practice Activities</title>
 	  </exercises>
 
+	  <activity xml:id="class_diver">
+		<title>An Olympic Diver</title>
+		<p>
+			
+		</p>
+		<p>
+			You are attending the Summer Olympics and have been taking data of the position as a function of time of Olympic High Divers. You have determined the following position function: 
+			<me>
+				\vec{r}(t) = \left[ -Tgt - \left(T^2 g - Tv_o \right)\left(e^{-\frac{t}{T} - 1} \right) \right]\hat{y}
+			</me>
+			
+		</p>
+		<p>
+			You know <m>g</m>, the mass of the diver <m>m</m>, the time constant <m>T</m>, and the initial velocity of the diver 
+			<m>\vec{v}_o = -v_o\hat{y}</m>.  Your goal is to determine the drag force as a function of time. 
+		</p>
+	</activity>
+
 	  <project xml:id="psa_sprinter">
         <title>The Sprinter</title>
 		<statement>

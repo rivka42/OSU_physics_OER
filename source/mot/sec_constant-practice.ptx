@@ -7,6 +7,38 @@
 	<title>Practice Activities</title>
 	  </exercises>
 
+	  <activity xml:id="class_dropped-rock">
+		<title>A Dropped Rock</title>
+		<p>
+			
+		</p>
+		<p>
+			You drop a rock from a bridge that is <m>45 \mathrm{~m}</m> above the water.  
+			What assumptions should you make about the motion?  
+			What interesting quantities can you ask questions about?
+		</p>
+		<p>
+			Calculate the time for the rock to hit the water and the speed of the rock right before it hits the water.
+		</p>
+	</activity>
+
+	<activity xml:id="class_thrown-rock">
+		<title>A Thrown Rock</title>
+		<p>
+			
+		</p>
+		<p>
+			You throw a rock across a flat field to your friend.  
+			The rock's initial speed is <m>v</m>, thrown at an angle <m>\theta</m> above the horizontal.  
+			Your friend catches the rock. 
+
+		</p>
+		<p>
+			Sketch a diagram of the situation. Find the <m>x</m>- and <m>y</m>- components of the rock's velocity 
+			in terms of <m>v</m> and <m>\theta</m>.  Calculate the distance to your friend.
+		</p>
+	</activity>
+
 	  <project xml:id="psa_mot-4">
         <title>Pitching Speed</title>
 		<statement>
