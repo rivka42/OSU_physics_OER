@@ -33,11 +33,11 @@
 					</me>
 					Then using the <m>y</m>-direction position equation:
 					<me>
-						v_{iy} = \frac{1}{2}gT^2
+						v_{iy} = \frac{1}{2}gT
 					</me>
 					And putting it all together:
 					<me>
-						\vec{v}_{i} = \frac{d}{T}\hat{x} + \frac{1}{2}gT^2\hat{y}
+						\vec{v}_{i} = \frac{d}{T}\hat{x} + \frac{1}{2}gT\hat{y}
 					</me>
 					
 					
