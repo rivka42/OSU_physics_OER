@@ -10,8 +10,8 @@
 	<title>Kinetic Energy</title>
 	<statement>
 		<p></p>
-	<p>The <term>translational kinetic energy</term> of an object is: <me>K_t = 1/2mv^2</me>  
-		When you assume <xref ref="a_particle"></xref> (that is, no rotational motion), all kinetic energy is translational, and it is often simply called <term>kinetic energy</term> and written <me>K = 1/2mv^2</me></p>
+	<p>The <term>translational kinetic energy</term> of an object is: <me>K_t = \frac{1}{2}mv^2</me>  
+		When you assume <xref ref="a_particle"></xref>, all kinetic energy is translational, and it is often simply called <term>kinetic energy</term> and written <me>K = 1/2mv^2</me></p>
 	</statement>
 	</definition>
 
@@ -21,7 +21,7 @@
 	
 	<note>
 	<title>Thermal Energy</title>
-	<p>Thermal energy is a unique form of kinetic energy related to the internal motion of the individual molecules that make up an object or substance.  An object's thermal energy is related to its temperature: as an object grows warmer, it has more thermal energy.  Internally, energy can transform from other forms into thermal energy, usually when there is a dissipative internal force like friction or air resistance.  Externally, thermal energy can be transferred from one system to a colder object as <term>heat</term>.</p>
+	<p>Thermal energy is a form of kinetic energy related to the internal motion of the individual molecules that make up an object or substance.  An object's thermal energy is related to its temperature: as an object grows warmer, it has more thermal energy.  Internally, energy can transform from other forms into thermal energy, usually when there is a dissipative internal force like friction or air resistance.  Externally, thermal energy can be transferred from one system to a colder system as <term>heat</term>.</p>
 	</note>
 
 	<exercises>
@@ -33,6 +33,7 @@
 			</exercise>
 			<exercise>
 			<title>Sensemaking: Units</title>
+			<p></p>
 			  <p>Energy is measured in joules (J).  
 				Use the definition of kinetic energy to write a joule in terms of other units you are familiar with.  
 			Does this agree with other definitions of the joule you have seen?</p>
@@ -44,7 +45,8 @@
 			  			<p>Many systems include more than one object.  In general, the different objects could have different masses and different speeds.  How do you think you could find the kinetic energy for such a system?  Write an equation for the total kinetic energy.</p>
 							</statement>
 							<answer>
-							<p><m>K_{\text{total}} = \Sigma K_i = K_1 + K_2 + K_3 + \dots = 1/2m_1v_1^2 + 1/2m_2v_2^2 + 1/2m_3v_3^2 + \dots</m></p>
+							<p><me>K_{\text{total}} = \Sigma K_i = K_1 + K_2 + K_3 + \dots = 
+							\frac{1}{2}m_1v_1^2 + \frac{1}{2}m_2v_2^2 + \frac{1}{2}m_3v_3^2 + \dots</me></p>
 							</answer>
 			</exercise>
 			<exercise>

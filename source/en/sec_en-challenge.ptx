@@ -56,7 +56,7 @@
 						<figure xml:id="fig_en-falling-block">
 							<title>Falling Block Figure</title>
 							<caption></caption>
-							<image source="Falling-Block.png" width = "100%">
+							<image source="moving-blocks.png" width = "100%">
 								<description></description>
 							</image>
 						</figure>

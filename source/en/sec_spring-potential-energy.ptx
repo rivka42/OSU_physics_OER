@@ -28,11 +28,10 @@
 <title>Calculation</title>
 <statement>
 	<p></p>
-			  <p>Many mattresses can be approximated as ideal springs.  Estimate the potential energy stored in such a mattress when one person lies down on the mattress.</p>
+			  <p>Many mattresses can be approximated as ideal springs.  
+			  Estimate the potential energy stored in a mattress with <m>k = 24,000 \mathrm{~N/m}</m> 
+			  when one person lies down on the mattress and compresses it by <m>2 \mathrm{~cm}</m>.</p>
 </statement>
-<hint>
-<p>Try searching <q>mattress spring constant</q> and estimating the distance a mattress might compress from everyday experience.</p>
-</hint>
 			</exercise>
 			</exercises>
 	

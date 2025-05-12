@@ -41,9 +41,11 @@
 				<p></p>
 			  <p>Suppose you have a system that initially includes some kinetic energy and some potential energy.  You observe that the potential energy decreases by <m>7000 \mathrm{~J}</m> and the kinetic energy increases by <m>4500 \mathrm{~J}</m>.  Is the net external work on this system positive, negative, or zero?  Explain your reasoning.</p>
 				</statement>
+				<!--
 				<hint>
 				<p>Draw an Energy System Diagram to help keep track of the changes.  How is the Work-Energy Theorem represented in an Energy System Diagram?</p>
 				</hint>
+				-->
 			</exercise>
 			<exercise>
 			<title>Explanation: Conserved Energy</title>
@@ -51,9 +53,11 @@
 				<p></p>
 			  <p>Suppose you have a system with two objects, each with some initial kinetic energy.  The net external work on the system is equal to zero.  If the kinetic energy of the first object increases, what happens to the kinetic energy of the second object?  Explain your reasoning.</p>
 								</statement>
+				<!--
 				<hint>
 				<p>Draw an Energy System Diagram to help keep track of the changes.  How is the Work-Energy Theorem represented in an Energy System Diagram?</p>
 				</hint>
+				-->
 			</exercise>
 		</exercises>
 	
