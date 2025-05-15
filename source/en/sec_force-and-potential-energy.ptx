@@ -8,6 +8,7 @@
 <definition xml:id="def_force-pe">
 	<title>Force and Potential Energy</title>
 	<statement>
+		<p></p>
 	<p>Potential energy and the corresponding conservative force are related (in one dimension, <m>x</m>) by <me>\vec{F} = -\frac{dU}{dx}\hat{x}</me></p>
 	</statement>
 	</definition>

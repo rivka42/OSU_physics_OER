@@ -8,6 +8,7 @@
 <lemma xml:id="r_potential-energy-diagrams">
 	<title>Potential Energy Diagrams</title>
 	<statement>
+		<p></p>
 	<p>A potential energy diagram is a graph of the potential energy <m>U(x)</m> vs. <m>x</m> for some system of interest.  It is also often useful to indicate the total energy of a system.</p>
 	</statement>
 	</lemma>

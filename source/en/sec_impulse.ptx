@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_impulse" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Using Impulse</title>
+
+  <activity xml:id="class_ball-ground">
+    <title>The Ball and the Ground</title>
+	<introduction>
+  <p></p>
+      <p>
+        You drop a <m>0.05 \mathrm{~kg}</m> tennis ball from rest and it takes <m>0.5 \mathrm{~s}</m> to hit the ground.
+	  </p>
+	</introduction>
+	  <task>
+		<statement>
+	  <p>  
+		Use the Impulse-Momentum theorem to find the velocity of the ball just before impact with the ground.
+      </p>
+	</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				The tennis ball rebounds from the ground with the same speed as impact.  The collision takes <m>0.01 \mathrm{~s}</m>.  
+				Find the average net force on the tennis ball.
+			</p>
+		</statement>
+	</task>
+  </activity>
+
+	
+</section>
+
+
+
+
+
+
+
+

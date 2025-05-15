@@ -8,6 +8,7 @@
 	<definition>
 	<title>Collision</title>
 	<statement>
+		<p></p>
 		<p>A collision is a situation in which two (or more) objects hit each other, usually during a small amount of time.  Collisions can be categorized by whether or not the <em>kinetic energy</em> of the system changes:</p>
 		<p>
 		<ul>

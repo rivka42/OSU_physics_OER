@@ -3,7 +3,35 @@
 <section xml:id="sec_conservation" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Conservation of Energy</title>
 	
-	
+	<activity xml:id="class_ejector">
+    <title>The Stunt Car</title>
+  <p></p>
+      <p>
+        A stationary stunt car has an ejector seat that rests on a compressed vertical spring.  
+        When the spring is released, the seat with its passenger is launched out of the car and into the air.
+      </p>  
+      <p>
+        Explain why you might want to include the Earth and the spring in your system.
+      </p>
+      <p>
+        Consider three instants in time: (1) just before the seat is released, (2) when the spring is at equilibrium, and (3) the person reaches maximum height.  
+      </p>
+      <p>
+        Write a qualitative description of how the energy of the system transforms through these three instants.
+      </p>
+      <p> 
+        Sketch the car and the ejector seat at each instant.
+      </p>
+      <p>
+        Write an equation for each energy at each instant. 
+      </p>
+      <p> 
+        Use them to determine the maximum height of the passenger and the speed as the passenger leaves the ejector seat.  
+      </p>
+      <p>
+        Make sense of your answers!
+      </p>
+  </activity>
 	
 </section>
 

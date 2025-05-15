@@ -4,18 +4,12 @@
   <title>Energy and Momentum Summary</title>
 
 
-		<exercises>
-		<title>Activities: Summarize What You Learned</title>
-		<exercise xml:id="x_summarize-energy">
-		<title>Conservation</title>
-    <p>
-      In studying energy and momentum, you learned about conservation laws, which provide a different perspective on the world than forces do.  Summarize the conservation laws you learned about, including information about <em>when</em> each quantity is conserved. 
-    </p>
-		</exercise>
+		
 		<exercise>
 		<title>Analysis</title>
     <p>
-      You have now learned several different ways to analyze a context: forces, energy, and momentum.  All three of them are valid, but they are not all equally useful in different situations.  Write a few sentences summarizing when and how you want to use each strategy going forward.
+      You have now learned several different ways to analyze a context: forces, energy, and momentum.  
+	  All three of them are valid, but they are not all equally useful in different situations.  Write a few sentences summarizing when and how you want to use each strategy going forward.
     </p>
 		</exercise>
 		</exercises>

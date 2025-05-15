@@ -11,7 +11,8 @@
 	<statement>
 		<p></p>
 	<p>The <term>translational kinetic energy</term> of an object is: <me>K_t = \frac{1}{2}mv^2</me>  
-		When you assume <xref ref="a_particle"></xref>, all kinetic energy is translational, and it is often simply called <term>kinetic energy</term> and written <me>K = 1/2mv^2</me></p>
+		When you assume <xref ref="a_particle"></xref>, all kinetic energy is translational, and it is more simply called 
+		<term>kinetic energy</term> and written <me>K = \frac{1}{2}mv^2</me></p>
 	</statement>
 	</definition>
 

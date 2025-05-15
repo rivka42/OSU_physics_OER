@@ -11,6 +11,96 @@
 	-->
 
 <subsection>
+	<title>A*R*C*S Practice</title>
+	
+    <project xml:id="psa_en-08">
+        <title>Pulling a Sled</title>
+		<statement>
+			<p></p>
+		    <p>You decide to pull a <m>150 \mathrm{~kg}</m> sled across an icy pond that is <m>24 \mathrm{~m}</m> across.  
+				You start pulling with a constant force of <m>200 \mathrm{~N}</m>.  
+				When you get halfway across the pond, you hear the ice cracking and decide to increase your force so that 
+				it increases linearly with distance, eventually reaching <m>500 \mathrm{~N}</m> when you get to the other side 
+				of the pond.  How fast is the sled moving when you reach the other side?  </p>
+		</statement>
+		<hint>
+		    <p>Graphing the force vs. distance might help!</p>
+		</hint>
+	</project>
+
+	<project xml:id="psa-en-03">
+		<title>Landing Jet Plane</title>
+		<statement>
+			<p></p>
+			<p>As a <m>1.4 \times 10^4 \mathrm{~kg}</m> jet plane lands on an aircraft carrier, 
+				its tail hook snags a cable to slow it down. The cable is attached to a spring with spring constant 
+				<m>6.5 \times 10^4 \mathrm{~N/m}</m>.  If the spring stretches <m>29 \mathrm{~m}</m> to stop the plane, 
+				what was the plane's landing speed? </p>
+		</statement>
+	</project>
+
+</subsection>
+
+<subsection>
+	<title>Explanation Practice</title>
+	
+		<investigation xml:id="pa_en-01">
+			<title>Stopping a Meteor I</title>
+			<statement>
+				<p></p>
+				<p>You are an astronaut in charge of defending a space station from a small, incoming meteor.  
+					The meteor has mass <em>m</em> and speed <em>v</em>, is initially a distance <em>d</em> from the space station, 
+					and is moving directly at the space station.  
+					Your space station can exert a constant force on the meteor.  
+					What force must you exert if you are to stop the meteor before it hits the space station?</p>
+			</statement>
+			<!--<hint>
+				<p></p>
+			</hint>
+			<solution>
+				<p></p>
+			</solution>-->
+		</investigation>
+	
+		<investigation xml:id="psa_en-02">
+			<title>Stopping a Meteor II</title>
+			<statement>
+				<p></p>
+				<p>After you save the space station from the meteor, you detect two new incoming meteors: both meteors have the same mass and start the same distance away from the space station.  Once again, you are able to stop both meteors right before they hit the space station, but only by setting your space station to exert a force on Meteor 2 that is twice as large as the force on Meteor 1.  Based on this, was the initial speed of Meteor 2 <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the initial speed of Meteor 1?</p>
+			</statement>
+			<!--<hint>
+				<p></p>
+			</hint>
+			<solution>
+				<p></p>
+			</solution>-->
+		</investigation>
+	
+
+	
+		<investigation xml:id="psa_en-04">
+			<title>Three Catapults</title>
+			<statement>
+				<p></p>
+				<p>Three catapults are configured to throw the same bowling ball into the air with the same initial speed.  Each catapult is positioned at the top of the same tall cliff, but they are designed to release the bowling ball differently.</p>
+				<p>Catapult A releases the bowling ball at a 30<m>^{\circ}</m> angle with respect to the horizontal.</p>
+				<p>Catapult B releases the bowling ball at a 45<m>^{\circ}</m> angle with respect to the horizontal.</p>
+				<p>Catapult C releases the bowling ball at a 0<m>^{\circ}</m> angle with respect to the horizontal.</p>
+				<p>Rank the three bowling balls by final speed (when the ball hits the ground).</p>
+			</statement>
+			<!--<hint>
+				<p></p>
+			</hint>
+			<solution>
+				<p></p>
+			</solution>-->
+		</investigation>
+	
+	
+	
+	</subsection>
+
+<subsection>
 <title>Numerical Practice</title>
 
    	<exploration xml:id="psa_en-alpha5">
@@ -104,105 +194,17 @@
 	</exploration>
 </subsection>
 
-<subsection>
-<title>Study</title>
-
-    <investigation xml:id="pa_en-01">
-        <title>Stopping a Meteor I</title>
-		<statement>
-			<p></p>
-		    <p>You are an astronaut in charge of defending a space station from a small, incoming meteor.  
-				The meteor has mass <em>m</em> and speed <em>v</em>, is initially a distance <em>d</em> from the space station, 
-				and is moving directly at the space station.  
-				Your space station can exert a constant force on the meteor.  
-				What force must you exert if you are to stop the meteor before it hits the space station?</p>
-		</statement>
-		<!--<hint>
-		    <p></p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>-->
-	</investigation>
-
-	<investigation xml:id="psa_en-02">
-        <title>Stopping a Meteor II</title>
-		<statement>
-			<p></p>
-		    <p>After you save the space station from the meteor, you detect two new incoming meteors: both meteors have the same mass and start the same distance away from the space station.  Once again, you are able to stop both meteors right before they hit the space station, but only by setting your space station to exert a force on Meteor 2 that is twice as large as the force on Meteor 1.  Based on this, was the initial speed of Meteor 2 <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the initial speed of Meteor 1?</p>
-		</statement>
-		<!--<hint>
-		    <p></p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>-->
-	</investigation>
-
-	<project xml:id="psa-en-03">
-		<title>Landing Jet Plane</title>
-		<statement>
-			<p></p>
-			<p>As a <m>1.4 \times 10^4 \mathrm{~kg}</m> jet plane lands on an aircraft carrier, 
-				its tail hook snags a cable to slow it down. The cable is attached to a spring with spring constant 
-				<m>6.5 \times 10^4 \mathrm{~N/m}</m>.  If the spring stretches <m>29 \mathrm{~m}</m> to stop the plane, 
-				what was the plane's landing speed? </p>
-		</statement>
-	</project>
-
-	<investigation xml:id="psa_en-04">
-        <title>Three Catapults</title>
-		<statement>
-			<p></p>
-		    <p>Three catapults are configured to throw the same bowling ball into the air with the same initial speed.  Each catapult is positioned at the top of the same tall cliff, but they are designed to release the bowling ball differently.</p>
-			<p>Catapult A releases the bowling ball at a 30<m>^{\circ}</m> angle with respect to the horizontal.</p>
-			<p>Catapult B releases the bowling ball at a 45<m>^{\circ}</m> angle with respect to the horizontal.</p>
-			<p>Catapult C releases the bowling ball at a 0<m>^{\circ}</m> angle with respect to the horizontal.</p>
-			<p>Rank the three bowling balls by final speed (when the ball hits the ground).</p>
-		</statement>
-		<!--<hint>
-		    <p></p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>-->
-	</investigation>
-
-
-
-</subsection>
-
-<subsection>
-<title>Apply</title>
 
 
 
 
-    <project xml:id="psa_en-08">
-        <title>Pulling a Sled</title>
-		<statement>
-			<p></p>
-		    <p>You decide to pull a 150-kg sled across an icy pond that is <m>24 \mathrm{~m}</m> across.  
-				You start pulling with a constant force of <m>200 \mathrm{~N}</m>.  
-				When you get halfway across the pond, you hear the ice cracking and decide to increase your force so that 
-				it increases linearly with distance, eventually reaching <m>500 \mathrm{~N}</m> when you get to the other side 
-				of the pond.  How fast is the sled moving when you reach the other side?  </p>
-		</statement>
-		<hint>
-		    <p>Graphing the force vs. distance might help!</p>
-		</hint>
-	</project>
+
+
+
+
 
 	
 
-
-	
-		
-
-
-
-</subsection>
-  
 
 	
 </section>
