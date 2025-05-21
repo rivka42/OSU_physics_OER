@@ -10,6 +10,76 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 	
+	<subsection>
+		<title>Explanation Task</title>
+	
+	<investigation xml:id="psa_mech-1">
+        <title>Launching Boxes</title>
+		<statement>
+			<p></p>
+		    <p>Identical ideal springs are initially compressed and connected to two boxes with different masses <m>(m_1 \gt m_2)</m>, as shown in the figure below.  
+				Each block is released from rest and allowed to move until it stops speeding up.  
+				Consider system 1 consisting of block 1 and its corresponding spring and system 2 consisting of block 2 and its corresponding spring.</p>
+				<figure xml:id="fig_mech-launch">
+							<title>Launching Boxes Figure</title>
+							<caption></caption>
+							<image source="SpringLaunch.png" width = "75%">
+								<description></description>
+							</image>
+						</figure>
+			<p>
+				<alert>A. Energy</alert>
+			</p>
+			<p>
+				For the intervals during which each box is speeding up, 
+				is the change in total energy of system 1 greater than, less than, or equal to the change in total energy of system 2?
+			</p>
+			<p>
+				<alert>A. Momentum</alert>
+			</p>
+			<p>
+				For the intervals during which each box is speeding up, 
+				is the magnitude of the change in momentum of system 1 greater than, less than, or equal to the magnitude of the change in momentum of system 2?
+			</p>
+			</statement>
+	</investigation>
+
+	</subsection>
+
+	<subsection>
+		<title>A*R*C*S Activity</title>
+
+<project xml:id="psa_mech-2">
+        <title>Pendulum Collision</title>
+		<statement>
+			<p></p>
+		    <p>The ball of mass <m>m_1</m> shown below is attached to the ceiling and released from rest.  
+				It eventually collides elastically with a ball of mass <m>m_2</m> hanging vertically.  The length of each string is <m>L</m>.  
+				Determine the maximum height each ball reaches after the collision.
+			</p>
+			<figure xml:id="fig_mech-pendulum">
+							<title>Pendulum Collision Figure</title>
+							<caption></caption>
+							<image source="PendulumCOllision.png" width = "50%">
+								<description></description>
+							</image>
+						</figure>
+
+		</statement>
+	</project>
+
+
+		<activity xml:id="x_summarize-mech">
+		<title>Metacognitive Reflection</title>
+		<p></p>
+    <p>
+      You have now learned several different ways to analyze a context: forces, energy, and momentum.  
+	  All three of them are valid, but they are not all equally useful in different situations.  
+	  Write a few sentences summarizing when and how you want to use each strategy going forward.
+    </p>
+</activity>
+
+	</subsection>
   
 	
 </section>
