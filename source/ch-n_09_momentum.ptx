@@ -33,6 +33,7 @@
 		<!--PREPARE SECTIONS-->	
 		<xi:include href="./en/sec_impulse-momentum-thm.ptx" />
 		<xi:include href="./en/sec_momentum-vector-diagrams.ptx" />
+		<xi:include href="./en/sec_impulse.ptx" />
 		<xi:include href="./en/sec_collisions.ptx" />
 		
 		<!--PRACTICE SECTIONS-->	

@@ -31,6 +31,7 @@
 	<subsection>
 		<title>A*R*C*S Activities</title>
 
+		<!--
 		<project xml:id="psa_en-09">
 			<title>Apple on a Spring</title>
 			<statement>
@@ -40,29 +41,39 @@
 					The apple moves downward, and then comes to rest momentarily at some later time after falling some distance.  
 					Determine the distance the apple has fallen.</p>
 			</statement>
-			<!--<hint>
-				<p></p>
-			</hint>-->
 		</project>
+
+		-->
 
 		<project>
 			<title>Falling Block</title>
 				<statement>
 					<p></p>
 					<p>Shown in the figure below are two blocks connected by an ideal string that passes over a massless, frictionless pulley.  
-						The mass of the larger block sits on a flat, frictionless table, and has four times the mass of the smaller block, 
-						which hangs vertically. Determine the speed of each block when the larger block reaches the edge of the table, 
-						a distance of <m>0.75 \mathrm{~m}</m>.</p>
+						The mass of the larger block sits on a flat, frictionless table and the smaller block 
+						hangs vertically. Use energy analysis to calculate the speed of each block when the larger block reaches the edge of the table after sliding a distance <m>L</m>.</p>
 						<figure xml:id="fig_en-falling-block">
 							<title>Falling Block Figure</title>
 							<caption></caption>
-							<image source="moving-blocks.png" width = "100%">
+							<image source="moving-blocks.png" width = "50%">
 								<description></description>
 							</image>
 						</figure>
 				</statement>
 
 		</project>
+
+		<activity>
+			<title>Metacognitive Reflection</title>
+		<statement>
+			<p></p>
+			<p>
+				For the activity above, it is possible to use force analysis instead of energy analysis to calculate the speed of each block.  
+				You do not have to perform this calculation (you did a similar one in a previous chapter), but write a brief description of the steps that would be involved in this solution.  
+				Compare and contrast those steps to the energy analysis steps you carried out.  Which kind of analysis do you think is simpler for a situation like this?
+			</p>
+		</statement>
+	</activity>
 
 </subsection>
 

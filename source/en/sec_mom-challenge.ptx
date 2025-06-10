@@ -39,7 +39,9 @@
         <title>The Exploding Firecracker</title>
 		<statement>
 			<p></p>
-		    <p>You throw a firecracker vertically upward.  At <m>t = 0</m>, the firecracker is moving upward with speed <m>v_1</m>, at which point it begins to explode, splitting into an upper piece with mass <m>m_u</m> and a lower piece with mass <m>m_l</m>.  The explosion finishes at <m>t = \frac{v_1}{g}</m>, at which point you observe that the upper piece is still moving upward with speed <m>3v_1</m>.</p>
+		    <p>You throw a firecracker vertically upward.  At <m>t = 0</m>, the firecracker is moving upward with speed <m>v_1</m>, 
+				at which point it begins to explode, splitting into an upper piece with mass <m>m_u</m> and a lower piece with mass <m>m_l</m>.  
+				The explosion finishes at <m>t = \frac{v_1}{g}</m>, at which point you observe that the upper piece is still moving upward with speed <m>3v_1</m>.</p>
 				<p>Determine the velocity of the lower piece at <m>t = \frac{v_1}{g}</m>.</p>
 		</statement>
 		<hint>
@@ -49,6 +51,16 @@
 		    <p>For your symbolic sensemaking (part 3c), try at least two special cases.</p>
 		</hint>
 	</project>
+
+
+		<activity xml:id="x_summarize-energy">
+		<title>Metacognitive Reflection</title>
+		<p></p>
+    <p>
+      In studying energy and momentum, you learned about conservation laws, which provide a different perspective on the world than forces do.  
+	  Summarize the conservation laws you learned about, including information about <em>when</em> each quantity is conserved. 
+    </p>
+</activity>
 
 	</subsection>
 	

@@ -8,6 +8,7 @@
 	<definition>
 	<title>Impulse</title>
 	<statement>
+		<p></p>
 	  <p>An external force <m>\vec{F}</m> acting on a system from <m>t_i</m> to <m>t_f</m> will deliver an impulse to the system of: <me>\vec{J} = \int_{t_i}^{t_f} \vec{F}dt</me></p>
 	</statement>
 	</definition>
@@ -15,6 +16,7 @@
 	<principle xml:id="p_impulse-momentum">
 	<title>The Impulse-Momentum Theorem</title>
 	<statement>
+		<p></p>
 	  <p>The net impulse delivered to a system is equal to the change in momentum for that system: <me>\vec{J}_{net} = \Delta \vec{p}</me></p>
 	</statement>
 	</principle>
@@ -22,6 +24,10 @@
 	<exercises>
 	<title>Activities</title>
 			<exercise>
+				<title>Conservation</title>
+				
+				
+				<p></p>
 <p>When would it be appropriate to say that the momentum of a system is conserved?  Give an example of a context where you think the momentum of a system is conserved.  Give a different example of a context where you think the momentum of a system is <em>not</em> conserved.  Do you think your answers depend on what systems you choose?</p>
 			</exercise>
 		</exercises>

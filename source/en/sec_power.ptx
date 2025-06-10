@@ -8,6 +8,7 @@
 	<definition>
 	<title>Power</title>
 	<statement>
+		<p></p>
 	<p>The time rate of change of energy is known as <term>power</term>: <me>P = \frac{dE}{dt}</me>  Power is measured in watts (W).</p>
 	</statement>
 	</definition>
@@ -16,22 +17,27 @@
   <title>Activities</title>
 				<exercise xml:id="x_summarize-power">
 			<title>Summarize What You Learned - Power</title>
+			<p></p>
 			  <p>Write a 1-2 sentence description of what the definition of power says in words. </p>
 			</exercise>
 			<exercise>
 			<title>Sensemaking: Units</title>
 			 <statement>
+				<p></p>
 			  <p>Write the units of power in terms of other units you are familiar with in at least three different ways. Which do you think might be the most useful way of writing them?</p>
 				</statement>
 			</exercise>
 			<exercise>
 			<title>Explanation: Power Company</title>
+			<p></p>
 			  <p>When you get a bill from the power company, you pay for kilowatt-hours, not watts. What are you actually paying for, and how do you know? </p>
 			</exercise>
 			<exercise>
 			<title>Calculation</title>
+			<p></p>
 			<p>An average person produces <m>100 \mathrm{~W}</m> of power.  How much energy does an average person use in one day?</p>
 			</exercise>
+			
 			
 		</exercises>
 	

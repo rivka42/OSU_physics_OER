@@ -30,19 +30,17 @@
 
 		
 		<!--PREPARE SECTIONS-->
-		<xi:include href="./en/sec_potential-energy-diagrams.ptx" />
-		<xi:include href="./en/sec_force-and-potential-energy.ptx" />
+
 
 		
 		<!--PRACTICE SECTIONS-->
-		<xi:include href="./en/sec_power.ptx" />
-
+		
 
 		<xi:include href="./en/sec_mech-practice.ptx" />
 		
 		<!--CHALLENGE SECTIONS-->
 		<xi:include href="./en/sec_mech-challenge.ptx" />
-		<xi:include href="./en/sec_energy-summary.ptx" />
+		
 
 		
 <!--
@@ -62,6 +60,7 @@
 	<xi:include href="./en/sec_impulse-momentum-thm.ptx" />
 	<xi:include href="./en/sec_momentum-vector-diagrams.ptx" />
 	<xi:include href="./en/sec_collisions.ptx" />
+	<xi:include href="./en/sec_energy-summary.ptx" />
 
 	-->
 	
