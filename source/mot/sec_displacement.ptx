@@ -10,16 +10,24 @@
 	<title>Displacement</title>
 	<statement>
 	<p></p>
-		<p>The <term>displacement</term> of an object describes the change in that object's position: <m>\Delta \vec{r} = \vec{r}_f - \vec{r}_i</m>.  If the displacement is infinitesimal, you write <m>\vec{dr}</m> instead of <m>\Delta \vec{r}</m></p>
+		<p>The <term>displacement</term> of an object describes the change in that object's position: <m>\Delta \vec{r} = \vec{r}_f - \vec{r}_i</m>.</p>
+		<p>If the displacement is <em>infinitesimal</em>, you write <m>\vec{dr}</m> instead of <m>\Delta \vec{r}</m>: from calculus, when the symbol <m>d</m> is 
+		added in front of another symbol, it typically creates a differential or infinitesimal quantity that is a very small change or amount.</p>
 	</statement>
 </definition>
 	
-	<p>Suppose an object is initially located at position <m>\vec{r}_0</m> at some initial time <m>t_0</m> and the object is moving through space over an interval of time <m>\Delta t = t_f - t_0</m>. The symbol <m>\Delta</m> (the capital Greek letter "Delta") represents a change in a quantity.  The time interval <m>\Delta t</m> measures the elapsed time as the object moves from an initial position <m>\vec{r}_0</m>  at initial time <m>t_0</m> to a final position <m>\vec{r}_0</m> and some final time <m>t_f</m>. The vector <m>\Delta \vec{r}</m> is called the displacement of the object over the time interval <m>\Delta t</m>.  Here, the subscript 0 refers to some initial time: in some cases, the subscript <m>o</m> ("naught") or <m>i</m> (for "initial") is used instead of 0.</p>
+	<p>Suppose an object is initially located at position <m>\vec{r}_0</m> at some initial time <m>t_0</m> and the object is moving through space over an interval of time 
+		<m>\Delta t = t_f - t_0</m>. The symbol <m>\Delta</m> (the capital Greek letter <q>Delta</q>) represents a change in a quantity.  The time interval <m>\Delta t</m> measures the elapsed time as the object moves from an initial position <m>\vec{r}_0</m>  at initial time <m>t_0</m> to a final position <m>\vec{r}_0</m> and some final time <m>t_f</m>. The vector <m>\Delta \vec{r}</m> is called the displacement of the object over the time interval <m>\Delta t</m>.  Here, the subscript 0 refers to some initial time: in some cases, the subscript <m>o</m> ("naught") or <m>i</m> (for "initial") is used instead of 0.</p>
 	
 	<note>
 <title>Subscripts</title>
 <p>
-You have probably noticed that physics notation uses subscripts to mean a lot of different things!  In general, physics symbols try to be descriptive, choosing evocative letters like <m>m</m> for mass and <m>t</m> for time.  Physics symbols also try to be specific (<m>m_1</m> for the mass of object 1, <m>m_2</m> for the mass of object 2, <em>etc.</em>) and detailed (<m>t_i</m> for the initial time and <m>t_f</m> for the final time).  Sometimes, subscripts might even be combined: <m>r_{x3i}</m> for the <m>x</m>-component of object 3's initial position.  As you practice, you will start to get a sense for all the different things you can use a subscript to specify.
+You may have noticed that physics notation uses subscripts to mean a lot of different things!  
+In general, physics symbols try to be descriptive, choosing evocative letters like <m>m</m> for mass and <m>t</m> for time.  
+Physics symbols also try to be specific (<m>m_1</m> for the mass of object 1, <m>m_2</m> for the mass of object 2, <em>etc.</em>) 
+and detailed (<m>t_i</m> for the initial time and <m>t_f</m> for the final time).  
+Sometimes, subscripts might even be combined: <m>r_{x3i}</m> for the <m>x</m>-component of object 3's initial position.  
+<!--As you practice, you will start to get a sense for all the different things you can use a subscript to specify.-->
 </p>
 </note>
 
@@ -31,13 +39,7 @@ You have probably noticed that physics notation uses subscripts to mean a lot of
   
 	<exercises>
 	<title>Activities</title>
-	<exercise xml:id="x_state-vectors-2">
-			<title>State Vectors II</title>
-			<statement>
-			<p></p>
-			<p>Choose any pair of vectors that you drew in <xref ref="x_state-vectors" text="type-local-title"/>, sketch the displacement vector, and write the displacement vector in component form.</p>
-			</statement>
-			</exercise>
+
 			<exercise xml:id="x_vectors-park">
 			<title>Vectors in the Park</title>
 			<statement>
@@ -60,6 +62,27 @@ You have probably noticed that physics notation uses subscripts to mean a lot of
 			</p>
 			</statement>
 			</exercise>
+
+			<p>The State Vectors exercise is a good example of a <term>calculation</term>.  When you do calculations in physics, follow the steps below.</p>
+
+		  <figure xml:id="fig_calculation">
+		  <title>Calculation Steps</title>
+		 	<caption>Steps to follow when performing a calculation.</caption>
+			<image source="CalculationSteps.png" width = "85%">
+			<description>2. Calculating an Unknown Quantity.  2a. Represent principles - identify relevant concepts, laws, or definitions. 
+				2b. Find unknown(s) symbolically - without numbers, find any unknown(s) in terms of symbols representing known quantities.  
+				2c. Plug in numbers - plug numbers (with units) into your symbolic answer! </description></image>
+  			</figure>
+
+			<exercise xml:id="x_state-vectors-2">
+			<title>State Vectors II</title>
+			<statement>
+			<p></p>
+			<p>Choose any pair of vectors that you drew in <xref ref="x_state-vectors" text="type-local-title"/>, sketch the displacement vector, 
+				and write the displacement vector in component form.  Practice using the Calculation Steps in the figure above.</p>
+			</statement>
+			</exercise>	
+
 		</exercises>
 	
 	

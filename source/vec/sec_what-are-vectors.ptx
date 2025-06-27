@@ -87,8 +87,18 @@ Another, common example of a vector is <alert>velocity</alert>. Velocity is a qu
 		<title>Explore Magnitude</title>
 		<statement>
 		<p></p>
-		<p>A vector is typically represented graphically by an arrow.  Which property of the arrow do you think represents the magnitude of the vector?  How would you represent two vectors that have the same direction but different magnitudes?</p>
+		<p>A vector is typically represented graphically by an arrow.  Which property of the arrow do you think represents the magnitude of the vector?  
+		How would you represent two vectors that have the same direction but different magnitudes?</p>
 		</statement>
+		<answer>
+			<p>
+				The length of the arrow represents the magnitude of the vector.  While for some vectors the length may be literal (for example, the magnitude may be measured in meters),
+				most vectors will have different units, in which the physical length is only representing some other quantity, such as meters per second or newtons.
+			</p>
+			<p>
+				As a result of this, two vectors with the same direction but different magnitudes should be drawn <em>parallel</em> to each other, but with differing lengths.
+			</p>
+		</answer>
 		</exercise>
 		</exercises>
 

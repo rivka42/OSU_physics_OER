@@ -62,7 +62,7 @@ Similarly, to subtract vectors algebraically, you subtract like components.
 		<p>Find <m>-\vec{A}/5</m>.</p>
 		</statement>
 		<answer>
-		<p><m>-\vec{B}/5 = \hat{x}+\frac{1}{5}\hat{y}</m></p>
+		<p><m>-\vec{A}/5 = \hat{x}+\frac{1}{5}\hat{y}</m></p>
 		</answer>
 		</exercise>
 		<exercise>
@@ -72,6 +72,16 @@ Similarly, to subtract vectors algebraically, you subtract like components.
 		<answer>
 		<p><m>\vec{A} + 2\vec{B} = -9\hat{x}+5\hat{y} </m></p>
 		</answer>
+		<solution>
+			<p>
+				<md>
+				<mrow>\vec{A} + 2\vec{B} \amp = \left(-5\hat{x}-\hat{y}\right) + 2\left(-2\hat{x}+3\hat{y}\right) </mrow>
+				<mrow> \amp = \left(-5\hat{x}-\hat{y}\right) + \left(-4\hat{x}+6\hat{y}\right) </mrow>
+				<mrow> \amp = \left(-5-4\right)\hat{x} + \left(-1+6\right) \hat{y} </mrow>
+				<mrow> \amp = -9\hat{x}+5\hat{y} </mrow>
+				</md>
+			</p>
+		</solution>
 		</exercise>
 		<exercise>
 		<statement>

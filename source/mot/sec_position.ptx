@@ -13,7 +13,8 @@
 	</statement>
 </definition>
 
-<p>A position vector is always measured relative to some <term>origin</term> (a fixed location in space) and using some set of <term>coordinates</term>.  In general, position is three-dimensional, but many positions can be described using only two dimensions.  Various letters can be used for position, including the generic <m>\vec{r}</m> used above and the generic Cartesian letters <m>\vec{x}</m>, <m>\vec{y}</m>, and <m>\vec{z}</m>.</p>
+<p>A position vector is always measured relative to some <term>origin</term> (a fixed location in space) and using some set of <term>coordinates</term>.  In general, position is three-dimensional, but many positions can be described using only two dimensions.  
+	Various letters can be used for position, including the generic <m>\vec{r}</m> used above and the standard Cartesian letters <m>\vec{x}</m>, <m>\vec{y}</m>, and <m>\vec{z}</m>.</p>
 
 <definition xml:id="def_coordinates">
 	<title>Coordinate System</title>
@@ -42,7 +43,7 @@ Symbols like <m>\hat{x}</m> and <m>\hat{y}</m> are special vectors called <em>un
 <li><p>A unit vector has a magnitude of 1</p></li>
 <li><p>A unit vector has no dimensions: the magnitude is 1, not 1 meter or 1 second</p></li>
 <li><p>A unit vector always points in the direction along which the given variable is <em>increasing</em>: for example, <m>\hat{x}</m> points in the direction of increasing <m>x</m></p></li>
-<li><p>A unit vector is written with a "hat" symbol instead of an "arrow" symbol.</p></li>
+<li><p>A unit vector is written with a <q>hat</q> symbol instead of an <q>arrow</q> symbol.</p></li>
 <li><p>You can turn any vector into a unit vector by dividing it by its own magnitude: for example, <m>\hat{v} = \frac{\vec{v}}{|\vec{v}|}</m></p></li>
 </ul>
 	
@@ -110,6 +111,14 @@ You will start by using the Cartesian coordinates that are probably familiar fro
 		<me>r_x = r\cos\theta</me>
 		<me>r_y = r\sin\theta</me>
 		</p>
+		<p>
+			Let the other angle in the triangle be called <m>\alpha</m>.  Since <m>\alpha</m> is the complementary angle to <m>\theta</m> (the two angles add up to <m>90^o</m>), 
+			the adjacent and opposite sides of the triangle have been reversed, and thus the corresponding trig functions will be reversed.
+		</p>
+		<p>
+		<me>r_x = r\sin\alpha</me>
+		<me>r_y = r\cos\alpha</me>
+		</p>
 		</answer>
 		</exercise>
 			<exercise xml:id="x_state-vectors">
@@ -133,17 +142,6 @@ You will start by using the Cartesian coordinates that are probably familiar fro
 			</p>
 			</exercise>
 		</exercises>
-		
-		<p>The State Vectors exercise above is a good example of a <term>calculation</term>.  When you do calculations in physics, follow the steps below.</p>
-
-		  <figure xml:id="fig_calculation">
-		  <title>Calculation Steps</title>
-		  
-		  
-		 <caption>Steps to follow when performing a calculation.</caption>
-		<image source="CalculationSteps.png" width = "85%">
-			<description>2. Calculating an Unknown Quantity.  2a. Represent principles – identify relevant concepts, laws, or definitions.  2b. Find unknown(s) symbolically – without numbers, find any unknown(s) in terms of symbols representing known quantities.  2c. Plug in numbers – plug numbers (with units) into your symbolic answer! </description></image>
-  </figure>	
 	
 	<references>
 	<biblio xml:id="ref_mit-vectors5">

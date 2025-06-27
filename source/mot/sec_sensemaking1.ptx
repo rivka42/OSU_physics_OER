@@ -11,8 +11,10 @@ The steps in the following figure will guide you in making sense of physics.
 <figure xml:id="fig_sensemaking">
 <title>Sensemaking Steps</title>
 		 <caption>Steps to follow when sensemaking.</caption>
-		<image source="SensemakingSteps.png" width = "50%">
-			<description>Physics Sensemaking.  1. Choose a sensemaking strategy.  2a. What should this strategy say about the context?  2b. Give a physical reason for why it says this.  3a. What does your answer actually say?  3b. Show what it says explicitly. 4. Compare what your answer actually says and what it should say!</description></image>
+		<image source="SensemakingSteps.png" width = "60%">
+			<description>Physics Sensemaking.  Step 1: Based on your physical understanding of the situation, what do you expect to be true? Justify your answer!
+				Step 2: What does the symbolic equation say about the situation?  Show how it says this explicitly!  Step 3: Check to see if the symbolic equation agrees with your physical understanding!
+			</description></image>
   </figure>	
 
 

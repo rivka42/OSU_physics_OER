@@ -5,13 +5,19 @@
 	
     <p>
      The measurement of any quantity is reported as a number in terms of some standard, physical unit.  
-	 For example, you might measure the length of an object in a physics lab to be <m>17.4</m>.  Without a specific unit of measurement, the number itself is almost meaningless.  You might mean the length is <m>17.4 \mathrm{~centimeters}</m>, <m>17.4 \mathrm{~inches}</m>, or <m>17.4 \mathrm{~miles}</m>. 
+	 For example, you might measure the length of an object in a physics lab to be <m>17.4</m>.  
+	 Without a specific unit of measurement, the number itself is almost meaningless.  
+	 You might mean the length is <m>17.4 \mathrm{~centimeters}</m>, <m>17.4 \mathrm{~inches}</m>, or <m>17.4 \mathrm{~miles}</m>. 
 		</p>
 		
 
 		
 <p>
-In science, we use the SI unit system (le Systéme Internationale d'Unités), commonly referred to as the metric system<fn>In the united States, we have an entire <url href="https://www.nist.gov/" visual="nist.gov">government agency</url> dedicated to upholding standards of measurement</fn>.  Within the metric system, all quantities will be given in terms of base units, such as the three below, which are typically written using non-italic letters<fn><url href="https://en.wikipedia.org/wiki/Metric_prefix" visual="wikipedia.org/wiki/Metric_prefix">prefixes</url> can be used as an easy way to express units that are substantially different</fn>.
+Science uses the SI unit system (le Systéme Internationale d'Unités), commonly referred to as the metric system<fn>the united States has an entire 
+	<url href="https://www.nist.gov/" visual="nist.gov">government agency</url> dedicated to upholding standards of measurement</fn>.  
+	Within the metric system, all quantities will be given in terms of base units, such as the three below, 
+	which are typically written using non-italic letters<fn><url href="https://en.wikipedia.org/wiki/Metric_prefix" visual="wikipedia.org/wiki/Metric_prefix">prefixes</url> 
+		can be used as an easy way to express units that are substantially different</fn>.
     </p>
 		
 <note>
@@ -57,7 +63,8 @@ Units for physical quantities can be divided into two categories: base units and
 	<title>Check Units</title>
 	<statement>
 	<p></p>
-		<p>For any equation, including at any point while you are solving a problem, you should be able to <term>check the units</term> to make sure the units accurately describe all relevant quantities.</p>
+		<p>For any equation, including at any point while you are solving a problem, you can <term>check the units</term> to make sure the units 
+			on both sides of an equation are always the same.  Additionally, quantities that are added (or subtracted) must have identical units.</p>
 	</statement>
 </heuristic>
 
@@ -70,11 +77,16 @@ When we speak about the units of a quantity, we are referring to the base units 
 <example xml:id="ex_how-to-check-units">
   <title>How to Check Units</title>
 	<p>
-Suppose that we have derived the escape speed of a rocket from a planet of mass <m>M</m> and radius <m>R</m> (escape speed is the speed at which an object must reach to escape the gravitational pull): <m>v_{esc} = \sqrt{\frac{2GM}{R}}</m>.  As a speed, <m>v_{esc}</m> should have units like m/s (distance divided by time).
+Suppose you have derived the escape speed of a rocket from a planet of mass <m>M</m> and radius <m>R</m> 
+(escape speed is the speed at which an object must reach to escape the gravitational pull): <m>v_{\text{esc}} = \sqrt{\frac{2GM}{R}}</m>.  
+As a speed, <m>v_{\text{esc}}</m> should have units like m/s (distance divided by time).
 </p>
 
 <p>
-Here, <m>G</m> represents the universal gravitational constant with units <m>\frac{\text{m}^3}{\text{s}^2\text{kg}}</m>. Since there is an equal sign, this implies that the base units of either side of the equal sign must be the same. If they are not, then we have made a mistake in our derivation of the escape speed. We can perform a unit analysis to determine if we have the same base units for each side of the equal sign.
+Here, <m>G</m> represents the universal gravitational constant with units <m>\frac{\text{m}^3}{\text{s}^2\text{kg}}</m>. 
+Since there is an equal sign, this implies that the base units of either side of the equal sign must be the same. 
+If they are not, then there must be a mistake in our derivation of the escape speed. 
+You can perform a unit analysis to determine if you have the same base units for each side of the equal sign.
 </p>
 
 <p>
@@ -82,7 +94,9 @@ Here, <m>G</m> represents the universal gravitational constant with units <m>\fr
 </p>
 
 <p>
-We can see that the physical quantities under the square root indeed have base units of [L] divided by a time [T] and so our equation holds true.  Observe that we followed the sensemaking steps outlined above: we chose a strategy (checking units), determined what units we <em>should</em> get, found the units we <em>actually</em> have, and compared the two to see that they are the same!
+You can see that the physical quantities under the square root indeed have base units of [L] divided by a time [T] and so our equation holds true.  
+Note the sensemaking steps outlined above: start by determining what units you <em>should</em> get, then find the units you <em>actually</em> have, and 
+last compare the two to see that they are the same!
 </p>
 
 </example>
@@ -98,14 +112,26 @@ Physics uses the word dimensions to refer to the class of unit for a quantity.  
 	<title>Check Numbers</title>
 	<statement>
 	<p></p>
-		<p>For any numerical value (with units), you want to have a sense for how reasonable the value is given numerical values for other (possibly related) contexts with the same units.  You also want to know whether the number should be positive or negative (if it is a scalar) or what direction it should point (if it is a vector).</p>
+		<p>For any numerical value (with units), you can check that the number is reasonable by comparing it to other numerical values with the same units.  
+			This could involve comparing different values within a given context to each other, comparing with a value familiar from your prior experience, 
+			or using a search function to look up a quantity that has a similar value.  
+			Additionally, you can check whether the number should be positive or negative (if it is a scalar) or what direction it should point (if it is a vector).</p>
 	</statement>
 </heuristic>
 
 <example xml:id="ex_how-to-check-numbers">
 <title>How to Check Numbers</title>
-<p>Consider the example from the start of this section, where you measured the length of an object in a physics lab to be <m>17.4 \mathrm{~cm}</m>.  You may want to compare this number to the length of other objects that you might expect to find in a physics lab.  For example, you might expect that many objects in a physics lab can be held in one hand; you would then want to compare the <m>17.4 \mathrm{~cm}</m> measurement to the size of a human hand to evaluate its reasonableness.  The search term "human hand size" results in a measurement of between <m>6.8</m> and <m>7.6 \mathrm{~in}</m>, which you might approximate to about <m>7 \mathrm{~in}</m> (note: when checking numbers, you do not need to be precise, just approximate).  Converting this <m>7 \mathrm{~in}</m> to SI units gives approximately <m>17.8 \mathrm{~cm}</m>.  This is very close to the object you measured in the lab, so it seems like this measurement was pretty reasonable!  It is also worth noting here that length is usually given as a positive number, which this measurement is.</p>
-<p>You might be asking yourself: what would an <em>unreasonable</em> answer have looked like?  Perhaps your measurement had been <m>174 \mathrm{~cm}</m> instead of <m>17.4 \mathrm{~cm}</m>.  This is only about ten times bigger, and still seems like a reasonable measurement for a physics lab (something about the height of a person).  On the other hand, measuring something like <m>17.4 \mathrm{~km}</m> would be fairly unreasonable for an ordinary physics lab: 100,000 times bigger than a person's hand!</p>
+<p>Consider the example from the start of this section, where you measured the length of an object in a physics lab to be <m>17.4 \mathrm{~cm}</m>.  
+	You could compare this number to the length of other objects you might expect to find in a physics lab.  For example, many objects in a physics lab can be held in one hand; 
+	you would then want to compare the <m>17.4 \mathrm{~cm}</m> measurement to the size of a human hand to evaluate its reasonableness.  
+	The search term <q>human hand size</q> results in a measurement of between <m>6.8</m> and <m>7.6 \mathrm{~in}</m>, which is approximately <m>7 \mathrm{~in}</m> 
+	(note: when checking numbers, you do not need to be precise, just approximate).  
+	Converting this <m>7 \mathrm{~in}</m> to SI units gives about <m>17.8 \mathrm{~cm}</m>.  This is very close to the object you measured in the lab, 
+	so it seems like this measurement was pretty reasonable!  It is also worth noting here that length is usually given as a positive number, which this measurement is.</p>
+<p>You might instead ask yourself: what would an <em>unreasonable</em> answer have looked like?  
+	Perhaps your measurement had been <m>174 \mathrm{~cm}</m> instead of <m>17.4 \mathrm{~cm}</m>.  
+	This is only about ten times bigger, and still seems like a reasonable measurement for a physics lab (something about the height of a person).  
+	On the other hand, measuring something like <m>17.4 \mathrm{~km}</m> would be fairly unreasonable for an ordinary physics lab: 100,000 times bigger than a person's hand!</p>
 </example>
 
 
@@ -146,7 +172,11 @@ Physics uses the word dimensions to refer to the class of unit for a quantity.  
 			<title>Practice Checking Units</title>
 			<statement>
 			<p></p>
-			  <p>Your friend has developed a new engine that creates carbon dioxide gas.  Your friend shows you an equation they created relating the volume of gas created (<m>V</m>) to the width of the engine (<m>w</m>), the amount of time the engine has been running (<m>\Delta t</m>), and the mass of a single molecule of carbon dioxide (<m>M</m>): <m>V = k\frac{w^2\Delta t}{M}</m>.  Use what you know about the other symbols in the problem to determine the units of <m>k</m>.</p>
+			  <p>Your friend has developed a new engine that creates carbon dioxide gas.  
+				Your friend shows you an equation they created relating the volume of gas created (<m>V</m>) to the width of the engine (<m>w</m>), 
+				the amount of time the engine has been running (<m>\Delta t</m>), and the mass of a single molecule of carbon dioxide (<m>M</m>): 
+				<me>V = k\frac{w^2\Delta t}{M}</me>  
+				Use what you know about the other symbols in the problem to determine the units of <m>k</m>.</p>
 				</statement>
 				<answer>
 				<p><m>\frac{\text{mkg}}{\text{s}}</m></p>
@@ -173,7 +203,8 @@ Physics uses the word dimensions to refer to the class of unit for a quantity.  
 			<exercise xml:id="x_identifying-numbers">
 			<title>Practice Identifying Numbers</title>
 			<p></p>
-			  <p>Below is a list of numbers with units.  For each number, find a real-world object or system with a measurement that is reasonably close<fn><m>\mu</m> is the symbol for the prefix micro-; you can search for how big it is</fn>.</p>
+			  <p>Below is a list of numbers with units.  For each number, find a real-world object or system with a measurement that is reasonably close
+				(<m>\mu</m> is the symbol for the prefix micro-, which corresponds to <m>10^{-6}</m>).</p>
 				<ol>
 				<li><m>900,000 \mathrm{~kg}</m></li>
 				<li><m>25 \mathrm{~\mu m}</m></li>
