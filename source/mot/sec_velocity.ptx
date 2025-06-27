@@ -7,7 +7,8 @@
 			
 			<note>
 <title>Speed vs. Velocity</title>
-<p>When speaking to a friend or colleague we may not make a distinction between <emph>speed</emph> and <emph>velocity</emph>, but in physics the words are distinct.  Where <emph>velocity</emph> is a vector, indicating both magnitude and direction, the word <emph>speed</emph> refers only to the magnitude of the velocity.</p>
+<p>When speaking to a friend or colleague you may not make a distinction between <emph>speed</emph> and <emph>velocity</emph>, but in physics the words are distinct.  
+	Where <emph>velocity</emph> is a vector, indicating both magnitude and direction, the word <emph>speed</emph> refers only to the magnitude of the velocity.</p>
 </note>
     
 	<definition>
@@ -21,7 +22,8 @@
 <note>
 <title>Time</title>
 <p>
-Time is a quantity you will encounter throughout your study of physics.  In fact, most of physics is concerned with predicting what will happen to a system at some future or time, or looking back to see the status of a system at some previous time.
+Time is a quantity you will encounter throughout your study of physics.  
+In fact, most of physics is concerned with predicting what will happen to a system at some future time, or looking back to see the status of a system at some previous time.
 </p>
 </note>
 
@@ -39,7 +41,8 @@ Time is a quantity you will encounter throughout your study of physics.  In fact
 	<title>Instantaneous Velocity</title>
 	<statement>
 		<p></p>
-		<p>The <term>instantaneous velocity</term> of an object is given by <me>\vec{v} = \frac{d \vec{r}}{d t}</me></p>
+		<p>The <term>instantaneous velocity</term> of an object is found by taking the limit as <m>\Delta t \rarrow 0</m>, resulting in infinitesimal changes in 
+			position and time: <me>\vec{v} = \frac{d \vec{r}}{d t}</me></p>
 	</statement>
 </definition>
 
@@ -70,7 +73,7 @@ Time is a quantity you will encounter throughout your study of physics.  In fact
 			  <p>How does the direction of the average velocity vector compare to the direction of the displacement vector?  Explain your reasoning using the <xref ref="fig_explanation"/>.</p>
 				</statement>
 				<answer>
-				<p>The average velocity vector points in the same direction as the displacement vector and tells us the direction of the object's motion.</p>
+				<p>The average velocity vector points in the same direction as the displacement vector and tells us the direction of the object's motion.</p>
 				</answer>
 			</exercise>
 			<!--
