@@ -348,8 +348,8 @@ INFO    : creating URL with content "https://www.youtube.com/watch?v=IT0LhMC0yKI
 INFO    : creating URL with content "https://www.youtube.com/watch?v=rpP2utvWSvs" as C:/Users/HP/OER/generated-assets/qrcode\video-157.png...
 INFO    : creating URL with content "https://www.youtube.com/watch?v=N30w_UkNclo" as C:/Users/HP/OER/generated-assets/qrcode\video-158.png...
 INFO    : QR code creation complete
-INFO    : Removing temporary directory C:\Users\HP\AppData\Local\Temp\tmp6814d4h1
-INFO    : Removing temporary directory C:\Users\HP\AppData\Local\Temp\tmpeku6fbcg
+INFO    : Removing temporary directory C:\Users\HP\AppData\Local\Temp\tmpjxgpawdz
+INFO    : Removing temporary directory C:\Users\HP\AppData\Local\Temp\tmpiula25z0
 INFO    : Preparing to build into C:\Users\HP\OER\output\web.
 INFO    : 
 Now building HTML into C:\Users\HP\OER\output\web
@@ -360,12 +360,12 @@ INFO    : input directory expanded to absolute path: C:\Users\HP\OER\generated-a
 INFO    : verifying and expanding input directory: C:\Users\HP\OER\source\../assets
 INFO    : input directory expanded to absolute path: C:\Users\HP\OER\assets
 INFO    : Runestone Services (via PreTeXt repository): version 6.5.0
-INFO    : Runestone Services (using newer, via online CDN query): version 7.7.3
-INFO    : converting C:\Users\HP\OER\source\main.ptx to HTML in C:\Users\HP\AppData\Local\Temp\tmpn011_hu0
+INFO    : Runestone Services (using newer, via online CDN query): version 7.8.4
+INFO    : converting C:\Users\HP\OER\source\main.ptx to HTML in C:\Users\HP\AppData\Local\Temp\tmp2b78nw5s
 INFO    : XSL conversion of C:\Users\HP\OER\source\main.ptx by C:\Users\HP\.ptx\xsl\pretext-html.xsl
 INFO    : comprehensive messages, warnings, and errors:
 INFO    : successful application of C:\Users\HP\.ptx\xsl\pretext-html.xsl
-INFO    : Removing temporary directory C:\Users\HP\AppData\Local\Temp\tmpn011_hu0
+INFO    : Removing temporary directory C:\Users\HP\AppData\Local\Temp\tmp2b78nw5s
 INFO    : 
 Success! Run `pretext view web` to see the results.
 

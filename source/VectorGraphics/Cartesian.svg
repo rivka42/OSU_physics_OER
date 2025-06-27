@@ -8,8 +8,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
-   width="124.90682"
-   height="128.98814"
+   width="513.88159"
+   height="528.9295"
    id="svg35"
    sodipodi:docname="Cartesian.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
@@ -43,15 +43,45 @@
      fit-margin-right="2"
      fit-margin-bottom="2"
      inkscape:zoom="1"
-     inkscape:cx="-514.00944"
-     inkscape:cy="-154.23935"
-     inkscape:window-x="1911"
+     inkscape:cx="119.52168"
+     inkscape:cy="245.70201"
+     inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg35"
      units="px" />
   <defs
      id="defs3">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path947"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1189"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path932"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
     <marker
        inkscape:isstock="true"
        style="overflow:visible"
@@ -120,52 +150,66 @@
          transform="matrix(0.4,0,0,0.4,4,0)" />
     </marker>
     <marker
-       inkscape:stockid="Arrow1Mend"
+       inkscape:stockid="Arrow1Mstart"
        orient="auto"
        refY="0"
        refX="0"
-       id="Arrow1Mend-7"
+       id="marker1189-4"
        style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
+       inkscape:isstock="true">
       <path
          inkscape:connector-curvature="0"
-         id="path925-8"
+         id="path932-7"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1395-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1393-3"
+         inkscape:connector-curvature="0" />
     </marker>
   </defs>
-  <path
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
-     d="m 59.940711,13.047428 2,110.000002"
-     id="path914"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-0);marker-end:url(#Arrow1Mend-7)"
-     d="m 115.94071,67.047428 -109.9999986,2"
-     id="path914-2"
-     inkscape:connector-curvature="0" />
   <text
      xml:space="preserve"
-     style="font-size:20.7572422px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:1.11199522"
-     x="112.94376"
-     y="85.187813"
+     style="font-size:87.21790314px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:4.67238808"
+     x="470.01868"
+     y="351.53903"
      id="text833-4-5-5"><tspan
        sodipodi:role="line"
        id="tspan831-9-2-9"
-       x="112.94376"
-       y="85.187813"
-       style="font-style:italic;stroke-width:1.11199522">x</tspan></text>
+       x="470.01868"
+       y="351.53903"
+       style="font-style:italic;stroke-width:4.67238808">x</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:20.7572422px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:1.11199522"
-     x="45.862885"
-     y="11.821176"
+     style="font-size:87.21790314px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:4.67238808"
+     x="188.15784"
+     y="43.266674"
      id="text833-4-5-5-7"><tspan
        sodipodi:role="line"
        id="tspan831-9-2-9-0"
-       x="45.862885"
-       y="11.821176"
-       style="font-style:italic;stroke-width:1.11199522">y</tspan></text>
+       x="188.15784"
+       y="43.266674"
+       style="font-style:italic;stroke-width:4.67238808">y</tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:8.40361118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1189);marker-end:url(#marker1395)"
+     d="M 18.56084,275.06755 H 489.16308"
+     id="path912"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:8.40361118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1189-4);marker-end:url(#marker1395-8)"
+     d="M 253.86196,39.766436 V 510.36866"
+     id="path912-7"
+     inkscape:connector-curvature="0" />
 </svg>
