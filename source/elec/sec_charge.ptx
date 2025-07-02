@@ -19,7 +19,7 @@ Electric charge is a physical property of subatomic particles, measured in coulo
 		</statement>
 	</definition>
 	
-	<p>Electric charge is often represented with the letter q. Charge, like mass, is a physical property of subatomic particles. Electric charge can be positive +q  or negative -q. In an atom, protons are positively charged and electrons are negatively charged while neutrons are neutral. We represent positive charges with the symbol "+" and negative charges with the symbol "-". </p>
+	<p>Electric charge is often represented with the letter <m>q</m>. Charge, like mass, is a physical property of subatomic particles. Electric charge can be positive <m>+q</m>  or negative <m>-q</m>. In an atom, protons are positively charged and electrons are negatively charged while neutrons are neutral. We represent positive charges with the symbol "+" and negative charges with the symbol "-". </p>
 	<p>
 			
 	</p>
@@ -34,17 +34,18 @@ In examining the behavior of positive and negative charge, we can find that like
     </figure>
     
  
-<subsection>
+<exercises>
   <title>Properties of Charge</title>
+</exercises> 
 
   <p>
  In addition to the existence of two types of charge, several other properties of charge have been discovered:
   </p>
 
   <ul>
-    <li><em>Charge is quantized.</em> This means that electric charge comes in discrete amounts, and there is a smallest possible amount of charge that any object can have. In the SI system, this smallest amount is called the <em>fundamental unit of charge</em> and is equal to <me>e \equiv 1.602 \times 10^{-19} \, \text{C}</me>. No free particle can have less charge than this. Therefore, the charge on any object must be an integer multiple of this amount. The charge on a proton is <m> +e </m> and the charge on a single electron is <m> -e </m>. All macroscopic, charged objects have charge because electrons have either been added or taken away from them, resulting in a net charge.</li>
+    <li><em>Charge is quantized</em>. This means that electric charge comes in discrete amounts, and there is a smallest possible amount of charge that any object can have. In the SI system, this smallest amount is called the <em>fundamental unit of charge</em> and is equal to <me>e \equiv 1.602 \times 10^{-19} \, \text{C}</me>. No free particle can have less charge than this. Therefore, the charge on any object must be an integer multiple of this amount. The charge on a single proton is <m> +e </m> and the charge on a single electron is <m> -e </m>. All macroscopic, charged objects have charge because electrons have either been added or taken away from them, resulting in a net positive or negative overall charge.</li>
 
-    <li><em>Charge is conserved.</em> Charge can neither be created nor destroyed; it can only be transferred from place to place, or from one object to another. The net charge of the universe, or of any closed, isolated system is constant. This is referred to as the <em>law of conservation of charge</em>. We often speak of two charges “canceling”, however, this is verbal shorthand. It means that if two objects have equal and opposite charges, and are physically very close to each other, then the (oppositely directed) forces they apply on each other cancel. However, the charges on the objects still remain. The net charge of the universe remains constant in time. </li>
+    <li><em>Charge is conserved</em>. Charge can neither be created nor destroyed; it can only be transferred from one location in space to another, or from one object to another. The net charge of the universe, or of any closed, isolated system is constant. This is referred to as the <em>law of conservation of charge</em>. We often speak of two charges “canceling”, however, this is verbal shorthand. It means that if two objects have equal and opposite charges, and are physically very close to each other, then the (oppositely directed) forces they apply on each other cancel as vectors. However, the charges on the objects still remain intact. The net charge of the universe remains constant in time according to conservation laws. </li>
       </ul>
       
       
@@ -69,7 +70,7 @@ In examining the behavior of positive and negative charge, we can find that like
   </tabular>
 </table>
 
-</subsection>
+
 	
 	<exercises>
 		<title>Activities</title>

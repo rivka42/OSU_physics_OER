@@ -29,7 +29,7 @@ Charging is a process by which protons, electron or ions are transferred from on
 	</definition>
 	
 	<p>
-Charging can occur through several processes. Friction can break the bonds holding a molecule together. Charging through friction occurs when an electrically neutral molecule is broken apart into a positive and negative ion by rubbing it against another object. 	
+Charging can occur through several processes. Rubbing a piece of plastic pipe with wool will cause charges to be transferred from the wool to the plastic. 
        </p>
 
  <figure xml:id="charge_rub">
@@ -38,8 +38,12 @@ Charging can occur through several processes. Friction can break the bonds holdi
     		<image source="elec/charge_rub.png" width = "100%" ></image>
     </figure>
     
+    <exercises>
+  <title>Charging through friction</title>
+    </exercises> 
+
     <p>
-Friction can break the bonds holding a molecule together as two materials slide past each other. Charging through friction occurs when an electrically neutral molecule is broken apart into a positive and negative ion by rubbing it against another object. As the molecule is broken apart, part of the molecule has net positive charge and part of the molecule has net negative charge. This is how a plastic rod can be charged by rubbing it with wool. 
+Friction can break the bonds holding a molecule together. Charging through friction occurs when an electrically neutral molecule is broken apart into a positive and negative ion by rubbing it against another object. Often electrons are shared in large molecules. When the molecular bonds are broken, part of the molecule has net positive charge and part of the molecule has net negative charge since. This is how a plastic rod can be charged by rubbing it with wool. 
        </p>
 
     
@@ -49,7 +53,10 @@ Friction can break the bonds holding a molecule together as two materials slide 
     		<image source="elec/charge_ion.png" width = "100%" ></image>
     </figure>
 
-	
+	  <exercises>
+  <title>Charging through induction</title>
+         </exercises> 
+
 	
 </section>
 
