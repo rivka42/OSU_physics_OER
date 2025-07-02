@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_charging" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Charging</title>
+	
+  <figure xml:id="charged_cat">
+		<title>Charged Cat</title>
+    	<caption>Electric charges exist all around us. When one object is charged, it can attract or repel other objects. (credit: modification of work by Sean McGrath)</caption>
+    		<image source="elec/charged_cat.png" width = "100%" ></image>
+    </figure>
+
+<p> You have probably experienced the phenomenon of static electricity: When you first take clothes out of a dryer, many (not all) of them tend to stick together. Another example occurs if you take a woolen sweater off quickly—you can feel (and hear) the static electricity pulling on your clothes, and perhaps even your hair. If you rub a balloon on a wall for a few seconds, it will stick to the wall. Probably the most annoying effect of static electricity is getting shocked by a doorknob (or a friend) after shuffling your feet on some types of carpeting.
+</p>
+
+<p>
+Many of these phenomena have been known for centuries. The ancient Greek philosopher Thales of Miletus (624–546 BCE) recorded that when amber (a hard, translucent, fossilized resin from extinct trees) was vigorously rubbed with a piece of fur, a force was created that caused the fur and the amber to be attracted to each other. Additionally, he found that the rubbed amber would not only attract the fur, and the fur attract the amber, but they both could affect other (nonmetallic) objects, even if not in contact with those objects. All of these situations involve objects being charged. 
+</p>		
+
+	<definition>
+		<title>Charging</title>
+		<statement>
+			<p>
+			
+Charging is a process by which protons, electron or ions are transferred from one object to another. When an object is charged it has a net positive or negative total charge. 
+                         </p>
+		</statement>
+	</definition>
+	
+	<p>
+Charging can occur through several processes. Friction can break the bonds holding a molecule together. Charging through friction occurs when an electrically neutral molecule is broken apart into a positive and negative ion by rubbing it against another object. 	
+       </p>
+
+ <figure xml:id="charge_rub">
+		<title>Charging by rubbing</title>
+    	<caption>A plastic rod is charged by rubbing it with a piece of wool.</caption>
+    		<image source="elec/charge_rub.png" width = "100%" ></image>
+    </figure>
+    
+    <p>
+Friction can break the bonds holding a molecule together as two materials slide past each other. Charging through friction occurs when an electrically neutral molecule is broken apart into a positive and negative ion by rubbing it against another object. As the molecule is broken apart, part of the molecule has net positive charge and part of the molecule has net negative charge. This is how a plastic rod can be charged by rubbing it with wool. 
+       </p>
+
+    
+    <figure xml:id="charge_ion">
+		<title>Molecular Ions</title>
+    	<caption>A neutral molecule consists of several atoms held together by molecular bonds. These bonds can be broken apart by frictional forces due to rubbing one material against another. When bonds are broken, molecular ions can form. </caption>
+    		<image source="elec/charge_ion.png" width = "100%" ></image>
+    </figure>
+
+	
+	
+</section>
+

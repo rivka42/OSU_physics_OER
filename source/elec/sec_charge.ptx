@@ -10,19 +10,45 @@
 	<definition>
 		<title>Charge</title>
 		<statement>
-			<p>Charge is a physical property of subatomic particles, measured in coulombs (C), that governs how matter interacts with electric and magnetic fields.  </p>
+		<p>
+			
+		</p>
+			<p>
+			Electric charge is a physical property of subatomic particles, measured in coulombs (C), that governs how matter interacts with electric and magnetic fields.  </p>
 		</statement>
 	</definition>
 	
-	<p>Electric charge can be positive or negative. Positive charges are associated with protons, and negative charges are associated with electrons. Protons reside in the nucleus of atoms while electrons "orbit" nuclei. We represent positive charges with the symbol "+" and negative charges with the symbol "-". 
-	
-In examining the behavior of positive and negative charge, we can find that like charges tend to attract while unlike charges repel. Therefore, two electrons will repel each other while a proton and an electron will tend to attract.  	
+	<p>Electric charge is often represented with the letter q. Charge, like mass, is a physical property of subatomic particles. Electric charge can be positive +q  or negative -q. In an atom, protons are positively charged and electrons are negatively charged while neutrons are neutral. We represent positive charges with the symbol "+" and negative charges with the symbol "-". </p>
+	<p>
+			
 	</p>
+	<p>
+In examining the behavior of positive and negative charge, we can find that like charges tend to attract while unlike charges repel. Therefore, two electrons or two protons will repel each other while a proton and an electron will tend to attract.  	
+	</p>
+	
+	 <figure xml:id="charge">
+		<title>Charges</title>
+    	<caption>A representation of positive and negative charges.</caption>
+    		<image source="elec/charges.png" width = "80%" ></image>
+    </figure>
+
+<subsection>
+  <title>Properties of Charge</title>
+
+  <p>
+  In addition to the existence of two types of charge, several other properties of charge have been discovered:
+  </p>
+
+  <ul>
+    <li><em>Charge is quantized.</em> This means that electric charge comes in discrete amounts, and there is a smallest possible amount of charge that any object can have. In the SI system, this smallest amount is called the <em>fundamental unit of charge</em> and is equal to <me>e \equiv 1.602 \times 10^{-19} \, \text{C}</me>. No free particle can have less charge than this. Therefore, the charge on any object must be an integer multiple of this amount. The charge on a proton is <m> +e </m> and the charge on a single electron is <m> -e </m>. All macroscopic, charged objects have charge because electrons have either been added or taken away from them, resulting in a net charge.</li>
+    <li><em>Charge is conserved.</em> Charge can neither be created nor destroyed; it can only be transferred from place to place, or from one object to another. The net charge of the universe is constant, or of any closed system. We often speak of two charges “canceling”, however, this is verbal shorthand. It means that if two objects have equal and opposite charges are physically very close to each other, then the (oppositely directed) forces they apply on each other cancel. However, the charges on the objects still remian. The net charge of the universe is constant. This is referred to as the <em>law of conservation of charge</em></li>
+      </ul>
+</subsection>
 	
 	<exercises>
 		<title>Activities</title>
 		<exercise>
-			<p>An atom always has the same number of protons as electrons.  What is the total charge on such an atom?</p>
+			<p>A neutral atom always has the same number of protons as electrons.  What is the total charge on such an atom?</p>
 		</exercise>
 		<exercise>
 			<p>Suppose you have an object with a net charge of exactly 1.0 C.  How many more protons than electrons are in this object?  Based on this, do you think a net charge of 1.0 C is typical for an everyday object, or is it much larger or smaller than you would expect for an everyday object?</p>

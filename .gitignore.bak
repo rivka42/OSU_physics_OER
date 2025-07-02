@@ -1,26 +1,19 @@
-# <!-- Managed automatically by PreTeXt authoring tools -->
-# (delete the above line to manage this file manually)
-
 # Boilerplate list of files in a PreTeXt project for git to ignore
 # ensure this file is tracked
 !.gitignore
 
-# don't track unpublished builds or stage (note: Runestone uses `published`)
+# don't track unpublished builds
 output
-published
 
 # don't track assets generated from source
 generated-assets
-
-# don't track the executables.ptx file
-executables.ptx
 
 # don't track node packages
 node_modules
 
 # don't track error logs
 .error_schema.log
-logs
+cli.log
 
 # don't track OS related files (windows/macos/linux)
 .DS_Store
@@ -95,10 +88,3 @@ GitHub.sublime-settings
 .dropbox
 .dropbox.attr
 .dropbox.cache
-
-# Don't track codechat config (will be generated automatically)
-codechat_config.yaml
-
-# Don't track deprecated workflows
-.github/workflows/deploy.yml
-.github/workflows/test-build.yml
