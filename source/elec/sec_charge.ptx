@@ -13,8 +13,9 @@
 		<p>
 			
 		</p>
-			<p>
-			Electric charge is a physical property of subatomic particles, measured in coulombs (C), that governs how matter interacts with electric and magnetic fields.  </p>
+		<p>
+Electric charge is a physical property of subatomic particles, measured in coulombs (C), that governs how matter interacts with electric and magnetic fields.  
+                 </p>
 		</statement>
 	</definition>
 	
@@ -41,7 +42,7 @@ In examining the behavior of positive and negative charge, we can find that like
 
   <ul>
     <li><em>Charge is quantized.</em> This means that electric charge comes in discrete amounts, and there is a smallest possible amount of charge that any object can have. In the SI system, this smallest amount is called the <em>fundamental unit of charge</em> and is equal to <me>e \equiv 1.602 \times 10^{-19} \, \text{C}</me>. No free particle can have less charge than this. Therefore, the charge on any object must be an integer multiple of this amount. The charge on a proton is <m> +e </m> and the charge on a single electron is <m> -e </m>. All macroscopic, charged objects have charge because electrons have either been added or taken away from them, resulting in a net charge.</li>
-    <li><em>Charge is conserved.</em> Charge can neither be created nor destroyed; it can only be transferred from place to place, or from one object to another. The net charge of the universe is constant, or of any closed system. We often speak of two charges “canceling”, however, this is verbal shorthand. It means that if two objects have equal and opposite charges are physically very close to each other, then the (oppositely directed) forces they apply on each other cancel. However, the charges on the objects still remian. The net charge of the universe is constant. This is referred to as the <em>law of conservation of charge</em></li>
+    <li><em>Charge is conserved.</em> Charge can neither be created nor destroyed; it can only be transferred from place to place, or from one object to another. The net charge of the universe, or of any closed, isolated system is constant. This is referred to as the <em>law of conservation of charge</em>. We often speak of two charges “canceling”, however, this is verbal shorthand. It means that if two objects have equal and opposite charges, and are physically very close to each other, then the (oppositely directed) forces they apply on each other cancel. However, the charges on the objects still remain. The net charge of the universe remains constant in time. </li>
       </ul>
 </subsection>
 	

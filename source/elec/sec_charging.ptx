@@ -5,7 +5,7 @@
 	
   <figure xml:id="charged_cat">
 		<title>Charged Cat</title>
-    	<caption>Electric charges exist all around us. When one object is charged, it can attract or repel other objects. (credit: modification of work by Sean McGrath)</caption>
+    	<caption>Electric charges exist all around us. The cat has acquired a net charge through friction with it's surroundings. When one object is charged, it can attract or repel other objects. (credit: modification of work by Sean McGrath)</caption>
     		<image source="elec/charged_cat.png" width = "100%" ></image>
     </figure>
 
@@ -21,6 +21,8 @@ Many of these phenomena have been known for centuries. The ancient Greek philoso
 		<statement>
 			<p>
 			
+			</p>
+			<p>
 Charging is a process by which protons, electron or ions are transferred from one object to another. When an object is charged it has a net positive or negative total charge. 
                          </p>
 		</statement>
