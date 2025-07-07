@@ -29,6 +29,7 @@
 	<xi:include href="./elec/sec_what-is-elec.ptx" /> 
 	<xi:include href="./elec/sec_charge.ptx" />
 	<xi:include href="./elec/sec_charging.ptx" />
+	<xi:include href="./elec/sec_charge_prop_materials.ptx" />
 	<xi:include href="./elec/sec_e-field.ptx" />
 	<xi:include href="./elec/sec_e-field-maps.ptx" /> 
 	<xi:include href="./elec/sec_charge-density.ptx" />
