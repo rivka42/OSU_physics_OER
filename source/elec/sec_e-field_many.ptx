@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_electric-field_many" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Electric Field of Many Charges</title>
+		
+ <p>
+The electric field is a vector field and vectors obey the <alert> principle of superposition </alert>. If multiple point charges exist in some region of space, and we want to know the electric field at some point in space in the vicinity of these charges, then we need to sum the vector components from each charge at that point in space to determine the total electric field. It may be useful for you to review vector addition before moving forward. 
+</p>
+
+<definition>
+	<title>
+	Electric Field of Many Point Charges
+	</title>
+		<statement>
+		
+			<p>
+			
+			</p>
+			
+			<p>
+The electric field due to multiple point charges is the vector sum <me> \vec{E}_{tot} = \vec{E}_1 + \vec{E}_2 + \vec{E}_3  + ... \Sigma \vec{E}_{i} </me>.		
+			</p>
+		</statement>
+</definition>
+
+
+ <figure xml:id="Efield_many">
+		<title>Electric field of many charges</title>
+    	<caption>A visualization of the electric field at a point in space due to multiple charges. </caption>
+    		<image source="elec/Efield_many.png" width = "60%" ></image>
+    </figure>
+
+
+	<exercises>
+	      <title>The Electric Dipole</title>
+	 </exercises>     
+<p>
+An electric dipole is a system consisting of a positively charged particle and a negatively charged particle separated by a very small distance. 
+</p>
+
+<definition>
+	<title>
+	The Electric Dipole Moment
+	</title>
+		<statement>
+		
+			<p>
+			
+			</p>
+			
+			<p>
+The electric dipole moment <me> |\vec{D}| = qd </me> is the vector that points from the negative charge to the positive charge and has magnitude <m> qd </m> which is the charge of the positive particle multiplied by the distance between the positive and negative charges.  
+			</p>
+		</statement>
+</definition>
+
+ <figure xml:id="dipole_moment">
+		<title>Electric field of many charges</title>
+    	<caption>A visualization of the electric dipole moment due to a small separation of positive and negative charges. </caption>
+    		<image source="elec/dipole_moment.png" width = "60%" ></image>
+    </figure>
+
+
+<p> 
+Electric dipoles are important not only in physics but in chemistry as well. Matter is made up of atoms and molecules that have charged particles which govern their behavior, and are subdivided into two types:
+</p>
+
+<p>
+
+</p>
+
+<p>
+<alert> Polar Molecules: </alert> A molecule in which one end is slightly positively charged and the other end is slightly negatively charged. 
+</p>
+<p>
+<alert> Non-Polar Molecules: </alert> A molecule that does not have any net electric charge. 
+</p> 
+
+<p>
+
+</p>
+
+<ul>
+<li>
+Polar molecules possess permanent dipole moments. The most famous polar molecule is water. Its polarity is responsible for many of the water molecule’s unique properties. 
+</li>
+
+<li>
+Dipoles are randomly oriented in the absence of an external electric field. When placed in an electric field, polar molecules will align themselves in the direction of the electric field.
+</li>
+
+<li>
+The study of dipoles and dipole moments will help students understand polarization, molecular geometry, electronegativity and many other chemical properties of matter. 
+</li>
+  </ul>
+
+ <figure xml:id="water_diploe">
+		<title>Electric Dipole of Water Molecules</title>
+    	<caption>A visualization of the electric dipole moment of the water molecule. </caption>
+    		<image source="elec/water_dipole.png" width = "60%" ></image>
+    </figure>
+
+<p> 
+Water is composed of a polar covalent bond between two hydrogen atoms and one oxygen atom. The oxygen is more electronegative making it attract electrons more strongly. The unequal sharing of electrons creates a slightly negative charge on the oxygen atom and a slight positive charge on the two hydrogen atoms. This leads to the electric dipole moment of the molecule water. 
+</p> 
+
+	<exercises>
+		<title>Activities</title>
+		<exercise>
+			<p>The electric dipole</p>
+		</exercise>
+		
+	</exercises>
+
+
+	
+</section>
