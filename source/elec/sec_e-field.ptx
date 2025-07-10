@@ -68,7 +68,7 @@ Each and every electric charge generates its own electric field. We can think of
 			</p>
 			
 			<p>
-			The electric field of a single point charge is defined mathematically as <me> \vec{E}(r) = \frac{1}{4 \pi \epsilon_{0}} \frac {q}{r^2} \hat{r}</me> where <m> q </m> represents the source charge generating the field, <m> r </m> is the distance from the point to the location we want to know the magnitude of the field and <m> \hat{r} </m> is a unit vector that points radially away from the charge, and <m> \epsilon_{0} = 8.85 \times 10^{-12} C^2/Nm^2</m> is the <em> permittivity constant </em>. 
+			The electric field of a single point charge is defined mathematically as <me> \vec{E}(r) = \frac{1}{4 \pi \epsilon_{0}} \frac {q}{r^2} \hat{r}</me> where <m> q </m> represents the source charge generating the field, <m> r </m> is the distance from the charge to the location we want to know the magnitude of the field, <m> \hat{r} </m> is a unit vector that points radially away from the charge, and <m> \epsilon_{0} = 8.85 \times 10^{-12} C^2/Nm^2</m> is the <em> permittivity constant </em>. 
 			</p>
 		</statement>
 </definition>
