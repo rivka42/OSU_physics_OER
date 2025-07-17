@@ -49,7 +49,7 @@ An electric dipole is a system consisting of a positively charged particle and a
 			</p>
 			
 			<p>
-The electric dipole moment <me> |\vec{D}| = qd </me> is the vector that points from the negative charge to the positive charge and has magnitude <m> qd </m> which is the charge of the positive particle multiplied by the distance between the positive and negative charges.  
+The electric dipole moment <me> |\vec{p}| = qd </me> is the vector that points from the negative charge to the positive charge and has magnitude <m> qd </m> which is the charge of the positive particle multiplied by the distance between the positive and negative charges.  
 			</p>
 		</statement>
 </definition>
@@ -106,9 +106,68 @@ Water is composed of a polar covalent bond between two hydrogen atoms and one ox
 
 	<exercises>
 		<title>Activities</title>
+		
 		<exercise>
-			<p>The electric dipole</p>
+		<p>
+		<alert>Sensemaking - units</alert>: What are the units of the electric dipole moment? What might this imply about the term <em>moment</em> in physics? Can you think of other times we used the term <em> moment</em> to describe a physical property of a system?
+		</p>
 		</exercise>
+		
+		
+		<exercise>
+			<p>
+			<alert>The electric dipole</alert>: Suppose a positive and negative charge are separated by a distance <m> d </m> and lie on the y-axis equidistant from the origin with the positive charge above the origin and the negative charge below. 
+			<ol>
+			<li>
+			Overlaid on the appropriate coordinate system, sketch a diagram of the physical situation and label all quantities of interest. 
+			</li>
+			<li>
+			Use your coordinate system and defined variables from your diagram to construct a symbolic expression for the electric field <m> \vec{E}</m> of the dipole at points along the y-axis of your coordinate system. 
+			</li>
+			<li>
+			Check the units of your expression to make sure it has the correct units of electric field. 
+			</li>
+			<li> Use an appropriate approximation technique to show that if <m> y >> d </m> meaning that if the distance from the center of the dipole is much, much greater than the separation between the charges making up the dipole, the electric field can be represented mathematically as <me> \vec{E}(y) \approx \frac{1}{4 \pi \epsilon_0} \frac{2\vec{p}}{y^3}</me>
+			</li>
+			<li>
+			Describe a physical situation where making the approximation that <m> y >> d </m> is reasonable. Note that, generally, if <m>y</m> is about three to four <em> orders of magnitude larger</em> than <m> d </m>, this approximation is a good approximation. 
+			</li>
+			<li>
+			Sketch a graph of the magnitude of the electric field <m> \vec{E}(x)</m> from <m> x= 0 </m> to <m> x= 4d</m>. Compare to a graph of the electric field from a single point charge located at the origin. Would the dipole exert more or less force on a positive charge <m> q </m> if placed at a position <m> x </m> on your coordinate system?
+			</li>
+			<li>
+			Describe in words what happens to the electric field of the dipole as <m> d</m>, the separation distance between the charges, becomes very small. What happens if <m> d \rightarrow 0</m>?
+			</li>
+
+		
+			</ol>
+			
+			</p>
+		</exercise>
+		
+		<exercise>
+		<p>
+		<alert> The dipole revisited</alert>: In the previous activity we found the electric field of a dipole on the y-axis. Suppose a positive and negative charge are separated by a distance <m> d </m> and lie on the y-axis equidistant from the origin with the positive charge above the origin and the negative charge below. 
+			<ol>
+			<li>
+			Overlaid on the appropriate coordinate system, sketch a diagram of the physical situation and label all quantities of interest. 
+			</li>
+			<li>
+			Using your understanding of superposition, describe in words the direction you expect the electric field vector to point for a position on the positive x-axis and why. Back up your argument with a sketch. 
+			</li>
+			<li>
+			Construct a symbolic expression for the electric field of the dipole at points along the x-axis of your coordinate system. 
+			</li>
+			<li>
+			Check the units of your expression to make sure it has units of electric field. 
+			</li>
+			<li> Use an appropriate approximation technique to show that if <m> x >> d </m> meaning that if the distance from the center of the dipole is much, much greater than the separation between the charges making up the dipole, the electric field can be represented mathematically as <me> \vec{E}(x) \approx -\frac{1}{4 \pi \epsilon_0} \frac{\vec{p}}{x^3}</me>
+			</li>
+			</ol>
+		</p>
+		</exercise>
+		
+		
 		
 	</exercises>
 

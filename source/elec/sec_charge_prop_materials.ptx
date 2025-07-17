@@ -54,45 +54,6 @@ The charge carriers in metals are electrons. In a <alert> conductor </alert>, th
 <p>
 <alert> Insulators</alert>, in contrast, are made from materials whose valence electrons are all tightly bound to their nucleus and cannot move freely between atoms. Charging an insulator by friction leaves patches of molecular ions on the surface but the charges are immobile, they cannot move on the surface. When excess charge is added to an insulating material, that charge cannot move. It remains in place until the charges are dissipated to the environment. Examples of insulators include glass, plastic, wood, rubber, and some organic molecules (generally, materials whose atoms undergo covalent and hydrogen bonding). 
 </p>
-
-<figure xml:id="band_gap">
-		<title>
-		Band Structure of Solids
-		</title>
-    	<caption>
-	A diagram showing the band structure of solids and how the energy difference between conduction electrons and valence electrons changes the electrical properties of materials from insulators.
-	</caption>
-    		<image source="elec/band_gap.png" width = "100%" ></image>
-</figure>
-
-
-<p>
-In solids, electron energy levels broaden into bands due to interactions with neighboring atoms. In a solid, the discrete energy levels of individual atoms merge into continuous bands due to the large number of atoms in a solid and the electric interactions between atoms. The <alert> valence band</alert> is the highest energy band that is completely filled with electrons. It's similar to the outermost electron orbital of an atom that is filled with electrons. The charge carriers in metals are electrons that are free to migrate in the energy band called the <alert> conduction band </alert>. The conduction band is far enough away from the positive nuclei that electrons in the conduction band can flow freely from nucleus to nucleus in the material. The <alert> band gap </alert> is the energy difference between the top of the valence band and the bottom of the conduction band. The valence and conduction bands are separated by energy gaps, or positions where electrons are forbidden to exist. </p>
-
-<p>
-
-</p>
-
-
-
-<p>
-In <em> conductors </em>, the valence band overlaps with the conduction band, allowing electrons to move freely and conduct electricity easily. In <em> insulators </em>, the band gap between the valence and conduction bands is very large, making it difficult for electrons to move from one band to the other. This results in charges that are immobile and materials with low electrical conductivity. In semiconductors, the band gap is relatively small, allowing some electrons to move from the valence band to the conduction band under certain conditions. This gives semiconductors intermediate conductivity between conductors and insulators. Band theory is only an approximation to the quantum state of a solid. Understanding the electrical properties of different materials is still an active field of research and study called <em> materials science</em>. Many modern companies (semi-conductor industry, solar industry, battery industry, etc., ...) are interested in hiring scientists to perform <em> materials science research </em> to understand the electric properties of materials. 
-</p>
-
-<exercises>
-     <title>
-     Charging through conduction
-     </title>
-</exercises> 
- 
- 
-         
-<exercises>
-     <title>
-     Charging through induction
-     </title>
-</exercises> 
-
 	
 </section>
 
