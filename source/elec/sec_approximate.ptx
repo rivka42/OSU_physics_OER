@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_approximate" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Approximation Techniques in Physics</title>
+
+  	<p>
+Effectively applying approximation techniques will be a valuable skill in this course and beyond. Many approximations involve a dimensionless quantity being very small. Recall the small angle approximation, where if <m> \theta \ll 1</m>, then we can approximate  <m> sin \theta \approx tan \theta \approx \theta </m> and <m> cos \theta \approx 1</m>. This was a direct result of applying a Taylor expansion to the trigonometric functions. 
+</p>
+
+<definition>
+	<title>
+	Taylor Series
+	</title>
+		<statement>
+			<p>
+			
+			</p>
+
+			<p>
+			The <term>Taylor series</term> or Taylor expansion of a function <m> f(x) </m> is an infinite sum of powers of the function's derivatives where each term is a polynomial of degree <m> n</m>. If the function <m> f(x) </m> is a real or complex valued function that is infinitely differentiable at a real or complex value <m> x=a</m> then the function can be expanded as 
+			
+			<me> f(x) = f(a) + \frac{f'(a)}{1!}(x-a) + \frac{f''(a)}{2!}(x-a)^2+... \Sigma_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!}(x-a)^n
+			</me>
+			
+where <m> n! </m> denotes the factorial of <m> n</m> and <m> f^{(n)}(a)</m> denotes the nth derivative of the function <m> f(x) </m>evaluated at <m> x=a</m>. 
+			
+			</p>
+			
+		</statement>
+	</definition>
+
+
+
+<p> 
+
+</p> 
+
+		<exercises>
+		<title>The Binomial Approximation</title>
+		</exercises>
+	<p> 
+A binomial is, as the word implies, two numbers added together and sometimes raised to a power. The binomial approximation is a useful mathematical tool for simplifying or approximating symbolic expressions that involve two lengths that are added together when one is much, much larger than the other. Suppose we have an expression where the quantity <m> x \ll 1</m>, and <m> x </m> is a dimensionless quantity, then we can perform a binomial expansion to expand the function in powers of the small quantity <m> x </m>. 
+	<me> (1+x)^n \approx 1+nx+ \frac{n(n-1)}{2}x^2+ ...</me> 
+	
+Where the term <m> nx</m> is called the first order term, and the term containing the <m> x^2</m> is called the second order term and so on. 
+	</p> 
+
+			
+	<exercises>
+		<title>Activities</title>
+		<exercise>
+			  <p><alert>Approximation Techniques</alert>. Consider an expression for the electric on the y-axis of a coordinate system due to a set of two positive charges <me> \vec{E}(x) = \frac{q}{4 \pi \epsilon_0} \frac{2y}{(y^2 +d^2)^{-3/2}} \hat{y}</me> 
+			  where <m> d </m> is the separation between the charges. If we move very far away from the charges such that <m> y \gg d </m> we could expect to recover the electric field of a single point charge with charge <m> 2q</m>. 
+			  <ol>
+			  <li>
+First factor the denominator by pulling the larger length out of the term in parentheses in the denominator. We are trying to form a binomial of the form <m> (1+x)^n </m> where <m> x </m> is a small dimensionless quantity. 
+			  </li>
+			  <li>
+Use an approximation to <em> first order </em> in the small dimensionless quantity to show that in the limit <m> y \gg d </m> the electric field becomes 
+			   <me> \vec{E}(y \gg d) = \frac{q}{4 \pi \epsilon_0} \frac{2}{y^2} \hat{y}</me> 
+Approximating to first order is sometimes referred to as <em> linearizing </em> the equation.  
+			   </li>
+			   </ol> 
+Note: Assuming <m> y \gg d </m> is very reasonable in the case of say, observing the field of a helium nucleus (often called an alpha particle) where the separation distance between the two protons is around <m> 1.0 \times 10^{-15} m </m>. However, this approximation is valid if the two lengths are around three to four <em> orders of magnitude </em>  different. 
+
+			  </p>
+		</exercise>
+	</exercises>
+
+</section>
+

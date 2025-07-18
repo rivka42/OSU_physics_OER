@@ -52,6 +52,21 @@ When two materials slide against one another, there is friction between the two 
     	<caption>A neutral molecule consists of several atoms held together by molecular bonds. These bonds can be broken apart by frictional forces due to rubbing one material against another. When bonds are broken, molecular ions can form. </caption>
     		<image source="elec/charge_ion.png" width = "100%" ></image>
     </figure>
+    
+    <exercises>
+		<title>Activities</title>
+		<exercise>
+			<p>The amount of charge typically produced by rubbing objects together depends on the types of materials but typically is in the range of nanoCoulombs (nC) to picoCoulombs (pC). 
+			<ol>
+			<li>
+			How many electrons are needed to charge an object to <m> -3.2 nC </m>?					</li>
+			<li>
+			 How many electrons must be removed from a neutral object to leave a net charge of <m> 0.6 nC </m> ?
+			 </li>
+			 </ol>
+			 </p>
+		</exercise>
+   </exercises>
 	
 </section>
 
