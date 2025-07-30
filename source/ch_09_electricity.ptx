@@ -33,6 +33,7 @@
 	<xi:include href="./elec/sec_e-field.ptx" />
 	<xi:include href="./elec/sec_approximate.ptx" />
 	<xi:include href="./elec/sec_e-field_many.ptx" />
+	<xi:include href="./elec/sec_field_lines.ptx" />
 	<xi:include href="./elec/sec_e-field-maps.ptx" /> 
 	<xi:include href="./elec/sec_charge-density.ptx" />
 	<xi:include href="./elec/sec_charge-diagrams.ptx" />
