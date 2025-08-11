@@ -6,7 +6,7 @@
       <video youtube="XUrUBts_ivE">		<description>Introducing the gravitational field.</description>
       </video>
 	
-	<definition>
+	<definition xml:id="def_gravitational-field">
 	<title>The Gravitational Field</title>
 	<statement>
 		<p>
@@ -17,7 +17,7 @@
 		<m>G = 6.67 \times 10^{-11}\mathrm{~\frac{m^3}{kgs^2}}</m>.
 	</p>
 	<p> 
-		<alert>Assumption</alert>This equation assumes your object has its mass distributed with spherical symmetry, 
+		<alert>Assumption</alert>: This equation assumes your object has its mass distributed with spherical symmetry, 
 		and that <m>r</m> is greater than or equal to the radius of the spherical object.
 	</p>
 	</statement>

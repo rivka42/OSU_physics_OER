@@ -15,7 +15,7 @@
 	You can then assume the gravitational force acts on the system's <xref ref="def_center-of-mass" text="title"></xref>, a term you will define when you begin learning about rotational motion.</p>
 	</note>
 	
-		<definition>
+		<definition xml:id="def_gravitational-force">
 	<title>The Gravitational Force</title>
 	<statement>
 		<p>
