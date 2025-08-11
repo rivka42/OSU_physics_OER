@@ -4,7 +4,7 @@
 	<title>Approximation Techniques in Physics</title>
 
   	<p>
-Effectively applying approximation techniques will be a valuable skill in this course and beyond. Many approximations involve a dimensionless quantity being very small. Recall the small angle approximation, where if <m> \theta \ll 1</m>, then we can approximate  <m> sin \theta \approx tan \theta \approx \theta </m> and <m> cos \theta \approx 1</m>. This was a direct result of applying a Taylor expansion to the trigonometric functions. 
+Effectively applying approximation techniques will be a valuable skill in this course and beyond. Many approximations involve a dimensionless quantity being very small. Recall the small angle approximation, where if <m> \theta \ll 1</m>, then we can approximate  <m> \sin \theta \approx \tan \theta \approx \theta </m> and <m> \cos \theta \approx 1</m>. This was a direct result of applying a Taylor expansion to the trigonometric functions. 
 </p>
 
 <definition>
@@ -49,7 +49,8 @@ Where the term <m> nx</m> is called the first order term, and the term containin
 	<exercises>
 		<title>Activities</title>
 		<exercise>
-			  <p><alert>Approximation Techniques</alert>. Consider an expression for the electric on the y-axis of a coordinate system due to a set of two positive charges <me> \vec{E}(x) = \frac{q}{4 \pi \epsilon_0} \frac{2y}{(y^2 +d^2)^{-3/2}} \hat{y}</me> 
+			<title>Approximation Techniques</title>
+			  <p>Consider an expression for the electric on the y-axis of a coordinate system due to a set of two positive charges <me> \vec{E}(x) = \frac{q}{4 \pi \epsilon_0} \frac{2y}{(y^2 +d^2)^{-3/2}} \hat{y}</me> 
 			  where <m> d </m> is the separation between the charges. If we move very far away from the charges such that <m> y \gg d </m> we could expect to recover the electric field of a single point charge with charge <m> 2q</m>. 
 			  <ol>
 			  <li>
@@ -61,7 +62,7 @@ Use an approximation to <em> first order </em> in the small dimensionless quanti
 Approximating to first order is sometimes referred to as <em> linearizing </em> the equation.  
 			   </li>
 			   </ol> 
-Note: Assuming <m> y \gg d </m> is very reasonable in the case of say, observing the field of a helium nucleus (often called an alpha particle) where the separation distance between the two protons is around <m> 1.0 \times 10^{-15} m </m>. However, this approximation is valid if the two lengths are around three to four <em> orders of magnitude </em>  different. 
+Note: Assuming <m> y \gg d </m> is very reasonable in the case of say, observing the field of a helium nucleus (often called an alpha particle) where the separation distance between the two protons is around <m> 1.0 \times 10^{-15} \mathrm{m} </m>. However, this approximation is valid if the two lengths are around three to four <em> orders of magnitude </em>  different. 
 
 			  </p>
 		</exercise>

@@ -5,12 +5,7 @@
 		
     <video youtube="sXcW08Afy-o"><description>Introducing Coulomb's Law.</description></video>
 	
-	<principle>
-		<title>Coulomb's Law</title>
-		<statement>
-			<p>The electric field created by a point charge <m>q_{\text{source}}</m> is given by <me>\vec{E}_{pc} = \frac{kq_{\text{source}}}{r^2}\hat{r}</me>  Here <m>k = 9 \times 10^9 \frac{\text{Nm}^2}{\text{C}^2}</m> is a constant, <m>\hat{r}</m> is a unit vector that points radially outward from the location of the point charge, and <m>r</m> is the distance from the point charge to the place where the electric field is being evaluated.</p>
-		</statement>
-	</principle>
+	<p>Recall the definition of the electric field due to a <xref ref="point_charge"/>.</p>
 	
 	<definition>
 		<title>Coulomb's Law</title>
@@ -18,9 +13,9 @@
 <p>
 Coulomb's law describes the electric force between two stationary <em> point charges </em> interacting through the electric field. It states that the force is directly proportional to the product of the two charges and inversely proportional to the square of the distance between the two charges
 
-<me> \vec{F}_E(r) = q\vec{E}= K \frac{qQ}{r^2} \hat{r}	</me> 
+<me> \vec{F}_E(r) = q\vec{E}= k \frac{qQ}{r^2} \hat{r}	</me> 
 
-where <m>\hat{r}</m> is a unit vector that points from the location of the point charge generating the field to the location of the charge experiencing the field, <m>r</m> is the separation distance between the two charges, and <m> K </m> is the electrostatic constant. We have used an uppercase Q and lowercase q to help denote that the two charges can have different amounts of charge. 
+where <m>\hat{r}</m> is a unit vector that points from the location of the point charge generating the field to the location of the charge experiencing the field, <m>r</m> is the separation distance between the two charges, and <m> k </m> is the electrostatic constant. We have used an uppercase Q and lowercase q to help denote that the two charges can have different amounts of charge. 
 </p>
 		</statement>
 	</definition>
@@ -49,7 +44,7 @@ The forces defined by both laws are <alert> central forces </alert>  meaning tha
 Both force laws are <alert> conservative forces</alert> meaning the work done by these forces on any object is independent of the path followed by the object. The work only depends in the initial and final position of the object while under the influence of the force. 
 </li>
 </ul>
-A consequence of these similarities is that much of the physical and mathematical tools we have been developing for charges also apply to masses. Recall that Newton’s law and Coulombs law are developed for point masses or point charges. If we have many charges then we need to use the principle of superposition to determine the net effect of many charges or masses interacting. This is why it is often more useful to determine the fields and understand the forces those fields apply on other charges or masses than to calculate force directly.  
+A consequence of these similarities is that much of the physical and mathematical tools we have been developing for charges also apply to masses. Recall that Newton’s law and Coulomb's law are developed for point masses or point charges. If we have many charges then we need to use the principle of superposition to determine the net effect of many charges or masses interacting. This is why it is often more useful to determine the fields and understand the forces those fields apply on other charges or masses than to calculate force directly.  
 
 		</p> 
 
@@ -57,8 +52,9 @@ A consequence of these similarities is that much of the physical and mathematica
 		<title>Activities</title>
 		
 		<exercise>
+		<title>The Dipole Force</title>
 		<p> 
-<alert> The dipole force</alert>. Suppose a positive and negative charge are separated by a distance <m> d </m> and lie on the x-axis equidistant from the origin with the positive charge at <m> x=-d/2</m> and the negative charge at <m> x=d/2</m>. A positive charge <m> Q </m> is placed a distance <m> r </m> from the center of the dipole on the positive x-axis.   
+Suppose a positive and negative charge are separated by a distance <m> d </m> and lie on the x-axis equidistant from the origin with the positive charge at <m> x=-d/2</m> and the negative charge at <m> x=d/2</m>. A positive charge <m> Q </m> is placed a distance <m> r </m> from the center of the dipole on the positive x-axis.   
 						
 <ol>
 
@@ -102,8 +98,9 @@ Suppose that the lengths <m> r \gg d </m> as is usually the case for atomic dipo
 		</exercise> 
 		
 		<exercise> 
+		<title>Two Protons</title>
 		<p> 
-		<alert> Two Protons </alert>. Two protons are <m> 1.0 pm </m> away from each other. 
+		Two protons are <m> 1.0 \ \mathrm{pm} </m> away from each other. 
 		<ol>
 		
 		<li>
@@ -123,6 +120,7 @@ Suppose that the lengths <m> r \gg d </m> as is usually the case for atomic dipo
 		
 		
 		<exercise>
+		<title>Electric Field Vector Maps</title>
 			<p>Recall <xref ref="x_graphing-r-hat"/>, in which you made a 2D-map of a vector field.  The vector field you mapped is proportional to <m>\hat{r}</m>! Map this vector field and describe how this vector field changes (or stays the same) at different points in space.  What do you think the map would look like if you could make it three-dimensional?</p>
 		</exercise>
 		<exercise>

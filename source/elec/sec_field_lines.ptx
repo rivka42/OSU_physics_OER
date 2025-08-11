@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_field_lines" xmlns:xi="http://www.w3.org/2001/XInclude">
-	<title>Visualizing Electric Field </title>
+	<title>Electric Field Lines</title>
 
   	<p>
-Electric fields exist in three dimensions of space around any charge or charge distribution. One of the major conceptual difficulties for students first encountering the idea of electric fields, is that interacting with the field through our primary senses of sight, sound and touch is not possible. Electric and gravitational fields are invisible, and we can really only measure their effect on other objects through the forces they exert or through indirect measurement of the <em> potential difference </em>, a subject for a later chapter. 
+Electric fields exist in three dimensions of space around any charge or charge distribution. One of the major conceptual difficulties when first encountering the idea of electric fields, is that interacting with the field through our primary senses of sight, sound and touch is not possible. Electric and gravitational fields are invisible, and we can really only measure their effect on other objects through the forces they exert or through indirect measurement of the <em> potential difference </em>, a subject for a later chapter. 
 </p>
 		<exercises>
 		<title>Electric Field Lines</title>
@@ -19,7 +19,7 @@ Electric field lines, like vectors are denoted by lines with arrowheads. However
          
           <li> 
           
-We can find the direction of electric field vector at any point by drawing a vector tangent to the electric field lines. 
+We can find the direction of the electric field vector at any point by drawing a vector tangent to the electric field lines. 
          </li>
   	
 	<li>
@@ -72,7 +72,7 @@ The electric field of a positive point charge <em> points away</em> from the cha
   <p>
 
 
-Using the shape of the field from a single point charge, and vector superposition, we can infer the electric other charge distributions. Some common geometries of charge we will consider are those of lines of charge, cylinders, cylindrical shells, circles, spheres, spherical shells, sheets and solid rectangles. Now might be a good time to review how to calculate basic geometric quantities such as circumference, surface area and volumes of these common geometries. 
+Using the shape of the field from a single point charge, and vector superposition, we can infer the electric field from other charge distributions. Some common geometries of charge we will consider are those of lines of charge, cylinders, cylindrical shells, circles, spheres, spherical shells, sheets and solid rectangles. Now might be a good time to review how to calculate basic geometric quantities such as circumference, surface area and volumes of these common geometries. 
   
  	</p> 
 
@@ -80,7 +80,8 @@ Using the shape of the field from a single point charge, and vector superpositio
 	<exercises>
 		<title>Activities</title>
 		<exercise>
-			  <p><alert>Field lines</alert>. 	Using the shape of the field from a single point charge, and vector superposition, sketch the shape of the following charge geometries:	  
+		<title>Field Lines</title>
+			  <p>Using the shape of the field from a single point charge, and vector superposition, sketch the shape of the following charge geometries:	  
 			  <ol>
 			  <li>
 			    An electric dipole. 
@@ -102,8 +103,8 @@ Using the shape of the field from a single point charge, and vector superpositio
 		</exercise>
 		
 		<exercise>
-		<p><alert>Field Line Simulation</alert>. Use this electric field simulation to help you understand the shape electric field lines take around various charges or charge distributions. Do the electric field lines you sketched previously agree with the simulation?
-		<url href="https://icphysweb.z13.web.core.windows.net/simulation.html"></url>
+		<title>Field Line Simulation</title>
+		<p>Use this <url href="https://icphysweb.z13.web.core.windows.net/simulation.html" visual="electric field simulation"/> to help you understand the shape electric field lines take around various charges or charge distributions. Do the electric field lines you sketched previously agree with the simulation?
 		</p>
 		</exercise>
 	</exercises>
