@@ -20,7 +20,7 @@ Charged particles are all around us and each charge generates an electric field.
 			</p>
 			
 			<p>
-			The <term> electric field </term> is a <em> vector field </em> that tells a charged object what force to feel.
+			The <term> electric field </term> is a <em> vector field </em> that influences the force that a charged object experiences.
 			</p>
 		</statement>
 </definition>
@@ -35,7 +35,7 @@ Charged particles are all around us and each charge generates an electric field.
 			</p>
 
 			<p>
-			The <term>electric force</term> on a point-like object (test charge) is the product of the object's charge and the electric field at the location of the object: <me>\vec{F}_E = q_{\text{test}} \vec{E}</me>
+			The <term>electric force</term> on a point-like object (test charge) is the product of the object's charge and the electric field at the location of the object: <me>\vec{F}^E = q_{\text{test}} \vec{E}</me>
 			</p>
 		</statement>
 	</definition>
@@ -44,74 +44,6 @@ Charged particles are all around us and each charge generates an electric field.
 Charged particles interact with each other through electric fields. Like the gravitational force, the electric force is a long range force, as opposed to a contact force. The electric and gravitational fields are responsible for mediating the force interaction between charges and masses, respectively.  Much of what we do in exploring electric fields has a direct analogue with gravitational fields. Keep this in mind as we progress through the next few chapters. 
 </p>
 
-<p>
-
-</p>
-<p>
-Each and every electric charge generates its own electric field. We can think of the electric field as a physical alteration of the space around a charge which describes the influence of that charge on other charges in their vicinity. We usually call the charge generating the field the <em>source charge</em>, and represent it mathematically as <m> q_{\text{source}}</m>, and the charge experiencing the field the <em>test charge</em>, and represent it as <m> q_{\text{test}}</m>. A source charge never feels a force from its own field. It would violate conservation of energy for a charge to be able to exert a force on itself through its own field. Eventually, we would like to drop the subscript notation and just be able to describe charges using the simpler notation, <m>q</m>, being able to tell from context which is the charge creating the field and which is the charge experiencing the field. 
-</p>
-
-<exercises>
-		<title>
-		The Electric Field of a Single Point Charge
-		</title>
-</exercises>
-
-<definition xml:id="point_charge">
-	<title>
-	Single Point Charge
-	</title>
-		<statement>
-		
-			<p>
-			
-			</p>
-			
-			<p>
-			The electric field of a single point charge is defined mathematically as <me> \vec{E}(r) = \frac{1}{4 \pi \epsilon_{0}} \frac {q}{r^2} \hat{r}</me> where <m> q </m> represents the source charge generating the field, <m> r </m> is the distance from the charge to the location we want to know the magnitude of the field, <m> \hat{r} </m> is a unit vector that points radially away from the charge, and <m> \epsilon_{0} = 8.85 \times 10^{-12} \frac{\mathrm{C^2}}{\mathrm{Nm^2}}</m> is the <em> permittivity constant </em>. 
-			</p>
-		</statement>
-</definition>
-
-
-<p>
-To understand the above definition, let's use a visual representation to be precise about what each symbol of the equation means physically. Consider a charge <m> q </m>, represented in the figure below by a positive charge, and a point in space <m> P </m> a distance <m> r </m> away from charge <m> q </m>. The vector symbol above the <m> E</m> within the notation <m> \vec{E}(r) </m>, tells us that the electric field is a vector and it depends on, or is a function of, the distance <m> r </m> from the center of the charge <m> q </m> that creates the field. The field is defined at any point in space around the charge, and its magnitude changes with the inverse square of distance from that charge. To find the direction of the field, we use the unit vector <m> \hat{r} </m> which always points from center of the charge radially outward.  When we multiply the magnitude of the electric field by the unit vector <m> \hat{r} </m>, we can find the direction of the field at point <m> P </m>. Recall that a unit vector itself has magnitude <m> |\hat{r}|=1.0 </m> and so multiplying the equation by <m> \hat{r} </m> does not change the overall magnitude, it only imparts a directionality to the field at that point. If we chose a different point in space around the charge, the electric field, both the magnitude and the direction, would be different depending on that position. This is yet another reason for using the notation <m> \vec{E}(r) </m> suggesting the electric field is a <em > function of position </em>. 
-</p>
-<figure xml:id="Efield_point">
-		<title>Electric field of single point charge</title>
-    	<caption>A visualization of the symbols used to define the electric field of a single point charge. </caption>
-    		<image source="elec/Efield_point.png" width = "60%" ></image>
-</figure>
-
-	<exercises>
-		<title>
-		The Permittivity Constant
-		</title>
-	</exercises>
-	
-	<p>
-Let's discuss the permittivity constant, <m> \epsilon_{0} = 8.85 \times 10^{-12} \frac{\mathrm{C^2}}{\mathrm{Nm^2}}</m>. Electric fields are generated by charges. If there is other matter around that charge, for example air or wood or water, that matter can affect how the electric field is <em> permitted </em> to exist. The constant <m> \epsilon_{0} </m> (pronounced "epsilon naught") is a constant of proportionality which scales how the magnitude of the electric field is related to charge and distance in a <em> vacuum </em>. This is why it is sometimes referred to as the <em> permittivity of free space </em> or the <em> vacuum permittivity</em>. If there is other matter in the vicinity of the source charge, then the magnitude of the electric field will be slightly different because the field needs to be <em> permitted</em> by matter. 
-	</p>
-	
-	<p> 
-	
-	</p> 
-	
-	<p> 
-Sometimes you will also see the electric field or force written in term of the <alert> electrostatic constant </alert> <m> k </m> instead of the permittivity constant. The relationship between the electrostatic constant and the permittivity constant is <me> k = \frac{1}{ 4 \pi \epsilon_0} = 9.0 \times 10^9 \frac{\mathrm{C^2}}{\mathrm{Nm^2}}</me>. It will simplify future calculations if we get used to writing fields in terms of the permittivity constant, but either notation is equivalent numerically. 
-	</p> 
-	
-	
-	<exercises>
-		<title>
-		Parallels in Gravity
-		</title>
-	</exercises>
-	<p>
-	We previously alluded that mass, like charge, physically alters the space around it which we call the <em> gravitational field </em>. Recall the definition of <xref ref="def_gravitational-field" text="title"/> and the definition of <xref ref="def_gravitational-force" text="title"/>.
-
-	Formulating the gravitational force in terms of the gravitational field allows us to determine the acceleration due to gravity for any body of mass and at any distance from that body. Note the units of the Gravitational constant and then recall the units of the electrostatic constant <m> k </m>. Do you notice any similarities?
-	</p> 
 
 	<exercises>
 		<title>Activities</title>
@@ -135,20 +67,6 @@ Sometimes you will also see the electric field or force written in term of the <
 		
 			  
 			    <video youtube="ee381dCP6JM?si=rPmhzvOYayTc6t0O"></video>	
-		</exercise>
-		
-		<exercise>
-		<title>Comparing <m> | \vec{E} |</m> to <m>| \vec{g}|</m></title>
-		<p> 
-		Consider a single proton. What is the ratio of the magnitude of the gravitational field to the electric field if we are one picometer <m> (\text{pm})</m> away from the proton? Note that <m> 1\text{pm} = 10^{-12} \text{m}</m>. 
-		</p>
-		</exercise>
-		
-		<exercise>
-		<title>Electric Force</title>
-		<p> 
-		Determine the electric force on an electron one picometer away from a proton Why is the electric force more viable as a means of holding an atom together compared to the gravitational force? 
-		</p>
 		</exercise>
 		
 
