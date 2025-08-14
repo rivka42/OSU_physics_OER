@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_electric-field_dipole" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Electric Dipole</title>
+   
+<p>
+An electric dipole is a system consisting of a positively charged particle and a negatively charged particle separated by a very small distance. 
+</p>
+
+<definition>
+	<title>
+	The Electric Dipole Moment
+	</title>
+		<statement>
+		
+			<p>
+			
+			</p>
+			
+			<p>
+The electric dipole moment <me> |\vec{p}| = qd </me> is the vector that points from the negative charge to the positive charge and has magnitude <m> qd </m> which is the charge of the positive particle multiplied by the distance between the positive and negative charges.  
+			</p>
+		</statement>
+</definition>
+
+ <figure xml:id="dipole_moment">
+		<title>Electric field of many charges</title>
+    	<caption>A visualization of the electric dipole moment due to a small separation of positive and negative charges. </caption>
+    		<image source="elec/dipole_moment.png" width = "60%" ></image>
+    </figure>
+
+
+<p> 
+Electric dipoles are important not only in physics but in chemistry as well. Matter is made up of atoms and molecules that have charged particles which govern their behavior, and are subdivided into two types:
+</p>
+
+<p>
+
+</p>
+
+<p>
+<alert> Polar Molecules: </alert> A molecule in which one end is slightly positively charged and the other end is slightly negatively charged. 
+</p>
+<p>
+<alert> Non-Polar Molecules: </alert> A molecule that does not have any net electric charge. 
+</p> 
+
+<p>
+
+</p>
+
+<ul>
+<li>
+Polar molecules possess permanent dipole moments. The most famous polar molecule is water. Its polarity is responsible for many of the water molecule's unique properties. 
+</li>
+
+<li>
+Dipoles are randomly oriented in the absence of an external electric field. When placed in an electric field, polar molecules will align themselves in the direction of the electric field.
+</li>
+  </ul>
+
+ <figure xml:id="water_dipole">
+		<title>Electric Dipole of Water Molecules</title>
+    	<caption>A visualization of the electric dipole moment of the water molecule. </caption>
+    		<image source="elec/water_dipole.png" width = "60%" ></image>
+    </figure>
+
+<p> 
+Water is composed of a polar covalent bond between two hydrogen atoms and one oxygen atom. The oxygen is more electronegative making it attract electrons more strongly. The unequal sharing of electrons creates a slightly negative charge on the oxygen atom and a slight positive charge on the two hydrogen atoms. This leads to the electric dipole moment of the water molecule. 
+</p> 
+
+	<exercises>
+		<title>Activities</title>
+		
+		<exercise>
+		<title>Sensemaking - Units</title>
+		<p>
+		What are the units of the electric dipole moment? What might this imply about the term <em>moment</em> in physics? Can you think of other times we used the term <em> moment</em> to describe a physical property of a system?
+		</p>
+		</exercise>
+		
+		
+		<exercise>
+		<title>The Electric Dipole</title>
+			<p>
+			Suppose a positive and negative charge are separated by a distance <m> d </m> and lie on the y-axis equidistant from the origin with the positive charge above the origin and the negative charge below. 
+			<ol>
+			<li>
+			Overlaid on the appropriate coordinate system, sketch a diagram of the physical situation and label all quantities of interest. 
+			</li>
+			<li>
+Considering the principle of superposition, if you are at a point on the positive y-axis, in which direction do you expect the <em> net </em> electric field to point? Back up your argument with a diagram. 
+		        </li>
+			
+			<li>
+			Use your coordinate system and defined variables from your diagram to construct a symbolic expression for the electric field <m> \vec{E}(y)</m> of the dipole at points along the y-axis of your coordinate system. 
+			</li>
+			<li>
+			Check the units of your expression to make sure it has the correct units of electric field. 
+			</li>
+			<li> Use an appropriate approximation technique to show that if <m> y \gg d </m> meaning that if the distance from the center of the dipole is much, much greater than the separation between the charges making up the dipole, the electric field can be represented mathematically as <me> \vec{E}(y) \approx \frac{1}{4 \pi \epsilon_0} \frac{2\vec{p}}{y^3}</me>
+			</li>
+			<li>
+			Describe a physical situation where making the approximation that <m> y \gg d </m> is reasonable. Note that, generally, if <m>y</m> is about three to four <em> orders of magnitude larger</em> than <m> d </m>, this approximation is a good approximation. 
+			</li>
+			<li>
+			Sketch a graph of the magnitude of the electric field <m> \vec{E}(x)</m> from <m> x= 0 </m> to <m> x= 3d</m>. Compare to a graph of the electric field from a single point charge located at the origin. Would the dipole exert more or less force on a positive charge <m> q </m> if placed at a position <m> x </m> on your coordinate system than a single point charge at the origin? How can you tell?
+			</li>
+			<li>
+			Describe in words what happens to the electric field of the dipole as <m> d</m>, the separation distance between the charges, becomes very small. What happens if <m> d \rightarrow 0</m>? What does this mean physically?
+			</li>
+
+		
+			</ol>
+			
+			</p>
+		</exercise>
+		
+		<exercise>
+		<title>The Dipole Revisited</title>
+		<p>
+		In the previous activity we found the electric field of a dipole on the y-axis for points on the y-axis. Suppose a positive and negative charge are separated by a distance <m> d </m> and lie on the y-axis equidistant from the origin with the positive charge above the origin and the negative charge below. 
+			<ol>
+			<li>
+			Overlaid on the appropriate coordinate system, sketch a diagram of the physical situation and label all quantities of interest. 
+			</li>
+			<li>
+Considering the principle of superposition, if you are at a point on the positive x-axis, in which direction do you expect the <em> net </em> electric field to point? Back up your argument with a diagram. 
+			</li>
+			<li>
+			Construct a symbolic expression for the electric field <m> \vec{E}(x) </m> of the dipole at points on the x-axis of your coordinate system. 
+			</li>
+			<li>
+			Check the units of your expression to make sure it has units of electric field. 
+			</li>
+			<li> Use an appropriate approximation technique to show that if <m> x \gg d </m> meaning that if the distance from the center of the dipole is much, much greater than the separation between the charges making up the dipole, the electric field can be represented mathematically as <me> \vec{E}(x) \approx -\frac{1}{4 \pi \epsilon_0} \frac{\vec{p}}{x^3}</me>
+			</li>
+			</ol>
+		</p>
+		</exercise>
+		
+		
+		
+	</exercises>
+
+
+	
+</section>
