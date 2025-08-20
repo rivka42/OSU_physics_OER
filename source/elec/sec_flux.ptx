@@ -2,20 +2,20 @@
 
 <section xml:id="sec_flux" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-	<p>Flux can be described as how much of something flows perpendicularly through an area. Common examples of flux might be how much water flows through the surface of your faucet, or how many photons travel through the opening of a telescope. We can also think about the electric flux:</p>
+	<p>Flux can be described as how much of something flows perpendicularly through an area. Common examples of flux might be how much water flows through the surface of your faucet, how many photons travel through the opening of a telescope, or how much wind flows through a window. We can also think about the electric flux:</p>
 
   	<title>Electric Flux</title>
 		
     <video youtube="fgxk4VEDoIQ"><description>Introducing electric flux.</description></video>
 
-	<p>The electric flux tells us about the total electric field flowing perpendicularly through a surface.</p>
-	
 	<definition>
 		<title>Electric Flux</title>
 		<statement>
-			<p>The <term>electric flux</term> <m>\mathit{\Phi}_E</m> through a surface defined by infinitesimal area vector <m>d\vec{A}</m> is given by<fn>the double-integral sign indicates that the integral is over a two-dimensional surface</fn> <me>\mathit{\Phi}_E = \iint\vec{E}\cdot d\vec{A}</me></p>
+			<p>The <term>electric flux</term>, <m>\mathit{\Phi}_E</m>, through a surface defined by infinitesimal area vector <m>d\vec{A}</m> is given by<fn>the double-integral sign indicates that the integral is over a two-dimensional surface</fn> <me>\mathit{\Phi}_E = \iint\vec{E}\cdot d\vec{A}</me></p>
 		</statement>
 	</definition>
+
+	<p>The electric flux tells us about the total electric field passing perpendicularly through a surface. While the electric field isn't actually "flowing" through a surface, it is still useful to discuss how much of the electric field is passing through a surface. The integral above is called a surface integral, and can be thought of as summing the electric flux passing through each infinitesimal <m>d\vec{A}</m>.</p>
 
 	<exercises>
 		<title>Activities</title>
