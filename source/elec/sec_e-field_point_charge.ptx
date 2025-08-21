@@ -48,7 +48,7 @@ Let's discuss the permittivity constant, <m> \epsilon_{0} = 8.85 \times 10^{-12}
 	</p> 
 	
 	<p> 
-Sometimes you will also see the electric field or force written in term of the <alert> electrostatic constant </alert> <m> k </m> instead of the permittivity constant. The relationship between the electrostatic constant and the permittivity constant is <me> k = \frac{1}{ 4 \pi \epsilon_0} = 9.0 \times 10^9 \frac{\mathrm{C^2}}{\mathrm{Nm^2}}</me>. It will simplify future calculations if we get used to writing fields in terms of the permittivity constant, but either notation is equivalent numerically. 
+Sometimes you will also see the electric field or force written in term of the <alert> electrostatic constant </alert> <m> k </m> instead of the permittivity constant. The relationship between the electrostatic constant and the permittivity constant is <me> k = \frac{1}{ 4 \pi \epsilon_0} = 9.0 \times 10^9 \frac{\mathrm{Nm^2}}{\mathrm{C^2}}</me>. It will simplify future calculations if we get used to writing fields in terms of the permittivity constant, but either notation is equivalent numerically. 
 	</p> 
 	
 	
