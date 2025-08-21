@@ -6,7 +6,7 @@
 	<exercises>
 		<title>Warm-up Activities</title>
 		<exercise>
-			<p>You want to find the dot product between two vectors, <m>\vec{A}</m> and <m>\vec{B}</m>.  What do you know about the directions of vectors and if the dot product is positive?  What if the dot product is negative?  What if the dot product is zero?</p>
+			<p>You want to find the dot product between two vectors, <m>\vec{A}</m> and <m>\vec{B}</m>.  What do you know about the directions of vectors if the dot product is positive?  What if the dot product is negative?  What if the dot product is zero?</p>
 			<tip><p>The dot product was introduced in <xref ref="sec_dot-product"/>.</p></tip>
 		</exercise>
 	</exercises>
