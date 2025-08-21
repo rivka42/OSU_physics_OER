@@ -13,7 +13,7 @@
 		</statement>
 	</principle>
 	
-	<p>The Loop Rule is based on conservation of energy.</p>
+	<p>Recall the definition of <xref ref="def-electric_potential_energy"/>. The Loop Rule is based on conservation of energy. In a closed loop, the energy supplied by the battery is transformed between circuit elements, and not into or out of the system. To ensure that energy is conserved, the voltage differences around closed loops must sum to zero.</p>
 	
 	<exercises>
 		<title>Activities</title>

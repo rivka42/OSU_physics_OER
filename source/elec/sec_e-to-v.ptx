@@ -12,6 +12,10 @@
 		</statement>
 	</principle>
 
+	<p>
+		If you know the electric field of a given charge distribution, you can integrate the electric field along a path to determine the electric potential difference between two points. Notice that the electric potential difference is a scalar quantity.
+	</p>
+
 	<exercises>
 		<title>Activities</title>
 		<exercise>

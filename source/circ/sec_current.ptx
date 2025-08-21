@@ -13,6 +13,10 @@
 	<video youtube="LquookvLyh8"><description>Introducing electric current.</description></video>
 		
 	<p>The voltages across different elements of a circuit produce electric fields within the elements that help move the charges along, producing a current.</p>
+
+	<p>
+		There are two types of current that are typically discussed: conventional current and electron current. Moving forward, we will use the word "current" to refer to conventional current, the flow of positive charges from the positive end of the battery to the negative end of the battery, as is the standard way of discussing current in circuits. Electron current flows in the opposite direction of conventional current.
+	</p>
 	
 	<definition>
 		<title>Electric Current</title>
