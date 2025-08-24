@@ -6,20 +6,30 @@
 	<exercises>
 		<title>Warm-up Activities</title>
 		<exercise>
-			<p>You want to find the dot product between two vectors, <m>\vec{A}</m> and <m>\vec{B}</m>.  What do you know about the directions of vectors and if the dot product is positive?  What if the dot product is negative?  What if the dot product is zero?</p>
-
-	  	<p>The dot product was introduced in <xref ref="sec_dot-product"/>.</p>
+			<p>You want to find the dot product between two vectors, <m>\vec{A}</m> and <m>\vec{B}</m>.  What do you know about the directions of vectors if the dot product is positive?  What if the dot product is negative?  What if the dot product is zero?</p>
+			<tip><p>The dot product was introduced in <xref ref="sec_dot-product"/>.</p></tip>
 		</exercise>
 	</exercises>
+
+	<p>To describe surfaces, we will need to define a new quantity.</p>
 		
     <video youtube="vey7PR0pO1o"><description>Introducing area vectors.</description></video>
 	
 	<definition>
 		<title>Area Vector</title>
 		<statement>
-			<p>The <term>area vector</term> <m>\vec{A}</m> for a surface points <em>perpendicular</em> to the surface, with a magnitude equal to the area of the surface.  For an infinitesimal surface, the area vector is typically written <m>d\vec{A}</m>.</p>
+			<p>The <term>area vector</term> <m>\vec{A}</m> for a surface points <em>perpendicular</em> to the surface, with a magnitude equal to the area of the surface.  For an infinitesimal surface, the area vector is typically written <m>d\vec{A}</m>. An area vectors has units of <m>\mathrm{m}^2</m></p>
 		</statement>
 	</definition>
+
+	<figure xml:id="fig_area_vector">
+			<title>Area Vector</title>
+		<caption>An example of the area vector.</caption>
+		<image source="elec/area-vector.png" width = "25%" ></image>
+	</figure>
+
+	<p>Area vectors will help us define different surfaces, and will become particularly useful in the next few sections.</p>
+	
 
 	<exercises>
 		<title>Activities</title>

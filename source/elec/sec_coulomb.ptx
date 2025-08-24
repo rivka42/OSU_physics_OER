@@ -5,16 +5,122 @@
 		
     <video youtube="sXcW08Afy-o"><description>Introducing Coulomb's Law.</description></video>
 	
-	<principle>
+	<p>Recall the definition of the electric field due to a <xref ref="point_charge"/>.</p>
+	
+	<definition>
 		<title>Coulomb's Law</title>
 		<statement>
-			<p>The electric field created by a point charge <m>q_{\text{source}}</m> is given by <me>\vec{E}_{pc} = \frac{kq_{\text{source}}}{r^2}\hat{r}</me>  Here <m>k = 9 \times 10^9 \frac{\text{Nm}^2}{\text{C}^2}</m> is a constant, <m>\hat{r}</m> is a unit vector that points radially outward from the location of the point charge, and <m>r</m> is the distance from the point charge to the place where the electric field is being evaluated.</p>
+<p>
+Coulomb's law describes the electric force between two stationary <em> point charges </em> interacting through the electric field. It states that the force is directly proportional to the product of the two charges and inversely proportional to the square of the distance between the two charges
+
+<me> \vec{F}_E(r) = q\vec{E}= k \frac{qQ}{r^2} \hat{r}	</me> 
+
+where <m>\hat{r}</m> is a unit vector that points from the location of the point charge generating the field to the location of the charge experiencing the field, <m>r</m> is the separation distance between the two charges, and <m> k </m> is the electrostatic constant. We have used an uppercase Q and lowercase q to help denote that the two charges can have different amounts of charge. 
+</p>
 		</statement>
-	</principle>
+	</definition>
+ <p> 
+ Recall that Newton's third law states that the forces on each particle are equal and opposite. Therefore, both particles exert forces on each other through the fields they generate. The force is attractive for charges with opposite signs and repulsive for charges with like signs. 
+ </p> 
+ 
+ 	<exercises>
+		<title>Parallels in Gravity</title>
+		</exercises>
+		<p> 
+		We previously explored the similarities between the gravitational field and electric field. Recall the Newton's Universal Law of Gravity:
+		
+		<me> \vec{F}_G(r) = m\vec{g}= G \frac{mM}{r^2} \hat{r}	 </me> 
+<ul>
+<li>
+Both laws define <alert> force</alert>. Coulomb's law describes the force between electric point charges whereas Newton’s law describes the force between point masses.
+</li>
+<li>
+Both are <alert> inverse square laws</alert>. The forces are proportional to the inverse square of the distance between masses for Newton’s law and the inverse square of the distance between charges for Coulomb’s law. 
+</li>
+<li>
+The forces defined by both laws are <alert> central forces </alert>  meaning that the forces act along a line joining the center of the two charges in Coulomb’s law and along the line joining the center of the two masses in Newton’s law. 
+</li>
+<li>
+Both force laws are <alert> conservative forces</alert> meaning the work done by these forces on any object is independent of the path followed by the object. The work only depends in the initial and final position of the object while under the influence of the force. 
+</li>
+</ul>
+A consequence of these similarities is that much of the physical and mathematical tools we have been developing for charges also apply to masses. Recall that Newton’s law and Coulomb's law are developed for point masses or point charges. If we have many charges then we need to use the principle of superposition to determine the net effect of many charges or masses interacting. This is why it is often more useful to determine the fields and understand the forces those fields apply on other charges or masses than to calculate force directly.  
+
+		</p> 
 
 	<exercises>
 		<title>Activities</title>
+		
 		<exercise>
+		<title>The Dipole Force</title>
+		<p> 
+Suppose a positive and negative charge are separated by a distance <m> d </m> and lie on the x-axis equidistant from the origin with the positive charge at <m> x=-d/2</m> and the negative charge at <m> x=d/2</m>. A positive charge <m> Q </m> is placed a distance <m> r </m> from the center of the dipole on the positive x-axis.   
+						
+<ol>
+
+<li>
+Overlaid on the appropriate coordinate system, sketch a diagram of the physical situation and label all quantities of interest. 
+</li>
+
+<li>
+Construct an expression for the net force exerted on the dipole by charge <m> Q </m> . Be sure to use <alert> unit vector notation </alert> when constructing your equation.
+</li>
+
+<li> 
+<alert> Sensemake</alert>: Perform a unit analysis or dimensional analysis to show that your expression above has units of force.
+</li> 
+
+<li> 
+<alert> Explain</alert>: Do you expect the net force be toward <m> Q </m> or away from <m> Q </m>? Does your expression from part B confirm this? Use sentences, symbols and diagrams to back up your
+answer.
+</li> 
+
+<li> 
+Suppose that the lengths <m> r \gg d </m> as is usually the case for atomic dipoles. Use the binomial expansion as an approximation tool to approximate the force to first order. Using the binomial approximation, simplify your expression for the net force exerted on the dipole from charge <m> Q </m>.
+</li> 
+
+<li>
+<alert> Sensemake</alert>: Perform a unit analysis or dimensional analysis to show that your new expression has units of force.
+</li>
+
+
+<li>
+<alert> Explain</alert>: How can this force have an inverse-cube dependence on <m> r</m> ? Doesn’t Coulomb’s law assert that the electric force depends on the inverse square of distance? Explain why this is possible in this situation.
+</li>
+
+<li>
+<alert> Sensemake</alert>: What happens to the value of the force as <m> d </m> gets very small? What happens to the force as <m> d \rightarrow 0</m>? What does <m> d \rightarrow 0</m> mean physically for a dipole?
+</li>
+
+</ol> 	 
+		</p>
+	 
+		</exercise> 
+		
+		<exercise> 
+		<title>Two Protons</title>
+		<p> 
+		Two protons are <m> 1.0 \ \mathrm{pm} </m> away from each other. 
+		<ol>
+		
+		<li>
+		What is the magnitude of the electric force from one proton on the other?
+		</li>
+		
+		<li>
+		What is the magnitude of the gravitational force from one proton on the other?
+		</li>
+		
+		<li>
+		What is the ratio of the magnitude of the gravitational force compared to the electric force from one proton on the other? Is this a big difference?
+		</li>
+		</ol>
+		</p>
+		</exercise> 
+		
+		
+		<exercise>
+		<title>Electric Field Vector Maps</title>
 			<p>Recall <xref ref="x_graphing-r-hat"/>, in which you made a 2D-map of a vector field.  The vector field you mapped is proportional to <m>\hat{r}</m>! Map this vector field and describe how this vector field changes (or stays the same) at different points in space.  What do you think the map would look like if you could make it three-dimensional?</p>
 		</exercise>
 		<exercise>

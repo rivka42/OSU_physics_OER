@@ -31,6 +31,11 @@
 	<xi:include href="./elec/sec_charging.ptx" />
 	<xi:include href="./elec/sec_charge_prop_materials.ptx" />
 	<xi:include href="./elec/sec_e-field.ptx" />
+	<xi:include href="./elec/sec_e-field_point_charge.ptx" />
+	<xi:include href="./elec/sec_approximate.ptx" />
+	<xi:include href="./elec/sec_e-field_many.ptx" />
+	<xi:include href="./elec/sec_e-field_dipole.ptx" />
+	<xi:include href="./elec/sec_field_lines.ptx" />
 	<xi:include href="./elec/sec_e-field-maps.ptx" /> 
 	<xi:include href="./elec/sec_charge-density.ptx" />
 	<xi:include href="./elec/sec_charge-diagrams.ptx" />
@@ -47,6 +52,7 @@
 	<xi:include href="./elec/sec_eq-graphs.ptx" />
 	<xi:include href="./elec/sec_e-to-v.ptx" />
 	<xi:include href="./elec/sec_v-to-e.ptx" />
+	<xi:include href="./elec/sec_charging_revisited.ptx" />
 	<xi:include href="./elec/sec_conductors.ptx" />
 	<xi:include href="./elec/sec_capacitors.ptx" />
 	<xi:include href="./elec/sec_elec-summary.ptx" />

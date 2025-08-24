@@ -5,15 +5,15 @@
 	
   <figure xml:id="charged_cat">
 		<title>Charged Cat</title>
-    	<caption>Electric charges exist all around us. The cat has acquired a net charge through friction with it's surroundings. When one object is charged, it can attract or repel other objects. (credit: OpenStax, modification of work by Sean McGrath)</caption>
+    	<caption>Electric charges exist all around us. The cat has acquired a net charge through friction with its surroundings. When one object is charged, it can attract or repel other objects. (credit: OpenStax, modification of work by Sean McGrath)</caption>
     		<image source="elec/charged_cat.png" width = "100%" ></image>
     </figure>
 
-<p> You have probably experienced the phenomenon of static electricity: When you first take clothes out of a dryer, some may stick together, and make a spark as they pull apart. Another example occurs if you take a woolen sweater off quickly—you can hear and feel the crackling of the static electricity pulling on your clothes, and perhaps even your hair. If you rub a balloon on a wall for a few seconds, it will stick to the wall. Probably the most annoying effect of static electricity is getting shocked by a doorknob (or a friend) after shuffling your feet on some types of carpeting.
+<p> You have probably experienced the phenomenon of static electricity. For example, when you first take clothes out of a dryer, some may stick together, and make a spark as they are pulled apart. Another example occurs if you take a woolen sweater off quickly—you can hear and feel the crackling of the static electricity pulling on your clothes, and perhaps even your hair. If you rub a balloon on a wall for a few seconds, it will stick to the wall. Probably the most annoying effect of static electricity is getting shocked by a doorknob (or a friend) after shuffling your feet as you walk across a carpet.
 </p>
 
 <p>
-This phenomena has been known for centuries. The ancient Greek philosopher Thales of Miletus (624–546 BCE) recorded that when amber - a hard, translucent, fossilized resin from extinct trees - was vigorously rubbed with a piece of fur, a force was created that caused the fur and the amber to be attracted to each other. Additionally, he found that the rubbed amber would not only attract the fur, and the fur attract the amber, but they both could affect other objects, even if not in contact with those objects. All of these situations involve objects being charged. 
+This phenomena has been known for centuries. The ancient Greek philosopher, Thales of Miletus (624–546 BCE), recorded that when amber - a hard, translucent, fossilized resin from extinct trees - was vigorously rubbed with a piece of fur, a force was created that caused the fur and the amber to be attracted to each other. Additionally, he found that the rubbed amber would not only attract the fur, and the fur attract the amber, but they both could affect other objects, even if not in contact with those objects. All of these situations involve objects being charged. 
 </p>		
 
 	<definition>
@@ -23,13 +23,13 @@ This phenomena has been known for centuries. The ancient Greek philosopher Thale
 			
 			</p>
 			<p>
-Charging is a process by which protons, electron or ions are transferred from one object to another. When an object is charged, it has a net positive or negative total charge. 
+Charging is a process by which protons, electrons or ions are transferred from one object to another. When an object is charged, it has a net positive or negative total charge. 
                          </p>
 		</statement>
 	</definition>
 	
 	<p>
-Charging an object, adding excess charge, can occur in several ways. One way to charge an object is by rubbing it against another object. This only works for certain materials because all charge properties are related to the atomic structure of atoms and molecules. Rubbing a piece of plastic PVC pipe with wool will cause charges to be transferred from the wool to the plastic. 
+Charging an object, by adding excess charge, can occur in several ways. One way to charge an object is by rubbing it against another object. This only works for certain materials because all charge properties are related to the atomic structure of atoms and molecules. Rubbing a piece of plastic PVC pipe with wool will cause charges to be transferred from the wool to the plastic. This process is called charging through friction.
        </p>
 
  <figure xml:id="charge_rub">
@@ -52,6 +52,21 @@ When two materials slide against one another, there is friction between the two 
     	<caption>A neutral molecule consists of several atoms held together by molecular bonds. These bonds can be broken apart by frictional forces due to rubbing one material against another. When bonds are broken, molecular ions can form. </caption>
     		<image source="elec/charge_ion.png" width = "100%" ></image>
     </figure>
+    
+    <exercises>
+		<title>Activities</title>
+		<exercise>
+			<p>The amount of charge typically produced by rubbing objects together depends on the types of materials but typically is in the range of nanoCoulombs (nC) to picoCoulombs (pC). 
+			<ol>
+			<li>
+			How many electrons are needed to charge an object to <m> -3.2 \ \mathrm{nC} </m>?					</li>
+			<li>
+			 How many electrons must be removed from a neutral object to leave a net charge of <m> 0.6 \ \mathrm{nC} </m> ?
+			 </li>
+			 </ol>
+			 </p>
+		</exercise>
+   </exercises>
 	
 </section>
 

@@ -8,9 +8,9 @@
 	<definition>
 		<title>Charge Density</title>
 		<statement>
-			<p><term>Charge density</term> can be found by dividing the small amount of charge <m>dq</m> in a portion of an object by the size of that portion of the object.  If the small portion is one-dimensional (say, the <m>x</m>-direction), you would call it linear charge density <me>\lambda = \frac{dq}{dx}</me>
-		if it is two-dimensional, you would call it surface charge density <me>\sigma = \frac{dq}{dA}</me>
-		and if it three dimensional, you would call it volume charge density <me>\rho = \frac{dq}{dV}</me></p>
+			<p><term>Charge density</term> is the amount of charge in a given amount of space. It can be determined by dividing the small amount of charge <m>dq</m> in portion of an object by the size of that portion of the object.  If the small portion of charge is a one-dimensional line (say, the <m>x</m>-direction), we would call it linear charge density <me>\lambda = \frac{dq}{dx}</me>
+		if the charge is on a two-dimensional surface, we would call it surface charge density <me>\sigma = \frac{dq}{dA}</me> where <m> dA</m> represents a small area element
+		and if the charge is in a three dimensional volume, we would call it volume charge density <me>\rho = \frac{dq}{dV}</me> where <m> dV</m> represents a small volume element.</p>
 		</statement>
 	</definition>
 

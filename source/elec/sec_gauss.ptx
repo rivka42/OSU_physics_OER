@@ -8,11 +8,33 @@
 	<principle>
 		<title>Gauss's Law</title>
 		<statement>
-			<p>The net electric flux through any <em>closed</em> surface is equal to the charge enclosed by that surface divided by <m>\epsilon_0</m>: <me>\mathit{\Phi}_E = \frac{Q_{enc}}{\epsilon_0}</me><me>\bigcirc \!\!\!\!\!\!\!\!\!\iint_S \vec{E}\cdot d\vec{A} = \frac{Q_{enc}}{\epsilon_0}</me></p>
+			<p>The net electric flux through any <em>closed</em> surface is equal to the charge enclosed by that surface divided by <m>\epsilon_0</m>: <me>\mathit{\Phi}_E = \frac{Q_{enc}}{\epsilon_0}</me><me>\oint_{S} \vec{E}\cdot d\vec{A} = \frac{Q_{enc}}{\epsilon_0}</me></p>
 		</statement>
 	</principle>
 	
 	<!--Alternate code for the integral \unicode{x222F} -->
+	<p>
+		The symbol in the definition above, <m>\oint_{S}</m>, is the same as a surface integral, but the closed circle indicates that this is an integral over a closed surface. 
+	</p>
+	<p>
+		Gauss's Law is extremely useful when your charge distribution has just the right symmetry. To effectively use Gauss's Law, we need:
+		<ol>
+			<li>
+				<p>
+					the electric field to be parallel to the area vector, <m>d\vec{A}</m>
+				</p>
+			</li>
+			<li>
+				<p>
+					the electric field to be uniform in magnitude along the surface
+				</p>
+			</li>
+		</ol>
+		When the electric field and area vector are parallel, this will maximize, and simplify, the dot product in the integral. When the electric field is uniform along the surface, the magnitude of the electric field can then be pulled out of the integral since it no longer depends on where on the area of your surface you are looking. This is what makes Gauss's Law powerful when calculating the magnitude of an electric field.
+	</p>
+	<p>
+		To use Gauss's Law, you will need to define a surface, also called a Gaussian surface, that adequately matches the symmetry of your charge distribution. Interestingly, the flux through a surface does not depend on your choice of surface, because ultimately your flux through any surface is equal to <m>\frac{Q_{enc}}{\epsilon_0}</m>, but your surface choice will change, or potentially complicate, your calculations if you are directly calculating the flux through a surface.
+	</p>
 
 	<exercises>
 		<title>Activities</title>

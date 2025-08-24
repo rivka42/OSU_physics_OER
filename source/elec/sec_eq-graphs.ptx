@@ -5,7 +5,7 @@
 		
     <video youtube="MM255dsqNI8"><description>An introduction to equipotential graphs.</description></video>
 	
-	<p>Equipotential graphs are extremely useful to see where the electric potential is constant throughout some region of space. </p>	
+	<p>Similar to contour or topographical maps, equipotential graphs are extremely useful to see where the electric potential is constant throughout some region of space. Typically, equipotential lines will be drawn with the same difference in potential between two adjacent lines.</p>	
 				
 	<lemma xml:id="rep_eq-graphs">
 		<title>Equipotential Graphs</title>

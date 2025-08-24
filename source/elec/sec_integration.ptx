@@ -3,6 +3,36 @@
 <section xml:id="sec_integration" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Interlude: Integration</title>
 	
+	<p> 
+	For a single point charge <m> q </m>, the magnitude of the electric field at a distance r from the center of the charge is given by <me> E(r) = \frac{q}{4 \pi \epsilon_0 r^2} </me> 
+The direction of the field is always radially away or toward the charge depending on whether the charge is positive or negative. The electric field of multiple charges can be found from summing over many charges by applying the principle of superposition. We assume that the charges are so numerous, we can no longer count them. Instead of counting individual charges, we describe the charge as a density of charges in one, two or three dimensions of space. Using the power of calculus, we can turn a sum into an integral
+
+<me> E  = \frac{1}{4 \pi \epsilon_0} \int \frac{dq}{r^2} </me> 
+
+Here, <m> r </m> is the distance from an infinitesimal amount of charge <m> dq </m> to the point we are interested in knowing the electric field magnitude. It is often useful to get in the habit of using a process for setting up these integrals	:
+
+<ol> 
+<li>
+	Choose a coordinate system that matches the symmetry of the charge distribution. 
+	</li>
+	<li>
+	Determine <m> r </m>  in terms of the coordinate system variables. Recall that <m> r </m> is the distance from an infinitesimal amount of charge <m> dq </m> to the point we are interested in knowing the electric field magnitude.
+	</li>
+	<li>
+	Determine <m> dq </m>  in terms of a coordinate differential such as <m> dx </m>, <m> dy </m>, <m> dr </m> or <m> d\theta </m> and the charge density in one, two or three dimensions. 
+	</li>
+	<li>
+	Determine if there are components of the field that cancel due to superposition and symmetry. 
+	</li>
+<li> 
+Determine the bounds of integration. We need to sum over all the <em> charges </em>. 
+</li>
+	<li>
+	Set up the integral and solve for the net electric field. 
+</li>
+</ol>
+	</p>
+	
 	<exercises>
 	<title>Warm-up Activities</title>
 		<exercise>

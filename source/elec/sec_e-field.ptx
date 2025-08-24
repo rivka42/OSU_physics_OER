@@ -5,21 +5,45 @@
 		
     <video youtube="wYKAWt9IBHk"><description>Introducing the electric field.</description></video>
 	
-	<p>Electric fields exist everywhere in space. The motion of charged objects through space is governed by any pre-existing electric fields. You can understand this motion by analyzing the force applied to a charged object due to an electric field.</p>
+<p>
+Charged particles are all around us and each charge generates an electric field. Electric fields exist everywhere in space. The motion of charged objects through space is governed by any pre-existing electric fields. We can begin to understand this motion by analyzing the force applied to a charged object due to an electric field.
+</p>
 
-	<definition>
-		<title>Electric field</title>
+<definition>
+	<title>
+	Electric field
+	</title>
 		<statement>
-			<p>The <term>electric field</term> is a vector field that tells a charged object what electric force to feel.</p>
+		
+			<p>
+			
+			</p>
+			
+			<p>
+			The <term> electric field </term> is a <em> vector field </em> that influences the force that a charged object experiences.
+			</p>
+		</statement>
+</definition>
+
+<definition>
+	<title>
+	Electric force
+	</title>
+		<statement>
+			<p>
+			
+			</p>
+
+			<p>
+			The <term>electric force</term> on a point-like object (test charge) is the product of the object's charge and the electric field at the location of the object: <me>\vec{F}^E = q_{\text{test}} \vec{E}</me>
+			</p>
 		</statement>
 	</definition>
+	
+<p>
+Charged particles interact with each other through electric fields. Like the gravitational force, the electric force is a long range force, as opposed to a contact force. The electric and gravitational fields are responsible for mediating the force interaction between charges and masses, respectively.  Much of what we do in exploring electric fields has a direct analogue with gravitational fields. Keep this in mind as we progress through the next few chapters. 
+</p>
 
-	<definition>
-		<title>Electric force</title>
-		<statement>
-			<p>The <term>electric force</term> on a pointlike object is the product of the object's charge and the electric field at the location of the object: <me>\vec{F}^E = q_{\text{test}} \vec{E}</me></p>
-		</statement>
-	</definition>
 
 	<exercises>
 		<title>Activities</title>
@@ -31,6 +55,27 @@
 			<title>Sensemaking: Units</title>
 			  <p>What are the units of the electric field?</p>
 		</exercise>
+		
+		<exercise>
+			<title>How Flowers Talk to Bees</title>
+
+			  <p>Watch this video describing how flowers and bees communicate. Can you think of other ways in which plants and animals might rely on, use or be affected by electric fields? 
+			  </p>
+	<p>
+			
+	</p>
+		
+			  
+			    <video youtube="ee381dCP6JM?si=rPmhzvOYayTc6t0O"></video>	
+		</exercise>
+		
+
 	</exercises>
+
+	<references>
+        <biblio xml:id="ref_electricity_yt">
+            <p>"How flowers talk to bees 😯" <em>YouTube</em>, uploaded by ByteBrilliance, 17 January 2024, https://www.youtube.com/watch?v=ee381dCP6JM&amp;ab_channel=ByteBrilliance</p>
+        </biblio>
+    </references>
 	
 </section>

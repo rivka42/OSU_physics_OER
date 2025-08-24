@@ -6,7 +6,7 @@
 	
     <video youtube="rrGniazRAL0"><description>Electric Potential Energy</description></video>
 	
-	<definition>
+	<definition xml:id="def-electric_potential_energy">
 		<title>Electric Potential Energy</title>
 		<statement>
 			<p>The change in <term>electric potential energy</term> is defined as <me>\Delta U_E = q_{\mathrm{test}}\Delta V</me>.</p>
@@ -19,7 +19,7 @@
 
 	<p>A charged object will experience a potential difference as it moves through, or changes locations in, an electric potential scalar field. If a test charge is near another charged particle, the test charge will experience an electric potential difference due to that point charge.</p>
 	
-	<video youtube="b-WvRdtB3U8"><description>Ekectruc Potential Difference for a Point Charge</description></video>
+	<video youtube="b-WvRdtB3U8"><description>Electric Potential Difference for a Point Charge</description></video>
 
 	<definition>
 		<title>Electric Potential for a Point Charge</title>
