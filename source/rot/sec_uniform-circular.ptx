@@ -23,8 +23,21 @@
 			</exercise>
 			<exercise>
 			<title>Calculation</title>
+			<statement>
 			<p></p>
-			<p>Suppose you also know the coefficient of static friction <m>\mu_s</m> between the ground and the truck's tires.  Find two possible expressions for the magnitude of the force of static friction on the truck.  Which expression is more informative?</p>
+			<p>Suppose you also know the coefficient of static friction <m>\mu_s</m> between the ground and the truck's tires.  
+				Find two possible expressions for the magnitude of the force of static friction on the truck.  
+				Which expression is more useful if you want to know the exact magnitude of the frictional force?</p>
+			</statement>
+			<solution>
+				<p>
+					The model for static friction tells you that <m>F^{sf} \le \mu_s F^N</m>.  This would allow you to find 
+					the maximum value static friction can be, but it will not specify what it actually is.  The Law of Motion, 
+					on the other hand, states that <m>F_{net} = ma</m>, and since friction is the only horizontal force and the 
+					acceleration is centripetal, this can be rewritten as <m>F^{sf} = M\frac{v_{truck}^2}{R}</m>, which tells 
+					you the force exactly!
+				</p>
+			</solution>
 			</exercise>
 		</exercises>
 
