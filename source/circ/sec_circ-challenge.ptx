@@ -12,7 +12,128 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
-  
+
+	<figure xml:id="fig-circuit_1">
+    	<caption>Circuit diagram. The top and bottom circuits are identical, apart from an extra wire connecting around lightbulb C in the bottom diagram.</caption>
+    	<image source="circ/circuit-1.png" width = "40%" ></image>
+	</figure>
+
+	<investigation>
+		<title>Circuit I</title>
+		<statement>
+			<p>
+				The circuit shown on top in the image above has four identical light bulbs and an ideal battery.
+			</p>
+			<ol>
+				<li>
+					<p>
+						Rank the bulbs according to brightness, from brightest to dimmest.
+					</p>
+				</li>
+				<p>
+					A wire isnow added to the circuit, as shown in the bottom diagram.
+				</p>
+				<li>
+					<p>
+						Does the brightness of bulb C increase, decrease, or remain the same?
+					</p>
+				</li>
+				<li>
+					<p>
+						Does the brightness of bulb A increase, decrease, or remain the same?
+					</p>
+				</li>
+				<li>
+					<p>
+						Does the current through the battery increase, decrease, or remain the same?
+					</p>
+				</li>
+			</ol>
+		</statement>
+	</investigation>
+
+	<figure xml:id="fig-circuit_2">
+    	<caption>Circuit diagram.</caption>
+    	<image source="circ/circuit-2.png" width = "40%" ></image>
+	</figure>
+
+	<investigation>
+		<title>Circuit II</title>
+		<statement>
+			<p>
+				The circuit above shows four identical bulbs connected to an ideal battery. The switch is initially closed.
+			</p>
+			<ol>
+				<li>
+					<p>
+						Rank the bulbs according to brightness, in order from brightest to dimmest. If two bulbs have the same brightness, indicate that explicitly.
+					</p>
+				</li>
+				<li>
+					<p>
+						When the switch is opened, will bulb A get brighter, get dimmer, or remain the same brightness?
+					</p>
+				</li>
+				<li>
+					<p>
+						When the switch is opened, will bulb B get brighter, get dimmer, or remain the same brightness?
+					</p>
+				</li>
+			</ol>
+		</statement>
+	</investigation>
+
+	<project>
+		<title>Current</title>
+		<statement>
+			<p>
+				The total amount of charge that has entered a wire at time t is given by: <me>
+					Q(t) = Q_o (1 - e^{t/\tau})
+				</me>
+				Find an expression for the current in the wire at time <m>t</m>.
+			</p>
+		</statement>
+	</project>
+
+	<figure xml:id="fig-circuit_3">
+    	<caption>Circuit diagram.</caption>
+    	<image source="circ/circuit-3.png" width = "40%" ></image>
+	</figure>
+
+	<investigation>
+		<title>Circuit III</title>
+		<statement>
+			<p>
+				Rank the light bulbs shown above according to brightness. If any bulb does not light, or if you do not have enough information, state so explicitly. 
+			</p>
+			<p>
+				In particular, explain your reasoning for how you ranked each of the following pairs of bulbs:
+			</p>
+			<ol>
+				<li>
+					<p>
+						A &amp; B
+					</p>
+				</li>
+				<li>
+					<p>
+						A &amp; C
+					</p>
+				</li>
+				<li>
+					<p>
+						A &amp; D
+					</p>
+				</li>
+			</ol>
+		</statement>
+		<hint>
+			<p>
+				You are strongly encouraged to use voltage diagrams to help your reasoning.
+			</p>
+		</hint>
+		
+	</investigation>
 	
 </section>
 
