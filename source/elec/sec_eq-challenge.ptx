@@ -12,7 +12,136 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
-  
+
+	<figure xml:id="fig_equipot-1">
+		<caption>Equipotential graph in the xy-plane.</caption>
+    	<image source="elec/equipotential-graph-1.png" width = "75%" ></image>
+	</figure>
+
+	<investigation>
+		<title>Equipotential Graph I</title>
+		<statement>
+			<p>
+				You acquire a wire that has the equipotential graph above. Rank the three indicated points (P, Q, and R) by the magnitude of the electric field from greatest to smallest.
+			</p>
+		</statement>			
+	</investigation>
+
+	<investigation>
+		<title>Equipotential Graph II</title>
+		<statement>
+			<p>
+				Describe the charge distribution of the equipotential graph above.
+			</p>
+		</statement>
+	</investigation>
+
+	<project>
+		<title>Capacitor in an Air Conditioner</title>
+		<statement>
+			<p>
+				A large capacitor in an air conditioner is typically connected to the potential difference provided to your house (120 V). Although capacitors like this are usually cylindrical, model this one as a parallel plate capacitor with square plates separated by 2.0 mm. If you want your capacitor to store 0.25 J of energy, what is the area of the capacitor plates? How feasible do you think this answer is?
+			</p>
+		</statement>
+
+	</project>
 	
+	<project>
+		<title>Infinite Wires</title>
+		<statement>
+			<p>
+				Two infinite wires are located parallel to the y-axis. One wire has uniform charge density <m>+\lambda</m> and is located at <m>x = +x_o</m>. The other wire has uniform charge density <m>-\lambda</m> and is located at <m>x = -x_o</m>. The electric potential in the <m>xy</m>-plane for this system is given by: <me>
+					V(x, y) = 2k \lambda \ln{|x + x_o |} - 2k \lambda \ln{|x-x_o |} = 2k \lambda \ln{| \frac{x + x_o }{x - x_o} |}
+				</me>
+			</p>
+			<p>
+				Complete the following tasks as part of your ARCS solution:
+				<ol>
+					<li>
+						<p>
+							Physical representation: Create an accurate equipotential graph in the <m>xy</m>-plane and the corresponding electric field vector map.
+						</p>
+					</li>
+					<li>
+						<p>
+							Calculate: Find the electric field at every point in the <m>xy</m>-plane.
+						</p>
+					</li>
+					<li>
+						<p>
+							Sensemaking: Show that your electric field is what you expect from the superposition of two infinite line charges.
+						</p>
+					</li>
+				</ol>
+			</p>
+		</statement>
+	</project>
+
+	<figure xml:id="fig_equipot-2">
+		<caption>Equipotential graph in the xy-plane.</caption>
+    	<image source="elec/equipotential-graph-2.png" width = "75%" ></image>
+	</figure>
+
+	<investigation>
+		<title>Equipotential Graph II</title>
+		<statement>
+			<p>
+				This problem is a modified Explanation Task with several specific prompts. Above is a graph of the equipotentials due to some unknown distribution of charges. The boxed numbers represent the values of the potential.
+			</p>
+		
+			<ol>
+				<li>
+					<p>
+						Sketch vectors at the indicated points that represent the electric field <m>\vec{E}</m>. Both the direction and the magnitude of your vectors should be qualitatively correct. Describe how you determined your answers.
+					</p>
+				</li>
+				<li>
+					<p>
+						Explicitly rank the magnitudes of the electric field vectors you drew. Describe how you determined your answers.
+					</p>
+				</li>
+				<li>
+					<p>
+						Sketch a charge diagram, using + and - to indicate the locations where you expect there to be positive and negative charges, respectively. Justify your answers.
+					</p>
+				</li>
+				<li>
+					<p>
+						Imagine that you are a charged particle moving along the vertical line that passes through points C, D, and E (the <m>y</m>-axis).
+					</p>
+					<ol>
+						<li>
+							<p>
+								Sketch a graph of the electric potential <m>V</m> as a function of <m>y</m>.
+							</p>
+						</li>
+						<li>
+							<p>
+								On a different set of axes, sketch the <m>y</m>-component of the electric field <m>E_y</m> as a function of <m>y</m>.
+							</p>
+						</li>
+						<li>
+							<p>
+								Discuss the relationship between your two graphs.
+							</p>
+						</li>
+					</ol>
+				</li>
+			</ol>
+		</statement>
+	</investigation>
+
+	<project>
+		<title>Capacitance and Charge</title>
+		<statement>
+			<p>
+				Two parallel 3.0-cm-diameter flat aluminum electrodes are spaced 0.50 mm apart. The electrodes are connected to a 50 V battery. Find the capacitance and the magnitude of the charge on each electrode.
+			</p>
+		</statement>
+		
+		
+	</project>
+
+
 </section>
 

@@ -13,6 +13,105 @@
 	<m> \mathrm{~}</m>
 	-->
   
-	
+	<project>
+		<title>Moving Charges I</title>
+		<statement>
+			<p>
+				Two point charges are fixed in place along the x-axis: <m>-Q_o</m> at <m>x = +L</m> and <m>+4Qo</m> at <m>x = -L</m>. A small positive point charge (<m>+q_i</m>) is initially located at <m>x = 3L</m>, which is the location where the net force is zero. The small positive charge is then given a tiny push either to the right or to the left
+			</p>
+			<p>
+				For each case (tiny push to the right and tiny push to the left), determine the speed of the small positive charge when it has moved a distance <m>L</m> from its initial position.
+			</p>
+		</statement>
+		<hint>
+			<p>
+				Compare your two answers! You may find it useful to sketch a potential energy diagram to help interpret them.
+			</p>
+		</hint>
+	</project>
+
+	<figure xml:id="fig_charged-wire-1">
+		<caption>A charged wire lies along the y-axis centered on the origin.</caption>
+    	<image source="elec/charged-wire-1.png" width = "35%" ></image>
+	</figure>
+
+	<investigation>
+		<title>Electric Potential of a Wire I</title>
+		<statement>
+			<p>
+				The wire shown above has its middle located at the origin. The wire has length <m>L</m> and a non-uniform charge density <m>\lambda = \frac{q_o y}{L^2}</m>.
+			</p>
+			<p>
+				For each of the two labeled points (A and B), is the electric potential positive, negative, or zero?
+			</p>
+		</statement>
+		<hint>
+			<p>
+				Sketch a charge diagram of the wire.
+			</p>
+		</hint>
+	</investigation>
+
+	<project>
+		<title>Electric Potential of a Wire II</title>
+		<statement>
+			<p>
+				Write an expression for the electric potential at point A and point B for the wire above.
+			</p>
+		</statement>
+	</project>
+
+	<project>
+		<title>Moving Charges II</title>
+		<statement>
+			<p>
+				Two identical negative point charges (<m>-Qo</m>) are fixed in place at <m>x = +L</m> and <m>x = -L</m>. A small positive point charge (<m>+q_i</m>) with mass <m>m</m> is at the origin, moving in the negative y-direction with speed <m>v</m>.
+			</p>
+			<p>
+				What is the farthest distance along the <m>y</m>-axis that the small positive point charge will travel before it turns around?
+			</p>
+		</statement>
+		<hint>
+			<p>
+				Draw a graph of the electric potential energy of this system vs. the <m>y</m>-position of the small positive point charge.
+			</p>
+		</hint>
+		<hint>
+			<p>
+				Evaluate your answer when the initial speed <m>v</m> increases. This one can be tricky—make sure you check that your answer matches what you expect to happen!
+			</p>
+		</hint>
+	</project>
+
+	<figure xml:id="fig_charged-wire-2">
+		<caption>A charged wire lies along the y-axis with one end starting at the origin.</caption>
+    	<image source="elec/charged-wire-2.png" width = "35%" ></image>
+	</figure>
+
+	<investigation>
+		<title>Electric Potential of a Wire III</title>
+		<statement>
+			<p>
+				The wire shown above has one end located at the origin. The wire has length <m>L</m> and a non-uniform charge density <m>\lambda = \frac{q_o y}{L^2}</m>. Points A and B are located a distance <m>x_o</m> from the top and bottom ends of the wire, respectively.
+			</p>
+			<p>
+				Is the electric potential at point A greater than, less than, or equal to the electric potential at point B?
+			</p>
+		</statement>
+	</investigation>
+
+	<project>
+		<title>Charged Ring</title>
+		<statement>
+			<p>
+				A uniformly charged ring with total charge <m>-q_o</m> and radius <m>R</m> is located in the <m>xy</m>-plane. Determine the electric potential a distance <m>z</m> above the center of the ring
+			</p>
+		</statement>
+		<hint>
+			<p>
+				Evaluate your answer in at least two special cases
+			</p>
+		</hint>
+	</project>
 </section>
 

@@ -45,10 +45,15 @@
 		<statement>
 		    <p>A positively charged wire with uniform charge density <m>+\lambda</m> lies along the <m>x</m>-axis and a negatively charged wire with uniform charge density <m>-\lambda</m> lies along the <m>y</m>-axis (both lines are infinitely long).  Find the electric field at the point <m>(x, y)</m>.  You may look up the electric field due to an infinitely long wire with uniform charge density.</p>
 		</statement>
-		<!--<hint>
-		    <p></p>
+		<hint>
+		    <p>Sketch an electric field vector map for the xy-plane.</p>
 		</hint>
-		<solution>
+		<hint>
+			<p>
+				Use your sketch of the electric field vector map to help interpret your answer.
+			</p>
+		</hint>
+		<!--<solution>
 		    <p></p>
 		</solution>-->
 	</project>
@@ -81,11 +86,16 @@
 		</solution>-->
 	</investigation>
 	
+	<figure xml:id="x_charge-arc">
+			<title>Point Charges Figure</title>
+	<caption>Three point charges.</caption>
+	<image source="Charge_arc.png" width = "35%" ></image>
+	</figure>
 
 	<investigation xml:id="apply_elec-04">
 		<title>Three Charges on an Arc</title>
 		<statement>
-			<p>The three point charges shown below have identical charge <m>+Q</m>.  Determine the net electric force on the upper charge.
+			<p>The three point charges shown above have identical charge <m>+Q</m>.  Determine the net electric force on the upper charge.
 </p>
 		</statement>
 <hint>
@@ -95,14 +105,7 @@
 		    <p></p>
 		</solution>-->
 	</investigation>
-	
-	<figure xml:id="x_charge-arc">
-			  <title>Point Charges Figure</title>
-    	<caption>
-	Three point charges.
-	</caption>
-    	<image source="Charge_arc.png" width = "35%" ></image>
-</figure>	
+		
   
 	
 </section>
