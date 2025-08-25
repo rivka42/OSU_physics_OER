@@ -60,33 +60,4 @@
 		    <p>C</p>
 		</answer>
 	</exploration>
-
-    <project xml:id="study_elec-01">
-        <title>A Piece of Pollen</title>
-		<statement>
-		    <p>A piece of pollen typically has both a small mass (about <m>5 \mathrm{~ng}</m>) and a small amount of charge (about <m>1 \mathrm{~fC}</m>).  Estimate the electric field that a honeybee needs to create to carry a typical piece of pollen.</p>
-		</statement>
-		<!--<hint>
-		    <p></p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>-->
-	</project>
-
-	<investigation xml:id="study_elec-02">
-		<title>Charged Wires</title>
-		<statement>
-			<p>A charged wire has one end at <m>x = –L</m> and the other end at <m>x = L</m>.  The wire has a known, non-uniform charge density <m>\lambda(x) = \frac{q_o}{L^2}  x</m>.  You have an electric field generator that can make different electric fields, but when you set it to create a uniform electric field you find that the net force on the wire is 0!  Which of the following alternate settings for your electric field generator would result in a nonzero net force on the wire?
-				<me>\vec{E}_1 = - E_o\frac{x}{L}\hat{y}</me>
-				<me>\vec{E}_2 = - E_o\left(\frac{x}{L}\right)^2 \hat{y}</me>
-</p>
-		</statement>
-				<!--<hint>
-		    <p></p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>-->
-	</investigation>
 </section>
