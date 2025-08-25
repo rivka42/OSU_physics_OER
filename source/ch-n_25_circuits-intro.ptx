@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 
 <chapter xml:id="ch_circuits-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Electric Energy and Potential</title>
+  <title>Circuits: Introduction</title>
 	<introduction>
     <p> In this chapter you will learn about the fundamentals of circuits.</p>
 	
@@ -10,7 +10,10 @@
 	<p>
 		After successful completion of this chapter, you will be able to:
 		<ol>
-			<li></li>
+			<li>Identify the conditions for current to flow through circuit components.</li>
+			<li>Relate current to the flow of electric charge per unit time.</li>
+			<li>Draw and label basic and advanced circuit diagrams.</li>
+			<li>Treat batteries as sources of constant voltage rather than constant current.</li>
 		</ol>
 	</p>
 
