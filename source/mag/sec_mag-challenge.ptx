@@ -12,7 +12,89 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
+
+	<project>
+		<title>Wires Around a Circle</title>
+		<statement>
+			<p>
+				Five identical current-carrying wires are located along the circumference of a circle of radius <m>R</m> at angles of <m>0^\circ</m>, <m>45^\circ</m>, <m>90^\circ</m>, <m>135^\circ</m>, and <m>180^\circ</m>, all measured from the positive x-axis. Each wire carries current Io out of the page. Determine the magnetic field at the origin.
+			</p>
+		</statement>
+	</project>
+
+	<figure xml:id="fig-current_wires">
+    	<caption>Two wires carry current in opposite directions.</caption>
+    	<image source="mag/current-wires.png" width = "40%" ></image>
+	</figure>
+
+	<investigation>
+		<title>Current Carrying Wires</title>
+		<statement>
+			<p>
+				The two wires shown below carry the same current in opposite directions.  You observe a proton at each of the marked points moving upward with the same speed.  (Each marked point is the same distance from its nearest wire.)  Rank the three points by the magnitude of the magnetic force that the proton experiences, and indicate the direction of the magnetic force in each case.
+			</p>
+		</statement>
+	</investigation>
+
+	<investigation>
+		<title>Magnetic Field from Three Wires</title>
+		<statement>
+			<p>
+				Three wires carry the same current <m>I_o</m> out of the page.  The wires are located at different points along the <m>x</m>-axis: at <m>x = –L</m>, at <m>x = 0</m>, and at <m>x = +L</m>.  Determine the magnetic field a distance <m>y</m> above the center wire.
+			</p>
+		</statement>
+	</investigation>
+
+	<project>
+		<title>Loop of Wire</title>
+		<statement>
+			<p>
+				A circular loop of wire with radius <m>R</m> is in a uniform magnetic field with magnitude <m>B</m> that points in the positive <m>z</m>-direction.  The loop is initially in the <m>xy</m>-plane and carries a constant, unknown current.  Flipping the loop over requires you to do positive work (<m>W</m>).  Determine the current in the loop.
+			</p>
+		</statement>
+	</project>
+
+	<investigation>
+		<title>Magnets in a Magnetic Field</title>
+		<statement>
+			<p>
+				You have two cylindrical bar magnets with the same mass, length, and dipole moment, but different moments of inertia, <m>I_1</m> and <m>I_2</m>.  You place each bar magnet so that it is initially oriented perpendicular to a uniform magnetic field.  When you let each bar magnet go from rest, you find that magnet 1 takes less time than magnet 2 to rotate so that it is parallel to the magnetic field.  Is <m>I_1</m> greater than, less than, or equal to <m>I_2</m>?
+			</p>
+		</statement>	
+	</investigation>
   
-	
+	<figure xml:id="fig-current_graph">
+    	<caption>Grid showing locations of two current carrying wires.</caption>
+    	<image source="mag/current-graph.png" width = "40%" ></image>
+	</figure>
+
+	<investigation>
+		<title>Zero Magnetic Field</title>
+		<statement>
+			<p>
+				Shown above is a cross-sectional view of two long straight wires that are parallel to one another.  One wire carries a current <m>i_o</m> out of the page; the other carries an equal current <m>i_o</m> into the page.
+			</p>
+			<p>
+				Suppose a third wire (carrying the same current <m>i_o</m> out of the page) is placed such that the magnetic field at point <m>P</m> has zero magnitude.  Determine the location of the third wire.
+			</p>
+		</statement>
+	</investigation>
+
+	<figure xml:id="fig-cylinder-current">
+    	<caption>Half-cylinder carrying current.</caption>
+    	<image source="mag/half-cylinder-current.png" width = "40%" ></image>
+	</figure>
+
+	<project>
+		<title>Current Carrying Half-Cylinder</title>
+		<statement>
+			<p>
+				A very long half-cylinder of radius <m>R</m> (see picture above) carries a total current <m>I</m> uniformly distributed across the circumference.  Determine the magnetic field along the central axis of the cylinder.
+			</p>
+		</statement>
+		
+		
+	</project>
+
 </section>
 
