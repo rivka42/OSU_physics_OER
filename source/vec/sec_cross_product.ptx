@@ -22,18 +22,26 @@ In a previous section you learned about the dot product as one way to multiply v
 where <m>\theta</m> is the angle between the vectors when placed tail-to-tail.  
 The direction is always perpendicular to both <m>\vec{A}</m> and <m>\vec{B}</m>, 
 and is given by the <xref ref="rep_rhr"/>.</p>
-</statement>
-</definition>
 
-     <figure xml:id="vec_cross_product">
+<figure xml:id="vec_cross_product">
 		<title>Cross Product Figure</title>
     	<caption>A representation of vectors A and B and the angle between them illustrating the cross product for two vectors.</caption>
     		<image source="vectors/vec_dot_product.png" width = "25%" ></image>
     </figure>
     
 <p>
-Here, <m> \theta</m> represents the angle between the two vectors when they are placed tail to tail. A and B represent the magnitudes of the vectors <m> \vec{A}</m> and <m> \vec{B}</m>.
+In the figure, <m> \theta</m> represents the angle between the two vectors when they are placed tail to tail. 
+<m>A</m> and <m>B</m> represent the magnitudes of the vectors <m> \vec{A}</m> and <m> \vec{B}</m>.
 </p>
+
+</statement>
+</definition>
+
+<p>
+	The direction of the cross product must be perpendicular to <em>both</em> of the original vectors.  
+	However, there are always <alert>two</alert> directions perpendicular to any other pair of vectors!  
+	The <alert>Right Hand Rule</alert> is the convention by which you always choose which of these two directions the cross product should point.
+</p>     
 
 <!--THIS VIDEOS IS INTENTIONALLY IN A FIGURE FOR CROSS-REFERENCE PURPOSES.  NORMAL VIDEOS CANNOT BE CROSS-REFERENCED AND SO DO NOT NEED AN XML:ID -->
 		<figure xml:id="vec_vb-rhr">
@@ -54,9 +62,18 @@ Here, <m> \theta</m> represents the angle between the two vectors when they are 
 			</statement>
 		</lemma>
 		
-<p>
-Conceptually, the magnitude of the cross product quantifies how perpendicular two vectors are. The magnitude of the cross product is the magnitude of <m> \vec{B}</m> multiplied by the projection of  <m> \vec{A}</m> perpendicular to<m> \vec{B}</m>. You can think of a projection as the length of the shadow that <m> \vec{A}</m> would cast perpendicular to <m> \vec{B}</m> if you were to shine a light from above.
+<note>
+	<title>What does the cross product mean?</title>
+	<p>
+Conceptually, the magnitude of the cross product quantifies how perpendicular two vectors are. 
+The magnitude of the cross product is the magnitude of <m>\vec{B}</m> multiplied by the <em>perpendicular</em> projection of 
+<m>\vec{A}</m> onto <m>\vec{B}</m>. You can think of a projection as the length of the shadow that 
+<m>\vec{A}</m> would cast perpendicular to <m>\vec{B}</m> if you were to shine a light from above.
 </p>
+	
+</note>
+
+		
 
 <figure xml:id="vec_in-and-out">
 		<title>Vectors Figure</title>
@@ -74,6 +91,7 @@ Conceptually, the magnitude of the cross product quantifies how perpendicular tw
 		</statement>
 		<answer><p>Into the screen!</p></answer>
 		</exercise>
+		
 				<p>Use the two vectors shown below for the remaining questions.</p>
 				     <figure xml:id="vec_x-cross-product">
 		<title>Cross Product Figure</title>

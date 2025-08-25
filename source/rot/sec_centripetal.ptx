@@ -3,6 +3,10 @@
 <section xml:id="sec_centripetal" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Centripetal Acceleration</title>
 
+  <p>
+	Recall your predictions from <xref ref="sec_models"/> and compare them to the solutions in the video below.
+  </p>
+
       <video youtube="j7C4El5zBXs"><description>Velocity for motion along a curved path.</description></video>
 	
 	<p>When an object moves along a curved path, the instantaneous velocity always points tangent to the curve.</p>

@@ -24,10 +24,31 @@
 			  <p>Indicate the direction of the tangential acceleration of the car.</p>
 			</exercise>
 			<exercise>
+				<statement>
 			  <p>Draw a vector for the instantaneous acceleration of the car.  How did you use the previous answers?</p>
+			  </statement>
+				<answer>
+					<p>The figure shows that the tangential and centripetal accelerations are components of the instantaneous acceleration.  
+						They can be added together to create the combined instantatenous acceleration vector.
+					</p>
+			<figure xml:id="rot_curved-road-sol">
+			<title>Curved Road Solution Figure</title>
+		 	<caption>Acceleration vectors for a car moving along a curved road.</caption>
+			<image source="CurvedPathSol.png" width = "30%">
+			</image>
+  			</figure>
+				</answer>
 			</exercise>
-						<exercise>
-			  <p>As the car moves around the track, slowing down, how does each acceleration (centripetal, tangential, and the combined instantaneous) change?</p>
+			<exercise>
+				<statement>
+			    <p>Suppose the speed of the car decreases at a constant rate as it moves around the track.  How does each acceleration 
+					(centripetal, tangential, and the combined instantaneous) change?</p>
+				</statement>
+				<answer>
+					<p>Since the speed is decreasing at a constant rate, the tangential acceleration will be constant.  
+						However, the centripetal acceleration depends on the speed, so it will decrease as the car slows down.  
+					Since one component is constant and the other is decreasing, the magnitude of the instantaneous accleration will also decrease.</p>
+				</answer>
 			</exercise>
 			<exercise>
 			  <p>Consider the <xref ref="fig_applications" />.  How would you answer them after what you have learned so far?</p>

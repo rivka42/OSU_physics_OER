@@ -56,7 +56,10 @@
 				<lemma xml:id="rep_angular-vectors">
 			<title>Direction of Angular Vectors</title>
 			<statement><p></p>
-				<p>The direction of an angular vector points along the axis of rotation.  For an object moving in the <m>xy</m>-plane, the vector pointing outward (in the <m>+z</m>-direction) corresponds to counterclockwise while the vector pointing inward (in the <m>-z</m>-direction) corresponds to clockwise.</p>
+				<p>The direction of an angular vector points along the axis of rotation.  
+					For an object moving in the <m>xy</m>-plane, the vector pointing outward (in the positive <m>z</m>-direction) 
+					corresponds to counterclockwise while the vector pointing inward (in the negative <m>z</m>-direction) corresponds 
+					to clockwise.</p>
 			</statement>
 		</lemma>
 
