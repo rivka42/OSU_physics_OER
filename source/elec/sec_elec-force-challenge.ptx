@@ -13,6 +13,58 @@
 	<m> \mathrm{~}</m>
 	-->
 	
+	<investigation xml:id="study_elec-03">
+		<title>Trio of Charges</title>
+		<statement>
+			<p>You have two point charges at different locations along the <m>x</m>-axis.  Each charge can have either <m>+q_o</m> or <m>-q_o</m>.  Sketch a charge diagram showing the configuration and sign of the charges if the electric field at the origin is zero.
+</p>
+		</statement>
+				<!--<hint>
+		    <p></p>
+		</hint>
+		<solution>
+		    <p></p>
+		</solution>-->
+	</investigation>
+	
+	<project xml:id="study_elec-04">
+        <title>Square of Charges</title>
+		<statement>
+		    <p>Find the electric field at the center of a square with charges of <m>+q</m>, <m>+2q</m>, <m>+3q</m>, and <m>+4q</m> on the corners (going clockwise starting from the upper right corner).</p>
+		</statement>
+		<!--<hint>
+		    <p></p>
+		</hint>
+		<solution>
+		    <p></p>
+		</solution>-->
+	</project>
+	
+	<project xml:id="study_elec-05">
+        <title>Lines of Charges</title>
+		<statement>
+		    <p>A positively charged wire with uniform charge density <m>+\lambda</m> lies along the <m>x</m>-axis and a negatively charged wire with uniform charge density <m>-\lambda</m> lies along the <m>y</m>-axis (both lines are infinitely long).  Find the electric field at the point <m>(x, y)</m>.  You may look up the electric field due to an infinitely long wire with uniform charge density.</p>
+		</statement>
+		<!--<hint>
+		    <p></p>
+		</hint>
+		<solution>
+		    <p></p>
+		</solution>-->
+	</project>
+	
+	<project xml:id="study_elec-06">
+        <title>Charge on a Spring</title>
+		<statement>
+		    <p>An ideal spring has spring constant <m>k_s</m> (to distinguish it from the electrostatic constant <m>k</m>) and equilibrium length <m>l</m>.  Then, you glue two identical negative point charges to the ends of the spring and observe that the equilibrium length doubles.  Determine the amount of charge on each end of the spring.</p>
+		</statement>
+		<!--<hint>
+		    <p></p>
+		</hint>
+		<solution>
+		    <p></p>
+		</solution>-->
+	</project>
 
 	<investigation xml:id="apply_elec-03">
 		<title>Three Wires</title>
