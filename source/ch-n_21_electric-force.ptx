@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_electric-force" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Electric Force</title>
+	<introduction>
+    <p> In this chapter you will learn about the electric force.</p>
+	
+	<p><alert>Learning Outcomes</alert></p>
+  
+	<p>
+		After successful completion of this chapter, you will be able to:
+		<ol>
+			<li></li>
+		</ol>
+	</p>
+
+	</introduction>
+
+	<!--INTRODUCTORY SECTIONS-->
+	
+
+	<!--PREPARE SECTIONS-->
+	<xi:include href="./elec/sec_integration.ptx" />
+	<xi:include href="./elec/sec_coulomb.ptx" />
+	<xi:include href="./elec/sec_calculating-e.ptx" />
+
+    <!--PRACTICE SECTIONS-->
+	<xi:include href="./elec/sec_elec-force-practice.ptx" />
+
+    <!--CHALLENGE SECTIONS-->
+	<xi:include href="./elec/sec_elec-force-challenge.ptx" />
+
+
+</chapter>
+
+
+
+
+
+
+
+

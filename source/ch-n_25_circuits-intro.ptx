@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_circuits-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Electric Energy and Potential</title>
+	<introduction>
+    <p> In this chapter you will learn about the fundamentals of circuits.</p>
+	
+	<p><alert>Learning Outcomes</alert></p>
+  
+	<p>
+		After successful completion of this chapter, you will be able to:
+		<ol>
+			<li></li>
+		</ol>
+	</p>
+
+	</introduction>
+
+	<!--INTRODUCTORY SECTIONS-->
+	<xi:include href="./circ/sec_circuits-intro.ptx" />
+
+	<!--PREPARE SECTIONS-->
+	<xi:include href="./circ/sec_voltage.ptx" />
+	<xi:include href="./circ/sec_loop-rule.ptx" />
+	<xi:include href="./circ/sec_voltage-diagrams.ptx" />
+	<xi:include href="./circ/sec_current.ptx" />
+	<xi:include href="./circ/sec_junction-rule.ptx" />
+	<xi:include href="./circ/sec_circuit-diagrams.ptx" />
+	<xi:include href="./circ/sec_resistance.ptx" />
+
+    <!--PRACTICE SECTIONS-->
+	<xi:include href="./circ/sec_circ-practice.ptx" />
+
+    <!--CHALLENGE SECTIONS-->
+	<xi:include href="./circ/sec_circ-challenge.ptx" />
+
+
+</chapter>
+
+
+
+
+
+
+
+

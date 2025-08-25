@@ -70,14 +70,25 @@
 		<xi:include href="./ch-n_18_physical-optics.ptx" />
 		<xi:include href="./ch-n_19_optics.ptx" />
 
+		<xi:include href="./ch-n_20_charge-e-fields.ptx" />
+		<xi:include href="./ch-n_21_electric-force.ptx" />
+		<xi:include href="./ch-n_22_gauss.ptx" />
+		<xi:include href="./ch-n_23_elec-energ-poten.ptx" />
+		<xi:include href="./ch-n_24_equipotential-surf.ptx" />
 
-		<xi:include href="./ch_09_electricity.ptx" />
-		<xi:include href="./ch_10_circuits.ptx" />
+		<xi:include href="./ch-n_25_circuits-intro.ptx" />
+		<xi:include href="./ch-n_26_circuits-resistors.ptx" />
+		<xi:include href="./ch-n_27_circuits-capacitors.ptx" />
+		
+		<xi:include href="./ch-n_28_magnetism.ptx" />
+		<xi:include href="./ch-n_29_b-from-current.ptx" />
+		<xi:include href="./ch-n_30_faraday.ptx" />
+
+
+		<!--<xi:include href="./ch_09_electricity.ptx" />
+		 <xi:include href="./ch_10_circuits.ptx" />
     	<xi:include href="./ch_11_magnetism.ptx" />
 		<xi:include href="./ch_00_prep.ptx" />
-
-		
-<!--
 -->
 
 

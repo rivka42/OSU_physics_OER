@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_circ-res" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Circuits: Resistors</title>
+	<introduction>
+    <p> In this chapter you will learn about resistors in circuits.</p>
+	
+	<p><alert>Learning Outcomes</alert></p>
+  
+	<p>
+		After successful completion of this chapter, you will be able to:
+		<ol>
+			<li></li>
+		</ol>
+	</p>
+
+	</introduction>
+
+	<!--INTRODUCTORY SECTIONS-->
+	
+
+	<!--PREPARE SECTIONS-->
+	<xi:include href="./circ/sec_ohm.ptx" />
+	<xi:include href="./circ/sec_adding-resistors.ptx" />
+	<xi:include href="./circ/sec_power-in-circuits.ptx" />
+
+
+    <!--PRACTICE SECTIONS-->
+	<xi:include href="./circ/sec_circ-res-practice.ptx" />
+
+    <!--CHALLENGE SECTIONS-->
+	<xi:include href="./circ/sec_circ-res-challenge.ptx" />
+
+
+</chapter>
+
+
+
+
+
+
+
+

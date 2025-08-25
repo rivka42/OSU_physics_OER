@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_charge-elec-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Practice - Charge and Electric Fields</title>
+	
+	<!--
+	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
+	If you want an Explain activity, use the <investigation> tag.
+		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
+	If you want a Calculate activity, use the <exploration> tag.
+	
+	<m># \mathrm{~}</m>
+	<m> \mathrm{~}</m>
+	-->
+
+	<exploration xml:id="psa_elec-alpha1">
+	<title>Net Charge I</title>
+	<statement>
+		    <p>In a laboratory, a system is constructed that contains 7 protons and 4 electrons.  What is the net charge of this system?</p>
+		</statement>
+		<answer>
+		    <p><m>4.8 \times 10^{-19} \mathrm{~C}</m></p>
+		</answer>
+	</exploration>
+	
+		<exploration xml:id="psa_elec-alpha2">
+	<title>Net Charge II</title>
+	<statement>
+		    <p>A system of protons and electrons has a net charge of <m>-1.12 \times 10^{-18}  \mathrm{~C}</m>.  If the system contains 15 protons, how many electrons are in the system? </p>
+		</statement>
+		<answer>
+		    <p><m>22</m> electrons</p>
+		</answer>
+	</exploration>
+	
+		<exploration xml:id="psa_elec-alpha3">
+	<title>Net Charge III</title>
+	<statement>
+		    <p>An amoeba has <m>1 \times 10^{16}</m> protons and a net charge of <m>0.300 \mathrm{~pC}</m>.  How many fewer electrons are there than protons? </p>
+		</statement>
+		<answer>
+		    <p><m>1.88 \times 10^6</m> fewer electrons</p>
+		</answer>
+	</exploration>
+	
+		<exploration xml:id="psa_elec-alpha4">
+	<title>Dryer Charge</title>
+	<statement>
+		    <p>Consider a cotton sock inside a dryer machine whose drum (inner container) is made of steel.  After tumbling around in the dryer's drum for a while, the cotton sock has a net charge on it now.  Which of the following charge transfers most likely happened in this sock-drum system? </p>
+				<ol marker="A">
+				<li>The steel drum lost electrons while the cotton sock gained those electrons. </li>
+				<li>The steel drum lost protons while the cotton sock gained those protons. </li>
+				<li>The cotton sock lost electrons while the steel drum gained those electrons. </li>
+				<li>The cotton sock lost protons while the steel drum gained those protons. </li>
+				<li>Both the cotton sock and steel drum lost electrons.</li>
+				<li>Both the cotton sock and the steel drum gained electrons.</li>
+				</ol>
+		</statement>
+		<answer>
+		    <p>C</p>
+		</answer>
+	</exploration>
+
+    <project xml:id="study_elec-01">
+        <title>A Piece of Pollen</title>
+		<statement>
+		    <p>A piece of pollen typically has both a small mass (about <m>5 \mathrm{~ng}</m>) and a small amount of charge (about <m>1 \mathrm{~fC}</m>).  Estimate the electric field that a honeybee needs to create to carry a typical piece of pollen.</p>
+		</statement>
+		<!--<hint>
+		    <p></p>
+		</hint>
+		<solution>
+		    <p></p>
+		</solution>-->
+	</project>
+
+	<investigation xml:id="study_elec-02">
+		<title>Charged Wires</title>
+		<statement>
+			<p>A charged wire has one end at <m>x = –L</m> and the other end at <m>x = L</m>.  The wire has a known, non-uniform charge density <m>\lambda(x) = \frac{q_o}{L^2}  x</m>.  You have an electric field generator that can make different electric fields, but when you set it to create a uniform electric field you find that the net force on the wire is 0!  Which of the following alternate settings for your electric field generator would result in a nonzero net force on the wire?
+				<me>\vec{E}_1 = - E_o\frac{x}{L}\hat{y}</me>
+				<me>\vec{E}_2 = - E_o\left(\frac{x}{L}\right)^2 \hat{y}</me>
+</p>
+		</statement>
+				<!--<hint>
+		    <p></p>
+		</hint>
+		<solution>
+		    <p></p>
+		</solution>-->
+	</investigation>
+</section>

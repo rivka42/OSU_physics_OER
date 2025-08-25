@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_charge-elec-challenge" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Challenge - Charge and Electric Fields</title>
+	
+	<!--
+	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
+	If you want an Explain activity, use the <investigation> tag.
+		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
+	If you want a Calculate activity, use the <exploration> tag.
+	
+	<m># \mathrm{~}</m>
+	<m> \mathrm{~}</m>
+	-->
+
+    <project xml:id="apply_elec-01">
+        <title>The Gecko</title>
+		<statement>
+		    <p>One reason that a gecko (a small lizard with a mass of around <m>75</m> grams) can walk across a ceiling is the electric force.  If we assume the magnitude of the electric field acting on the gecko is <m>10^6 \mathrm{~N/C}</m>, determine the net charge on the gecko’s feet.</p>
+		</statement>
+<hint>
+		    <p>Numerical sensemaking: explain why, for example, an elephant might have a tough time walking across a ceiling.</p>
+		</hint>
+
+	</project>
+
+	<investigation xml:id="apply_elec-02">
+		<title>Three Electric Fields</title>
+		<statement>
+			<p>A charged wire has one end at <m>x = –L</m> and the other end at <m>x = L</m>.  The wire has a known, non-uniform charge density <m>\lambda(x) = \frac{q_o}{L} \cos\left(\frac{\pi x}{2L}\right)</m>.  You have an electric field generator that can make the following three electric fields:
+				<me>\vec{E}_A = E_o\hat{y}</me>
+				<me>\vec{E}_B = E_o\frac{x}{L} \hat{y}</me>
+				<me>\vec{E}_C = E_o\left(\frac{x}{L}\right)^2 \hat{y}</me>
+				Which electric field will give you the smallest net force on the wire?  Which will give you the largest net force on the wire?  (You may calculate the net forces to check your answer, but your explanation should be qualitative.)
+</p>
+<p>
+As part of your explanation, you should include and use the following:
+<ul>
+<li>a charge diagram of the wire showing the charge density, using <m>+</m> and <m>-</m> symbols to represent positive and negative charge</li>
+<li>an electric field vector map for each electric field</li>
+</ul>
+
+</p>
+		</statement>
+				<!--<hint>
+		    <p></p>
+		</hint>
+		<solution>
+		    <p></p>
+		</solution>-->
+	</investigation>
+  
+	
+</section>
+

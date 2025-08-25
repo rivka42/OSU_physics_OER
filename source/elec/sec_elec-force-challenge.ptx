@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_elec-force-challenge" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Challenge - Electric Force</title>
+	
+	<!--
+	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
+	If you want an Explain activity, use the <investigation> tag.
+		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
+	If you want a Calculate activity, use the <exploration> tag.
+	
+	<m># \mathrm{~}</m>
+	<m> \mathrm{~}</m>
+	-->
+	
+
+	<investigation xml:id="apply_elec-03">
+		<title>Three Wires</title>
+		<statement>
+			<p>Three straight wires (with one end at <m>x = –L</m> and the other end at <m>x = +L</m>) each have the same total charge <m>+Q</m> distributed differently.  Wire A has charge density <m>\lambda_A(x) = +\alpha x^2</m>.  Wire B has charge density <m>\lambda_B(x) = +\beta \cos\left(\frac{\pi x}{2L}\right)</m>.  Wire C has uniform charge density <m>+\lambda_C</m>.</p>
+			<p>You want to predict how the electric fields of these three wires will compare a distance <m>L</m> above the center of each rod (along the <m>y</m>-axis).  Rank the three wires by the magnitude of the electric field produced at this location from smallest to largest.
+</p>
+		</statement>
+<hint>
+		    <p>You will need to make a qualitative argument; do not solve for the magnitude of each electric field.</p>
+		</hint>
+						<!--<solution>
+		    <p></p>
+		</solution>-->
+	</investigation>
+	
+
+	<investigation xml:id="apply_elec-04">
+		<title>Three Charges on an Arc</title>
+		<statement>
+			<p>The three point charges shown below have identical charge <m>+Q</m>.  Determine the net electric force on the upper charge.
+</p>
+		</statement>
+<hint>
+		    <p>Evaluate your answer in one or two special cases.</p>
+		</hint>
+						<!--<solution>
+		    <p></p>
+		</solution>-->
+	</investigation>
+	
+	<figure xml:id="x_charge-arc">
+			  <title>Point Charges Figure</title>
+    	<caption>
+	Three point charges.
+	</caption>
+    	<image source="Charge_arc.png" width = "35%" ></image>
+</figure>	
+  
+	
+</section>
+

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_b-from-current" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Magnetic Field from Current</title>
+	<introduction>
+    <p> In this chapter you will learn how to calculate the magnetic field.</p>
+	
+	<p><alert>Learning Outcomes</alert></p>
+  
+	<p>
+		After successful completion of this chapter, you will be able to:
+		<ol>
+			<li></li>
+		</ol>
+	</p>
+
+	</introduction>
+
+	<!--INTRODUCTORY SECTIONS-->
+	
+
+	<!--PREPARE SECTIONS-->
+	<xi:include href="./mag/sec_ampere.ptx" />
+	<xi:include href="./mag/sec_magnetic-flux.ptx" />
+	<xi:include href="./mag/sec_induced-current.ptx" />
+    <!--PRACTICE SECTIONS-->
+	<xi:include href="./mag/sec_b-practice.ptx" />
+
+    <!--CHALLENGE SECTIONS-->
+	<xi:include href="./mag/sec_b-challenge.ptx" />
+
+
+</chapter>
+
+
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_equipotential-surf" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Representing the Electric Potential</title>
+	<introduction>
+    <p> In this chapter you will learn how to represent the electric potential, and further your understanding of the relationship between the electric field and the electric potential.</p>
+	
+	<p><alert>Learning Outcomes</alert></p>
+  
+	<p>
+		After successful completion of this chapter, you will be able to:
+		<ol>
+			<li></li>
+		</ol>
+	</p>
+
+	</introduction>
+
+	<!--INTRODUCTORY SECTIONS-->
+	
+
+	<!--PREPARE SECTIONS-->
+	<xi:include href="./elec/sec_eq-graphs.ptx" />
+	<xi:include href="./elec/sec_e-to-v.ptx" />
+	<xi:include href="./elec/sec_v-to-e.ptx" />
+	<xi:include href="./elec/sec_conductors.ptx" />
+	<xi:include href="./elec/sec_capacitors.ptx" />
+
+    <!--PRACTICE SECTIONS-->
+	<xi:include href="./elec/sec_eq-practice.ptx" />
+
+    <!--CHALLENGE SECTIONS-->
+	<xi:include href="./elec/sec_eq-challenge.ptx" />
+
+
+</chapter>
+
+
+
+
+
+
+
+

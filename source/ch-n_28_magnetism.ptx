@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_mag" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Magnetism</title>
+	<introduction>
+    <p> In this chapter you will learn about magnetism.</p>
+	
+	<p><alert>Learning Outcomes</alert></p>
+  
+	<p>
+		After successful completion of this chapter, you will be able to:
+		<ol>
+			<li></li>
+		</ol>
+	</p>
+
+	</introduction>
+
+	<!--INTRODUCTORY SECTIONS-->
+	<xi:include href="./mag/sec_what-is-magnetism.ptx" />
+
+	<!--PREPARE SECTIONS-->
+	<xi:include href="./mag/sec_magnetic-field.ptx" />
+	<xi:include href="./mag/sec_biot-savart.ptx" />
+	<xi:include href="./mag/sec_calculating-b.ptx" />
+	<xi:include href="./mag/sec_magnetic-force.ptx" />
+	<xi:include href="./mag/sec_lorentz-force.ptx" />
+	<xi:include href="./mag/sec_magnetic-dipole.ptx" />
+
+    <!--PRACTICE SECTIONS-->
+	<xi:include href="./mag/sec_mag-practice.ptx" />
+
+    <!--CHALLENGE SECTIONS-->
+	<xi:include href="./mag/sec_mag-challenge.ptx" />
+
+
+</chapter>
+
+
+
+
+
+
+
+

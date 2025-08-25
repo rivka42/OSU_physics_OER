@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_faraday" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Faraday's Law</title>
+	<introduction>
+    <p> In this chapter you will learn about Faraday's Law.</p>
+	
+	<p><alert>Learning Outcomes</alert></p>
+  
+	<p>
+		After successful completion of this chapter, you will be able to:
+		<ol>
+			<li></li>
+		</ol>
+	</p>
+
+	</introduction>
+
+	<!--INTRODUCTORY SECTIONS-->
+	
+
+	<!--PREPARE SECTIONS-->
+	<xi:include href="./mag/sec_faraday.ptx" />
+	<xi:include href="./mag/sec_inductors.ptx" />
+	<xi:include href="./mag/sec_lc-circuits.ptx" />
+	<xi:include href="./mag/sec_lr-circuits.ptx" />
+	<xi:include href="./mag/sec_mag-summary.ptx" />
+
+
+    <!--PRACTICE SECTIONS-->
+	<xi:include href="./mag/sec_faraday-practice.ptx" />
+
+    <!--CHALLENGE SECTIONS-->
+	<xi:include href="./mag/sec_faraday-challenge.ptx" />
+
+
+</chapter>
+
+
+
+
+
+
+
+

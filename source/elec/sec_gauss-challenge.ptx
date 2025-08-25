@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_gauss-challenge" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Challenge - Gauss's Law</title>
+	
+	<!--
+	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
+	If you want an Explain activity, use the <investigation> tag.
+		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
+	If you want a Calculate activity, use the <exploration> tag.
+	
+	<m># \mathrm{~}</m>
+	<m> \mathrm{~}</m>
+	-->
+
+<subsection>
+<title>Challenge - Gauss's Law</title>	
+
+<investigation xml:id="apply_elec-05">
+		<title>Charges and Arcs</title>
+<statement>
+			<p>
+			Shown below are three different situations.  In case A, both point charges are negative.  In case B, the left point charge is positive and the right point charge is negative.  In case C, the negative charge is uniformly distributed across the circular arc.  Rank the three situations by the magnitude of the electric field at point P.  (Focus on A vs. B and A vs. C: treat B vs. C as a challenge problem only!)
+</p>
+		</statement>
+	</investigation>
+
+		<figure xml:id="x_point-charges-arc2">
+			  <title>Point Charges and Arc Figure</title>
+    	<caption>
+	Three cases with different charges.
+	</caption>
+    	<image source="point-charges-arc2.png" width = "100%" ></image>
+</figure>	
+
+<project xml:id="apply_elec-06">
+        <title>The End of the Line</title>
+		<statement>
+		    <p>A straight wire with one end at <m>x = -L</m> and the other end at <m>x = +L</m> has a total charge <m>+Q_o</m> distributed uniformly.  Find the electric field at a point on the <m>x</m>-axis a distance a from the center of the wire (where <m>a \gt L</m>).</p>
+		</statement>
+<hint>
+		    <p>Sensemaking suggestion (3c): Evaluate your answer in the special case that <m>a \gt\gt L</m>.</p>
+		</hint>
+	</project>
+	
+			<figure xml:id="x_cube-gauss">
+			  <title>Gaussian Cube Figure</title>
+    	<caption>
+	Two point charges and a Gaussian cube.
+	</caption>
+    	<image source="CubeGauss.png" width = "40%" ></image>
+</figure>	
+
+	
+	<investigation xml:id="apply_elec-07">
+		<title>Charges and Arcs</title>
+		<introduction>
+		<p>
+		Two positive point charges <m>+q</m> are located a distance <m>L</m> apart, as shown above.  A Gaussian surface (a cube with side length <m>L</m>) is drawn with its center at the location of the left charge.
+		</p>
+		</introduction>
+		<task>
+<statement>
+			<p>
+			Is the electric flux through the right face of the cube <em>positive</em>, <em>negative</em>, or <em>zero</em>?
+</p>
+		</statement>
+		</task>
+		<task>
+<statement>
+			<p>
+			b)	Suppose the charge on the right were replaced by a charge of <m>-q</m>.  Would the net electric flux through the entire cube <em>increase</em>, <em>decrease</em>, or <em>stay the same</em>?
+</p>
+		</statement>
+		</task>
+	</investigation>
+
+
+</subsection>
+  
+	
+</section>
+

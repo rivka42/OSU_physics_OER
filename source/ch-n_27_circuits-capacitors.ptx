@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_circ-cap" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Circuits: Capacitors</title>
+	<introduction>
+    <p> In this chapter you will learn about capacitors in circuits.</p>
+	
+	<p><alert>Learning Outcomes</alert></p>
+  
+	<p>
+		After successful completion of this chapter, you will be able to:
+		<ol>
+			<li></li>
+		</ol>
+	</p>
+
+	</introduction>
+
+	<!--INTRODUCTORY SECTIONS-->
+	
+
+	<!--PREPARE SECTIONS-->
+	<xi:include href="./circ/sec_capacitors-in-circuits.ptx" />
+	<xi:include href="./circ/sec_RC-circuits.ptx" />
+	<xi:include href="./circ/sec_circ-summary.ptx" />
+
+
+    <!--PRACTICE SECTIONS-->
+	<xi:include href="./circ/sec_circ-cap-practice.ptx" />
+
+    <!--CHALLENGE SECTIONS-->
+	<xi:include href="./circ/sec_circ-cap-challenge.ptx" />
+
+
+</chapter>
+
+
+
+
+
+
+
+
