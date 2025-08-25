@@ -12,7 +12,14 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
-  
+	<investigation>
+		<title>Create a Circuit</title>
+		<statement>
+			<p>
+				You have two identical batteries, two identical resistors, and two identical capacitors (you also have infinite ideal wires). Sketch the circuit that includes all of the circuit elements that will cause the capacitors to charge in the least amount of time (safely!).
+			</p>
+		</statement>
+	</investigation>
 	
 </section>
 
