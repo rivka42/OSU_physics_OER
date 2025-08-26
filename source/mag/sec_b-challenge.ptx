@@ -12,7 +12,35 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
-  
-	
+
+	<figure xml:id="fig-curved_wire">
+    	<caption>Semi-circular current carrying wire segment.</caption>
+    	<image source="mag/curved-wire.png" width = "40%" ></image>
+	</figure>
+
+	<project>
+		<title>Semi-Circular Wire</title>
+		<statement>
+			<p>
+				Use the Biot-Savart law to find the magnetic field strength at the center of the semicircle in the figure above.
+			</p>
+		</statement>
+	</project>
+
+	<project>
+		<title>Solenoid</title>
+		<statement>
+			<p>
+				Consider the magnetic field created by an infinitely long solenoid with radius <m>R</m> and <m>n</m> coils per unit length carrying a steady clockwise current <m>I</m>. Starting from the assumption that the magnetic field everywhere in space must point in either the positive or negative <m>z</m>-direction (parallel to the axis of the solenoid), use Ampere's Law to determine the magnitude and direction of this magnetic field.
+			</p>
+		</statement>
+		<hint>
+			<p>
+				You will need to choose Amperian Loops thoughtfully, and you may need more than one!
+			</p>
+		</hint>
+	</project>
+
+
 </section>
 
