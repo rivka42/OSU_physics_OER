@@ -12,29 +12,33 @@
 		</statement>
 	</definition>
 	
-		<assumption>
+	<assumption>
 		<title>Linear Resistors</title>
 		<statement>
 			<p>A <term>linear resistor</term> or Ohmic resistor is one that has a resistance <m>R</m> that is constant (it is the same no matter what current is flowing through it).</p>
 		</statement>
 	</assumption>
+
+	<p>
+		Devices or circuit elements that obey a linear relationship between the current and the voltage is considered to be "Ohmic". Ohm's Law is particularly useful to determine relationships between the voltage, current, and resistance of a resistor element. Be very careful when using Ohm's Law for other elements if you do not know if they are Ohmic. A common misconception is that Ohm's Law can be used for lightbulbs. In general, lightbulbs are considered to be non-Ohmic, and therefore may not obey the linear relationship that is Ohm's Law. 
+	</p>
 	
 	<figure xml:id="CD_R">
-			  <title>Ohmic Resistor Diagram</title>
-			<caption>The circuit diagram representation for an Ohmic resistor.</caption>
-			<image source="CD_R.png" width = "10%" ><description>A jagged line representing an Ohmic resistor.</description></image>
-		</figure>
+		<title>Ohmic Resistor Diagram</title>
+		<caption>The circuit diagram representation for an Ohmic resistor.</caption>
+		<image source="CD_R.png" width = "10%" ><description>A jagged line representing an Ohmic resistor.</description></image>
+	</figure>
 	
-		<exercises>
-		<title>Activities</title>
-				<exercise>
-				<title>Sensemaking: Units</title>
-				<statement>
-			<p>What are the units of resistance in terms of other units you have used?</p>
+	<exercises>
+	<title>Activities</title>
+		<exercise>
+			<title>Sensemaking: Units</title>
+			<statement>
+				<p>What are the units of resistance in terms of other units you have used?</p>
 			</statement>
 			<answer><p>V/A</p></answer>
 		</exercise>
-		</exercises>
+	</exercises>
 	
 </section>
 

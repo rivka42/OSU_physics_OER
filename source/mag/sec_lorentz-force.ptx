@@ -7,7 +7,7 @@
     <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 		-->
 	
-	<p>Based on what you discovered in the previous section, you can define the force that a magnetic field exerts on a moving charge to be <me>\vec{F} = q\vec{v}\times\vec{B}</me> where <m>\vec{B}</m> is the magnetic field, <m>q</m> is the charge experiencing the force, and <m>\vec{v}</m> is the velocity of the charge experiencing the force.  When added to the force on a charge by an electric force, you arrive at the full expression for force in electromagnetism, which is known as the Lorentz Force.</p>
+	<p>Based on what you discovered in the previous section, you can define the force that a magnetic field exerts on a moving charge to be <me>\vec{F}^B = q\vec{v}\times\vec{B}</me> where <m>\vec{B}</m> is the magnetic field, <m>q</m> is the charge experiencing the force, and <m>\vec{v}</m> is the velocity of the charge experiencing the force.  When added to the force on a charge by an electric force, you arrive at the full expression for force in electromagnetism, which is known as the Lorentz Force.</p>
 	
 	<definition>
 		<title>Lorentz Force</title>

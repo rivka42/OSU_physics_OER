@@ -11,6 +11,10 @@
 			<p><term>Ampere's Law</term> relates the net magnetic field around a closed curve to the current passing through the region bounded by the curve: <me>\bigcirc \!\!\!\!\!\!\!\!\int_S \vec{B}\cdot d\vec{s} = \mu_o I_{enclosed}</me></p>
 		</statement>
 	</definition>
+
+	<p>
+		The integral in the definition above is a line integral. The circle over the integral symbol indicates that this is an integral over a closed path. Ampere's Law is useful when you are able to identify a symmetry of your current distribution.
+	</p>
 	
 	<exercises>
 		<title>Activities</title>

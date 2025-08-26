@@ -12,6 +12,10 @@
 		</statement>
 	</definition>
 
+	<p>
+		Resistance in circuits arises in the form of a resistor. Resistors are elements commonly seen in circuits, and can alter how current flows and provide a voltage drop. The energy lost across a resistor is dissipated in the form of heat. Resistors will be discussed in more detail in an upcoming section. 
+	</p>
+
 	<exercises>
 		<title>Activities</title>
 		<p>Shown below is a circuit with three resistors.  In a circuit diagram, a resistor is represented by a jagged line.</p>
