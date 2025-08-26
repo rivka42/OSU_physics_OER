@@ -12,7 +12,27 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
-  
+
+	<exploration>
+		<title>Lightning Bolt</title>
+		<statement>
+			<p>
+				A large lightning bolt had a 20,000-A current and moved 30.0 C of charge.  What was its duration? 
+			</p>
+		</statement>
+		<answer>
+			<p>
+				1.50 ms
+			</p>
+		</answer>
+	</exploration>
+
 	
+  
+	<references>
+		<biblio xml:id="ref_boxsand-circ">
+			<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+		</biblio>
+	</references>
 </section>
 

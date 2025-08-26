@@ -12,7 +12,371 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
+
+	<figure xml:id="bs-current-voltage">
+		<title>Current versus Voltage</title>
+		<caption>Current versus voltage graph.</caption>
+		<image source="circ/current-vs-voltage.png" width = "50%" ></image>
+	</figure>
+
+	<exploration>
+		<title>Resistance from a Graph</title>
+		<statement>
+			<p>
+				 Suppose you apply several different voltage differences across a circuit and measure the resulting current through the circuit; a plot of your results is shown above.  What is the resistance of the circuit?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				<m>1000 \ \Omega</m>
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration>
+		<title>Bird on a Wire</title>
+		<statement>
+			<p>
+				High-voltage overhead electric lines are not covered by insulation, unlike wires that are used in electric circuitry in homes. Explain why a bird that lands on a single high-voltage line does not get electrocuted.
+			</p>
+		</statement>
+		<answer>
+			<p>
+				The bird's feet, touching the high-voltage line, do form a complete circuit through the bird, but essentially no current flows through the bird, because the resistance value of the wire is essentially zero between the points where the bird's feet are touching it; whereas the bird has some non-negligible resistance.
+			</p>
+		</answer>
+	</exploration>
   
+	<figure xml:id="bs-circuit-11">
+		<title>Circuit Diagram</title>
+		<caption>Circuit diagram.</caption>
+		<image source="circ/circuit-11.png" width = "50%" ></image>
+	</figure>
+
+	<exploration>
+		<title>Circuit Quantities</title>
+		<statement>
+			<p>
+				Consider the circuit above. The voltage drops across resistors 1 and 2 are 3 V and 4 V respectively.
+			</p>
+			<ol>
+				<li>
+					<p>
+						What is the voltage difference across the terminals of the battery?
+					</p>
+				</li>
+				<li>
+					<p>
+						If the current through resistor 2 is 1.75 A, what is the current through resistor 1?
+					</p>
+				</li>
+				<li>
+					<p>
+						Given the information from parts (a) and (b), what is the resistance of resistor 1?
+					</p>
+				</li>
+			</ol>
+		</statement>
+		<answer>
+			<p>
+				7 V
+			</p>
+		</answer>
+		<answer>
+			<p>
+				1.75 A
+			</p>
+		</answer>
+		<answer>
+			<p>
+				1.71 <m>\Omega</m>
+			</p>
+		</answer>
+	</exploration>
+
+	<figure xml:id="bs-circuit-12">
+		<title>Circuit Diagram</title>
+		<caption>Circuit diagram.</caption>
+		<image source="circ/circuit-12.png" width = "50%" ></image>
+	</figure>
+
+	<exploration>
+		<title>Current Through Resistors</title>
+		<statement>
+			<p>
+				Consider the circuit above.
+			</p>
+			<ol>
+				<li>
+					<p>
+						Through which resistor does the most current flow?
+					</p>
+				</li>
+				<li>
+					<p>
+						Through which resistor does the least current flow?
+					</p>
+				</li>
+			</ol>
+		</statement>
+		<answer>
+			<p>
+				The most current flows through the 20 <m>\Omega</m> resistor.
+			</p>
+		</answer>
+		<answer>
+			<p>
+				The least amount of current flows through each of the 15 <m>\Omega</m> resistor.
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration>
+		<title>Increasing Resistance</title>
+		<statement>
+			<p>
+				Two identical resistors are connected in parallel across the terminals of a battery.  If you increase the resistance of one of the resistors, what happens to the current through, and the voltage difference across, the other resistor? 
+			</p>
+		</statement>
+		<answer>
+			<p>
+				The current and voltage difference remain the same, if the battery is ideal.
+			</p>
+		</answer>
+	</exploration>
+
+	<figure xml:id="bs-circuit-13">
+		<title>Circuit Diagram</title>
+		<caption>Circuit diagram.</caption>
+		<image source="circ/circuit-13.png" width = "50%" ></image>
+	</figure>
+
+	<exploration>
+		<title>Circuit Analysis</title>
+		<statement>
+			<p>
+				Consider the resistive circuit shown above.
+			</p>
+			<ol>
+				<li>
+					<p>
+						Is the current going through <m>R_4</m> greater than, less than, or equal to the current going through <m>R_1</m>? 
+					</p>
+				</li>
+				<li>
+					<p>
+						Is the current going through <m>R_4</m> greater than, less than, or equal to the current going through <m>R_2</m>?
+					</p>
+				</li>
+				<li>
+					<p>
+						What is the decrease in voltage across <m>R_3</m>? 
+					</p>
+				</li>
+				<li>
+					<p>
+						How much current is passing through point P?
+					</p>
+				</li>
+			</ol>
+		</statement>
+		<answer>
+			<p>
+				Equal to.
+			</p>
+		</answer>
+		<answer>
+			<p>
+				Greater than.
+			</p>
+		</answer>
+		<answer>
+			<p>
+				1.18 V
+			</p>
+		</answer>
+		<answer>
+			<p>
+				0.235 A
+			</p>
+		</answer>
+	</exploration>
+
+	<figure xml:id="bs-circuit-14">
+		<title>Circuit Diagram</title>
+		<caption>Circuit diagram.</caption>
+		<image source="circ/circuit-14.png" width = "50%" ></image>
+	</figure>
+
+	<exploration>
+		<title>Circuit Analysis II</title>
+		<statement>
+			<p>
+				Consider the circuit shown above. 
+			</p>
+			<p>
+				If <m>V_A = 6 \ \mathrm{V}</m>, <m>V_B = 2 \ \mathrm{V}</m>, <m>R_1 = 4 \ \Omega</m>, <m>R_2 = 1 \ \Omega</m>, and <m>R_3 = 3 \ \Omega</m>, find the magnitude of the current through resistor 1. 
+			</p>
+		</statement>
+		<answer>
+			<p>
+				0.947 A
+			</p>
+		</answer>
+	</exploration>
+
+	<figure xml:id="bs-circuit-segment">
+		<title>Circuit Segment</title>
+		<caption>Circuit segment.</caption>
+		<image source="circ/circuit-segment.png" width = "50%" ></image>
+	</figure>
+
+	<exploration>
+		<title>Circuit Segment</title>
+		<statement>
+			<p>
+				What is the equivalent resistance of the circuit segment above?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				2 <m>\Omega</m>
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration>
+		<title>Parallel Resistors</title>
+		<statement>
+			<p>
+				Every time you add another resistor in parallel which of the following changes occur?
+			</p>
+			<ol>
+				<li>
+					<p>
+						The voltage change across the battery increases.
+					</p>
+				</li>
+				<li>
+					<p>
+						The voltage change across the battery decreases.
+					</p>
+				</li>
+				<li>
+					<p>
+						The current coming through the battery increases.
+					</p>
+				</li>
+				<li>
+					<p>
+						The current coming through the battery decreases.
+					</p>
+				</li>
+				<li>
+					<p>
+						The total resistance of the circuit increases.
+					</p>
+				</li>
+				<li>
+					<p>
+						The total resistance of the circuit decreases.
+					</p>
+				</li>
+			</ol>
+		</statement>
+		<answer>
+			<p>
+				(3), (6)
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration>
+		<title>Circuit Analysis II</title>
+		<statement>
+			<p>
+				Recall the <xref ref="bs-circuit-13"/> from above. 
+			</p>
+			<ol>
+				<li>
+					<p>
+						What is the equivalent resistance of the circuit?
+					</p>
+				</li>
+				<li>
+					<p>
+						How much current is passing through <m>R_1</m>? 
+					</p>
+				</li>
+				<li>
+					<p>
+						What is the voltage difference across <m>R_4</m>?
+					</p>
+				</li>
+				<li>
+					<p>
+						If another 5 <m>\Omega</m> resistor were connected in parallel with <m>R_2</m> and <m>R_3</m>, would the overall resistance of the circuit increase, decrease, or stay the same?  
+					</p>
+				</li>
+				<li>
+					<p>
+						If another 5 <m>\Omega</m> resistor were connected in parallel with <m>R_2</m> and <m>R_3</m>, would the voltage difference across the battery increase, decrease, or stay the same? 
+					</p>
+				</li>
+				<li>
+					<p>
+						If another 5 <m>\Omega</m> resistor were connected in parallel with <m>R_2</m> and <m>R_3</m>, would the current drawn from the battery increase, decrease, or stay the same? 
+					</p>
+				</li>
+				<li>
+					<p>
+						If another 5 <m>\Omega</m> resistor were connected in parallel with <m>R_2</m> and <m>R_3</m>, would the power dissipated by <m>R_4</m> increase, decrease, or stay the same? 
+					</p>
+				</li>
+			</ol>
+		</statement>
+		<answer>
+			<p>
+				25.5 <m>\Omega</m>
+			</p>
+		</answer>
+		<answer>
+			<p>
+				0.471 A
+			</p>
+		</answer>
+		<answer>
+			<p>
+				3.76 V
+			</p>
+		</answer>
+		<answer>
+			<p>
+				Decrease.
+			</p>
+		</answer>
+		<answer>
+			<p>
+				Stay the same.
+			</p>
+		</answer>
+		<answer>
+			<p>
+				Increase.
+			</p>
+		</answer>
+		<answer>
+			<p>
+				Increase.
+			</p>
+		</answer>
+	</exploration>
+
+	<references>
+		<biblio xml:id="ref_boxsand-res">
+			<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+		</biblio>
+	</references>
 	
 </section>
 
