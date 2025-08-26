@@ -12,7 +12,27 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
-  
+
+	<exploration>
+		<title>Magnetic Flux</title>
+		<statement>
+			<p>
+				What is the magnetic flux through an equilateral triangle with side 60 cm long, whose plane makes a 60 degree angle with a uniform magnetic field of 0.33 T?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				0.056 Wb
+			</p>
+		</answer>
+	</exploration>
+
+	<references>
+		<biblio xml:id="ref_boxsand-mag2">
+			<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+		</biblio>
+	</references>
+
 	
 </section>
 

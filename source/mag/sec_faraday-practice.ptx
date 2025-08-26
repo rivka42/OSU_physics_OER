@@ -12,7 +12,65 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
+
+	<exploration>
+		<title>Induced Current</title>
+		<statement>
+			<p>
+				A single conducting loop of wire has an area of <m>7.40 \times 10^{-2} \ \mathrm{m}^2</m> and a resistance of 110 <m>\Omega</m>. Perpendicular to the plane of the loop is a magnetic field of strength 0.280 T. At what rate (in T/s) must this field change if the induced current in the loop is to be 0.32 A?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				476 T/s
+			</p>
+		</answer>
+	</exploration>
+
+	<figure xml:id="bs-loop-field">
+		<title>Loop in a Magnetic Field</title>
+		<caption>Circular conductive loop in a uniform magnetic field.</caption>
+		<image source="mag/loop-field.png" width = "50%" ></image>
+	</figure>
+
+	<exploration>
+		<title>Conductive Loop in a Magnetic Field</title>
+		<statement>
+			<p>
+				A conductive metal loop is at rest within a uniform magnetic field, as shown above. If the magnetic field strength is then decreased, in which direction does induced current flow in the loop?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				There is no current.
+			</p>
+		</answer>
+	</exploration>
   
-	
+	<figure xml:id="bs-falling-loop">
+		<title>Loop falling Away from Current</title>
+		<caption>Circular conductive loop falling away from a current carrying wire.</caption>
+		<image source="mag/falling-loop.png" width = "50%" ></image>
+	</figure>
+
+	<exploration>
+		<title>Falling Loop</title>
+		<statement>
+			<p>
+				The figure shows a circular conductive loop falling away from a long wire that is carrying current to the right, as shown above. What is the direction of the induced current in the loop?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				Clockwise.
+			</p>
+		</answer>
+	</exploration>
+
+	<references>
+		<biblio xml:id="ref_boxsand-faraday">
+			<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+		</biblio>
+	</references>
 </section>
 
