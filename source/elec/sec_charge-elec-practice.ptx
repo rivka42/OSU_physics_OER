@@ -14,8 +14,8 @@
 	-->
 
 	<exploration xml:id="psa_elec-alpha1">
-	<title>Net Charge I</title>
-	<statement>
+		<title>Net Charge I</title>
+		<statement>
 		    <p>In a laboratory, a system is constructed that contains 7 protons and 4 electrons.  What is the net charge of this system?</p>
 		</statement>
 		<answer>
@@ -23,9 +23,9 @@
 		</answer>
 	</exploration>
 	
-		<exploration xml:id="psa_elec-alpha2">
-	<title>Net Charge II</title>
-	<statement>
+	<exploration xml:id="psa_elec-alpha2">
+		<title>Net Charge II</title>
+		<statement>
 		    <p>A system of protons and electrons has a net charge of <m>-1.12 \times 10^{-18}  \mathrm{~C}</m>.  If the system contains 15 protons, how many electrons are in the system? </p>
 		</statement>
 		<answer>
@@ -33,9 +33,9 @@
 		</answer>
 	</exploration>
 	
-		<exploration xml:id="psa_elec-alpha3">
-	<title>Net Charge III</title>
-	<statement>
+	<exploration xml:id="psa_elec-alpha3">
+		<title>Net Charge III</title>
+		<statement>
 		    <p>An amoeba has <m>1 \times 10^{16}</m> protons and a net charge of <m>0.300 \mathrm{~pC}</m>.  How many fewer electrons are there than protons? </p>
 		</statement>
 		<answer>
@@ -43,9 +43,9 @@
 		</answer>
 	</exploration>
 	
-		<exploration xml:id="psa_elec-alpha4">
-	<title>Dryer Charge</title>
-	<statement>
+	<exploration xml:id="psa_elec-alpha4">
+		<title>Dryer Charge</title>
+		<statement>
 		    <p>Consider a cotton sock inside a dryer machine whose drum (inner container) is made of steel.  After tumbling around in the dryer's drum for a while, the cotton sock has a net charge on it now.  Which of the following charge transfers most likely happened in this sock-drum system? </p>
 				<ol marker="A">
 				<li>The steel drum lost electrons while the cotton sock gained those electrons. </li>
@@ -60,4 +60,109 @@
 		    <p>C</p>
 		</answer>
 	</exploration>
+
+	<exploration>
+		<title>Electric Field of a Point Charge</title>
+		<statement>
+			<p>
+				Consider a positive charge <m>q_1</m> = 4 .00 nC that exists in a space far away from other charges.  What is the electric field at a point P in space that is 15.0 m to the left of this point charge? 
+			</p>
+		</statement>
+		<answer>
+			<p>
+				<m>\vec{E} = (-0.16 \mathrm{N}/\mathrm{C}) \hat{x}</m>
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration>
+		<title>Electric Field of Many Charges</title>
+		<statement>
+			<p>
+				Consider a negative charge <m>q_1</m> = -9.00 nC that exists in a space far away from other charges. Let the charge <m>q_1</m> lie at the origin of a standard coordinate system. What is the electric field at a point P in space that has coordinates  (2, -3, 6) m?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				<m>\vec{E} = (-0.472 \ \mathrm{N}/\mathrm{C})\hat{x} + (0.708 \ \mathrm{N}/\mathrm{C})\hat{y} + (-1.42 \ \mathrm{N}/\mathrm{C})\hat{z}</m>
+			</p>
+		</answer>
+	</exploration>
+
+	<figure xml:id="x_charge-on-square">
+		<title>Point Charges in a Square</title>
+		<caption>Multiple point charges within a square.</caption>
+		<image source="elec/charges-square.png" width = "35%" ></image>
+	</figure>
+
+	<exploration>
+		<title>Charges in a Square</title>
+		<statement>
+			<p>
+				Consider the charge configuration in the diagram above.
+			</p>
+			<p>
+				<ol>
+					<li>
+						<p>
+							Determine the direction of the electric field at the center of the square in the figure, given that <m>q_a</m> = <m>q_b</m> = -1.00 <m>\mu</m>C and <m>q_c</m> = <m>q_d</m> = +1.00 <m>\mu</m>C.
+						</p>
+					</li>
+					<li>
+						<p>
+							Calculate the magnitude of the electric field at the location of <m>q</m>, given that the square is 5.00 cm on a side.
+						</p>
+					</li>
+				</ol>
+			</p>
+		</statement>
+		<answer>
+			<p>
+				The electric field at the center of the square will be straight up.
+			</p>
+		</answer>
+		<answer>
+			<p>
+				<m>|\vec{E}| = 2.04 \times 10^7 \mathrm{N}/\mathrm{C}</m>
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration>
+		<title>Protons Around a Circle</title>
+		<statement>
+			<p>
+				Consider 16 protons that are placed evenly along the circumference of a circle.
+			</p>
+			<ol>
+				<li>
+					<p>
+						What is the direction of the electric field directly at the center of the circle?
+					</p>
+				</li>
+				<li>
+					<p>
+						Now suppose that the proton at the top of the circle is removed. Now what is the direction of the electric field directly at the center of the circle?
+					</p>
+				</li>
+			</ol>
+		</statement>
+		<answer>
+			<p>
+				No direction; the electric field is zero.
+			</p>
+		</answer>
+		<answer>
+			<p>
+				Up
+			</p>
+		</answer>
+	</exploration>
+
+	<references>
+		<biblio xml:id="ref_boxsand-charge">
+			<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+		</biblio>
+	</references>
+
 </section>

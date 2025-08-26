@@ -43,18 +43,193 @@
 		</answer>
 	</exploration>
 	
-	<!--
+	<p>
+		For each of the questions in the next activity, consider two charges placed at the locations shown in the image below (the circle is drawn for clarity -- it is imaginary). Let <m>R = 5.0</m> cm, <m>q_1 = 3.0 \ \mu</m>C, and <m>q_2 = 1.0 \ \mu</m>C. Now suppose that a proton is placed at the center of the circle.
+	</p>
+
+	<figure xml:id="x_charge-on-circle">
+		<title>Point Charges on a Circle</title>
+		<caption>Two point charges on a circle of radius <m>R</m>.</caption>
+		<image source="elec/charge-on-circle.png" width = "35%" ></image>
+	</figure>
 	
-		<exploration xml:id="psa_elec-alpha7">
-	<title>Charge</title>
-	<statement>
-		    <p></p>
+	<exploration xml:id="psa_elec-alpha7">
+		<title>Charges on a Circle</title>
+		<statement>
+				<ol>
+					<li>
+						<p>
+							What is the magnitude of the electric force by <m>q_1</m> on the proton?
+						</p>
+					</li>
+					<li>
+						<p>
+							What is the magnitude of the electric force by <m>q_2</m> on the proton?
+						</p>
+					</li>
+					<li>
+						<p>
+							What is the magnitude of the net electric force on the proton?
+						</p>
+					</li>
+					<li>
+						<p>
+							What angle does the net electric force on the proton make with respect to the positive x-axis (using a standard coordinate system)?
+						</p>
+					</li>
+				</ol>
 		</statement>
 		<answer>
-		    <p></p>
+			<p><m>1.73 \times 10^{-12}</m> N</p>
+		</answer>
+		<answer>
+			<p>
+				<m>5.76 \times 10^{-13}</m> N
+			</p>
+		</answer>
+		<answer>
+			<p>
+				<m>1.82 \times 10^{-12}</m> N
+			</p>
+		</answer>
+		<answer>
+			<p>
+				<m>108^\circ</m>
+			</p>
 		</answer>
 	</exploration>
-	
+
+	<exploration>
+		<title>Charge in an Electric Field</title>
+		<statement>
+			<p>
+				A -3.00 C charge is placed in an external electric field. It is observed that the electric force on this charge is <m>\vec{F} = (9 \mathrm{N}) \hat{x} + (3 \mathrm{N}) \hat{y} + (-6 \mathrm{N}) \hat{z}</m>. What is the external electric field?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				<m>\vec{E} = (-3 \mathrm{N/C}) \hat{x} + (-1 \mathrm{N/C}) \hat{y} + (2 \mathrm{N/C}) \hat{z}</m>
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration>
+		<title>Electron in an Electric Field I</title>
+		<statement>
+			<p>
+				An electron is traveling in the negative x-direction when an external electric field pointing in the positive x-direction is turned on in that region. Which of the following statements are true about the electron right after the field is turned on?
+			</p>
+			<ol>
+				<li>
+					<p>
+						It experiences a force in the positive x-direction.
+					</p>
+				</li>
+				<li>
+					<p>
+						It experiences a force in the negative x-direction.
+					</p>
+				</li>
+				<li>
+					<p>
+						It travels in the positive x-direction.
+					</p>
+				</li>
+				<li>
+					<p>
+						It travels in the negative x-direction.
+					</p>
+				</li>
+				<li>
+					<p>
+						It accelerates in the positive x-direction.
+					</p>
+				</li>
+				<li>
+					<p>
+						It accelerates in the negative x-direction.
+					</p>
+				</li>
+				<li>
+					<p>
+						It begins to slow down.
+					</p>
+				</li>
+				<li>
+					<p>
+						It starts to speed up.
+					</p>
+				</li>
+			</ol>
+		</statement>
+		<answer>
+			<p>
+				(2), (4), (6), (8)
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration>
+		<title>Electron in an Electric Field II</title>
+		<statement>
+			<p>
+				An electron is traveling with a velocity that has equal positive x and y components.  Suddenly an electric field is turned on in the positive y-direction in this region.  Which of the following statements are true about the electron right after the field is turned on?
+			</p>
+			<ol>
+				<li>
+					<p>
+						It accelerates in the positive x-direction.
+					</p>
+				</li>
+				<li>
+					<p>
+						It accelerates in the negative x-direction.
+					</p>
+				</li>
+				<li>
+					<p>
+						It accelerates in the positive y-direction. 
+					</p>
+				</li>
+				<li>
+					<p>
+						It accelerates in the negative y-direction. 
+					</p>
+				</li>
+				<li>
+					<p>
+						It begins to slow down.
+					</p>
+				</li>
+				<li>
+					<p>
+						It starts to speed up.
+					</p>
+				</li>
+			</ol>
+		</statement>
+		<answer>
+			<p>
+				(4), (5)
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration>
+		<title>Charged Object on Earth</title>
+		<statement>
+			<p>
+				A 4.00 kg object with a net charge of -2.00 C is placed at rest above the surface of the Earth.  There also exists a uniform external electric field of magnitude 3.00 N/C pointing directly downward.  When released, what is the magnitude of the acceleration of this object?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				<m>8.30 \ \mathrm{m}/\mathrm{s}^2</m>
+			</p>
+		</answer>
+		
+	</exploration>
+	<!--
 		<exploration xml:id="psa_elec-alpha8">
 	<title>Charge</title>
 	<statement>
@@ -96,6 +271,12 @@
 	</exploration>
 	
 	-->		
+
+	<references>
+		<biblio xml:id="ref_boxsand-elec-force">
+			<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+		</biblio>
+	</references>
 	
 </section>
 

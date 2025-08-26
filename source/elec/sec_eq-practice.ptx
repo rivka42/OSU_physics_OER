@@ -12,7 +12,171 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
+	<figure xml:id="bs-eq-graph-1">
+		<title>Equipotential Lines</title>
+		<caption>Diagram of equipotential lines for an unknown charge distribution.</caption>
+		<image source="elec/eq-graph-1.png" width = "50%" ></image>
+	</figure>
   
+	<exploration>
+		<title>Equipotential Graph</title>
+		<statement>
+			<p>
+				The figure above shows a map of equipotential lines. The potential values for lines a, b, and c are 10 V, 20 V and 30 V respectively. If you release an electron on equipotential line b, which direction will it move?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				Toward c.
+			</p>
+		</answer>
+	</exploration>
+
+	<figure xml:id="bs-eq-graph-2">
+		<title>Equipotential Lines around Conductors</title>
+		<caption>Diagram of equipotential lines around two charged conductors.</caption>
+		<image source="elec/eq-graph-2.png" width = "50%" ></image>
+	</figure>
+
+	<exploration>
+		<title>Equipotential Lines around Conductors</title>
+		<statement>
+			<p>
+				 The sketch above shows equipotential lines (which are cross-sections of equipotential surfaces) between two charged conductors (shown in solid black).  Various points on the equipotential lines near the conductors are labeled A, B, C, …, I.  Each question regarding this situation has one correct answer.
+			</p>
+			<ol>
+				<li>
+					<p>
+						Which conductor is positively charged?
+					</p>
+				</li>
+				<li>
+					<p>
+						At which of the labeled points does the electric field have the greatest magnitude? 
+					</p>
+				</li>
+				<li>
+					<p>
+						At which of the labeled points would an electron have the greatest potential energy?
+					</p>
+				</li>
+				<li>
+					<p>
+						What is the potential difference between points B and E? 
+					</p>
+				</li>
+				<li>
+					<p>
+						What is the direction of the electric field at B?
+					</p>
+				</li>
+				<li>
+					<p>
+						A positive point charge is placed, initially at rest, at F.  When it is released, what happens to the motion of the point charge?
+					</p>
+				</li>
+			</ol>
+		</statement>
+		<answer>
+			<p>
+				R
+			</p>
+		</answer>
+		<answer>
+			<p>
+				I
+			</p>
+		</answer>
+		<answer>
+			<p>
+				H
+			</p>
+		</answer>
+		<answer>
+			<p>
+				50 V
+			</p>
+		</answer>
+		<answer>
+			<p>
+				Toward D.
+			</p>
+		</answer>
+		<answer>
+			<p>
+				A force will cause it to move toward H.
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration>
+		<title>Zero Electric Potential</title>
+		<statement>
+			<p>
+				If the electric potential value at a point in space is zero, does that mean the electric field value at that point must be zero, as well? Explain.
+			</p>
+		</statement>
+		<answer>
+			<p>
+				No.  At each point, the electric field value is proportional to the change in electric potential value (compared to a nearby point).
+			</p>
+		</answer>
+	</exploration>
 	
+	<exploration>
+		<title>Voltmeter</title>
+		<statement>
+			<p>
+				The electric field in a certain region of space is a consistent value of <m>\vec{E} = (-8 \ \mathrm{N}/\mathrm{C})\hat{x}</m>.  Suppose you place the probes of a voltmeter along the x-axis, 2.00 cm apart, in that region.  What is the magnitude of the reading on the voltmeter?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				0.16 V
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration>
+		<title>Electrostatic Equilibrium</title>
+		<statement>
+			<p>
+				Consider a piece of metal (a conductor) that has come to electrostatic equilibrium in a steady, external electric field. Which of the following statements are true?
+			</p>
+			<ol>
+				<li>
+					<p>
+						The electric potential everywhere on a conductor is the same value.
+					</p>
+				</li>
+				<li>
+					<p>
+						The net electric field inside the conductor is zero. 
+					</p>
+				</li>
+				<li>
+					<p>
+						The net electric field outside the conductor is not zero.
+					</p>
+				</li>
+				<li>
+					<p>
+						The external electric field polarizes the free electrons in the metal, generating an internal electric field that opposes and cancels out the external field.
+					</p>
+				</li>
+			</ol>
+		</statement>
+		<answer>
+			<p>
+				(1), (2), (3), (4)
+			</p>
+		</answer>
+	</exploration>
+
+	<references>
+		<biblio xml:id="ref_boxsand-eq">
+			<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+		</biblio>
+	</references>
 </section>
 
