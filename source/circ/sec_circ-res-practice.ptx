@@ -372,9 +372,45 @@
 		</answer>
 	</exploration>
 
+	<exploration>
+		<title>Shock!</title>
+		<statement>
+			<p>
+				The severity of a shock depends on the magnitude of the current through your body. Would you prefer to be in series or in parallel with a resistance, such as the heating element of a toaster, if you were shocked by it? Explain.
+			</p>
+		</statement>
+		<answer>
+			<p>
+				It would probably be better to be in series because the current will be less than if it were in parallel.
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration>
+		<title>Smallest and Largest Resistances</title>
+		<statement>
+			<p>
+				What are the largest and smallest resistances you can obtain by connecting a 36.0 <m>\Omega</m>, a 50.0 <m>\Omega</m>, and a 700 <m>\Omega</m> resistor together?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				Largest: 786 <m>\Omega</m>, Smallest: 20.32 <m>\Omega</m>
+			</p>
+		</answer>
+	</exploration>
+
+
+
 	<references>
 		<biblio xml:id="ref_boxsand-res">
 			<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+		</biblio>
+
+		<biblio>
+			<p>
+				Practice activities provided by Ling, S. J., Moebs, W., &amp; Sanny, J. (2016). Direct-Current Circuits. In University Physics Volume 2. OpenStax.
+			</p>
 		</biblio>
 	</references>
 	

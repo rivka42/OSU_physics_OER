@@ -27,11 +27,62 @@
 		</answer>
 	</exploration>
 
+	<exploration>
+		<title>How many electrons?</title>
+		<statement>
+			<p>
+				How many electrons flow through a point in a wire in 3.00 s if there is a constant current of I = 4.00 A?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				<m>7.5 \times 10^{19}</m> electrons
+			</p>
+		</answer>
+	</exploration>
 	
+	<exploration>
+		<title>Current</title>
+		<statement>
+			<p>
+				The quantity of charge through a conductor is modeled as <m>Q(t) = (4.0 \frac{\mathrm{C}}{\mathrm{s}^4}t^4 - (1.0 \frac{\matrhm{C}}{\mathrm{s}})t + 6.0 \mathrm{mC}</m>. What is the current at time t = 3.0 s?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				0.431 A
+			</p>
+		</answer>
+	</exploration>
+
+	<figure xml:id="os-junction">
+		<title>Junction</title>
+		<caption>Junction with three incoming current branches.</caption>
+		<image source="circ/junction.jpg" width = "50%" ></image>
+	</figure>
+	<exploration>
+		<title>Junction</title>
+		<statement>
+			<p>
+				Can all of the currents going into the junction shown above be positive? Explain.
+			</p>
+		</statement>
+		<answer>
+			<p>
+				No. At least one current must leave the junction, and at least one must enter the junction.
+			</p>
+		</answer>
+	</exploration>
   
 	<references>
 		<biblio xml:id="ref_boxsand-circ">
 			<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+		</biblio>
+
+		<biblio>
+			<p>
+				Practice activities provided by Ling, S. J., Moebs, W., &amp; Sanny, J. (2016). Current and Resistance, Direct-Current Circuits. In University Physics Volume 2. OpenStax.
+			</p>
 		</biblio>
 	</references>
 </section>

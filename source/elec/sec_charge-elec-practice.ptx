@@ -159,10 +159,49 @@
 		</answer>
 	</exploration>
 
+	<exploration>
+		<title>Charge on a Penny</title>
+		<statement>
+			<p>
+				A 2.5-g copper penny is given a charge of <m>-2.0 \times 10^{-9} \ \mathrm{C}</m>.
+			</p>
+			<ol>
+				<li>
+					<p>
+						How many excess electrons are on the penny?
+					</p>
+				</li>
+				<li>
+					<p>
+						By what percent do the excess electrons change the mass of the penny?
+					</p>
+				</li>
+			</ol>
+		</statement>
+		<answer>
+			<p>
+				<m>1.137 \times 10^{10}</m> electrons
+			</p>
+		</answer>
+		<answer>
+			<p>
+				<m>4.545 \times 10^{-16} \%</m>
+			</p>
+		</answer>
+	</exploration>
+
 	<references>
 		<biblio xml:id="ref_boxsand-charge">
 			<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
 		</biblio>
+	
+		<biblio>
+			<p>
+				Practice activities provided by Ling, S. J., Moebs, W., &amp; Sanny, J. (2016). Electric Charges and Fields. In University Physics Volume 2. OpenStax.
+			</p>
+		</biblio>
 	</references>
+
+	
 
 </section>

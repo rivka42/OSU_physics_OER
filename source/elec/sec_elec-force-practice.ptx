@@ -229,6 +229,26 @@
 		</answer>
 		
 	</exploration>
+
+	<figure xml:id="fig-charged-balls">
+		<title>Charged Balls</title>
+		<caption>Two charged balls attached to strings.</caption>
+		<image source="elec/charged-balls.jpg" width = "35%"  description="Two small balls are attached to threads which are in turn tied to the same point on the ceiling. The threads hang at an angle of 5.0 degrees to either side of the vertical. Each ball has a charge Q."></image>
+	</figure>
+
+	<exploration>
+		<title>Charged Balls on Strings</title>
+		<statement>
+			<p>
+				Two small balls, each of mass 5.0 g, are attached to silk threads 50 cm long, which are in turn tied to the same point on the ceiling, as shown below. When the balls are given the same charge Q, the threads hang at <m>5.0^\circ</m> to the vertical, as shown above. What is the magnitude of Q? What are the signs of the two charges?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				<m>Q = 6.1 \times 10^{-8} \ \mathrm{C}</m>. The charges can be positive or negative, but both have to be the same sign.
+			</p>
+		</answer>
+	</exploration>
 	<!--
 		<exploration xml:id="psa_elec-alpha8">
 	<title>Charge</title>
@@ -276,6 +296,13 @@
 		<biblio xml:id="ref_boxsand-elec-force">
 			<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
 		</biblio>
+
+		<biblio>
+			<p>
+				Practice activities provided by Ling, S. J., Moebs, W., &amp; Sanny, J. (2016). Electric Charges and Fields. In University Physics Volume 2. OpenStax.
+			</p>
+		</biblio>
+
 	</references>
 	
 </section>

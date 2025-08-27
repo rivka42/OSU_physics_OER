@@ -13,7 +13,81 @@
 	<m> \mathrm{~}</m>
 	-->
 
-	
+	<exploration>
+		<title>Flux Through a Rectangle</title>
+		<statement>
+			<p>
+				A rectangular surface measures 2.0 m x 4.0 m and lies in the xy-plane. Find the electric flux through the surface if the E-field is given by: <m>\vec{E} = (2.0 \hat{x} - 3.0 \hat{z}) \frac{\mathrm{N}}{\mathrm{C}}</m>
+			</p>
+		</statement>
+		<answer>
+			<p>
+				<m>\Phi_E = -24 \frac{\mathrm{Nm}^2}{\mathrm{C}}</m>
+			</p>
+		</answer>
+	</exploration>
+
+	<figure xml:id="fig-charges-surfaces">
+		<title>Charges in Surfaces</title>
+		<caption>Charges in Gaussian surfaces.</caption>
+		<image source="elec/chargesSurfaces.jpg" width = "35%" ></image>
+	</figure>
+
+	<exploration>
+		<title></title>
+		<statement>
+			<p>
+				Which rectangular Gaussian Surface in the figure above has the greatest total flux?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				A.
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration>
+		<title>Gauss's Law for a Dipole</title>
+		<statement>
+			<p>
+				Would Gauss's law be helpful for determining the electric field of a dipole? Why?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				No. Gauss's Law tells us that the net electric flux through a surface is equal to the charge enclosed (divided by <m>\epsilon_o</m>). To use Gauss's Law, you need to take advanage of the symmetry of the charge distribution. If a Gaussian surface is drawn around both charges, the charge enclosed is zero, so the net flux is zero. There is not a useable symmetry for the dipole.
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration>
+		<title>Different Gaussian Surfaces</title>
+		<statement>
+			<p>
+				Two concentric spherical surfaces enclose a point charge q. The radius of the outer sphere is twice that of the inner one. Compare the electric fluxes crossing the two surfaces.
+			</p>
+		</statement>
+		<answer>
+			<p>
+				Since the electric field has a <m>1/r^2</m> dependence, the fluxes are the same since <m>A = 4\pi r^2</m>.
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration>
+		<title>Net Electric Flux</title>
+		<statement>
+			<p>
+				A point charge of  10 <m>\mu</m>C is at an unspecified location inside a cube of side 2 cm. Find the net electric flux though the surfaces of the cube.
+			</p>
+		</statement>
+		<answer>
+			<p>
+				<m>\Phi_E = 1.13 \times 10^{6} \ \frac{\mathrm{Nm}^2}{\mathrm{C}}</m>
+			</p>
+		</answer>
+	</exploration>
 	<!--
 	
 		<exploration xml:id="psa_elec-alpha7">
@@ -67,7 +141,17 @@
 	</exploration>
 	
 	-->
-  
+  	<references>
+		<biblio xml:id="ref_khadley-gauss">
+			<p>Practice activities provided by Kathy Hadley: http://khadley.com/Courses/Physics/ph_213/topics/gauss/.</p>
+		</biblio>
+
+		<biblio>
+			<p>
+				Practice activities provided by Ling, S. J., Moebs, W., &amp; Sanny, J. (2016). Electric Potential, Gauss's Law. In University Physics Volume 2. OpenStax.
+			</p>
+		</biblio>
+	</references>
 	
 </section>
 
