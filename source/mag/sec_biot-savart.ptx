@@ -12,7 +12,14 @@
 		<statement>
 			<p>The <term>magnetic field</term> created by a moving electric charge is given by <me>\vec{B} = \frac{\mu_o}{4\pi}\frac{q\vec{v} \times \hat{r}}{r^2}</me> where <m>\vec{v}</m> is the velocity of the moving charge and <m>\vec{r}</m> is the distance from the moving charge to the position where you are determining the magnetic field.</p>
 		</statement>
-	</definition>	
+	</definition>
+	
+	<p>
+		A moving charged particle creates a magnetic field, given by the equation above. The magnetic field has units of Teslas (T): <me>
+			\mathrm{T} = \frac{N}{Am}
+		</me>
+		The Biot-Savart Law is a vector equation, and we can find the direction of the magnetic field produced by a moving charged particle by using the right hand rule.
+	</p>
 	
 	<exercises>
 		<title>Activities</title>
@@ -65,5 +72,11 @@
 		</exercise>	
 	</exercises>
 	
+	<references>
+		<biblio xml:id="ref_khadley-biot">
+			<p>Content provided by Kathy Hadley: http://khadley.com/Courses/Physics/ph_213/topics/Bfield/.</p>
+		</biblio>
+	</references>
+
 </section>
 

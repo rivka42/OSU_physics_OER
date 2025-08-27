@@ -173,9 +173,57 @@
 		</answer>
 	</exploration>
 
+	<exploration>
+		<title>Strength of the Electric Field</title>
+		<statement>
+			<p>
+				What is the strength of the electric field in a region where the electric potential is constant?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				The electric field strength is zero because electric potential differences are directly related to the field strength. If the potential difference is zero, then the field strength must also be zero.
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration>
+		<title>Building Hydrogen</title>
+		<statement>
+			<p>
+				To form a hydrogen atom, a proton is fixed at a point and an electron is brought from far away to a distance of <m>0.529 \times 10^{-10} \ \mathrm{m}</m>, the average distance between proton and electron in a hydrogen atom. How much work is done?
+			</p>
+		</statement>
+		<answer>
+			<p>
+				<m>4.35 \times 10^{-18} \ \mathrm{J}</m>
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration>
+		<title>Equivalence of Units</title>
+		<statement>
+			<p>
+				Show that units of V/m and N/C for electric field strength are indeed equivalent.
+			</p>
+		</statement>
+		<answer>
+			<p>
+				<m>1 \ \mathrm{V} = 1 \ \frac{J}{C}</m>; <m>1 \ \mathrm{J} = 1 \ \mathrm{Nm} \rightarrow 1 \ \frac{\mathrm{V}}{\mathrm{m}} = 1 \ \frac{\mathrm{N}}{\mathrm{C}}</m>
+			</p>
+		</answer>
+	</exploration>
+
 	<references>
 		<biblio xml:id="ref_boxsand-eq">
 			<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+		</biblio>
+
+		<biblio>
+			<p>
+				Practice activities provided by Ling, S. J., Moebs, W., &amp; Sanny, J. (2016). Electric Potential. In University Physics Volume 2. OpenStax.
+			</p>
 		</biblio>
 	</references>
 </section>
