@@ -43,14 +43,41 @@ A binomial is, as the word implies, two numbers added together and sometimes rai
 	<me> (1+x)^n \approx 1+nx+ \frac{n(n-1)}{2}x^2+ ...</me> 
 	
 Where the term <m> nx</m> is called the first order term, and the term containing the <m> x^2</m> is called the second order term and so on. 
+
+ <figure xml:id="binomial_graph">
+		<title>Graphical representation of Binomial Approximation</title>
+    	<caption>A visualization of the binomial <m>(1+x)^2</m> and it's binomial approximation to first order <m> (1+x)^2 \approx 2x </m>. </caption>
+    		<image source="elec/binomial_graph.png" width = "80%" ></image>
+    </figure>
+
 	</p> 
 
 			
 	<exercises>
 		<title>Activities</title>
+				<exercise>
+		<title>Exploring Approximation Techniques with Desmos</title>
+		<p> 
+		To understand the usefulness of approximation techniques it is helpful to explore the graph of the function we wish to approximate and the graph of the approximation function to see how they compare. If you are unfamiliar with Desmos, here is a tutorial on getting started with their graphing calculator.
+		<url href="https://help.desmos.com/hc/en-us/articles/4406040715149-Getting-Started-Desmos-Graphing-Calculator#h_01HSTWT4QGE8CCPQH2G6JSFSDM">Desmos Tutorial ></url> 
+		</p> 
+		<ol>
+		<li>
+		Navigate to the Binomial Approximation Desmos simulation. Set <m> n=2 </m> and <m> Order = 0</m>. What type of function does <m> n=2 </m> correspond to? Describe the approximated function in words and symbols. Do the two functions overlap at any point? Over what range do they appear to overlap?
+	<url href="https://www.desmos.com/calculator/vyxit0fwat">Binomial Approximation Simulation ></url> 	
+		</li>
+		<li>
+		Now, change <m> Order = 1</m>. Describe the approximated function in words and symbols. Do the two functions overlap at any point? Over what range do they appear to overlap? Do the functions overlap more or less than before?
+		</li>
+		<li>
+	Continue to increase the order of the approximation. What is happening as the order of the approximation gets very large?
+		</li>
+		</ol>
+		</exercise>
+
 		<exercise>
 			<title>Approximation Techniques</title>
-			  <p>Consider an expression for the electric on the y-axis of a coordinate system due to a set of two positive charges <me> \vec{E}(y) = \frac{q}{4 \pi \epsilon_0} \frac{2y}{(y^2 +(d/2)^2)^{3/2}} \hat{y}</me> 
+			  <p>Consider the expression for the electric field on the y-axis of a coordinate system due to a set of two positive charges <me> \vec{E}(y) = \frac{q}{4 \pi \epsilon_0} \frac{2y}{(y^2 +(d/2)^2)^{3/2}} \hat{y}</me> 
 			  where <m> d </m> is the separation between the charges. If we move very far away from the charges such that <m> y \gg d </m> we could expect to recover the electric field of a single point charge with charge <m> 2q</m>. 
 			  <ol>
 			  <li>
@@ -62,11 +89,19 @@ Use an approximation to <em> first order </em> in the small dimensionless quanti
 Approximating to first order is sometimes referred to as <em> linearizing </em> the equation.  
 			   </li>
 			   </ol> 
-Note: Assuming <m> y \gg d </m> is very reasonable in the case of say, observing the field of a helium nucleus (often called an alpha particle) where the separation distance between the two protons is around <m> 1.0 \times 10^{-15} \mathrm{m} </m>. However, this approximation is valid if the two lengths are around three to four <em> orders of magnitude </em>  different. 
+Note: Assuming <m> y \gg d </m> is very reasonable in the case of say, observing the field of a helium nucleus (often called an alpha particle) where the separation distance between the two protons is around <m> 1.0 \times 10^{-15} \mathrm{m} </m>. However, this approximation is generally valid if the two lengths being compared are around three to four <em> orders of magnitude </em>  different. 
 
 			  </p>
 		</exercise>
+		
 	</exercises>
+	
+		<references>
+        <biblio xml:id="ref_binomial_approx">
+            <p>Binomial Approximation Desmos Simulation created by Learning Assistant Jaden Baran-Kamoura, Spring 2025. </p>
+        </biblio>
+    </references>
+
 
 </section>
 

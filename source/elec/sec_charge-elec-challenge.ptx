@@ -78,6 +78,37 @@ As part of your explanation, you should include and use the following:
 		    <p></p>
 		</solution>-->
 	</investigation>
+	
+	<project>
+	        <title>A Charged Spring</title>
+		<statement>
+		    <p>A massless Spring is attached to a support at one end and has a <m> 2.0</m>  <m> \mu C</m> charge glued to the other end. A <m> 4.0</m>  <m> \mu C</m>  charge is slowly brought near. The spring has stretched <m> 1.2 </m>  <m> cm</m> when the charges are <m> 2.6</m>  <m> cm</m> apart. What is the spring constant of the spring?</p>
+		</statement>
+			</project>
+			
+			<project>
+	        <title>Electric Field Components</title>
+		<statement>
+		    <p>The electric field at a point in space due to a nearby collection of charges is <m> \vec{E} = 400 \hat{x} + 100 \hat{y}</m>  <m> N/C </m>. 
+		    <ol>
+		    <li>
+		    What is the electric force on a proton if placed at this point? Give your answer in component form. 
+		    </li>
+		     <li>
+		     What is the electric force on an electron if placed at this point? Give your answer in component form.  
+		    </li>
+		      <li>
+		    What is the magnitude of the acceleration of a proton if placed at this point?		    
+		    </li>
+		     <li>
+		    What is the magnitude of the acceleration of an electron if placed at this point?		    
+		    </li>
+
+		    </ol>
+		    </p>
+		</statement>
+			</project>
+
   
 	
 </section>
