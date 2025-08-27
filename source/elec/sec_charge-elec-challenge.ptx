@@ -108,6 +108,72 @@ As part of your explanation, you should include and use the following:
 		    </p>
 		</statement>
 			</project>
+			
+				<project>
+	        <title>A Hydrogen Atom</title>
+		<statement>
+		    <p>In a simple model of the hydrogen atom, the electron moves in a circular orbit of a radius <m> 0.053</m>  <m>nm</m> around a stationary proton. How many revolutions per second does the electron make?</p>
+		</statement>
+			</project>
+			
+							<project>
+	        <title>Torque on an Electric Dipole </title>
+		<statement>
+		    <p>An electric dipole consists of two opposite charges <m> \pm q</m>  separated by a small distance <m> d</m>.  The product <m> p=qd</m>  is called the <em> dipole moment</em>. The figure below shows an electric dipole perpendicular to an electric field <m> \vec{E}</m>. Determine an expression in terms of p and E for the magnitude of the torque that the electric field exerts on the dipole. </p>
+		    <figure xml:id="dipole_torque">
+		<title>A dipole in an electric field. </title>
+    	<caption>A dipole in an electric field. </caption>
+    		<image source="elec/dipole_torque.png" width = "80%" ></image>
+</figure>
+
+		    
+		</statement>
+			</project>
+
+							<project>
+	        <title>Charged Pendulum </title>
+		<statement>
+		    <p> 
+		    	Two <m> 5.0</m>  <m> g</m>  point charges on <m> 1.0</m>  <m> m</m> long threads are charged to  <m> +100.0</m>  <m> nC</m>. Determine the unknown angle <m> \theta</m>.  You can assume that <m> \theta</m> is a small angle. 
+		    </p>
+		    <figure xml:id="charge_pendulum">
+		<title>Charged Pendulum </title>
+    	<caption>A charged pendulum. </caption>
+    		<image source="elec/charge_pendulum.png" width = "80%" ></image>
+</figure>
+
+		</statement>
+			</project>
+
+
+						<project>
+	        <title>Launching an Electron</title>
+		<statement>
+		    <p> 
+		    	An electron is launched at a <m> 45^{\circ} </m> angle and a speed of <m> 5.0×10^6</m>  <m> m/s</m> from the positive plate of the parallel-plate capacitor shown below. The electron lands <m> 4.0 </m>  <m> cm</m> away. 
+		   </p>
+		    <ol>
+		    <li>
+		  Determine the electric field inside the parallel place capacitor. Hint: are there approximations that are useful here?
+		    </li>
+		       <li>
+		What is the minimum spacing <m> d </m> between the plates for the electron to land <m> 4.0 </m>  <m> cm</m> away?	    
+		</li>
+
+		    </ol>
+		    <figure xml:id="electron_launch">
+		<title>An electron Launched in a Capacitor</title>
+    	<caption>An electron Launched in a Capacitor. </caption>
+    		<image source="elec/electron_launch.png" width = "80%" ></image>
+</figure>
+
+
+		    
+		</statement>
+			</project>
+
+
+			
 
   
 	

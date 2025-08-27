@@ -36,15 +36,22 @@ Determine the bounds of integration. We need to sum over all the <em> charges </
 	<exercises>
 	<title>Warm-up Activities</title>
 		<exercise>
+				<title>Force Integral</title>
+
 			<p>Suppose your friend has used an integral to solve a physics problem for the force on a metal plate: <me>F = \int_{-1}^{1}\int_{0}^{10}\left( P_0 + \rho gy\right)dydx</me> What does the plate look like? Explain how you can tell from the integral expression.</p>
+			<ol> 
+			
+			<li>
+			What physical quantity does the integrand <m>\left( P_0 + \rho gy\right)</m> represent? Describe how you can tell.
+			</li>
+			
+			<li>
+			Why does this integral do what your friend wants it to do (find the force on a metal plate)? Why do you think your friend had to use an integral?
+			</li>
+		
+			</ol>
 		</exercise>
-		<exercise>
-			<p>What physical quantity does the integrand <m>\left( P_0 + \rho gy\right)</m> represent? Describe how you can tell.</p>
-		</exercise>
-		<exercise>
-			<p>Why does this integral do what your friend wants it to do (find the force on a metal plate)? Why do you think your friend had to use an integral?</p>
-		</exercise>
-	</exercises>
+		</exercises>
 		
 	<p>Watch the video for a discussion of the most common questions about integrals in physics.</p>
 		
@@ -52,18 +59,95 @@ Determine the bounds of integration. We need to sum over all the <em> charges </
 
 	<exercises>
 		<title>Activities</title>
-		<p>In a course you took previously, you learned that the moment of inertia for a point object is <m>I = mr^2</m>, where <m>r</m> is the perpendicular distance between the object and the axis of rotation.</p>
-		<exercise>
+		
+				<exercise>
+			<title>Moment of Inertia</title>
 			<statement>
-			  	<p>Explain why the integral <m>I = \int_{0 \text{ m}}^{1.2 \text{ m}} x^2 \lambda dx</m> will give the moment of inertia for your stick if you hold it at one end and swing it in a horizontal circle.</p>
-			</statement>
-			<hint>
+			<p>
+In a course you took previously, you learned that the moment of inertia for a point object is <m>I = mr^2</m>, where <m>r</m> is the perpendicular distance between the object and the axis of rotation.
+
+			<ol> 
+			<li>
+			Explain why the integral <m>I = \int_{0 \text{ m}}^{1.2 \text{ m}} x^2 \lambda dx</m> will give the moment of inertia for your stick if you hold it at one end and swing it in a horizontal circle.
+						<hint>
 				<p>One way to think about an integral is as a tool for calculating a sum.  If you want to know how many apples are on a tree, one way is to divide the tree into ten sections, count the number of apples in each section, and then add them.  However, we often want to add up things that are hard to count.  An integral is like chopping up the tree into a <em>very large number</em> of sections that are <em>very small</em>, counting the number of apples in each section, and then adding them all up.  The <m>dx</m> in an integral represents the size of one of the sections, while the integrand (the rest of the symbols inside the integral symbol) tell you how much of the thing you are counting is in one of those sections, per unit length.  Importantly, each of the small sections might have a <em>different amount</em> of whatever you are counting.</p>
 			</hint>
+
+			</li>		
+                         <li>
+			Your friend has a board that is the same length as your stick (1.2 m), but that has a linear mass density that is <em>not</em> uniform: <m>\lambda(x) = 0.8 \text{ kg/m} + 0.3 x \text{ kg/m^2}</m>.  What does the board look like (<em>i.e.,</em> how is the mass distributed)?
+			</li>
+			</ol>
+			</p>
+		</statement>
+	
 		</exercise>
+
+		
 		<exercise>
-			<p>Your friend has a board that is the same length as your stick (1.2 m), but that has a linear mass density that is <em>not</em> uniform: <m>\lambda(x) = 0.8 \text{ kg/m} + 0.3 x \text{ kg/m^2}</m>.  What does the board look like (<em>i.e.,</em> how is the mass distributed)?</p>
+			<title>Line of charge</title>
+			<statement>
+			<p>
+Consider a very thin wire of length <m> L</m> that had had total charge <m> Q</m> added to its surface.
+			<ol> 
+			<li>
+Find an expression for the electric field at the point <m> P </m> on the axis and at a distance <m> r</m> from the center of the wire. Check that the units of your expression make sense. 						<hint>
+				<p>Use the steps outlined above to set up an electric field integral.</p>
+			</hint>
+
+			</li>		
+                         <li>
+Verify that your expression has the expected behavior if <m> r \gg L</m>. Check the units of your expression and apply sensemaking to your result. 
+			<hint>
+				<p>Use an appropriate approximation technique.</p>
+			</hint>
+			</li>
+
+			<li> 
+			Evaluate your expression for the electric field at <m> r=3.0</m>  <m>cm</m> if <m> L=5.0</m>  <m> cm</m>  and <m> Q=3.0</m>  <m> nC</m> and compare to the value you get from the approximation. What is the percent difference between the two values? Why do you think you get the result that you do? What happened? 
+			</li>
+		
+			</ol>
+		<figure xml:id="line_charge_axis">
+		<title>Line of Charge</title>
+    	<caption>Line of charge. </caption>
+    		<image source="elec/line_charge_axis.png" width = "80%" ></image>
+</figure>
+
+			</p>
+		</statement>
+	
 		</exercise>
+		
+		
+				<exercise>
+			<title>Semicircle of Charge</title>
+			<statement>
+			<p>
+Consider a thin wire of length <m> L </m> that has total charge <m> Q </m> evenly distributed along its length. The rod is then bent into the semicircle with radius <m> R</m>. 			
+			<ol> 
+			<li>
+Find an expression for the electric field at the center point. 			
+			<hint>
+				<p>Use the steps outlined above to set up an electric field integral, but also consider what coordinate system matches the geometry of the problem. How is arc-length related to angle and radius?</p>
+			</hint>
+			</li>	
+			 <li>
+			 Check the units of your expression and apply sensemaking to your result. 	
+			</li>
+
+			</ol>
+		<figure xml:id="semicirc_charge">
+		<title>Semicircle fo charge</title>
+    	<caption>Semicircle fo charge. </caption>
+    		<image source="elec/semicirc_charge.png" width = "40%" ></image>
+</figure>
+
+			</p>
+		</statement>
+	
+		</exercise>
+
 	</exercises>
 	
 </section>
