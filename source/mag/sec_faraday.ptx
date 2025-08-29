@@ -22,7 +22,12 @@
 		<table>
   <title>Example Magnetic Induction Table</title>
   <tabular halign="center">
-    <row header="no" bottom="minor" >
+    <row header="yes" bottom="minor" >
+      <cell>Quantity</cell>
+      <cell>Direction or Sign</cell>
+      <cell>Magnitude</cell>
+    </row>
+    <row>
       <cell><m>\vec{A}</m></cell>
       <cell>Out</cell>
       <cell><m>xy</m></cell>
