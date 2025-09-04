@@ -60,6 +60,84 @@ What do you expect the field to look like if you move very far up the y-axis suc
 				
 		</p> 
 		</exercise>
+
+		<exercise>
+			<title>Spreading out Charges</title>
+			<p>
+				A wire has four positive point charges located as shown in the figure below.
+			</p>
+
+			<figure xml:id="spread-out-charge">
+				<title>Charge on a wire.</title>
+    			<caption>Four charges of charge <m>+q</m> are evenly distributed on a wire.</caption>
+    			<image source="elec/spread-out-charge.png" width = "60%" ></image>
+    		</figure>
+			<ol>
+				<li>
+					<p>
+						What is the total charge on the wire?
+					</p>
+				</li>
+				<li>
+					<p>
+						Suppose the wire were placed in a uniform electric field, <m>\vec{E} = E_o \hat{y}</m>. What is the net force on the wire?
+					</p>
+				</li>
+				<li>
+					<p>
+						Imagine that the total charge on the wire was instead spread uniformly across the wire, from left to right. Does the net force change?
+					</p>
+				</li>
+				<li>
+					<p>
+						Now imagine that the total charge was instead spread nonuniformly: much more charge on the right edge of the wire than the left edge. How does your strategy for finding the net force need to change?
+					</p>
+				</li>
+			</ol>
+			<answer>
+				<p>
+					<ol>
+						<li>
+							<p>
+								The total charge is <m>+4q</m>. You can simply add up the charges!
+							</p>
+						</li>
+						<li>
+							<p>
+								The electric force is <m>\vec{F}^E = q \vec{E}</m>. The total charge on the wire is <m>+4q</m>, so the force is <m>\vec{F}^E = (+4q)E_o \hat{y}</m>.
+							</p>
+						</li>
+						<li>
+							<p>
+								The net force does not change. The same amount of charge is evenly distributed across the wire, just like before (but in smaller chunks of charge), so the force does not change.
+							</p>
+						</li>
+						<li>
+							<p>
+								We must integrate the force! <me>
+									\vec{F} = q\vec{E}
+								</me>
+								<me>
+									d\vec{F} = \vec{E}dq
+								</me>
+								Using the linear charge density, we rewrite <m>dq</m>:
+								<me>
+									d\vec{F} = \vec{E} \lambda(x) dx
+								</me>
+								Integrating both sides of this expression: <me>
+									\vec{F} = \int \vec{E} \lambda(x) dx
+								</me>
+								Since the electric field doesn't change along x, it can be pulled out of the integral:
+								<me>
+									\vec{F} = \vec{E} \int \lambda(x) dx
+								</me>
+								The integral of <m>\lambda(x)dx</m> gives you the total charge. It turns out, the electric force is the same, because the electric field is uniform and the total charge remained the same! 
+							</p>
+						</li>
+					</ol>
+				</p>
+			</answer>
+		</exercise>
 		
 		
 		
