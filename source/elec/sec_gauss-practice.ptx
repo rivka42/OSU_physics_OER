@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_gauss-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Practice - Gauss's Law</title>
+  <title>Practice - Symmetry</title>
 	
 	<!--
 	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
@@ -34,7 +34,7 @@
 	</figure>
 
 	<exploration>
-		<title></title>
+		<title>Greatest Total Flux</title>
 		<statement>
 			<p>
 				Which rectangular Gaussian Surface in the figure above has the greatest total flux?

@@ -3,7 +3,11 @@
 <section xml:id="sec_vector-maps" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Electric Field Vector Maps</title>
 
-	  <p>Electric field vector maps offer us another way to visualize what the field might look like in space:</p>
+	  	<p>
+Electric fields exist in three dimensions of space around any charge or charge distribution. One of the major conceptual difficulties when first encountering the idea of electric fields, is that interacting with the field through our primary senses of sight, sound and touch is not possible. Electric and gravitational fields are invisible, and we can really only measure their effect on other objects through the forces they exert or through indirect measurement of the <em> potential difference </em>, a subject for a later chapter. 
+</p>
+
+	  <p>Electric field vector maps offer us a way to visualize what the field might look like in space:</p>
 		
     <video youtube="jeeEzBA2tOw"><description>Introducing electric field vector maps.</description></video>
 				

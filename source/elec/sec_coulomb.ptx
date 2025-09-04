@@ -2,10 +2,12 @@
 
 <section xml:id="sec_coulomb" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Coulomb's Law</title>
+
+	<p>
+	The force between two point charges was experimentally observed and measured in 1785 by the French scientist, Charles Augustin Coulomb. This force is referred to as Coulomb's Law:
+	</p>
 		
     <video youtube="sXcW08Afy-o"><description>Introducing Coulomb's Law.</description></video>
-	
-	<p>Recall the definition of the electric field due to a <xref ref="point_charge"/>.</p>
 	
 	<definition>
 		<title>Coulomb's Law</title>

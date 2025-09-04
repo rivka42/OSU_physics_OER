@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 
 <chapter xml:id="ch_gauss" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Gauss's Law</title>
+  <title>Symmetry</title>
 	<introduction>
-    <p> In this chapter you will learn about Gauss's Law.</p>
+    <p> In this chapter you will learn about symmetry and Gauss's Law.</p>
 	
 	<p><alert>Learning Outcomes</alert></p>
   

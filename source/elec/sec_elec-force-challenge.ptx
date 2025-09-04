@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_elec-force-challenge" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Challenge - Electric Force</title>
+  <title>Challenge - Charge Distributions</title>
 	
 	<!--
 	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
@@ -57,19 +57,6 @@
 		    <p></p>
 		</solution>-->
 	</project>
-	
-	<project xml:id="study_elec-06">
-        <title>Charge on a Spring</title>
-		<statement>
-		    <p>An ideal spring has spring constant <m>k_s</m> (to distinguish it from the electrostatic constant <m>k</m>) and equilibrium length <m>l</m>.  Then, you glue two identical negative point charges to the ends of the spring and observe that the equilibrium length doubles.  Determine the amount of charge on each end of the spring.</p>
-		</statement>
-		<!--<hint>
-		    <p></p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>-->
-	</project>
 
 	<investigation xml:id="apply_elec-03">
 		<title>Three Wires</title>
@@ -105,8 +92,144 @@
 		    <p></p>
 		</solution>-->
 	</investigation>
-		
+
+	<investigation xml:id="study_elec-02">
+		<title>Charged Wires</title>
+		<statement>
+			<p>A charged wire has one end at <m>x = –L</m> and the other end at <m>x = L</m>.  The wire has a known, non-uniform charge density <m>\lambda(x) = \frac{q_o}{L^2}  x</m>.  You have an electric field generator that can make different electric fields, but when you set it to create a uniform electric field you find that the net force on the wire is 0!  Which of the following alternate settings for your electric field generator would result in a nonzero net force on the wire?
+				<me>\vec{E}_1 = - E_o\frac{x}{L}\hat{y}</me>
+				<me>\vec{E}_2 = - E_o\left(\frac{x}{L}\right)^2 \hat{y}</me>
+</p>
+		</statement>
+				<!--<hint>
+		    <p></p>
+		</hint>
+		<solution>
+		    <p></p>
+		</solution>-->
+	</investigation>
+	
+	<investigation xml:id="apply_elec-02">
+		<title>Three Electric Fields</title>
+		<statement>
+			<p>A charged wire has one end at <m>x = –L</m> and the other end at <m>x = L</m>.  The wire has a known, non-uniform charge density <m>\lambda(x) = \frac{q_o}{L} \cos\left(\frac{\pi x}{2L}\right)</m>.  You have an electric field generator that can make the following three electric fields:
+				<me>\vec{E}_A = E_o\hat{y}</me>
+				<me>\vec{E}_B = E_o\frac{x}{L} \hat{y}</me>
+				<me>\vec{E}_C = E_o\left(\frac{x}{L}\right)^2 \hat{y}</me>
+				Which electric field will give you the smallest net force on the wire?  Which will give you the largest net force on the wire?  (You may calculate the net forces to check your answer, but your explanation should be qualitative.)
+</p>
+<p>
+As part of your explanation, you should include and use the following:
+<ul>
+<li>a charge diagram of the wire showing the charge density, using <m>+</m> and <m>-</m> symbols to represent positive and negative charge</li>
+<li>an electric field vector map for each electric field</li>
+</ul>
+
+</p>
+		</statement>
+				<!--<hint>
+		    <p></p>
+		</hint>
+		<solution>
+		    <p></p>
+		</solution>-->
+	</investigation>
+
+	<project>
+	        <title>Torque on an Electric Dipole </title>
+		<statement>
+		    <p>An electric dipole consists of two opposite charges <m> \pm q</m>  separated by a small distance <m> d</m>.  The product <m> p=qd</m>  is called the <em> dipole moment</em>. The figure below shows an electric dipole perpendicular to an electric field <m> \vec{E}</m>. Determine an expression in terms of p and E for the magnitude of the torque that the electric field exerts on the dipole. </p>
+		    <figure xml:id="dipole_torque">
+		<title>A dipole in an electric field. </title>
+    	<caption>A dipole in an electric field. </caption>
+    		<image source="elec/dipole_torque.png" width = "80%" ></image>
+</figure>
+</statement>
+</project>
+
+<project>
+	        <title>Launching an Electron</title>
+		<statement>
+		    <p> 
+		    	An electron is launched at a <m> 45^{\circ} </m> angle and a speed of <m> 5.0×10^6</m>  <m> m/s</m> from the positive plate of the parallel-plate capacitor shown below. The electron lands <m> 4.0 </m>  <m> cm</m> away. 
+		   </p>
+		    <ol>
+		    <li>
+		  Determine the electric field inside the parallel place capacitor. Hint: are there approximations that are useful here?
+		    </li>
+		       <li>
+		What is the minimum spacing <m> d </m> between the plates for the electron to land <m> 4.0 </m>  <m> cm</m> away?	    
+		</li>
+
+		    </ol>
+		    <figure xml:id="electron_launch">
+		<title>An electron Launched in a Capacitor</title>
+    	<caption>An electron Launched in a Capacitor. </caption>
+    		<image source="elec/electron_launch.png" width = "80%" ></image>
+</figure>
+
+
+		    
+		</statement>
+			</project>
+
+	<figure xml:id="x_point-charges-arc">
+		<title>Point Charges and Arc Figure</title>
+		<caption>A distribution of point charges.</caption>
+		<image source="point-charges-arc.png" width = "35%" ></image>
+	</figure>
+
+<investigation xml:id="study_elec-07">
+		<title>Distributed Charges</title>
+		<statement>
+			<p>In the figure above, the charge on the left is <m>+q_L</m> and the total charge on the right is <m>+q_R</m>.  The charges on the right are all identical and are spread out uniformly along an arc of radius <m>R</m>.  Is the magnitude of the net electric force on <m>+q_L</m> <em>greater than</em>, <em>less than</em>, or <em>equal to</em> <m>k\frac{q_L q_R}{R^2}</m>?
+</p>
+		</statement>
+				<!--<hint>
+		    <p></p>
+		</hint>
+		<solution>
+		    <p></p>
+		</solution>-->
+	</investigation>
+
+	<project xml:id="study_elec-08">
+        <title>Split Wire</title>
+		<statement>
+		    <p>A straight wire with one end at <m>x = –L</m> and the other end at <m>x = +L</m> has a total charge <m>+Q_o</m> distributed uniformly along the right side and total charge <m>-Q_o</m> distributed uniformly along the left side.  Find the electric field at a point on the <m>y</m>-axis a distance <m>a</m> from the center of the wire.</p>
+		</statement>
+		<!--<hint>
+		    <p></p>
+		</hint>
+		<solution>
+		    <p></p>
+		</solution>-->
+	</project>	
   
+	<figure xml:id="x_point-charges-arc2">
+		<title>Point Charges and Arc Figure</title>
+    	<caption>Three cases with different charges.</caption>
+    	<image source="point-charges-arc2.png" width = "100%" ></image>
+	</figure>
+
+<investigation xml:id="apply_elec-05">
+		<title>Charges and Arcs</title>
+<statement>
+			<p>
+			Shown above are three different situations.  In case A, both point charges are negative.  In case B, the left point charge is positive and the right point charge is negative.  In case C, the negative charge is uniformly distributed across the circular arc.  Rank the three situations by the magnitude of the electric field at point P.  (Focus on A vs. B and A vs. C: treat B vs. C as a challenge problem only!)
+</p>
+		</statement>
+	</investigation>
+
+	<project xml:id="apply_elec-06">
+        <title>The End of the Line</title>
+		<statement>
+		    <p>A straight wire with one end at <m>x = -L</m> and the other end at <m>x = +L</m> has a total charge <m>+Q_o</m> distributed uniformly.  Find the electric field at a point on the <m>x</m>-axis a distance a from the center of the wire (where <m>a \gt L</m>).</p>
+		</statement>
+<hint>
+		    <p>Sensemaking suggestion: Evaluate your answer in the special case that <m>a \gt\gt L</m>.</p>
+		</hint>
+	</project>
 	
 </section>
 

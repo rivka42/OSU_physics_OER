@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 
 <chapter xml:id="ch_charge-e-fields" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Charge and Electric Fields</title>
+  <title>Electric Fields</title>
 	<introduction>
     <p> In this chapter you will learn about the fundamental property of charge and electric fields.</p>
 	
@@ -24,17 +24,14 @@
 	<xi:include href="./elec/sec_charging.ptx" />
 	<xi:include href="./elec/sec_charge_prop_materials.ptx" />
 	<xi:include href="./elec/sec_e-field.ptx" />
-	<xi:include href="./elec/sec_e-field_point_charge.ptx" />
-	<xi:include href="./elec/sec_approximate.ptx" />
-	<xi:include href="./elec/sec_e-field_many.ptx" />
-	<xi:include href="./elec/sec_e-field_dipole.ptx" />
-	<xi:include href="./elec/sec_field_lines.ptx" />
 	<xi:include href="./elec/sec_e-field-maps.ptx" />
-	<xi:include href="./elec/sec_charge-density.ptx" />
-	<xi:include href="./elec/sec_charge-diagrams.ptx" />
+	<xi:include href="./elec/sec_field_lines.ptx" />
+
 
 
     <!--PRACTICE SECTIONS-->
+	<xi:include href="./elec/sec_coulomb.ptx" />
+	<xi:include href="./elec/sec_e-field_point_charge.ptx" />
 	<xi:include href="./elec/sec_charge-elec-practice.ptx" />
 
     <!--CHALLENGE SECTIONS-->

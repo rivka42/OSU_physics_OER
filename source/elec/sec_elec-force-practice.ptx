@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_elec-force-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Practice - Electric Force</title>
+  <title>Practice - Charge Distributions</title>
 	
 	<!--
 	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
@@ -13,35 +13,6 @@
 	<m> \mathrm{~}</m>
 	-->
 	
-		<exploration xml:id="psa_elec-alpha5">
-	<title>Proton and Electron</title>
-	<statement>
-		    <p>An electron and a proton are <m>3.00 \mathrm{~\mu m}</m> apart from each other.  What is the magnitude of the electric force by the proton on the electron? </p>
-		</statement>
-		<answer>
-		    <p><m>2.56 \times 10^{-17} \mathrm{~N}</m></p>
-		</answer>
-	</exploration>
-	
-		<exploration xml:id="psa_elec-alpha6">
-	<title>Charged Spheres</title>
-	<statement>
-		    <p>Problem Statement:  Consider two small, charged spheres, <m>q_1</m> and <m>q_2</m>, a distance <m>\Delta x</m> apart.
-				<ol>
-				<li>If <m>\Delta x</m> increases by a factor of <m>16/9</m>, and <m>q_1</m> and <m>q_2</m> remain the same, by what factor does the force between the two change?</li>
-				<li>If <m>\Delta x</m> increases by a factor of <m>4/\sqrt{2}</m>, <m>q_1</m> increases by a factor of <m>2</m>, and <m>q_2</m> increases by a factor of <m>\sqrt{2}</m>, by what factor does the force between the two change? </li>
-				</ol>
- </p>
-		</statement>
-		<answer>
-		    <p>
-				<ol>
-				<li><m>81/256</m></li>
-				<li><m>\sqrt{2}/4</m></li>
-				</ol>
-				</p>
-		</answer>
-	</exploration>
 	
 	<p>
 		For each of the questions in the next activity, consider two charges placed at the locations shown in the image below (the circle is drawn for clarity -- it is imaginary). Let <m>R = 5.0</m> cm, <m>q_1 = 3.0 \ \mu</m>C, and <m>q_2 = 1.0 \ \mu</m>C. Now suppose that a proton is placed at the center of the circle.
@@ -99,153 +70,87 @@
 		</answer>
 	</exploration>
 
+
 	<exploration>
-		<title>Charge in an Electric Field</title>
+		<title>Electric Field of Many Charges</title>
 		<statement>
 			<p>
-				A -3.00 C charge is placed in an external electric field. It is observed that the electric force on this charge is <m>\vec{F} = (9 \mathrm{N}) \hat{x} + (3 \mathrm{N}) \hat{y} + (-6 \mathrm{N}) \hat{z}</m>. What is the external electric field?
+				Consider a negative charge <m>q_1</m> = -9.00 nC that exists in a space far away from other charges. Let the charge <m>q_1</m> lie at the origin of a standard coordinate system. What is the electric field at a point P in space that has coordinates  (2, -3, 6) m?
 			</p>
 		</statement>
 		<answer>
 			<p>
-				<m>\vec{E} = (-3 \mathrm{N/C}) \hat{x} + (-1 \mathrm{N/C}) \hat{y} + (2 \mathrm{N/C}) \hat{z}</m>
+				<m>\vec{E} = (-0.472 \ \mathrm{N}/\mathrm{C})\hat{x} + (0.708 \ \mathrm{N}/\mathrm{C})\hat{y} + (-1.42 \ \mathrm{N}/\mathrm{C})\hat{z}</m>
 			</p>
 		</answer>
 	</exploration>
 
-	<exploration>
-		<title>Electron in an Electric Field I</title>
-		<statement>
-			<p>
-				An electron is traveling in the negative x-direction when an external electric field pointing in the positive x-direction is turned on in that region. Which of the following statements are true about the electron right after the field is turned on?
-			</p>
-			<ol>
-				<li>
-					<p>
-						It experiences a force in the positive x-direction.
-					</p>
-				</li>
-				<li>
-					<p>
-						It experiences a force in the negative x-direction.
-					</p>
-				</li>
-				<li>
-					<p>
-						It travels in the positive x-direction.
-					</p>
-				</li>
-				<li>
-					<p>
-						It travels in the negative x-direction.
-					</p>
-				</li>
-				<li>
-					<p>
-						It accelerates in the positive x-direction.
-					</p>
-				</li>
-				<li>
-					<p>
-						It accelerates in the negative x-direction.
-					</p>
-				</li>
-				<li>
-					<p>
-						It begins to slow down.
-					</p>
-				</li>
-				<li>
-					<p>
-						It starts to speed up.
-					</p>
-				</li>
-			</ol>
-		</statement>
-		<answer>
-			<p>
-				(2), (4), (6), (8)
-			</p>
-		</answer>
-	</exploration>
-
-	<exploration>
-		<title>Electron in an Electric Field II</title>
-		<statement>
-			<p>
-				An electron is traveling with a velocity that has equal positive x and y components.  Suddenly an electric field is turned on in the positive y-direction in this region.  Which of the following statements are true about the electron right after the field is turned on?
-			</p>
-			<ol>
-				<li>
-					<p>
-						It accelerates in the positive x-direction.
-					</p>
-				</li>
-				<li>
-					<p>
-						It accelerates in the negative x-direction.
-					</p>
-				</li>
-				<li>
-					<p>
-						It accelerates in the positive y-direction. 
-					</p>
-				</li>
-				<li>
-					<p>
-						It accelerates in the negative y-direction. 
-					</p>
-				</li>
-				<li>
-					<p>
-						It begins to slow down.
-					</p>
-				</li>
-				<li>
-					<p>
-						It starts to speed up.
-					</p>
-				</li>
-			</ol>
-		</statement>
-		<answer>
-			<p>
-				(4), (5)
-			</p>
-		</answer>
-	</exploration>
-
-	<exploration>
-		<title>Charged Object on Earth</title>
-		<statement>
-			<p>
-				A 4.00 kg object with a net charge of -2.00 C is placed at rest above the surface of the Earth.  There also exists a uniform external electric field of magnitude 3.00 N/C pointing directly downward.  When released, what is the magnitude of the acceleration of this object?
-			</p>
-		</statement>
-		<answer>
-			<p>
-				<m>8.30 \ \mathrm{m}/\mathrm{s}^2</m>
-			</p>
-		</answer>
-		
-	</exploration>
-
-	<figure xml:id="fig-charged-balls">
-		<title>Charged Balls</title>
-		<caption>Two charged balls attached to strings.</caption>
-		<image source="elec/charged-balls.jpg" width = "35%"  description="Two small balls are attached to threads which are in turn tied to the same point on the ceiling. The threads hang at an angle of 5.0 degrees to either side of the vertical. Each ball has a charge Q."></image>
+	<figure xml:id="x_charge-on-square">
+		<title>Point Charges in a Square</title>
+		<caption>Multiple point charges within a square.</caption>
+		<image source="elec/charges-square.png" width = "35%" ></image>
 	</figure>
 
 	<exploration>
-		<title>Charged Balls on Strings</title>
+		<title>Charges in a Square</title>
 		<statement>
 			<p>
-				Two small balls, each of mass 5.0 g, are attached to silk threads 50 cm long, which are in turn tied to the same point on the ceiling, as shown below. When the balls are given the same charge Q, the threads hang at <m>5.0^\circ</m> to the vertical, as shown above. What is the magnitude of Q? What are the signs of the two charges?
+				Consider the charge configuration in the diagram above.
+			</p>
+			<p>
+				<ol>
+					<li>
+						<p>
+							Determine the direction of the electric field at the center of the square in the figure, given that <m>q_a</m> = <m>q_b</m> = -1.00 <m>\mu</m>C and <m>q_c</m> = <m>q_d</m> = +1.00 <m>\mu</m>C.
+						</p>
+					</li>
+					<li>
+						<p>
+							Calculate the magnitude of the electric field at the location of <m>q</m>, given that the square is 5.00 cm on a side.
+						</p>
+					</li>
+				</ol>
 			</p>
 		</statement>
 		<answer>
 			<p>
-				<m>Q = 6.1 \times 10^{-8} \ \mathrm{C}</m>. The charges can be positive or negative, but both have to be the same sign.
+				The electric field at the center of the square will be straight up.
+			</p>
+		</answer>
+		<answer>
+			<p>
+				<m>|\vec{E}| = 2.04 \times 10^7 \mathrm{N}/\mathrm{C}</m>
+			</p>
+		</answer>
+	</exploration>
+
+	<exploration>
+		<title>Protons Around a Circle</title>
+		<statement>
+			<p>
+				Consider 16 protons that are placed evenly along the circumference of a circle.
+			</p>
+			<ol>
+				<li>
+					<p>
+						What is the direction of the electric field directly at the center of the circle?
+					</p>
+				</li>
+				<li>
+					<p>
+						Now suppose that the proton at the top of the circle is removed. Now what is the direction of the electric field directly at the center of the circle?
+					</p>
+				</li>
+			</ol>
+		</statement>
+		<answer>
+			<p>
+				No direction; the electric field is zero.
+			</p>
+		</answer>
+		<answer>
+			<p>
+				Up
 			</p>
 		</answer>
 	</exploration>
