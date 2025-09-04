@@ -3,23 +3,17 @@
 <section xml:id="sec_field_lines" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>Electric Field Lines</title>
 
-  	<p>
-Electric fields exist in three dimensions of space around any charge or charge distribution. One of the major conceptual difficulties when first encountering the idea of electric fields, is that interacting with the field through our primary senses of sight, sound and touch is not possible. Electric and gravitational fields are invisible, and we can really only measure their effect on other objects through the forces they exert or through indirect measurement of the <em> potential difference </em>, a subject for a later chapter. 
-</p>
-		<exercises>
-		<title>Electric Field Lines</title>
-		</exercises>
 	<p> 
-Electric field lines can offer a way of visualizing the electric field to help us better understand how charge affects the space around it. Additionally, electric field lines can help us understand the force that a charge will feel if placed in an electric field. Let's establish some rules for understanding electric field lines and how we can use them to understand the magnitude and direction of the electric field around a charge or charge distribution. Recall that we can move to any point in three dimensions of space around a charge and there will be an electric field vector at that point. 
+Electric field lines can offer another way of visualizing the electric field to help us better understand how charge affects the space around it. Additionally, electric field lines can help us understand the force that a charge will feel if placed in an electric field. Let's establish some rules for understanding electric field lines and how we can use them to understand the magnitude and direction of the electric field around a charge or charge distribution. Recall that we can move to any point in three dimensions of space around a charge and there will be an electric field vector at that point. 
   <ol>
         
          <li> 
-Electric field lines, like vectors are denoted by lines with arrowheads. However, electric field lines can curve in space. 
+Electric field lines, like vectors, are denoted by lines with arrowheads. However, electric field lines can curve in space. 
          </li>
          
           <li> 
           
-We can find the direction of the electric field vector at any point by drawing a vector tangent to the electric field lines. 
+We can find the direction of the electric field vector at any point by drawing a vector tangent to the electric field lines. These vectors are what you have seen previously, in <xref ref="sec_vector-maps"/>.
          </li>
   	
 	<li>
