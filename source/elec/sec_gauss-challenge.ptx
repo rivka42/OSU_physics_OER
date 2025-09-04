@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_gauss-challenge" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Challenge - Gauss's Law</title>
+  <title>Challenge - Symmetry</title>
 	
 	<!--
 	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
@@ -11,44 +11,8 @@
 	
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
-	-->
-
-
-	<figure xml:id="x_point-charges-arc">
-		<title>Point Charges and Arc Figure</title>
-		<caption>A distribution of point charges.</caption>
-		<image source="point-charges-arc.png" width = "35%" ></image>
-	</figure>
-
-<investigation xml:id="study_elec-07">
-		<title>Distributed Charges</title>
-		<statement>
-			<p>In the figure above, the charge on the left is <m>+q_L</m> and the total charge on the right is <m>+q_R</m>.  The charges on the right are all identical and are spread out uniformly along an arc of radius <m>R</m>.  Is the magnitude of the net electric force on <m>+q_L</m> <em>greater than</em>, <em>less than</em>, or <em>equal to</em> <m>k\frac{q_L q_R}{R^2}</m>?
-</p>
-		</statement>
-				<!--<hint>
-		    <p></p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>-->
-	</investigation>	
+	-->	
 	
-
-
-
-	<project xml:id="study_elec-08">
-        <title>Split Wire</title>
-		<statement>
-		    <p>A straight wire with one end at <m>x = –L</m> and the other end at <m>x = +L</m> has a total charge <m>+Q_o</m> distributed uniformly along the right side and total charge <m>-Q_o</m> distributed uniformly along the left side.  Find the electric field at a point on the <m>y</m>-axis a distance a from the center of the wire.</p>
-		</statement>
-		<!--<hint>
-		    <p></p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>-->
-	</project>
 	
 	<figure xml:id="x_point-charges-flux">
 		<title>Flux Figure</title>
@@ -112,32 +76,8 @@
 		    <p></p>
 		</solution>-->
 		</task>		
-	</investigation>
-
-	<figure xml:id="x_point-charges-arc2">
-		<title>Point Charges and Arc Figure</title>
-    	<caption>Three cases with different charges.</caption>
-    	<image source="point-charges-arc2.png" width = "100%" ></image>
-	</figure>
-
-<investigation xml:id="apply_elec-05">
-		<title>Charges and Arcs</title>
-<statement>
-			<p>
-			Shown above are three different situations.  In case A, both point charges are negative.  In case B, the left point charge is positive and the right point charge is negative.  In case C, the negative charge is uniformly distributed across the circular arc.  Rank the three situations by the magnitude of the electric field at point P.  (Focus on A vs. B and A vs. C: treat B vs. C as a challenge problem only!)
-</p>
-		</statement>
 	</investigation>	
 
-<project xml:id="apply_elec-06">
-        <title>The End of the Line</title>
-		<statement>
-		    <p>A straight wire with one end at <m>x = -L</m> and the other end at <m>x = +L</m> has a total charge <m>+Q_o</m> distributed uniformly.  Find the electric field at a point on the <m>x</m>-axis a distance a from the center of the wire (where <m>a \gt L</m>).</p>
-		</statement>
-<hint>
-		    <p>Sensemaking suggestion: Evaluate your answer in the special case that <m>a \gt\gt L</m>.</p>
-		</hint>
-	</project>
 	
 			<figure xml:id="x_cube-gauss">
 			  <title>Gaussian Cube Figure</title>
@@ -149,7 +89,7 @@
 
 	
 	<investigation xml:id="apply_elec-07">
-		<title>Charges and Arcs</title>
+		<title>Flux</title>
 		<introduction>
 		<p>
 		Two positive point charges <m>+q</m> are located a distance <m>L</m> apart, as shown above.  A Gaussian surface (a cube with side length <m>L</m>) is drawn with its center at the location of the left charge.
