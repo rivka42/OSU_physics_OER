@@ -77,7 +77,7 @@
 		<xi:include href="./ch-n_24_equipotential-surf.ptx" />
 
 		<xi:include href="./ch-n_25_circuits-intro.ptx" />
-		<xi:include href="./ch-n_26_circuits-resistors.ptx" />
+		<!-- <xi:include href="./ch-n_26_circuits-resistors.ptx" /> -->
 		<xi:include href="./ch-n_27_circuits-capacitors.ptx" />
 		
 		<xi:include href="./ch-n_28_magnetism.ptx" />
