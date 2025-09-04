@@ -21,6 +21,7 @@
 	
 
 	<!--PREPARE SECTIONS-->
+	<xi:include href="./elec/sec_symmetry.ptx" />
 	<xi:include href="./elec/sec_area-vectors.ptx" />
 	<xi:include href="./elec/sec_flux.ptx" />
 	<xi:include href="./elec/sec_gauss.ptx" />

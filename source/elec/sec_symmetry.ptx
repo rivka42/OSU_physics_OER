@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_symmetry" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Symmetries in Physics</title>
+
+<p>
+	The natural world is full of things that are <alert>symmetric</alert>: that look the same when 
+	flipped, rotated, inverted, or transformed in some way.  It also contains many things that are <em>almost</em> 
+	symmetric and that may be approximated by an appropriate symmetry.
+</p>
+
+<exercises>
+	<title>Common Geometric Symmetries</title>
+</exercises>
+
+<ol>
+	<li>
+		<p>
+			<alert>Planar Symmetry:</alert> flipping from one side of a plane to another (for example, going from left to right) 
+			does not result in a change to the system.
+		</p>
+	</li>
+	<li>
+		<p>
+			<alert>Cylindrical Symmetry:</alert>  rotation about a central axis does not result in a change to the system.
+		</p>
+	</li>
+	<li>
+		<p>
+			<alert>Spherical Symmetry:</alert> any rotation in three-dimensional space does not result in a change to the system.
+		</p>
+	</li>
+</ol>
+
+<note>
+	<title>Antisymmetry</title>
+	<p>
+		In physics, <term>antisymmetry</term> can be as interesting or important as symmetry.  
+		In antisymmetric planar geometry, for example, everything on the left side of the plane will be the negative of the corresponding 
+		point on the right side of the plane.
+	</p>
+	
+</note>
+
+<exercises>
+		<title>Activities</title>
+		<exercise>
+			<title>What Can Change?</title>
+			<statement>
+				<p>
+					
+				</p>
+			<p>
+				In each example above, the symmetry is characterized by the direction in which the system does not change.  
+				For each symmetry, explicitly identify the direction(s) in which the system <em>can</em> change without breaking the symmetry.
+			</p>
+			</statement>
+			<answer>
+				<ol>
+				<li>
+					<p>
+						For left-right planar symmetry, the system can change along either of the other two perpendicular directions: 
+						up-down or in-out.
+					</p>
+				</li>
+				<li>
+					<p>
+						For cylindrical symmetry, the system can change up and down along the axis or radially in and out from the axis.
+					</p>
+				</li>
+				<li>
+					<p>
+						For spherical symmetry, the system can only change radially in and out from the center.
+					</p>
+				</li>
+				</ol>
+			</answer>
+		</exercise>
+		<exercise>
+			<title>What Kind of Symmetry?</title>
+			<statement>
+				<p>
+					
+				</p>
+			<p>For each system below, identify the kind of symmetry, if any.</p>
+			<ol>
+				<li>
+					<p>
+						The set of weights shown at the bottom of the <xref ref="rot_weights"/> 
+					</p>
+				</li>
+				<li>
+					<p>
+						A solved Rubik's Cube
+					</p>
+				</li>
+				<li>
+					<p>
+						The electric field created by a single negative point charge
+					</p>
+				</li>
+				<li>
+					<p>
+						A five-armed starfish
+					</p>
+				</li>
+			</ol>
+		</statement>
+		<answer>
+			<ol>
+				<li>
+					<p>
+						Cylindrical symmetry
+					</p>
+				</li>
+				<li>
+					<p>
+						From the persepctive of color, a solved Rubik's Cube is not symmetric because the colors on opposite sides 
+						are typically different.  From the perspective of geometry, the Rubik's Cube has three different planar symmetries 
+						corresponding to each of the three directions.
+					</p>
+				</li>
+				<li>
+					<p>
+						Spherical symmetry
+					</p>
+				</li>
+				<li>
+					<p>
+						With a little approximating, you can draw a line (or plane) through the center of each arm, 
+						which means there are five different planar symmetries!  Because rotating the starfish does change 
+						where each arm is located, it does not meet the criteria for cylindrical symmetry.  (In biological contexts, 
+						this is typically called radial symmetry.)
+					</p>
+				</li>
+			</ol>
+		</answer>
+		</exercise>	
+		
+		</exercises>
+
+		
+
+
+</section>
+
