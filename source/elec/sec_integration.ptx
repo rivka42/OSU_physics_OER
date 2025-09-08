@@ -38,8 +38,11 @@ Determine the bounds of integration. We need to sum over all the <em> charges </
 		<exercise>
 				<title>Force Integral</title>
 
-			<p>Suppose your friend has used an integral to solve a physics problem for the force on a metal plate: <me>F = \int_{-1}^{1}\int_{0}^{10}\left( P_0 + \rho gy\right)dydx</me> What does the plate look like? Explain how you can tell from the integral expression.</p>
+			<p>Suppose your friend has used an integral to solve a physics problem for the force on a metal plate: <me>F = \int_{-1}^{1}\int_{0}^{10}\left( P_0 + \rho gy\right)dydx</me> </p>
 			<ol> 
+			<li>
+			What does the plate look like? Explain how you can tell from the integral expression.
+			</li>
 			
 			<li>
 			What physical quantity does the integrand <m>\left( P_0 + \rho gy\right)</m> represent? Describe how you can tell.
