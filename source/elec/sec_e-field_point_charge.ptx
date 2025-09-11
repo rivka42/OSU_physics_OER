@@ -7,6 +7,8 @@
 Each and every electric charge generates its own electric field. We can think of the electric field as a physical alteration of the space around a charge which describes the influence of that charge on other charges in their vicinity. We usually call the charge generating the field the <em>source charge</em>, and represent it mathematically as <m> q_{\text{source}}</m>, and the charge experiencing the field the <em>test charge</em>, and represent it as <m> q_{\text{test}}</m>. A source charge never feels a force from its own field. It would violate conservation of energy for a charge to be able to exert a force on itself through its own field. Eventually, we would like to drop the subscript notation and just be able to describe charges using the simpler notation, <m>q</m>, being able to tell from context which is the charge creating the field and which is the charge experiencing the field. 
 </p>
 
+<video youtube="7R74AflPtso"><description>Introducing the electric field of a point charge.</description></video>
+
 <definition xml:id="point_charge">
 	<title>
 	Single Point Charge
