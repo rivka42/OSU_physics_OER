@@ -64,25 +64,5 @@ Sometimes you will also see the electric field or force written in term of the <
 
 	Formulating the gravitational force in terms of the gravitational field allows us to determine the acceleration due to gravity for any body of mass and at any distance from that body. Note the units of the Gravitational constant and then recall the units of the electrostatic constant <m> k </m>. Do you notice any similarities?
 	</p> 
-
-	<exercises>
-		<title>Activities</title>
-		
-		<exercise>
-		<title>Comparing <m> | \vec{E} |</m> to <m>| \vec{g}|</m></title>
-		<p> 
-		Consider a single proton. What is the ratio of the magnitude of the gravitational field to the electric field if we are one picometer <m> (\mathrm{pm})</m> away from the proton? Note that <m> 1\mathrm{pm} = 10^{-12} \mathrm{m}</m>. 
-		</p>
-		</exercise>
-		
-		<exercise>
-		<title>Electric Force</title>
-		<p> 
-		Determine the electric force on an electron one picometer away from a proton. Why is the electric force more viable as a means of holding an atom together compared to the gravitational force? 
-		</p>
-		</exercise>
-		
-
-	</exercises>
 	
 </section>
