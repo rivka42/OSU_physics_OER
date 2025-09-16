@@ -11,7 +11,51 @@
 	-->
 
 <subsection>
-<title>Practice</title>
+	<title>Explanation Practice</title>
+
+	<investigation xml:id="pa_rot-02">
+		<title>Acceleration of a Pendulum</title>
+		<statement><p></p>
+			<p>Suppose a pendulum is pulled to one side and released at <m>t_1</m>.  At <m>t_2</m>, the pendulum has swung halfway back to a vertical position.  At <m>t_3</m>, the pendulum has swung all the way back to a vertical position.  Rank the three instants in time by the magnitude of the centripetal acceleration, from greatest to least.</p>
+		</statement>
+	</investigation>
+	
+</subsection>
+
+<subsection>
+	<title>A*R*C*S Practice</title>
+
+<project xml:id="pa_rot-01">
+		<title>Swinging a Bucket</title>
+		<statement><p></p>
+			<p>You swing a bucket of water with total mass m in a vertical circle with a radius given by the length of your arm, <m>L</m>.  Determine the slowest speed at which you can swing the bucket without water falling on you.  For that speed, determine the tension in your arm <m>T</m> at the bottom of the swing.</p>
+		</statement>
+	</project>
+
+	<project xml:id="pa_rot-03">
+		<title>Conical Pendulum</title>
+		<statement><p></p>
+			<p>A conical pendulum is formed by attaching a ball of mass <m>m</m> to a string of length <m>L</m>, then allowing the ball to move in a horizontal circle of radius <m>r</m>.</p>
+			<p>Part A.	Find an expression for the tension <m>T</m> in the string.</p>
+			<p>Part B.	Find an expression for the ball's angular speed <m>\omega</m>.</p>
+		</statement>
+	</project>
+
+    <project xml:id="pa_rot-04">
+        <title>Car Around a Curve</title>
+		<statement><p></p>
+		    <p>A car starts from rest on a curve with a radius of <m>120 \mathrm{~m}</m> and tangential acceleration of <m>1.5 \mathrm{~m/s^2}</m>.  Through what angle will the car have traveled when the magnitude of its total acceleration is <m>3 \mathrm{~m/s^2}</m>?</p>
+		</statement>
+		<hint>
+		    <p>For your representation (part 1c), sketch careful velocity and change in velocity vectors for a few different points.</p>
+		</hint>
+	</project>
+
+</subsection>
+
+
+<subsection>
+<title>Numerical Practice</title>
     <exploration xml:id="psa_rot-alpha0">
         <title>Crankshaft</title>
 		<statement><p></p>
@@ -108,7 +152,7 @@
 
 <references>
 	<biblio xml:id="ref_boxsand-rot">
-	<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+	<p>Numerical practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
 	</biblio>
 </references>
 </section>

@@ -30,10 +30,13 @@
     <xi:include href="./rot/sec_law-of-motion-angular.ptx" />
     
     <!--PRACTICE SECTIONS-->
+    <xi:include href="./rot/sec_torque-applications.ptx" />
+    <xi:include href="./rot/sec_torque-analysis.ptx" />
     <xi:include href="./rot/sec_torque-practice.ptx" />
-		<xi:include href="./rot/sec_torque-analysis.ptx" />
+		
     
     <!--CHALLENGE SECTIONS-->
+    <xi:include href="./rot/sec_sd.ptx" />
     <xi:include href="./rot/sec_torque-challenge.ptx" />
 
 

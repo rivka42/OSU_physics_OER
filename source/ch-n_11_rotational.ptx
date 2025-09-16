@@ -29,14 +29,17 @@
     <xi:include href="./rot/sec_tangential.ptx" /> 
     <xi:include href="./rot/sec_ang-motion.ptx" />
     <xi:include href="./rot/sec_uniform-circular.ptx" />
+
+    
+    <!--PRACTICE SECTIONS-->
+    <xi:include href="./rot/sec_circular-applications.ptx" />
     <xi:include href="./rot/sec_constant-alpha.ptx" />
     <xi:include href="./rot/sec_orbital.ptx" />
     <xi:include href="./rot/sec_rolling-slipping.ptx" />
-    
-    <!--PRACTICE SECTIONS-->
 		<xi:include href="./rot/sec_rot-practice.ptx" />
     
     <!--CHALLENGE SECTIONS-->
+    <xi:include href="./rot/sec_kepler.ptx" />
     <xi:include href="./rot/sec_rot-challenge.ptx" />
 
 

@@ -11,7 +11,21 @@
 	-->
 
 <subsection>
-<title>Practice</title>
+	<title>Explanation Practice</title>
+
+
+	
+</subsection>
+
+<subsection>
+	<title>A*R*C*S Practice</title>
+
+
+
+</subsection>
+
+<subsection>
+<title>Numerical practice</title>
     <exploration xml:id="psa_oscl-alpha1">
         <title>Two Springs and a Mass</title>
 		<statement>
@@ -176,7 +190,7 @@
 
 <references>
 	<biblio xml:id="ref_boxsand-oscl">
-	<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+	<p>Numerical practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
 	</biblio>
 </references>
 </section>

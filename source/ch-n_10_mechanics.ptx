@@ -40,6 +40,7 @@
 		
 		<!--CHALLENGE SECTIONS-->
 		<xi:include href="./en/sec_mech-challenge.ptx" />
+		<xi:include href="./prep/sec_prep-arcs.ptx" />
 		
 
 		

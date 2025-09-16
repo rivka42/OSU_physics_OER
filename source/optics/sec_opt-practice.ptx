@@ -11,7 +11,21 @@
 	-->
 
 <subsection>
-<title>Practice</title>
+	<title>Explanation Practice</title>
+
+
+	
+</subsection>
+
+<subsection>
+	<title>A*R*C*S Practice</title>
+
+
+
+</subsection>
+
+<subsection>
+<title>Numerical practice</title>
     
 	<problem xml:id="psa_opt-alpha4">
         <title>Angle of Refraction</title>
@@ -121,7 +135,7 @@
 
 <references>
 	<biblio xml:id="ref_boxsand-opt">
-	<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+	<p>Numerical practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
 	</biblio>
 </references>
 </section>

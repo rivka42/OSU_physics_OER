@@ -1,53 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_prep-arcs" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Prep - A*R*C*S</title>
+  <title>Challenge - Review</title>
 
-  <activity xml:id="psa_vec-6">
-		<title>Math Review</title>
-		<task>
-			<statement>
-				<p>Consider the integral <m>V = \int_{2}^{7} x^2 dx</m>.</p>
-
-				<p>
-					1. Describe the meaning of each symbol and number in this expression.
-				</p>
-				<p>
-					2. Determine the value of <em>V</em>.
-				</p>
-				<p>
-					3. Sketch a graph that gives meaning to this integral.
-				</p>
-				<p>
-					4. If <em>x</em> is measured in meters, what are the units of <em>V</em>?
-				</p>
-			</statement>
-		</task>
-		<task>
-			<statement>
-				<p>Use an integral to determine the area of the triangle shown below. What is the meaning of the infinitesimal in the integral you use?</p>
-				<figure xml:id="fig_math-rev1">
-					<image source="math-review1.png" width = "50%"></image>
-				</figure>
-			</statement>
-			
-		</task>
-		
-		<task>
-			<statement>
-				<p>Use an integral to determine the area of the shape shown below, where the curve is a parabola with its vertex at the lower left corner.</p>
-				<figure xml:id="fig_math-rev2">
-					<image source="math-review2.png" width = "50%"></image>
-				</figure>
-			</statement>
-		</task>
-		
-	</activity>
-
-	
+  
 
 	<exercises>
-		<title>Moving Blocks</title>
+<title>I. The Mystery of the Two Planets</title>
+<p>This activity is intended to help you practice providing a scientific explanation following the steps introduced in <xref ref="fig_explanation"></xref>.</p>
+<p>You are in charge of an interstellar spacecraft that is investigating the planets around a faraway star system.  Currently, your spacecraft is located in the region of space between two of these planets, <alert>Ursula</alert> and <alert>Triton</alert>, where the net gravitational force on the spacecraft is equal to zero.  You have measured that the distance between your spacecraft and the center of Ursula, <m>d_u</m>, is greater than the distance between your spacecraft and the center of Triton, <m>d_t</m>.  You want to know whether the mass of Ursula is <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the mass of Triton.</p>
+<p>Before you begin, you may want to draw a simple diagram of this situation.</p>
+		  <exercise>
+			<title>Identify Building Blocks</title>
+			<statement>
+			  			<p>Which of the following equations do you think will be useful or applicable in approaching this situation?  For each equation, identify the corresponding physical model.</p>
+							<ul>
+							<li><p><m>\vec{F}_{\text{net}} = m\vec{a}</m></p></li>
+							<li><p><m>\vec{F}_{AB} = -\vec{F}_{BA}</m> </p></li>
+							<li><p><m>\vec{F}^g = m\vec{g}</m></p></li>
+							<li><p><m>U = -\frac{GMm}{r}</m></p></li>
+							<li><p><m>g = \text{constant}</m></p></li>
+							<li><p><m>g = \frac{GM}{r^2}</m></p></li>
+							<li><p><m>y = -\frac{1}{2}gt^2</m></p></li>
+							<li><p>Other: __________</p></li>
+							</ul>
+							</statement>
+			</exercise>
+			<exercise>
+			<title>Reasoning</title>
+			<statement>
+			  			<p>Write an explanation allowing you to defend whether <m>m_u</m> is <em>greater than</em>, <em>less than</em>, or <em>equal to</em> <m>m_t</m>, starting from one or more of the physical models you previously identified as being useful or applicable to this situation.</p>
+							</statement>
+			</exercise>
+			<exercise>
+			<title>Evaluate</title>
+			<statement>
+			  			<p>Review the explanation below.  What do you think is missing?  Why do you think it is important to include the missing piece(s)?</p>
+							<blockquote>
+							<p><q>The mass of Ursula is bigger because you are farther away from Ursula than from Triton.</q></p>
+							</blockquote>
+							</statement>
+			</exercise>
+			<exercise>
+			<title>Reflect</title>
+			<statement>
+			  			<p>Watch the video below, then review your answers to the questions above and reflect on how your thinking has changed over the course of this activity.  Generalize your thinking to identify (1) what is important to include in a scientific explanation and (2) what is <alert>unnecessary</alert> to include, and why.</p>
+							</statement>
+			</exercise>
+			<video youtube="yaPCpsORgtE"><description>Explaining how to use the universal model for gravitation to predict the masses of planets.</description></video>
+		</exercises>
+
+	<exercises>
+		<title>II. Moving Blocks</title>
 		<p>This activity is intended to help you practice solving problems using the A*R*C*S format introduced in <xref ref="fig_realworld"></xref>. This will serve as a touchpoint you can come back to if you need any assistance on working through an A*R*C*S activity. You will work through each section of the A*R*C*S format, watch a video, and reflect on your work. The videos are a little bit long, but there is a lot to explain in an A*R*C*S activity!</p>
 		<p>
 			Shown below are two blocks connected by an ideal string that passes over a massless, frictionless pulley. The mass of the larger block sits on a flat, frictionless table, and has a larger mass than the smaller block, which hangs vertically. Determine the speed of each block when the larger block reaches the edge of the table, a distance of 0.75 m.
@@ -173,7 +177,7 @@
 				<task>
 					<statement>
 						<p>
-							Convert your final numerical answer into a unit that is more familar to you (miles per hour, kilometers per hour, etc.). What else travels this fast? You may need to use Google to help you answer this question. Is this a reasonable speed for a falling block?
+							Convert your final numerical answer into a unit that is more familar to you (miles per hour, kilometers per hour, etc.). What else travels this fast? You may need to search to help you answer this question. Is this a reasonable speed for a falling block?
 						</p>
 					</statement>
 				</task>
@@ -196,7 +200,7 @@
 				<task>
 				<statement>
 					<p>
-						How does the speed change if you increase L? What is physically happening that explains this behavior?
+						How does the speed change if you increase <m>L</m>? What is physically happening that explains this behavior?
 					</p>
 				</statement>
 				</task>
@@ -236,7 +240,46 @@
 		</exercise>
 		</exercises>
 		
+		<activity xml:id="psa_vec-6">
+		<title>III. Math Review</title>
+		<task>
+			<statement>
+				<p>Consider the integral <m>V = \int_{2}^{7} x^2 dx</m>.</p>
+
+				<p>
+					1. Describe the meaning of each symbol and number in this expression.
+				</p>
+				<p>
+					2. Determine the value of <em>V</em>.
+				</p>
+				<p>
+					3. Sketch a graph that gives meaning to this integral.
+				</p>
+				<p>
+					4. If <em>x</em> is measured in meters, what are the units of <em>V</em>?
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>Use an integral to determine the area of the triangle shown below. What is the meaning of the infinitesimal in the integral you use?</p>
+				<figure xml:id="fig_math-rev1">
+					<image source="math-review1.png" width = "50%"></image>
+				</figure>
+			</statement>
+			
+		</task>
 		
+		<task>
+			<statement>
+				<p>Use an integral to determine the area of the shape shown below, where the curve is a parabola with its vertex at the lower left corner.</p>
+				<figure xml:id="fig_math-rev2">
+					<image source="math-review2.png" width = "50%"></image>
+				</figure>
+			</statement>
+		</task>
+		
+	</activity>
   
 </section>
 
