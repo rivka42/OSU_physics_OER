@@ -57,14 +57,17 @@ Where the term <m> nx</m> is called the first order term, and the term containin
 		<title>Activities</title>
 				<exercise>
 		<title>Exploring Approximation Techniques with Desmos</title>
+		<p>
+
+		</p>
 		<p> 
 		To understand the usefulness of approximation techniques it is helpful to explore the graph of the function we wish to approximate and the graph of the approximation function to see how they compare. If you are unfamiliar with Desmos, here is a tutorial on getting started with their graphing calculator.
-		<url href="https://help.desmos.com/hc/en-us/articles/4406040715149-Getting-Started-Desmos-Graphing-Calculator#h_01HSTWT4QGE8CCPQH2G6JSFSDM">Desmos Tutorial ></url> 
+		<url href="https://help.desmos.com/hc/en-us/articles/4406040715149-Getting-Started-Desmos-Graphing-Calculator#h_01HSTWT4QGE8CCPQH2G6JSFSDM">Desmos Tutorial</url> 
 		</p> 
 		<ol>
 		<li>
 		Navigate to the Binomial Approximation Desmos simulation. Set <m> n=2 </m> and <m> Order = 0</m>. What type of function does <m> n=2 </m> correspond to? Describe the approximated function in words and symbols. Do the two functions overlap at any point? Over what range do they appear to overlap?
-	<url href="https://www.desmos.com/calculator/vyxit0fwat">Binomial Approximation Simulation ></url> 	
+	<url href="https://www.desmos.com/calculator/vyxit0fwat">Binomial Approximation Simulation</url> 	
 		</li>
 		<li>
 		Now, change <m> Order = 1</m>. Describe the approximated function in words and symbols. Do the two functions overlap at any point? Over what range do they appear to overlap? Do the functions overlap more or less than before?
@@ -77,6 +80,9 @@ Where the term <m> nx</m> is called the first order term, and the term containin
 
 		<exercise>
 			<title>Approximation Techniques</title>
+			<p>
+		
+			</p>
 			  <p>Consider the expression for the electric field on the y-axis of a coordinate system due to a set of two positive charges <me> \vec{E}(y) = \frac{q}{4 \pi \epsilon_0} \frac{2y}{(y^2 +(d/2)^2)^{3/2}} \hat{y}</me> 
 			  where <m> d </m> is the separation between the charges. If we move very far away from the charges such that <m> y \gg d </m> we could expect to recover the electric field of a single point charge with charge <m> 2q</m>. 
 			  <ol>

@@ -36,24 +36,27 @@ where <m> i </m> refers to the electric field from the ith charge in the sum.
 		<title>Activities</title>
 		<exercise>
 		<title>Two Protons</title>
+		<p>
+		
+		</p>
 		<p> 
-		Consider two protons separated by a distance <m> d </m> on the x-axis equidistant from the origin. 
+		Consider two protons separated by a distance <m> d </m> on the <m>x</m>-axis equidistant from the origin. 
 		<ol>
 		<li>
 		Overlaid on the appropriate coordinate system, sketch a diagram of the physical situation and label all quantities of interest. 
 		</li>
 		
 		<li>
-Considering the principle of superposition, if you are at a point on the positive y-axis, in which direction do you expect the <em> net </em> electric field to point? Back up your argument with a diagram. 
+Considering the principle of superposition, if you are at a point on the positive <m>y</m>-axis, in which direction do you expect the <em> net </em> electric field to point? Back up your argument with a diagram. 
 		</li>
 	
 		
 		<li>
-		Use your coordinate system and defined variables from your diagram to construct a symbolic expression for the electric field <m> \vec{E}(y)</m> points along the y-axis of your coordinate system. 
+		Use your coordinate system and defined variables from your diagram to construct a symbolic expression for the electric field <m> \vec{E}(y)</m> points along the <m>y</m>-axis of your coordinate system. 
 		</li>
 		
 		<li>
-What do you expect the field to look like if you move very far up the y-axis such that <m> y \gg d</m>?
+What do you expect the field to look like if you move very far up the <m>y</m>-axis such that <m> y \gg d</m>?
 		</li>
 		
 		</ol>
@@ -63,6 +66,9 @@ What do you expect the field to look like if you move very far up the y-axis suc
 
 		<exercise>
 			<title>Spreading out Charges</title>
+			<p>
+		
+			</p>
 			<p>
 				A wire has four positive point charges located as shown in the figure below.
 			</p>

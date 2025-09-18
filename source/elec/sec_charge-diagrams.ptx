@@ -8,22 +8,20 @@
 	<lemma xml:id="rep_charge-diagram">
 		<title>Charge Diagram</title>
 		<statement>
+			<p>
+
+			</p>
 			<p>A charge diagram shows a simple picture of an object with small <m>+</m> and <m>-</m> labels indicating where charge is present, what type of charge is present, and where the charge density is greatest and smallest.</p>
 		</statement>
 	</lemma>
 
 	<exercises>
 		<title>Activities</title>
-		<figure xml:id="chg-dgm">
-			  <title>Example Charge Diagram</title>
-    		<caption>An example charge diagram.</caption>
-    		<image source="Charged_disc.png" width = "50%" ></image>
-		</figure>
-		<exercise>
-			<p>Shown above is a charge diagram for a disc.  Indicate the location with the greatest charge density.</p>
-		</exercise>
 		<exercise xml:id="chg-dens">
 			<title>Charge Densities</title>
+			<p>
+
+			</p>
 			<p>Make a charge diagram for each of the following charge densities.  What is the purpose of the various constants in these expressions?
 				<ul>
 					<li><m>\lambda(x) = +\lambda_1 \frac{x}{L}</m> between <m>x=-L</m> and <m>x=+L</m></li>
@@ -32,7 +30,20 @@
 				</ul>
 			</p>
 		</exercise>
+
+		<exercise>
+			<title>Charge Diagram</title>
+			<p>
+
+			</p>
+			<figure xml:id="chg-dgm">
+				<title>Example Charge Diagram</title>
+				<caption>An example charge diagram.</caption>
+				<image source="Charged_disc.png" width = "50%" ></image>
+			</figure>
+			<p>Shown above is a charge diagram for a disc.  Indicate the location with the greatest charge density.</p>
+		</exercise>
+		
 	</exercises>
 
 </section>
-
