@@ -14,6 +14,9 @@ Electric fields exist in three dimensions of space around any charge or charge d
 	<lemma xml:id="rep_vector-map">
 		<title>Electric Field Vector Map</title>
 		<statement>
+		<p>
+		
+		</p>
 			<p>An electric field vector map shows a vector at many different points in space to highlight the direction and magnitude of the electric field in different regions of space.  The electric fields can be different at every point in space, so you should always draw enough vectors to get a good sense for how the field is changing.</p>
 		</statement>
 	</lemma>
@@ -24,10 +27,16 @@ Electric fields exist in three dimensions of space around any charge or charge d
 		<title>Activities</title>
 		<exercise>
 			<title>Practice Sketching Field Maps</title>
+			<p>
+		
+			</p>
 			<p>Sketch (by hand) a vector map for the following field in the <m>xy</m>-plane: <m>\vec{S} = x \hat{x} + y \hat{y}</m>.  Sketch at least 20 vectors showing how this vector field changes in both directions.</p>
 		</exercise>
 		<exercise xml:id="x_graphing-r-hat">
 			<title>Practice Sketching Field Maps</title>
+			<p>
+		
+			</p>
 			<p>Use a graphing calculator (such as <url href="https://www.desmos.com/calculator/eijhparfmd" visual="Desmos" />) to sketch the following electric field in the <m>xy</m>-plane: <m>\vec{E} = \frac{7x}{\sqrt{x^2+y^2}} \hat{x} + \frac{7y}{\sqrt{x^2+y^2}} \hat{y}</m>.</p>
 		</exercise>
 	</exercises>

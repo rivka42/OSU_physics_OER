@@ -5,7 +5,7 @@
 		
     <video youtube="bjUpOgW6bho"><description>Introducing charge.</description></video>
 	
-	<p>Electric charge is a fundamental property of matter. Objects that are "charged" can display interesting behaviors when interacting with electric fields that we will explore in this chapter.</p>
+	<p>Electric charge is a fundamental property of matter. Objects that are <q>charged</q> can display interesting behaviors when interacting with electric fields that we will explore in this chapter.</p>
 
 	<definition>
 		<title>Charge</title>
@@ -19,7 +19,7 @@
 		</statement>
 	</definition>
 	
-	<p>Electric charge is often represented with the letter <m>q</m>. Charge, like mass, is a physical property of subatomic particles. Electric charge can be positive (<m>+q</m>)  or negative (<m>-q</m>). In an atom, protons are positively charged and electrons are negatively charged while neutrons are neutral. We represent positive charges with the symbol "+" and negative charges with the symbol "-". </p>
+	<p>Electric charge is often represented with the letter <m>q</m>. Charge, like mass, is a physical property of subatomic particles. Electric charge can be positive <m>(+q)</m>  or negative <m>(-q)</m>. In an atom, protons are positively charged and electrons are negatively charged while neutrons are neutral. We represent positive charges with the symbol <q>+</q> and negative charges with the symbol <q>-</q>. </p>
 	<p>
 			
 	</p>
@@ -34,9 +34,10 @@ In examining the behavior of positive and negative charge, we can find that like
     </figure>
     
  
-<exercises>
+<note>
   <title>Properties of Charge</title>
-</exercises> 
+  <p>
+  </p> 
 
   <p>
  In addition to the existence of two types of charge, several other properties of charge have been discovered:
@@ -45,7 +46,7 @@ In examining the behavior of positive and negative charge, we can find that like
   <ul>
     <li><alert>Charge is quantized</alert>. This means that electric charge comes in discrete amounts, and there is a smallest possible amount of charge that any object can have. In the SI system, this smallest amount is called the <em>fundamental unit of charge</em> and is equal to <me>e \equiv 1.602 \times 10^{-19} \, \mathrm{C}</me>. No free particle can have less charge than this. Therefore, the charge on any object must be an integer multiple of this amount. The charge on a single proton is <m> +e </m> and the charge on a single electron is <m> -e </m>. All macroscopic, charged objects have charge because electrons have either been added or taken away from them, resulting in a net positive or negative overall charge.</li>
 
-    <li><alert>Charge is conserved</alert>. Charge can neither be created nor destroyed; it can only be transferred from one location in space to another, or from one object to another. The net charge of the universe, or of any closed, isolated system is constant. This is referred to as the <alert>law of conservation of charge</alert>. We often speak of two charges “canceling”, however, this is verbal shorthand. It means that if two objects have equal and opposite charges, and are physically very close to each other, then the (oppositely directed) forces they apply on each other cancel as vectors. However, the charges on the objects still remain intact. The net charge of the universe remains constant in time according to conservation laws. </li>
+    <li><alert>Charge is conserved</alert>. Charge can neither be created nor destroyed; it can only be transferred from one location in space to another, or from one object to another. The net charge of the universe, or of any closed, isolated system is constant. This is referred to as the <alert>law of conservation of charge</alert>. We often speak of two charges <q>canceling</q>, however, this is verbal shorthand. It means that if two objects have equal and opposite charges, and are physically very close to each other, then the (oppositely directed) forces they apply on each other cancel as vectors. However, the charges on the objects still remain intact. The net charge of the universe remains constant in time according to conservation laws. </li>
     
     <li><alert>Charges generate electric fields</alert>. Just like mass can generate a gravitational field, electric charge can generate an electric field. Mass and charge physically alter the space around them such that any other mass or charge that comes into their <em> field of influence</em> feels a gravitational or electric force. Understanding how charges generate electric fields and how other charges interact with electric fields will be our primary focus for understanding electric interactions. </li>.
     
@@ -77,8 +78,7 @@ In examining the behavior of positive and negative charge, we can find that like
     </row>
   </tabular>
 </table>
-
- <p>Generally, the study of electromagnetism is broken into two parts: <alert> electricity </alert> and <alert> magnetism</alert>, focusing on electric and magnetic phenomemna, respectively. Further, electrostatics as in <em> static</em>, or stationary, deals with the behaviors and properties of stationary charges while electrodynamics deals with the behaviors and properties of moving charges. We will explore more about electric and magnetic fields and how matter and charge respond to these fields in the chapters to come.</p> 
+</note>
 	
 	<exercises>
 		<title>Activities</title>

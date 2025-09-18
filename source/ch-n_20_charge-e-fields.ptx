@@ -30,8 +30,8 @@
 
 
     <!--PRACTICE SECTIONS-->
-	<xi:include href="./elec/sec_coulomb.ptx" />
 	<xi:include href="./elec/sec_e-field_point_charge.ptx" />
+	<xi:include href="./elec/sec_coulomb.ptx" />
 	<xi:include href="./elec/sec_charge-elec-practice.ptx" />
 
     <!--CHALLENGE SECTIONS-->
