@@ -11,105 +11,80 @@
 	
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
-	-->	
-	
-	
-	<figure xml:id="x_point-charges-flux">
-		<title>Flux Figure</title>
-    	<caption>Two points and an imaginary square loop.</caption>
-    	<image source="point-charges-flux.png" width = "35%" ></image>
-	</figure>	
+	-->
 	
 	<investigation xml:id="study_elec-09">
 		<title>Flux Practice</title>
-		<introduction>
-		<p>
-		The figure above shows an imaginary square loop centered between two points <m>A</m> and <m>B</m>.
-		</p>
-		</introduction>
-		<task>
 		<statement>
+			<figure xml:id="x_point-charges-flux">
+				<title>Flux Figure</title>
+				<caption>Two points and an imaginary square loop.</caption>
+				<image source="point-charges-flux.png" width = "35%" ></image>
+			</figure>	
 			<p>
-			Choose an area vector for the loop.
+			The figure above shows an imaginary square loop centered between two points <m>A</m> and <m>B</m>.
 			</p>
 		</statement>
-				<!--<hint>
-		    <p></p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>-->
+		<task>
+			<statement>
+				<p>
+				Choose an area vector for the loop.
+				</p>
+			</statement>
 		</task>
 		<task>
-		<statement>
-		<p>Suppose a point charge <m>+Q_o</m> is located at point <m>A</m>.  Is the electric flux through the loop <em>positive</em>, <em>negative</em>, or <em>zero</em>?
-			</p>
-		</statement>
-				<!--<hint>
-		    <p></p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>-->
+			<statement>
+			<p>Suppose a point charge <m>+Q_o</m> is located at point <m>A</m>.  Is the electric flux through the loop <em>positive</em>, <em>negative</em>, or <em>zero</em>?
+				</p>
+			</statement>
 		</task>
 		<task>
-		<statement>
-		<p>Suppose a point charge <m>+Q_o</m> is located at point <m>A</m> and a point charge <m>+2Q_o</m> is located at point <m>B</m>.  Is the electric flux through the loop <em>positive</em>, <em>negative</em>, or <em>zero</em>?
-			</p>
-		</statement>
-				<!--<hint>
-		    <p></p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>-->
+			<statement>
+			<p>Suppose a point charge <m>+Q_o</m> is located at point <m>A</m> and a point charge <m>+2Q_o</m> is located at point <m>B</m>.  Is the electric flux through the loop <em>positive</em>, <em>negative</em>, or <em>zero</em>?
+				</p>
+			</statement>
 		</task>
 		<task>
-		<statement>
-			<p>Suppose a point charge <m>+Q_o</m> is located at point <m>A</m> and a point charge <m>-2Q_o</m> is located at point <m>B</m>.  Is the electric flux through the loop <em>positive</em>, <em>negative</em>, or <em>zero</em>?
-			</p>
-		</statement>
-				<!--<hint>
-		    <p></p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>-->
+			<statement>
+				<p>Suppose a point charge <m>+Q_o</m> is located at point <m>A</m> and a point charge <m>-2Q_o</m> is located at point <m>B</m>.  Is the electric flux through the loop <em>positive</em>, <em>negative</em>, or <em>zero</em>?
+				</p>
+			</statement>
 		</task>		
-	</investigation>	
+	</investigation>
 
-	
-			<figure xml:id="x_cube-gauss">
-			  <title>Gaussian Cube Figure</title>
-    	<caption>
-	Two point charges and a Gaussian cube.
-	</caption>
-    	<image source="CubeGauss.png" width = "40%" ></image>
-</figure>	
-
-	
 	<investigation xml:id="apply_elec-07">
 		<title>Flux</title>
-		<introduction>
-		<p>
-		Two positive point charges <m>+q</m> are located a distance <m>L</m> apart, as shown above.  A Gaussian surface (a cube with side length <m>L</m>) is drawn with its center at the location of the left charge.
-		</p>
-		</introduction>
+		<statement>
+			<figure xml:id="x_cube-gauss">
+				<title>Gaussian Cube Figure</title>
+				<caption>
+					Two point charges and a Gaussian cube.
+				</caption>
+				<image source="CubeGauss.png" width = "40%" ></image>
+			</figure>	
+			<p>
+				Two positive point charges <m>+q</m> are located a distance <m>L</m> apart, as shown above.  A Gaussian surface (a cube with side length <m>L</m>) is drawn with its center at the location of the left charge.
+			</p>
+		</statement>
 		<task>
-<statement>
+			<statement>
 			<p>
 			Is the electric flux through the right face of the cube <em>positive</em>, <em>negative</em>, or <em>zero</em>?
-</p>
-		</statement>
+			</p>
+			</statement>
 		</task>
 		<task>
-<statement>
-			<p>
-			Suppose the charge on the right were replaced by a charge of <m>-q</m>.  Would the net electric flux through the entire cube <em>increase</em>, <em>decrease</em>, or <em>stay the same</em>?
-</p>
-		</statement>
+			<statement>
+				<p>
+				Suppose the charge on the right were replaced by a charge of <m>-q</m>.  Would the net electric flux through the entire cube <em>increase</em>, <em>decrease</em>, or <em>stay the same</em>?
+				</p>
+			</statement>
 		</task>
 	</investigation>
+
+	<subsection>
+		<title>Metacognitive Reflection</title>
+	</subsection>
   
 </section>
 

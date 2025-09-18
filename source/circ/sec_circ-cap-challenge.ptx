@@ -12,144 +12,27 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
-	
-	<figure xml:id="fig-circuit_4">
-    	<caption>Circuit diagram.</caption>
-    	<image source="circ/circuit-4.png" width = "40%" ></image>
-	</figure>
 
 	<investigation>
 		<title>Circuit I</title>
 		<statement>
-			<p>
-				Recall the circuit from class, reproduced above. Suppose batteries A and B are not identical. 
-			</p>
-			<ol>
-				<li>
-					<p>
-						Suppose that the absolute value of the potential difference across battery B were reduced, but battery A is unchanged.
-					</p>
-					<ol>
-						<li>
-							<p>
-								When the switch is closed, would bulb 12 light?
-							</p>
-						</li>
-						<li>
-							<p>
-								When the switch is closed, would bulb 11 be brighter than, dimmer than, or as bright as it was in class?
-							</p>
-						</li>
-					</ol>
-				</li>
-				<li>
-					<p>
-						Suppose instead that the absolute value of the potential difference across battery A were reduced, but battery B were unchanged (the same as it was in class). 
-					</p>
-					<ol>
-						<li>
-							<p>
-								When the switch is closed, would bulb 12 light?
-							</p>
-						</li>
-						<li>
-							<p>
-								When the switch is closed, would bulb 11 be brighter than, dimmer than, or as bright as it was in class?
-							</p>
-						</li>
-					</ol>
-				</li>
-			</ol>
-		</statement>
-	</investigation>
-	
-	<figure xml:id="fig-circuit_5">
-    	<caption>Circuit diagram.</caption>
-    	<image source="circ/circuit-5.png" width = "40%" ></image>
-	</figure>
-
-	<investigation>
-		<title>Circuit II</title>
-		<statement>
-			<p>
-				Consider the circuit shown above, which is a variant of the circuit from class. All bulbs are identical, and all batteries are ideal and identical. (Note that the orientation of battery D has changed.)
-			</p>
-			<ol>
-				<li>
-					<p>
-						Is bulb 2 brighter than, dimmer than, or as bright as bulb 1? Explain your reasoning
-					</p>
-				</li>
-				<li>
-					<p>
-						Sketch appropriate voltage diagrams for this circuit.
-					</p>
-				</li>
-				<li>
-					<p>
-						Use your diagrams to rank the voltages <m>V_1</m>, <m>V_2</m>, <m>V_C</m>, and <m>V_D</m> from greatest to least. Explain how you determined your answer.
-					</p>
-				</li>
-				<li>
-					<p>
-						On the circuit diagram, draw arrows to indicate the direction of the current through each battery and each bulb.
-					</p>
-				</li>
-				<li>
-					<p>
-						Rank the currents <m>I_1</m>, <m>I_2</m>, <m>I_C</m>, and <m>I_D</m> from greatest to least. Explain how you determined your answer.
-					</p>
-				</li>
-				<li>
-					<p>
-						Suppose that bulb 1 were removed, leaving a gap in the circuit. Would this cause bulb 2 to get brighter, less bright, or to stay the same brightness? Explain.
-					</p>
-				</li>
-				<li>
-					<p>
-						Suppose that battery C were removed, leaving a gap in the circuit. Would this cause bulbs 1 and 2 to get brighter, less bright, or to stay the same brightness? Explain.
-					</p>
-				</li>
-			</ol>
-		</statement>
-	</investigation>
-
-	<figure xml:id="fig-circuit_6">
-    	<caption>Circuit diagram.</caption>
-    	<image source="circ/circuit-6.png" width = "40%" ></image>
-	</figure>
-
-	<project>
-		<title>Circuit III</title>
-		<statement>
-			<p>
-				The switch shown has been set to the left in the circuit above for a long time (the two batteries are identical). You then flip the switch to the right. Immediately after you flip the switch, what is the current through the circuit?
-			</p>
-		</statement>
-	</project>
-	
-	<figure xml:id="fig-circuit_7">
-    	<caption>Circuit diagram.</caption>
-    	<image source="circ/circuit-7.png" width = "40%" ></image>
-	</figure>
-
-	<investigation>
-		<title>Circuit IV</title>
-		<statement>
+			<figure xml:id="fig-circuit_7">
+			<caption>Circuit diagram.</caption>
+			<image source="circ/circuit-7.png" width = "40%" ></image>
+		</figure>
 			<p>
 				Bulb A in the top circuit above is replaced by a battery, as shown in the bottom circuit above. Does the brightness of light bulbs B and C increase, decrease, or remain the same? Please include separate reasoning (part 2) and conclusions (part 3) for each bulb.
 			</p>
 		</statement>	
 	</investigation>
-
-	<figure xml:id="fig-circuit_8">
-    	<caption>Circuit diagram.</caption>
-    	<image source="circ/circuit-8.png" width = "40%" ></image>
-	</figure>
 	
 	<investigation>
-		<title>Circuit V</title>
+		<title>Circuit 2</title>
 		<statement>
+			<figure xml:id="fig-circuit_8">
+				<caption>Circuit diagram.</caption>
+				<image source="circ/circuit-8.png" width = "40%" ></image>
+			</figure>
 			<p>
 				The circuit above includes five identical linear resistors with resistance 5 <m>\Omega</m>. The battery provides 32 V.
 			</p>
@@ -172,6 +55,10 @@
 			</p>
 		</statement>
 	</investigation>
+
+	<subsection>
+		<title>Metacognitive Reflection</title>
+	</subsection>
 	
 </section>
 

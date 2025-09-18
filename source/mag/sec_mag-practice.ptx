@@ -12,230 +12,290 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
+	<subsection>
+		<title>Explanation Practice</title>
+
+		<investigation>
+			<title>Magnets in a Magnetic Field</title>
+			<statement>
+				<p>
+					You have two cylindrical bar magnets with the same mass, length, and dipole moment, but different moments of inertia, <m>I_1</m> and <m>I_2</m>.  You place each bar magnet so that it is initially oriented perpendicular to a uniform magnetic field.  When you let each bar magnet go from rest, you find that magnet 1 takes less time than magnet 2 to rotate so that it is parallel to the magnetic field.  Is <m>I_1</m> greater than, less than, or equal to <m>I_2</m>?
+				</p>
+			</statement>	
+		</investigation>
+
+		<investigation>
+			<title>Magnetic Field from Three Wires</title>
+			<statement>
+				<p>
+					Three wires carry the same current <m>I_o</m> out of the page.  The wires are located at different points along the <m>x</m>-axis: at <m>x = -L</m>, at <m>x = 0</m>, and at <m>x = +L</m>.  Determine the magnetic field a distance <m>y</m> above the center wire.
+				</p>
+			</statement>
+		</investigation>
+
+		<investigation>
+			<title>Current Carrying Wires</title>
+			<statement>
+				<p>
+					The two wires shown below carry the same current in opposite directions.  You observe a proton at each of the marked points moving upward with the same speed.  (Each marked point is the same distance from its nearest wire.)  Rank the three points by the magnitude of the magnetic force that the proton experiences, and indicate the direction of the magnetic force in each case.
+				</p>
+				<figure xml:id="fig-current_wires">
+					<caption>Two wires carry current in opposite directions.</caption>
+					<image source="mag/current-wires.png" width = "40%" ></image>
+				</figure>
+			</statement>
+		</investigation>
+	</subsection>
+
+	<subsection>
+		<title>A*R*C*S Practice</title>
+
+		<project>
+			<title>Loop of Wire</title>
+			<statement>
+				<p>
+					A circular loop of wire with radius <m>R</m> is in a uniform magnetic field with magnitude <m>B</m> that points in the positive <m>z</m>-direction.  The loop is initially in the <m>xy</m>-plane and carries a constant, unknown current.  Flipping the loop over requires you to do positive work (<m>W</m>).  Determine the current in the loop.
+				</p>
+			</statement>
+		</project>
+
+		<project>
+			<title>Wires Around a Circle</title>
+			<statement>
+				<p>
+					Five identical current-carrying wires are located along the circumference of a circle of radius <m>R</m> at angles of <m>0^\circ</m>, <m>45^\circ</m>, <m>90^\circ</m>, <m>135^\circ</m>, and <m>180^\circ</m>, all measured from the positive x-axis. Each wire carries current Io out of the page. Determine the magnetic field at the origin.
+				</p>
+			</statement>
+		</project>
+	</subsection>
+		
+	<subsection>
+		<title>Numerical Practice</title>
   
-	<exploration>
-		<title>Current Carrying Wire</title>
-		<statement>
-			<p>
-				A very long, straight segment of current-carrying wire is oriented vertically.  This current-carrying wire creates a magnetic field that points into the page on the right hand side of the wire, and out of the page on the left hand side of the wire.  What is the direction of current in this wire?
-			</p>
-		</statement>
-		<answer>
-			<p>
-				Upward.
-			</p>
-		</answer>
-	</exploration>
-	
-	<figure xml:id="bs-current">
-		<title>Three Wires</title>
-		<caption>Three wires oriented in the shape of a triangle.</caption>
-		<image source="mag/current-wire.png" width = "50%" ></image>
-	</figure>
+		<exploration>
+			<title>Current Carrying Wire</title>
+			<statement>
+				<p>
+					A very long, straight segment of current-carrying wire is oriented vertically.  This current-carrying wire creates a magnetic field that points into the page on the right hand side of the wire, and out of the page on the left hand side of the wire.  What is the direction of current in this wire?
+				</p>
+			</statement>
+			<answer>
+				<p>
+					Upward.
+				</p>
+			</answer>
+		</exploration>
+		
+		<figure xml:id="bs-current">
+			<title>Three Wires</title>
+			<caption>Three wires oriented in the shape of a triangle.</caption>
+			<image source="mag/current-wire.png" width = "50%" ></image>
+		</figure>
 
-	<exploration>
-		<title>Three Wires</title>
-		<statement>
-			<p>
-				The figure above shows three current-carrying wires, viewed from behind.  Each of the bottom two wires carries 10 A of current, flowing into the page. 
-			</p>
-			<ol>
-				<li>
-					<p>
-						What direction must current in the top wire be flowing if the point equidistant to all three wires has zero net magnetic field?
-					</p>
-				</li>
-				<li>
-					<p>
-						What current magnitude must be flowing in the top wire if the point equidistant to all three wires has zero net magnetic field?
-					</p>
-				</li>
-			</ol>
-		</statement>
-		<answer>
-			<p>
-				Into the page.
-			</p>
-		</answer>
-		<answer>
-			<p>
-				10.0 A
-			</p>
-		</answer>
-	</exploration>
+		<exploration>
+			<title>Three Wires</title>
+			<statement>
+				<p>
+					The figure above shows three current-carrying wires, viewed from behind.  Each of the bottom two wires carries 10 A of current, flowing into the page. 
+				</p>
+				<ol>
+					<li>
+						<p>
+							What direction must current in the top wire be flowing if the point equidistant to all three wires has zero net magnetic field?
+						</p>
+					</li>
+					<li>
+						<p>
+							What current magnitude must be flowing in the top wire if the point equidistant to all three wires has zero net magnetic field?
+						</p>
+					</li>
+				</ol>
+			</statement>
+			<answer>
+				<p>
+					Into the page.
+				</p>
+			</answer>
+			<answer>
+				<p>
+					10.0 A
+				</p>
+			</answer>
+		</exploration>
 
-	<exploration>
-		<title>Current Loop on a Table</title>
-		<statement>
-			<p>
-				A circular loop of wire lies horizontally on the surface of a table. The wire carries current flowing counter-clockwise, as viewed from above. A permanent magnet, oriented perpendicular to the table with its south pole closest to the table, is placed directly above the loop's center. In what direction is the net magnetic field at a location midway between the loop's center and the permanent magnet?
-			</p>
-		</statement>
-		<answer>
-			<p>
-				Upward, away from the table.
-			</p>
-		</answer>
-	</exploration>
+		<exploration>
+			<title>Current Loop on a Table</title>
+			<statement>
+				<p>
+					A circular loop of wire lies horizontally on the surface of a table. The wire carries current flowing counter-clockwise, as viewed from above. A permanent magnet, oriented perpendicular to the table with its south pole closest to the table, is placed directly above the loop's center. In what direction is the net magnetic field at a location midway between the loop's center and the permanent magnet?
+				</p>
+			</statement>
+			<answer>
+				<p>
+					Upward, away from the table.
+				</p>
+			</answer>
+		</exploration>
 
-	<exploration>
-		<title>Electromagnet</title>
-		<statement>
-			<p>
-				An electromagnet is created by coiling a single wire into a set of identical loops and then sending a current along the wire. (You can try this with a 9-V battery, some wire, and a nail to wrap it around.) What advantage does an electromagnet have that a permanent magnet does not have?
-			</p>
-		</statement>
-		<answer>
-			<p>
-				Its magnetism can be made stronger or weaker by changing the current.
-			</p>
-		</answer>
-	</exploration>
+		<exploration>
+			<title>Electromagnet</title>
+			<statement>
+				<p>
+					An electromagnet is created by coiling a single wire into a set of identical loops and then sending a current along the wire. (You can try this with a 9-V battery, some wire, and a nail to wrap it around.) What advantage does an electromagnet have that a permanent magnet does not have?
+				</p>
+			</statement>
+			<answer>
+				<p>
+					Its magnetism can be made stronger or weaker by changing the current.
+				</p>
+			</answer>
+		</exploration>
 
-	<exploration>
-		<title>Electron in a Magnetic Field</title>
-		<statement>
-			<p>
-				An electron, moving at <m>5.0 \times 10^3 \mathrm{m}/\mathrm{s}</m> in a 1.75 T magnetic field, experiences a magnetic force magnitude of <m>4.788 \times 10^{-16} \ \mathrm{N}</m>.  Which of the following could be the angle between the electron's velocity vector and the magnetic field vector?
-			</p>
-			<ol>
-				<li>
-					<p>
-						<m>0^\circ</m>
-					</p>
-				</li>
-				<li>
-					<p>
-						<m>90^\circ</m>
-					</p>
-				</li>
-				<li>
-					<p>
-						<m>20^\circ</m>
-					</p>
-				</li>
-				<li>
-					<p>
-						<m>160^\circ</m>
-					</p>
-				</li>
-				<li>
-					<p>
-						<m>180^\circ</m>
-					</p>
-				</li>
-			</ol>
-		</statement>
-		<answer>
-			<p>
-				(3) and (4)
-			</p>
-		</answer>
-	</exploration>
+		<exploration>
+			<title>Electron in a Magnetic Field</title>
+			<statement>
+				<p>
+					An electron, moving at <m>5.0 \times 10^3 \mathrm{m}/\mathrm{s}</m> in a 1.75 T magnetic field, experiences a magnetic force magnitude of <m>4.788 \times 10^{-16} \ \mathrm{N}</m>.  Which of the following could be the angle between the electron's velocity vector and the magnetic field vector?
+				</p>
+				<ol>
+					<li>
+						<p>
+							<m>0^\circ</m>
+						</p>
+					</li>
+					<li>
+						<p>
+							<m>90^\circ</m>
+						</p>
+					</li>
+					<li>
+						<p>
+							<m>20^\circ</m>
+						</p>
+					</li>
+					<li>
+						<p>
+							<m>160^\circ</m>
+						</p>
+					</li>
+					<li>
+						<p>
+							<m>180^\circ</m>
+						</p>
+					</li>
+				</ol>
+			</statement>
+			<answer>
+				<p>
+					(3) and (4)
+				</p>
+			</answer>
+		</exploration>
 
-	<exploration>
-		<title>Charged Baseball</title>
-		<statement>
-			<p>
-				Consider an electrically charged baseball that is pitched toward a batter in the presence of the Earth's magnetic field.
-			</p>
-			<ol>
-				<li>
-					<p>
-						The ball is thrown at 35.0 m/s perpendicular to the Earth's <m>5.0 \times 10^{-5}</m> T magnetic field.  If the ball experiences a 1.00 N magnetic force magnitude, what is the net charge on the ball?
-					</p>
-				</li>
-				<li>
-					<p>
-						If the baseball has a charge of 571 C and is thrown with a speed of 35 m/s in a direction <m>30^\circ</m> with respect to Earth's <m>5.0 \times 10^{-5}</m> T magnetic field, what magnetic force magnitude is exerted on the ball? 
-					</p>
-				</li>
-			</ol>
-		</statement>
-		<answer>
-			<p>
-				571 C
-			</p>
-		</answer>
-		<answer>
-			<p>
-				0.5 N
-			</p>
-		</answer>
-	</exploration>
+		<exploration>
+			<title>Charged Baseball</title>
+			<statement>
+				<p>
+					Consider an electrically charged baseball that is pitched toward a batter in the presence of the Earth's magnetic field.
+				</p>
+				<ol>
+					<li>
+						<p>
+							The ball is thrown at 35.0 m/s perpendicular to the Earth's <m>5.0 \times 10^{-5}</m> T magnetic field.  If the ball experiences a 1.00 N magnetic force magnitude, what is the net charge on the ball?
+						</p>
+					</li>
+					<li>
+						<p>
+							If the baseball has a charge of 571 C and is thrown with a speed of 35 m/s in a direction <m>30^\circ</m> with respect to Earth's <m>5.0 \times 10^{-5}</m> T magnetic field, what magnetic force magnitude is exerted on the ball? 
+						</p>
+					</li>
+				</ol>
+			</statement>
+			<answer>
+				<p>
+					571 C
+				</p>
+			</answer>
+			<answer>
+				<p>
+					0.5 N
+				</p>
+			</answer>
+		</exploration>
 
-	<exploration>
-		<title>Charge Around a Wire</title>
-		<statement>
-			<p>
-				A long, straight, current-carrying wire is oriented along the x-axis. The current in this wire is 5.00 A, flowing in the positive x-direction. A positive point charge of 3.00 mC is traveling at a speed of <m>10^6</m> m/s in the positive x-direction, along a path parallel to the wire at a distance of 30.0 cm above it.
-			</p>
-			<ol>
-				<li>
-					<p>
-						What is the magnitude of the magnetic force acting on the point charge?
-					</p>
-				</li>
-				<li>
-					<p>
-						What is the direction of the magnetic force acting on the point charge?  Let the positive x-axis point horizontally to the right, the positive y-direction point vertically upward, and the positive z-direction point out of the page.
-					</p>
-				</li>
-			</ol>
-		</statement>
-		<answer>
-			<p>
-				0.01 N
-			</p>
-		</answer>
-		<answer>
-			<p>
-				Downward (the negative y-direction).
-			</p>
-		</answer>
-	</exploration>
+		<exploration>
+			<title>Charge Around a Wire</title>
+			<statement>
+				<p>
+					A long, straight, current-carrying wire is oriented along the x-axis. The current in this wire is 5.00 A, flowing in the positive x-direction. A positive point charge of 3.00 mC is traveling at a speed of <m>10^6</m> m/s in the positive x-direction, along a path parallel to the wire at a distance of 30.0 cm above it.
+				</p>
+				<ol>
+					<li>
+						<p>
+							What is the magnitude of the magnetic force acting on the point charge?
+						</p>
+					</li>
+					<li>
+						<p>
+							What is the direction of the magnetic force acting on the point charge?  Let the positive x-axis point horizontally to the right, the positive y-direction point vertically upward, and the positive z-direction point out of the page.
+						</p>
+					</li>
+				</ol>
+			</statement>
+			<answer>
+				<p>
+					0.01 N
+				</p>
+			</answer>
+			<answer>
+				<p>
+					Downward (the negative y-direction).
+				</p>
+			</answer>
+		</exploration>
 
-	<exploration>
-		<title>Current-Carrying Wires</title>
-		<statement>
-			<p>
-				Two current-carrying wires are parallel to each other. Then the current in one is increased by a factor of 2, the current in the other is increased by a factor of 3, and the distance between the wires is decreased by a factor of 1/3. How does this change the force magnitude exerted by one wire on the other?
-			</p>
-		</statement>
-		<answer>
-			<p>
-				It increases by a factor of 18.
-			</p>
-		</answer>
-	</exploration>
+		<exploration>
+			<title>Current-Carrying Wires</title>
+			<statement>
+				<p>
+					Two current-carrying wires are parallel to each other. Then the current in one is increased by a factor of 2, the current in the other is increased by a factor of 3, and the distance between the wires is decreased by a factor of 1/3. How does this change the force magnitude exerted by one wire on the other?
+				</p>
+			</statement>
+			<answer>
+				<p>
+					It increases by a factor of 18.
+				</p>
+			</answer>
+		</exploration>
 
-	<exploration>
-		<title>Cosmic Rays</title>
-		<statement>
-			<p>
-				A cosmic ray electron moves at <m>7.6 \times 10^6</m> m/s perpendicular to the Earth's magnetic field at an altitude where the strength of that field is <m>1.02 \times 10^{-5}</m> T.  What is the radius of the circular path the electron follows?
-			</p>
-		</statement>
-		<answer>
-			<p>
-				4.24 m
-			</p>
-		</answer>
-	</exploration>
+		<exploration>
+			<title>Cosmic Rays</title>
+			<statement>
+				<p>
+					A cosmic ray electron moves at <m>7.6 \times 10^6</m> m/s perpendicular to the Earth's magnetic field at an altitude where the strength of that field is <m>1.02 \times 10^{-5}</m> T.  What is the radius of the circular path the electron follows?
+				</p>
+			</statement>
+			<answer>
+				<p>
+					4.24 m
+				</p>
+			</answer>
+		</exploration>
 
-	<exploration>
-		<title>Antimatter Drive</title>
-		<statement>
-			<p>
-				Viewers of Star Trek hear of an antimatter drive on the Starship Enterprise.  One possibility for such a futuristic energy source is to store charged antimatter particles in a vacuum chamber, circulating in a magnetic field, then extract them as needed.  (Antimatter annihilates with normal matter, producing pure energy.)  What strength magnetic field is needed to hold antiprotons that are moving at <m>5.00 \times 10^7</m> m/s in a circular path 2.00 m in radius?  (Antiprotons have the same mass as protons but are negatively charged.)
-			</p>
-		</statement>
-		<answer>
-			<p>
-				0.261 T
-			</p>
-		</answer>
-	</exploration>
+		<exploration>
+			<title>Antimatter Drive</title>
+			<statement>
+				<p>
+					Viewers of Star Trek hear of an antimatter drive on the Starship Enterprise.  One possibility for such a futuristic energy source is to store charged antimatter particles in a vacuum chamber, circulating in a magnetic field, then extract them as needed.  (Antimatter annihilates with normal matter, producing pure energy.)  What strength magnetic field is needed to hold antiprotons that are moving at <m>5.00 \times 10^7</m> m/s in a circular path 2.00 m in radius?  (Antiprotons have the same mass as protons but are negatively charged.)
+				</p>
+			</statement>
+			<answer>
+				<p>
+					0.261 T
+				</p>
+			</answer>
+		</exploration>
+	</subsection>
 
 	<references>
 		<biblio xml:id="ref_boxsand-mag">

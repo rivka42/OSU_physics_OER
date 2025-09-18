@@ -12,21 +12,152 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
-	
-	
-	<p>
-		For each of the questions in the next activity, consider two charges placed at the locations shown in the image below (the circle is drawn for clarity -- it is imaginary). Let <m>R = 5.0</m> cm, <m>q_1 = 3.0 \ \mu</m>C, and <m>q_2 = 1.0 \ \mu</m>C. Now suppose that a proton is placed at the center of the circle.
-	</p>
+	<subsection>
+		<title>Explanation Practice</title>
+		<investigation xml:id="apply_elec-03">
+			<title>Three Wires</title>
+			<statement>
+				<p>Three straight wires (with one end at <m>x = –L</m> and the other end at <m>x = +L</m>) each have the same total charge <m>+Q</m> distributed differently.  Wire A has charge density <m>\lambda_A(x) = +\alpha x^2</m>.  Wire B has charge density <m>\lambda_B(x) = +\beta \cos\left(\frac{\pi x}{2L}\right)</m>.  Wire C has uniform charge density <m>+\lambda_C</m>.</p>
+				<p>You want to predict how the electric fields of these three wires will compare a distance <m>L</m> above the center of each rod (along the <m>y</m>-axis).  Rank the three wires by the magnitude of the electric field produced at this location from smallest to largest.
+				</p>
+			</statement>
+			<hint>
+				<p>You will need to make a qualitative argument; do not solve for the magnitude of each electric field.</p>
+			</hint>
+		</investigation>
 
-	<figure xml:id="x_charge-on-circle">
-		<title>Point Charges on a Circle</title>
-		<caption>Two point charges on a circle of radius <m>R</m>.</caption>
-		<image source="elec/charge-on-circle.png" width = "35%" ></image>
-	</figure>
+		<investigation xml:id="study_elec-03">
+			<title>Trio of Charges</title>
+			<statement>
+				<p>You have two point charges at different locations along the <m>x</m>-axis.  Each charge can have either <m>+q_o</m> or <m>-q_o</m>.  Sketch a charge diagram showing the configuration and sign of the charges if the electric field at the origin is zero.
+				</p>
+			</statement>
+		</investigation>
+
+		<investigation xml:id="study_elec-02">
+			<title>Charged Wires</title>
+			<statement>
+				<p>A charged wire has one end at <m>x = -L</m> and the other end at <m>x = L</m>.  The wire has a known, non-uniform charge density <m>\lambda(x) = \frac{q_o}{L^2}  x</m>.  You have an electric field generator that can make different electric fields, but when you set it to create a uniform electric field you find that the net force on the wire is 0!  Which of the following alternate settings for your electric field generator would result in a nonzero net force on the wire?
+					<me>\vec{E}_1 = - E_o\frac{x}{L}\hat{y}</me>
+					<me>\vec{E}_2 = - E_o\left(\frac{x}{L}\right)^2 \hat{y}</me>
+				</p>
+			</statement>
+		</investigation>
 	
-	<exploration xml:id="psa_elec-alpha7">
-		<title>Charges on a Circle</title>
-		<statement>
+		<investigation xml:id="apply_elec-02">
+			<title>Three Electric Fields</title>
+			<statement>
+				<p>A charged wire has one end at <m>x = –L</m> and the other end at <m>x = L</m>.  The wire has a known, non-uniform charge density <m>\lambda(x) = \frac{q_o}{L} \cos\left(\frac{\pi x}{2L}\right)</m>.  You have an electric field generator that can make the following three electric fields:
+					<me>\vec{E}_A = E_o\hat{y}</me>
+					<me>\vec{E}_B = E_o\frac{x}{L} \hat{y}</me>
+					<me>\vec{E}_C = E_o\left(\frac{x}{L}\right)^2 \hat{y}</me>
+					Which electric field will give you the smallest net force on the wire?  Which will give you the largest net force on the wire?  (You may calculate the net forces to check your answer, but your explanation should be qualitative.)
+				</p>
+				<p>
+				As part of your explanation, you should include and use the following:
+				<ul>
+				<li>a charge diagram of the wire showing the charge density, using <m>+</m> and <m>-</m> symbols to represent positive and negative charge</li>
+				<li>an electric field vector map for each electric field</li>
+				</ul>
+
+				</p>
+			</statement>	
+		</investigation>
+
+		<investigation xml:id="study_elec-07">
+			<title>Distributed Charges</title>
+			<statement>
+				<figure xml:id="x_point-charges-arc">
+					<title>Point Charges and Arc Figure</title>
+					<caption>A distribution of point charges.</caption>
+					<image source="point-charges-arc.png" width = "35%" ></image>
+				</figure>
+				<p>In the figure above, the charge on the left is <m>+q_L</m> and the total charge on the right is <m>+q_R</m>.  The charges on the right are all identical and are spread out uniformly along an arc of radius <m>R</m>.  Is the magnitude of the net electric force on <m>+q_L</m> <em>greater than</em>, <em>less than</em>, or <em>equal to</em> <m>k\frac{q_L q_R}{R^2}</m>?
+				</p>
+			</statement>
+		</investigation>
+	</subsection>
+
+	<subsection>
+		<title>A*R*C*S Practice</title>
+
+		<project xml:id="study_elec-04">
+			<title>Square of Charges</title>
+			<statement>
+				<p>Find the electric field at the center of a square with charges of <m>+q</m>, <m>+2q</m>, <m>+3q</m>, and <m>+4q</m> on the corners (going clockwise starting from the upper right corner).</p>
+			</statement>
+		</project>
+
+		<project>
+	        <title>Torque on an Electric Dipole </title>
+			<statement>
+		    <p>An electric dipole consists of two opposite charges <m> \pm q</m>  separated by a small distance <m> d</m>.  The product <m> p=qd</m>  is called the <em> dipole moment</em>. The figure below shows an electric dipole perpendicular to an electric field <m> \vec{E}</m>. Determine an expression in terms of p and E for the magnitude of the torque that the electric field exerts on the dipole. </p>
+		    <figure xml:id="dipole_torque">
+				<title>A dipole in an electric field. </title>
+    			<caption>A dipole in an electric field. </caption>
+    			<image source="elec/dipole_torque.png" width = "80%" ></image>
+			</figure>
+			</statement>
+		</project>
+
+		<project>
+	        <title>Launching an Electron</title>
+			<statement>
+				<p> 
+					An electron is launched at a <m> 45^{\circ} </m> angle and a speed of <m> 5.0×10^6</m>  <m> m/s</m> from the positive plate of the parallel-plate capacitor shown below. The electron lands <m> 4.0 </m>  <m> cm</m> away. 
+				</p>
+				<ol>
+					<li>
+						Determine the electric field inside the parallel place capacitor. Hint: are there approximations that are useful here?
+					</li>
+					<li>
+						What is the minimum spacing <m> d </m> between the plates for the electron to land <m> 4.0 </m>  <m> cm</m> away?	    
+					</li>
+				</ol>
+				<figure xml:id="electron_launch">
+					<title>An electron Launched in a Capacitor</title>
+					<caption>An electron Launched in a Capacitor. </caption>
+					<image source="elec/electron_launch.png" width = "80%" ></image>
+				</figure>
+			</statement>
+		</project>
+	
+		<project xml:id="study_elec-05">
+			<title>Lines of Charges</title>
+			<statement>
+				<p>A positively charged wire with uniform charge density <m>+\lambda</m> lies along the <m>x</m>-axis and a negatively charged wire with uniform charge density <m>-\lambda</m> lies along the <m>y</m>-axis (both lines are infinitely long).  Find the electric field at the point <m>(x, y)</m>.  You may look up the electric field due to an infinitely long wire with uniform charge density.</p>
+			</statement>
+			<hint>
+				<p>Sketch an electric field vector map for the xy-plane.</p>
+			</hint>
+			<hint>
+				<p>Use your sketch of the electric field vector map to help interpret your answer.</p>
+			</hint>
+		</project>
+
+		<project xml:id="study_elec-08">
+			<title>Split Wire</title>
+			<statement>
+				<p>A straight wire with one end at <m>x = –L</m> and the other end at <m>x = +L</m> has a total charge <m>+Q_o</m> distributed uniformly along the right side and total charge <m>-Q_o</m> distributed uniformly along the left side.  Find the electric field at a point on the <m>y</m>-axis a distance <m>a</m> from the center of the wire.</p>
+			</statement>
+		</project>
+	</subsection>
+
+	<subsection>
+		<title>Numerical Practice</title>
+	
+		<exploration xml:id="psa_elec-alpha7">
+			<title>Charges on a Circle</title>
+			<statement>
+				<p>
+				For each of the questions in the next activity, consider two charges placed at the locations shown in the image below (the circle is drawn for clarity -- it is imaginary). Let <m>R = 5.0</m> cm, <m>q_1 = 3.0 \ \mu</m>C, and <m>q_2 = 1.0 \ \mu</m>C. Now suppose that a proton is placed at the center of the circle.
+				</p>
+
+				<figure xml:id="x_charge-on-circle">
+					<title>Point Charges on a Circle</title>
+					<caption>Two point charges on a circle of radius <m>R</m>.</caption>
+					<image source="elec/charge-on-circle.png" width = "35%" ></image>
+				</figure>
 				<ol>
 					<li>
 						<p>
@@ -49,153 +180,111 @@
 						</p>
 					</li>
 				</ol>
-		</statement>
-		<answer>
-			<p><m>1.73 \times 10^{-12}</m> N</p>
-		</answer>
-		<answer>
-			<p>
-				<m>5.76 \times 10^{-13}</m> N
-			</p>
-		</answer>
-		<answer>
-			<p>
-				<m>1.82 \times 10^{-12}</m> N
-			</p>
-		</answer>
-		<answer>
-			<p>
-				<m>108^\circ</m>
-			</p>
-		</answer>
-	</exploration>
+			</statement>
+			<answer>
+				<p><m>1.73 \times 10^{-12}</m> N</p>
+			</answer>
+			<answer>
+				<p>
+					<m>5.76 \times 10^{-13}</m> N
+				</p>
+			</answer>
+			<answer>
+				<p>
+					<m>1.82 \times 10^{-12}</m> N
+				</p>
+			</answer>
+			<answer>
+				<p>
+					<m>108^\circ</m>
+				</p>
+			</answer>
+		</exploration>
 
 
-	<exploration>
-		<title>Electric Field of Many Charges</title>
-		<statement>
-			<p>
-				Consider a negative charge <m>q_1</m> = -9.00 nC that exists in a space far away from other charges. Let the charge <m>q_1</m> lie at the origin of a standard coordinate system. What is the electric field at a point P in space that has coordinates  (2, -3, 6) m?
-			</p>
-		</statement>
-		<answer>
-			<p>
-				<m>\vec{E} = (-0.472 \ \mathrm{N}/\mathrm{C})\hat{x} + (0.708 \ \mathrm{N}/\mathrm{C})\hat{y} + (-1.42 \ \mathrm{N}/\mathrm{C})\hat{z}</m>
-			</p>
-		</answer>
-	</exploration>
+		<exploration>
+			<title>Electric Field of Many Charges</title>
+			<statement>
+				<p>
+					Consider a negative charge <m>q_1</m> = -9.00 nC that exists in a space far away from other charges. Let the charge <m>q_1</m> lie at the origin of a standard coordinate system. What is the electric field at a point P in space that has coordinates  (2, -3, 6) m?
+				</p>
+			</statement>
+			<answer>
+				<p>
+					<m>\vec{E} = (-0.472 \ \mathrm{N}/\mathrm{C})\hat{x} + (0.708 \ \mathrm{N}/\mathrm{C})\hat{y} + (-1.42 \ \mathrm{N}/\mathrm{C})\hat{z}</m>
+				</p>
+			</answer>
+		</exploration>
 
-	<figure xml:id="x_charge-on-square">
-		<title>Point Charges in a Square</title>
-		<caption>Multiple point charges within a square.</caption>
-		<image source="elec/charges-square.png" width = "35%" ></image>
-	</figure>
+		<exploration>
+			<title>Charges in a Square</title>
+			<statement>
+				<figure xml:id="x_charge-on-square">
+					<title>Point Charges in a Square</title>
+					<caption>Multiple point charges within a square.</caption>
+					<image source="elec/charges-square.png" width = "35%" ></image>
+				</figure>
+				<p>
+					Consider the charge configuration in the diagram above.
+				</p>
+				<p>
+					<ol>
+						<li>
+							<p>
+								Determine the direction of the electric field at the center of the square in the figure, given that <m>q_a</m> = <m>q_b</m> = -1.00 <m>\mu</m>C and <m>q_c</m> = <m>q_d</m> = +1.00 <m>\mu</m>C.
+							</p>
+						</li>
+						<li>
+							<p>
+								Calculate the magnitude of the electric field at the location of <m>q</m>, given that the square is 5.00 cm on a side.
+							</p>
+						</li>
+					</ol>
+				</p>
+			</statement>
+			<answer>
+				<p>
+					The electric field at the center of the square will be straight up.
+				</p>
+			</answer>
+			<answer>
+				<p>
+					<m>|\vec{E}| = 2.04 \times 10^7 \mathrm{N}/\mathrm{C}</m>
+				</p>
+			</answer>
+		</exploration>
 
-	<exploration>
-		<title>Charges in a Square</title>
-		<statement>
-			<p>
-				Consider the charge configuration in the diagram above.
-			</p>
-			<p>
+		<exploration>
+			<title>Protons Around a Circle</title>
+			<statement>
+				<p>
+					Consider 16 protons that are placed evenly along the circumference of a circle.
+				</p>
 				<ol>
 					<li>
 						<p>
-							Determine the direction of the electric field at the center of the square in the figure, given that <m>q_a</m> = <m>q_b</m> = -1.00 <m>\mu</m>C and <m>q_c</m> = <m>q_d</m> = +1.00 <m>\mu</m>C.
+							What is the direction of the electric field directly at the center of the circle?
 						</p>
 					</li>
 					<li>
 						<p>
-							Calculate the magnitude of the electric field at the location of <m>q</m>, given that the square is 5.00 cm on a side.
+							Now suppose that the proton at the top of the circle is removed. Now what is the direction of the electric field directly at the center of the circle?
 						</p>
 					</li>
 				</ol>
-			</p>
-		</statement>
-		<answer>
-			<p>
-				The electric field at the center of the square will be straight up.
-			</p>
-		</answer>
-		<answer>
-			<p>
-				<m>|\vec{E}| = 2.04 \times 10^7 \mathrm{N}/\mathrm{C}</m>
-			</p>
-		</answer>
-	</exploration>
-
-	<exploration>
-		<title>Protons Around a Circle</title>
-		<statement>
-			<p>
-				Consider 16 protons that are placed evenly along the circumference of a circle.
-			</p>
-			<ol>
-				<li>
-					<p>
-						What is the direction of the electric field directly at the center of the circle?
-					</p>
-				</li>
-				<li>
-					<p>
-						Now suppose that the proton at the top of the circle is removed. Now what is the direction of the electric field directly at the center of the circle?
-					</p>
-				</li>
-			</ol>
-		</statement>
-		<answer>
-			<p>
-				No direction; the electric field is zero.
-			</p>
-		</answer>
-		<answer>
-			<p>
-				Up
-			</p>
-		</answer>
-	</exploration>
-	<!--
-		<exploration xml:id="psa_elec-alpha8">
-	<title>Charge</title>
-	<statement>
-		    <p></p>
-		</statement>
-		<answer>
-		    <p></p>
-		</answer>
-	</exploration>
-	
-		<exploration xml:id="psa_elec-alpha9">
-	<title>Charge</title>
-	<statement>
-		    <p></p>
-		</statement>
-		<answer>
-		    <p></p>
-		</answer>
-	</exploration>
-	
-		<exploration xml:id="psa_elec-alpha10">
-	<title>Charge</title>
-	<statement>
-		    <p></p>
-		</statement>
-		<answer>
-		    <p></p>
-		</answer>
-	</exploration>
-	
-		<exploration xml:id="psa_elec-alpha11">
-	<title>Charge</title>
-	<statement>
-		    <p></p>
-		</statement>
-		<answer>
-		    <p></p>
-		</answer>
-	</exploration>
-	
-	-->		
+			</statement>
+			<answer>
+				<p>
+					No direction; the electric field is zero.
+				</p>
+			</answer>
+			<answer>
+				<p>
+					Up
+				</p>
+			</answer>
+		</exploration>
+	</subsection>
 
 	<references>
 		<biblio xml:id="ref_boxsand-elec-force">
@@ -207,8 +296,5 @@
 				Practice activities provided by Ling, S. J., Moebs, W., &amp; Sanny, J. (2016). Electric Charges and Fields. In University Physics Volume 2. OpenStax.
 			</p>
 		</biblio>
-
 	</references>
-	
 </section>
-

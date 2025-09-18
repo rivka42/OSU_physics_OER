@@ -12,18 +12,61 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
-	<figure xml:id="bs-eq-graph-1">
-		<title>Equipotential Lines</title>
-		<caption>Diagram of equipotential lines for an unknown charge distribution.</caption>
-		<image source="elec/eq-graph-1.png" width = "50%" ></image>
-	</figure>
-  
+
+	<subsection>
+		<title>Explanation Practice</title>
+
+		<investigation>
+			<title>Equipotential Graph I</title>
+			<statement>
+				<figure xml:id="fig_equipot-1">
+					<caption>Equipotential graph in the xy-plane.</caption>
+					<image source="elec/equipotential-graph-1.png" width = "75%" ></image>
+				</figure>
+				<p>
+					You acquire a wire that has the equipotential graph above. Rank the three indicated points (P, Q, and R) by the magnitude of the electric field from greatest to smallest.
+				</p>
+			</statement>			
+		</investigation>
+
+		<investigation>
+			<title>Equipotential Graph II</title>
+			<statement>
+				<p>
+					Describe the charge distribution of the equipotential graph above.
+				</p>
+			</statement>
+		</investigation>
+	</subsection>
+
+	<subsection>
+		<title>A*R*C*S Practice</title>
+
+		<project>
+			<title>Capacitor in an Air Conditioner</title>
+			<statement>
+				<p>
+					A large capacitor in an air conditioner is typically connected to the potential difference provided to your house (120 V). Although capacitors like this are usually cylindrical, model this one as a parallel plate capacitor with square plates separated by 2.0 mm. If you want your capacitor to store 0.25 J of energy, what is the area of the capacitor plates? How feasible do you think this answer is?
+				</p>
+			</statement>
+		</project>
+	</subsection>
+	
+
+<subsection>
+	<title>Numerical Practice</title>
+
 	<exploration>
 		<title>Equipotential Graph</title>
 		<statement>
 			<p>
-				The figure above shows a map of equipotential lines. The potential values for lines a, b, and c are 10 V, 20 V and 30 V respectively. If you release an electron on equipotential line b, which direction will it move?
+				The figure below shows a map of equipotential lines. The potential values for lines a, b, and c are 10 V, 20 V and 30 V respectively. If you release an electron on equipotential line b, which direction will it move?
 			</p>
+			<figure xml:id="bs-eq-graph-1">
+				<title>Equipotential Lines</title>
+				<caption>Diagram of equipotential lines for an unknown charge distribution.</caption>
+				<image source="elec/eq-graph-1.png" width = "50%" ></image>
+			</figure>
 		</statement>
 		<answer>
 			<p>
@@ -32,18 +75,17 @@
 		</answer>
 	</exploration>
 
-	<figure xml:id="bs-eq-graph-2">
-		<title>Equipotential Lines around Conductors</title>
-		<caption>Diagram of equipotential lines around two charged conductors.</caption>
-		<image source="elec/eq-graph-2.png" width = "50%" ></image>
-	</figure>
-
 	<exploration>
 		<title>Equipotential Lines around Conductors</title>
 		<statement>
 			<p>
-				 The sketch above shows equipotential lines (which are cross-sections of equipotential surfaces) between two charged conductors (shown in solid black).  Various points on the equipotential lines near the conductors are labeled A, B, C, …, I.  Each question regarding this situation has one correct answer.
+				 The sketch below shows equipotential lines (which are cross-sections of equipotential surfaces) between two charged conductors (shown in solid black).  Various points on the equipotential lines near the conductors are labeled A, B, C, …, I.  Each question regarding this situation has one correct answer.
 			</p>
+			<figure xml:id="bs-eq-graph-2">
+				<title>Equipotential Lines around Conductors</title>
+				<caption>Diagram of equipotential lines around two charged conductors.</caption>
+				<image source="elec/eq-graph-2.png" width = "50%" ></image>
+			</figure>
 			<ol>
 				<li>
 					<p>
@@ -226,5 +268,5 @@
 			</p>
 		</biblio>
 	</references>
+	</subsection>
 </section>
-

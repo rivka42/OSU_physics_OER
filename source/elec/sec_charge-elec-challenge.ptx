@@ -12,102 +12,28 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
-	
-	<project xml:id="study_elec-01">
-        <title>A Piece of Pollen</title>
-		<statement>
-		    <p>A piece of pollen typically has both a small mass (about <m>5 \mathrm{~ng}</m>) and a small amount of charge (about <m>1 \mathrm{~fC}</m>).  Estimate the electric field that a honeybee needs to create to carry a typical piece of pollen.</p>
-		</statement>
-		<!--<hint>
-		    <p></p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>-->
-	</project>
+		
+		<project xml:id="apply_elec-01">
+			<title>The Gecko</title>
+			<statement>
+				<p>One reason that a gecko (a small lizard with a mass of around <m>75</m> grams) can walk across a ceiling is the electric force.  If we assume the magnitude of the electric field acting on the gecko is <m>10^6 \mathrm{~N/C}</m>, determine the net charge on the gecko's feet.</p>
+			</statement>
+			<hint>
+				<p>Numerical sensemaking: explain why, for example, an elephant might have a tough time walking across a ceiling.</p>
+			</hint>
 
-    <project xml:id="apply_elec-01">
-        <title>The Gecko</title>
-		<statement>
-		    <p>One reason that a gecko (a small lizard with a mass of around <m>75</m> grams) can walk across a ceiling is the electric force.  If we assume the magnitude of the electric field acting on the gecko is <m>10^6 \mathrm{~N/C}</m>, determine the net charge on the gecko’s feet.</p>
-		</statement>
-<hint>
-		    <p>Numerical sensemaking: explain why, for example, an elephant might have a tough time walking across a ceiling.</p>
-		</hint>
+		</project>
 
-	</project>
+		
+		<project>
+			<title>A Charged Spring</title>
+			<statement>
+				<p>A massless horizontal pring is attached to a support at one end and has a <m> 2.0</m>  <m> \mu C</m> charge glued to the other end. A <m> 4.0</m>  <m> \mu C</m>  charge is slowly brought near. The spring has stretched <m> 1.2 </m>  <m> cm</m> when the charges are <m> 2.6</m>  <m> cm</m> apart. What is the spring constant of the spring?</p>
+			</statement>
+		</project>
 
-	
-	<project>
-	        <title>A Charged Spring</title>
-		<statement>
-		    <p>A massless horizontal pring is attached to a support at one end and has a <m> 2.0</m>  <m> \mu C</m> charge glued to the other end. A <m> 4.0</m>  <m> \mu C</m>  charge is slowly brought near. The spring has stretched <m> 1.2 </m>  <m> cm</m> when the charges are <m> 2.6</m>  <m> cm</m> apart. What is the spring constant of the spring?</p>
-		</statement>
-			</project>
-			
-			<project>
-	        <title>Electric Field Components</title>
-		<statement>
-		    <p>The electric field at a point in space due to a nearby collection of charges is <m> \vec{E} = 400 \hat{x} + 100 \hat{y}</m>  <m> N/C </m>. 
-		    <ol>
-		    <li>
-		    What is the electric force on a proton if placed at this point? Give your answer in component form. 
-		    </li>
-		     <li>
-		     What is the electric force on an electron if placed at this point? Give your answer in component form.  
-		    </li>
-		      <li>
-		    What is the magnitude of the acceleration of a proton if placed at this point?		    
-		    </li>
-		     <li>
-		    What is the magnitude of the acceleration of an electron if placed at this point?		    
-		    </li>
+	<subsection>
+		<title>Metacognitive Reflection</title>
+	</subsection>
 
-		    </ol>
-		    </p>
-		</statement>
-			</project>
-			
-				<project>
-	        <title>A Hydrogen Atom</title>
-		<statement>
-		    <p>In a simple model of the hydrogen atom, the electron moves in a circular orbit of a radius <m> 0.053</m>  <m>nm</m> around a stationary proton. How many revolutions per second does the electron make?</p>
-		</statement>
-			</project>
-
-
-							<project>
-	        <title>Charged Pendulum </title>
-		<statement>
-		    <p> 
-		    	Two <m> 5.0</m>  <m> g</m>  point charges on <m> 1.0</m>  <m> m</m> long threads are charged to  <m> +100.0</m>  <m> nC</m>. Determine the unknown angle <m> \theta</m>.  You can assume that <m> \theta</m> is a small angle. 
-		    </p>
-		    <figure xml:id="charge_pendulum">
-		<title>Charged Pendulum </title>
-    	<caption>A charged pendulum. </caption>
-    		<image source="elec/charge_pendulum.png" width = "80%" ></image>
-</figure>
-
-		</statement>
-			</project>
-
-			<project xml:id="study_elec-06">
-        <title>Charge on a Spring</title>
-		<statement>
-		    <p>An ideal spring has spring constant <m>k_s</m> (to distinguish it from the electrostatic constant <m>k</m>) and equilibrium length <m>l</m>.  Then, you glue two identical negative point charges to the ends of the spring and observe that the equilibrium length doubles.  Determine the amount of charge on each end of the spring.</p>
-		</statement>
-		<!--<hint>
-		    <p></p>
-		</hint>
-		<solution>
-		    <p></p>
-		</solution>-->
-	</project>
-
-
-			
-
-  
-	
 </section>
-

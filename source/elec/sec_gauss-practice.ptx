@@ -27,15 +27,14 @@
 		</answer>
 	</exploration>
 
-	<figure xml:id="fig-charges-surfaces">
-		<title>Charges in Surfaces</title>
-		<caption>Charges in Gaussian surfaces.</caption>
-		<image source="elec/chargesSurfaces.jpg" width = "35%" ></image>
-	</figure>
-
 	<exploration>
 		<title>Greatest Total Flux</title>
 		<statement>
+			<figure xml:id="fig-charges-surfaces">
+				<title>Charges in Surfaces</title>
+				<caption>Charges in Gaussian surfaces.</caption>
+				<image source="elec/chargesSurfaces.jpg" width = "35%" ></image>
+			</figure>
 			<p>
 				Which rectangular Gaussian Surface in the figure above has the greatest total flux?
 			</p>

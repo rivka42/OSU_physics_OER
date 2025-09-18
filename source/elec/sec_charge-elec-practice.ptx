@@ -13,6 +13,83 @@
 	<m> \mathrm{~}</m>
 	-->
 
+	<!-- <subsection>
+		<title>Explanation Practice</title>
+	
+	</subsection> -->
+
+	<subsection>
+		<title>A*R*C*S Practice</title>
+
+		<project xml:id="study_elec-01">
+			<title>A Piece of Pollen</title>
+			<statement>
+				<p>A piece of pollen typically has both a small mass (about <m>5 \mathrm{~ng}</m>) and a small amount of charge (about <m>1 \mathrm{~fC}</m>).  Estimate the electric field that a honeybee needs to create to carry a typical piece of pollen.</p>
+			</statement>
+			<!--<hint>
+				<p></p>
+			</hint>
+			<solution>
+				<p></p>
+			</solution>-->
+		</project>
+
+		<project>
+	        <title>Electric Field Components</title>
+			<statement>
+				<p>The electric field at a point in space due to a nearby collection of charges is <m> \vec{E} = 400 \hat{x} + 100 \hat{y}</m>  <m> N/C </m>. 
+				<ol>
+				<li>
+				What is the electric force on a proton if placed at this point? Give your answer in component form. 
+				</li>
+				<li>
+				What is the electric force on an electron if placed at this point? Give your answer in component form.  
+				</li>
+				<li>
+				What is the magnitude of the acceleration of a proton if placed at this point?		    
+				</li>
+				<li>
+				What is the magnitude of the acceleration of an electron if placed at this point?		    
+				</li>
+
+				</ol>
+				</p>
+			</statement>
+		</project>
+			
+		<project>
+	        <title>A Hydrogen Atom</title>
+			<statement>
+				<p>In a simple model of the hydrogen atom, the electron moves in a circular orbit of a radius <m> 0.053</m>  <m>nm</m> around a stationary proton. How many revolutions per second does the electron make?</p>
+			</statement>
+		</project>
+
+
+		<project>
+	        <title>Charged Pendulum </title>
+			<statement>
+				<p> 
+					Two <m> 5.0</m>  <m> g</m>  point charges on <m> 1.0</m>  <m> m</m> long threads are charged to  <m> +100.0</m>  <m> nC</m>. Determine the unknown angle <m> \theta</m>.  You can assume that <m> \theta</m> is a small angle. 
+				</p>
+				<figure xml:id="charge_pendulum">
+					<title>Charged Pendulum </title>
+					<caption>A charged pendulum. </caption>
+					<image source="elec/charge_pendulum.png" width = "80%" ></image>
+				</figure>
+			</statement>
+		</project>
+
+		<project xml:id="study_elec-06">
+			<title>Charge on a Spring</title>
+			<statement>
+				<p>An ideal spring has spring constant <m>k_s</m> (to distinguish it from the electrostatic constant <m>k</m>) and equilibrium length <m>l</m>.  Then, you glue two identical negative point charges to the ends of the spring and observe that the equilibrium length doubles.  Determine the amount of charge on each end of the spring.</p>
+			</statement>
+		</project>
+	</subsection>
+		
+	<subsection>
+	<title>Numerical Practice</title>
+
 	<exploration xml:id="psa_elec-alpha1">
 		<title>Net Charge I</title>
 		<statement>
@@ -267,15 +344,14 @@
 		
 	</exploration>
 
-	<figure xml:id="fig-charged-balls">
-		<title>Charged Balls</title>
-		<caption>Two charged balls attached to strings.</caption>
-		<image source="elec/charged-balls.jpg" width = "35%"  description="Two small balls are attached to threads which are in turn tied to the same point on the ceiling. The threads hang at an angle of 5.0 degrees to either side of the vertical. Each ball has a charge Q."></image>
-	</figure>
-
 	<exploration>
 		<title>Charged Balls on Strings</title>
 		<statement>
+			<figure xml:id="fig-charged-balls">
+				<title>Charged Balls</title>
+				<caption>Two charged balls attached to strings.</caption>
+				<image source="elec/charged-balls.jpg" width = "35%"  description="Two small balls are attached to threads which are in turn tied to the same point on the ceiling. The threads hang at an angle of 5.0 degrees to either side of the vertical. Each ball has a charge Q."></image>
+			</figure>
 			<p>
 				Two small balls, each of mass 5.0 g, are attached to silk threads 50 cm long, which are in turn tied to the same point on the ceiling, as shown above. When the balls are given the same charge Q, the threads hang at <m>5.0^\circ</m> to the vertical. What is the magnitude of Q? What are the signs of the two charges?
 			</p>
@@ -286,6 +362,7 @@
 			</p>
 		</answer>
 	</exploration>
+</subsection>
 
 	<references>
 		<biblio xml:id="ref_boxsand-charge">

@@ -12,20 +12,25 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
+		
+	<subsection>
+		<title>Numerical Practice</title>
 
-	<exploration>
-		<title>Magnetic Flux</title>
-		<statement>
-			<p>
-				What is the magnetic flux through an equilateral triangle with side 60 cm long, whose plane makes a 60 degree angle with a uniform magnetic field of 0.33 T?
-			</p>
-		</statement>
-		<answer>
-			<p>
-				0.056 Wb
-			</p>
-		</answer>
-	</exploration>
+		<exploration>
+			<title>Magnetic Flux</title>
+			<statement>
+				<p>
+					What is the magnetic flux through an equilateral triangle with side 60 cm long, whose plane makes a 60 degree angle with a uniform magnetic field of 0.33 T?
+				</p>
+			</statement>
+			<answer>
+				<p>
+					0.056 Wb
+				</p>
+			</answer>
+		</exploration>
+
+	</subsection>
 
 	<references>
 		<biblio xml:id="ref_boxsand-mag2">
@@ -33,6 +38,4 @@
 		</biblio>
 	</references>
 
-	
 </section>
-

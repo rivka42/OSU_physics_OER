@@ -27,218 +27,308 @@
 	</exploration>
 	-->
 
-	<exploration>
-		<title>Electric Potential Comparison</title>
-		<statement>
-			<p>
-				The electric potential at a location 1 m from a certain charged particle is 4 times the potential at a location 1 m from a different particle. How do the particles' charges compare? (These are two separate trials; assume that only one particle is present for each trial.)
-			</p>
-		</statement>
-		<answer>
-			<p>
-				The first particle has 4 times the charge of the second particle.
-			</p>
-		</answer>
-	</exploration>
+	<subsection>
+		<title>Explanation Practice</title>
 
-	<exploration>
-		<title>Moving Electron</title>
-		<statement>
-			<p>
-				An electron moves through a potential difference of -5.0 V. A second particle with twice the negative charge moves between the same two points.
-			</p>
-			<ol>
-				<li>
-					<p>
-						What change in electric potential does the second particle experience?
-					</p>
-				</li>
-				<li>
-					<p>
-						What change in electric potential energy does the second particle experience? (Note: The units used here are eV which are electron-volts. 1 electron-volt is the energy gained/lost by an electron when it goes through a potential difference of 1 volt.
-					</p>
-				</li>
-			</ol>
-		</statement>
-		<answer>
-			<p>
-				-5.0 V
-			</p>
-		</answer>
-		<answer>
-			<p>
-				10.0 eV
-			</p>
-		</answer>
-	</exploration>
+		<investigation>
+			<title>Electric Potential of a Wire I</title>
+			<statement>
+				<figure xml:id="fig_charged-wire-1">
+					<caption>A charged wire lies along the y-axis centered on the origin.</caption>
+					<image source="elec/charged-wire-1.png" width = "35%" ></image>
+				</figure>
+				<p>
+					The wire shown above has its middle located at the origin. The wire has length <m>L</m> and a non-uniform charge density <m>\lambda = \frac{q_o y}{L^2}</m>.
+				</p>
+				<p>
+					For each of the two labeled points (A and B), is the electric potential positive, negative, or zero?
+				</p>
+			</statement>
+			<hint>
+				<p>
+					Sketch a charge diagram of the wire.
+				</p>
+			</hint>
+		</investigation>
+
 	
-	<exploration>
-		<title>Electric Potential due to Two Point Charges</title>
-		<statement>
-			<p>
-				Consider two point charges of equal value, <m>+(7/3) \times 10^{-9}</m> C, located along the x-axis. One charge is placed at x = -3.00 m, the other at x = 3.00 m.
-			</p>
-			<ol>
-				<li>
-					<p>
-						What is the electric potential at the origin, which is midway between the charges?
-					</p>
-				</li>
-				<li>
-					<p>
-						What is the electric potential at the position <m>\vec{r} = (3.0 \mathrm{m})\hat{x} + (8.0 \mathrm{m})\hat{y}</m>?
-					</p>
-				</li>
-			</ol>
-		</statement>
-		<answer>
-			<p>
-				14 V
-			</p>
-		</answer>
-		<answer>
-			<p>
-				4.725 V
-			</p>
-		</answer>
-	</exploration>
+	</subsection>
 
-	<exploration>
-		<title>Release the Electron</title>
-		<statement>
-			<p>
-				An electron is initially at rest at a location where the electric potential is -4 V.  When released from rest, the electron accelerates, passing through a location where the electric potential is 2 V.  What is the speed of the electron when it passes through that second location?  
-			</p>
-		</statement>
-		<answer>
-			<p>
-				<m>1.45 \times 10^{6} \mathrm{m}/\mathrm{s}</m>
-			</p>
-		</answer>
-	</exploration>
+	<subsection>
+		<title>A*R*C*S Practice</title>
+		
+		<project>
+			<title>Moving Charges I</title>
+			<statement>
+				<p>
+					Two point charges are fixed in place along the x-axis: <m>-Q_o</m> at <m>x = +L</m> and <m>+4Qo</m> at <m>x = -L</m>. A small positive point charge (<m>+q_i</m>) is initially located at <m>x = 3L</m>, which is the location where the net force is zero. The small positive charge is then given a tiny push either to the right or to the left
+				</p>
+				<p>
+					For each case (tiny push to the right and tiny push to the left), determine the speed of the small positive charge when it has moved a distance <m>L</m> from its initial position.
+				</p>
+			</statement>
+			<hint>
+				<p>
+					Compare your two answers! You may find it useful to sketch a potential energy diagram to help interpret them.
+				</p>
+			</hint>
+		</project>
 
-	<exploration>
-		<title>Electron vs. Proton</title>
+		<project>
+		<title>Electric Potential of a Wire II</title>
 		<statement>
+			<figure xml:id="fig_charged-wire">
+				<caption>A charged wire lies along the y-axis centered on the origin.</caption>
+				<image source="elec/charged-wire-1.png" width = "35%" ></image>
+			</figure>
 			<p>
-				Consider a charge moving through a region of space where the electric potential varies.
+				Write an expression for the electric potential at point A and point B for the wire above.
 			</p>
-			<ol>
-				<li>
-					<p>
-						Which of the following statements are true if the charge is a proton?
-					</p>
-					<ol>
-						<li>
-							<p>
-								The proton is driven toward the region of lowest potential energy.
-							</p>
-						</li>
-						<li>
-							<p>
-								The proton is driven toward the region of highest potential energy.
-							</p>
-						</li>
-						<li>
-							<p>
-								The proton is driven toward the region of lowest electric potential.
-							</p>
-						</li>
-						<li>
-							<p>
-								The proton is driven toward the region of highest electric potential.
-							</p>
-						</li>
-						<li>
-							<p>
-								The proton experiences a force directed toward a lower potential.
-							</p>
-						</li>
-						<li>
-							<p>
-								The proton experiences a force directed toward a higher potential.
-							</p>
-						</li>
-					</ol>
-				</li>
-				<li>
-					<p>
-						What of the following statements are true if the charge is an electron?
-					</p>
-					<ol>
-						<li>
-							<p>
-								The electron is driven toward the region of lowest potential energy.
-							</p>
-						</li>
-						<li>
-							<p>
-								The electron is driven toward the region of highest potential energy.
-							</p>
-						</li>
-						<li>
-							<p>
-								The electron is driven toward the region of lowest electric potential.
-							</p>
-						</li>
-						<li>
-							<p>
-								The electron is driven toward the region of highest electric potential.
-							</p>
-						</li>
-						<li>
-							<p>
-								The electron experiences a force directed toward a lower potential.
-							</p>
-						</li>
-						<li>
-							<p>
-								The electron experiences a force directed toward a higher potential.
-							</p>
-						</li>
-					</ol>
-				</li>
-			</ol>
 		</statement>
-		<answer>
-			<p>
-				(a), (c), (e)
-			</p>
-		</answer>
-		<answer>
-			<p>
-				(a), (d), (f)
-			</p>
-		</answer>
-	</exploration>
+	</project>
 
-	<exploration>
-		<title>Potential Difference</title>
+	<project>
+		<title>Moving Charges II</title>
 		<statement>
 			<p>
-				An electron is placed in an external electric potential field.  Through what change in potential must this electron go in order to (starting from rest) reach a speed of 0.10 c, where c is the speed of light?
+				Two identical negative point charges (<m>-Qo</m>) are fixed in place at <m>x = +L</m> and <m>x = -L</m>. A small positive point charge (<m>+q_i</m>) with mass <m>m</m> is at the origin, moving in the negative y-direction with speed <m>v</m>.
+			</p>
+			<p>
+				What is the farthest distance along the <m>y</m>-axis that the small positive point charge will travel before it turns around?
 			</p>
 		</statement>
-		<answer>
+		<hint>
 			<p>
-				2560 V
+				Draw a graph of the electric potential energy of this system vs. the <m>y</m>-position of the small positive point charge.
 			</p>
-		</answer>
-	</exploration>
+		</hint>
+		<hint>
+			<p>
+				Evaluate your answer when the initial speed <m>v</m> increases. This one can be tricky—make sure you check that your answer matches what you expect to happen!
+			</p>
+		</hint>
+	</project>
 
-	<exploration>
-		<title>Closest Approach</title>
-		<statement>
-			<p>
-				Consider a proton at the origin of a coordinate system, fixed in place (not able to move at all).  Now consider a second proton, free to move, that is launched directly at the first proton at a speed of 42 m/s from a distance very, very far away.  What is the closest the second proton gets to the first proton? 
-			</p>
-		</statement>
-		<answer>
-			<p>
-				156 <m>\mu</m>m
-			</p>
-		</answer>
-	</exploration>
+
+	</subsection>
+		
+	<subsection>
+		<title>Numerical Practice</title>
+
+		<exploration>
+			<title>Electric Potential Comparison</title>
+			<statement>
+				<p>
+					The electric potential at a location 1 m from a certain charged particle is 4 times the potential at a location 1 m from a different particle. How do the particles' charges compare? (These are two separate trials; assume that only one particle is present for each trial.)
+				</p>
+			</statement>
+			<answer>
+				<p>
+					The first particle has 4 times the charge of the second particle.
+				</p>
+			</answer>
+		</exploration>
+
+		<exploration>
+			<title>Moving Electron</title>
+			<statement>
+				<p>
+					An electron moves through a potential difference of -5.0 V. A second particle with twice the negative charge moves between the same two points.
+				</p>
+				<ol>
+					<li>
+						<p>
+							What change in electric potential does the second particle experience?
+						</p>
+					</li>
+					<li>
+						<p>
+							What change in electric potential energy does the second particle experience? (Note: The units used here are eV which are electron-volts. 1 electron-volt is the energy gained/lost by an electron when it goes through a potential difference of 1 volt.
+						</p>
+					</li>
+				</ol>
+			</statement>
+			<answer>
+				<p>
+					-5.0 V
+				</p>
+			</answer>
+			<answer>
+				<p>
+					10.0 eV
+				</p>
+			</answer>
+		</exploration>
+		
+		<exploration>
+			<title>Electric Potential due to Two Point Charges</title>
+			<statement>
+				<p>
+					Consider two point charges of equal value, <m>+(7/3) \times 10^{-9}</m> C, located along the x-axis. One charge is placed at x = -3.00 m, the other at x = 3.00 m.
+				</p>
+				<ol>
+					<li>
+						<p>
+							What is the electric potential at the origin, which is midway between the charges?
+						</p>
+					</li>
+					<li>
+						<p>
+							What is the electric potential at the position <m>\vec{r} = (3.0 \mathrm{m})\hat{x} + (8.0 \mathrm{m})\hat{y}</m>?
+						</p>
+					</li>
+				</ol>
+			</statement>
+			<answer>
+				<p>
+					14 V
+				</p>
+			</answer>
+			<answer>
+				<p>
+					4.725 V
+				</p>
+			</answer>
+		</exploration>
+
+		<exploration>
+			<title>Release the Electron</title>
+			<statement>
+				<p>
+					An electron is initially at rest at a location where the electric potential is -4 V.  When released from rest, the electron accelerates, passing through a location where the electric potential is 2 V.  What is the speed of the electron when it passes through that second location?  
+				</p>
+			</statement>
+			<answer>
+				<p>
+					<m>1.45 \times 10^{6} \mathrm{m}/\mathrm{s}</m>
+				</p>
+			</answer>
+		</exploration>
+
+		<exploration>
+			<title>Electron vs. Proton</title>
+			<statement>
+				<p>
+					Consider a charge moving through a region of space where the electric potential varies.
+				</p>
+				<ol>
+					<li>
+						<p>
+							Which of the following statements are true if the charge is a proton?
+						</p>
+						<ol>
+							<li>
+								<p>
+									The proton is driven toward the region of lowest potential energy.
+								</p>
+							</li>
+							<li>
+								<p>
+									The proton is driven toward the region of highest potential energy.
+								</p>
+							</li>
+							<li>
+								<p>
+									The proton is driven toward the region of lowest electric potential.
+								</p>
+							</li>
+							<li>
+								<p>
+									The proton is driven toward the region of highest electric potential.
+								</p>
+							</li>
+							<li>
+								<p>
+									The proton experiences a force directed toward a lower potential.
+								</p>
+							</li>
+							<li>
+								<p>
+									The proton experiences a force directed toward a higher potential.
+								</p>
+							</li>
+						</ol>
+					</li>
+					<li>
+						<p>
+							What of the following statements are true if the charge is an electron?
+						</p>
+						<ol>
+							<li>
+								<p>
+									The electron is driven toward the region of lowest potential energy.
+								</p>
+							</li>
+							<li>
+								<p>
+									The electron is driven toward the region of highest potential energy.
+								</p>
+							</li>
+							<li>
+								<p>
+									The electron is driven toward the region of lowest electric potential.
+								</p>
+							</li>
+							<li>
+								<p>
+									The electron is driven toward the region of highest electric potential.
+								</p>
+							</li>
+							<li>
+								<p>
+									The electron experiences a force directed toward a lower potential.
+								</p>
+							</li>
+							<li>
+								<p>
+									The electron experiences a force directed toward a higher potential.
+								</p>
+							</li>
+						</ol>
+					</li>
+				</ol>
+			</statement>
+			<answer>
+				<p>
+					(a), (c), (e)
+				</p>
+			</answer>
+			<answer>
+				<p>
+					(a), (d), (f)
+				</p>
+			</answer>
+		</exploration>
+
+		<exploration>
+			<title>Potential Difference</title>
+			<statement>
+				<p>
+					An electron is placed in an external electric potential field.  Through what change in potential must this electron go in order to (starting from rest) reach a speed of 0.10 c, where c is the speed of light?
+				</p>
+			</statement>
+			<answer>
+				<p>
+					2560 V
+				</p>
+			</answer>
+		</exploration>
+
+		<exploration>
+			<title>Closest Approach</title>
+			<statement>
+				<p>
+					Consider a proton at the origin of a coordinate system, fixed in place (not able to move at all).  Now consider a second proton, free to move, that is launched directly at the first proton at a speed of 42 m/s from a distance very, very far away.  What is the closest the second proton gets to the first proton? 
+				</p>
+			</statement>
+			<answer>
+				<p>
+					156 <m>\mu</m>m
+				</p>
+			</answer>
+		</exploration>
+
+	</subsection>
 
 	<references>
 		<biblio xml:id="ref_boxsand-elec-energ">
