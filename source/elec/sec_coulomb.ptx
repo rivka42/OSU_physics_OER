@@ -12,6 +12,9 @@
 	<definition>
 		<title>Coulomb's Law</title>
 		<statement>
+		<p>
+
+		</p>
 <p>
 Coulomb's law describes the electric force between two stationary <em> point charges </em> interacting through the electric field. It states that the force is directly proportional to the product of the two charges and inversely proportional to the square of the distance between the two charges
 
@@ -55,6 +58,9 @@ A consequence of these similarities is that much of the physical and mathematica
 		
 		<exercise>
 		<title>The Dipole Force</title>
+		<p>
+
+		</p>
 		<p> 
 Suppose a positive and negative charge are separated by a distance <m> d </m> and lie on the x-axis equidistant from the origin with the positive charge at <m> x=-d/2</m> and the negative charge at <m> x=d/2</m>. A positive charge <m> Q </m> is placed a distance <m> r </m> from the center of the dipole on the positive x-axis.   
 						
@@ -101,6 +107,9 @@ Suppose that the lengths <m> r \gg d </m> as is usually the case for atomic dipo
 		
 		<exercise> 
 		<title>Two Protons</title>
+		<p>
+
+		</p>
 		<p> 
 		Two protons are <m> 1.0 \ \mathrm{pm} </m> away from each other. 
 		<ol>

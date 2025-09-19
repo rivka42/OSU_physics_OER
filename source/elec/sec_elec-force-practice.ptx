@@ -81,6 +81,24 @@
 	<subsection>
 		<title>A*R*C*S Practice</title>
 
+		<project xml:id="apply_elec-04">
+		<title>Three Charges on an Arc</title>
+		<statement>
+			<p>
+
+			</p>
+			<p>In the figure below, the top charge has has a charge <m>+q</m>, and the two bottom charges have identical charge <m>+Q</m>. Determine the net electric force on the upper charge.</p>
+		<figure xml:id="x_charge-arc">
+			<title>Point Charges Figure</title>
+			<caption>Three point charges.</caption>
+			<image source="Charge_arc.png" width = "35%" ></image>
+		</figure>
+		</statement>
+		<hint>
+		    <p>Evaluate your answer in one or two special cases.</p>
+		</hint>
+	</project>
+
 		<project xml:id="study_elec-04">
 			<title>Square of Charges</title>
 			<statement>

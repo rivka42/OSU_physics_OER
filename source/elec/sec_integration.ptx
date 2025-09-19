@@ -70,6 +70,9 @@ Determine the bounds of integration. We need to sum over all the <em> charges </
 			<title>Moment of Inertia</title>
 			<statement>
 			<p>
+
+			</p>
+			<p>
 In a course you took previously, you learned that the moment of inertia for a point object is <m>I = mr^2</m>, where <m>r</m> is the perpendicular distance between the object and the axis of rotation.
 
 			<ol> 
