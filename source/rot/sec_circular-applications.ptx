@@ -3,41 +3,230 @@
 <section xml:id="sec_circular-applications" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Applications of Circular Motion</title>
 	
-
-<activity xml:id="class_zzz">
-	<title></title>
+    <activity xml:id="class_motion-moon">
+	<title>The Motion of the Moon</title>
 <introduction>
 <p></p>
     <p>
-      
+      Assume that the Moon goes around the Earth in a roughly circular orbit.
     </p>
 </introduction>
 	<task>
 	<p> 
-		
+		Sketch and label a picture of the orbit.
 	</p>
 	</task>
 	<task>
 	<p>
+		Describe where the Moon is located in as many different ways as you can.
     </p>
+	</task>	
+	<task>
+	<p>
+		Describe how fast the Moon is moving in as many different ways as you can.
+    </p>
+	</task>	
+	<task>
+	<p>
+		Assume the Moon's angular speed <m>\omega_M</m> is roughly constant.  Determine each of the following as a function of time:
+    </p>
+	<ol>
+		<li>
+			<p>
+				Angular position <m>\theta(t)</m>
+			</p>
+		</li>
+		<li>
+			<p>
+				Angular speed <m>\omega(t)</m>
+			</p>
+		</li>
+		<li>
+			<p>
+				Angular acceleration <m>\alpha(t)</m>
+			</p>
+		</li>
+		<li>
+			<p>
+				Centripetal acceleration <m>a_c(t)</m>
+			</p>
+		</li>
+	</ol>
 	</task>	
 </activity>
 
-<project xml:id="class_zzzzzzz">
-        <title></title>
+<activity xml:id="class_clock-hands">
+	<title>The Clock with Three Hands</title>
+<introduction>
+<p></p>
+    <p>
+      Each of the three <m>10 \mathrm{~cm}</m> radius hands on an analog clock (hour, minute, second) can be treated as having uniform circular motion.  
+	  For the <alert>tip</alert> of each clock hand, find each of the following:
+    </p>
+	<ul>
+		<li>
+			<p>
+				The period
+			</p>
+		</li>
+		<li>
+			<p>
+				The angular speed
+			</p>
+		</li>
+		<li>
+			<p>
+				The tangential velocity
+			</p>
+		</li>
+		<li>
+			<p>
+				The centripetal acceleration
+			</p>
+		</li>
+	</ul>
+</introduction>
+</activity>
+
+  <activity xml:id="class_ucm-table">
+	<title>Uniform Circular Motion Table</title>
+<introduction>
+<p></p>
+    <p>
+      An object that is moving with uniform circular motion follows a path that is circular while moving with a speed that is constant.
+    </p>
+</introduction>
+	<task>
+	<p> 
+		Draw a motion diagram for such an object that includes at least five different points.  Your motion diagram should include, at each point: a representation of the object, a position vector, a velocity vector, and an acceleration vector.
+	</p>
+	</task>
+	<task>
+	<p>
+		Make a table with six columns:
+    </p>
+	<ol>
+		<li>
+			<p>
+				In the first (left-most) column, make a list of the following physical quantities of a particle moving around a circle at constant speed: (translational) position, (translational) velocity, (translational) acceleration, mass, net force, (translational) kinetic energy, and (translational) momentum.
+			</p>
+		</li>
+		<li>
+			<p>
+				In the second column indicate if the quantity is a scalar or a vector.
+			</p>
+		</li>
+		<li>
+			<p>
+				In the third column indicate if the quantity is constant or not constant.
+			</p>
+		</li>
+		<li>
+			<p>
+				In the fourth column write the units for the quantity.
+			</p>
+		</li>
+		<li>
+			<p>
+				In the fifth column write a symbolic definition of the quantity.
+			</p>
+		</li>
+		<li>
+			<p>
+				In the sixth column, if the quantity is a vector, then write what is known about its direction.
+			</p>
+		</li>
+	</ol>
+	</task>	
+</activity>
+
+<project xml:id="class_coin-disc">
+        <title>The Coin on the Disc</title>
 		<statement>
 		<p></p>
 		    <p>
-				
+				A small coin with mass <m>m</m> is placed on the edge of a disc of radius <m>R</m> that is rotating so that the speed of the coin is a constant <m>v</m>.  The coefficient of static friction between the coin and the disc is <m>\mu_s</m>.
 			</p>
 				
 		</statement>
 		<hint>
 		    <p>
-				
+				<alert>Analyze and Represent:</alert> Draw a free-body diagram for the coin.
+			</p>
+		</hint>
+		<hint>
+			<p>
+				<alert>Calculate:</alert> Find the force of static friction on the coin.
+			</p>
+		</hint>
+		<hint>
+			<p>
+				<alert>Sensemake:</alert> Use special-case analysis to decide whether or not your answer makes sense.
 			</p>
 		</hint>
 	</project>
+
+  <activity xml:id="class_merry-go-round">
+	<title>The Merry-Go-Round</title>
+<statement>
+<p></p>
+    <p>
+      You are riding a merry-go-round with a wild reputation.  Below is your angular position vs. time.
+    </p>
+	<figure xml:id="rot_mgr">
+			<title>Merry-go-round Graph</title>
+		 <caption>Angular position vs. time for a merry-go-round.</caption>
+		<image source="mgr.png" width = "40%">
+			<description></description></image>
+  </figure>
+		<p> 
+		Describe your experience on the merry-go-round using words, equations, and graphs.
+	</p>
+</statement>
+
+	<answer>
+	<figure xml:id="rot_mgr-sol">
+			<title>Merry-go-round Solution</title>
+		 <caption>Angular speed vs. time for a merry-go-round.</caption>
+		<image source="mgr-sol.png" width = "40%">
+			<description></description></image>
+  </figure>
+</answer>	
+</activity>
+
+  <activity xml:id="class_swing-circle">
+	<title>Swing in a Circle</title>
+<introduction>
+<p></p>
+    <p>
+      A ball on a string with mass <m>m</m> is swung so that it moves in a vertical circle of radius <m>r</m>.  
+	  The speed <m>v</m> of the ball is the same at the top of the circle and at the bottom of the circle.
+    </p>
+</introduction>
+	<task>
+	<p> 
+		Draw free-body diagrams for the ball at the top and bottom.
+	</p>
+	</task>
+	<task>
+	<p>
+At the top, is the magnitude of the tension greater than, less than, or equal to the magnitude of the gravitational force on the ball?  Explain your reasoning.
+    </p>
+	</task>	
+	<task>
+	<p>
+		At the bottom, is the magnitude of the tension greater than, less than, or equal to the magnitude of the gravitational force on the ball?  Explain your reasoning.
+    </p>
+	</task>	
+	<task>
+	<p>
+		Find an expression for the tension in the string at the bottom.
+    </p>
+	</task>	
+</activity>
+
+  
+
 
 	
 </section>

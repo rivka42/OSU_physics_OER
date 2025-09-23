@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_circ-exer" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Circular Motion Exercises</title>
+		
+
+<project xml:id="class_mars-motion">
+        <title>The Motion of Mars</title>
+		<statement>
+		<p></p>
+		    <p>
+				A year on the planet Mars has been observed to be about 687 Earth days long.  Starting from a free-body diagram, determine the orbital radius of Mars.
+			</p>
+		</statement>
+	</project>
+
+	<activity xml:id="class_ferris-wheel">
+	<title>The Ferris Wheel</title>
+<statement>
+<p></p>
+    <p>
+      You are riding on the top of a vertical Ferris Wheel with radius <m>R</m> and initial tangential velocity <m>-v_i</m>.  The next time you are at the top of the Ferris wheel, your tangential velocity is <m>-3v_i</m>.  Find the angular acceleration of the Ferris wheel.
+    </p>
+</statement>
+</activity>
+
+
+
+	
+</section>
+

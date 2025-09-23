@@ -39,7 +39,7 @@
 		<xi:include href="./rot/sec_rot-practice.ptx" />
     
     <!--CHALLENGE SECTIONS-->
-    <xi:include href="./rot/sec_kepler.ptx" />
+    <xi:include href="./rot/sec_circ-exer.ptx" />
     <xi:include href="./rot/sec_rot-challenge.ptx" />
 
 
