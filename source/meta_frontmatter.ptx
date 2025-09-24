@@ -4,7 +4,7 @@
 <!-- works.                                                        -->
 
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="meta_frontmatter">
-  <bibinfo>
+  <titlepage>
     <author>
       <personname>Paul J. Emigh</personname>
       <department>Department of Physics</department>
@@ -26,6 +26,7 @@
       <institution>Oregon State University</institution>
     </author>
     <date><today/></date>
+    </titlepage>
 
     <website>
       <name><c>OSU Physics</c></name>
@@ -53,7 +54,7 @@
     <p>
       Additional contributions from Grant Sherer and Josiah Chan.
     </p>
-  </bibinfo>
+  
 
 
 
