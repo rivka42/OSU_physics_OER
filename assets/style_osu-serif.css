@@ -84,9 +84,7 @@
 
 .ptx-content article.theorem-like::after,
 .ptx-content article.definition-like::after,
-.ptx-content article.example-like::after,
 .ptx-content article.project-like::after,
-.ptx-content article.remark-like::after,
 .ptx-content article.openproblem-like::after,
 .ptx-content article.openproblems-like::after,  /* delete once markup is fixed */
 .ptx-content article.computation-like::after {
@@ -99,6 +97,19 @@
     margin-left: -0.5em;
     padding-top: 0.25em;
 }
+
+.ptx-content article.example-like::after,
+.ptx-content article.remark-like::after{
+    content:'';
+  border-bottom: 1.5pt solid var(--sectiontitle);
+  margin-bottom: -11pt;
+  width: 90%;
+    display: block;
+    margin-right: auto;
+    margin-left: -0.5em;
+    padding-top: 0.25em;
+}
+
 
 
 
