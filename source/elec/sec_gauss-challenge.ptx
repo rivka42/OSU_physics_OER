@@ -21,10 +21,11 @@
 				<caption>Two points and an imaginary square loop.</caption>
 				<image source="point-charges-flux.png" width = "35%" ></image>
 			</figure>	
+			
 			<p>
 			The figure above shows an imaginary square loop centered between two points <m>A</m> and <m>B</m>.
 			</p>
-		</statement>
+		
 		<task>
 			<statement>
 				<p>
@@ -49,7 +50,8 @@
 				<p>Suppose a point charge <m>+Q_o</m> is located at point <m>A</m> and a point charge <m>-2Q_o</m> is located at point <m>B</m>.  Is the electric flux through the loop <em>positive</em>, <em>negative</em>, or <em>zero</em>?
 				</p>
 			</statement>
-		</task>		
+		</task>	
+		</statement>
 	</investigation>
 
 	<investigation xml:id="apply_elec-07">
@@ -65,7 +67,7 @@
 			<p>
 				Two positive point charges <m>+q</m> are located a distance <m>L</m> apart, as shown above.  A Gaussian surface (a cube with side length <m>L</m>) is drawn with its center at the location of the left charge.
 			</p>
-		</statement>
+		
 		<task>
 			<statement>
 			<p>
@@ -80,10 +82,16 @@
 				</p>
 			</statement>
 		</task>
+		</statement>
 	</investigation>
 
 	<subsection>
 		<title>Metacognitive Reflection</title>
+		<statement>
+			<p>
+				A major theme of this unit was determining how and when symmetry can help make your calculations easier. Write a short paragraph summarizing symmetry and how it can be useful when calculating the electric field. Which activities did you complete this week that you want to remember?
+			</p>
+		</statement>
 	</subsection>
   
 </section>
