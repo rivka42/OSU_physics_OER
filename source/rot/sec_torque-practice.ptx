@@ -11,17 +11,48 @@
 	-->
 
 <subsection>
-	<title>Explanation Practice</title>
+	<title>A*R*C*S Practice</title>
 
+		<project xml:id="pa_rot-05">
+		<title>Friction on a Baseball</title>
+		<statement><p></p>
+			<p>Find a symbolic expression for the frictional force exerted by a baseball pitcher (tangent to the surface of the baseball) when throwing a fastball that spins at <m>2500 \mathrm{~rpm}</m>.</p>
+		</statement>
+	</project>
 
-	
+			<project xml:id="pa_rot-09">
+		<title>String Around a Tennis Ball</title>
+		<statement><p></p>
+			<p>A string is wrapped many times around a tennis ball that has mass <m>m = 60 \mathrm{~g}</m> and radius <m>r = 7 \mathrm{~cm}</m>.  For a hollow ball, <m>I = \frac{2}{3}mr^2</m> about the center or <m>I = \frac{5}{3}mr^2</m> about the edge — calculating these for yourself is a good challenge!  The string is attached to the ceiling and the ball is allowed to fall (see the figure below). Determine the tension in the string.</p>
+		</statement>
+		<figure xml:id="fig_rot-String-around-Ball">
+			<title>String around a Ball Figure</title>
+			<caption></caption>
+			<image source="String-around-Ball.png" width = "100%">
+				<description></description>
+			</image>
+		</figure>
+	</project>
+
 </subsection>
 
 <subsection>
-	<title>A*R*C*S Practice</title>
+	<title>Explanation Practice</title>
 
+	<investigation xml:id="pa_rot-10">
+		<title>String Around a Tennis Ball II</title>
+		<statement><p></p>
+			<p>Suppose you were to drop another tennis ball with the same mass and radius as in the previous problem, but a smaller moment of inertia (this tennis ball might be solid instead of hollow). Is the magnitude of the translational acceleration of the new tennis ball <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the translational acceleration of the original tennis ball?</p>
+		</statement>
+	</investigation>
 
-
+		<investigation xml:id="pa_rot-07">
+		<title>Tipping Truck</title>
+		<statement><p></p>
+			<p>You observe a truck driving along a road at a constant speed <m>v</m>.  As the truck begins to turn along a flat, circular part of the road, it also begins to tip over.  Use an extended free body diagram to explain why the truck begins to tip.</p>
+		</statement>
+	</investigation>
+	
 </subsection>
 	
 <subsection>

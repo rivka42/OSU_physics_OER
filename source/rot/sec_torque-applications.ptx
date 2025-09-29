@@ -4,41 +4,131 @@
   <title>Applications of Torque</title>
 	
 
-<activity xml:id="class_zzzc">
-	<title></title>
-<introduction>
+<activity xml:id="class_ladder">
+	<title>The Ladder</title>
+<statement>
 <p></p>
     <p>
-      
+      A ladder leans against a wall, as shown in the figure below.  
+	  Draw an extended free body diagram for the ladder and describe the system using the Rotational Law of Motion 
+	  (Newton's 2nd Law for Rotation).
     </p>
-</introduction>
-	<task>
-	<p> 
-		
-	</p>
-	</task>
-	<task>
-	<p>
-    </p>
-	</task>	
+	<figure xml:id="rot_ladder">
+			<title>Ladder Figure</title>
+		 <caption>A ladder leans against a wall</caption>
+		<image source="Ladder1.png" width = "40%">
+			<description></description></image>
+  </figure>
+</statement>
+
 </activity>
 
-<project xml:id="class_zzzzzzzc">
-        <title></title>
+<activity xml:id="class_torque-direction">
+	<title>Torque Direction</title>
+<statement>
+<p></p>
+    <p>
+      For each situation described below, determine the sign of the net torque, the sign of the angular velocity, and the sign of the angular acceleration.
+    </p>
+	<ol>
+		<li>
+			<p>
+				Rotating counterclockwise faster and faster
+			</p>
+		</li>
+		<li>
+			<p>
+				Rotating counterclockwise slower and slower
+			</p>
+		</li>
+		<li>
+			<p>
+				Rotating clockwise faster and faster
+			</p>
+		</li>
+		<li>
+			<p>
+				Rotating clockwise slower and slower
+			</p>
+		</li>
+	</ol>
+</statement>
+
+</activity>
+
+<project xml:id="class_waterwheel">
+        <title>The Waterwheel</title>
 		<statement>
 		<p></p>
 		    <p>
-				
+				A waterwheel is lowered into a river that exerts a constant force <m>F</m> to the right on the bottom of the wheel.  
+				How long does it take for the wheel to complete its first revolution?
 			</p>
 				
 		</statement>
 		<hint>
 		    <p>
-				
+				Describe the motion of the waterwheel and draw an extended free-body diagram.
 			</p>
 		</hint>
 	</project>
 
-	
+	<activity xml:id="class_tug-of-war">
+	<title>Tug-of-War</title>
+<introduction>
+<p></p>
+    <p>
+      Two athletes are engaged in a modified game of Tug-of-War.  Each athlete has a rope that is connected to a long wooden board with mass <m>m</m> that is free to rotate about its center, as shown in the figure.
+    </p>
+	<figure xml:id="rot_tugofwar">
+			<title>Tug of War Figure</title>
+		 <caption>Two ropes connected to a board that is free to rotate</caption>
+		<image source="TugofWar.png" width = "30%">
+			<description></description></image>
+  </figure>
+</introduction>
+<task>
+	<statement>
+		<p>
+			If the wooden board does not rotate, how does the tension from athlete A compare to the tension from athlete B?
+		</p>
+	</statement>
+</task>
+<task>
+	<statement>
+		<p>
+			Which one will win if athlete B can exert a tension force that is 1.5 times bigger than athlete A?  Write a symbolic expression for the board's angular acceleration.
+		</p>
+	</statement>
+	<hint>
+		<p>
+			Write the moment of inertia for the board in terms of given quantities by looking at a moment of inertia table.  You will need to decide what kind of object to use as a model for the board and choose an appropriate axis of rotation.
+		</p>
+	</hint>
+</task>
+</activity>
+
+<project xml:id="class_massive-pulley">
+        <title>Massive Pulley</title>
+		<statement>
+		<p></p>
+		    <p>
+				The pulley shown has mass <m>m_3</m>.  Two bricks with mass <m>m_1 \gt m_2</m> are connected by a rope suspended over the pulley.  The masses are released from rest.  
+				Determine the acceleration of each block.
+			</p>
+				
+		</statement>
+		<hint>
+		    <p>
+				<alert>Analyze and Represent:</alert> Draw extended free-body diagrams for each object.  Discuss your coordinate systems.
+			</p>
+		</hint>
+		<hint>
+			<p>
+				<alert>Sensemake:</alert> Use special-case analysis and the fact that you have likely solved this problem before when the pulley is massless.
+			</p>
+		</hint>
+	</project>
+
 </section>
 

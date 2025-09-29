@@ -1,41 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_sd" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Statics and Dynamics</title>
+  <title>Application: The Unicycle</title>
 		
-  <activity xml:id="class_zzzb">
-	<title></title>
+  <activity xml:id="class_unicycle">
+	<title>The Unicycle</title>
 <introduction>
-<p></p>
+<p> </p>
     <p>
-      
+      Shown below is a unicycle (a vehicle with one wheel), which has mass <m>m</m>, radius <m>R</m>, and axle radius <m>r</m> that is accelerating to the right.
     </p>
+	<figure xml:id="rot_unicycle">
+			<title>Tug of War Figure</title>
+		 <caption>Two ropes connected to a board that is free to rotate</caption>
+		<image source="Unicycle.png" width = "50%">
+			<description></description></image>
+  </figure>
 </introduction>
 	<task>
+		<statement>
 	<p> 
+		How is the tire's angular acceleration <m>\alpha</m> related to the tire's translational acceleration <m>a_t</m>?
+	</p>
+</statement>
+<answer>
+	<p>
+		<me>
+			\alpha=\frac{a_t}{R}
+		</me>
 		
 	</p>
+</answer>
 	</task>
 	<task>
+		<statement>
 	<p>
+		Draw an extended free-body diagram for the wheel.
     </p>
+</statement>
+<hint>
+	<figure xml:id="rot_unicycleFBD">
+			<title>Incorrect Free-body Diagram for the Unicycle Wheel</title>
+		 <caption>A possible free-body diagram showing four forces acting on the wheel.</caption>
+		<image source="UnicycleFBD.png" width = "100%">
+			<description></description></image>
+  </figure>
+</hint>
 	</task>	
+	<task>
+		<statement>
+	<p> 
+		What direction is the net force on the unicycle?
+	</p>
+</statement>
+<answer>
+	<p>
+		To the right
+	</p>
+</answer>
+	</task>
+	<task>
+		<statement>
+	<p>
+		What direction must the net torque on the unicycle be to get the wheel spinning?
+    </p>
+</statement>
+<answer>
+	<p>
+		Into the page
+	</p>
+</answer>
+<solution>
+	<p>
+		The angular acceleration is clockwise, to get the wheel spinning, so the net torque must be in that same direction.
+	</p>
+</solution>
+	</task>	
+	<task>
+		<statement>
+	<p> 
+		In the tip above is an <xref ref="rot_unicycleFBD"/>.  Show that the net torque about the center of the wheel is <alert>not consistent</alert> with the angular acceleration of thew heel.  How would you modify that free-body diagram so that the net torque is consistent with the angular acceleration?
+	</p>
+</statement>
+<answer>
+	<figure xml:id="rot_unicycleFBDb">
+			<title>Unicycle Wheel Free-body Diagram</title>
+		 <caption>A free-body diagram showing five forces acting on the wheel.</caption>
+		<image source="UnicycleFBDb.png" width = "60%">
+			<description></description></image>
+  </figure>
+</answer>
+<solution>
+	<p>
+		One resolution is to add a pedal. By adding a pedal to the wheel, you can then add a normal force on the wheel by a foot, so that pushing down on the pedal would provide a clockwise torque.
+	</p>
+	<p>
+		Another option is for the person riding the unicycle to lean forward. This would also provide the clockwise torque needed to accelerate. A real unicycle rider will typically lean forward and have a pedal.
+	</p>
+</solution>
+	</task>
 </activity>
 
-<project xml:id="class_zzzzzzzb">
-        <title></title>
+<project xml:id="class_unicycle2">
+        <title>Leaning Forward on a Unicycle</title>
 		<statement>
 		<p></p>
 		    <p>
-				
+				A person of mass <m>M</m> is riding a unicycle of mass <m>m</m>. They want to accelerate forward at a rate <m>a</m>. How far forward must the person lean in order to achieve this?
 			</p>
 				
 		</statement>
 		<hint>
 		    <p>
-				
+				Write down both the Law of Motion and the Rotational Law of Motion!
 			</p>
 		</hint>
+		<solution>
+
+			<figure xml:id="rot_unicycleFBDc">
+			<title>Unicycle Free-body Diagram</title>
+		 <caption>A free-body diagram for the unicycle.</caption>
+		<image source="UnicycleFBDc.png" width = "60%">
+			<description></description></image>
+  </figure>
+			<p>
+				The Law of Motion says: <me>
+					F^{sf} = (m + M)a
+				</me>
+				Both the wheel and the person are accelerating forward.
+			</p>
+			<p>
+				The Rotational Law of Motion says: <me>
+					F_{WS}^N d - F^{sf} R = mR^2\frac{a}{R}
+				</me>
+				<me>
+					Mgd - R(m + M)a = mRa
+				</me>
+				<me>
+					d = \frac{(2m + M)}{M}\frac{a}{g}R
+				</me>
+			</p>
+			<p>
+				<alert>Covariational Reasoning:</alert> If the acceleration increases, the distance you lean forward must increases. If you want to accelerate more, the tires need to spin faster, which means a higher angular acceleration, which requires more torque. By leaning forward more, more torque is applied to the wheel.
+			</p>
+				<p>
+				If the mass of the wheel increases, you must lean forward more. This is because by increasing the mass of the wheel, the moment of inertia increases, so to angularly accelerate at the same rate, more torque is needed.
+			</p>
+		</solution>
 	</project>
 	
 </section>

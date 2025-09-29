@@ -10,8 +10,6 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 
-	<subsection>
-	<title>Explanation Tasks</title>
 
 	<investigation xml:id="psa_rot-01">
 		<title>The Bowl</title>
@@ -33,12 +31,6 @@
 		</statement>
 	</investigation>
 
-	</subsection>
-
-
-
-	<subsection>
-	<title>A*R*C*S Activities</title>
 
 	<project xml:id="psa_rot-02">
         <title>The Conical Bowl</title>
@@ -50,7 +42,7 @@
 		</hint>
 	</project>
 
-	</subsection>
+
 
 <activity xml:id="x_meta-angular">
 		<title>Metacognitive Reflection</title>
