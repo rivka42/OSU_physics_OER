@@ -25,7 +25,7 @@
 			<p>Suppose you have two objects: a wheel that is both moving and rotating, and a block that is moving without rotating.  Is it possible to choose a system consisting of both the wheel and the block?  Why or why not?</p>
 			</statement>
 			<answer>
-			<p>Yes, it is possible!  The two objects will use different models---treat the block as a point particle and the wheel as a rigid body---but any objects can be included in the same system.  Interesting, neither the Point Particle model nor the Rigid-body Model apply to the system as a whole, but knowing how to treat each aspect of the system is enough for you to describe how it will behave physically.</p>
+			<p>Yes, it is possible!  The two objects will use different models<mdash/>treat the block as a point particle and the wheel as a rigid body<mdash/>but any objects can be included in the same system.  Interesting, neither the Point Particle model nor the Rigid-body Model apply to the system as a whole, but knowing how to treat each aspect of the system is enough for you to describe how it will behave physically.</p>
 			</answer>
 			</exercise>
 		</exercises>
