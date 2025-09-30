@@ -27,7 +27,7 @@
 			<figure xml:id="fig_rot-String-around-Ball">
 			<title>String around a Ball Figure</title>
 			<caption>A ball suspended from the ceiling by a string.</caption>
-			<image source="String-around-Ball.png" width = "30%">
+			<image source="String-around-Ball.png" width = "20%">
 				<description></description>
 			</image>
 		</figure>
@@ -36,7 +36,7 @@
 			<figure xml:id="fig_rot-String-around-BallFBD">
 			<title>String around a Ball Figure</title>
 			<caption>A free-body diagram for a ball attached to the ceiling by a string.</caption>
-			<image source="String-around-BallFBD.png" width = "30%">
+			<image source="String-around-BallFBD.png" width = "20%">
 				<description></description>
 			</image>
 		</figure>
@@ -59,7 +59,11 @@
 					F^T - mg = -ma
 				</me>
 				<me>
-					F^T = \frac{2}{5}mg = 0.24 \mathrm{~N}
+					F^T = \frac{2}{5}mg
+				</me>
+				Plugging in the given numbers gives: 
+				<me>
+					F^T = 0.24 \mathrm{~N}
 				</me>
 				
 			</p>
@@ -74,7 +78,7 @@
 	<investigation xml:id="pa_rot-10">
 		<title>String Around a Tennis Ball II</title>
 		<statement><p></p>
-			<p>Suppose you were to drop another tennis ball with the same mass and radius as in the previous problem, but a smaller moment of inertia (this tennis ball might be solid instead of hollow). Is the magnitude of the translational acceleration of the new tennis ball <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the translational acceleration of the original tennis ball?</p>
+			<p>Suppose you were to drop another tennis ball with the same mass and radius as in the previous activity, but a smaller moment of inertia (this tennis ball might be solid instead of hollow). Is the magnitude of the translational acceleration of the new tennis ball <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the translational acceleration of the original tennis ball?</p>
 		</statement>
 	</investigation>
 
