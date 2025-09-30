@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_app-ring" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Application: Moment of Inertia for a Ring</title>
+		
+
+<activity xml:id="class_mars-moons">
+        <title>Warm-up: The Moons of Mars</title>
+		<statement>
+		<p></p>
+		    <p>
+				Mars has two moons, Phobos and Deimos, which have the following orbital properties:
+				<me>R_p = 9 \times 10^6 \mathrm{~m}</me>
+				<me>R_d = 20 \times 10^6 \mathrm{~m}</me>
+				<me>M_p = 11 \times 10^15 \mathrm{~kg}</me>
+				<me>M_d = 2 \times 10^15 \mathrm{~kg}</me>
+			</p>
+			<ol>
+				<li>
+					<p>
+						Sketch a diagram showing Mars, Phobos, and Deimos.
+					</p>
+				</li>
+				<li>
+					<p>
+Find the moment of inertia of each moon (on it's own) about an axis passing through Mars
+					</p>
+				</li>
+				<li>
+					<p>
+Find the moment of inertia for the system consisting of the two moons about an axis passing through Mars
+					</p>
+				</li>
+			</ol>
+		</statement>
+	</activity>
+
+	<activity xml:id="class_ring-i">
+	<title>The Ring</title>
+<introduction>
+<p></p>
+    <p>
+      The ring shown below has mass <m>m</m>, inner radius <m>r_i</m>, and outer radius <m>r_o</m>. Calculate the moment of inertia about an axis through the center, perpendicular to the screen.
+    </p>
+	<figure xml:id="fig_rot-ring-i">
+			<title>Ring Figure</title>
+			<caption>A ball suspended from the ceiling by a string.</caption>
+			<image source="ring-i.png" width = "50%">
+				<description></description>
+			</image>
+		</figure>
+	</introduction>
+	<task>
+		<statement>
+			<p>
+				Explain why the mass density can be given by: <me>
+					\sigma = \frac{m}{\pi(r_o^2 - r_i^2)}
+				</me>
+				
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				<alert>Chop:</alert> How would you chop the ring up into small pieces? Draw a diagram showing the small pieces and label <m>dm</m>, <m>dA</m>, and <m>r</m>.  Find the mass of one of the small pieces you drew.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				<alert>Multiply:</alert> Using the results from the previous steps, multiply the components together to get your infinitesimal <m>dl</m>.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				<alert>Add:</alert> Compute the integral for the moment of inertia.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Use special-case analysis in the limit that <m>r_i</m> approaches <m>r_o</m> to make sense of your answer.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Use the parallel axis theorem to find the moment of inertia of the ring about an axis passing through its outer edge (perpendicular to the ring).
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Use an integral to verify the center of mass of the ring.
+			</p>
+		</statement>
+	</task>
+</activity>
+
+
+
+	
+</section>
+

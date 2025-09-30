@@ -25,14 +25,17 @@
 
 		<!--PREPARE SECTIONS-->
 		<xi:include href="./rot/sec_center-of-mass.ptx" />
+		<xi:include href="./rot/sec_center-of-mass2.ptx" />
     <xi:include href="./rot/sec_moment-of-inertia.ptx" />
     <xi:include href="./rot/sec_modeling-inertia.ptx" />
+    <xi:include href="./rot/sec_inertia-exer.ptx" />
     <xi:include href="./rot/sec_parallel-axis.ptx" />
     
     <!--PRACTICE SECTIONS-->
 		<xi:include href="./rot/sec_inertia-practice.ptx" />
     
     <!--CHALLENGE SECTIONS-->
+    <xi:include href="./rot/sec_app-ring.ptx" />
     <xi:include href="./rot/sec_inertia-challenge.ptx" />
 
     <!--

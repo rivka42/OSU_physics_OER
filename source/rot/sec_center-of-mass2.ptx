@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_center-of-mass2" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Chop-Multiply-Add: Calculating Center of Mass</title>
+	
+
+
+     
+	<p>The warm-up activity below will help you explore how to calculate center of mass for a continuous object.</p>
+	
+	
+
+	<exercises>
+	<title>Warm-up Activity: The Meter Stick</title>
+			
+			<p></p>
+		<p> You want to find the center of mass of a meter stick that has a total mass of <m>0.15 \mathrm{~kg}</m>.</p>
+		<exercise>
+			<title>Orient</title>
+			<statement>
+			<p></p>
+			<p>Explain why the integral <me>\int_{0}^{1 \mathrm{~m}} dx</me> will give the length of the meter stick.  Given this expression, where is the meter stick located?</p>
+			</statement>
+			<solution>
+				<p>
+					This integral gives the length of the board, because you are integrating over <m>x</m>. The result of this integral is <m>1 \mathrm{~m}</m>. The board is located with one end at the origin, and the other end at <m>x = 1 \mathrm{~m}</m>. 
+				</p>
+			</solution>
+			</exercise>
+					<exercise>
+						<title>Chop</title>
+						<statement>
+						<p></p>
+			<p>You decide to chop up the meter stick into small pieces with infinitesimal width <m>dx</m>, each of which has infinitesimal mass <m>dm</m>.  Sketch and label a diagram of the meter stick showing both <m>dx</m> and <m>dm</m>.</p>
+						</statement>
+						<solution>
+			<figure xml:id="fig_rot-com-ms">
+			<title>Meter Stick Figure</title>
+			<caption>An infinitesimal piece of a meter stick.</caption>
+			<image source="COM-MS.png" width = "100%">
+				<description></description>
+			</image>
+		</figure>
+						</solution>
+			</exercise>
+			<exercise>
+				<title>Multiply</title>
+				<statement>
+				<p></p>
+			<p>You know <m>dx</m> and <m>dm</m> are related by the linear mass density <m>\lambda</m>: <me>dm = \lambda dx</me>.  Calculate the density under the assumption that the density is roughly uniform throughout the meter stick.</p>
+				</statement>
+				<solution>
+					<p>
+						 The linear mass density can be written as <m>\lambda=\frac{dm}{dx}</m>.  For a uniform mass density, this reduces to <m>\lambda = M_{total} / L_{total}</m>.  The density only reduces to the total mass over the total length when the density is uniform. So the linear mass density is: <me>\lambda = \frac{M_{total}}{L_{total}} = \frac{0.15 \mathrm{~kg}}{1 \mathrm{~m}} = 0.15 \mathrm{~kg/m}</me>
+					</p>
+				</solution>
+			</exercise>
+					<exercise>
+						<title>Add</title>
+						<statement>
+						<p></p>
+			<p>Use an integral to determine the mass of the meter stick.</p>
+						</statement>
+						<solution>
+							<p>
+								You can determine the mass of the board by integrating both sides of <m>dm = \lambda dx</m>:
+								<me>
+									\int_{0}^{M} dm  = \int_{0}^{L} \lambda dx
+								</me>
+								<me>
+									M = \lambda L
+								</me>
+								<me>
+									M = (0.15 \mathrm{~kg/m})(1 \mathrm{~m}) = 0.15 \mathrm{~kg}
+								</me>
+								
+							</p>
+						</solution>
+			</exercise>
+		</exercises>
+
+		  <definition xml:id="def_center-of-mass2">
+	<title>Center of Mass for a Continuous Object</title>
+	<statement><p></p>
+		<p>The <term>center of mass</term> for a continuous system can be calculated as the average position of all parts of the object weighted by the mass at that position: <me>\vec{r}_{cm} = \frac{1}{M} \int \vec{r} dm</me></p>
+	</statement>
+</definition>
+
+  <!-- <video youtube="Vg2iVEeu1Iw"><description>Defining center of mass.</description></video>
+	-->
+
+	
+</section>
+

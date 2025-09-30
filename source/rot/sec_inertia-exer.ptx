@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_inertia-exer" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Moment of Inertia Exercises</title>
+		
+
+	<activity xml:id="class_3spheres">
+	<title>Three Spheres</title>
+<statement>
+<p></p>
+    <p>
+      Adjacent spheres below are separated from their nearest neighbor by a distance <m>L</m>.  Find the center of mass of the system of three spheres.
+    </p>
+	<figure xml:id="fig_rot-spheres">
+			<title>3 Spheres Figure</title>
+			<caption>Three spheres arranged in a line.</caption>
+			<image source="3spheres.png" width = "100%">
+				<description></description>
+			</image>
+		</figure>
+</statement>
+</activity>
+
+<activity xml:id="class_hammer">
+	<title>The Hammer</title>
+<statement>
+<p></p>
+    <p>
+      You want to balance the hammer vertically with the tip of your finger.  Which side of the hammer will be easier to balance?
+    </p>
+	<figure xml:id="fig_rot-hammer">
+			<title>Hammerhand Figure</title>
+			<caption>Two possible orientations for balancing a hammer.</caption>
+			<image source="hammer-hands.png" width = "100%">
+				<description></description>
+			</image>
+		</figure>
+</statement>
+</activity>
+
+<activity xml:id="class_baseball-bat-1">
+	<title>The Baseball Bat I</title>
+<introduction>
+<p></p>
+    <p>
+      A futuristic model for a baseball bat of mass <m>M</m> is the triangle shown below. The bat has length <m>L</m> and its widest width is <m>W</m>. You want to find the bat's center of mass.
+    </p>
+	<figure xml:id="fig_rot-bat1">
+			<title>Ring Figure</title>
+			<caption>A simplified two-dimensional model for a baseball bat.</caption>
+			<image source="bat1.png" width = "50%">
+				<description></description>
+			</image>
+		</figure>
+	</introduction>
+	<task>
+		<statement>
+			<p>
+				Draw a picture. What origin do you want to choose?
+				
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				<alert>Chop:</alert> How would you chop the baseball bat into small pieces? Draw a diagram showing the small pieces and label <m>dm</m>, <m>dA</m>, and <m>r</m>.  Find the mass of one of the small pieces you drew.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				<alert>Multiply:</alert> Using the results from the previous steps, multiply the components together to get your infinitesimal <m>d\vec{r}_{cm}</m>.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				<alert>Add:</alert> Compute the integral for the center of mass.
+			</p>
+		</statement>
+	</task>
+</activity>
+
+<activity xml:id="class_baseball-bat-2">
+	<title>The Baseball Bat II</title>
+<statement>
+<p></p>
+    <p>
+      Suppose you want to hold the bat from the previous activity horizontally with one hand at the left end.  Sketch an extended free-body diagram for the bat that would allow this.
+    </p>
+</statement>
+</activity>
+
+<activity xml:id="class_baseball-bat-3">
+	<title>The Baseball Bat III</title>
+<statement>
+<p></p>
+    <p>
+      Use the simplified model above for a baseball bat to find the moment of inertia about a vertical rotational axis through the left end of the bat.
+    </p>
+</statement>
+</activity>
+	
+</section>
+
