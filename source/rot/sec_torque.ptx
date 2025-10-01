@@ -39,10 +39,11 @@
 				<p>The units for torque are Nm (newton-meters).  Interestingly, the units for energy (joules) can also be written Nm, but the units for torque are never written as joules because torque and energy are fundamentally different quantities that just happen to have matching units.</p>
 				</answer>
 			</exercise>
-			<p>Recall the <xref ref="rot_catapult"></xref>, for which you previously drew an extended free-body diagram.</p>
+			
 		<exercise>
 		<title>Calculate - The Catapult</title>
 		<p></p>
+		<p>Recall the <xref ref="rot_catapult"></xref>, for which you previously drew an extended free-body diagram.</p>
 			<p>Use your diagram to help you find the torque exerted by each force acting on the catapult (continue to neglect the mass of the arm).  Choose the pivot point as your axis of rotation (why do you think this might be a reasonable choice?).  Pay attention to both the magnitude and the direction of each torque!</p>
 			</exercise>
 					<exercise>

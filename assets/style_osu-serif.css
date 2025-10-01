@@ -98,6 +98,7 @@
     padding-top: 0.25em;
 }
 
+/* ADD ME */
 .ptx-content article.example-like::after,
 .ptx-content article.remark-like::after{
     content:'';
@@ -109,7 +110,7 @@
     margin-left: -0.5em;
     padding-top: 0.25em;
 }
-
+/* STOP HERE */
 
 
 
