@@ -47,8 +47,152 @@
 		    <p>A car starts from rest on a curve with a radius of <m>120 \mathrm{~m}</m> and tangential acceleration of <m>1.5 \mathrm{~m/s^2}</m>.  Through what angle will the car have traveled when the magnitude of its total acceleration is <m>3 \mathrm{~m/s^2}</m>?</p>
 		</statement>
 		<hint>
-		    <p>For your representation (part 1c), sketch careful velocity and change in velocity vectors for a few different points.</p>
+		    <p>For your representation (part 1c), sketch the different components of the acceleration vector for the car.</p>
 		</hint>
+		<solution>
+			
+			<p><alert>1. Analyze and Represent</alert></p>
+		
+		<p>
+			<ol marker="a)">
+				<li>
+					<p>
+						<alert>List quantities.</alert>  
+						<me>
+							R = 120 \mathrm{~m}
+						</me>
+						<me>
+							a_t = 1.5 \mathrm{~m/s^2}
+						</me>
+						<me>
+							|a| = 3 \mathrm{~m/s^2}
+						</me>
+						<me>
+							\omega_i = 0
+						</me>
+						<me>
+							\omega_f = ?
+						</me>						
+						<me>
+							\Delta\theta = ?
+						</me>
+						
+						
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Identify assumptions.</alert>  The motion of the car is circular and its angular acceleration is constant.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Represent the situation physically.</alert>  The figure below shows the tangential and centripetal acceleration for the final position of the car, when the magnitude of the acceleration is <m>3 \mathrm{~m/s^2}</m>.  At this instant, the centripetal acceleration should be larger than the tangential acceleration in order for the two components to add together properly.
+					</p>
+				</li>
+			</ol>
+
+			<figure xml:id="fig_car-curve">
+		<title>Car around a Curve Figure</title>
+		 <caption>Acceleration components for the final position of the car.</caption>
+		<image source="car-curve.png" width = "60%">
+			<description></description></image>
+  </figure>	
+
+			</p>
+		
+		<p><alert>2. Calculate</alert></p>
+		
+		<p>
+			<ol marker="a)">
+				<li>
+					<p>
+						<alert>Represent principles symbolically.</alert>
+						<me>
+							a_c = R\omega^2
+						</me>
+						<me>
+							a_t = R\alpha
+						</me>
+						
+						Since the angular acceleration is constant: 
+						<me>
+							\omega_f^2 = \omega_i^2 + 2\alpha\Delta\theta
+						</me>
+						Lastly, the magnitude of the acceleration vector is:
+						<me>
+							|a| = \sqrt{a_t^2 + a_c^2}
+						</me>
+						
+						
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Solve unknown(s) symbolically.</alert>  
+						The tangential acceleration is known and constant, so the centripetal acceleration at the end is the thing you want to know.
+
+						<me>
+							a^2 = a_t^2 + a_c^2 = a_t^2 + R^2\omega_f^4
+						</me>
+						<me>
+							a^2 = a_t^2 + R^2(2\alpha\Delta\theta)^2
+						</me>
+						<me>
+							a^2 = a_t^2 + 4R^2\alpha^2(\Delta\theta)^2
+						</me>
+						<me>
+							(\Delta\theta)^2 = \frac{a^2 - a_t^2}{4R^2\alpha^2}
+						</me>
+						<me>
+							\Delta\theta = \sqrt{\frac{a^2 - a_t^2}{4a_t^2}}
+						</me>
+
+					</p>
+				</li>
+				<li>
+					<me>
+							\Delta\theta = 0.866 \mathrm{~rad}
+						</me>
+				</li>
+			</ol>
+			</p>
+	
+		<p><alert>3. Sensemake</alert></p>
+		
+		<p>
+			<ol marker="a)">
+				<li>
+					<p>
+						<alert>Are the units correct?</alert>  
+						<me>
+							\Delta\theta = \sqrt{\frac{a^2 - a_t^2}{4a_t^2}}
+						</me>
+						<me>
+							\mathrm{rad} = \sqrt{\frac{\mathrm{m^2/s^4}}{m^2/s^4}} = \mathrm{unitless}
+						</me>
+						Radians are unitless, so this checks out!
+						
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Is your numerical answer reasonable?</alert>  
+						This is just under one radian, so just under one sixth of a full circle.  At first glance, this might seem small, but the car is moving around a pretty big circle, and will in fact have traveled just over 100 m by the time it finishes this acceleration, which seems like a reasonable distance for a car to move at everyday speeds and accelerations.
+					</p>
+				</li>
+				<li>
+					<p>
+							<alert>Does your symbolic answer make physical sense?</alert>  
+					</p>
+					<p>
+						There are a lot of interesting possibilities for making sense of this symbolic answer, but the one that stands out is the numerator, which is a difference between the squares of the accelerations.  In particular, the special case where <m>a = a_t</m> makes the numerator vanish, which means <m>\Delta\theta = 0</m>.  This makes sense from a physical standpoint because <m>a = a_t</m> corresponds to the acceleration being entirely tangential, which is only true when the velocity is zero, before the car starts moving, when it will not have traveled any (angular) distance at all!
+					</p>
+				</li>
+			</ol>
+			</p>
+
+		</solution>
 	</project>
 
 </subsection>
