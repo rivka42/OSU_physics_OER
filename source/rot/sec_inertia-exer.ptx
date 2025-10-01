@@ -103,6 +103,16 @@
     </p>
 </statement>
 </activity>
+
+<activity xml:id="class_plank">
+	<title>The Plank</title>
+<statement>
+<p></p>
+    <p>
+      The instructor sits on the chair in the middle of the room. They will push off the floor with the same force, but they will hold the plank in two different orientations: vertically and horizontally.  Which orientation will result in the instructor spinning faster?
+    </p>
+</statement>
+</activity>
 	
 </section>
 

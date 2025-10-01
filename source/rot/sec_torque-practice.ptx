@@ -36,7 +36,7 @@
 			<figure xml:id="fig_rot-String-around-BallFBD">
 			<title>String around a Ball Figure</title>
 			<caption>A free-body diagram for a ball attached to the ceiling by a string.</caption>
-			<image source="String-around-BallFBD.png" width = "20%">
+			<image source="String-around-BallFBD.png" width = "30%">
 				<description></description>
 			</image>
 		</figure>

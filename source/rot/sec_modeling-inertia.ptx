@@ -4,8 +4,15 @@
   <title>Chop-Multiply-Add: Calculating Moment of Inertia</title>
 		
       <video youtube="ersSAN7aFfw"><description>An example of calculating moment of inertia using integrals.</description></video>
+
+	  <definition>
+	<title>Moment of Inertia for Continuous Objects</title>
+	<statement><p></p>
+		<p>The <term>moment of inertia</term> of a rigid object is its capacity to resist changes to its angular motion.  For a continuous system, it can be found as a weighted average of the distance from the axis of rotation squared: <me>I = \int r^2 dm</me></p>
+	</statement>
+</definition>
 	
-	<p>For a continuous object, like a solid sphere or cylinder, the moment of inertia can be calculated using <me>I = \int r^2 dm</me>  As with previous integral expressions in physics such as those you saw in <xref ref="sec_calc1"></xref>, <xref ref="sec_work2"></xref>, and <xref ref="sec_center-of-mass"></xref>, you can use the <alert>Chop-Multiply-Add</alert> strategy to construct and evaluate any necessary integrals.</p>
+	<p>For a continuous object, like a solid sphere or cylinder, the moment of inertia can be calculated using the expression above.  As with previous integral expressions in physics, you can use the <alert>Chop-Multiply-Add</alert> strategy to construct and evaluate any necessary integrals.</p>
 	
 	<p><term>Chop:</term> You can start by chopping up the object into small pieces.  Each piece of the object is represented by the expression <m>dm = \rho dV</m>, where the <m>dV</m> represents the infinitesimal volume of the piece and <m>\rho</m> is the volume mass density of the object.  In general, <m>\rho</m> can be either uniform (constant over the entire object) or non-uniform (in which case it will change from place to place).</p>
 	

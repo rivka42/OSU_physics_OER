@@ -257,6 +257,9 @@
 <algorithm xml:id="chop-multiply-add">
   <title>Chop-Multiply-Add</title>
   <statement>
+    <p>
+      
+    </p>
     <p><term>Chop-Multiply-Add</term> is a strategy that can be used to perform a calculation when one or more of the involved quantities is <em>not constant</em>.    </p>
 
     <p><term>Chop:</term> Start by chopping something up into small pieces: usually regions of space or intervals of time.  Label each relevant piece with a differential, such as <m>dx</m> or <m>dt</m>.</p>

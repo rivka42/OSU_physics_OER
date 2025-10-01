@@ -18,7 +18,7 @@
 		the magnitude of the normal force acting on your top foot?</p>
 		<figure xml:id="fig_rot-standing-ramp">
 			<title>Ramp Figure</title>
-			<caption></caption>
+			<caption>A person standing on a ramp.</caption>
 			<image source="standing-ramp.png" width = "50%">
 				<description>A figure on a ramp.</description>
 			</image>
@@ -32,7 +32,7 @@
 		    <p>Two massive blocks are shown in the figure below, connected to each other by a rope over a pulley with nonzero mass. Find the acceleration of both masses and of the pulley.</p>
 			<figure xml:id="fig_rot-massive-pulley">
 			<title>Massive Pulley Figure</title>
-			<caption></caption>
+			<caption>Two massive blocks connected to a massive pulley.</caption>
 			<image source="massive-pulley.png" width = "50%">
 				<description></description>
 			</image>

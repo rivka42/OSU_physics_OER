@@ -14,7 +14,7 @@
 	</statement>
 </definition>
 
-<p>Calculating torque requires <xref ref="sec_cross-product"></xref>.  Finding the direction of the torque thus typically requires use of <xref ref="rep_rhr" text="title"></xref>.</p>
+<p>The definition for torque involves <xref ref="sec_cross-product"></xref>.  Finding the direction of the torque thus typically involves use of <xref ref="rep_rhr" text="title"></xref>.</p>
 	
 	<p>Torque is a <alert>rotational analogue</alert> for force.  You have seen other rotational analogues before: angular acceleration (<m>\vec{\alpha}</m>) is a rotational analogue for translational acceleration (<m>\vec{a}</m>).  Angular acceleration and translational acceleration are different quantities, but they serve the same role in their respective models, and they are related to each other.  Similarly, force and torque serve equivalent roles in their respective models, but they are <em>different</em> even though they are related.</p>
 	
@@ -36,7 +36,7 @@
 			  <p>What are the units of torque?</p>
 				</statement>
 				<answer>
-				<p>The units for torque are Nm (Newton-meters).  Interestingly, the units for energy (Joules) can also be written Nm, but the units for torque are never written as Joules because torque and energy are fundamentally different quantities that just happen to have matching units.</p>
+				<p>The units for torque are Nm (newton-meters).  Interestingly, the units for energy (joules) can also be written Nm, but the units for torque are never written as joules because torque and energy are fundamentally different quantities that just happen to have matching units.</p>
 				</answer>
 			</exercise>
 			<p>Recall the <xref ref="rot_catapult"></xref>, for which you previously drew an extended free-body diagram.</p>

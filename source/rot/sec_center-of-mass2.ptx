@@ -14,12 +14,14 @@
 	<title>Warm-up Activity: The Meter Stick</title>
 			
 			<p></p>
-		<p> You want to find the center of mass of a meter stick that has a total mass of <m>0.15 \mathrm{~kg}</m>.</p>
+		<p> You want to find the center of mass for a meter stick that has a total mass of <m>0.15 \mathrm{~kg}</m>.</p>
 		<exercise>
 			<title>Orient</title>
 			<statement>
 			<p></p>
-			<p>Explain why the integral <me>\int_{0}^{1 \mathrm{~m}} dx</me> will give the length of the meter stick.  Given this expression, where is the meter stick located?</p>
+			<p>Explain why the integral below will give the length of the meter stick.  Given this expression, where is the meter stick located?
+				<me>\int_{0}^{1 \mathrm{~m}} dx</me>
+			</p>
 			</statement>
 			<solution>
 				<p>
@@ -47,7 +49,7 @@
 				<title>Multiply</title>
 				<statement>
 				<p></p>
-			<p>You know <m>dx</m> and <m>dm</m> are related by the linear mass density <m>\lambda</m>: <me>dm = \lambda dx</me>.  Calculate the density under the assumption that the density is roughly uniform throughout the meter stick.</p>
+			<p>An infinitesimal piece of the meter stick <m>dx</m> and the corresponding mass of that piece <m>dm</m> are related by the linear mass density <m>\lambda</m>: <me>dm = \lambda dx</me>.  Calculate the density under the assumption that the density is uniform throughout the meter stick.</p>
 				</statement>
 				<solution>
 					<p>
@@ -78,6 +80,10 @@
 						</solution>
 			</exercise>
 		</exercises>
+
+		<p>
+			Watch the video below, which extends the Chop-Multiply-Add strategy above to determine a procedure for finding
+		</p>
 
 		  <definition xml:id="def_center-of-mass2">
 	<title>Center of Mass for a Continuous Object</title>

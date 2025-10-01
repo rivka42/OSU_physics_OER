@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_slide-hoop" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Application: The Sliding Hoop</title>
+		
+  <activity xml:id="class_sliding-hoop">
+	<title>The Sliding Hoop</title>
+<introduction>
+<p> </p>
+    <p>
+      SA hoop with mass <m>m</m> and radius <m>r</m> is thrown to the right with initial speed <m>v_i</m> and initial angular speed <m>\omega_i</m> such that the hoop is spinning backwards (opposite the direction it would need to spin to roll without slipping).
+    </p>
+</introduction>
+	<task>
+		<statement>
+	<p> 
+		After observing the hoop, give a qualitative explanation, including at least one extended free-body diagram, to account for the motion of the hoop.
+	</p>
+</statement>
+	</task>
+	<task>
+		<statement>
+	<p>
+		Calculate the distance the hoop slides before it is rolling without slipping.  Assume you know the coefficients of friction.
+    </p>
+</statement>
+<hint>
+	<p>
+		Write down the Law of Motion (both translational and rotational) for the hoop and use it to calculate the amount of time the hoop travels before it rolls without slipping.
+	</p>
+</hint>
+	</task>	
+	
+</activity>
+	
+</section>
+

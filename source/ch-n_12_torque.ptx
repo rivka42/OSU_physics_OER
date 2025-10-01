@@ -37,6 +37,7 @@
     
     <!--CHALLENGE SECTIONS-->
     <xi:include href="./rot/sec_sd.ptx" />
+    <xi:include href="./rot/sec_slide-hoop.ptx" />
     <xi:include href="./rot/sec_torque-challenge.ptx" />
 
 

@@ -12,33 +12,38 @@
 			<description>A golden retriever and two barbells, one with weights at the far ends and one with weights about halfway from the middle.</description></image>
   </figure>
 			<exercise>
+				<statement>
 			<p>Which weight, if either, do you think would be easier to twirl about its center. Explain why you think so.</p>
+				</statement>
+				<solution>
+						<video youtube="4aqlc_ygJPI"><description>An example of moment of inertia.</description></video>
+				</solution>
 			</exercise>
-			<video youtube="4aqlc_ygJPI"><description>An example of moment of inertia.</description></video>
+			
 			<exercise>
-			<p>Give a brief description of a situation you have experienced personally where you have noticed something being easier or harder to rotate than you expected.</p>
+			<p>Give a brief description of a situation you have experienced personally where you have noticed something being easier or harder to start or stop rotating than you expected.</p>
 			</exercise>
 		</exercises>
 		      	
 	<p>Recall the definition of <xref ref="def_mass" text="title"></xref> as the capacity of an object to resist changes to its motion.  The rotational analogue<mdash/>the capacity of an object to resist changes to its <em>angular</em> motion<mdash/>is known as the moment of inertia.</p>
 	
 	<definition>
-	<title>Moment of Inertia</title>
+	<title>Moment of Inertia for Discrete Objects</title>
 	<statement><p></p>
-		<p>The <term>moment of inertia</term> of a rigid object is its capacity to resist changes to its angular motion, and can be found as a weighted average of the distance squared: <me>I = \sum_{i} m_ir_i^2</me> for a set of discrete objects and <me>I = \int r^2 dm</me> for a continuous object.</p>
+		<p>The <term>moment of inertia</term> of a rigid object is its capacity to resist changes to its angular motion.  For a set of discrete objects, it can be found as a weighted average of the distance from the axis of rotation squared: <me>I = \sum_{i} m_ir_i^2</me></p>
 	</statement>
 </definition>
 
 	<exercises>
 	<title>Activities</title>
 			<exercise>
-			<p>You are riding a <m>150 \mathrm{~kg}</m> bicycle at constant speed along a circular track of radius <m>25 \mathrm{~m}</m>.  What is the moment of inertia of the bicycle about the center of the track?  What assumptions do you need to make so that you do not have to do any integrals?</p>
+			<p>You are riding a <m>150 \mathrm{~kg}</m> bicycle at constant speed along a circular track of radius <m>25 \mathrm{~m}</m>.  What is the moment of inertia of the bicycle about the center of the track?  What assumptions do you need to make in order to use the equation above?</p>
 			</exercise>
 			<exercise>
 			<p>Suppose you want to find the moment of inertia of the lower weight from the Warm-up Activities.  What information would you need to know?  What assumptions would you want to make?  What equations would you decide to use?</p>
 			</exercise>
 			<exercise>
-			<p>It is extremely common to use a reference to find the moments of inertia for common objects, rather than calculate them directly every time as you will do in the next section.  Use <url href="https://en.wikipedia.org/wiki/List_of_moments_of_inertia" visual="this table"/> to determine the moment of inertia for each of the following:</p>
+			<p>It is extremely common to use a reference to find the moments of inertia for common objects.  Use <url href="https://en.wikipedia.org/wiki/List_of_moments_of_inertia" visual="this table"/> to determine the moment of inertia for each of the following:</p>
 			<p>
 			<ul>
 			<li>A tennis ball spinning about its center</li>
