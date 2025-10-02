@@ -169,7 +169,7 @@
 							\Delta\theta = \sqrt{\frac{a^2 - a_t^2}{4a_t^2}}
 						</me>
 						<me>
-							\mathrm{rad} = \sqrt{\frac{\mathrm{m^2/s^4}}{m^2/s^4}} = \mathrm{unitless}
+							\mathrm{rad} = \sqrt{\frac{\mathrm{m^2/s^4}}{\mathrm{m^2/s^4}}} = \mathrm{unitless}
 						</me>
 						Radians are unitless, so this checks out!
 						

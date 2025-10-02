@@ -3,7 +3,7 @@
 <section xml:id="sec_center-of-mass" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Center of Mass</title>
 		
-      <video youtube="Vg2iVEeu1Iw"><description>Defining center of mass.</description></video>
+      
 	
 	<p>Until now, you have been considering objects that are symmetrical, in which case the geometric center of the object and the center of mass are at the same position.  For non-symmetrical objects, or for systems made up of multiple objects that are not arranged symmetrically, center of mass can be calculated as a weighted average.</p>
 	
@@ -27,7 +27,28 @@
 			<p></p>
 			  <p>Find the center of mass of the system of two cubes, assuming they are made of the same uniform material.  Make sure to specify your origin!  Why do you not need to integrate?</p>
 			</exercise>
-			
+			<exercise>
+				<title>Optional: Many Blocks</title>
+				<statement>
+					<p>
+						Find the <m>x</m>-position of the center of mass of the collection of identical, constant density blocks of mass <m>M</m> shown in the figure below.
+					</p>
+					<figure xml:id="fig_rot-many-blocks">
+			<title>Ramp Figure</title>
+			<caption>A collection of identical blocks.</caption>
+			<image source="COM-Blocks.png" width = "50%">
+				<description></description>
+			</image>
+		</figure>
+				</statement>
+				<solution>
+					<p>
+						The video below includes a discussion of center of mass and a few examples, including the solution to the Many Blocks Activity.
+					</p>
+					<video youtube="Vg2iVEeu1Iw"><description>Defining center of mass.</description></video>
+				</solution>
+				
+			</exercise>
 		</exercises>
 
   

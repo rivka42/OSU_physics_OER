@@ -10,17 +10,20 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 
-		<investigation xml:id="psa_rot-03">
-		<title>Balancing Bat</title>
+	<project xml:id="psa_rot-05">
+        <title>The Cheese Slice</title>
 		<statement><p></p>
-		<p>You spend some time experimenting with a baseball bat, and eventually you are able to balance the bat on a single finger.  A friend notices this, and makes the following claim:</p>
-
-		<p><em>“It looks like the balancing point isn't in the middle of the bat—it's a little closer to the thicker end of the bat.  That balancing point must be the location where half the bat's mass is on the left and half the bat's mass is on the right.”</em></p>
-
-		<p>How would you respond to your friend's claim?  Is your friend's claim <em>correct</em>, <em>partially correct</em>, or <em>incorrect</em>?</p>
-		
+		    <p>You have a one-dimensional slice of cheese with total mass <m>M</m> and total length <m>L</m>.  You know the linear mass density is <m>\lambda(x) = k \sqrt{x}</m>.  Find the constant of proportionality <m>k</m> (including its units) and the center of mass of the slice of cheese.</p>
 		</statement>
-	</investigation>
+		<hint>
+		    <p>For your representation (part 1c), sketch a graph of the mass density vs. <m>x</m>.  This graph might also prove useful for your sensemaking at the end!</p>
+		</hint>
+	<!--	<solution>s
+		    <p></p>
+		</solution>-->
+	</project>
+
+
 
 		<project xml:id="psa_rot-06">
         <title>The Cube I</title>
@@ -36,13 +39,7 @@
 		</statement>
 	</investigation>
 
-<activity xml:id="x_meta-inertia">
-		<title>Metacognitive Reflection</title>
-		<p></p>
-    <p>
-      
-    </p>
-</activity>
+
 
 
 	

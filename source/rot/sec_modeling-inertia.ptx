@@ -35,7 +35,7 @@
 			<exercise>
 			<title>Calculate - Baton</title>
 			<p></p>
-			  <p>In the previous section, you looked up the moment of inertia for a baton spinning about one of its ends.  Use the Chop-Multiply-Add strategy to calculate this moment of inertia for yourself, given the mass <m>M</m> and length <m>L</m> of the baton.  For simplicity, assume the baton is one dimensional and the mass is uniformly distributed <m>\lambda = M/L</m>.</p>
+			  <p>In the previous section, you looked up the moment of inertia for a baton spinning about one of its ends.  Use the Chop-Multiply-Add strategy to calculate this moment of inertia for yourself, given the mass <m>M</m> and length <m>L</m> of the baton.  For simplicity, assume the baton is one dimensional and the mass is uniformly distributed with <m>\lambda = M/L</m>.</p>
 			</exercise>
 			
 		</exercises>

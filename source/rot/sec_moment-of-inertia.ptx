@@ -37,10 +37,28 @@
 	<exercises>
 	<title>Activities</title>
 			<exercise>
+				<title>Bicycle Inertia</title>
+				
+				<statement>
 			<p>You are riding a <m>150 \mathrm{~kg}</m> bicycle at constant speed along a circular track of radius <m>25 \mathrm{~m}</m>.  What is the moment of inertia of the bicycle about the center of the track?  What assumptions do you need to make in order to use the equation above?</p>
+				</statement>
+				<solution>
+					<p>
+						Since the radius of the track is much bigger than the size of the bicycle, you can probably treat the bicycle as a single point mass!
+					</p>
+				</solution>
 			</exercise>
 			<exercise>
+				<title>Weights Inertia</title>
+				
+				<statement>
 			<p>Suppose you want to find the moment of inertia of the lower weight from the Warm-up Activities.  What information would you need to know?  What assumptions would you want to make?  What equations would you decide to use?</p>
+				</statement>
+				<solution>
+					<p>
+						There are a couple ways you could do this. You could directly calculate the moment of inertia, if you knew something about what weights were on the barbell and where they were located. Then you could use <me>\Sigma_i m_i r_i^2 = m_1 r_1^2 + m_2 r_2^2</me>
+						</p>
+				</solution>
 			</exercise>
 			<exercise>
 			<p>It is extremely common to use a reference to find the moments of inertia for common objects.  Use <url href="https://en.wikipedia.org/wiki/List_of_moments_of_inertia" visual="this table"/> to determine the moment of inertia for each of the following:</p>
