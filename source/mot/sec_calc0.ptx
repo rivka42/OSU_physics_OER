@@ -12,7 +12,19 @@
 	
 	<p><term>Multiply:</term> You can then multiply the force acting on the object by the displacement step above to get the infinitesimal amount of work done along only that step <m>dW = \vec{F} \cdot \vec{dr}</m>.</p>
 	
-		<p><term>Add:</term> Last, you <em>add</em> up all the infinitesimal works with an integral along the entire path: <me>W = \int_{i}^{f}\vec{F} \cdot \vec{dr}</me></p>
+		<p><term>Add:</term> Last, you <em>add</em> up all the infinitesimal works with an integral along the entire path, resulting in the expression below!</p>
+
+		<definition xml:id="def_work-calc">
+	<title>Work</title>
+	<statement>
+		<p>
+			
+		</p>
+	<p>The <term>work</term> done by a single force <m>\vec{F}</m> on an object moving from 
+	<m>\vec{r}_i</m> to <m>\vec{r}_f</m> is: <me>W = \int_{i}^{f}\vec{F} \cdot \vec{dr}</me>
+	</p>
+	</statement>
+	</definition>
 
 	<exercises>
 	<title>Activities</title>

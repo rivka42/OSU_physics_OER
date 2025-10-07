@@ -34,27 +34,22 @@
 	<project xml:id="psa_rot-10">
         <title>Brick on a Disc</title>
 		<statement><p></p>
-		    <p>A <m>100 \mathrm{~kg}</m> disc with radius <m>1.6 \mathrm{~m}</m> is spinning horizontally at <m>25 \mathrm{~rad/s}</m>.  You place a <m>20 \mathrm{~kg}</m> brick quickly and gently on the disc so that it sticks to the edge of the disc.  Determine the final angular speed of the disc-brick system.</p>
+		    <p>A <m>100 \mathrm{~kg}</m> disc with radius <m>1.6 \mathrm{~m}</m> is spinning horizontally at <m>25 \mathrm{~rad/s}</m>.  You place a <m>20 \mathrm{~kg}</m> brick quickly and gently on the disc so that it sticks to the edge of the disc.  Determine the final angular speed of the disc-brick system.  Discuss whether the kinetic energy of the system <em>increases</em>, <em>decreases</em>, or <em>remains the same.</em></p>
 		</statement>
-		<hint>Discuss whether the kinetic energy of the system <em>increases</em>, <em>decreases</em>, or <em>remains the same.</em></hint>
 	</project>
 
 	</subsection>
 	
-  	<project xml:id="pa_rot-11">
-		<title>The Merry-Go-Round I</title>
-		<statement><p></p>
-			<p>You are standing at the edge of a merry-go-round at the playground.  You and the merry-go-round have about the same mass, and you can treat the merry-go-round as a solid disc with moment of inertia <m>I = \frac{1}{2}mR^2</m>, where <m>R</m> is the radius. The merry-go-round is initially spinning with constant angular speed <m>\omega_i</m>.  You decide to jump off the merry-go-round; you jump in a horizontal plane tangent to its edge.</p>
-			<p>The merry-go-round comes to a complete stop.  What is your speed immediately after leaving the merry-go-round?</p>
-		</statement>
-	</project>
+  	
 
-	<investigation xml:id="pa_rot-12">
-		<title>The Merry-Go-Round II</title>
-		<statement><p></p>
-			<p>Consider the system of both you and the merry-go-round from the previous activity. Did the kinetic energy of this system <em>increase</em>, <em>decrease</em>, or <em>stay the same</em> as a result of you jumping off?</p>
-		</statement>
-	</investigation>
 	
+	
+<activity xml:id="x_summarize-angular">
+		<title>Models</title>
+
+<p>Consider the questions from <xref ref="fig_applications"></xref>.  Now that you have finished studying rotational motion, how would you answer them?  How have those answers changed over time?</p>
+
+</activity>
+
 </section>
 

@@ -47,10 +47,10 @@
 						<title>Explanation: Adding Momentum?</title>
 			<statement>
 				<p></p>
-			  <p>Suppose a friend of yours wrote down the following equation for something they call the "total momentum": <m>\vec{p} + \vec{L}</m>.  How could you convince your friend that this equation is incorrect, and that there cannot be such a thing as total momentum.</p>
+			  <p>Suppose a friend of yours wrote down the following equation for something they call the <q>total momentum</q>: <m>\vec{p} + \vec{L}</m>.  How could you convince your friend that this equation is incorrect, and that there cannot be such a thing as total momentum?</p>
 				</statement>
 				<hint>
-				<p>Look at the units you found for the angular momentum.</p>
+				<p>Try checking the units for each quantity!</p>
 				</hint>
 			</exercise>
 		</exercises>

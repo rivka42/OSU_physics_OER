@@ -33,7 +33,8 @@
     <xi:include href="./rot/sec_angular-momentum-vd.ptx" />
     <xi:include href="./rot/sec_conservation-analysis.ptx" />
     <xi:include href="./rot/sec_precession.ptx" />
-    <xi:include href="./rot/sec_rotation-summary.ptx" />
+
+    <!--<xi:include href="./rot/sec_rotation-summary.ptx" />-->
     
     
     <!--PRACTICE SECTIONS-->

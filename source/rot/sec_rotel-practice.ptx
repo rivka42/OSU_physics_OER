@@ -10,19 +10,45 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 
+	<subsection>
+	<title>A*R*C*S Practice</title>
+
+	<project xml:id="pa_rot-sun">
+		<title>The Merry-Go-Round I</title>
+		<statement><p></p>
+			<p>The Sun has mass <m>>2 \times 10^{30}  \mathrm{~kg}</m>, radius <m>7\times 10^{5} \mathrm{~km}</m>, and rotational period of approximately 28 days. If the Sun should collapse into a white dwarf of radius <m>3.5 \times 10^3 \mathrm{~km}</m>, what would its period be if no mass were ejected and a sphere of uniform density can model the Sun both before and after?</p>
+		</statement>
+		<solution>
+			<p>
+				For this system, angular momentum is conserved since there will be no torque that acts on the system. This means the initial angular momentum equals the final angular momentum: <m>L_i = L_f</m>.  You can use the moment of inertia of a solid uniform sphere, and relate the angular speed to the period of the rotation: <me>\frac{2}{5} M_s R_s ^2 (\frac{2\pi}{T_s}) = \frac{2}{5} M_s R_n ^2 (\frac{2\pi}{T_n})</me>
+				Solving for the new time: <me>T_n = T_s \frac{R_n^2}{R_s^2} = (28 \ \mathrm{~days})\frac{(3.5\times10^3)^2}{(7\times10^5)^2} = 0.0007 \ \mathrm{~days} = 60.5 \mathrm{~s}</me>
+			</p>
+		</solution>
+	</project>
+
+<project xml:id="pa_rot-11">
+		<title>The Merry-Go-Round I</title>
+		<statement><p></p>
+			<p>You are standing at the edge of a merry-go-round at the playground.  You and the merry-go-round have about the same mass, and you can treat the merry-go-round as a solid disc with moment of inertia <m>I = \frac{1}{2}mR^2</m>, where <m>R</m> is the radius. The merry-go-round is initially spinning with constant angular speed <m>\omega_i</m>.  You decide to jump off the merry-go-round; you jump in a horizontal plane tangent to its edge.</p>
+			<p>The merry-go-round comes to a complete stop.  What is your speed immediately after leaving the merry-go-round?</p>
+		</statement>
+	</project>
+
+</subsection>
+
 <subsection>
 	<title>Explanation Practice</title>
 
-
+<investigation xml:id="pa_rot-12">
+		<title>The Merry-Go-Round II</title>
+		<statement><p></p>
+			<p>Consider the system of both you and the merry-go-round from the previous activity. Did the kinetic energy of this system <em>increase</em>, <em>decrease</em>, or <em>stay the same</em> as a result of you jumping off?</p>
+		</statement>
+	</investigation>
 	
 </subsection>
 
-<subsection>
-	<title>A*R*C*S Practice</title>
 
-
-
-</subsection>
 	
 <subsection>
 <title>Numerical Practice</title>
