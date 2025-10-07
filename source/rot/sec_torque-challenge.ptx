@@ -24,6 +24,16 @@
 			</image>
 		</figure>
 		</statement>
+		<hint>
+			<p>
+				A relevant representation is often helpful in both constructing and communicating your explanation.  For a situation like this one, try using an extended free-body diagram to help guide your reasoning.
+			</p>
+		</hint>
+		<hint>
+			<p>
+				Once you have drawn an extended free-body diagram, a good starting point is the fundamental physical law relating torques and angular acceleration.
+			</p>
+		</hint>
 	</investigation>
 
 	<project xml:id="psa_rot-08">
@@ -39,7 +49,16 @@
 		</figure>
 		</statement>
 		<hint>
-		<p>Use a special-case analysis and the fact that you may have solved this problem previously when the pulley is massless.</p>
+		    <p>
+				<alert>Analyze and Represent:</alert> Sketch and label free-body diagrams for each object.  When you choose a coordinate system for each object, make sure to describe the direction of the acceleration for each object using that coordinate system.
+			</p>
+		</hint>
+		<hint>
+		    <p><alert>Calculate:</alert> In this situation, it can be a good idea to let your free-body diagrams do a lot of work for you.  For each free-body diagram, try to find an equation (or more than one) that quantitatively relates known quantities and unknown quantities.</p>
+		</hint>
+		<hint>
+		    <p><alert>Sensemake:</alert> Use a special-case analysis and the fact that you may have solved this problem previously when the pulley is massless.
+			</p>
 		</hint>
 	</project>
 

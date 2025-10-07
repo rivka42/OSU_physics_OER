@@ -3,7 +3,7 @@
 <section xml:id="sec_center-of-mass" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Center of Mass</title>
 		
-      
+      <video youtube="L_vCG4-Aqhw"><description>Defining center of mass.</description></video>
 	
 	<p>Until now, you have been considering objects that are symmetrical, in which case the geometric center of the object and the center of mass are at the same position.  For non-symmetrical objects, or for systems made up of multiple objects that are not arranged symmetrically, center of mass can be calculated as a weighted average.</p>
 	
