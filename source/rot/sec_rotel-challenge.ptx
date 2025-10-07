@@ -10,8 +10,6 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 
-	<subsection>
-	<title>Explanation Tasks</title>
 
 	<investigation xml:id="psa_rot-09">
         <title>Spool Competition</title>
@@ -26,10 +24,7 @@
 		</statement>
 	</investigation>
 
-	</subsection>
 
-	<subsection>
-	<title>A*R*C*S Activities</title>
 
 	<project xml:id="psa_rot-10">
         <title>Brick on a Disc</title>
@@ -38,16 +33,13 @@
 		</statement>
 	</project>
 
-	</subsection>
-	
-  	
 
 	
 	
-<activity xml:id="x_summarize-angular">
+<activity xml:id="x_meta-rotel">
 		<title>Models</title>
 
-<p>Consider the questions from <xref ref="fig_applications"></xref>.  Now that you have finished studying rotational motion, how would you answer them?  How have those answers changed over time?</p>
+<p>You have now finished adapting your model for motion to include rotational motion.  Consider again the questions from <xref ref="fig_applications"></xref>.  Considering specifically the process of adapting your model to include rotational motion, are your answers to these questions different than they were when you began this process?</p>
 
 </activity>
 
