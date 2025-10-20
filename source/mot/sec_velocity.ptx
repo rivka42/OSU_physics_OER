@@ -41,7 +41,7 @@ In fact, most of physics is concerned with predicting what will happen to a syst
 	<title>Instantaneous Velocity</title>
 	<statement>
 		<p></p>
-		<p>The <term>instantaneous velocity</term> of an object is found by taking the limit as <m>\Delta t \rarrow 0</m>, resulting in infinitesimal changes in 
+		<p>The <term>instantaneous velocity</term> of an object is found by taking the limit as <m>\Delta t \rightarrow 0</m>, resulting in infinitesimal changes in 
 			position and time: <me>\vec{v} = \frac{d \vec{r}}{d t}</me></p>
 	</statement>
 </definition>

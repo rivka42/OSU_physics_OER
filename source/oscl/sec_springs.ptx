@@ -3,31 +3,55 @@
 <section xml:id="sec_springs" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Block on a Spring</title>
 	
-		<exercises>
-	<title>Introductory Activities</title>
-	<p>Play with <url href="https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics_en.html" visual="this simulation"/> for about 10-15 minutes.  Make sure to explore all the tabs!</p>
-	<exercise>
+		<activity>
+	<title>Warm-up Activity: Spring Simulation</title>
+	<introduction>
+		<p>
+			
+		</p>
+		<p>Play with <url href="https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics_en.html" visual="this simulation"/> for about 10-15 minutes.  Make sure to explore all the tabs!</p>
+	</introduction>
+	
+	<task>
 	<p>Write something interesting you observe from the simulation.</p>
-	</exercise>
-	<exercise>
+	</task>
+	<task>
 	<p>Design a small experiment using the simulation that would allow you to investigate some property of this system. Write down your experiment and what you learned from it!
 	</p>
-	</exercise>
-		<exercise>
+</task>
+		<task>
 	<p>
 	A small mass on a frictionless table is attached to a spring and the spring is initially stretched by some initial distance, then released from rest.  Describe in words what you think will happen to the mass over time.  (Feel free to compare this situation to what you observed in the simulation!)
 	</p>
-	</exercise>
-</exercises>
+</task>
+</activity>
 	
 	<video youtube="zQI_gprkg1M"><description>Introducing simple harmonic motion using the block on a spring.</description></video>
-			
- <p>
+
+	<definition xml:id="def-omega-spring">
+		<statement>
+			<p>
+				
+			</p>
+			<p>
+				The <term>angular frequency</term> for a block of mass <m>m</m> attached to a massless spring with constant <m>k</m> is 
+				<me>
+					\omega_s = \sqrt{\frac{k}{m}}
+				</me>
+				
+				The equation of motion for the block is given by <me> x(t) = x_{\text{max}} \cos(\omega_s t + \phi_o)</me>
+			</p>
+		</statement>
+	</definition>
+		
+	<note>
+		<title>Derivation of the Equation of Motion</title>
+		 <p>
 <!--Let's apply what we have learned to analyze the oscillatory motion of a mass on a spring. -->Consider a spring with spring constant <m>k</m> that has one end held fixed in space and one end attached to a block of mass <m>m</m>, which rests on a frictionless surface. Assume the spring has negligible mass compared to the object's mass <m>m</m> such that we can apply the massless spring approximation. 
 </p>
 
 <p>
-The spring has equilibrium length <m> x_o</m> and is initially stretched and then released. You know from experience that the spring will undergo oscillatory motion<mdash/>what is the equation of motion, the period, and the oscillation frequency for the spring?  <!--We apply the general physics problem-solving strategy to analyze the motion.-->  First draw a diagram of the situation and choose a coordinate system. 
+The spring has equilibrium length <m>x_0</m> and is initially stretched and then released. You know from experience that the spring will undergo oscillatory motion<mdash/>what is the equation of motion, the period, and the oscillation frequency for the spring?  <!--We apply the general physics problem-solving strategy to analyze the motion.-->  First draw a diagram of the situation and choose a coordinate system. 
 </p>
 
  <figure xml:id="mass_spring">
@@ -76,7 +100,7 @@ From this we can determine the oscillation frequency of the spring system. Note 
 Since the oscillation frequency depends solely on the physical characteristics of the system (the stiffness of the spring and the mass of the object attached to the spring), the more specific label <m>\omega_s</m> is appropriate.
 </p>
 
-
+	</note>
 
 		
 
@@ -98,7 +122,7 @@ Since the oscillation frequency depends solely on the physical characteristics o
 		<p>
 		 <ol>
 <li>If <m> m \rightarrow 2m </m>,  then <m> \omega \rightarrow \frac{1}{\sqrt{2}}\omega_0</m></li> 
-<li>If <m> A \rightarrow 2A </m>,  then <m> \omega = \omega_0 </m>. This is an important point to note: The amplitude <alert> does not </alert> affect the oscillation frequency in simple harmonic motion.</li>
+<li>If <m> x_{\text{max}} \rightarrow 2x_{\text{max}} </m>,  then <m> \omega = \omega_0 </m>. This is an important point to note: The amplitude <alert> does not </alert> affect the oscillation frequency in simple harmonic motion.</li>
 <li>If <m> k \rightarrow 2k </m>,  then <m> \omega \rightarrow \sqrt{2}\omega_0 </m></li>
 <li>If <m> g \rightarrow 2g </m>,  then <m> \omega = \omega_0</m>. The oscillation frequency does not depend on <m>g</m>. </li>
       </ol>
@@ -108,12 +132,16 @@ Since the oscillation frequency depends solely on the physical characteristics o
 				<exercise>
 		<title>Finding the Period of the Oscillation</title>
 		<statement>
+			<p>
+				
+			</p>
 		<p>Determine the period <m> T </m> of the motion for the mass on a spring.</p>
 		</statement>
 		<answer>
-		Using the relationship <m> \omega = \frac{2 \pi}{T}</m> we see that the period of oscillation for a mass on a spring is
+		<p>Using the relationship <m> \omega = \frac{2 \pi}{T}</m>, the period of oscillation for a mass on a spring is
 		
 		<me> T = 2 \pi \sqrt{\frac{m}{k}}</me>
+		</p>
 		</answer>
 		</exercise>
 		

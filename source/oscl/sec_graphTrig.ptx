@@ -3,15 +3,15 @@
 <section xml:id="sec_graphTrig" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Graphical Trigonometry</title>
 	<p>
-Simple harmonic motion usually involves representing the position as a sinusoidal function of time. 
+The general form for the position of a system undergoing simple harmonic motion is a sinusoidal function of time. 
 </p>
 
 <p> 
-<men xml:id="pos_HM">\vec{x}(t) = \vec{x}_o + A \cos \left(\frac{2\pi t}{T} + \phi_o\right)\hat{x}</men>
+<men xml:id="pos_HM">\vec{x}(t) = \vec{x}_o + x_{\text{max}} \cos \left(\frac{2\pi t}{T} + \phi_o\right)\hat{x}</men>
 </p>
 
 <p>
-Here, the notation <m> \vec{x}(t)</m> reminds you that the position <m>\vec{x}</m> of the object is a <em>function</em> of time <m>t</m>. The position is a cosine function with <alert>amplitude</alert> <m>A</m>, <alert>period</alert> <m>T</m>, <alert>initial phase</alert> <m> \phi_o</m>, and <alert>equilibrium position</alert> <m>\vec{x}_o</m>. The argument of a trigonometric function is called the <em>phase</em> and <m> \phi_o</m> tells you the initial condition for the oscillation (the position at <m> t=0</m>).
+Here, the notation <m> \vec{x}(t)</m> indicates that the position <m>\vec{x}</m> is a <em>function</em> of time <m>t</m>. This position is a cosine function with <alert>amplitude</alert> <m>x_{\text{max}}</m>, <alert>period</alert> <m>T</m>, <alert>initial phase</alert> <m> \phi_o</m>, and <alert>equilibrium position</alert> <m>\vec{x}_o</m>. The argument of a trigonometric function is called the <em>phase</em> and <m> \phi_o</m> tells you the initial condition for the oscillation (the position at <m> t=0</m>).
 </p> 
 
 <figure xml:id="HM_position">
@@ -20,38 +20,74 @@ Here, the notation <m> \vec{x}(t)</m> reminds you that the position <m>\vec{x}</
     		<image source="oscillate/HM_position.png" width = "50%" ></image>
 </figure>
 
-		<exercises>
-		<title>Graphical Activities</title>
-	<exercise>
+
+		
+	<activity>
+		<title>Practice with Graphing</title>
 		<statement>
 		<p>Identify the equilibrium position <m>\vec{x}_o</m> and the initial phase <m> \phi_o</m> in the graph above.  Explain how you found them</p>
 		</statement>
 <solution>
 <p>
-The initial phase can be found by looking at where the cosine wave is at <m>t = 0</m>: here, it is at a maximum, which means <m>\phi_o = 0</m>.  The equilibrium position can be found by looking halfway between the maximum and minimum values, which here is at <m>\vec{x}_o = 0</m>.  When possible, it is extremely common to choose both of these quantities to be zero to simplify the position equation.
+The initial phase can be found by looking at where in its cycle the cosine function is at <m>t = 0</m>: here, it is at a maximum, which means <m>\phi_o = 0</m>.  The equilibrium position can be found by looking halfway between the maximum and minimum values, which here is at <m>\vec{x}_o = 0</m>.  When possible, it is extremely common to choose both of these quantities to be zero to simplify the position equation.
 </p>
 </solution>
-</exercise>
-</exercises>
+</activity>
 
-<p>
-The period represents the time it takes to complete one full oscillation.  The amplitude represents the maximal distance away from the equilibrium position. Notice that the object oscillates between <m> x = A </m> and <m> x = -A </m>.  Often, you will use a more evocative name for the amplitude, such as <m>x_{max}</m>, to make the units of the amplitude more obvious. 
-</p>
+<definition xml:id="def-amplitude">
+	<title>Amplitude</title>
+		<statement>
+			<p>
+				
+			</p>
+		<p>
+			The <term>amplitude</term> of an oscillatory function is the function's maximum deviation from equilibrium.  It can be represented generically with <m>A</m> (as in the figure) or with a more evocative name for a particular function, such as <m>x_{\text{max}}</m> for position, which can help make the units of the amplitude more obvious. 
+		</p>
+	</statement>
+</definition>
 
-<p>
-Another important characteristic of oscillatory motion is the <alert>frequency</alert> <m>f</m>. The frequency is the number of cycles completed during each second. Since period <m>T</m> represents the time it takes to complete one cycle, period and frequency have an inverse relationship. 
-</p>
+<definition xml:id="def-period-oscillation">
+	<title>Oscillation Period</title>
+		<statement>
+			<p>
+				
+			</p>
+		<p>
+			The <term>period</term> <m>T</m> represents the time it takes to complete one full oscillation.  
+		</p>
+	</statement>
+</definition>
 
-<p>
+<definition xml:id="def-frequency">
+	<title>Frequency</title>
+		<statement>
+			<p>
+				
+			</p>
+		<p>
+			The <term>frequency</term> is the number of cycles completed during each second. Since period <m>T</m> represents the time it takes to complete one cycle, period and frequency have an inverse relationship. 
+		</p>
+		<p>
 <men> f = \frac{1}{T}</men>
 </p>
+	</statement>
+</definition>
 
-<p>
+<note>
+	<title>Analogue to Circular Motion</title>
+	<p>
+		
+	</p>
+	<p>
 Recall that a particle in uniform circular motion has an angular speed <m>\omega</m> related to the period of motion by 
 <men>\omega= \frac{2 \pi}{T}</men> 
 
 This relation holds true in simple harmonic motion. When describing oscillatory motion, <m> \omega </m> is called the <alert> angular frequency</alert> rather than angular velocity. The physical units of <m>\omega</m> are given in rad/s. Note that since radians are a dimensionless unit, often the rad is dropped for the SI units when <m>\omega</m> is used together with other quantities. Most of the symbolic work you will do when representing oscillations will be done in terms of the angular frequency <m>\omega</m>, rather than the ordinary frequency <m>f</m>. 
 </p>
+	
+</note>
+
+
 
  
 		<exercises>
@@ -60,21 +96,33 @@ This relation holds true in simple harmonic motion. When describing oscillatory 
 		<exercise>
 		<title>Physical Units</title>
 		<statement>
-		<p>Looking at equation <xref ref="pos_HM" text='type-global'></xref> what are the physical dimension and SI units of amplitude and period? How can you tell?</p>
+			<p>
+				
+			</p>
+		<p>Determine the SI units of amplitude and period. How can you tell?</p>
 		</statement>
+		<hint>
+			<p>
+				Try checking the units of equation <xref ref="pos_HM" text='type-global'></xref>.
+			</p>
+		</hint>
 		<answer>
 		<p>The equation as a whole is a position and has dimension of length with SI units of meters. Trigonometric functions are dimensionless. Therefore, the amplitude must have dimension of length for the equation to be true. The SI units of amplitude are meters. The argument of a trigonometric function must also be dimensionless with SI units of radians. Therefore, the fraction <m>\frac{2\pi t}{T}</m> must be dimensionless. The only way for this to be true is if the dimension of period is time. The SI units of time are seconds. </p>
 		</answer>
 		</exercise>
 		
 		<exercise>
-		<title>Exploring the Period, Frequency and Angular Frequency</title>
+		<title>Exploring the Period, Frequency, and Angular Frequency</title>
 		<statement>
-		<p>It is often useful to represent oscillatory motion in terms of the period <m>T</m>, the frequency <m>f</m> or the angular frequency <m>\omega</m>. Write the relationship between angular frequency <m>\omega</m>, period and frequency. </p>
+			<p>
+				
+			</p>
+		<p>It is often useful to represent oscillatory motion in terms of the period <m>T</m>, the frequency <m>f</m> or the angular frequency <m>\omega</m>. Write the relationship between angular frequency, period, and frequency. </p>
 		</statement>
 		<answer> 
+			<!--
 		<p>We can write a relation between period <m>T</m>, frequency <m>f</m>, and angular frequency <m>\omega</m> as follows:</p>
-		
+		-->
 		<men> \omega = 2 \pi f = \frac{2 \pi}{T} </men>
 		</answer>
 		</exercise>
@@ -82,20 +130,23 @@ This relation holds true in simple harmonic motion. When describing oscillatory 
 		<exercise>
 		<title>Exploring the Position Function</title>
 		<statement>
+			<p>
+				
+			</p>
 		<p>It is often useful to be able to represent the position function in terms of the period <m>T</m>, the frequency <m>f</m> or the angular frequency <m>\omega</m>. Rewrite equation <xref ref="pos_HM" text='type-global'></xref> in terms of the frequency <m>f</m> and the angular frequency <m>\omega</m>.</p>
 		</statement>
-		</exercise>
 		<answer>
-		<p>We can write the position relationship as follows:</p>
+		<p>You can write the position relationship as follows:</p>
 		<p>
 		<md> 
-		<mrow>\vec{x}(t) \amp = A \cos \left(\frac{2\pi t}{T} + \phi_o\right)\hat{x}</mrow>
-		<mrow>               \amp  = A \cos(2 \pi f t+ \phi_o)\hat{x}</mrow>
-		<mrow>               \amp  =A \cos(\omega t+ \phi_o)\hat{x} </mrow>
+		<mrow>\vec{x}(t) \amp = x_{\text{max}} \cos \left(\frac{2\pi t}{T} + \phi_o\right)\hat{x}</mrow>
+		<mrow>               \amp  = x_{\text{max}} \cos(2 \pi f t+ \phi_o)\hat{x}</mrow>
+		<mrow>               \amp  = x_{\text{max}} \cos(\omega t+ \phi_o)\hat{x} </mrow>
 		</md>
 		</p>
-		<p>often <m>\vec{x}(t) = A\cos(\omega t + \phi_o)\hat{x}</m> is most useful for solving problems. This is the form of the position function we will use going forward when studying simple harmonic motion. </p>
+		<p>often <m>\vec{x}(t) = x_{\text{max}} \cos(\omega t + \phi_o)\hat{x}</m> is most useful for solving problems. This is the form of the position function we will use going forward when studying simple harmonic motion. </p>
 		</answer>
+		</exercise>
 		</exercises>		
 
 

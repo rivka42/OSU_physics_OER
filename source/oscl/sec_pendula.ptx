@@ -14,7 +14,9 @@
 		</exercises>
 			
 			<video youtube="lWqItTPQ_po"><description>Describing the simple pendulum with simple harmonic motion.</description></video>
-			
+		
+			<note>
+		<title>Derivation of the Equation of Motion</title>
 <p>
 Consider a mass <m>m</m> that hangs from a string that has one end fixed in space and is free to pivot (<em>i.e.,</em> no friction). Assume the string has negligible mass compared to the object's mass <m>m</m> such that we can apply the <alert>massless string approximation</alert> to our analysis. 
 </p>
@@ -46,6 +48,7 @@ The gravitational torque <m> \tau = -Lmg\sin\theta(t)</m> is the torque about th
 
 This is the equation of motion for the pendulum in terms of the angular position as a function of time. 
 </p>
+</note>
 
 <exercises>
 		<title>Activities</title>
@@ -53,17 +56,17 @@ This is the equation of motion for the pendulum in terms of the angular position
 		<exercise>
 		<title>Analyzing the Equation of Motion</title>
 		<statement>
-		<p>Does the equation above satisfy the condition proposed in <xref ref="HM_model" text='type-global'></xref>? Explain why or why not. </p>
+		<p>Does the equation above satisfy the condition for <xref ref="assumption-shm"></xref>? Explain why or why not. </p>
 		</statement>
 		<answer>
-		<p>The equation of motion for the simple pendulum does not satisfy the condition. The restoring force is not directly proportional to the angular displacement. Instead, it depends on <m> \sin\theta(t)</m>. </p>
+		<p>The equation of motion for the simple pendulum does not satisfy the condition. The restoring force is not directly proportional to the angular displacement. Instead, it depends on <m>\sin\theta(t)</m>. </p>
 		</answer>
 		</exercise>
 		
 		<exercise>
 		<title>Approximating the Restoring Force</title>
 		<statement>
-		<p>Sketch quick graphs of <m> \sin\theta</m> and <m>\theta(t)</m> on the same set of axes.  Can you use the graphs to come up with a reasonable approximation in which the restoring force for the simple pendulum is directly proportional to the angular displacement?</p>
+		<p>Sketch quick graphs of <m> \sin\theta</m> and <m>\theta</m> on the same set of axes.  Can you use the graphs to come up with a reasonable approximation in which the restoring force for the simple pendulum is directly proportional to the angular displacement?</p>
 		</statement>
 		<answer>
 		<p>The <alert>small-angle approximation</alert> can be used to approximate the values of the sine and cosine functions (or any combination) if the angle is restricted to a certain domain. This technique is discussed in detail in the next section.</p>

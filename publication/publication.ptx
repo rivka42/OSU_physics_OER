@@ -50,13 +50,16 @@
     <!-- Whether to knowl a particular elements is set here    -->
     <!-- Lots of elements have this possibility; see the guide -->
     <knowl remark="yes" example="yes" proof="yes"/>
+    <theme />
     <!-- Specify the style of the html by giving names to      -->
     <!-- override defaults.  Ex: to use "style_oscarlevin.css" -->
     <!-- put <css style="oscarlevin"/>                         -->
     <!-- @colors now implemented                               -->
     <!-- also @knowls, @toc, and @banner, although no          -->
     <!-- alternative styles exist yet for those.               -->
-    <css style="default" colors="orange_navy"/>         
+    <!--<css theme="default-modern" palette="blues" primary-color="#003B5C" secondary-color="#D73F09" primary-color-dark="#D3832B"/>-->
+    <!--<css theme="denver" palette="ice-fire"/>-->
+    <css style="default" colors="orange_navy"/>          
     <!-- Magic IDs identify HTML pages to analytics services   -->
     <!-- Presence implies relevant Javascript will be added    -->
     <!-- StatCounter requires both values to be set            -->

@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_kinematicsHM" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Kinematics Relations</title>
-			
-<p>
-You can use differential calculus to find kinematic relationships for an object undergoing oscillatory motion. The time derivative of position yields the velocity of the system. 
-
-<me> \frac{d}{dt} \vec{x}(t) = \vec{v}(t)</me>
-</p>
-<p>
-Taking the time derivative of the position function <m> \vec{x}(t) = \vec{x}_o + A \cos{(\omega t + \phi_o)}</m> yields the velocity function <m> \vec{v}(t)</m>
-</p>
+  <title>Equations of Motion</title>
+		<p>
+			In studying oscillations, you will frequently work with the <alert>equations of motion</alert>: equations for position <m>\vec{x}(t)</m>, velocity <m>\vec{v}(t)</m>, and acceleration <m>\vec{a}(t)</m> as functions of time.  The derivative relationship between these three quantities allows you to calculate all of them if you know one of them.
+		</p>	
 
 
-<p> 
-<men xml:id="vel_HM"> \vec{v}(t) = - \omega A \sin(\omega t + \phi_o)\hat{x} </men>
-</p>
-
-<p>
+    
+    <exercises>
+		<title>Activities</title>
+		<exercise>
+			<title>Exploring Velocity</title>
+			<task>
+				<statement>
+					<p>
+						Starting from the general one-dimensional position function for simple harmonic motion <me>x(t) = x_o + x_{\text{max}} \cos{(\omega t + \phi_o)}</me> take the derivative to find the velocity function <m>\vec{v}(t)</m>.
+					</p>
+				</statement>
+				<solution>
+					<p> <men xml:id="vel_HM"> v(t) = - \omega x_{\text{max}} \sin(\omega t + \phi_o) </men></p>
+				</solution>
+			</task>
+			<task>
+				<statement>
+					<p>
+						Graph both the position and the velocity functions.  Choose one or two instants in time and check that the two graphs agree with each other.
+					</p>
+				</statement>
+				<solution>
+					<p>
 As the object passes through the equilibrium position located at <m> \vec{x} = 0 </m>, the speed (magnitude of the velocity) is maximum. When the object is maximally displaced from equilibrium, it temporarily comes to rest before changing its direction. Recall that a maxima or minima in the position as a function of time graph corresponds to a <alert> turning point</alert> in the motion. Therefore, when the object is located at <m> x= \pm A</m> the instantaneous velocity of the object is zero. 
 </p>
 
@@ -27,46 +39,43 @@ As the object passes through the equilibrium position located at <m> \vec{x} = 0
     	<caption>The position and velocity as a function of time for an object in Simple Harmonic Motion. The graphs are aligned such that the time axes in both graphs correspond to the same point in time. </caption>
     		<image source="oscillate/HM_velocity.png" width = "100%" ></image>
     </figure>
-    
-    <exercises>
-		<title>Activities</title>
-		
-		<exercise>
-		<title>Physical Units</title>
+				</solution>
+			</task>
+			<task>
 		<statement>
-		<p>Looking at equation <xref ref="vel_HM" text='type-global'></xref> what are the SI units of the quantity <m> \omega A</m>? What is the physical significance of this quantity?</p>
+		<p>What are the SI units of the quantity <m> \omega x_{\text{max}}</m>? What is the physical significance of this quantity?</p>
 		</statement>
-		<answer>
-		<p>The equation as a whole is a velocity and has dimension of length/time with SI units of meters/second. Trigonometric functions are dimensionless. Therefore, the quantity <m> \omega A</m> must have dimension of length/time for the equation to be true. Note that the SI units of <m> \omega</m> are <m> rad/s</m>. While radians are an SI unit, they are dimensionless. The physical significance of this quantity is that it corresponds to the maximum speed <m> v_{max} = \omega A </m> of the object. This allows us to re-write equation <xref ref="HM_velocity"></xref> as follows</p>
-		
-		
+		<solution>
+		<p>The equation as a whole is a velocity and has dimension of length/time with SI units of meters/second. Trigonometric functions are dimensionless. Therefore, the quantity <m> \omega A</m> must have dimension of length/time for the equation to be true. Note that the SI units of <m> \omega</m> are <m> rad/s</m>. While radians are an SI unit, they are dimensionless. The physical significance of this quantity is that it corresponds to the maximum speed <m> v_{max} = \omega x_{\text{max}} </m> of the object. This allows you to re-write equation the velocity equation of motion as:</p>
 	<p>
 	<men> \vec{v}(t) = - v_{max} \sin(\omega t + \phi_0) \hat{x} </men>
 	</p>
-		</answer>
+</solution>
+</task>
 		</exercise>
 		
 		<exercise>
 		<title>Exploring Acceleration</title>
+		<task>
 		<statement>
 		<p>Derive the acceleration of an object in simple harmonic motion using the methods discussed in this section. </p>
 		</statement>
-		<answer>
-		<p>Looking at equation <xref ref="HM_velocity" text='type-global'></xref> we take the time derivative of velocity determine the acceleration of the system.</p>
+		<solution>
+		<p>Looking at equation <xref ref="HM_velocity" text='type-global'></xref>, take the time derivative of velocity to determine the acceleration of the system.</p>
 			
 	<p>
-	<men> \vec{a}(t) = - \omega^2 A \cos(\omega t + \phi_0) \hat{x} </men>
+	<men> \vec{a}(t) = - \omega^2 x_{\text{max}} \cos(\omega t + \phi_0) \hat{x} </men>
 	
-	Note that the quantity <m> \omega^2 A = a_{max}</m> represents the magnitude of the acceleration of the object when <m> \vec{x}= \pm A \hat{x}</m>. 
+	Note that the quantity <m> \omega^2 A = a_{max}</m> represents the magnitude of the acceleration of the object when <m> \vec{x}= \pm x_{\text{max}} \hat{x}</m>. 
 	</p>
-		</answer>
-		</exercise>
+</solution>
+</task>
 		
-		<exercise>
-		<title>Exploring Acceleration Graphically</title>
+		<task>
 		<statement>
-		<p>Referencing <xref ref="HM_velocity" text='type-global'></xref>, sketch the accompanying <m> a_x(t)</m> function.  </p>
+		<p>Sketch the accompanying <m> a_x(t)</m> function.  </p>
 		</statement>
+	</task>
 		</exercise>
 		
 		</exercises>		

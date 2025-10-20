@@ -24,6 +24,23 @@ Where <m>A</m> and <m> \phi_o</m> are determined from the initial conditions of 
 
 <p> This is a powerful <alert>model of simple harmonic motion</alert> that can predict subsequent motion of many oscillating systems. However, models have their limitations. This model fails if the restoring force is <em> nonlinear</em>, meaning that it is not directly proportional to the displacement. 
 </p>
+
+<assumption xml:id="assumption-shm">
+  <title>Simple Harmonic Motion</title>
+    <statement>
+    <p>
+    </p>
+    <p>
+      Any object or system described by an equation of motion satisfying the equation 
+      <me> \frac{d^2}{dt^2} s(t) = -\omega^2 s(t)</me>
+      can be represented using <term>simple harmonic motion</term> as 
+      <me>
+        s(t) = A \cos( \omega t + \phi_o)
+      </me>
+      
+    </p>
+  </statement>
+</assumption>
 		
 </section>
 
