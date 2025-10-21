@@ -15,6 +15,7 @@
 		<investigation xml:id="psa_oscl-01">
 		<title>Pendulum on a Tree</title>
 		<statement>
+			<p></p>
 		<p>You find a very tall tree one day and decide to measure the height of the tree using a pendulum. You tie a small rock to a rope that is also tied to a branch at the top of the tree, so that when the rope is vertical the rock is very close to the ground. You then release the rock from rest at an initial angle of 5°. You measure the amount of time it takes for the rock to return to your hand. Your friend performs the same experiment with a different tree, but uses a smaller initial angle of only 2.5°. Your friend measures the amount of time it takes for the rock to return to her hand to be half as big as the time you found. Is the height of your tree <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the height of your friend's tree?</p>
 		</statement>
 	</investigation>
@@ -24,9 +25,11 @@
 	<project xml:id="psa_oscl-02">
         <title>Coin on a Block</title>
 		<statement>
+			<p></p>
 		    <p>A block is attached to the top of a spring that is oscillating vertically. A small coin with negligible mass is riding on top of the block (it is not attached to either the block or the spring). You measure that the largest possible time for the block to complete one full oscillation, without causing the coin to fall off, is 2.5 s. What is the amplitude of this oscillation?</p>
 		</statement>
-		<hint>For your representation (part 1c), sketch graphs of the position, velocity, and acceleration of the block vs. time.</hint>
+		<hint>
+			<p>For your representation (part 1c), sketch graphs of the position, velocity, and acceleration of the block vs. time.</p></hint>
 	</project>
 
 <activity xml:id="x_meta-osc">

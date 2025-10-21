@@ -44,6 +44,7 @@ This can also help you understand the meaning of the <alert> initial phase </ale
 Thus different values of the phase constant represent different starting points on the circle and correspond to different <em> initial conditions </em> of the motion. 
 </p>
 
+<!-- This figure is from Kathy's website but is hosted on Imgur
  <figure xml:id="circular_HM1">
  <title>Circular Motion Figure</title>
  
@@ -59,7 +60,9 @@ Thus different values of the phase constant represent different starting points 
     	<caption>Circular motion is related to oscillatory motion.</caption>
     		<image source="oscillate/circularHM2.gif" width = "100%" loop="infinite" ></image>
     </figure>
-    
+    -->
+
+
      <figure xml:id="circular_HM3">
 	 <title>Circular Motion Figure</title>
 	 
@@ -75,11 +78,11 @@ Thus different values of the phase constant represent different starting points 
 <biblio>
 <p><xref ref="circular_HM"></xref> created by Rebecka Tumblin.</p>
 </biblio>
-
+<!--
 <biblio>
 <p>*need to find a gif image that can be referenced* Image from Kathy's website is hosted on imgur. Not sure how to reference? Maybe get Jadon to create a gif? We could also reach out to (http://www1.phys.vt.edu/~takeuchi/Tools/) to see if we can use the image gif. </p>
 </biblio>
-
+-->
 <biblio>
 <p> Simple harmonic motion animation by Chetvorno on Wikimedia Commons published under Creative Commons CC0 1.0 Universal Public Domain Dedication.</p>
 </biblio>

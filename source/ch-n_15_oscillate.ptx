@@ -40,16 +40,16 @@
     <xi:include href="./oscl/sec_EOM.ptx" /> 
     <xi:include href="./oscl/sec_graphTrig.ptx" /> 
     <xi:include href="./oscl/sec_kinematicsHM.ptx" /> 
-    <xi:include href="./oscl/sec_circularHM.ptx" /> 
     <xi:include href="./oscl/sec_energyHM.ptx" /> 
-    <xi:include href="./oscl/sec_pendula.ptx" />
-    <xi:include href="./oscl/sec_smallA.ptx" />
-    <xi:include href="./oscl/sec_Ppendula.ptx" />
-    <xi:include href="./oscl/sec_damped.ptx" /> 
+    <xi:include href="./oscl/sec_circularHM.ptx" /> 
 
 		
     
     <!--PRACTICE SECTIONS-->
+    <xi:include href="./oscl/sec_smallA.ptx" />
+    <xi:include href="./oscl/sec_pendula.ptx" />
+    <xi:include href="./oscl/sec_Ppendula.ptx" />
+    <xi:include href="./oscl/sec_damped.ptx" /> 
     <xi:include href="./oscl/sec_oscl-practice.ptx" /> 
 
 

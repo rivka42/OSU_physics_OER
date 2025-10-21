@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_smallA" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Small-Angle Approximation</title>
+  <title>Small-angle Approximation</title>
 	
-	<video youtube="X_WvF6Y5wYY"><description>Describing the small-angle approximation.</description></video>
+
 			
 <p>
 The <alert>small-angle approximation</alert> is used to approximate the values of the main trigonometric functions when the angles involved are restricted to a certain domain. 
@@ -14,12 +14,27 @@ Any function can be expanded into an infinite sum of polynomials. This is called
 
 <me> \cos(\theta) = \sum^\infty_{n=0} \frac{(-1)^n}{2n}\theta^{2n} = 1 - \frac{\theta^2}{2!}+\frac{\theta^4}{4!} -\frac{\theta^6}{6!}-....</me>
 
-Both expressions above are valid only when <m>\theta</m> is measured in radians.  The small-angle approximation considers only the first nontrivial term in the sum. 
+Both expressions above are valid only when <m>\theta</m> is measured in radians.  The small-angle approximation considers only the first nontrivial term in the sum.
+</p>
 
-<men> \sin(\theta) \approx \theta</men>
-<men> \cos(\theta) \approx 1 - \frac{\theta^2}{2!}</men>
+<assumption xml:id="assumption-smallA">
+	<title>Small-angle Approximation</title>
+	
+	
+	<statement>
+		<p>
+		</p>
+		<p>
+		 For sufficiently small angles, sine and cosine may be approximated as:
+<me> \sin(\theta) \approx \theta</me>
+<me> \cos(\theta) \approx 1 - \frac{\theta^2}{2!}</me>
+		</p>
+	</statement>
+</assumption>
 
-In <xref ref="small-angle" text='type-global'></xref> you can see a graphical representation of the small-angle approximation for the <m> \sin(\theta)</m> function. You can see the linear function <m> \theta</m> and the trigonometric function <m> \sin(\theta)</m> closely match each other when the angle is small. </p>
+
+<p>
+The figure below shows a graphical representation of the small-angle approximation for the <m> \sin(\theta)</m> function. You can see the linear function <m> \theta</m> and the trigonometric function <m> \sin(\theta)</m> closely match each other when the angle is small. </p>
 
 <figure xml:id="small-angle">
 <title>Small Angle Approximation for Sine Figure</title>
@@ -38,35 +53,18 @@ We should always take time to think about and determine the error associated wit
  <exercises>
 		<title>Activities</title>
 		
-		<exercise>
-		<title>Analyzing the Equation of Motion</title>
-		<statement>
-		<p>Looking at equation <xref ref="pendulumE2" text='type-global'></xref> apply the small-angle approximation to determine an equation of motion. Then determine the oscillation frequency of the simple pendulum. </p>
-		</statement>
-		<answer>
-		<p> Applying the small-angle approximation you find that <m> \sin\theta \approx \theta</m> and the equation of motion becomes,
 		
-		<men> \frac{d^2}{dt^2}\theta(t)=-\frac{g}{L} \theta(t)</men>
-from this and your model of simple harmonic motion, you can directly see that the oscillation frequency is
-		
-		<men> \omega_p = \sqrt{\frac{g}{L}}</men>.
-		
-		</p>
-		</answer>
-		</exercise>
-		<exercise>	
-		<title>Sensemaking</title>
-		<p>Make sense of the expression you found for the angular frequency of the simple pendulum using units, numbers, and symbols.</p>
-			</exercise>
 		<exercise>
 		<title>What is the error introduced?</title>
 		<statement>
+			<p>
+			</p>
 		<p> Determine the error introduced by the small-angle approximation for <m>\sin\theta</m> and <m> \cos\theta </m> when <m> \theta = 0.2, 0.4, 0.8 </m> radian. </p>
 		</statement>
 		</exercise>
 </exercises>
 
-	<video youtube="t1StSWeYTO4"><description>Using the small-angle approximation for the simple pendulum.</description></video>
+	
 
     
 

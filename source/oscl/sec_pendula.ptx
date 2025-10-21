@@ -2,21 +2,101 @@
 
 <section xml:id="sec_pendula" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Simple Pendulum</title>
+
+  <p>
+	The figure below shows a simple pendulum: a small mass <m>m</m> at the end of a massless string of length <m>L</m>.  The pendulum has an initial angular displacement from equilibrium <m>\theta_i</m> and is released from rest at <m>t = 0</m>.
+  </p>
 			
+			 <figure xml:id="fig_pendulum">
+<title>Pendulum Figure</title>
+    	<caption>A simple pendulum.</caption>
+    		<image source="pendulum.png" width = "15%" ></image>
+    </figure>
 			
-			
-			<exercises>
-		<title>Warm-up Activity</title>
-		<video youtube="F0zpSlY0u1E"><description>Introducing pendula.</description></video>
+		<exercises>
+			<title>Simple Pendulum Activities</title>
 		<exercise>
-		<p>Follow the steps from the end of the video above to find an equation of motion for the simple pendulum.</p>
+		<title>Finding Acceleration</title>
+		<task>
+		<statement>
+			<p>
+				Sketch and label a Free-body diagram for the instant shown in the figure.
+			</p>
+		</statement>
+		<solution>
+			<figure xml:id="pendulumFBD">
+<title>Pendulum Free-body Diagram</title>
+    	<caption>A free-body diagram for a simple pendulum.</caption>
+    		<image source="pendulumFBD.png" width = "15%" ></image>
+    </figure>
+		</solution>
+		</task>
+		<task>
+		<statement>
+			<p>
+				Determine the moment of inertia for the system of the pendulum about an axis of rotation through the top of the string (marked by <m>\times</m> in the figure).
+			</p>
+		</statement>
+		<solution>
+			<p>
+				You can treat the pendulum as a point mass <m>m</m> a distance <m>L</m> from the axis of rotation, so <m>I = mL^2</m>
+			</p>
+		</solution>
+		</task>
+		<task>
+		<statement>
+			<p>
+				Determine the net torque on the pendulum about the top of the string (marked by <m>\times</m> in the figure).
+			</p>
+		</statement>
+		<solution>
+			<p>
+				The tension force acts parallel to the string, so it acts a torque of zero on the pendulum.  Gravity, however, acts at an angle to the string, so the torque is: 
+				<me>
+					\tau = -mgL\sin\theta
+				</me>
+				where the negative sign indicates that the torque is clockwise.
+				
+			</p>
+		</solution>
+		</task>
+		<task>
+		<statement>
+			<p>
+				Use the Angular Law of Motion to solve for the angular acceleration
+			</p>
+		</statement>
+		<solution>
+			<p>
+				<me>
+					\tau_{net} = I\alpha
+				</me>
+				<me>
+					-mgL\sin\theta = mL^2\alpha
+				</me>
+				<me>
+					\alpha = -\frac{g}{L}\sin\theta
+				</me>
+				<me>
+					\frac{d^2}{dt^2}\theta = -\frac{g}{L}\sin\theta
+				</me>
+				
+			</p>
+		</solution>
+		</task>
 		</exercise>
-		</exercises>
-			
-			<video youtube="lWqItTPQ_po"><description>Describing the simple pendulum with simple harmonic motion.</description></video>
+		
+
+		<!--
+		Old structure
+		<video youtube="F0zpSlY0u1E"><description>Introducing pendula.</description></video>
+		<p>Follow the steps from the end of the video above to find an equation of motion for the simple pendulum.</p>
+		<video youtube="lWqItTPQ_po"><description>Describing the simple pendulum with simple harmonic motion.</description></video>
+
+		-->
 		
 			<note>
-		<title>Derivation of the Equation of Motion</title>
+		<title>Full Derivation of the Equation of Motion</title>
 <p>
 Consider a mass <m>m</m> that hangs from a string that has one end fixed in space and is free to pivot (<em>i.e.,</em> no friction). Assume the string has negligible mass compared to the object's mass <m>m</m> such that we can apply the <alert>massless string approximation</alert> to our analysis. 
 </p>
@@ -50,29 +130,82 @@ This is the equation of motion for the pendulum in terms of the angular position
 </p>
 </note>
 
-<exercises>
-		<title>Activities</title>
+
 		
 		<exercise>
 		<title>Analyzing the Equation of Motion</title>
 		<statement>
-		<p>Does the equation above satisfy the condition for <xref ref="assumption-shm"></xref>? Explain why or why not. </p>
+			<p>
+			</p>
+		<p>Does your equation for <m>\alpha</m> satisfy the condition for <xref ref="assumption-shm"></xref>? Explain why or why not. </p>
 		</statement>
-		<answer>
-		<p>The equation of motion for the simple pendulum does not satisfy the condition. The restoring force is not directly proportional to the angular displacement. Instead, it depends on <m>\sin\theta(t)</m>. </p>
-		</answer>
+		<solution>
+		<p>The equation of motion for the simple pendulum does not satisfy the condition. The restoring force is not directly proportional to the angular displacement. Instead, it depends on <m>\sin\theta</m>. </p>
+		</solution>
 		</exercise>
 		
 		<exercise>
 		<title>Approximating the Restoring Force</title>
 		<statement>
-		<p>Sketch quick graphs of <m> \sin\theta</m> and <m>\theta</m> on the same set of axes.  Can you use the graphs to come up with a reasonable approximation in which the restoring force for the simple pendulum is directly proportional to the angular displacement?</p>
+			<p>
+			</p>
+		<p>Use computer software to sketch graphs of <m> \sin\theta</m> and <m>\theta</m> on the same set of axes.  Can you use the graphs to come up with a reasonable approximation in which the restoring force for the simple pendulum is directly proportional to the angular displacement?</p>
 		</statement>
-		<answer>
-		<p>The <alert>small-angle approximation</alert> can be used to approximate the values of the sine and cosine functions (or any combination) if the angle is restricted to a certain domain. This technique is discussed in detail in the next section.</p>
-		</answer>
+		<solution>
+		<p>The <xref ref="assumption-smallA"/> can be used to simplify the sine and cosine functions for small angles (see the <xref ref="sec_smallA"/> section for more details).</p>
+		</solution>
 		</exercise>
+
+		<exercise>
+		<title>Analyzing the Equation of Motion</title>
+		<statement>
+			<p>
+			</p>
+		<p>Apply the <xref ref="assumption-smallA"/> to simplify your expression for <m>\alpha</m> and use it to determine the oscillation frequency for the simple pendulum. </p>
+		</statement>
+		<solution>
+		<p> Applying the small-angle approximation <m> \sin\theta \approx \theta</m> leads to
+		
+		<me> \frac{d^2}{dt^2}\theta(t)=-\frac{g}{L} \theta(t)</me>
+from this and your model of <xref ref="assumption-shm"/>, the oscillation frequency is
+		
+		<me> \omega_p = \sqrt{\frac{g}{L}}</me>.
+		
+		</p>
+
+		<definition xml:id="def-omega-pendulum">
+		<title>Simple Pendulum Model</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>
+				The <term>angular frequency</term> for a point mass <m>m</m> attached to a massless string of length <m>L</m> is 
+				<me>
+					\omega_p = \sqrt{\frac{g}{L}}
+				</me>
+				
+				The equation of motion for the pendulum is given by <me> \theta(t) = \theta_{\text{max}} \cos(\omega_p t + \phi_o)</me>
+			</p>
+		</statement>
+		</definition>
+		</solution>
+		</exercise>
+		<exercise>	
+		<title>Sensemaking</title>
+		<p>
+		</p>
+		<p>Make sense of the angular frequency of the simple pendulum using units, numbers, and symbols.</p>
+			</exercise>
+
+
 </exercises>
+
+<!-- 
+Other deprecated videos
+	<video youtube="X_WvF6Y5wYY"><description>Describing the small-angle approximation.</description></video>
+	<video youtube="t1StSWeYTO4"><description>Using the small-angle approximation for the simple pendulum.</description></video>
+-->
 
 <references>
 <biblio>

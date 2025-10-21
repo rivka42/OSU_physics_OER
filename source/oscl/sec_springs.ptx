@@ -29,6 +29,7 @@
 	<video youtube="zQI_gprkg1M"><description>Introducing simple harmonic motion using the block on a spring.</description></video>
 
 	<definition xml:id="def-omega-spring">
+		<title>Block on a Spring Model</title>
 		<statement>
 			<p>
 				
