@@ -32,7 +32,7 @@
         <title>Ant on a String</title>
 		<statement>
 			<p></p>
-		<p>A string (length <m>L</m>) with constant tension <m>T</m> is tied horizontally between two walls (this is effectively how strings in musical instruments work!).  An ant (mass <m>m</m>) clings to the very center of the string, which is moving back and forth horizontally with amplitude <m>A</m> much smaller than <m>L</m>.</p>
+		<p>A string (length <m>L</m>) with constant tension <m>T</m> is tied horizontally between two walls (this is effectively how strings in many musical instruments work!).  An ant (mass <m>m</m>) clings to the very center of the string, which is moving back and forth horizontally with amplitude <m>A</m> much smaller than <m>L</m>.</p>
 
 		<p>Model the situation as a simple harmonic oscillator, find the angular frequency, and create one or more graphs showing the motion of the system as a function of time.</p>
 		</statement>
