@@ -14,14 +14,14 @@
 	-->
 
 	<investigation>
-		<title>Circuit I</title>
+		<title>Circuit 1</title>
 		<statement>
 			<figure xml:id="fig-circuit_7">
 			<caption>Circuit diagram.</caption>
 			<image source="circ/circuit-7.png" width = "40%" ></image>
 		</figure>
 			<p>
-				Bulb A in the top circuit above is replaced by a battery, as shown in the bottom circuit above. Does the brightness of light bulbs B and C increase, decrease, or remain the same? Please include separate reasoning (part 2) and conclusions (part 3) for each bulb.
+				Bulb A in the top circuit above is replaced by a battery, as shown in the bottom circuit above. Does the brightness of light bulbs B and C increase, decrease, or remain the same? Please include separate claims and reasoning for each bulb.
 			</p>
 		</statement>	
 	</investigation>
