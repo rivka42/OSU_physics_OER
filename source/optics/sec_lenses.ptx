@@ -8,6 +8,7 @@
 
     <assumption xml:id="assump_thin-lens">
         <title>Thin-Lens Approximation</title>
+        <p></p>
         <p>
             In most cases, we will assume that the thickness of the lens is much smaller than the radii of curvature of the sides of the lens. This simplifies our ray diagrams and calculations because it allows us to treat the light ray as bending within the optical plane of the lens.
         </p>
@@ -15,6 +16,7 @@
 
     <definition xml:id="def_thin-lens">
         <title>Thin-Lens Equation</title>
+        <p></p>
         <p>
             The <term>Thin-Lens Equation</term> is defined as <m>\frac{1}{d_o} + \frac{1}{d_i} = \frac{1}{f}</m>, where <m>d_o</m> is the object distance to the lens, <m>d_i</m> is the image distance to the lens, and <m>f</m> is the focal length. The image distance is positive for real images and negative for virtual images. This equation is only valid when using the Thin-Lens Approximation.
         </p>
@@ -22,15 +24,16 @@
     <definition>
         <title>Magnification</title>
         <p>
+            <p></p>
             <term>Magnification</term> is defined to be the height ratio between the height of an image to the height of an object: <me>m = \frac{h_i}{h_o} = -\frac{d_i}{d_o} </me>.
         </p>
     </definition>
 
     <p>The Thin-Lens Approximation will be extremely useful to us as we move forward with learning about different types of lenses.</p>
-    <exercise>
+    <observation>
         <title>Derive the Thin-Lens Approximation Equation</title>
-        <p>We saw in the previous video the equation for a thin-lens (<xref ref="def_thin-lens"></xref>). Derive this equation. It will be helpful to start with a ray diagram of an object in front of a lens producing an image. There are a couple different ways to derive this, so be creative!</p>
-    </exercise>
+        <p>You saw in the previous video the equation for a thin-lens (<xref ref="def_thin-lens"></xref>). Derive this equation. It will be helpful to start with a ray diagram of an object in front of a lens producing an image. There are a couple different ways to derive this, so be creative!</p>
+    </observation>
 
 
     <video youtube="PABQvartcmY"><description>How to draw rays through a converging lens.</description></video>
@@ -79,7 +82,8 @@
         <title>Lenses Activities</title>
             <exercise xml:id="x_lenses">
                 <title>Lenses</title>
-                <p>Play with this <url href="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html" visual="lens simulation"/> for a few minutes. Click on the "Lens" option. Answer the following questions.</p>
+                <p></p>
+                <p>Play with this <url href="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html" visual="lens simulation"/> for a few minutes. Click on the <q>Lens</q> option. Answer the following questions.</p>
                 <ol>
                     <li>How can you create a magnifying glass? Use the simulation to create a magnifying glass and explain your set up and results.</li>
                     <li>Play with the different lens options. How are they similar and how are they different?</li>
@@ -87,7 +91,8 @@
             </exercise>
             <exercise>
                 <title>Summarize</title>
-                <p>Summarize what you've learned about lenses. Use the following figure in your explanation. Explain each part of the diagram, whether it is a converging or diverging lens, and what type of image is produced and why. Can you come up with a set of rules to follow that will help you draw ray diagrams for lenses?</p>
+                <p></p>
+                <p>Summarize what you have learned about lenses. Use the following figure in your explanation. Explain each part of the diagram, whether it is a converging or diverging lens, and what type of image is produced and why. Can you come up with a set of rules to follow that will help you draw ray diagrams for lenses?</p>
                 <figure>
 			<title>Ray Diagrams Summary</title>
                     <caption>A summary of ray diagrams involving lenses. The red arrow is the object, and the green arrow is the image.</caption>

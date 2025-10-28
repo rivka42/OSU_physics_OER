@@ -47,14 +47,16 @@
 	<xi:include href="./optics/sec_curved-mirrors.ptx" />
 
     <!--PRACTICE SECTIONS-->
-	<xi:include href="./optics/sec_optics-summary.ptx" />
+
 	<xi:include href="./optics/sec_opt-practice.ptx" />
 
     <!--CHALLENGE SECTIONS-->
 	<xi:include href="./optics/sec_opt-challenge.ptx" />
 
-
-
+	<!--
+	<xi:include href="./optics/sec_optics-summary.ptx" />
+	-->
+	
 </chapter>
 
 

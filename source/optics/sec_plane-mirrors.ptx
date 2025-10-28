@@ -16,6 +16,7 @@
     <principle>
         <title>Image Distance</title>
         <statement>
+            <p></p>
           <p>If you measure from the surface of the mirror, the distance of an object to the mirror is equal to the negative of the distance of the image to the mirror: <m>d_o = -d_i</m></p>
         </statement>
     </principle>
@@ -25,6 +26,7 @@
     <definition>
         <title>Virtual Images</title>
         <statement>
+            <p></p>
             <p>A <term>Virtual Image</term> is created when light rays do not travel through the image location. These images will have a negative image distance.</p>
         </statement>
     </definition>
@@ -38,8 +40,9 @@
             </exercise>
             <exercise xml:id="x_mirror-illusion">
                 <title>Mirror Illusion</title>
+                <p></p>
                 
-                <p>Watch this video about a supposed "mirror illusion".</p>
+                <p>Watch this video about a supposed <q>mirror illusion</q>.</p>
 
                 <video youtube="gNgSlGn59xA"><description>Mirror Illusion</description></video>
                 <p>Answer the following questions:</p>

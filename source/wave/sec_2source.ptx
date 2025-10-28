@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_2source" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Summary and Extension: 2D Interference</title>
+  <title>Interference in 2D</title>
 		
 					<exercises>
 	<title>Activities</title>
@@ -13,9 +13,13 @@
   </figure>
 	<exercise>
 	<statement>
+		<p></p>
 	<p>How does the shape of the circular wave change as time moves forward?  What happens to each crest?  Are there any especially interesting moments in time?  Explain your reasoning.</p>
 	</statement>
 	<answer>
+		<p>
+			Each wave moves outward, so each circle gets larger as time moves forward.  If you watch one point on the water that is initially at a crest, it will decrease to a trough and then increase back to a crest again.
+		</p>
 	</answer>
 	</exercise>
 	
@@ -30,6 +34,7 @@
 				<exercise>
 			<title>Explore Path-length Difference</title>
 			<statement>
+				<p></p>
 			  <p>Suppose that two sources of circular waves are separated by a distance <m>d</m>.  You are allowed to stand anywhere you want.  Wherever you are standing, you measure the distance from you to each of the two wave sources.  Then, you subtract these two distances to find the path length difference (<m>\Delta D</m>).  What are the (1) largest and (2) smallest values of the path length difference for this situation? Where are you standing in each case?</p>
 				</statement>
 				<answer>

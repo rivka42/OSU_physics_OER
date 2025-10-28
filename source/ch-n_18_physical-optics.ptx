@@ -40,6 +40,7 @@
 	<xi:include href="./optics/sec_wave-model.ptx" />
 
 	<!--PREPARE SECTIONS-->
+    <xi:include href="./optics/sec_thin-film-interference.ptx" />
 	<xi:include href="./optics/sec_two-slit-interference.ptx" />
 	<xi:include href="./optics/sec_multiple-slit-interference.ptx" />
 	<xi:include href="./optics/sec_diffraction-gratings.ptx" />

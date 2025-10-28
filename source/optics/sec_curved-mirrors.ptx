@@ -7,6 +7,7 @@
     <assumption xml:id="a_mirror">
         <title>Parabolic Mirrors</title>
         <statement>
+            <p></p>
             <p>When we are talking about curved mirrors, we are assuming that we are looking at the section where it is <term>parabolic</term>. This means that all incoming rays parallel to the principal axis will be reflected to or appear to originate from the focal point.</p>
         </statement>
     </assumption>
@@ -21,12 +22,14 @@
 
     <definition>
         <title>The Mirror Equation</title>
+        <p></p>
         <p>
             The <term>Mirror Equation</term> is defined as <m>\frac{1}{d_o} + \frac{1}{d_i} = \frac{1}{f}</m>, where <m>d_o</m> is the object distance, <m>d_i</m> is the image distance, and <m>f</m> is the focal length of the mirror.
         </p>
     </definition>
     <definition>
         <title>Focal Length</title>
+        <p></p>
         <p>
             The <term>Focal Length</term> of a mirror is defined as <m>f = \frac{R}{2}</m>, where <m>R</m> is the radius of curvature of the mirror.
         </p>
@@ -36,6 +39,7 @@
         <title>Curved Mirror Activities</title>
             <exercise>
                 <title>Convex Mirrors</title>
+                <p></p>
                 <p>Find where the image is located for this convex mirror.
                     <figure xml:id="empty_convex_mirror">
 			<title>Convex Mirror Figure</title>
@@ -61,17 +65,19 @@
             </exercise>
             <exercise xml:id="x_spherical-mirror">
                 <title>Curved Mirrors</title>
-                <p>Spend some time playing with this <url href="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html" visual="mirror simulation"/>. Make sure to click the "Mirror" option. Select the concave mirror first.</p>
+                <p></p>
+                <p>Spend some time playing with this <url href="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html" visual="mirror simulation"/>. Make sure to click the <q>Mirror</q> option. Select the concave mirror first.</p>
                 <p>As you are playing with this simulation, walk yourself through the following questions:</p>
                 <ol>
-                    <li>From the drop down menu, select the "arrow" object. Move the object around. How does the image change as you move the object from the left side of the screen, towards the focal point, and past the focal point?</li>
+                    <li>From the drop down menu, select the <q>arrow</q> object. Move the object around. How does the image change as you move the object from the left side of the screen, towards the focal point, and past the focal point?</li>
                     <li>What happens to the image around the focal point? Pick three locations before, near or on, and after the focal point and describe what happens to the image.</li>
-                    <li>Switch to the "convex" mirror. What happens to this image as you move the object from the left side of the screen towards the mirror?</li>
+                    <li>Switch to the <q>convex</q> mirror. What happens to this image as you move the object from the left side of the screen towards the mirror?</li>
                     <li>Is there any way you can make a real image with only a convex mirror?</li>
                 </ol>
             </exercise>
             <exercise xml:id="x_mirror_eqn">
                 <title>Mirror Equations</title>
+                <p></p>
                 <p>Answer the following questions using what you know about curved mirrors.</p>
                 <ol>
                     <li>A 20 cm tall object is placed at a distance of 200 cm in front of a concave mirror with a radius of curvature of 150 cm. Where is the image located? How does the height of the image change, if at all?</li>

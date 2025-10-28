@@ -12,6 +12,7 @@
     <principle>
         <title>The Law of Reflection</title>
         <statement>
+            <p></p>
           <p>For a ray of light incident on a locally flat mirror, the reflected angle <m>\theta_{r}</m> is equal to the incident angle <m>\theta_{i}</m>, both measured from the line normal to the surface: <me>\theta_{r} = \theta_{i}</me>
             <figure xml:id="reflection">
 			<title>Reflection Figure</title>
@@ -26,6 +27,7 @@
         <title>Reflection Activities</title>
             <exercise xml:id="x_corner-reflector">
                 <title>Practice: Corner Reflector</title>
+                <p></p>
                 <p>A corner reflector is made up of two mirrors meeting each other at a 90 degree angle. Let a light ray hit one of the mirrors so that the ray is reflected to the other mirror. Draw a ray diagram of this situation. What do you notice about the final reflected ray? What is special about this kind of object?</p>
             </exercise>
     </exercises>

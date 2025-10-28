@@ -11,6 +11,7 @@
 	<assumption xml:id="a_ray-model">
 	    <title>The Ray Model for Light</title>
 	    <statement>
+            <p></p>
 		    <p>In the <term>Ray Model</term>, light is treated as a collection of rays emerging from a point source of light<fn>a point source is any small source of light, such as a light bulb or a candle; larger sources of light, such as the sun, may be thought of as a collection of point sources</fn>.  Each ray may be represented as a line marked with an arrow indicating the direction the ray is traveling.  You will learn in future sections when the ray model is no longer a good assumption for the behavior of light.</p>
 	    </statement>
     </assumption>
@@ -21,11 +22,13 @@
         <title>Ray Diagram Activities</title>
             <exercise xml:id="x_intro-ray-diagram">
                 <title>Exploration: What can you see in the mirror?</title>
+                <p></p>
                 <p>Stand in front of a flat mirror (like in a bathroom) and look at your reflection. You should be able to see in the mirror parts of your body that are below the base of the mirror. Use the ray model of light to explain how this is possible.</p>
             </exercise>
 
             <exercise xml:id="x_intro-pinhole-camera">
                 <title>Practice: Pinhole Camera</title>
+                <p></p>
                 <p><figure xml:id="pinhole_camera">
 			<title>Pinhole Camera Figure</title>
                     <caption>A ray diagram of a pinhole camera. Light travels from the arrow to the back of the camera to create an image. </caption>

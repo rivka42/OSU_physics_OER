@@ -34,12 +34,11 @@
     <xi:include href="./wave/sec_phase_diff.ptx" />
     <xi:include href="./wave/sec_standing.ptx" />
 
-    <xi:include href="./wave/sec_2source.ptx" />
 
 
     <!--PRACTICE SECTIONS-->
     
-    <xi:include href="./optics/sec_thin-film-interference.ptx" />
+    <xi:include href="./wave/sec_2source.ptx" />
    <xi:include href="./wave/sec_sup-practice.ptx" />
     
     <!--CHALLENGE SECTIONS-->

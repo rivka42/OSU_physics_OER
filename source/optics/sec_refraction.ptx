@@ -23,14 +23,15 @@
 		    <definition>
         <title>Index of Refraction</title>
         <statement>
-            <p>The <term>Index of Refraction</term> is defined as <m>n = c/v</m>, the speed of light in vacuum divided by the speed of light in a medium. This number tells us something about how much a light ray will bend when crossing the boundary from one medium to another.</p>
-            <p>The <term>Index of Refraction</term> is defined as <m>n = c/v</m>, the speed of light in vacuum divided by the speed of light in a medium. This number tells us something about how much a light ray will bend when crossing the boundary from one medium to another.</p>
+            <p></p>
+            <p>The <term>Index of Refraction</term> is defined as <m>n = c/v</m>, the speed of light in vacuum divided by the speed of light in a medium. This number tells you something about how much a light ray will bend when crossing the boundary from one medium to another.</p>
         </statement>
     </definition>
 
     <principle>
         <title>The Law of Refraction (Snell's Law)</title>
         <statement>
+            <p></p>
           <p>Light refracts (bends) when it enters into a different medium at some angle, <m>\theta_1</m>: <me>n_1 \mathrm{sin}(\theta_1) = n_2 \mathrm{sin}(\theta_2)</me>.
             <figure xml:id="refraction">
             <title>Refraction Figure</title>
@@ -45,11 +46,13 @@
     <exercises>
         <title>Refraction Activities</title>
 				            <exercise xml:id="x_refraction-practice">
-                <title>Reflection</title>
+                <title>Air, Oil, and Water</title>
+                <p></p>
 								<p>Draw a ray diagram for light that travels from air (<m>n = 1.00</m>) into oil (<m>n = 1.45</m>) and then into water (<m>n = 1.33</m>).  Which way does the light bend at each change of medium?</p>
 								</exercise>
             <exercise xml:id="x_total-internal-reflection">
                 <title>Total Internal Reflection</title>
+                <p></p>
                 <p>When a ray of light passes from one medium into another, the ray will be refracted in the second medium according to the Law of Refraction. But for some critical angle and above, the ray of light will be completely reflected back into the initial medium. In this activity, we will work through this phenomenon to arrive at a useful conclusion. Work through the following questions.</p>
                 <p>When a ray of light passes from one medium into another, the ray will be refracted in the second medium according to the Law of Refraction. But for some critical angle and above, the ray of light will be completely reflected back into the initial medium. In this activity, we will work through this phenomenon to arrive at a useful conclusion. Work through the following questions.</p>
                 <ol>
@@ -75,6 +78,7 @@
 
             <exercise xml:id="x_dispersion">
                 <title>Dispersion</title>
+                <p></p>
                 <p>Until now, you have been considering an unspecified light ray. Light, however, has a wavelength (or multiple different wavelengths in the case of white light). The difference in how light rays of different wavelengths behave is known as <term>dispersion</term>. The fundamental cause of dispersion is that the index of refraction in a substance actually depends on the wavelength of light.</p>
                 <p>In this activity, you will use this fact to understand how a prism works.</p>
 

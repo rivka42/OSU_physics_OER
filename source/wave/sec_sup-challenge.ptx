@@ -10,6 +10,34 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 
+	<investigation xml:id="psa_wave-0a">
+		<title>Reflecting Waves</title>
+		<statement>
+			<p></p>
+		<p>The diagram below shows a wave pulse at <m>t = 0</m> moving to the right on a string with wave speed <m>2 \mathrm{~mm/s}</m>.  Each grid box represents <m>1 \mathrm{~mm}</m>.  Consider two different scenarios: 
+		
+		<ul>
+		<li>
+		In <alert>Scenario 1</alert> the black dot represents a fixed end for the string
+		</li>
+		<li>
+		In <alert>Scenario 2</alert> the black dot represents an end that is free to move up and down
+		</li>
+		</ul>
+		</p>
+		
+<p>For each scenario: Sketch the shape of the spring at <m>t_1 = 2 \mathrm{~s}</m>, <m>t_2 = 2.5 \mathrm{~s}</m>, and <m>t_3 = 3 \mathrm{~s}</m>.  Explain how you made your sketches and comment on the similarities and differences between the scenarios.
+</p>
+
+<figure xml:id="wavepulse4">
+    	<caption><p>A wave pulse moving to the right.</p>
+	</caption>
+    	<image source="WavePulse4.png" width = "75%" ></image>
+</figure>
+
+		</statement>
+	</investigation>
+
 	<project>
 		<title>Silent Speakers</title>
 		<statement>
@@ -23,6 +51,9 @@
 
 	<activity xml:id="x_meta-sup">
 		<title>Metacognitive Reflection: Superposition of Waves</title>
+		<p>
+			
+		</p>
 
 <p>You have now encountered the idea of superposition (the idea of adding together like quantities) in multiple contexts, including Waves and Vectors.  Consider your experiences with superposition in these two contexts and write a short reflection about what is similar and different about superposition for waves and for vectors.</p>
 

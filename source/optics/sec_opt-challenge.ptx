@@ -10,12 +10,11 @@
 	If you want a Calculate activity, use the <problem> tag.  (This tag is Example-like, not Project-like, so you cannot embed lettered steps into it using <task>.
 	-->
 
-	<subsection>
-<title>Apply</title>
 
 	<investigation xml:id="psa_opt-0">
-		<title>Ray Diagram</title>
+		<title>The Candle and the Mirrors</title>
 		<statement>
+			<p></p>
 		<p>A candle is located near two mirrors as shown in the figure below. Draw a ray diagram showing the location of the image that your eye sees when looking into the left mirror.</p>
 		<figure xml:id="fig_opt-ray-diagram">
 			<title>Candle and Mirrors Figure</title>
@@ -30,6 +29,7 @@
 	<project xml:id="psa_opt-1">
         <title>Human Eye</title>
 		<statement>
+			<p></p>
 		    <p>The average human eye is about 2.4 cm in diameter, that is, the lens is 2.4 cm from the retina. Assume you have an average eye, and that an object that is 5.0 cm high is located 25 cm from your eye. What focal length must your lens be to create an image on your retina?</p>
 		</statement>
 		<hint>
@@ -39,31 +39,18 @@
 		</hint>
 	</project>
 
+<activity xml:id="x_meta-ray-optics">
+		<title>Metacognitive Reflection: Ray Optics</title>
 
-</subsection>
+<p></p>
+<p>
+	You likely interact with ray optics frequently in your everyday life.  Choose one experience or observation from your everyday life that your model for ray optics can help describe and give a brief description of it using the rules you built.
+</p>
+</activity>
 
-<project xml:id="pa_opt-0">
-		<title>Fun House Mirror</title>
-		<statement>
-			<p>You go to the hall of mirrors in a funhouse and stand 2.25 m in front of a spherical mirror. The mirror forms an image of you at a point 1.25 m behind the mirror. What is the focal length of the mirror?</p>
-		</statement>
-	</project>
 
-	<investigation xml:id="pa_opt-1">
-		<title>Ray Diagram</title>
-		<statement>
-			<p>
-				Two objects and a mirror are arranged as shown below. Draw a ray diagram to determine the location of the image of each of the two objects.
-			</p>
-			<figure xml:id="fig_opt-mirror">
-			<title>Objects and Mirror Figure</title>
-				<caption>Two objects and a mirror.</caption>
-				<image source="ray-diagram-1.png" width = "100%">
-					<description></description>
-				</image>
-			</figure>
-		</statement>
-	</investigation>
+
+	
 	
 
 </section>
