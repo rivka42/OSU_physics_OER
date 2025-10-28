@@ -27,7 +27,7 @@
 <subsection>
 <title>Numerical practice</title>
     
-	<problem xml:id="psa_opt-alpha4">
+	<exploration xml:id="psa_opt-alpha4">
         <title>Angle of Refraction</title>
 		<statement>
 			<p>
@@ -42,11 +42,12 @@
 		<answer>
 		    <p><m>55.3^{\circ}</m></p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_opt-alpha5">
+	<exploration xml:id="psa_opt-alpha5">
         <title>Unknown Index of Refraction</title>
 		<statement>
+			<p></p>
 			<p>
 				Light traveling from air strikes a horizontal slab of unknown material. The light makes an angle of 40° with respect to the perpendicular of the horizontal surface. The angle of refraction is measured to be about 29.4°. What is the index of refraction of this unknown material?
 			</p>
@@ -59,11 +60,12 @@
 		<answer>
 		    <p>1.31</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_opt-alpha6">
+	<exploration xml:id="psa_opt-alpha6">
         <title>Total Internal Reflection</title>
 		<statement>
+			<p></p>
 			<p>
 				At what minimum incidence angle (in degrees) will you get total internal reflection of light that is traveling from water into a layer of ice?  Note that <m>n_{water} = 1.33</m>, and <m>n_{ice} = 1.31</m>.
 			</p>
@@ -76,11 +78,12 @@
 		<answer>
 		    <p><m>80^{\circ}</m></p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_opt-alpha7">
+	<exploration xml:id="psa_opt-alpha7">
         <title>Diverging Lens</title>
 		<statement>
+			<p></p>
 			<p>
 				Consider a thin diverging lens with a focal length of 4 cm. A 2-cm-tall object is placed 8 cm in front of the lens. Use ray tracing to answer the following items:
 			</p>
@@ -109,11 +112,12 @@
 		<answer>
 		    <p>Virtual</p>
 		</answer>
-	</problem>
+	</exploration>
 
-	<problem xml:id="psa_opt-alpha8">
+	<exploration xml:id="psa_opt-alpha8">
         <title>Magnifying Glass</title>
 		<statement>
+			<p></p>
 			<p>
 				What is the focal length, in cm, of a magnifying glass (a thin converging lens) that produces a magnification of 3.00 when it is held 5.00 cm away from an object?
 			</p>
@@ -126,7 +130,7 @@
 		<answer>
 		    <p>7.5 cm</p>
 		</answer>
-	</problem>
+	</exploration>
 
 </subsection>
 

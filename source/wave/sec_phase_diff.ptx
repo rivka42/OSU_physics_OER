@@ -19,6 +19,7 @@ Often, the initial (natural) phase difference is 0, in which case interference w
 	<principle>
 	<title>Maximum Constructive Interference</title>
 	<statement>
+		<p></p>
 		<p>If the initial phase difference between two waves is zero, maximum constructive interference occurs at locations in space where the path length difference is an integer multiple of the wavelength <me>\Delta D = 0, \pm \lambda, \pm 2\lambda, ...</me></p>
 	</statement>
 </principle>
@@ -26,6 +27,7 @@ Often, the initial (natural) phase difference is 0, in which case interference w
 	<principle>
 	<title>Complete Destructive Interference</title>
 	<statement>
+		<p></p>
 		<p>If the initial phase difference between two waves is zero, complete destructive interference occurs at locations in space where the path length difference is a half-integer multiple of the wavelength <me>\Delta D = \pm \lambda/2, \pm 3\lambda/2, ...</me></p>
 	</statement>
 </principle>
@@ -34,27 +36,87 @@ Often, the initial (natural) phase difference is 0, in which case interference w
 	<exercises>
 	<title>Activities</title>
 			<exercise>
+				<title>Halfway Between</title>
+				
+				
+				<statement>
+					<p></p>
 			  <p>You are standing halfway between two sources of waves with the same frequency and amplitude.  You observe destructive interference at your location.  Explain how this is possible.</p>
+				</statement>
+				<solution>
+					<p>
+						If you are standing halfway between the two sources of waves, the path length difference is zero.  If the waves were naturally in phase with each other, then you would see maximum constructive interference here.  But since you are seeing maximum destruction interference, the waves must have been out of phase to begin with!
+					</p>
+				</solution>
 			</exercise>
 						<exercise>
+							<title>A Pair of Waves</title>
+						<introduction>
+							<p></p>
+			  <p>Two waves with the same initial phase, frequency, and amplitude reach you by traveling different distances.  One wave traveled <m>4 \mathrm{~m}</m> to reach you and the other wave traveled <m>5.5 \mathrm{~m}</m> to reach you.</p>
+						</introduction>
+						<task>
 						<statement>
-			  <p>Two waves with the same initial phase, frequency, and amplitude reach you by traveling different distances.  One wave traveled <m>4 \mathrm{~m}</m> to reach you and the other wave traveled <m>5.5 \mathrm{~m}</m> to reach you.  The wavelength is <m>0.5 \mathrm{~m}</m>.  What kind of interference do you see?  Explain your reasoning.</p>
+							<p>
+								The wavelength is <m>0.5 \mathrm{~m}</m>.  What kind of interference do you see?  Explain your reasoning.
+							</p>
 				</statement>
 				<answer>
 				<p>
 				Maximum constructive interference!
 				</p>
 				</answer>
-			</exercise>
-									<exercise>
+			</task>
+									<task>
 									<statement>
-			  <p>The wavelengths of the waves in the previous activity are changed to <m>1 \mathrm{~m}</m>.  What kind of interference do you see now?  Explain your reasoning.</p>
+			  <p>The wavelengths of the waves are changed to <m>1 \mathrm{~m}</m>.  What kind of interference do you see now?  Explain your reasoning.</p>
 				</statement>
 				<answer>
 				<p>
 				Complete destructive interference!
 				</p>
 				</answer>
+			</task>
+			<task>
+				<statement>
+			  <p>The wavelengths of the waves are changed again, this time to an unknown wavelength.  If you observe maximum constructive intereference, which of the wavelengths below are possible?  Explain your reasoning.</p>
+
+			  <ol>
+				<li>
+					<p>
+						<me>
+							1.25 \mathrm{~m}
+						</me>
+						
+					</p>
+				</li>
+				<li>
+					<p>
+						<me>
+							0.75 \mathrm{~m}
+						</me>
+						
+					</p>
+				</li>
+				<li>
+					<p>
+						<me>
+							0.6 \mathrm{~m}
+						</me>
+						
+					</p>
+				</li>
+				<li>
+					<p>
+						<me>
+							0.3 \mathrm{~m}
+						</me>
+						
+					</p>
+				</li>
+			  </ol>
+				</statement>
+			</task>
 			</exercise>
 		</exercises>
 

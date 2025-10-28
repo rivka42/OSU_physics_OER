@@ -7,6 +7,7 @@
 	<title>Warm-up Activity</title>
 			<exercise>
 			<title>Exploring Pitch</title>
+			<p></p>
 			  <p>You hear a loud noise.  Which wave property (frequency, wavelength, wave speed, amplitude, wave number, phase, etc.) do you think is related to the pitch?</p>
 			</exercise>
 		</exercises>
@@ -20,6 +21,7 @@
 	<definition>
 	<title>The Doppler Effect</title>
 	<statement>
+		<p></p>
 		<p>The frequency of a sound wave heard by a listener is not always the same as the frequency created by the emitter: <me>f_{\text{listener}} = f_{\text{emitter}}\frac{\nu_{\text{sound}} + v_{\text{listener}}}{\nu_{\text{sound}} - v_{\text{emitter}}}</me></p>
 	</statement>
 </definition>
@@ -32,6 +34,7 @@ Each velocity (of the source or the listener) is positive if it is moving in the
 	<title>Activities</title>
 			<exercise xml:id="x_summarize-doppler">
 			<title>Explore Doppler Shifts</title>
+			<p></p>
 			  <p>How does the detected frequency change if the listener is moving away from a stationary emitter? How does the detected frequency change if the emitter is moving away from a stationary listener?</p>
 			</exercise>
 		</exercises>

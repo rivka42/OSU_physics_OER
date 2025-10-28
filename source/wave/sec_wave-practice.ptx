@@ -9,18 +9,153 @@
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
-
+<!--
 <subsection>
 	<title>Explanation Practice</title>
 
-
+ 
 	
 </subsection>
-
+-->
 <subsection>
 	<title>A*R*C*S Practice</title>
 
+<project xml:id="pa_wave-1">
+		<title>Wave Calculation</title>
+		<statement>
+			<p></p>
+			<p>
+				A sinusoidal wave travels along a stretched string. A particle on the string has a maximum velocity of <m>1.40 \mathrm{~m/s}</m> and a maximum acceleration of <m>270 \mathrm{~m/s^2}</m>. Find the frequency and amplitude of the wave.
+			</p>
+		</statement>
+		<solution>
+			<p><alert>1. Analyze and Represent</alert></p>
+		
+		<p>
+			<ol marker="a)">
+				<li>
+					<p>
+						<alert>List quantities.</alert>  
+						<me>
+							v_{\text{max}} = 1.4 \mathrm{~m/s}
+						</me>
+						<me>
+							a_{\text{max}} = 270 \mathrm{~m/s^2}
+						</me>
+						<me>
+							f = ?
+						</me>					
+						<me>
+							y_{\text{max}} = ?
+						</me>
+						
+						
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Identify assumptions.</alert>  No losses in the string and sinusoidal wave motion
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Represent the situation physically.</alert>  A history graph of the wave can be seen below. The maximum speed happens when the displacement is zero, and the maximum acceleration happens when the displacement is at a maximum
+					</p>
+				</li>
+			</ol>
 
+			<figure xml:id="fig_wave-sol">
+		<title>Wave Amplitude Solution</title>
+		 <caption>A sinusoidal wave with the instants of maximum velocity and acceleration shown.</caption>
+		<image source="wave-sol.png" width = "60%">
+			<description></description></image>
+  </figure>	
+
+			</p>
+		
+		<p><alert>2. Calculate</alert></p>
+		
+		<p>
+			<ol marker="a)">
+				<li>
+					<p>
+						<alert>Represent principles symbolically.</alert>
+					</p>
+					<p>
+						Angular frequency: <m>\omega = 2\pi f</m>
+					</p>
+					<p>
+						Wave equation: <m>y(x,t) = y_{\text{max}}\cos{(2𝜋x/\lambda + \omega t + 𝜙)}</m>
+					</p>
+					<p>
+						<me>v_{\text{max}} = \omega y_{\text{max}}</me>
+						<me>a_{\text{max}} = \omega^2 y_{\text{max}}</me>
+						
+						
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Solve unknown(s) symbolically.</alert>  
+						You can solve for <m>\omega</m> using the relationships of the amplitudes: 
+						<me>\omega = \frac{a_{\text{max}}}{v_{\text{max}}}</me>
+						Then the frequency can be written as: <me>f = \frac{a_{\text{max}}}{2\pi v_{\text{max}}}</me>
+						Finally, the amplitude can be written as: <me>y_{\text{max}} = \frac{v_{\text{max}}}{\omega}</me>
+							<me>y_{\text{max}} = \frac{v_{\text{max}}^2}{a_{\text{max}}}</me>
+
+
+					</p>
+				</li>
+				<li>
+					<p>
+						<me>f = 31 \mathrm{~Hz}</me>
+						<me>
+							y_{\text{max}} = 7 \times 10^{-3} \mathrm{~m}
+						</me>
+						
+					</p>
+				</li>
+			</ol>
+			</p>
+	
+		<p><alert>3. Sensemake</alert></p>
+		
+		<p>
+			<ol marker="a)">
+				<li>
+					<p>
+						<alert>Are the units correct?</alert>  
+						<me>\mathrm{1/s} = \frac{\mathrm{m/s^2}}{\mathrm{m/s}}</me>
+						<me>\mathrm{m} = \frac{\mathrm{m^2/s^2}}{\mathrm{m/s^2}}</me>
+						
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Is your numerical answer reasonable?</alert>  
+						This string has a frequency of 30 Hertz. For a string with this frequency, it is not surprising the maximum displacement is only a few millimeters. This could likely be built in a lab, so these numbers do seem reasonable.
+					</p>
+				</li>
+				<li>
+					<p>
+							<alert>Does your symbolic answer make physical sense?</alert>  
+					</p>
+					<p>
+						If the maximum speed increases, the frequency decreases and the displacement increases. With more speed, a particle on the string is travelling faster up and down in a larger period.
+					</p>
+				</li>
+			</ol>
+			</p>
+		</solution>
+	</project>
+
+	<project xml:id="pa_wave-0">
+		<title>Jet Engine</title>
+		<statement>
+			<p></p>
+			<p>During takeoff, the sound intensity level of a jet engine is <m>150 \mathrm{~dB}</m> at a distance of <m>22 \mathrm{~m}</m>. What is the sound intensity level at a distance of <m>1.0 \mathrm{~km}</m>?</p>
+		</statement>
+	</project>z
 
 </subsection>
 
@@ -29,6 +164,7 @@
     <exploration xml:id="psa_wave-alpha0">
         <title>Wave Speed</title>
 		<statement>
+			<p></p>
 			<p>
 				The speed of a wave in a medium depends on which of the following quantities?
 			</p>
@@ -54,6 +190,7 @@
 	<exploration xml:id="psa_wave-alpha1">
         <title>Wave Frequency</title>
 		<statement>
+			<p></p>
 			<p>
 				The frequency of a wave depends on which of the following quantities?
 			</p>
@@ -79,6 +216,7 @@
 	<exploration xml:id="psa_wave-alpha2">
         <title>Wave Amplitude</title>
 		<statement>
+			<p></p>
 			<p>
 				The amplitude of a wave depends on which of the following quantities?
 			</p>
@@ -104,6 +242,7 @@
 	<exploration xml:id="psa_wave-alpha3">
         <title>Two Wave</title>
 		<statement>
+			<p></p>
 			<p>
 				Waves A and B are traveling in the same medium, and they have the same wavelength and frequency. But Wave A has an amplitude twice that of Wave B. How does the speed of Wave A compare to the speed of wave B?
 			</p>
@@ -130,6 +269,7 @@
 	<exploration xml:id="psa_wave-alpha4">
         <title>Wavelength of the Ocean</title>
 		<statement>
+			<p></p>
 			<p>
 				Sitting on the dock of the bay, you notice that the crests of an ocean wave pass a pier every <m>12.0 \mathrm{~s}</m>. You know also that there are two buoys <m>28 \mathrm{~m}</m> apart, and that the crest travels between the buoys in about <m>5 \mathrm{~s}</m>. What is the wavelength of the ocean wave?
 			</p>
@@ -156,6 +296,7 @@
 	<exploration xml:id="psa_wave-alpha5">
         <title>Wave Intensity</title>
 		<statement>
+			<p></p>
 			<p>
 				Consider a logarithmic function like that found in the equation for decibels (also used for the Richter scale, by the way). If the sound intensity level increases from 30 dB to 60 dB, what can you say about the intensity of the wave?
 			</p>
@@ -183,6 +324,7 @@
 	<exploration xml:id="psa_wave-alpha6">
         <title>Sound Intensity</title>
 		<statement>
+			<p></p>
 			<p>
 				If the sound intensity level at a certain point increases from <m>30 \mathrm{~dB}</m> to <m>60 \mathrm{~dB}</m>, by what factor did the intensity change?
 			</p>
@@ -208,6 +350,7 @@
 	<exploration xml:id="psa_wave-alpha7">
         <title>Sound at a Concert</title>
 		<statement>
+			<p></p>
 			<p>
 				You are attending a concert by your favorite band, but you can barely hear them, because only 2 of the 20 speakers are working. The sound intensity level at your location is <m>60 \mathrm{~dB}</m>. If all 20 speakers suddenly start working, what is the new sound intensity level at your location? Assume that you don't change your location and that all of the speakers are the same distance from you.
 			</p>
@@ -233,6 +376,7 @@
 	<exploration xml:id="psa_wave-alpha8">
         <title>Ambulance Siren</title>
 		<statement>
+			<p></p>
 			<p>
 				You hear the siren from an ambulance and the frequency you hear is decreasing. Which of the following can you conclude are plausible?
 			</p>
@@ -259,6 +403,7 @@
 	<exploration xml:id="psa_wave-alpha9">
         <title>Dolphin Frequency</title>
 		<statement>
+			<p></p>
 			<p>
 				Dolphins emit clicks of sound for communicating and echo-location. A marine biologist, standing at rest in shallow seawater, is monitoring a dolphin swimming directly away at 8 m/s. The biologist measures the number of clicks occurring per second to be at a frequency of 2500 Hz. The speed of sound in calm seawater is 1522 m/s. What is the frequency of the clicks that the dolphin sends out?
 			</p>
@@ -282,86 +427,7 @@
 		</answer>
 	</exploration>
 
-	<exploration xml:id="psa_wave-alpha10">
-        <title>Tube of Air</title>
-		<statement>
-			<p>
-				A cylindrical tube of air sustains standing waves at 600 Hz, 800 Hz, and 1000 Hz, but at no other frequencies between 600 and 1000 Hz. Which of the following statements are plausible here?
-			</p>
-			<ol marker="A">
-			<li>The fundamental frequency is 50 Hz and the tube is open on both ends. </li>
-			<li>The fundamental frequency is 100 Hz and the tube is open on both ends.</li>
-			<li>The fundamental frequency is 100 Hz and the tube has one open and one closed end. </li>
-			<li>The fundamental frequency is 200 Hz and the tube has one open and one closed end.</li>
-			<li>The fundamental frequency is 200 Hz and the tube is open on both ends. </li>
-			<li>The fundamental frequency is 200 Hz and the tube is closed on both ends.</li>
-		  </ol>
-		</statement>
-		
-		<!--
-		<hint>
-		    <p></p>
-		</hint>
-		-->
-		<answer>
-		    <p>E., F.</p>
-		</answer>
-	</exploration>
-
-	<exploration xml:id="psa_wave-alpha11">
-        <title>Speakers</title>
-		<statement>
-			<p>
-				Suppose you observe that the shortest non-zero path length difference that produces constructive interference from two coherent unknown sources is <m>128 \mathrm{~m}</m>. What is the wavelength of the source?
-			</p>
-		</statement>
-		<statement>
-			<p>
-				At which of the following path length differences will constructive interference also occur?
-			</p>
-			<ol marker="A">
-			<li>64 m</li>
-			<li>180 m</li>
-			<li>256 m</li>
-			<li>320 m</li>
-			<li>512 m</li>
-			<li>832 m</li>
-			<li>3264 m</li>
-			<li>4096 m</li>
-		  </ol>
-		</statement>
-		
-		  <statement>
-			<p>
-				At which of the following path length differences will destructive interference occur?
-			</p>
-			<ol marker="A">
-			<li>64 m</li>
-			<li>180 m</li>
-			<li>256 m</li>
-			<li>320 m</li>
-			<li>512 m</li>
-			<li>832 m</li>
-			<li>3264 m</li>
-			<li>4096 m</li>
-		  </ol>
-		</statement>
-		
-		<!--
-		<hint>
-		    <p></p>
-		</hint>
-		-->
-		<answer>
-		    <p><m>128 \mathrm{~m}</m></p>
-		</answer>
-		<answer>
-		    <p>C., E., H.</p>
-		</answer>
-		<answer>
-		    <p>A., D., F., G.</p>
-		</answer>
-	</exploration>
+	
 	
 
 </subsection>

@@ -10,76 +10,11 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 
-<subsection>
-<title>Explanation Tasks</title>
-<investigation xml:id="psa_wave-0a">
-		<title>Reflecting Waves</title>
-		<statement>
-		<p>The diagram below shows a wave pulse at <m>t = 0</m> moving to the right on a string with wave speed <m>2 \mathrm{~mm/s}</m>.  Each grid box represents <m>1 \mathrm{~mm}</m>.  Consider two different scenarios: 
-		
-		<ul>
-		<li>
-		In <alert>Scenario 1</alert> the black dot represents a fixed end for the string
-		</li>
-		<li>
-		In <alert>Scenario 2</alert> the black dot represents an end that is free to move up and down
-		</li>
-		</ul>
-		</p>
-		
-<p>For each scenario: Sketch the shape of the spring at <m>t_1 = 2 \mathrm{~s}</m>, <m>t_2 = 2.5 \mathrm{~s}</m>, and <m>t_3 = 3 \mathrm{~s}</m>.  Explain how you made your sketches and comment on the similarities and differences between the scenarios.
-</p>
-
-<figure xml:id="wavepulse4">
-    	<caption><p>A wave pulse moving to the right.</p>
-	</caption>
-    	<image source="WavePulse4.png" width = "75%" ></image>
-</figure>
-
-		</statement>
-	</investigation>
-
-<investigation xml:id="psa_wave-0">
-		<title>Wave at a Boundary</title>
-		<statement>
-		<p>Two strings are tied together and a wave is sent down string 1. String 1 has a linear mass density three times smaller than string 2. When the wave reaches the point where the strings are tied together and moves through string 2, you observe the wavelength. Is the wavelength in string 2 <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the wavelength in string 1?</p>
-		</statement>
-	</investigation>
-
-</subsection>
-
-<subsection>
-<title>A*R*C*S Activities</title>
-
-<project xml:id="pa_wave-0">
-		<title>Jet Engine</title>
-		<statement>
-			<p>During takeoff, the sound intensity level of a jet engine is <m>150 \mathrm{~dB}</m> at a distance of <m>22 \mathrm{~m}</m>. What is the sound intensity level at a distance of <m>1.0 \mathrm{~km}</m>?</p>
-		</statement>
-	</project>
-
-	<project xml:id="pa_wave-1">
-		<title>Wave Amplitude</title>
-		<statement>
-			<p>
-				A sinusoidal wave travels along a stretched string. A particle on the string has a maximum velocity of <m>1.40 \mathrm{~m/s}</m> and a maximum acceleration of <m>270 \mathrm{~m/s^2}</m>. Find the frequency and amplitude of the wave.
-			</p>
-		</statement>
-	</project>
-	
-	<project>
-		<title>Silent Speakers</title>
-		<statement>
-			<p>
-				Two speakers separated by <m>10 \mathrm{~m}</m> are simultaneously creating identical (with the same initial phase) sound waves with wavelength <m>8 \mathrm{~m}</m>. You are standing somewhere on the line in between the two speakers, but you do not hear any sound! Determine where you are standing, measured from the center point between the two speakers.
-			</p>
-		</statement>
-		
-	</project>
 
 	<project xml:id="psa_wave-1">
 		<title>Diving Bird</title>
 		<statement>
+			<p></p>
 			<p>
 				You hear a loud noise at <m>900 \mathrm{~Hz}</m> and look up to see a bird diving toward you. You are able to identify the type of bird and you know that they usually make noise at around <m>800 \mathrm{~Hz}</m>. How fast is the bird moving?
 			</p>
@@ -89,13 +24,19 @@
 	<project xml:id="psa_wave-2">
 		<title>Flash of Lightning</title>
 		<statement>
+			<p></p>
 			<p>
 				You see a flash of lightning strike a clock tower during a thunderstorm. You count <m>2.5 \mathrm{~s}</m> between when the lightning flashes and when you hear thunder with a sound level of <m>70 \mathrm{~dB}</m>. What is the sound level of the thunder for someone standing only <m>20 \mathrm{~m}</m> from the clock tower?
 			</p>
 		</statement>
 	</project>
 
-</subsection>
+<activity xml:id="x_meta-waves">
+		<title>Metacognitive Reflection: Waves</title>
+
+<p>The model you have been building for waves is an extension of the model for oscillations.  Identify one key feature of the wave model that is <em>the same as</em> and another key feature of the wave model that is <em>different from</em> the oscillation model.  For each feature, write a short (2-3) sentence reflection about how the models are similar and/or different.</p>
+
+</activity>
 
 </section>
 

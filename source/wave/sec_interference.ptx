@@ -20,6 +20,7 @@
 	<definition>
 	<title>Phase Difference</title>
 	<statement>
+		<p></p>
 		<p>The <term>phase difference</term> (or the <term>relative phase</term>) between two sinusoidal waves, <m>\Delta \phi = \phi_2 - \phi_1</m>, describes the difference in where two waves are in their cycles.</p>
 		<p>If you consider two similar waves (with the same frequency and wavelength) at the same position and time, the phase difference is equal to the difference in the initial phase of the two waves <me>\Delta \phi_i = \phi_{i,2} - \phi_{i,1}</me></p>
 	</statement>
@@ -57,6 +58,7 @@
 			<definition>
 	<title>Maximum Constructive Interference</title>
 	<statement>
+		<p></p>
 		<p>Two similar waves undergo <term>maximum constructive interference</term> if their relative phase is an integer multiple of <m>2\pi</m> such as <me>\Delta \phi = 0, \pm 2\pi, \pm 4\pi, ...</me>  In maximum constructive interference, the resulting superposition of the waves is a new wave with twice the amplitude.</p>
 	</statement>
 </definition>
@@ -64,6 +66,7 @@
 	<definition>
 	<title>Complete Destructive Interference</title>
 	<statement>
+		<p></p>
 		<p>Two similar waves undergo <term>complete destructive interference</term> if their relative phase is an odd integer multiple of <m>\pi</m> such as <me>\Delta \phi = \pm \pi, \pm 3\pi, ...</me>  In complete destructive interference, the resulting superposition of the waves has a displacement of <m>0</m> at all instants in time.</p>
 	</statement>
 </definition>

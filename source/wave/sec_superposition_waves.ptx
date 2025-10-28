@@ -33,7 +33,16 @@
 	<principle>
 	<title>Wave Superposition</title>
 	<statement>
-		<p>The total displacement caused by multiple waves can be determined by adding the displacements caused by each wave.  The displacements have to be added separately at every point in space and time.</p>
+		<p>
+			
+		</p>
+		<p>The total displacement caused by multiple waves can be determined by adding the displacements caused by each wave.  The displacements have to be added separately at every point in space and time:
+			<me>
+				y(x,t) = y_1(x,t) + y_2(x,t) + \dots
+			</me>
+			
+
+		</p>
 	</statement>
 </principle>
 

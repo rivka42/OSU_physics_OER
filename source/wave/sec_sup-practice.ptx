@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_sup-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Practice - Superposition</title>
+	
+	<!--
+	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
+	If you want an Explain activity, use the <investigation> tag.
+		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
+	If you want a Calculate activity, use the <exploration> tag.
+	-->
+
+<subsection>
+	<title>Explanation Practice</title>
+
+ <investigation xml:id="psa_wave-0a">
+		<title>Reflecting Waves</title>
+		<statement>
+			<p></p>
+		<p>The diagram below shows a wave pulse at <m>t = 0</m> moving to the right on a string with wave speed <m>2 \mathrm{~mm/s}</m>.  Each grid box represents <m>1 \mathrm{~mm}</m>.  Consider two different scenarios: 
+		
+		<ul>
+		<li>
+		In <alert>Scenario 1</alert> the black dot represents a fixed end for the string
+		</li>
+		<li>
+		In <alert>Scenario 2</alert> the black dot represents an end that is free to move up and down
+		</li>
+		</ul>
+		</p>
+		
+<p>For each scenario: Sketch the shape of the spring at <m>t_1 = 2 \mathrm{~s}</m>, <m>t_2 = 2.5 \mathrm{~s}</m>, and <m>t_3 = 3 \mathrm{~s}</m>.  Explain how you made your sketches and comment on the similarities and differences between the scenarios.
+</p>
+
+<figure xml:id="wavepulse4">
+    	<caption><p>A wave pulse moving to the right.</p>
+	</caption>
+    	<image source="WavePulse4.png" width = "75%" ></image>
+</figure>
+
+		</statement>
+	</investigation>
+
+<investigation xml:id="psa_wave-0">
+		<title>Wave at a Boundary</title>
+		<statement>
+			<p></p>
+		<p>Two strings are tied together and a wave is sent down string 1. String 1 has a linear mass density three times smaller than string 2. When the wave reaches the point where the strings are tied together and moves through string 2, you observe the wavelength. Is the wavelength in string 2 <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the wavelength in string 1?</p>
+		</statement>
+	</investigation>
+	
+</subsection>
+
+<subsection>
+	<title>A*R*C*S Practice</title>
+
+
+
+</subsection>
+
+<subsection>
+<title>Numerical Practice</title>
+    <exploration xml:id="psa_wave-alpha10">
+        <title>Tube of Air</title>
+		<statement>
+			<p></p>
+			<p>
+				A cylindrical tube of air sustains standing waves at 600 Hz, 800 Hz, and 1000 Hz, but at no other frequencies between 600 and 1000 Hz. Which of the following statements are plausible here?
+			</p>
+			<ol marker="A">
+			<li>The fundamental frequency is 50 Hz and the tube is open on both ends. </li>
+			<li>The fundamental frequency is 100 Hz and the tube is open on both ends.</li>
+			<li>The fundamental frequency is 100 Hz and the tube has one open and one closed end. </li>
+			<li>The fundamental frequency is 200 Hz and the tube has one open and one closed end.</li>
+			<li>The fundamental frequency is 200 Hz and the tube is open on both ends. </li>
+			<li>The fundamental frequency is 200 Hz and the tube is closed on both ends.</li>
+		  </ol>
+		</statement>
+		
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p>E., F.</p>
+		</answer>
+	</exploration>
+
+	<exploration xml:id="psa_wave-alpha11">
+        <title>Speakers</title>
+		<statement>
+			<p></p>
+			<p>
+				Suppose you observe that the shortest non-zero path length difference that produces constructive interference from two coherent unknown sources is <m>128 \mathrm{~m}</m>. What is the wavelength of the source?
+			</p>
+
+			<p>
+				At which of the following path length differences will constructive interference also occur?
+			</p>
+			<ol marker="A">
+			<li>64 m</li>
+			<li>180 m</li>
+			<li>256 m</li>
+			<li>320 m</li>
+			<li>512 m</li>
+			<li>832 m</li>
+			<li>3264 m</li>
+			<li>4096 m</li>
+		  </ol>
+
+			<p>
+				At which of the following path length differences will destructive interference occur?
+			</p>
+			<ol marker="A">
+			<li>64 m</li>
+			<li>180 m</li>
+			<li>256 m</li>
+			<li>320 m</li>
+			<li>512 m</li>
+			<li>832 m</li>
+			<li>3264 m</li>
+			<li>4096 m</li>
+		  </ol>
+		</statement>
+		
+		<!--
+		<hint>
+		    <p></p>
+		</hint>
+		-->
+		<answer>
+		    <p><m>128 \mathrm{~m}</m></p>
+		</answer>
+		<answer>
+		    <p>C., E., H.</p>
+		</answer>
+		<answer>
+		    <p>A., D., F., G.</p>
+		</answer>
+	</exploration>
+
+</subsection>
+
+<references>
+	<biblio xml:id="ref_boxsand-sup">
+	<p>Numerical practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+	</biblio>
+</references>
+</section>
+

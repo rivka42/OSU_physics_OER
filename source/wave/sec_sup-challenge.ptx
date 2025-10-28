@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_sup-challenge" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Challenge - Superposition</title>
+	
+	<!--
+	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
+	If you want an Explain activity, use the <investigation> tag.
+		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
+	If you want a Calculate activity, use the <exploration> tag.
+	-->
+
+	<project>
+		<title>Silent Speakers</title>
+		<statement>
+			<p></p>
+			<p>
+				Two speakers separated by <m>10 \mathrm{~m}</m> are simultaneously creating identical (with the same initial phase) sound waves with wavelength <m>8 \mathrm{~m}</m>. You are standing somewhere on the line in between the two speakers, but you do not hear any sound! Determine where you are standing, measured from the center point between the two speakers.
+			</p>
+		</statement>
+		
+	</project>
+
+	<activity xml:id="x_meta-sup">
+		<title>Metacognitive Reflection: Superposition of Waves</title>
+
+<p>You have now encountered the idea of superposition (the idea of adding together like quantities) in multiple contexts, including Waves and Vectors.  Consider your experiences with superposition in these two contexts and write a short reflection about what is similar and different about superposition for waves and for vectors.</p>
+
+</activity>
+
+</section>
+
