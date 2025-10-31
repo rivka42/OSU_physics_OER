@@ -20,15 +20,15 @@ Consider a substance that has density <m> \rho </m>. The wave disturbance travel
 
 where the negative sign tells us that the volume decreases as the substance is compressed. You can predict the speed of sound in a substance, which is the speed at which the compression wave travels
 
-<me> \nu_{\text{sound}} = \sqrt{\frac{B}{\rho}} </me>
+<me> v_{\text{sound}} = \sqrt{\frac{B}{\rho}} </me>
 
 At <m> 0^{\circ} C</m> and 1.0 atmosphere standard pressure, the density of air is <m> \rho_0 = 1.292 \frac{\text{kg}}{\text{m}^3} </m> and the bulk modulus is <m> B_0=1.48 x 10^5 \text{ Pa}</m>. Thus the speed of sound in air is 
 
-<me> \nu_{\text{sound}} = \sqrt{\frac{B_0}{\rho_0}}=331 \text{m/s} </me>
+<me> v_{\text{sound}} = \sqrt{\frac{B_0}{\rho_0}}=331 \mathrm{~m/s} </me>
 
 You can use the ideal gas law to show that density at constant pressure is inversely proportional to the temperature <m> T </m> measured in Kelvin. Therefore the speed of sound in air at 1.0 atmosphere standard pressure is 
 
-<me> \nu_{\text{sound}}(T) = \sqrt{\frac{B_0}{\rho_0}\frac{T}{273}} = 331 \frac{\text{m}}{\text{s}} \sqrt{\frac{T}{273}}</me> 
+<me> v_{\text{sound}}(T) = \sqrt{\frac{B_0}{\rho_0}\frac{T}{273}} = 331 \frac{\mathrm{m}}{\mathrm{s}} \sqrt{\frac{T}{273 \mathrm{~K}}}</me> 
 
 </p>
 <exercises>
@@ -37,16 +37,22 @@ You can use the ideal gas law to show that density at constant pressure is inver
 <exercise>
 <title>Sensemaking: Units</title>
 <statement>
+  <p>
+    
+  </p>
 <p>
-Explicitly check the units of <m> \nu_{\text{sound}} </m> to confirm its relationship holds. 
+Explicitly check the units of <m> v_{\text{sound}} </m> to confirm its relationship holds. 
 </p>
 </statement>
 </exercise>
 <exercise>
 <title>Sensemaking: Numbers</title>
 <statement>
+  <p>
+    
+  </p>
 <p>
-A commonly cited value for the speed of sound is 343 m/s.  What is the temperature corresponding to this speed?  Why do you think this number is commonly cited?
+A commonly cited value for the speed of sound is <m>343 \mathrm{~m/s}</m>.  What is the temperature corresponding to this speed?  Why do you think this number is commonly cited?
 </p>
 </statement>
 </exercise>

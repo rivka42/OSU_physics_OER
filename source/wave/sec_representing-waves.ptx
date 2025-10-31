@@ -33,6 +33,9 @@
 <lemma xml:id="rep_history-graph">
 			<title>History Graph</title>
 			<statement>
+				<p>
+					
+				</p>
 				<p>A <term>history graph</term> is a graph of wave motion showing the position of a fixed part of a medium over time.</p>
 			</statement>
 		</lemma>
@@ -66,6 +69,9 @@ Alternatively, you can graph the displacement of the medium over space at a sing
 <lemma xml:id="rep_snapshot-graph">
 			<title>Snapshot Graph</title>
 			<statement>
+				<p>
+					
+				</p>
 				<p>A <term>snapshot graph</term> is a graph of wave motion showing the position of all parts of a medium at a fixed time.</p>
 			</statement>
 		</lemma>
@@ -75,13 +81,13 @@ Now, the quantity of note is the <em>distance</em> spanned from one crest of the
 </p>
 
 <observation>
-<title>Wave Number</title>
+<title>Wavenumber</title>
 <p>
 Recall from simple harmonic motion the relationship between angular frequency, frequency, and period,
 
 <me> \omega = 2 \pi f = \frac{2 \pi}{T} </me> 
 
-Time is the physical quantity that connects angular frequency, frequency and period. There is an analogous spatial relationship between wavelength and a quantity called the <alert> wavenumber </alert> <m> k </m>
+Time is the physical quantity that connects angular frequency, frequency and period. There is an analogous spatial relationship between wavelength and a quantity called the <alert> wavenumber </alert> <m> k </m>:
 
 <me> k = \frac{2 \pi}{\lambda} </me>
 
@@ -93,6 +99,9 @@ The wavenumber represents the spatial frequency of a wave over a unit distance.
 <title>Activities</title>
 <exercise>
 <title>Exploring Wavenumber</title>
+<p>
+	
+</p>
 <p>A friend tells you about a wave with wavenumber <m>k = \frac{4\pi}{7} \mathrm{~\frac{rad}{m}}</m>.  What is the wavelength of this wave?  What would the wavenumber be for a different wave with double the wavelength?</p>
 </exercise>
 		</exercises>

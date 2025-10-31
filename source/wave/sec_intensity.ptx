@@ -7,6 +7,9 @@
       <title>Warm-up Activity</title>
         <exercise>
           <title>Exploring Loudness</title>
+          <p>
+            
+          </p>
           <p>You hear a loud noise.  Which wave property or properties (frequency, wavelength, wave speed, amplitude, wave number, phase, etc.) do you think is related to how loud it is?</p>
         </exercise>
     </exercises>
@@ -27,13 +30,16 @@ The kinetic energy of the mass at that point depends on the square of the speed.
 <definition>
   <title>Intensity</title>
    <statement>
-	   <p>The <term>intensity</term> of a wave emanating from a point source: <me>I = \frac{P}{a}</me> where <m>P</m> is power and <m>a</m> is the surface area of a sphere.</p>
-<p>We define the intensity <m>I</m> of a wave to be the power delivered by the wave, divided by the area that the wave impinges upon. The units of intensity are Watts per square meter.
-</p>
+    <p>
+      
+    </p>
+	   <p>The <term>intensity</term> of a wave emanating from a point source is the power per unit area: <me>I = \frac{P}{\text{Area}}</me> where <m>P</m> is power and the area is the surface area of a sphere.</p>
    </statement>
 </definition>
 
-<p>For a point source wave, emanating as a spherical wave front, the area is the surface area of a sphere. Intensity takes the form: <me>I = \frac{P}{4\pi r^2}</me>
+<observation>
+  <title>Spherical Wave Intensity</title>
+  <p>For a point source wave, emanating as a spherical wave front, the area is the surface area of a sphere. Intensity takes the form: <me>I = \frac{P}{4\pi r^2}</me>
 </p>
  <figure xml:id="surface_area_sphere">
  <title>Surface Area of a Sphere Figure</title>
@@ -43,13 +49,18 @@ The kinetic energy of the mass at that point depends on the square of the speed.
 	<image source="wave/intensity_rsquared.jpg" width = "60%" ></image>
 </figure>
 <p>
-We can visualize this by considering the energy passing through a small area of a sphere of radius <m>r</m>. The same amount of energy must pass through a larger area of a sphere of radius <m>2r</m>. Since the surface area of the larger sphere increases by a factor of <m>r^2</m>, the energy passing through the same area must be <m>\frac{1}{4}</m> as much.    
+You can visualize this by considering the energy passing through a small area of a sphere of radius <m>r</m>. The same amount of energy must pass through a larger area of a sphere of radius <m>2r</m>. Since the surface area of the larger sphere increases by a factor of <m>r^2</m>, the energy passing through the same area must be <m>\frac{1}{4}</m> as much.    
 </p>
+  
+</observation>
+
 
 <exercises>
   <title>Activities</title>
    <exercise>
     <title>Explanation - Distance and Intensity</title>
+    <p>
+    </p>
     <p>Your friend is a distance <m>d</m> from a point source of sound and measures the intensity of the sound wave to be <m>I</m>.  How far away from the source of the wave do you need to be to measure the intensity to be <m>\frac{I}{2}</m>?</p>
    </exercise>
 </exercises>

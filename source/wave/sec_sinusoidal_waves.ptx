@@ -18,7 +18,10 @@
 	<definition xml:id="def_phase">
 	<title>Initial Phase</title>
 	<statement>
-		<p>The <term>phase</term> of a wave, typically written as <m>\phi</m>, refers to where in a cycle (from <m>0</m> to <m>2\pi</m>) a sinusoidal wave is at any given point in time and space.  
+		<p>
+			
+		</p>
+		<p>The <term>phase</term> of a wave, typically written as <m>\phi</m>, refers to where in a cycle (from <m>0</m> to <m>2\pi</m>) a wave is at any given point in time and space.  
 		
 		The <term>initial phase</term>, <m>\phi_i</m>, specifies the phase at the origin at <m>t = 0</m>.</p>
 	</statement>
@@ -27,6 +30,9 @@
 	<principle xml:id="law_wave-speed">
 	<title>Wave Speed</title>
 	<statement>
+		<p>
+			
+		</p>
 		<p>
 		
 		For sinusoidal waves, the <alert> wave speed </alert> can be written
@@ -54,7 +60,10 @@ For mechanical waves, <alert> wave speed is a property of the medium's elasticit
 <title>Activities</title>
 	<exercise xml:id="x_trig-waves">
 	<title>Graphing Phase</title>
-	<p>Using a graphing program (like Desmos or Mathematica), try graphing the following functions (use <m>\lambda = 6 \mathrm{~m}</m>).</p>
+	<p>
+		
+	</p>
+	<p>Use a graphing program (like Desmos or Mathematica), to graph the following functions (use <m>\lambda = 6 \mathrm{~m}</m>).</p>
 				<p>
 				<ul>
 				<li><m> \sin{(2\pi\frac{x}{\lambda})} </m> </li>
@@ -66,6 +75,9 @@ For mechanical waves, <alert> wave speed is a property of the medium's elasticit
 			</exercise>
 			<exercise>
 			<title>Exploring Phase</title>
+			<p>
+				
+			</p>
 			<p>Based on your graphs, what is the mathematical role of the phase in an oscillation or wave equation?  What do you think the physical role of the phase is?</p>
 			</exercise>
 		</exercises>

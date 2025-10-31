@@ -8,12 +8,18 @@
 <exercise xml:id="x_intro-waves">
 <title>Explore What You Already Know about Waves</title>
 <statement>
-<p>You have probably already encountered waves in your everyday life.  Get started by writing down a personal list of things you already know about or have observed about waves in your everyday life.</p>
+	<p>
+		
+	</p>
+<p>You have probably already encountered waves in your everyday life.  Start by writing down a personal list of things you already know about or have observed about waves in your everyday life.</p>
 </statement>
 </exercise>
 <exercise>
 <title>Explore Transverse and Longitudinal Waves</title>
 <statement>
+	<p>
+		
+	</p>
 <p>Watch the two short videos demonstrating some basic wave behavior below.  Make a list of observations about each video.  Try to find both similarities and differences between the two kinds of waves.</p>
 </statement>
 </exercise>
@@ -54,7 +60,10 @@ A wave disturbance is created by a <alert> source </alert>: an external oscillat
 <definition>
 <title>Transverse Waves</title>
 <p>
-A <alert> transverse wave </alert> is a wave in which the displacement of particles in the medium is perpendicular to the direction that the disturbance travels. <xref ref="stringpulse"></xref> shows a wave pulse traveling down a string. Note that the <em>source</em> of the pulse is the action of lifting the string from one end and moving it up and down. The particles in the string are displaced perpendicular to the direction that the wave pulse travels. 
+	
+</p>
+<p>
+A <alert> transverse wave </alert> is a wave in which the displacement of particles in the medium is perpendicular to the direction that the disturbance travels. The figure below shows a wave pulse traveling down a string. Note that the <em>source</em> of the pulse is the action of lifting the string from one end and moving it up and down. The particles in the string are displaced perpendicular to the direction that the wave pulse travels. 
 </p>
 
 <figure xml:id="stringpulse">
@@ -67,7 +76,10 @@ A <alert> transverse wave </alert> is a wave in which the displacement of partic
 <definition>
 <title>Longitudinal Waves</title>
 <p>
-A <alert> longitudinal wave </alert> is a wave in which the displacement of the medium is parallel to the direction that the disturbance travels. <xref ref="wavepulse"></xref> shows a wave pulse traveling in a fluid. The <em>source</em> is the action of initially forcing all the particles. Intermolecular attraction between molecules in the fluid restores the particles back to their original position after the wave pulse passes. 
+	
+</p>
+<p>
+A <alert> longitudinal wave </alert> is a wave in which the displacement of the medium is parallel to the direction that the disturbance travels. The figure below shows a wave pulse traveling in a fluid. The <em>source</em> is the action of initially forcing all the particles. Intermolecular attraction between molecules in the fluid restores the particles back to their original position after the wave pulse passes. 
  </p>
 
 <figure xml:id="wavepulse">
@@ -80,7 +92,7 @@ A <alert> longitudinal wave </alert> is a wave in which the displacement of the 
 
 
 <p>
-In <xref ref="DR_wave2"></xref> you can see a longitudinal wave passing through a medium. Three particles are highlighted to show the difference between motion of the wave and motion of the particles that make up the medium. You may ask, if the medium is not traveling with the disturbance, then what is traveling? A wave disturbance carries <alert> energy </alert> and <alert> momentum </alert> from point to point in the medium. 
+In the figure below you can see a longitudinal wave passing through a medium. Three particles are highlighted to show the difference between motion of the wave and motion of the particles that make up the medium. You may ask, if the medium is not traveling with the disturbance, then what is traveling? A wave disturbance carries <alert> energy </alert> and <alert> momentum </alert> from point to point in the medium. 
 </p>
 
 <figure xml:id="DR_wave2">
