@@ -18,14 +18,12 @@
 
     <principle>
         <title>Phase Shifts for Reflected Light</title>
+        <p></p>
         <p>When light reflects off a material with a higher index of refraction, the reflected wave has a phase shift of <m>\pi</m>. In contrast, if light reflects off a material with a lower index of refraction, there is no <m>\pi</m> phase shift.  Transmitted waves never have a phase shift.</p>
     </principle>
 
     <observation>
         <title>Where does the phase shift come from?</title>
-        <p>
-            
-        </p>
         <p>An analogy to the phase shift for reflected light is a wave pulse interacting with a medium of a higher density 
         (slower wave speed). As seen in <xref ref="lo_hi"></xref>, 
         once the wave starts to interact with the higher density string, the reflected wave is inverted, 
@@ -36,20 +34,20 @@
 
     <exercises>
         <title>Activities</title>
-            <investigation>
+            <exercise>
                 <title>Path Length Difference</title>
-                <statement><p>Assume the thickness of the thin film is <m>t</m> and the incident ray is nearly normal to the surface. Determine the path length difference, <m>\Delta D</m> (the extra distance traveled by ray (5) compared to ray (2).</p></statement>
+                <statement><p></p><p>Assume the thickness of the thin film is <m>t</m> and the incident ray is nearly normal to the surface. Determine the path length difference, <m>\Delta D</m>, the extra distance traveled by ray (5) compared to ray (2).</p></statement>
                 <solution>
                     <p>At near normal incidence the <m>\Delta D</m> is equal to twice the thickness <m>t</m> of the film, <m>\Delta D = 2t</m>, because ray (5) travels first down then back up.</p>
                 </solution>
-            </investigation>
-            <investigation>
+            </exercise>
+            <exercise>
                 <title>Oil on Water</title>
-                <statement><p>Suppose you have the air <m>\rightarrow</m> oil <m>\rightarrow</m> water system described above. The index of refraction for oil is <m>n_{oil} = 1.44</m> and the index of refraction for water is <m>n_{water} = 1.33</m>. For each of the two reflections, identify whether or not there is a phase shift.</p></statement>
+                <statement><p></p><p>Suppose you have the air <m>\rightarrow</m> oil <m>\rightarrow</m> water system described above. The index of refraction for oil is <m>n_{oil} = 1.44</m> and the index of refraction for water is <m>n_{water} = 1.33</m>. For each of the two reflections, identify whether or not there is a phase shift.</p></statement>
                 <solution>
                     <p>Oil has a higher index of refraction than air, so ray (2) has a <m>\pi</m> phase shift. When ray (3) reflects off the bottom surface, it is in oil and bouncing off water. Since <m>n_{water}</m> is smaller than <m>n_{oil}</m> there is no phase shift in reflected ray (4) or in (5) since it is transmitted.</p>
                 </solution>
-            </investigation>
+            </exercise>
 
             <!--
             <exercise xml:id="x_thin-film-1">

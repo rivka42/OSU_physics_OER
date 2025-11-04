@@ -13,8 +13,16 @@
 <subsection>
 	<title>Explanation Practice</title>
 
-
-	
+	<investigation xml:id="pa_opt-2">
+		<title>Single Slit</title>
+		<statement>
+			<p></p>
+			<p>
+				A laser shines through a single slit of unknown width a. You observe at least one dark spot on a distant screen.Is the width of the slit <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the wavelength of the laser?
+			</p>
+		</statement>
+		</investigation>
+	 
 </subsection>
 
 <subsection>

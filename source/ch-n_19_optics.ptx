@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 
 <chapter xml:id="ch_optics" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Optics</title>
+  <title>Geometric Optics</title>
 	<introduction>
     <p> In this chapter you will learn how to model light.</p>
 	

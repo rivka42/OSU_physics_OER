@@ -12,6 +12,7 @@
     <principle xml:id="prin_Huygen">
         <title>Huygen's Principle</title>
         <statement>
+          <p></p>
           <p>Every point along a wave front can be considered a source of a waves emanating from that point in the direction of light propagation.</p>
           <figure>
 			<title>Huygen's Principle Figure</title>
@@ -25,7 +26,8 @@
         <title>Wave Model Activities</title>
         <exercise>
             <title>Wave Interference</title>
-            <p>Spend some time playing with the <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html" visual="light interference simulation"/>. Click on the "Interference" tab, and on the right hand side, choose the laser pointer option.</p>
+            <p></p>
+            <p>Spend some time playing with the <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html" visual="light interference simulation"/>. Click on the <q>Interference</q> tab, and on the right hand side, choose the laser pointer option.</p>
         <p>Make some observations as you are playing with the simulation. What happens if you separate the lasers as far as possible? What happens if you bring them as close together as possible? What happens when you change the frequency?</p>
         </exercise>
         

@@ -6,7 +6,7 @@
 
     <exercises>
         <title>Multiple-Slit Interference</title>
-        <!-- Inspired by Paul's in class activity -->
+        <!-- Inspired by Paul's in-class activity -->
         <p>To understand how the interference pattern changes, let's work through what happens if you add a third slit to the screen. Let's consider three points on the screen: the central maximum, the first bright spot, and the first dark spot.</p>
         <figure>
 			<title>Triple-Slit Figure</title>
@@ -15,7 +15,8 @@
         </figure>
         <exercise>
             <title>Central Maximum</title>
-            <p>Let's first consider the central maximum.</p>
+            <p></p>
+            <p>First consider the central maximum.</p>
             <ol>
                 <li>What is the path length difference between ray <m>r_1</m> and <m>r_2</m>?</li>
                 <li>What is the path length difference between ray <m>r_2</m> and <m>r_3</m>?</li>
@@ -31,7 +32,8 @@
         </exercise>
         <exercise>
             <title>First Bright Spot</title>
-            <p>Now let's look at the second bright spot.</p>
+            <p></p>
+            <p>Now look at the second bright spot.</p>
             <ol>
                 <li>What is the path length difference between ray <m>r_1</m> and <m>r_2</m>?</li>
                 <li>What is the path length difference between ray <m>r_2</m> and <m>r_3</m>?</li>
@@ -47,7 +49,8 @@
         </exercise>
         <exercise>
             <title>First Dark Spot</title>
-            <p>Finally, let's consider the first dark spot.</p>
+            <p></p>
+            <p>Finally, consider the first dark spot.</p>
             <ol>
                 <li>What is the path length difference between ray <m>r_1</m> and <m>r_2</m>?</li>
                 <li>What is the path length difference between ray <m>r_2</m> and <m>r_3</m>?</li>

@@ -16,19 +16,26 @@ The phase difference due to a path length difference can be calculated as
 Often, the initial (natural) phase difference is 0, in which case interference will be entirely due to the path length difference.
 </p>
 
-	<principle>
+	<principle  xml:id="def_constructive">
 	<title>Maximum Constructive Interference</title>
 	<statement>
 		<p></p>
-		<p>If the initial phase difference between two waves is zero, maximum constructive interference occurs at locations in space where the path length difference is an integer multiple of the wavelength <me>\Delta D = 0, \pm \lambda, \pm 2\lambda, ...</me></p>
+		<p>If the initial phase difference between two waves is zero, maximum constructive interference occurs at locations in space where the path length difference is an integer multiple of the wavelength <me>\Delta D = 0, \pm \lambda, \pm 2\lambda, ...</me>
+		which is frequently simplified to, for integer <m>m</m>:
+			<me>\Delta D = m \lambda</me>
+		
+		</p>
 	</statement>
 </principle>
 
-	<principle>
+	<principle xml:id="def_destructive">
 	<title>Complete Destructive Interference</title>
 	<statement>
 		<p></p>
-		<p>If the initial phase difference between two waves is zero, complete destructive interference occurs at locations in space where the path length difference is a half-integer multiple of the wavelength <me>\Delta D = \pm \lambda/2, \pm 3\lambda/2, ...</me></p>
+		<p>If the initial phase difference between two waves is zero, complete destructive interference occurs at locations in space where the path length difference is a half-integer multiple of the wavelength <me>\Delta D = \pm \lambda/2, \pm 3\lambda/2, ...</me>
+		which is frequently simplified to, for integer <m>m</m>:
+			<me>\Delta D = (m + \frac{1}{2}) \lambda</me>
+		</p>
 	</statement>
 </principle>
 
