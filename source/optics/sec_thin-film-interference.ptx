@@ -1,20 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_thin-film-interference" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Thin Film Interference</title>
+    <title>Thin-film Interference</title>
 
-    <p>When light is incident on a boundary where the index of refraction is changing, some of the light is reflected and some is transmitted. Consider the situation below, which could represent a thin layer of oil between air and water.</p>
+    <p>
+        One of the most commonly encountered instances of light wave interference in the real world occurs when light reflects off a thin substance.  For example, in the picture below, the edges of the reflection are purple because of interference that is constructive for some wavelengths of light and destructive for other wavelengths, preventing the full spectrum of light from reaching the eye.
+    </p>
+
+<figure xml:id="bubble">
+			<title>Bubble with Reflection</title>
+		<caption>A bubble exhibiting thin-film interference.</caption>
+        <image source="Bubble.png" width = "50%" ><description></description></image>
+    </figure>
+
+    <p>Another everyday place where you might encounter this phenomenon is with oil on top of water.  Consider, for example, the simplified situation below, which represents a thin layer of oil (region 2) between air (region 1) and water (region 3).</p>
 
     <figure xml:id="thin_film">
-			<title>Thin Film Figure</title>
-		<caption>Thin film interference.</caption>
+			<title>Thin-film Figure</title>
+		<caption>Thin-film interference.</caption>
 		<!--
         <description>An incident ray on a material of a different index of refraction results in a reflected ray (ray 2) and a transmitted, or refracted, ray (ray 3). Ray 3 is then reflected off the lower boundary (ray 4) and transmitted through the next material (ray 6). Ray 4 is transmitted (and refracted) back through the upper boundary, resulting in ray 5. Rays 2 and 5 are what your eye sees.</description>
 				-->
         <image source="optics/openstax-thin-film.png" width = "40%" ><description></description></image>
     </figure>
 
-    <p>Here light ray (1) is the original light beam incident on the top interface. It splits into a reflected ray (2) and a transmitted ray (3). At the bottom interface, the transmitted ray then splits into another reflected ray (4) and transmitted ray (6). Lastly, ray 4 interacts again with the top surface and some of it is transmitted (5). There are more reflections and transmissions, but the first two are the most dominant due to the intensity decreasing at every interface. Now light rays (2) and (5), which can be seen by an eye in the original medium, interference with each other. They are coherent since they originated from the same source and there is a path length difference <m>(\Delta D)</m> between the two.</p>
+    <p>When light is incident on a boundary where the index of refraction is changing, some of the light is reflected and some is transmitted. Here light ray (1) is the original light beam incident on the top interface. It splits into a reflected ray (2) and a transmitted ray (3). At the bottom interface, the transmitted ray then splits into another reflected ray (4) and transmitted ray (6). Lastly, ray 4 interacts again with the top surface and some of it is transmitted (5). There are more reflections and transmissions, but the first two are the most dominant due to the intensity decreasing at every interface. Now light rays (2) and (5), which can be seen by an eye in the original medium, interfere with each other. They are coherent since they originated from the same source and there is a path length difference <m>(\Delta D)</m> between the two.</p>
+
+    <assumption xml:id="assumption-nearly-normal">
+        <title>Nearly Normal Incidence</title>
+             
+        <statement>
+            <p></p>
+            <p>
+                In modeling thin-film interference, it is common to assume that the light is nearly normal to the surfaces.  In the figure above, the rays are shown with nontrivial angles to make it easy to see all the different rays, but nearly normal rays travel <em>perpendicular</em> to the surfaces (in the figure, this would correspond to light rays that are entirely vertical).
+            </p>
+        </statement>
+    </assumption>
 
     <principle>
         <title>Phase Shifts for Reflected Light</title>
@@ -43,9 +64,9 @@
             </exercise>
             <exercise>
                 <title>Oil on Water</title>
-                <statement><p></p><p>Suppose you have the air <m>\rightarrow</m> oil <m>\rightarrow</m> water system described above. The index of refraction for oil is <m>n_{oil} = 1.44</m> and the index of refraction for water is <m>n_{water} = 1.33</m>. For each of the two reflections, identify whether or not there is a phase shift.</p></statement>
+                <statement><p></p><p>Suppose you have the air <m>\rightarrow</m> oil <m>\rightarrow</m> water system described above. The index of refraction for oil is <m>n_{\text{oil}} = 1.44</m> and the index of refraction for water is <m>n_{\text{water}} = 1.33</m>. For each of the two reflections, identify whether or not there is a phase shift.</p></statement>
                 <solution>
-                    <p>Oil has a higher index of refraction than air, so ray (2) has a <m>\pi</m> phase shift. When ray (3) reflects off the bottom surface, it is in oil and bouncing off water. Since <m>n_{water}</m> is smaller than <m>n_{oil}</m> there is no phase shift in reflected ray (4) or in (5) since it is transmitted.</p>
+                    <p>Oil has a higher index of refraction than air, so ray (2) has a <m>\pi</m> phase shift. When ray (3) reflects off the bottom surface, it is in oil and bouncing off water. Since <m>n_{\text{water}}</m> is smaller than <m>n_{\text{oil}}</m> there is no phase shift in reflected ray (4) or in (5) since it is transmitted.</p>
                 </solution>
             </exercise>
 
@@ -60,6 +81,9 @@
     <references>
         <biblio xml:id="ref_boxsand">
             <p>Content provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+        </biblio>
+        <biblio xml:id="ref_bubble">
+            <p><xref ref="bubble"></xref> from https://commons.wikimedia.org/wiki/File:Reflection_in_a_soap_bubble_edit.jpg, included under CC BY-SA 3.0.</p>
         </biblio>
         <biblio xml:id="ref_openstax">
             <p><xref ref="thin_film"></xref> modified from <em>OpenStax</em>, https://openstax.org/books/college-physics-2e/pages/27-7-thin-film-interference</p>

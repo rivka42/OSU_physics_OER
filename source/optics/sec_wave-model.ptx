@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_wave-model" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Wave Model for Light</title>
+    <title>A Wave Model for Light</title>
 		
-		<p>Up to this point, you have been using the ray model for light, which assumes that light travels in straight lines, somewhat like an ordinary particle of matter.  It turns out that light can be a little more complicated than that.</p>
+		<p>In your everyday experience, light mostly behaves in a way that is consistent with the ray model, which assumes that light travels in straight lines, somewhat like an ordinary particle of matter.  However, in some situations light will also exhibit wavelike properties.</p>
   
     <video youtube="Iuv6hY6zsd0"><description>An alternate model for light.</description></video>
 
-    <p>Light can also be described as a wave! The wave-particle duality of light is extremely useful, especially when the wavelength of light is comparable to the size of any mechanism or object the light is interacting with. In these cases, you will use the wave nature of light to explain what you are seeing.</p>
+    <p>The wave-particle duality of light is extremely useful, especially when the wavelength of light is comparable to the size of any mechanism or object the light is interacting with. In these cases, you will use the wave nature of light to explain your observations.</p>
 
-    <principle xml:id="prin_Huygen">
-        <title>Huygen's Principle</title>
-        <statement>
-          <p></p>
-          <p>Every point along a wave front can be considered a source of a waves emanating from that point in the direction of light propagation.</p>
-          <figure>
-			<title>Huygen's Principle Figure</title>
-            <caption>A diagram of Huygen's Princple. As light travels through an opening, each point along a wave front can be understood as a source of waves.</caption>
-            <image source="optics/huygens.jpg" width = "75%"><description>A single slit of width a sits horizontally. A straight line sits inside the slit, parallel to the slits. Seven dots are evenly distributed across this line. Multiple concentric half circles extend outwards from each point, travelling upwards.</description></image>
-          </figure>
-        </statement>
-    </principle>
+
 
     <exercises>
-        <title>Wave Model Activities</title>
+        <title>Wave Model Exploration</title>
+        <p>Spend some time playing with the <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html" visual="light interference simulation"/>. Click on the <q>Interference</q> tab, and on the right hand side, choose the laser pointer option.  Make a list of your observations as you are playing with the simulation, then use your observations to answer the following questions.
+        </p>
         <exercise>
-            <title>Wave Interference</title>
-            <p></p>
-            <p>Spend some time playing with the <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html" visual="light interference simulation"/>. Click on the <q>Interference</q> tab, and on the right hand side, choose the laser pointer option.</p>
-        <p>Make some observations as you are playing with the simulation. What happens if you separate the lasers as far as possible? What happens if you bring them as close together as possible? What happens when you change the frequency?</p>
+        <p>When you look at the screen, how would you describe the pattern of light and dark spots that you observe?  Why do you think this pattern appears?</p>
+        </exercise>
+        <exercise>
+        <p>What happens on the screen if you separate the lasers as far as possible?</p>
+        </exercise>
+        <exercise>
+        <p>What happens on the screen if you bring the lasers as close together as possible?</p>
+        </exercise>
+        <exercise>
+        <p>What happens on the screen when you change the frequency?</p>
         </exercise>
         
     </exercises>
 		
+    <p>
+      <alert>In general, the wave property of light that is most apparent in the world is interference that arises between two (or more) light waves.</alert>  For this interference to occur, the light waves must typically be <term>coherent</term>; that is, they have the same wavelength.
+    </p>
 		
 		<references>
 <biblio xml:id="lightver">

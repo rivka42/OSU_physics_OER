@@ -13,6 +13,9 @@
         <title>Quantum Model Activities</title>
             <exercise xml:id="x_quantum_model">
                 <title>Photoelectric Effect</title>
+                <p>
+                    
+                </p>
                 <p>The Photoelectric Effect occurs when light hits a material, and some of the electrons that were a part of the material are kicked off as they absorb the energy of the incoming photons. This phenomenon was first seen by Heinrich Hertz in 1887.</p>
                 <p>To understand how this effect works, play with this <url href="https://phet.colorado.edu/en/simulations/photoelectric" visual="Photoelectric Effect simulation"/> for a few minutes. This is a simulation of light with some wavelength hitting different types of targets, and kicking off electrons. The electrons travel across the gap, to another plate, and produce a current. For now, we aren't interested in the circuitry of the set-up, we are just going to make observations about what we are seeing.</p>
                 <p>Now answer the following questions by investigating them with the simulation.</p>

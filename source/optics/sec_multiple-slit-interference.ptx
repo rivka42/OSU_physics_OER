@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_multiple-slit-interference" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Application: Multiple-Slit Interference</title>
-    <p>As more and more slits are added, the interference pattern and the intensity of the light is altered.</p>
+    <title>Many-slit Interference</title>
+    <p>In the previous section, you built a model for what happens when light is incident on two very narrow slits.  As more and more slits are added, the interference pattern and the intensity of the light is altered.</p>
 
     <exercises>
-        <title>Multiple-Slit Interference</title>
+        <title>Many-slit Interference</title>
         <!-- Inspired by Paul's in-class activity -->
         <p>To understand how the interference pattern changes, let's work through what happens if you add a third slit to the screen. Let's consider three points on the screen: the central maximum, the first bright spot, and the first dark spot.</p>
         <figure>
