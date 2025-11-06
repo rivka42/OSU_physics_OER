@@ -20,13 +20,13 @@
 			  <p>Explain what information the bar graph representation (from the simulation) displays and how it displays this information.</p>
 </statement>
 <answer>
-<lemma xml:id="r_energy-bar-chart">
+<conjecture xml:id="r_energy-bar-chart">
 	<title>Energy Bar Chart</title>
 	<statement>
 		<p></p>
 	<p>An energy bar chart is a graphical representation where each form of energy in a system is represented by a vertical bar.  It is often common to draw a different bar chart for each instant of interest.</p>
 	</statement>
-	</lemma>
+	</conjecture>
 </answer>
 			</exercise>
 			</exercises>

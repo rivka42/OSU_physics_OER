@@ -15,7 +15,7 @@
 
 <p>Systems are crucial to understanding how to apply physics models.  Often, how you decide to group objects into systems is a matter of convenience, but your choice of what is <em>internal</em> to a system will impact what forces you will consider to be important.</p>
 		
-				<lemma>
+				<conjecture>
 			<title>Free-body Diagram</title>
 			<statement>
 			<p></p>
@@ -28,7 +28,7 @@
 			<description></description></image>
   </figure>
 			</statement>
-		</lemma>
+		</conjecture>
 		
 		
 		<note>

@@ -5,7 +5,7 @@
 		
     <video youtube="QqhcN2C6SJA"><description>Introducing charge diagrams.</description></video>
 		
-	<lemma xml:id="rep_charge-diagram">
+	<conjecture xml:id="rep_charge-diagram">
 		<title>Charge Diagram</title>
 		<statement>
 			<p>
@@ -13,7 +13,7 @@
 			</p>
 			<p>A charge diagram shows a simple picture of an object with small <m>+</m> and <m>-</m> labels indicating where charge is present, what type of charge is present, and where the charge density is greatest and smallest.</p>
 		</statement>
-	</lemma>
+	</conjecture>
 
 	<exercises>
 		<title>Activities</title>

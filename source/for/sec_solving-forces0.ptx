@@ -53,7 +53,7 @@
 		This strategy is typically known as the <q>Forces</q> approach to solving problems, or <term>Force Analysis</term>.
 	</p>
 
-	<algorithm xml:id="force-analysis">
+	<hypothesis xml:id="force-analysis">
 	<title>Force Analysis</title>
 		<statement>
 	<ol>
@@ -84,7 +84,7 @@
 		</li>
 	</ol>
 		</statement>
-	</algorithm>
+	</hypothesis>
 
 <exercises>
 	<title>Practice Activities</title>

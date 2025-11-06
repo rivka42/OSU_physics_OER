@@ -12,12 +12,12 @@
 		</statement>
 	</definition>
 	
-					<lemma xml:id="rep_mag-induction-table">
+					<conjecture xml:id="rep_mag-induction-table">
 			<title>Magnetic Induction Tables</title>
 			<statement>
 				<p>A <term>magnetic induction table</term> is a representation that helps you organize and keep track of the various quantities needed for Faraday's Law.  An example table from the video is reproduced below.</p>
 			</statement>
-		</lemma>
+		</conjecture>
 		
 		<table>
   <title>Example Magnetic Induction Table</title>

@@ -5,12 +5,12 @@
 	
 	<p>Recall the <xref ref="r_momentum-vector-diagram" text="title"></xref>, a representation you studied previously.  You can easily adapt this representation for <em>angular momentum</em>.</p>
 			
-<lemma xml:id="r_angular-momentum-vector-diagram">
+<conjecture xml:id="r_angular-momentum-vector-diagram">
 	<title>Angular Momentum Vector Diagram</title>
 	<statement><p></p>
 	<p>An angular momentum vector diagram shows the angular momentum of each object in a system at some initial and later time.  Typically, you should also include the system's total angular momentum and any changes in angular momentum.</p>
 	</statement>
-	</lemma>
+	</conjecture>
 
 
 <exercises>

@@ -5,13 +5,13 @@
 
       <video xml:id="en_vb-mvd" youtube="tVYO30-lkVI"><description>An introduction to momentum vector diagrams.</description></video>
 			
-<lemma xml:id="r_momentum-vector-diagram">
+<conjecture xml:id="r_momentum-vector-diagram">
 	<title>Momentum Vector Diagram</title>
 	<statement>
 		<p></p>
 	<p>A momentum vector diagram shows the momentum of each object in a system at some initial and later time.  Typically, you should also include the system's total momentum and any changes in momentum.</p>
 	</statement>
-	</lemma>
+	</conjecture>
 
 
 <exercises>

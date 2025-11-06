@@ -9,7 +9,7 @@
 	Approaching a context from an energy perspective follows a similar structure, but the goals are often different. 
 </p>
 
-<algorithm xml:id="energy-analysis">
+<hypothesis xml:id="energy-analysis">
 	<title>Energy Analysis</title>
 	<statement>
 <p></p>
@@ -42,7 +42,7 @@
 </ol>
 		
 	</statement>
-</algorithm>
+</hypothesis>
 
 
 				<heuristic xml:id="sense_solve-multiple-ways">

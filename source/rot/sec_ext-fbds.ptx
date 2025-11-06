@@ -22,7 +22,7 @@
 	<p>The gravitational force is a non-contact force, so there is no point of contact for the force to act.  Instead, the gravitational force is treated as acting at the <xref ref="def_center-of-mass" text="title"></xref> of the object.  You will learn how to calculate center of mass in a future section; until then, treat the geometric center of an object as its center of mass, which is true for any symmetrical object.</p>
 	</note>
 	
-				<lemma>
+				<conjecture>
 			<title>Extended Free-body Diagram</title>
 			<statement><p></p>
 	<p>
@@ -30,7 +30,7 @@
 	in which the object is represented as a shape and each force is shown acting <alert>at its point of contact</alert>.  
 	As in a free-body diagram, each force should be labeled using the following symbol <me>\vec{F}_{BC}^A</me> where <m>\vec{F}</m> indicates that the symbol represents a force, the superscript <m>A</m> represents the type of force (for example, <m>G</m> for gravity), <m>B</m> represents the system on which the force is acted, and <m>C</m> represents the system that is exerting the force.</p>
 			</statement>
-		</lemma>
+		</conjecture>
 
 	<exercises>
 	<title>Activities</title>

@@ -50,7 +50,7 @@ In the figure, <m> \theta</m> represents the angle between the two vectors when 
       <video youtube="7sCtIXsKo8s"></video>
     </figure>
 
-				<lemma xml:id="rep_rhr">
+				<conjecture xml:id="rep_rhr">
 			<title>Right Hand Rule</title>
 			<statement><p></p>
 				<p>The direction of the vector <m>\vec{C}</m> that results from the cross product <m>\vec{C} = \vec{A} \times \vec{B}</m> can be determined using the <term>right hand rule</term>.  To use the right hand rule, place your fingers in the direction of <m>\vec{A}</m>, curl them in the direction of vector <m>\vec{B}</m>, and your thumb will point in the direction of vector <m>\vec{C}</m>.</p>
@@ -60,7 +60,7 @@ In the figure, <m> \theta</m> represents the angle between the two vectors when 
     		<image source="RHR.png" width = "25%" ></image>
     </figure>
 			</statement>
-		</lemma>
+		</conjecture>
 		
 <note>
 	<title>What does the cross product mean?</title>

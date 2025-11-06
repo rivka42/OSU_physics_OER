@@ -3,15 +3,19 @@
 <section xml:id="sec_two-slit-interference" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Two-slit Interference</title>
 
- <activity xml:id="x_two-slit-interference">
-                <title>Two-Slit Interference Simulation</title>
-                <p></p>
-                <p>Play with the <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html" visual="light interference simulation"/> for a few minutes. Click on the <q>Slits</q> tab and select the laser. On the right hand side, increase the number of slits to two.</p>
-                <p>Write down some observations. What happens when you move the slit width to its minimum and maximum values? What happens as you increase the slit separation? What happens when you increase and decrease the frequency?</p>
- </activity>
+    <introduction>
+        <p>Start by playing with the <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html" visual="light interference simulation"/> for a few minutes. Click on the <q>Slits</q> tab and select the laser. On the right hand side, increase the number of slits to two.</p>
+        <p>Write down some observations. What happens when you move the slit width to its minimum and maximum values? What happens as you increase the slit separation? What happens when you increase and decrease the frequency?</p>
+    </introduction>
 
-    <video youtube="C0bcn8GAWs4"><description>Quantifying the interference of light incident on two small slits.</description></video>          
+    <subsection>
+        <title>Video Lesson: Two-slit Interference</title>
+        <video youtube="C0bcn8GAWs4"><description>Quantifying the interference of light incident on two small slits.</description></video> 
 
+    </subsection>
+             
+    <subsection>
+        <title>Deriving the Interference Pattern</title>
     <p>
         A powerful wave property allows complicated light waves to be treated as superpositions of simpler light waves.  In particular, any wave front of light can be treated as a collection of point sources of spherical waves, an idea known as Huygen's Principle.
     </p>
@@ -73,6 +77,8 @@
          <p>The Double-Slit Experiment was originally conducted by Thomas Young in 1801 to show that light does indeed behave like a wave. Just like water waves interacting with each other, as light travels through two slits, the crests and troughs of the light waves will interact with each other and produce an interference pattern on the screen behind the slits.  
     </p>
     </insight>
+
+        </subsection>
 
     <exercises>
         <title>Activities</title>

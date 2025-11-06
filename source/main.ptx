@@ -45,7 +45,13 @@
 		This is the new structure, which has smaller chapters
 		-->
 
-	
+		<!--
+		<xi:include href="./ch-n_17_superposition.ptx" />
+		<xi:include href="./ch-n_18_physical-optics.ptx" />
+		<xi:include href="./ch-n_19_optics.ptx" />
+		-->
+
+
 		<xi:include href="./ch-n_01_vectors.ptx" />
     	<xi:include href="./ch-n_02_motion.ptx" />
 		<xi:include href="./ch-n_03_lom.ptx" />
@@ -76,13 +82,16 @@
 		<xi:include href="./ch-n_23_elec-energ-poten.ptx" />
 		<xi:include href="./ch-n_24_equipotential-surf.ptx" />
 
-		<xi:include href="./ch-n_25_circuits-intro.ptx" />
+		<xi:include href="./ch-n_25_circuits-intro.ptx" /> 
 		<!-- <xi:include href="./ch-n_26_circuits-resistors.ptx" /> -->
+		
 		<xi:include href="./ch-n_27_circuits-capacitors.ptx" />
 		
 		<xi:include href="./ch-n_28_magnetism.ptx" />
 		<xi:include href="./ch-n_29_b-from-current.ptx" />
 		<xi:include href="./ch-n_30_faraday.ptx" />
+
+		
 
 
 		<!--<xi:include href="./ch_09_electricity.ptx" />

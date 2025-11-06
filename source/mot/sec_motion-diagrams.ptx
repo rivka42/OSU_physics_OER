@@ -11,12 +11,12 @@
 		<video youtube="nz5rkCiBcso"><description>Dr. Paws on the run.</description></video>
 		</note>
   
-		<lemma xml:id="r_motion-diagram">
+		<conjecture xml:id="r_motion-diagram">
 			<title>Motion Diagram</title>
 			<statement>
 				<p>A <term>motion diagram</term> is a physical representation in which an object is represented at different <em>instants in time</em> that are separated by <em>equal time intervals</em>.  For each instant, you should draw a vector representing the object's <term>position</term>.</p>
 			</statement>
-		</lemma>
+		</conjecture>
 		
 		<p>You will encounter many different representations in physics.  In fact, you have already seen several other representations, including numerical values, symbolic equations, and even verbal descriptions!  Diagrams, graphs, and other visual representations are especially common and useful, as they give you alternative ways to display information in a way that is often compact, simple, and useful.</p>
 		

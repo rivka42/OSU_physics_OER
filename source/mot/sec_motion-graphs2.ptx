@@ -7,13 +7,13 @@
       In general, quantities of motion like position and velocity are <em>functions of time</em>, in which case they might be written as <m>\vec{r}(t)</m> and <m>\vec{v}(t)</m>.  When written in this way, it is often useful to graph position or velocity vs. time.  Such a graph is known as a <term>motion graph</term>.
     </p>
 	
-				<lemma xml:id="rep_motion-graphs">
+				<conjecture xml:id="rep_motion-graphs">
 			<title>Motion Graph</title>
 			<statement>
 				<p></p>
 				<p>A <term>motion graph</term> is a graphical representation showing a motion quantity (like position or velocity) on the vertical axis and <em>time</em> on the horizontal axis.</p>
 				</statement>
-		</lemma>
+		</conjecture>
 		
 			<note>
 	<title>Diagrams vs. Graphs</title>

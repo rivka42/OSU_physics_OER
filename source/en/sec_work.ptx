@@ -26,7 +26,7 @@
 		Since objects frequently have many forces acting on them, it can be useful to keep track in a table like the one introduced below.
 	</p>
 
-	<lemma xml:id="rep_work-table">
+	<conjecture xml:id="rep_work-table">
 		<title>Work Table</title>
 		<statement>
 			<p>
@@ -75,7 +75,7 @@
 				</tabular>
 			  </table>
 		</statement>
-	</lemma>
+	</conjecture>
 
 	<p>
 		At the end of a work table, you can often easily add up the last column to get the net work on the system!  

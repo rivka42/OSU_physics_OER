@@ -30,7 +30,7 @@
     	<image source="wave/snap_hist.png" width = "100%" ></image>
 </figure>
 
-<lemma xml:id="rep_history-graph">
+<conjecture xml:id="rep_history-graph">
 			<title>History Graph</title>
 			<statement>
 				<p>
@@ -38,7 +38,7 @@
 				</p>
 				<p>A <term>history graph</term> is a graph of wave motion showing the position of a fixed part of a medium over time.</p>
 			</statement>
-		</lemma>
+		</conjecture>
     
 <p>
 When you have a history graph, a quantity of note is the <alert>period</alert> <m>T</m>: the time it takes to complete one full oscillation.  As in simple harmonic motion, the period is related to the frequency by 
@@ -66,7 +66,7 @@ Alternatively, you can graph the displacement of the medium over space at a sing
     	<image source="wave/snap_hist2.png" width = "100%" ></image>
 </figure>
 
-<lemma xml:id="rep_snapshot-graph">
+<conjecture xml:id="rep_snapshot-graph">
 			<title>Snapshot Graph</title>
 			<statement>
 				<p>
@@ -74,7 +74,7 @@ Alternatively, you can graph the displacement of the medium over space at a sing
 				</p>
 				<p>A <term>snapshot graph</term> is a graph of wave motion showing the position of all parts of a medium at a fixed time.</p>
 			</statement>
-		</lemma>
+		</conjecture>
 
 <p> 
 Now, the quantity of note is the <em>distance</em> spanned from one crest of the wave to the next, or the <alert> wavelength </alert>, symbolized by <m> \lambda </m>.

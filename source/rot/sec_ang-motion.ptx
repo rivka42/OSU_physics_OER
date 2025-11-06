@@ -53,7 +53,7 @@
 
 	<p>As with translational motion quantities, the angular motion quantities are vectors, with both magnitude and direction.  For straightforward examples of angular motion in which the axis of rotation<fn>the line passing through the center of the circle perpendicular to the plane of the circle</fn> does not change, the direction may often be summarized as clockwise or counterclockwise, but the true direction of the angular motion quantities is along the axis of rotation.</p>
 				
-				<lemma xml:id="rep_angular-vectors">
+				<conjecture xml:id="rep_angular-vectors">
 			<title>Direction of Angular Vectors</title>
 			<statement><p></p>
 				<p>The direction of an angular vector points along the axis of rotation.  
@@ -61,7 +61,7 @@
 					corresponds to counterclockwise while the vector pointing inward (in the negative <m>z</m>-direction) corresponds 
 					to clockwise.</p>
 			</statement>
-		</lemma>
+		</conjecture>
 
 
 	<exercises>

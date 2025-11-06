@@ -254,7 +254,7 @@
   
     </subsection>
 
-<algorithm xml:id="chop-multiply-add">
+<hypothesis xml:id="chop-multiply-add">
   <title>Chop-Multiply-Add</title>
   <statement>
     <p>
@@ -268,7 +268,7 @@
     
       <p><term>Add:</term> Last, add up all the infinitesimal pieces of the relevant quantity: for example <m>M = \int_{x_i}^{x_f}\lambda dx</m>.</p>  
   </statement>
-</algorithm>
+</hypothesis>
 
     
 	

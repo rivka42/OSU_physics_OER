@@ -5,12 +5,12 @@
 	
 	<p>You now have two major quantities for describing motion: <em>position</em> and <em>velocity</em>.  You want to make sure both kinds of quantities can be encoded in a <em>motion diagram</em>.</p>
 	
-			<lemma xml:id="rep_motion-diagrams-velocity">
+			<conjecture xml:id="rep_motion-diagrams-velocity">
 			<title>Motion Diagram</title>
 			<statement>
 				<p>A <term>motion diagram</term> is a physical representation in which an object is represented at different <em>positions</em> that are separated by <em>equal time intervals</em>.  For each instant, you can draw and label a vector indicating the velocity of our object of interest.</p>
 			</statement>
-		</lemma>
+		</conjecture>
 	
 			<p>The simplest possible motion is motion along a straight-line path with a constant, unvarying speed. Let's imagine a car that is driving to the right at a constant speed. Suppose you take images at a regular time interval, once every second:</p>
 		

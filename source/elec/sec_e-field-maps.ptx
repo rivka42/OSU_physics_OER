@@ -11,7 +11,7 @@ Electric fields exist in three dimensions of space around any charge or charge d
 		
     <video youtube="DbYsyQ1xpdQ"><description>Introducing electric field vector maps.</description></video>
 				
-	<lemma xml:id="rep_vector-map">
+	<conjecture xml:id="rep_vector-map">
 		<title>Electric Field Vector Map</title>
 		<statement>
 		<p>
@@ -19,7 +19,7 @@ Electric fields exist in three dimensions of space around any charge or charge d
 		</p>
 			<p>An electric field vector map shows a vector at many different points in space to highlight the direction and magnitude of the electric field in different regions of space.  The electric fields can be different at every point in space, so you should always draw enough vectors to get a good sense for how the field is changing.</p>
 		</statement>
-	</lemma>
+	</conjecture>
 
 	<p>For a given point in space, electric field vector maps tell us how big and in what direction the electric field is.</p>
 

@@ -23,6 +23,7 @@
 --sectiontitle: var(--documenttitle);
 --subsectiontitle: var(--documenttitle);
 --exercisestitle: var(--documenttitle);
+--conclusiontitle: var(--documenttitle);
 
 /* Set colors for block titles */
 }
@@ -56,38 +57,41 @@
   width: 1em;
 }
 
+.ptx-content article.computation-like,
+.ptx-content article.axiom-like,
 .ptx-content article.theorem-like,
 .ptx-content article.definition-like,
 .ptx-content article.example-like,
 .ptx-content article.project-like,
 .ptx-content article.remark-like,
 .ptx-content article.openproblem-like,
-.ptx-content article.openproblems-like,  /* delete once markup is fixed */
-.ptx-content article.computation-like {
+.ptx-content article.openproblems-like  /* delete once markup is fixed */
+ {
     padding-left: 0.4em;
     border-left: 1.5pt solid var(--sectiontitle);
 }
 
+.ptx-content.epub article.computation-like,
+.ptx-content.epub article.axiom-like,
 .ptx-content.epub article.theorem-like,
 .ptx-content.epub article.definition-like,
 .ptx-content.epub article.example-like,
 .ptx-content.epub article.project-like,
 .ptx-content.epub article.remark-like,
 .ptx-content article.openproblem-like,
-.ptx-content article.openproblems-like,  /* delete once markup is fixed */
-.ptx-content.epub article.computation-like {
+.ptx-content article.openproblems-like  /* delete once markup is fixed */
+ {
     margin-left: px;
 }
 
-
-
-
+.ptx-content article.computation-like::after,
+.ptx-content article.axiom-like::after,
 .ptx-content article.theorem-like::after,
 .ptx-content article.definition-like::after,
 .ptx-content article.project-like::after,
 .ptx-content article.openproblem-like::after,
-.ptx-content article.openproblems-like::after,  /* delete once markup is fixed */
-.ptx-content article.computation-like::after {
+.ptx-content article.openproblems-like::after  /* delete once markup is fixed */
+ {
     content:'';
   border-bottom: 1.5pt solid var(--sectiontitle);
   margin-bottom: 20pt;
@@ -111,7 +115,6 @@
     padding-top: 0.25em;
 }
 /* STOP HERE */
-
 
 
 /* projects get a dotted L */
@@ -140,21 +143,33 @@
     width: 1.5em;
 }
 
-.ptx-content .assemblage-like {
-    border: solid 2px #1100AA;
-    border-radius: 12px;
-    padding: 10px;
-    background-color: #f4f4fe;
+
+
+
+.ptx-content .lemma::after {
+border-bottom: 0;
+  margin-bottom: 0;
 }
 
-.ptx-content .assemblage-like .heading {
+.ptx-content .assemblage-like,
+.ptx-content .lemma {
+    border: solid 2px var(--documenttitle);
+    border-radius: 12px;
+    padding: 10px;
+    background-color: #efeeed;
+}
+
+.ptx-content .assemblage-like .heading,
+.ptx-content .lemma .heading {
     margin-top: 0;
 }
 
-.ptx-content .assemblage-like + .sidebyside {
+.ptx-content .assemblage-like + .sidebyside,
+.ptx-content .lemma + .sidebyside {
     margin-top: 1.25em;
 }
-.ptx-content section article.assemblage-like .heading + .para {
+.ptx-content section article.assemblage-like .heading + .para,
+.ptx-content section article.lemma .heading + .para {
     display: block;
 }
 
@@ -333,6 +348,8 @@
   width: 90%;
 }
 
+
+
 .ptx-content section.poem h3.heading {
   color: var(--sectiontitle);
   border-bottom: 1pt solid;
@@ -462,4 +479,9 @@
   .ptx-content li > .aside-like:last-child {
     position: absolute;
 }
+
+.ptx-content .solution {
+    background-color: var(--documenttitle);
+}
+
 }

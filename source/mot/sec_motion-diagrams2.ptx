@@ -24,13 +24,13 @@
 				-->
 			</exercise>
 			
-						<lemma xml:id="r_strobe-diagram">
+						<conjecture xml:id="r_strobe-diagram">
 			<title>Strobe Diagram</title>
 			<statement>
 				<p></p>
 				<p>A <term>strobe diagram</term> is a physical representation in which an object is represented at different <em>instants in time</em> that are separated by <em>equal time intervals</em>.  For each instant, you can draw a vector (starting at the origin) to represent the object's <term>position</term>.</p>
 				</statement>
-		</lemma>
+		</conjecture>
 		
 		<note>
 		<title>Representations in Physics</title>
@@ -68,7 +68,7 @@
 							
 			<p>You will typically use a strobe diagram to make an even richer representation known as a <alert>motion diagram</alert>.</p>
 			
-			<lemma xml:id="r_motion-diagram">
+			<conjecture xml:id="r_motion-diagram">
 			<title>Motion Diagram</title>
 			<statement>
 				<p></p>
@@ -76,7 +76,7 @@
 				For each instant, you should draw a vector representing the object's <term>velocity</term>.  
 				Often, it is also useful to draw vectors representing the object's <term>acceleration</term>.</p>
 				</statement>
-		</lemma>
+		</conjecture>
 		
 		<exercise>
 	<p>At each point on your diagram, add a vector representing the instantaneous velocity at that instant.  You should be able to explain how you used the position vectors you have already drawn to determine both the magnitude and the direction of your new velocity vectors.</p>

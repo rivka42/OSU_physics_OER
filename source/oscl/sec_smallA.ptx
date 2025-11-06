@@ -19,8 +19,6 @@ Both expressions above are valid only when <m>\theta</m> is measured in radians.
 
 <assumption xml:id="assumption-smallA">
 	<title>Small-angle Approximation</title>
-	
-	
 	<statement>
 		<p>
 		</p>
@@ -28,6 +26,8 @@ Both expressions above are valid only when <m>\theta</m> is measured in radians.
 		 For sufficiently small angles, sine and cosine may be approximated as:
 <me> \sin(\theta) \approx \theta</me>
 <me> \cos(\theta) \approx 1 - \frac{\theta^2}{2!}</me>
+		Similarly, tangent may be approximated as:
+		<me> \tan(\theta) \approx \theta</me>
 		</p>
 	</statement>
 </assumption>

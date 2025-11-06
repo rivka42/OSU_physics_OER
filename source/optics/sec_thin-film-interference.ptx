@@ -2,16 +2,28 @@
 
 <section xml:id="sec_thin-film-interference" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Thin-film Interference</title>
-
+    <introduction>
     <p>
-        One of the most commonly encountered instances of light wave interference in the real world occurs when light reflects off a thin substance.  For example, in the picture below, the edges of the reflection are purple because of interference that is constructive for some wavelengths of light and destructive for other wavelengths, preventing the full spectrum of light from reaching the eye.
+        One of the most commonly encountered instances of interference between light waves in the real world occurs when light reflects off a thin substance.  For example, in the picture below, the edges of the reflection are purple because of interference that is constructive for some wavelengths of light and destructive for other wavelengths, preventing the full spectrum of light from reaching the eye.
     </p>
+    </introduction>
 
-<figure xml:id="bubble">
+    <figure xml:id="bubble">
 			<title>Bubble with Reflection</title>
 		<caption>A bubble exhibiting thin-film interference.</caption>
         <image source="Bubble.png" width = "50%" ><description></description></image>
     </figure>
+
+    <subsection xml:id="subsec-">
+        <title>Example: Oil on Water</title>
+        
+<!--
+    <conjecture>
+        <title>Clarification</title>
+    <p>Another everyday place where you might encounter this phenomenon is with oil on top of water.  Consider, for example, the simplified situation below, which represents a thin layer of oil (region 2) between air (region 1) and water (region 3).</p>    
+    </lemma>
+-->
+
 
     <p>Another everyday place where you might encounter this phenomenon is with oil on top of water.  Consider, for example, the simplified situation below, which represents a thin layer of oil (region 2) between air (region 1) and water (region 3).</p>
 
@@ -46,12 +58,14 @@
     <observation>
         <title>Where does the phase shift come from?</title>
         <p>An analogy to the phase shift for reflected light is a wave pulse interacting with a medium of a higher density 
-        (slower wave speed). As seen in <xref ref="lo_hi"></xref>, 
+        (slower wave speed). As seen in the <xref ref="lo_hi"></xref>, 
         once the wave starts to interact with the higher density string, the reflected wave is inverted, 
-        shifting the wave by half of a cycle <m>(\pi)</m>. In contrast, as seen in <xref ref="hi_lo"></xref>, 
+        shifting the wave by half of a cycle <m>(\pi)</m>. In contrast, as seen in the <xref ref="hi_lo"></xref>, 
         once the wave starts to interact with the lower density string, the reflected wave is not inverted. 
         The transmitted pulse does not invert in either case.</p>
     </observation>
+
+    </subsection>
 
     <exercises>
         <title>Activities</title>

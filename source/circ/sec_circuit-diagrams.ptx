@@ -3,12 +3,12 @@
 <section xml:id="sec_circuit-diagrams" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>Circuit Diagrams</title>
 
-	<lemma xml:id="rep_circuit-diagrams">
+	<conjecture xml:id="rep_circuit-diagrams">
 		<title>Circuit Diagrams</title>
 		<statement>
 			<p>A circuit diagram is a simplified representation of a real circuit where each element is given a simple icon connected by straight lines corresponding to ideal wires.  Common circuit elements are shown in the figure below.</p>
 		</statement>
-	</lemma>
+	</conjecture>
 	
 	<figure xml:id="CD_First">
 			  <title>Example Circuit Diagram</title>

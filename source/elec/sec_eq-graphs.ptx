@@ -7,12 +7,12 @@
 	
 	<p>Similar to contour or topographical maps, equipotential graphs are extremely useful to see where the electric potential is constant throughout some region of space. Typically, equipotential lines will be drawn with the same difference in potential between two adjacent lines.</p>	
 				
-	<lemma xml:id="rep_eq-graphs">
+	<conjecture xml:id="rep_eq-graphs">
 		<title>Equipotential Graphs</title>
 		<statement>
 			<p>An equipotential graph or diagram shows lines in space where the electric potential is constant, given some electric field or charge distribution. </p>
 		</statement>
-	</lemma>
+	</conjecture>
 
 	<exercises>
 		<title>Activities</title>

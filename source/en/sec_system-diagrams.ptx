@@ -5,7 +5,7 @@
 		      
       <video youtube="D8MzvLM2m64"><description>An introduction to energy system diagrams.</description></video>
 
-				<lemma>
+				<conjecture>
 			<title>Energy System Diagram</title>
 			<statement>
 				<p>
@@ -18,7 +18,7 @@
 					Arrows connecting the systems represent the transfer of energy between systems, 
 					while arrows between the boxes represent the transformation of energy from one form to another within a system.</p>
 			</statement>
-		</lemma>
+		</conjecture>
 		
 		<p>The study of energy is even more strongly concerned with systems (<xref ref="def_system"></xref>) than the study of forces.  When you identify a system of interest, you want to know which things are internal and which are external to that system.  <em>Internal</em> interactions result in the transformation of energy from one form to another, while <em>external</em> interactions result in the transfer of energy from one system to another.</p>
 				
