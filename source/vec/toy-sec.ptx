@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_toy-sec" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Toy Section</title>
+
+<introduction>
+	<p>
+		This section has examples of all the pretext elements.
+	</p>
+</introduction>
+		
+<subsection xml:id="subsec-Remark-like">
+	<title>Remark-like</title>
+	<remark>
+		<title>Remark</title>
+		<p>
+			This is a Remark.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+		</p>
+	</remark>
+	<convention>
+		<title>Convention</title>
+		<p>
+			This is a Convention.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+		</p>
+	</convention>
+	<note>
+		<title>Note</title>
+		<p>
+			This is a Note.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+		</p>
+	</note>
+	<observation>
+		<title>Observation</title>
+		<p>
+			This is an Observation.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+		</p>
+	</observation>
+	<warning>
+		<title>Warning</title>
+		<p>
+			This is a Warning.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+		</p>
+	</warning>
+	<insight>
+		<title>Insight</title>
+		<p>
+			This is an Insight.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+		</p>
+	</insight>
+</subsection>
+
+<subsection xml:id="subsec-Example-like">
+	<title>Example-like</title>
+	<example>
+		<title>Example</title>
+		<p>
+			This is an Example.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have tasks, hints, answers, and solutions, but they cannot be removed.
+		</p>
+	</example>
+	<question>
+		<title>Question</title>
+		<p>
+			This is a Question.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have tasks, hints, answers, and solutions, but they cannot be removed.
+		</p>
+	</question>
+	<problem>
+		<title>Problem</title>
+		<p>
+			This is a Problem.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have tasks, hints, answers, and solutions, but they cannot be removed.
+		</p>
+	</problem>
+</subsection>
+
+<subsection xml:id="subsec-Project-like">
+	<title>Project-like</title>
+	<project>
+		<title>Project</title>
+		<p>
+			This is a Project (A*R*C*S).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have hints, answers, and solutions.
+		</p>
+	</project>
+	<activity>
+		<title>Activity</title>
+		<p>
+			This is an Activity.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have hints, answers, and solutions.
+		</p>
+	</activity>
+	<exploration>
+		<title>Exploration</title>
+		<p>
+			This is an Exploration (Calculation).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have hints, answers, and solutions.
+		</p>
+	</exploration>
+	<investigation>
+		<title>Investigation</title>
+		<p>
+			This is an Investigation (Explanation Task).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have hints, answers, and solutions.
+		</p>
+	</investigation>
+</subsection>
+
+<subsection xml:id="subsec-Theorem-like">
+	<title>Theorem-like</title>
+	<theorem>
+		<title>Theorem</title>
+		<p>
+			This is a Theorem.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+		</p>
+	</theorem>
+	<corollary>
+		<title>Corollary</title>
+		<p>
+			This is a corollary.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+		</p>
+	</corollary>
+	<axiom>
+		<title>Axiom</title>
+		<p>
+			This is an Axiom.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+		</p>
+	</axiom>
+	<algorithm>
+		<title>Algorithm</title>
+		<p>
+			This is an Algorithm.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+		</p>
+	</algorithm>
+	<proposition>
+		<title>Proposition</title>
+		<p>
+			This is a Proposition.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+		</p>
+	</proposition>
+	<claim>
+		<title>Claim</title>
+		<p>
+			This is a Claim.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+		</p>
+	</claim>
+	<fact>
+		<title>Fact</title>
+		<p>
+			This is a Fact.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+		</p>
+	</fact>
+	<identity>
+		<title>Identity</title>
+		<p>
+			This is an Identity.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+		</p>
+	</identity>
+</subsection>
+
+<subsection xml:id="subsec-Definition-like">
+	<title>Definition-like</title>
+	<definition>
+		<title>Definition</title>
+		<p>
+			This is a Definition.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have hints, answers, and solutions.
+		</p>
+	</definition>
+</subsection>
+
+<subsection xml:id="subsec-Aside-like">
+	<title>Aside-like</title>
+	<aside>
+		<title>Aside</title>
+		<p>
+			This is an Aside.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+		</p>
+	</aside>
+	<biographical>
+		<title>Biographical</title>
+		<p>
+			This is a Biographical.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+		</p>
+	</biographical>
+	<historical>
+		<title>Historical</title>
+		<p>
+			This is a Historical.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+		</p>
+	</historical>
+</subsection>
+
+<subsection xml:id="subsec-Computation-like">
+	<title>Computation-like</title>
+	<computation>
+		<title>Computation</title>
+		<p>
+			This is an Computation.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+		</p>
+	</computation>
+	<technology>
+		<title>Technology</title>
+		<p>
+			This is a Technology.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+		</p>
+	</technology>
+	<data>
+		<title>Data</title>
+		<p>
+			This is a Data.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+		</p>
+	</data>
+</subsection>
+
+<subsection xml:id="subsec-Objectives-like">
+	<title>Objectives-like</title>
+	<objectives>
+		<title>Objectives</title>
+		<p>
+			This is an Objectives.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+		</p>
+	</objectives>
+	<outcomes>
+		<title>Outcomes</title>
+		<p>
+			This is an Outcomes.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+		</p>
+	</outcomes>
+</subsection>
+
+<subsection xml:id="subsec-Other">
+	<title>Other</title>
+	<assemblage>
+		<title>Assemblage</title>
+		<p>
+			This is an Assemblage.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+		</p>
+	</assemblage>
+	<poem>
+		<title>Poem</title>
+		<p>
+			This is a Poem.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+		</p>
+	</poem>
+	<exercise>
+		<title>Exercise</title>
+		<p>
+			This is a free-standing Exercise.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+		</p>
+	</exercise>
+</subsection>
+
+</section>
+
