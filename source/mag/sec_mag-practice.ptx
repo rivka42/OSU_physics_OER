@@ -51,6 +51,19 @@
 		<title>A*R*C*S Practice</title>
 
 		<project>
+			<title>Semi-Circular Wire</title>
+			<statement>
+				<p>
+					Use the Biot-Savart law to find the magnetic field strength at the center of the semicircle in the figure below.
+				</p>
+				<figure xml:id="fig-curved_wire">
+					<caption>Semi-circular current carrying wire segment.</caption>
+					<image source="mag/curved-wire.png" width = "40%" ></image>
+				</figure>
+			</statement>
+		</project>
+
+		<project>
 			<title>Loop of Wire</title>
 			<statement>
 				<p>

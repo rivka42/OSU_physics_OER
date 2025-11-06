@@ -13,20 +13,6 @@
 	<m> \mathrm{~}</m>
 	-->
 
-	<figure xml:id="fig-curved_wire">
-    	<caption>Semi-circular current carrying wire segment.</caption>
-    	<image source="mag/curved-wire.png" width = "40%" ></image>
-	</figure>
-
-	<project>
-		<title>Semi-Circular Wire</title>
-		<statement>
-			<p>
-				Use the Biot-Savart law to find the magnetic field strength at the center of the semicircle in the figure above.
-			</p>
-		</statement>
-	</project>
-
 	<project>
 		<title>Solenoid</title>
 		<statement>
@@ -43,6 +29,11 @@
 
 	<subsection>
 		<title>Metacognitive Reflection</title>
+		<statement>
+			<p>
+				Write a short paragraph discussing how a changing magnetic field can result in an induced current. As part of your description, highlight specific activities you completed this week.
+			</p>
+		</statement>
 	</subsection>
 
 
