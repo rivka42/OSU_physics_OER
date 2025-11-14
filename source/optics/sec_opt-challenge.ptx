@@ -37,6 +37,64 @@
 				Sensemaking suggestion: What type of lens is this? How can you tell?
 			</p>
 		</hint>
+		<!--
+		<solution>
+			<p>
+				1 - Analyze and Represent
+			</p>
+			<p>
+a) We are looking for the focal length of the eye given object and image locations.
+
+<me>d_o = +25 \mathrm~{cm}</me> (positive because the object is real)
+
+<me>d_i = +2.4 \mathrm{~cm}</me> (positive because the image is real, or no light would reach the cells in the back of your eye that can detect light)
+
+<me>f = ?</me>
+
+b) There are a lot of assumptions that go into modeling the eye like this (probably more than we mention here).  Most importantly, we are treating the eye as a thin, spherical lens, and ignoring the curvature at the back of the eye.  This means that we are ignoring any spherical aberration.
+			</p>
+			<p>
+
+c) Shown in the figure is a diagram of an eye with two of the principal rays traced through the eye, including the ray that passes through the inner focal point of the eye.
+			</p>
+<figure xml:id="fig_human-eye">
+			<title>Human Eye Figure</title>
+			<caption>A ray diagram for the eye.</caption>
+			<image source="4_3Eye.png" width = "75%">
+				<description></description>
+			</image>
+		</figure>
+
+<p>2 - Calculate</p>
+<p>
+a) Because we are treating the eye like a thin lens, we can use the thin lens equation: <me>\frac{1}{d_o} + \frac{1}{d_i} = \frac{1}{f}</me>
+
+b) We just need to get a common denominator!
+
+<me>f = \frac{d_od_i}{d_o + d_i}</me> 
+
+c)
+
+<me>f = \frac{25*2.4}{25+2.4} = +2.18 \mathrm{~cm}</me>
+</p>
+<p>
+3 - Sensemake
+</p>
+<p>
+a) The units of a focal length should be cm (meters is too big for the eye).  The symbolic expression has only quantities with units of length (cm), but it has two of them multiplied together in the numerator and only one factor of cm in the denominator because the quantities are added.  <me>\frac{cm*cm}{cm} = cm</me>
+
+
+
+b) The numerical answer we got is +2.18 cm, which is similar in magnitude to the size of the eye itself.  (Note that the focal length of your eye can and does change depending on how far away you're trying to look, but the range over which it can change is not very large, so we don't want an answer here that is significantly bigger or smaller than the diameter of the eye.)  Since this answer is positive, the lens in our eye must be a converging lens (which has positive <m>f</m> by definition).
+</p>
+
+<p>
+c) This is a good opportunity for a special case!  If we put the object very far away (like you're looking at a mountain in the distance), then <m>d_o</m> goes to infinity.  (In the eye, <m>d_i</m> is always the same because you need the image to form on your retina.)  You can evaluate this limit using our symbolic answer for <m>f</m> with L'Hopital's rule, or go back to the thin lens equation, and in this case you end up getting that <m>f = d_i</m>, meaning that the focal length of the eye changes to be equal to the eye's diameter.  This agrees with what we saw (for example) in the PhET simulation about converging lenses: all the light that comes in parallel to the axis (as light must do if it's infinitely far away) is refracted through the focus.
+
+
+			</p>
+		</solution>
+		-->
 	</project>
 
 <activity xml:id="x_meta-ray-optics">

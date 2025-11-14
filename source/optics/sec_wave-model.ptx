@@ -39,13 +39,49 @@
     </exercises>
 		
     <subsection>
-      <title>Conclusion</title>
-      <assemblage>
-        <title>Light Can Be Wavelike</title>
+      <title>Conclusion: Light Can Be wavelike</title>
+
+<p>
+  <alert>For each property of waves you have previously studied, there is a corresponding property of light.</alert>
+</p>
+
+<assemblage>
+        <title>Displacement and Amplitude</title>
         <p>
-      <alert>In general, the wave property of light that is most apparent in the world is interference that arises between two (or more) light waves.</alert>  For this interference to occur, the light waves must typically be <term>coherent</term>; that is, they have the same wavelength.
+        Unlike mechanical waves that involve displacement of a physical medium, such as sound or water waves, light is an <em>electromagnetic wave</em>.  Instead of displacement, the quantities that are described as waves are the electric and magnetic fields. 
     </p>
       </assemblage>
+        
+<assemblage>
+        <title>Wave Speed</title>
+        <p>
+        In a vacuum, light travels at a constant speed given by <m>c = 299,792,458 /mathrm{~m/s}</m>.  In a medium, light travels at a speed characterized by the index of refraction as <m>v = \frac{c}{n}</m>.
+        </p>
+      </assemblage>
+
+      <assemblage>
+        <title>Frequency and Wavelength</title>
+        <p>
+        Light with a different frequency (or different wavelengths) is perceived as having a different color.
+      </p>
+      </assemblage>
+
+      <assemblage>
+        <title>Intensity</title>
+        <p>
+        The intensity of a light wave is still proportional to the square of the wave's amplitude.  Light with a different intensity is perceived as having a different brightness.
+    </p>
+      </assemblage>
+
+      <assemblage>
+        <title>Superposition and Interference</title>
+        <p>
+        Two (or more) light waves can be added together using superposition and can give rise to interference.  Light waves must typically be <term>coherent</term> (that is, they have the same wavelength) to exhibit interference phenomena.
+    </p>
+      </assemblage>
+
+
+      
     
   </subsection>
 		<references>

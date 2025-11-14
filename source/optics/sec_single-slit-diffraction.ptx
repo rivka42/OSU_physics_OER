@@ -9,6 +9,7 @@
     <principle>
         <title>Single-Slit Diffraction</title>
         <statement>
+            <p></p>
           <p>The location of dark spots due to light shining through a single slit on a distant screen can be determined by <m>a \sin\theta = p \lambda</m> for <m>p = 1, 2, 3, ...</m>.</p>
         </statement>
     </principle>

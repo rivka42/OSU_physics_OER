@@ -10,13 +10,31 @@
 	If you want a Calculate activity, use the <problem> tag.  (This tag is Example-like, not Project-like, so you cannot embed lettered steps into it using <task>.
 	-->
 
-	<subsection>
-<title>Apply</title>
+<investigation xml:id="pa_opt-2">
+		<title>A Dark Spot on the Screen</title>
+		<statement>
+			<p></p> 
+			<p>
+				A laser shines through a single slit of unknown width <m>a</m>. You observe at least one dark spot on a distant screen.  Is the width of the slit <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the wavelength of the laser?
+			</p>
+		</statement>
+		</investigation>
 
+		<project xml:id="pa_opt-10">
+		<title>Intensity on the Screen</title>
+		<statement>
+			<p></p> 
+			<p>
+				You have a laser with wavelength <m>\lambda = 550 \mathrm{~nm}</m>.  You shine this laser through the mask with two slits shown below, where <m>s = 0.5 \mathrm{~mm}</m>.  Create and label a diagram of the pattern that appears on a screen that has been placed a distance <m>L = 2.0 \mathrm{~m}</m> away from the mask.  The location of bright and dark spots should be quantitatively accurate; the relative intensity should be qualitatively accurate.  Your diagram should include many bright and dark spots (enough to see all the interesting parts of the pattern), and you should include additional diagrams alongside your sensemaking.
 
-
-
-</subsection>
+			</p>
+			<figure>
+			<title>Mask with Two Slits</title>
+            <caption>A mask with two slits.</caption>
+            <image source="Masks.png" width = "75%"><description></description></image>
+          </figure>
+		</statement>
+	</project>
 
 </section>
 

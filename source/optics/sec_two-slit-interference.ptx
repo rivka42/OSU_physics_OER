@@ -78,6 +78,21 @@
     </p>
     </insight>
 
+    <conjecture xml:id="r_intensity-graph">
+			<title>Intensity Graph</title>
+			<statement>
+                <p></p>
+				<p>An <term>intensity graph</term> shows the intensity of light in some region, often on a screen.  The example below is for light on a distant screen that has passed through two extremely narrow slits.</p>
+                <figure>
+			<title>2-Slit Intensity Figure</title>
+        <caption>Intensity graph for two extremely narrow slits.</caption>
+        <image source="2SI-Intensity.png"><description></description></image>
+    </figure>
+			</statement>
+		</conjecture>
+
+    
+
         </subsection>
 
     <exercises>
