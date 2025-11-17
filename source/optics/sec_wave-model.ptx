@@ -55,7 +55,7 @@
 <assemblage>
         <title>Wave Speed</title>
         <p>
-        In a vacuum, light travels at a constant speed given by <m>c = 299,792,458 /mathrm{~m/s}</m>.  In a medium, light travels at a speed characterized by the index of refraction as <m>v = \frac{c}{n}</m>.
+        In a vacuum, light travels at a constant speed given by <m>c = 299,792,458 \mathrm{~m/s}</m>.  In a medium, light travels at a speed characterized by the index of refraction as <m>v = \frac{c}{n}</m>.
         </p>
       </assemblage>
 
