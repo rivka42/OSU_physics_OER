@@ -6,6 +6,7 @@
 <!-- those files to see more pretext features                    -->
 
 <!--     python -m pretext build web -g     -->
+<!--     \\rfs.dri.oregonstate.edu\web      -->
 
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
 
