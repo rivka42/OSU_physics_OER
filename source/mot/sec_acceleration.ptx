@@ -11,6 +11,10 @@
 	
 	<definition>
 	<title>Average Acceleration</title>
+	<notation>
+		<usage><m>\vec{a}_{ave} = \frac{\Delta \vec{v}}{\Delta t}</m></usage>
+	  <description>The <term>average acceleration</term> of an object is the object's change in velocity divided by the interval of time required to change the velocity.</description>
+	</notation>
 	<statement>
 		<p></p>
 		<p>The <term>average acceleration</term> of an object is the object's change in velocity divided by the interval of time required to change the velocity: <me>\vec{a}_{ave} = \frac{\Delta \vec{v}}{\Delta t}</me></p>
@@ -21,7 +25,7 @@
 	<title>Instantaneous Acceleration</title>
 	<statement>
 		<p></p>
-		<p>The <term>instantaneous acceleration</term> of an object is found by taking the limit as <m>\Delta t \rarrow 0</m>, resulting in infinitesimal changes in 
+		<p>The <term>instantaneous acceleration</term> of an object is found by taking the limit as <m>\Delta t \Rightarrow 0</m>, resulting in infinitesimal changes in 
 			velocity and time: <me>\vec{a} = \frac{d \vec{v}}{d t}</me></p>
 	</statement>
 </definition>

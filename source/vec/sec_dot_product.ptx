@@ -16,8 +16,12 @@
 			The dot product of two vectors is itself a <alert>scalar</alert> value, not a new vector.
 			</p>
 
-<definition >
+<definition>
 <title>The Dot Product</title>
+<notation>
+		<usage><m>\vec{A} \cdot \vec{B} = AB \cos\theta</m></usage>
+	  <description>The dot product between two vectors represents the projection of one vector onto the other.</description>
+	</notation>
 <statement>
 	<p>
 		

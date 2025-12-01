@@ -122,6 +122,21 @@
 	</investigation>
 	
 	-->
+
+
+	<!--
+	<appendix xml:id="appendix-motion">
+		<title>Definitions</title>
+		<list-of elements="definition principle conjecture" divisions="chapter" empty="yes" scope="chapter" />
+		
+	</appendix>
+
+	<appendix xml:id="notation-motion">
+		<title>Definitions</title>
+		<notation-list />
+		
+	</appendix>
+	-->
 	
 	<references>
 	<biblio xml:id="ref_openstax-mot">
