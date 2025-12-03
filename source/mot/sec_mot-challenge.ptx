@@ -123,6 +123,7 @@
 	
 	-->
 
+	
 
 	<!--
 	<appendix xml:id="appendix-motion">
@@ -136,6 +137,8 @@
 		<notation-list />
 		
 	</appendix>
+
+	<list-of elements="definition principle conjecture" divisions="chapter" empty="yes" scope="chapter" />
 	-->
 	
 	<references>
