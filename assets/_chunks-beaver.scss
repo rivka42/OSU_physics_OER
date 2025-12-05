@@ -5,6 +5,7 @@
 
 $border-radius: 8px !default;
 $background-moondust: #C6DAE7;
+$background-starcanvas: #003B5C;
 $beaver-orange: #D73F09;
 
 // One stop include for default style content blocks
@@ -17,6 +18,7 @@ $beaver-orange: #D73F09;
 @use 'components/chunks/knowls' with ($border-radius: $border-radius);
 
 @use 'components/chunks/helpers/L-mixin';
+@use 'LB-mixin';
 @use 'components/chunks/helpers/box-mixin' with ($border-radius: $border-radius);
 @use 'components/chunks/helpers/heading-box-mixin';
 @use 'components/chunks/helpers/sidebar-mixin';
@@ -29,9 +31,19 @@ $beaver-orange: #D73F09;
 }
 
 // rounded box with border
-.definition-like {
+.definition-like:not(.dark-mode),
+.axiom:not(.dark-mode),
+.conjecture:not(.dark-mode),
+.principle:not(.dark-mode),
+.heuristic:not(.dark-mode),
+.hypothesis:not(.dark-mode),
+.assumption:not(.dark-mode) {
   @include beaver-box-mixin.box($border-color: $beaver-orange, $background-color: $background-moondust);
 }
+.definition-like.dark-mode {
+  @include beaver-box-mixin.box($border-color: $beaver-orange, $background-color: $background-starcanvas);
+}
+
 
 // box with title inset on top
 .goal-like {
@@ -44,16 +56,17 @@ $beaver-orange: #D73F09;
 // L-border
 .theorem-like,
 .example-like,
-.project-like,
 .remark-like,
+.project-like,
 .openproblem-like,
 .computation-like {
   @include L-mixin.border($style: solid);
 }
 
-// projects get a dotted L
+
+// projects get a long L
 .project-like:not(.knowl__content, .born-hidden-knowl) {
-  @include L-mixin.border($style: dotted);
+  @include LB-mixin.border($style: solid, $border-color: $beaver-orange);
 }
 
 /* proof gets a backwards facing L */

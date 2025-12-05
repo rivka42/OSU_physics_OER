@@ -48,12 +48,25 @@ $secondary-color: map.get(palette-dual.$colors, 'secondary-color');
 
 
 
-:colors:not(.dark-mode) {
-    --body-title-color: #D73F09;
-}
+
 
 // ---------------------------------------------
 // concrete rules / includes that generate CSS
 
 // render the actual colors
 @include colorHelpers.set-root-colors(palette-dual.$colors, palette-dark.$colors);
+
+.definition-like,
+.example-like,
+.project-like,
+.axiom-like,
+.exercises,
+.section,
+.subsection,
+.subsubsection
+ {
+    --body-title-color: $beaver-orange;
+    --body-text-color: $beaver-orange;
+    --block-head-color: $beaver-orange;
+}
+
