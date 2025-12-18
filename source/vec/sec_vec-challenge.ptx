@@ -45,27 +45,27 @@
 	</p>
 <p>
      <ol>
-		     <li><em>Building Blocks</em>: If <m>l</m> is the length and <m>w</m> is the width of a rectangular park, the area is <m>A_{rectangle} = lw</m>.</li>
-		     <li><em>Claims</em>: Since the area of the two parks is constant, we can say that <m>A_1 = A_2</m> or alternatively <m>l_1 w_1 = l_2 w_2</m>.</li>
-		     <li><em>Reasoning</em>: Since <m>l_2</m> is greater than <m>l_1</m>, we must have that <m>w_2</m> is smaller than <m>w_1</m> to keep the product of l and w the same for the two parks.  The width of park 2 is less than the width of park 1.  A way of making sense of this is to draw pictures of two example parks that have different widths but the same area.</li>
+		     <li><em>Principles</em>: If <m>l</m> is the length and <m>w</m> is the width of a rectangular park, the area is <m>A_{rectangle} = lw</m>.</li>
+		     <li><em>Reasoning</em>: The area of the two parks is constant, so we can say that <m>A_1 = A_2</m> or alternatively <m>l_1 w_1 = l_2 w_2</m>. Since <m>l_2</m> is greater than <m>l_1</m>, we must have that <m>w_2</m> is smaller than <m>w_1</m> to keep the product of l and w the same for the two parks.  The width of park 2 is less than the width of park 1. A way of making sense of this is to draw pictures of two example parks that have different widths but the same area.
+			<figure xml:id="fig_park-area">
+				<title>Two Parks Figure</title>
+				<caption>Two rectangles, one with greater length than the other.</caption>
+				<image source="park-area.png" width = "60%">
+				<description></description></image>
+			</figure>	
+			</li>	
+		     <li><em>Conclusion</em>: The width of park 2 is less than the width of park 1.</li>
 		</ol>
-</p>
-
-<figure xml:id="fig_park-area">
-		<title>Two Parks Figure</title>
-		 <caption>Two rectangles, one with greater length than the other.</caption>
-		<image source="park-area.png" width = "60%">
-			<description></description></image>
-  </figure>	
+</p>	
 	
 	<p><alert>Commentary</alert></p>
 	
 	<p>
      <ol>
-		     <li><em>Building Blocks</em>: The Building Block for this problem is relatively simple!  Sometimes you will only have one simple Building Block like in this problem, while other times you may have several.</li>
-		     <li><em>Claims</em>: An important claim here is that the parks have the same area.  Note that even though this is stated in the problem, make sure you list it here—often there is information in the problem statement that is not directly relevant or necessary to consider.</li>
-		     <li><em>Reasoning</em>: Note that you should go through every step of the reasoning here, starting from our Building Block: first, from the claim that two areas are equal, use proportional reasoning to go from the given relationship between <m>l</m>'s to the desired relationship between <m>w</m>'s.  
+		     <li><em>Principles</em>: The Principle for this problem is relatively simple!  Sometimes you will only have one simple Principle like in this problem, while other times you may have several.</li>
+		     <li><em>Reasoning</em>: An important claim here is that the parks have the same area.  Note that even though this is stated in the problem, make sure you list it here—often there is information in the problem statement that is not directly relevant or necessary to consider. You should go through every step of the reasoning here, starting from our Principle: first, from the claim that two areas are equal, use proportional reasoning to go from the given relationship between <m>l</m>'s to the desired relationship between <m>w</m>'s.  
 			 You can mix words, symbols, and even pictures in your reasoning!</li>
+		     <li><em>Conclusion</em>: Clearly state the conclusion of your reasoning that answers the question.</li>
 		</ol>
 </p>
 	
@@ -76,27 +76,25 @@
 <subsection>
 <title>Explanation Tasks</title>
 
-	<p><em>Don't ignore the tips!  They can help make sure you don't lose points for overlooking something obvious.</em></p>
+	<!--<p><em>Don't ignore the tips!  They can help make sure you don't lose points for overlooking something obvious.</em></p>-->
 	
 	 	<investigation xml:id="ch_vec-1">
         <title>Subtracting Equal Vectors</title>
 		<statement>
 		<p></p>
-		
-		
-		
 		    <p>In each case below, the top vector is being subtracted from the bottom vector. All of the vectors have the same magnitude.  Is the magnitude of the difference in the left case <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the difference in the right case?</p>
-				 <figure xml:id="fig_vector-pairs">
-		<title>Vector Pairs Figure</title>
-  <caption>Two pairs of vectors.</caption>
-  <image source="Vector-Pairs.png" width = "25%">
-  <description></description>
-  </image>
- </figure>
+			<p>Draw a diagram to support your reasoning.</p>
+			<figure xml:id="fig_vector-pairs">
+				<title>Vector Pairs Figure</title>
+  				<caption>Two pairs of vectors.</caption>
+				<image source="Vector-Pairs.png" width = "25%">
+				<description></description>
+				</image>
+ 			</figure>
 		</statement>
-		<hint>
+		<!--<hint>
 		<p>Remember that a quick diagram can often help elevate your reasoning!</p>
-		</hint>
+		</hint>-->
 		<!--
 		<solution>
 		    <p>One way to subtract two vectors is to place the vectors tail-to-tail and then draw the vector that points from the tip of one vector to the tail of the other.  In this case, the difference in the left case is clearly <em>less than</em> the difference in the right case.</p>
@@ -105,33 +103,28 @@
 	</investigation>
 	
 			
-		 	<investigation xml:id="ch_vec-2">
+	<investigation xml:id="ch_vec-2">
         <title>A Walk in the Park</title>
 		<statement>
 		<p></p>
 		
-		    <p>You have been asked to walk Dr. Paws around a large park.  Dr. Paws always walks north first, then turns and walks in a different direction for the same distance, and last she turns again and walks in another different direction for the same distance.  At the end of today's walk, you find yourself back at the exact position where you started!  Give an explanation for how this is possible.</p>
+		<p>You have been asked to walk your dog around a large park. Your dog always walks north first, then turns and walks in a different direction for the same distance, and last she turns again and walks in another different direction for the same distance.  At the end of today's walk, you find yourself back at the exact position where you started!  Give an explanation for how this is possible.</p>
+		<p>Draw a diagram to support your reasoning.</p>
 
 		</statement>
-		<hint>
+		<!--<hint>
 		<p>In activities like this, a diagram is nearly always essential!</p>
-		</hint>
-
+		</hint>-->
 	</investigation>
-
 </subsection>
-
 	
-	
-	<subsection>
+<subsection>
 	<title>Calculation Activities</title>
 	
 	<activity xml:id="ch_vec-3">
         <title>The Trees upon the Hillside</title>
 		<introduction>
 		<p></p>
-		
-		
 
 		    <p>A surveyor measures a hillside and describes the height of the hill <m>y</m> (in meters) as the following function of distance from the base of the hill <m>x</m> (also measured in meters): <me>y(x) = a_1x^3 - a_2x^5</me> He reports that <m>a_1 = 1.5 \times 10^{-5}</m> and <m>a_2 = 1.0 \times 10^{-10}</m>.  He has also identified three especially large trees (about <m>30 \mathrm{~m}</m> tall) whose bases are located at <m>x_1 = 5 \mathrm{~m}</m>, <m>x_2 = 257 \mathrm{~m}</m>, and <m>x_3 = 300 \mathrm{~m}</m>.</p>
 		</introduction>
@@ -141,6 +134,7 @@
 		<statement>
 			<p></p>
 		<p>It looks like the surveyor forgot to report the specific units for the constants <m>a_1</m> and <m>a_2</m>.  Determine appropriate units for these constants.  Describe why these are sensible units given the equation for <m>y(x)</m>.</p>
+		<p> Make sure to conduct a unit check (like in <xref ref="ex_how-to-check-units"/>) to see if the units you determined are correct.</p>
 		</statement>
 		</task>
 		
@@ -148,11 +142,12 @@
 		<title>Represent</title>
 		<statement>
 			<p></p>
-		<p>Sketch and label a quantitatively accurate diagram of the hillside and the trees.</p>
+		<p>Sketch and label a quantitatively accurate diagram of the hillside and the trees.</p> 
+		<p>Make sure to identify your origin, label your axes, and identify any relevant points of interest.</p>
 		</statement>
-		<hint>
+		<!--<hint>
 		    <p>Make sure to identify your origin, label your axes, and identify any relevant points of interest.</p>
-		</hint>
+		</hint>-->
 		</task>
 		
 		<task>
@@ -160,67 +155,63 @@
 		<statement>
 			<p></p>
 		<p>Determine the displacement vector from the base of tree 2 to the base of tree 3.</p>
+		<p>Remember to do all calculations <em>symbolically</em> before you plug in numbers, 
+			following the <xref ref="fig_calculation" text='title'/>.</p>
 		</statement>
-		<hint>
+		<!--<hint>
 		    <p>Remember to do all calculations <em>symbolically</em> before you plug in numbers, 
 			following the <xref ref="fig_calculation" text='title'/>.</p>
-		</hint>
+		</hint>-->
 		</task>
 	</activity>
-	
-	
-	
-	
 
-	
-	
-		<activity xml:id="ch_vec-4">
+	<activity xml:id="ch_vec-4">
         <title>The Tower in the Forest</title>
 		<introduction>
-		<p></p>
+			<p></p>
 		
-		<p>You and a friend are each lost in the same forest.  They message you that they are directly northeast of a very large tower that is about <m>3</m> miles away.  You are about <m>2</m> miles away from the same large tower, but you are <m>25^o</m> west of south of it.  About how far are you from your friend?  What direction would you need to walk to reach your friend?</p>
+			<p>You and a friend are each lost in the same forest.  They message you that they are directly northeast of a very large tower that is about <m>3</m> miles away.  You are about <m>2</m> miles away from the same large tower, but you are <m>25^o</m> west of south of it.  About how far are you from your friend?  What direction would you need to walk to reach your friend?</p>
 		
 		</introduction>
 		
-				<task>
-		<title>Represent</title>
-		<statement>
-			<p></p>
-		<p>Sketch and label a quantitatively accurate diagram.</p>
-		</statement>
-		</task>
-		
-				<task>
-		<title>Calculate</title>
-		<statement>
-			<p></p>
-		<p>Determine the relevant quantities.  Start by writing a brief sentence or two describing your strategy.</p>
-		</statement>
-		<hint>
-		    <p>Remember to do all calculations <em>symbolically</em> before you plug in numbers, following the steps in <xref ref="fig_calculation"/>.</p>
-		</hint>
+		<task>
+			<title>Represent</title>
+			<statement>
+				<p></p>
+			<p>Sketch and label a quantitatively accurate diagram.</p>
+			</statement>
 		</task>
 		
 		<task>
-		<title>Sensemake</title>
-		<statement>
-			<p></p>
-		<p>This is a good activity for numerical sensemaking, especially about the distance.  What is another distance you could compare it to?  Should it be bigger or smaller than that other distance?  Justify your answers.</p>
-		</statement>
-		<hint><p>Remember to use the <xref ref="fig_sensemaking" text='title'/>.</p></hint>
+			<title>Calculate</title>
+			<statement>
+				<p></p>
+				<p>Determine how far you are from your friend and what direction you would need to walk to reach your friend.  Start by writing a brief sentence or two describing your strategy.</p>
+				<p>Remember to do all calculations <em>symbolically</em> before you plug in numbers, following the steps in <xref ref="fig_calculation"/>.</p>
+			</statement>
+			<!--<hint>
+				<p>Remember to do all calculations <em>symbolically</em> before you plug in numbers, following the steps in <xref ref="fig_calculation"/>.</p>
+			</hint>-->
 		</task>
 		
-	</activity>
+		<task>
+			<title>Sensemake</title>
+			<statement>
+				<p></p>
+				<p>This is a good activity for numerical sensemaking, especially about the distance.  What is another distance you could compare it to?  Should it be bigger or smaller than that other distance?  Justify your answers.</p>
+				<p>Remember to use the <xref ref="fig_sensemaking" text='title'/>.</p>
+			</statement>
+			<!--<hint><p>Remember to use the <xref ref="fig_sensemaking" text='title'/>.</p></hint>-->
+		</task>
+	</activity>	
+</subsection>
 	
-	</subsection>
-	
-	<subsection>
+<subsection>
 	<title>Metacognitive Reflection</title>
 	<p>
 	     Choose at least one of the Challenge Activities.  Reflect on how this activity was similar to or different from other activities you worked on throughout this chapter (these can be in or out of class activities).  Cite specific activities by name and be specific about how the <em>solutions</em>, not just the activities themselves, were related.  Include a sentence at the end about why you think a reflection activity like this might be useful in helping you learn physics.
 	</p>
-	</subsection>
+</subsection>
 	
 	
 	
