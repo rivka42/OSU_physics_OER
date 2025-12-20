@@ -7,13 +7,13 @@
     </introduction>
 
 
-    <subsection xml:id="subsec-light">
+    <subsubsection xml:id="subsec-light">
       <title>Video Exploration: Light as a Wave</title>
       
 
     <video youtube="Iuv6hY6zsd0"><description>An alternate model for light.</description></video>
 
-    </subsection>
+    </subsubsection>
       <!--
     <p>The wave-particle duality of light is extremely useful, especially when the wavelength of light is comparable to the size of any mechanism or object the light is interacting with. In these cases, you will use the wave nature of light to explain your observations.</p>
     -->
@@ -38,7 +38,7 @@
         
     </exercises>
 		
-    <subsection>
+    <subsubsection>
       <title>Conclusion: Light Can Be wavelike</title>
 
 <p>
@@ -83,7 +83,7 @@
 
       
     
-  </subsection>
+  </subsubsection>
 		<references>
 <biblio xml:id="lightver">
 <p>The Original Double Slit Experiment by Veritasium.</p>

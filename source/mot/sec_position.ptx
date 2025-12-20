@@ -3,7 +3,17 @@
 <section xml:id="sec_position" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Position Vectors</title>
 	
-		  <video youtube="iJoZIbjRrYA"><description>Defining position.</description></video>
+  <corollary xml:id="vid-position">
+	<title>Position</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+		<video youtube="iJoZIbjRrYA"><description>Defining position.</description></video>
+	</statement>
+  </corollary>
+		  
 	
 <definition xml:id="def_position">
 	<title>Position</title>
@@ -97,9 +107,9 @@ You will start by using the Cartesian coordinates that are probably familiar fro
 </example>
 	
 	
-		<exercises>
+		<subsubsection>
 		<title>Activities</title>
-		<exercise xml:id="x_positions-comps">
+		<exploration xml:id="x_positions-comps">
 		<title>Finding Position Components</title>
 		<statement>
 		<p></p>
@@ -120,8 +130,8 @@ You will start by using the Cartesian coordinates that are probably familiar fro
 		<me>r_y = r\cos\alpha</me>
 		</p>
 		</answer>
-		</exercise>
-			<exercise xml:id="x_state-vectors">
+	</exploration>
+			<activity xml:id="x_state-vectors">
 			<title>State Vectors</title>
 			<p></p>
 			<p>Choose a different state (or country) than Oregon and find a simple map.  Mark a few of the major cities or landmarks on the map (at least three).
@@ -140,8 +150,8 @@ You will start by using the Cartesian coordinates that are probably familiar fro
 			</li>
 			</ol>
 			</p>
-			</exercise>
-		</exercises>
+			</activity>
+		</subsubsection>
 	
 	<references>
 	<biblio xml:id="ref_mit-vectors5">

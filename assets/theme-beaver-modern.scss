@@ -56,17 +56,54 @@ $secondary-color: map.get(palette-dual.$colors, 'secondary-color');
 // render the actual colors
 @include colorHelpers.set-root-colors(palette-dual.$colors, palette-dark.$colors);
 
-.definition-like,
-.example-like,
-.project-like,
-.axiom-like,
-.exercises,
-.section,
-.subsection,
-.subsubsection
- {
-    --body-title-color: $beaver-orange;
-    --body-text-color: $beaver-orange;
-    --block-head-color: $beaver-orange;
+:definition:is(.root:not(.dark-mode)){
+  --body-text-color: black;
 }
+
+.root:not(.dark-mode)
+{
+  --body-title-color: #D73F09;
+}
+.heading:not(.dark-mode)
+ {
+    //--body-text-color: #D73F09;
+
+    --body-title-color: #D73F09;
+    // --color-dark: #D73F09;
+    // --doc-title-color: #D73F09;
+
+    // --primary-color: #D73F09;
+
+    // --banner-background: #D73F09;
+
+    // --link-text-color: #D73F09;
+    // --link-active-text-color: #D73F09;
+    // --link-active-background: #D73F09;
+    // --link-alt-text-color: #D73F09;
+    // --link-alt-active-background: #D73F09;
+
+    // --toc-border-color: #D73F09;
+
+    // --toc-text-color: #D73F09;
+
+    // --tocitem-active-background: #D73F09;
+    // --tocitem-highlight-background: #D73F09;
+
+    // --toclevel2-background: #D73F09;
+    // --toclevel3-background: #D73F09;
+
+    // --doc-title-color: #D73F09;
+    // --body-title-color: #D73F09;
+    // --button-hover-background: #D73F09;
+    // --assemb-border-color: #D73F09;
+
+    // --block-head-color: #D73F09;
+    // --knowl-background: #D73F09;
+    // --knowl-border-color: #D73F09;
+}
+
+// section>.heading {
+//     background: #D73F09;
+//     color: #D73F09;
+// }
 

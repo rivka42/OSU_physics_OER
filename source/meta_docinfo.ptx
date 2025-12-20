@@ -31,12 +31,13 @@
 </latex-image-preamble>
 
 \usepackage{fontspec}
-\setmainfont{Asana-Math}
+\setmainfont{Asana-Math} 
 
 <!-- It is possible to rename elements using the tags below -->
 <rename element="part">Unit</rename>
 
 	<rename element="axiom">Key Skill</rename>
+  <rename element="corollary">Video Lesson</rename>
   <rename element="conjecture">Representation</rename>
   <!---->
 	<rename element="heuristic">Sensemaking Strategy</rename>

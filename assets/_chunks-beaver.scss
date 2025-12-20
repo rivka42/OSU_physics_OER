@@ -5,13 +5,14 @@
 
 $border-radius: 8px !default;
 $background-moondust: #C6DAE7;
+$background-moondust-half: #e2ecf3;
 $background-starcanvas: #003B5C;
 $beaver-orange: #D73F09;
 
 // One stop include for default style content blocks
 @use 'components/chunks/asides-floating';
 @use 'components/chunks/codelike';
-@use 'components/chunks/exercises';
+@use 'exercises-b';
 @use 'components/chunks/solutions';
 @use 'components/chunks/sidebyside';
 @use 'components/chunks/discussion-inline';
@@ -24,6 +25,13 @@ $beaver-orange: #D73F09;
 @use 'components/chunks/helpers/sidebar-mixin';
 @use 'components/chunks/helpers/inline-heading-mixin';
 @use 'beaver-box-mixin' with ($border-radius: $border-radius);
+@use 'components/chunks/helpers/C-box-mixin' with (
+  $heading-color: white,
+  $border-radius: $border-radius,
+  $border-width: 3px,
+  $padding: 12px,
+  $padding-right: 0px
+);
 
 // rounded box
 .assemblage-like {
@@ -35,13 +43,28 @@ $beaver-orange: #D73F09;
 .axiom:not(.dark-mode),
 .conjecture:not(.dark-mode),
 .principle:not(.dark-mode),
+.corollary:not(.dark-mode),
 .heuristic:not(.dark-mode),
 .hypothesis:not(.dark-mode),
 .assumption:not(.dark-mode) {
-  @include beaver-box-mixin.box($border-color: $beaver-orange, $background-color: $background-moondust);
+    @include beaver-box-mixin.box($border-color: $beaver-orange, $background-color: $background-moondust-half, $head-color: $beaver-orange);
 }
-.definition-like.dark-mode {
+.definition.dark-mode {
   @include beaver-box-mixin.box($border-color: $beaver-orange, $background-color: $background-starcanvas);
+}
+.principle:not(.dark-mode) {
+  @include C-box-mixin.box(
+      $border-color: $beaver-orange,
+      $heading-background: $beaver-orange,
+      $background-color: $background-moondust-half,
+    );
+}
+.corollary:not(.dark-mode) {
+  @include C-box-mixin.box(
+      $border-color: $beaver-orange,
+      $heading-background: $beaver-orange,
+      $background-color: $background-starcanvas,
+    );
 }
 
 
@@ -54,7 +77,6 @@ $beaver-orange: #D73F09;
 }
 
 // L-border
-.theorem-like,
 .example-like,
 .remark-like,
 .project-like,

@@ -7,16 +7,20 @@
 	<p>
 		This section has examples of all the pretext elements.
 	</p>
-</introduction>
+</introduction> 
 		
 <subsection xml:id="subsec-Remark-like">
 	<title>Remark-like</title>
-	<remark>
+	<subsubsection xml:id="subsubsec-">
+		<title>Subsubsection Example</title>
+		<remark>
 		<title>Remark</title>
 		<p>
 			This is a Remark.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
 		</p>
 	</remark>
+	</subsubsection>
+	
 	<convention>
 		<title>Convention</title>
 		<p>
@@ -30,9 +34,9 @@
 		</p>
 	</note>
 	<observation>
-		<title>Observation</title>
+		<title>Additional Detail</title>
 		<p>
-			This is an Observation.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+			This is an Additional Detail (Observation).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
 		</p>
 	</observation>
 	<warning>
@@ -42,9 +46,9 @@
 		</p>
 	</warning>
 	<insight>
-		<title>Insight</title>
+		<title>Historical Note</title>
 		<p>
-			This is an Insight.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+			This is a Historical Note (Insight).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
 		</p>
 	</insight>
 </subsection>
@@ -108,17 +112,17 @@
 		</p>
 	</theorem>
 	<corollary>
-		<title>Corollary</title>
+		<title>Video Lesson</title>
 		<p>
-			This is a corollary.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+			This is a Video Lesson (Corollary).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
 		</p>
 	</corollary>
-	<axiom>
-		<title>Axiom</title>
+	<lemma>
+		<title>Clarification</title>
 		<p>
-			This is an Axiom.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+			This is a Clarification (Lemma).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
 		</p>
-	</axiom>
+	</lemma>
 	<algorithm>
 		<title>Algorithm</title>
 		<p>
@@ -149,6 +153,47 @@
 			This is an Identity.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
 		</p>
 	</identity>
+</subsection>
+
+<subsection xml:id="subsec-Axiom-like">
+	<title>Axiom-like</title>
+	<axiom>
+		<title>Axiom</title>
+		<p>
+			This is an Axiom.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+		</p>
+	</axiom>
+	<conjecture>
+		<title>Representation</title>
+		<p>
+			This is a Representation (Conjecture).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+		</p>
+	</conjecture>
+	<principle>
+		<title>Principle</title>
+		<p>
+			This is a Principle.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+		</p>
+	</principle>
+	<heuristic>
+		<title>Sensemaking Strategy</title>
+		<p>
+			This is a Sensemaking Strategy (Heuristic).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+		</p>
+	</heuristic>
+	<hypothesis>
+		<title>Strategy</title>
+		<p>
+			This is a Strategy (Hypothesis).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+		</p>
+	</hypothesis>
+	<assumption>
+		<title>Assumption</title>
+		<p>
+			This is an Assumption.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+		</p>
+	</assumption>
+	
 </subsection>
 
 <subsection xml:id="subsec-Definition-like">
