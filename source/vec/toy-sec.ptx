@@ -8,6 +8,10 @@
 		This section has examples of all the pretext elements.
 	</p>
 </introduction> 
+
+<p>
+	This is what happens when you refer to another section.  <xref ref="tester"/>
+</p>
 		
 <subsection xml:id="subsec-Remark-like">
 	<title>Remark-like</title>
@@ -27,7 +31,7 @@
 			This is a Convention.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
 		</p>
 	</convention>
-	<note>
+	<note xml:id="tester">
 		<title>Note</title>
 		<p>
 			This is a Note.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.

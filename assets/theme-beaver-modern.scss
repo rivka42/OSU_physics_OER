@@ -64,6 +64,10 @@ $secondary-color: map.get(palette-dual.$colors, 'secondary-color');
 {
   --body-title-color: #D73F09;
 }
+.corollary:not(.dark-mode)
+{
+  --primary-color: white;
+}
 .heading:not(.dark-mode)
  {
     //--body-text-color: #D73F09;

@@ -16,7 +16,7 @@ $beaver-orange: #D73F09;
 @use 'components/chunks/solutions';
 @use 'components/chunks/sidebyside';
 @use 'components/chunks/discussion-inline';
-@use 'components/chunks/knowls' with ($border-radius: $border-radius);
+@use 'knowls-beaver' with ($border-radius: $border-radius);
 
 @use 'components/chunks/helpers/L-mixin';
 @use 'LB-mixin';
@@ -40,6 +40,8 @@ $beaver-orange: #D73F09;
 
 // rounded box with border
 .definition-like:not(.dark-mode),
+.example-like:not(.dark-mode),
+.remark-like:not(.dark-mode),
 .axiom:not(.dark-mode),
 .conjecture:not(.dark-mode),
 .principle:not(.dark-mode),
@@ -47,10 +49,10 @@ $beaver-orange: #D73F09;
 .heuristic:not(.dark-mode),
 .hypothesis:not(.dark-mode),
 .assumption:not(.dark-mode) {
-    @include beaver-box-mixin.box($border-color: $beaver-orange, $background-color: $background-moondust-half, $head-color: $beaver-orange);
+    @include beaver-box-mixin.box($border-color: $beaver-orange, $background-color: $background-moondust-half, $head-color: $beaver-orange, $border-radius: $border-radius);
 }
 .definition.dark-mode {
-  @include beaver-box-mixin.box($border-color: $beaver-orange, $background-color: $background-starcanvas);
+  @include beaver-box-mixin.box($border-color: $beaver-orange, $background-color: $background-starcanvas, $border-radius: $border-radius);
 }
 .principle:not(.dark-mode) {
   @include C-box-mixin.box(
@@ -77,8 +79,6 @@ $beaver-orange: #D73F09;
 }
 
 // L-border
-.example-like,
-.remark-like,
 .project-like,
 .openproblem-like,
 .computation-like {
@@ -100,7 +100,6 @@ $beaver-orange: #D73F09;
 .knowl__content {
   .theorem-like,
   .definition-like,
-  .example-like,
   .project-like,
   .remark-like,
   .openproblem-like,
@@ -109,6 +108,16 @@ $beaver-orange: #D73F09;
     padding-left: 0;
     margin-left: 0;
     border-left: none;
+
+    &::after {
+      border-bottom: none;
+      display: none;
+    }
+  }
+  .example-like {
+    padding-left: 0;
+    margin-left: 0;
+    border: none;
 
     &::after {
       border-bottom: none;
