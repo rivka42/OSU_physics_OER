@@ -52,7 +52,100 @@
 	<subsection>
 	<title>A*R*C*S Activities</title>
 
-	<activity xml:id="psa_lom-meta">
+	<p>For each A*R*C*S activity, you are expected to complete and label <alert>all</alert> of the <xref ref="fig_realworld"/>.  
+	For your first A*R*C*S activity, each step will walk you through the A*R*C*S process.  A simple example is provided in <xref ref="ex_park-arcs"/>.
+	</p>
+
+	<project>
+        <title>The Block upon the Ice</title>
+		
+		<p></p>
+		
+		    <p>You are pulling a small, heavy block of mass <m>40 \mathrm{~kg}</m> across an icy lake.  
+You pull on the rope at the angle shown in such a way that the normal force on the block by the ice is zero. 
+Find the magnitude of the tension and the magnitude of the acceleration.  
+Assume the gravitational force on the block points downward with a magnitude equal to <m>mg</m>, where <m>m</m> is the block's mass and <m>g = 10 \mathrm{~m/s^2}</m>.</p>
+		
+		
+	<figure>
+			<title>Ice Block Figure</title>
+		 <caption>A block is pulled across an icy pond.</caption>
+		<image source="BlockIce.png" width = "50%">
+			<description></description></image>
+  </figure>
+		
+		<p><alert>1. Analyze and Represent</alert></p>
+		
+		<p>
+			<ol marker="a">
+				<li>
+					<p>
+						Identify known and unknown quantities with both a symbol and a number.
+					</p>
+				</li>
+				<li>
+					<p>
+						Identify and justify any assumptions.
+					</p>
+				</li>
+				<li>
+					<p>
+						Choose an appropriate system and draw a-free-body diagram for the system.
+					</p>
+				</li>
+			</ol>
+
+			</p>
+		
+		
+		<p><alert>2. Calculate</alert></p>
+		
+		<p>
+			<ol marker="a">
+				<li>
+					<p>
+						Represent physics principles that will help you solve for the tension and the acceleration.
+					</p>
+				</li>
+				<li>
+					<p>
+						Determine a symbolic equation for each unknown quantity in terms of known variables.
+					</p>
+				</li>
+				<li>
+					<p>
+						Plug numbers into your symbolic answer.
+					</p>
+				</li>
+			</ol>
+			</p>
+		
+		
+		<p><alert>3. Sensemake</alert></p>
+		
+		<p>
+			<ol marker="a">
+				<li>
+					<p>
+						Check the units of your symbolic answer.
+					</p>
+				</li>
+				<li>
+					<p>
+						Compare your numerical answers to appropriate numerical quantities with the same units.
+					</p>
+				</li>
+				<li>
+					<p>
+						Use covariational reasoning: how should your symbolic equations depend on <m>m</m> and <m>\theta</m>?
+					</p>
+				</li>
+			</ol>
+			</p>
+		
+	</project>
+
+	<!-- <activity xml:id="psa_lom-meta">
         <title>Metacognition: Finding Similarities</title>
 		<statement>
 		<p></p>
@@ -104,7 +197,7 @@
 		<hint>
 		    <p><alert>Sensemake:</alert> As part of your symbolic sensemaking (part 3c), try covariational reasoning for at least one of the three known quantities.</p>
 		</hint>
-	</project>
+	</project> -->
 
 	
 
