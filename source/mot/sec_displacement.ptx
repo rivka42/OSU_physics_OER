@@ -4,7 +4,17 @@
   <title>Displacement Vectors</title>
 	
 		  
-      <video youtube="Uc5fC3HN2eQ"><description>Defining displacement.</description></video>
+      <corollary xml:id="vid-displacement">
+	<title>Displacement</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="Uc5fC3HN2eQ"><description>Defining displacement.</description></video>
+	</statement>
+  </corollary>
     
 <definition xml:id="def_displacement">
 	<title>Displacement</title>

@@ -3,9 +3,20 @@
 <section xml:id="sec_what-are-vectors" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Introduction to Vectors</title>
 
-      <video youtube="5ucfHd8FWKw">
+      <corollary xml:id="vid-vectors-scalars">
+	<title>Vectors vs. Scalars</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="5ucfHd8FWKw">
         <description>MIT vectors vs. scalars.</description>
       </video>
+
+	  </statement>
+  </corollary>
 			
 	<definition xml:id="def_vector">
 		<title>Vectors</title>

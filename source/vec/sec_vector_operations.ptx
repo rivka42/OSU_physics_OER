@@ -3,9 +3,19 @@
 <section xml:id="sec_vector_operations" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Vector Operations</title>
 
-      <video youtube="Jf2PgGInUEk">
+      <corollary xml:id="vid-vector-operations">
+	<title>Vector Operations</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="Jf2PgGInUEk">
         <description>MIT vector operations.</description>
       </video>
+	</statement>
+  </corollary>
 			
 			<!--
     <p>

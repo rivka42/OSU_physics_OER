@@ -3,9 +3,19 @@
 <section xml:id="sec_trig_relations" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Trigonometric Relations</title>
 
-      <video youtube="esHLwySu4XU">
+      <corollary xml:id="vid-trig">
+	<title>Going Between Representations</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="esHLwySu4XU">
         <description>MIT Going between representations.</description>
       </video>
+	</statement>
+  </corollary>
 			
 			<!-- Omitted for brevity
     <p>

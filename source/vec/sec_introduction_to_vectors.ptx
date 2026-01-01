@@ -3,9 +3,19 @@
 <section xml:id="sec_introduction_to_vectors" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Introduction to Vectors</title>
 
-      <video youtube="5ucfHd8FWKw">
+      <corollary xml:id="vid-intro-to-vectors">
+	<title>Vectors vs. Scalars</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="5ucfHd8FWKw">
         <description>MIT vectors vs. scalars.</description>
       </video>
+	</statement>
+  </corollary>
 			
     <p>
 A mathematical object which has a both a <em>magnitude</em> (a size or amount) and a <em>direction</em> is called a <alert>vector</alert>.  It is essential to take into account how both the magnitude and direction of a vector quantity changes when you analyze motion. A quantity that has no direction is called a <alert>scalar</alert>.

@@ -77,9 +77,19 @@ the direction in which the unit vector points.
 
 <p>This short video includes a brief summary of unit vectors:</p>	
 
-      <video youtube="Bq0fDYtbfBA">
+      <corollary xml:id="vid-unit-vectors">
+	<title>Coordinate Systems and Unit Vectors</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="Bq0fDYtbfBA">
         <description>MIT Coordinate systems and unit vectors.</description>
       </video>
+	</statement>
+  </corollary>
 			
 			<exercises>
 		<title>Practice Activities</title>

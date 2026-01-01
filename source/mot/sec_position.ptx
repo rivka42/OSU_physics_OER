@@ -16,10 +16,10 @@
 	</statement>
   </corollary>
 
-  <subsubsection xml:id="subsubsec-position">
+  <subsection xml:id="subsubsec-position">
 	<title>Key Ideas</title>
 	
-  </subsubsection>
+  </subsection>
 		  
 	
 <definition xml:id="def_position">
@@ -45,14 +45,14 @@
 			<description></description></image>
   </figure>
 			</statement>
-			<note>
+			
+</definition>
+<note>
 <title>Non-Standard Coordinates</title>
 <p>
 You may be familiar with Cartesian coordinates already: <m>x</m> along the horizontal axis and <m>y</m> along the vertical axis (plus <m>z</m> if you need it!).  Importantly, Cartesian coordinates are <em>arbitrary</em>, and physics often invokes other coordinates when convenient.  This may mean rotating the Cartesian coordinates so they are tilted, using different coordinates for different objects in the same context, or even using non-Cartesian coordinates such as circular (polar) coordinates.
 </p>
 </note>
-</definition>
-
 <p>As with any vector, position can be written either by giving a magnitude and a direction, or by writing it in terms of components using unit vectors: <me>\vec{r}= r_x\hat{x} + r_y \hat{y}</me>  A graphical representation of such a vector is shown below.</p>
 
 	<definition>
@@ -115,7 +115,7 @@ Symbols like <m>\hat{x}</m> and <m>\hat{y}</m> are special vectors called <em>un
 </example>
 	
 	
-		<subsubsection>
+		<subsection>
 		<title>Activities</title>
 		<exploration xml:id="x_positions-comps">
 		<title>Finding Position Components</title>
@@ -159,7 +159,7 @@ Symbols like <m>\hat{x}</m> and <m>\hat{y}</m> are special vectors called <em>un
 			</ol>
 			</p>
 			</activity>
-		</subsubsection>
+		</subsection>
 	
 	<references>
 	<biblio xml:id="ref_mit-vectors5">
