@@ -54,6 +54,7 @@ $beaver-orange: #D73F09;
 .definition.dark-mode {
   @include beaver-box-mixin.box($border-color: $beaver-orange, $background-color: $background-starcanvas, $border-radius: $border-radius);
 }
+.definition-like:not(.dark-mode),
 .principle:not(.dark-mode) {
   @include C-box-mixin.box(
       $border-color: $beaver-orange,
