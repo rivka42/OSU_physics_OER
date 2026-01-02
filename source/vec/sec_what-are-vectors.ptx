@@ -17,6 +17,11 @@
 
 	  </statement>
   </corollary>
+
+    <subsubsection>
+	<title>Key Ideas</title>
+	
+  </subsubsection>
 			
 	<definition xml:id="def_vector">
 		<title>Vectors</title>
@@ -79,9 +84,9 @@ Another, common example of a vector is <alert>velocity</alert>. Velocity is a qu
 </insight>
 -->
 
-		<exercises>
+		<subsubsection>
 		<title>Activities</title>
-		<exercise xml:id="x_vectors-scalars">
+		<activity xml:id="x_vectors-scalars">
 		<title>Explore Vectors and Scalars</title>
 		<statement>
 		<p></p>
@@ -93,8 +98,8 @@ Another, common example of a vector is <alert>velocity</alert>. Velocity is a qu
 				In contrast, time, mass, charge, and temperature are represented by scalars.
 			</p>
 		</answer>
-		</exercise>
-				<exercise xml:id="x_length">
+		</activity>
+				<activity xml:id="x_length">
 		<title>Explore Magnitude</title>
 		<statement>
 		<p></p>
@@ -110,8 +115,8 @@ Another, common example of a vector is <alert>velocity</alert>. Velocity is a qu
 				As a result of this, two vectors with the same direction but different magnitudes should be drawn <em>parallel</em> to each other, but with differing lengths.
 			</p>
 		</answer>
-		</exercise>
-		</exercises>
+		</activity>
+		</subsubsection>
 
 <references>
 <biblio xml:id="ref_mit-vectors1">

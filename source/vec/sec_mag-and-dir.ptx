@@ -6,12 +6,12 @@
 <p>As you have seen, one of the most common shorthand ways of describing a vector is as something with <q>magnitude and direction</q>.  Determining or working with these two quantities are essential for using vectors in physics.</p>
 
 	
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
 	
 	
 		
-<exercise xml:id="class_three-vectors">
+<activity xml:id="class_three-vectors">
         <title>Warm-up 1: Three Vectors</title>
 		
 		<p></p>
@@ -54,9 +54,9 @@
 	</ol>
   
 		
-	</exercise>
+	</activity>
 
-	<exercise xml:id="class_vec-comp">
+	<activity xml:id="class_vec-comp">
 	<title>Warm-up 2: Vector Component</title>
 		
 		<p></p>
@@ -69,11 +69,11 @@
 		<image source="vec-comp.png" width = "40%">
 			<description></description></image>
   </figure>
-	</exercise>
+	</activity>
 
 
 
-	<exercise xml:id="class_vec-qual">
+	<activity xml:id="class_vec-qual">
 	<title>Explanation: Vector Comparison</title>
 	<statement>
 		
@@ -90,7 +90,7 @@ What could you draw to help explain your reasoning?
 			</p>
 		</hint>
 			
-	</exercise>
+	</activity>
 
 <figure xml:id="fig_vec-pairs">
 		<title>Vector Pairs Figure</title>
@@ -99,7 +99,7 @@ What could you draw to help explain your reasoning?
 			<description></description></image>
   </figure>
 
-	<exercise xml:id="arcs_planets-building">
+	<activity xml:id="arcs_planets-building">
         <title>The Planets around the Sun</title>
 		<statement>
 		<p></p>
@@ -148,12 +148,12 @@ Begin by brainstorming what information you think would be useful to you in achi
 			In particular, consider how much work might be saved by solving for one pair of planets symbolically in contrast to solving for every pair of planets separately.
 		</p>
 	</hint>
-	</exercise>
+	</activity>
 
 
 
 
-	</exercises>
+	</subsubsection>
 	
 
 	

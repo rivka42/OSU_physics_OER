@@ -18,10 +18,10 @@ The steps in the following figure will guide you in making sense of physics.
   </figure>	
 
 
-	<exercises>
-	<title>Practice Activity</title>
+	<subsubsection>
+	<title>Activity</title>
 
-	<exercise>
+	<activity>
 	<title>Driving to Portland</title>
 	<p></p>
 			<p>You drive from Corvallis to Portland, and you measure your gas tank (in gallons) as a function of time (in hours): 
@@ -55,12 +55,12 @@ The steps in the following figure will guide you in making sense of physics.
 					</li>
 				</ol>
 			</p>
-	</exercise>
+	</activity>
 
   
 			
 			
-		</exercises>
+		</subsubsection>
 	
 </section>
 

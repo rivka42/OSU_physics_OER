@@ -23,6 +23,11 @@ Previously, we claimed that vector analysis is an important aspect of quantifyin
     </p>
 		-->
     
+		<subsubsection>
+	<title>Key Ideas</title>
+	
+  </subsubsection>
+  
  <p>
 Recall that the sides of a right triangle can be related to the angle using the trigonometric relations in the figure below.
 </p>
@@ -75,10 +80,13 @@ r = |\vec{r}| = \sqrt{r_x^2 + r_y^2}
 </me>	
 
 
-			<exercises xml:id="x_trig-rel">
-		<title>Practice Activities</title>
-				<exercise xml:id="x_vector-lengths">
+			<subsubsection xml:id="x_trig-rel">
+		<title>Activities</title>
+				<activity xml:id="x_vector-lengths">
 		<statement>
+			<p>
+				
+			</p>
 		<p>Find the magnitudes of the vectors <m>\vec{v_1}= 3\hat{x}-4\hat{y}</m> and <m>\vec{v_2}= -12\hat{x}-5\hat{y}</m>.  Find their directions as angles relative to an axis of your choice.</p>
 		</statement>
 		<answer>
@@ -87,13 +95,16 @@ r = |\vec{r}| = \sqrt{r_x^2 + r_y^2}
 				<answer>
 		<p><m>|\vec{v_2}|= 13</m> at <m>202.6^o</m> from the positive <m>x</m>-axis.</p>
 		</answer>
-		</exercise>
-		<exercise>
+		</activity>
+		<activity>
 		<statement>
+			<p>
+				
+			</p>
 		<p>A vector with length <m>12 \mathrm{~m}</m> points <m>10</m> degrees east of south.  Sketch this vector and find its <m>x</m>- and <m>y</m>-components.</p>
 		</statement>
-		</exercise>
-		</exercises>
+		</activity>
+		</subsubsection>
 
 
 <references>

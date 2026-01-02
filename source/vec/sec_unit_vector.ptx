@@ -91,19 +91,25 @@ the direction in which the unit vector points.
 	</statement>
   </corollary>
 			
-			<exercises>
-		<title>Practice Activities</title>
-				<exercise xml:id="x_unit-vector">
+			<subsubsection>
+		<title>Activities</title>
+				<activity xml:id="x_unit-vector">
 		<statement>
+			<p>
+				
+			</p>
 		<p>Sketch a unit vector that points in the same direction as the vector <m>\vec{v_1}= 3\hat{x}-4\hat{y}</m>.</p>
 		</statement>
-		</exercise>
-		<exercise>
+		</activity>
+		<activity>
 		<statement>
+			<p>
+				
+			</p>
 		<p>Sketch a unit vector that points perpendicular to the vector <m>\vec{v_2}= -12\hat{x}-5\hat{y}</m>.</p>
 		</statement>
-		</exercise>
-		</exercises>
+		</activity>
+		</subsubsection>
   
 <references>
 <biblio xml:id="ref_mit-vectors3">

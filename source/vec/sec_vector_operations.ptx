@@ -23,9 +23,9 @@
     </p>
 		-->
     
- <exercises>
+ <subsubsection>
  <title> Vector Addition</title>
- </exercises>
+ </subsubsection>
 
  <p>
 Suppose you have two vectors <m> \vec{A}</m> and <m> \vec{B}</m>. To add the two vectors, you will place the tail of <m> \vec{B}</m> at the head of <m> \vec{A}</m>. The vector connecting the tail of  <m> \vec{A}</m> to the head of <m> \vec{B}</m> is the sum <m> \vec{A} + \vec{B}</m>.
@@ -37,9 +37,9 @@ Suppose you have two vectors <m> \vec{A}</m> and <m> \vec{B}</m>. To add the two
     		<image source="vectors/vec_addition.png" width = "25%" ></image>
     </figure>
     
- <exercises>
+ <subsubsection>
  <title> Vector Subtraction</title>
- </exercises>
+ </subsubsection>
 
 <p>
 To subtract two vectors, you again start by placing the vectors tail-to-tail.  Then, you can rewrite the vector <m>\vec{C} = \vec{A} - \vec{B}</m> as <m>\vec{B} = \vec{A} + \vec{C}</m>. Now you can use vector addition to find <m>\vec{C})</m>, which is the vector that must be added to <m>\vec{A}</m> so that the sum of <m>\vec{A}</m> and <m>\vec{C}</m> is <m>\vec{B}</m>.
@@ -62,9 +62,9 @@ Alternatively, you can add the negative <m> \vec{A} + (-\vec{B})</m>. Recall tha
     		<image source="vectors/vec_subtraction.png" width = "25%" ></image>
     </figure>
 
- <exercises>
+ <subsubsection>
  <title> Multiplication of a Vector by a Scalar</title>
- </exercises>
+ </subsubsection>
 
 <p>
 Multiplication of a vector with a positive scalar will <em>scale</em> the magnitude of the vector but leave the direction unchanged. Multiplication by a negative scalar will <em>reverse</em> the direction in addition to scaling the vector magnitude.
@@ -77,26 +77,35 @@ Multiplication of a vector with a positive scalar will <em>scale</em> the magnit
     </figure>
 
 
-  		<exercises>
-		<title>Practice Activities</title>
+  		<subsubsection>
+		<title>Activities</title>
 		<p>Given the vector <m>\vec{A}</m> in <xref ref="vec_scalar_mult" text='type-global'></xref>, find each of the following and sketch the resulting vector.</p>
-				<exercise>
+				<activity>
 		<statement>
+			<p>
+				
+			</p>
 		<p><m>\vec{B} = 2\vec{A} + 3\vec{A}</m></p>
 		</statement>
-		</exercise>
-				<exercise>
+		</activity>
+				<activity>
 		<statement>
+			<p>
+				
+			</p>
 		<p><m>\vec{C} = -3\vec{A}</m></p>
 		</statement>
-		</exercise>
+		</activity>
 
-		<exercise>
+		<activity>
 		<statement>
+			<p>
+				
+			</p>
 		<p><m>\vec{D} = \vec{C} - \vec{A}</m></p>
 		</statement>
-		</exercise>
-		</exercises>
+		</activity>
+	</subsubsection>
 
       
 <references>

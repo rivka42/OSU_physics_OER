@@ -11,11 +11,13 @@ Vector analysis is an important aspect of quantifying motion that occurs in more
 You will begin your study of physics by gaining a foundational understanding of what vectors are and how to represent them visually and mathematically. 
     </p>
 		
+    
+</introduction>
 
-    
-    <p><alert>Learning Outcomes</alert></p>
-    
-    <p>After successful completion of this chapter, you will be able to:
+<objectives>
+      <title>Learning Outcomes</title>
+      
+      <p>After successful completion of this chapter, you will be able to:
  <ol>
 <li>Explain the difference between a vector and a scalar</li>
 <li>List common vectors and scalars</li>
@@ -27,16 +29,13 @@ You will begin your study of physics by gaining a foundational understanding of 
 <li>Move between the component representation and the magnitude and direction angle representation of vectors. </li>
 <li>Determine position and displacement vectors</li>
 <li>Construct scientific explanations and reasoning</li>
-
 <!--
 <li>Take the dot product between two vectors</li>
 -->
 </ol>
 
 </p>
-    
-    
-</introduction>
+    </objectives>
   
   <!--<xi:include href="./vec/toy-sec.ptx" />-->
 	

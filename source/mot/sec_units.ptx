@@ -137,10 +137,10 @@ Physics uses the word dimensions to refer to the class of unit for a quantity.  
 
 
 
-	<exercises xml:id="x_units">
+	<subsubsection xml:id="x_units">
 	<title>Units Activities</title>
 
-			<exercise xml:id="x_identifying-units">
+			<activity xml:id="x_identifying-units">
 			<title>Practice Identifying Units</title>
 			<statement>
 			<p></p>
@@ -166,9 +166,9 @@ Physics uses the word dimensions to refer to the class of unit for a quantity.  
 				</ol>
 				</p>
 				</answer>
-			</exercise>
+			</activity>
 			
-			<exercise>
+			<activity>
 			<title>Practice Checking Units</title>
 			<statement>
 			<p></p>
@@ -181,8 +181,8 @@ Physics uses the word dimensions to refer to the class of unit for a quantity.  
 				<answer>
 				<p><m>\frac{\text{mkg}}{\text{s}}</m></p>
 				</answer>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>Practice Identifying an Error with Units</title>
 			<statement>
 			<p></p>
@@ -193,14 +193,14 @@ Physics uses the word dimensions to refer to the class of unit for a quantity.  
 				When you add two quantities together, they must have the same units!  The numbers <m>2</m> and <m>\pi</m> are unitless, but <m>rh^2</m> has units of cubic meters while <m>r^2</m> only has units of square meters.  Additionally, since area <m>A</m> should have units of square meters, you can tell that the first term is the one that is wrong: you probably need to get rid of either the <m>r</m> or one of the factors of <m>h</m>.
 				</p>
 				</solution>
-			</exercise>
+			</activity>
 			
-		</exercises>
+		</subsubsection>
 		
-			<exercises xml:id="x_nums">
+			<subsubsection xml:id="x_nums">
 	<title>Numbers Activities</title>
 
-			<exercise xml:id="x_identifying-numbers">
+			<activity xml:id="x_identifying-numbers">
 			<title>Practice Identifying Numbers</title>
 			<p></p>
 			  <p>Below is a list of numbers with units.  For each number, find a real-world object or system with a measurement that is reasonably close
@@ -213,22 +213,22 @@ Physics uses the word dimensions to refer to the class of unit for a quantity.  
 				<li><m>60 \mathrm{~mg}</m></li>
 				<li><m>0.3 \mathrm{~s}</m></li>
 				</ol>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>Practice Checking Numbers and Identifying Errors</title>
 			<p></p>
 			  <p>Imagine that you came upon the following numbers while reading an article.  Try to identify whether or not each number is reasonable <term>without</term> directly looking up the quantity in question.</p>
 				<ol>
 				<li>It takes light around <m>8.5</m> minutes to reach Earth from the Sun</li>
 				<li>A semitruck and its loaded trailer is measured to have a mass of <m>500 \mathrm{~kg}</m></li>
-				<li>The distance from the Earth to the Moon is <m>384\times10^6 \mathrm{~\mu m}</m>.</li>
+				<li>The distance from the Earth to the Moon is <m>384 \times10^6 \mathrm{~\mu m}</m>.</li>
 				<li>The mass of a pea is <m>0.2 \mathrm{~g}</m></li>
 				<li>An Olympic marathon is <m>42 \mathrm{~km}</m></li>
 				<li>An Orca can hold its breath underwater for <m>10,000 \mathrm{~s}</m></li>
 				</ol>
-			</exercise>
+			</activity>
 			
-		</exercises>
+		</subsubsection>
 	
 </section>
 

@@ -3,10 +3,10 @@
 <section xml:id="sec_reps-of-vecs" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Representations of Vectors</title>
 	
-	<exercises>
-	<title>Practice Activities</title>
+	<subsubsection>
+	<title>Activities</title>
 
-	<exercise xml:id="class_reps-of-volume">
+	<activity xml:id="class_reps-of-volume">
 		<title>Representations of Volume</title>
 		<p></p>
 		<p>
@@ -27,9 +27,9 @@
 			</ol>
 
 		</p>
-	</exercise>
+	</activity>
 
-	<exercise xml:id="class_vector-metacognition">
+	<activity xml:id="class_vector-metacognition">
 		<title>Metacognition</title>
 		<p></p>
 		<p>
@@ -38,9 +38,9 @@
 			Why do you think you were asked to do this activity?  
 			What were the advantages of not using a calculator?
 		</p>
-	</exercise>
+	</activity>
 
-	<exercise xml:id="class_summ-reps">
+	<activity xml:id="class_summ-reps">
 		<title>Summarize Representations</title>
 		<p></p>
 		<p>
@@ -48,9 +48,9 @@
 			Organize your thinking by representation: (a) words or sentences, 
 			(b) numbers or symbols, and (c) pictures or diagrams.
 		</p>
-	</exercise>
+	</activity>
 
-	<exercise xml:id="class_vecs-in-the-garden">
+	<activity xml:id="class_vecs-in-the-garden">
 		<title>Vectors in the Garden</title>
 		<p></p>
 		<p>
@@ -116,9 +116,9 @@
 			</li>
 		</ol>
 		
-	</exercise>
+	</activity>
   
-	<exercise xml:id="class_a-pair-of-vectors">
+	<activity xml:id="class_a-pair-of-vectors">
 		<title>A Pair of Vectors</title>
 		<p></p>
 		<p>You have two vectors that have the same magnitude <m>a</m>, but can point in any direction.  
@@ -142,9 +142,9 @@
 		</ul>
 		Make sense of your answer with the following questions: What is the largest possible sum?  What is the smallest?
 		</p>
-	</exercise>			
+	</activity>			
 			
-		</exercises>
+		</subsubsection>
 	
 </section>
 

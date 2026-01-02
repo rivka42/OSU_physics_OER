@@ -60,9 +60,9 @@
     <!-- <css theme="default-modern" palette="blues" primary-color="#003B5C" secondary-color="#D73F09" primary-color-dark="#D3832B"/> -->
     <!-- <css theme="salem" palette="ice-fire" /> -->
     <!--<css theme="denver" palette="ice-fire"/>-->
-    <!----><css style="default" colors="orange_navy"/>            
-    <!--
-    <css theme="custom" entry-point="../assets/theme-beaver-modern.scss" palette="blues" primary-color="#003B5C" secondary-color="#D73F09" primary-color-dark="#D3832B"/>-->
+    <!--<css style="default" colors="orange_navy"/> -->            
+    <!--  -->
+    <css theme="custom" entry-point="../assets/theme-beaver-modern.scss" palette="blues" primary-color="#003B5C" secondary-color="#D73F09" primary-color-dark="#D3832B"/>
     
     <!-- Magic IDs identify HTML pages to analytics services   -->
     <!-- Presence implies relevant Javascript will be added    -->

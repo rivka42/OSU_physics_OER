@@ -54,19 +54,25 @@ Similarly, to subtract vectors algebraically, you subtract like components.
  </p>
 -->
 
-			  		<exercises>
-		<title>Practice Activities</title>
+			  		<subsubsection>
+		<title>Activities</title>
 		<p>Use the following two vectors for these activities: <m>\vec{A}=-5\hat{x}-\hat{y}</m> and <m>\vec{B}=-2\hat{x}+3\hat{y} </m> </p>
-				<exercise xml:id="x_vector-operations">
+				<activity xml:id="x_vector-operations">
 		<statement>
+			<p>
+				
+			</p>
 		<p>Find <m>-\vec{A}/5</m>.</p>
 		</statement>
 		<answer>
 		<p><m>-\vec{A}/5 = \hat{x}+\frac{1}{5}\hat{y}</m></p>
 		</answer>
-		</exercise>
-		<exercise>
+		</activity>
+		<activity>
 		<statement>
+			<p>
+				
+			</p>
 		<p>Find <m>\vec{A} + 2\vec{B}</m>.</p>
 		</statement>
 		<answer>
@@ -82,16 +88,19 @@ Similarly, to subtract vectors algebraically, you subtract like components.
 				</md>
 			</p>
 		</solution>
-		</exercise>
-		<exercise>
+		</activity>
+		<activity>
 		<statement>
+			<p>
+				
+			</p>
 		<p>Find <m>\vec{A} - \vec{B}</m>.</p>
 		</statement>
 		<answer>
 		<p><m>\vec{A} - \vec{B} = -3\hat{x}-4\hat{y}</m></p>
 		</answer>
-		</exercise>
-		</exercises>
+		</activity>
+		</subsubsection>
   
 	
 </section>

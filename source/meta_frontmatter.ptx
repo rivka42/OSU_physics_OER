@@ -87,6 +87,53 @@
 	
 -->
 
+<preface>
+    <title>User's Guide</title>
+    
+    <p>
+      This website is primarily intended as a collection of pre-class resources that help you learn and practice introductory physics concepts.  Most sections are designed to have a few different core elements, each of which has a different purpose.
+    </p>
+    <p>
+      A central feature of most sections, often occurring at the very start, is a <alert>video lesson</alert>.  Click on the link after this paragraph to see what one looks like (no need to watch the video just yet, unless you are especially curious about vectors).  The video lessons are usually designed to be <em>short</em> and <em>focused</em>, and it is an excellent idea to take notes on them.
+    </p>
+
+    <p>
+      <xref ref="vid-vector-operations"/>
+    </p>
+
+    <p>
+      In addition to a video lesson, most sections have <alert>Key Ideas</alert> from the video written out so that you have something to reference later.  Important aspects that you will want to have at your fingertips will be in a box like the ones you can click on below.  The most fundamental of these<mdash/><alert>Definitions</alert> and <alert>Principles</alert><mdash/>have a colorful banner.
+    </p>
+
+    <p>
+      <xref ref="sm_units"/>
+    </p>
+
+    <p>
+      <xref ref="law_N2L"/>
+    </p>
+
+    <p>
+      The last major part of each section are the <alert>Activities</alert>.  Each Activity will be bounded by a bright, angled border, and is generally something you should try out for yourself (or with a friend!).  Some activities will also have hints, answers, or solutions embedded within them to help you out if you get stuck.
+    </p>
+
+    <activity xml:id="example-activity">
+			<title>Example Activity</title>
+			<statement>
+				<p></p>
+			  <p>What are the three major things to look for in each section?</p>
+				</statement>
+				<answer>
+				<p>Video lessons (with a dark background), key definitions and principles (with a light background), and activities (with an angled border).</p>
+				</answer>
+			</activity>
+
+    <p>
+      Last of all, if you see something clickable, it usually contains extra information or additional detail that is not critical to review before class.  This might include historical notes, biographical information, or worked examples.
+    </p>
+
+    </preface>
+
   <!-- You can have more than one preface. -->
 
 	<!--

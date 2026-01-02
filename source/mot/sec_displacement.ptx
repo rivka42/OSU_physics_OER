@@ -15,6 +15,8 @@
 		<video youtube="Uc5fC3HN2eQ"><description>Defining displacement.</description></video>
 	</statement>
   </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
     
 <definition xml:id="def_displacement">
 	<title>Displacement</title>
@@ -27,7 +29,7 @@
 </definition>
 	
 	<p>Suppose an object is initially located at position <m>\vec{r}_0</m> at some initial time <m>t_0</m> and the object is moving through space over an interval of time 
-		<m>\Delta t = t_f - t_0</m>. The symbol <m>\Delta</m> (the capital Greek letter <q>Delta</q>) represents a change in a quantity.  The time interval <m>\Delta t</m> measures the elapsed time as the object moves from an initial position <m>\vec{r}_0</m>  at initial time <m>t_0</m> to a final position <m>\vec{r}_0</m> and some final time <m>t_f</m>. The vector <m>\Delta \vec{r}</m> is called the displacement of the object over the time interval <m>\Delta t</m>.  Here, the subscript 0 refers to some initial time: in some cases, the subscript <m>o</m> ("naught") or <m>i</m> (for "initial") is used instead of 0.</p>
+		<m>\Delta t = t_f - t_0</m>. The symbol <m>\Delta</m> (the capital Greek letter <q>Delta</q>) represents a change in a quantity.  The time interval <m>\Delta t</m> measures the elapsed time as the object moves from an initial position <m>\vec{r}_0</m>  at initial time <m>t_0</m> to a final position <m>\vec{r}_0</m> and some final time <m>t_f</m>. The vector <m>\Delta \vec{r}</m> is called the displacement of the object over the time interval <m>\Delta t</m>.  Here, the subscript 0 refers to some initial time: in some cases, the subscript <m>o</m> (<q>naught</q>) or <m>i</m> (for <q>initial</q>) is used instead of 0.</p>
 	
 	<note>
 <title>Subscripts</title>
@@ -47,10 +49,10 @@ Sometimes, subscripts might even be combined: <m>r_{x3i}</m> for the <m>x</m>-co
 			<description>On an xy axis, two arrows labeled r0 and rf point up and to the right, with a third vector labeled Delta r completing a triangle between them.</description></image>
   </figure>	
   
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
 
-			<exercise xml:id="x_vectors-park">
+			<activity xml:id="x_vectors-park">
 			<title>Vectors in the Park</title>
 			<statement>
 			<p></p>
@@ -71,9 +73,9 @@ Sometimes, subscripts might even be combined: <m>r_{x3i}</m> for the <m>x</m>-co
 			</ol>
 			</p>
 			</statement>
-			</exercise>
+			</activity>
 
-			<p>The State Vectors exercise is a good example of a <term>calculation</term>.  When you do calculations in physics, follow the steps below.</p>
+			<p>The State Vectors activity is a good example of a <term>calculation</term>.  When you do calculations in physics, follow the steps below.</p>
 
 		  <figure xml:id="fig_calculation">
 		  <title>Calculation Steps</title>
@@ -84,16 +86,16 @@ Sometimes, subscripts might even be combined: <m>r_{x3i}</m> for the <m>x</m>-co
 				2c. Plug in numbers - plug numbers (with units) into your symbolic answer! </description></image>
   			</figure>
 
-			<exercise xml:id="x_state-vectors-2">
+			<activity xml:id="x_state-vectors-2">
 			<title>State Vectors II</title>
 			<statement>
 			<p></p>
 			<p>Choose any pair of vectors that you drew in <xref ref="x_state-vectors" text="type-local-title"/>, sketch the displacement vector, 
 				and write the displacement vector in component form.  Practice using the Calculation Steps in the figure above.</p>
 			</statement>
-			</exercise>	
+			</activity>	
 
-		</exercises>
+		</subsubsection>
 	
 	
 </section>

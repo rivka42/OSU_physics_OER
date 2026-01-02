@@ -9,7 +9,7 @@
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
-	<subsection>
+	<subsubsection>
 		<title>Challenge Activity Philosophy</title>
 		<introduction>
 			<p>
@@ -17,10 +17,10 @@
 		but to <alert>learn new physics</alert> and <alert>practice communicating</alert>.
 	</p>
 		</introduction>
-	</subsection>
+	</subsubsection>
 	
 	
-	<subsection>
+	<subsubsection>
 	<title>Explanation Task Instructions</title>
 	
 	<p>Physics is a systematic way of looking at the world that involves building <em>quantitative models</em> and 
@@ -71,9 +71,9 @@
 	
 </example>
 
-</subsection>
+</subsubsection>
 
-<subsection>
+<subsubsection>
 <title>Explanation Tasks</title>
 
 	<!--<p><em>Don't ignore the tips!  They can help make sure you don't lose points for overlooking something obvious.</em></p>-->
@@ -116,9 +116,9 @@
 		<p>In activities like this, a diagram is nearly always essential!</p>
 		</hint>-->
 	</investigation>
-</subsection>
+</subsubsection>
 	
-<subsection>
+<subsubsection>
 	<title>Calculation Activities</title>
 	
 	<activity xml:id="ch_vec-3">
@@ -204,14 +204,14 @@
 			<!--<hint><p>Remember to use the <xref ref="fig_sensemaking" text='title'/>.</p></hint>-->
 		</task>
 	</activity>	
-</subsection>
+</subsubsection>
 	
-<subsection>
+<subsubsection>
 	<title>Metacognitive Reflection</title>
 	<p>
 	     Choose at least one of the Challenge Activities.  Reflect on how this activity was similar to or different from other activities you worked on throughout this chapter (these can be in or out of class activities).  Cite specific activities by name and be specific about how the <em>solutions</em>, not just the activities themselves, were related.  Include a sentence at the end about why you think a reflection activity like this might be useful in helping you learn physics.
 	</p>
-</subsection>
+</subsubsection>
 	
 	
 	

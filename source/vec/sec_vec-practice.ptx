@@ -10,7 +10,7 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 	
-<subsection>
+<subsubsection>
 <title>Generic Vectors</title>
 
 		    <exploration xml:id="psa_vec-alpha1">
@@ -121,12 +121,12 @@
 		</answer>
 	</exploration>
 
-</subsection>
+</subsubsection>
 
 
 
 
-<subsection>
+<subsubsection>
 <title>Position and Displacement Vectors</title>
 
    <exploration xml:id="psa_mot-alpha1">
@@ -175,7 +175,7 @@
 		</answer>
 	</exploration>
 
-</subsection>
+</subsubsection>
 
 
 
