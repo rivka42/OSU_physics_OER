@@ -88,7 +88,7 @@
 -->
 
 <preface>
-    <title>User's Guide</title>
+    <title>Student Guide</title>
     
     <p>
       This website is primarily intended as a collection of pre-class resources that help you learn and practice introductory physics concepts.  Most sections are designed to have a few different core elements, each of which has a different purpose.
@@ -98,7 +98,7 @@
     </p>
 
     <p>
-      <xref ref="vid-vector-operations"/>
+      <alert>Example of Video Lesson:</alert> <xref ref="vid-vector-operations"/>
     </p>
 
     <p>
@@ -106,11 +106,11 @@
     </p>
 
     <p>
-      <xref ref="sm_units"/>
+      <alert>Example of an important aspect:</alert> <xref ref="sm_units"/>
     </p>
 
     <p>
-      <xref ref="law_N2L"/>
+      <alert>Example of a key physical principle:</alert> <xref ref="law_N2L"/>
     </p>
 
     <p>

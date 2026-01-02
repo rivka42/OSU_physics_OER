@@ -38,9 +38,9 @@ Charging an object, by adding excess charge, can occur in several ways. One way 
     		<image source="elec/charge_rub.png" width = "100%" ></image>
     </figure>
     
-    <exercises>
+    <subsubsection>
   <title>Charging through friction</title>
-    </exercises> 
+    </subsubsection> 
 
     <p>
 When two materials slide against one another, there is friction between the two contact surfaces. Friction can break the bonds holding a molecule together. Charging through friction occurs when an electrically neutral molecule is broken apart into a positive and negative ion by rubbing it against another object. Often electrons are shared in large molecules. When the molecular bonds are broken, part of the molecule has net positive charge and part of the molecule has net negative charge since. This is how a plastic rod can be charged by rubbing it with wool. 
@@ -53,9 +53,9 @@ When two materials slide against one another, there is friction between the two 
     		<image source="elec/charge_ion.png" width = "100%" ></image>
     </figure>
     
-    <exercises>
+    <subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
 			<title>Charging an Object</title>
 			<p>
 
@@ -69,8 +69,8 @@ When two materials slide against one another, there is friction between the two 
 			 </li>
 			 </ol>
 			 </p>
-		</exercise>
-   </exercises>
+		</activity>
+   </subsubsection>
 	
 </section>
 

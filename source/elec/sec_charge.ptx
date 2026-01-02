@@ -4,6 +4,8 @@
 	<title>Charge</title>
 		
     <video youtube="bjUpOgW6bho"><description>Introducing charge.</description></video>
+
+    <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<p>Electric charge is a fundamental property of matter. Objects that are <q>charged</q> can display interesting behaviors when interacting with electric fields that we will explore in this chapter.</p>
 
@@ -80,23 +82,23 @@ In examining the behavior of positive and negative charge, we can find that unli
 </table>
 </note>
 	
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
       <title>Neutral Atom</title>
       <p>
 
       </p>
 			<p>A neutral atom always has the same number of protons as electrons.  What is the total charge on such an atom?</p>
-		</exercise>
-		<exercise>
+		</activity>
+		<activity>
       <title>Charged Object</title>
       <p>
 
       </p>
-			<p>Suppose you have an object with a net charge of exactly 1.0 C.  How many more protons than electrons are in this object?  Based on this, do you think a net charge of 1.0 C is typical for an everyday object, or is it much larger or smaller than you would expect for an everyday object?</p>
-		</exercise>
-	</exercises>
+			<p>Suppose you have an object with a net charge of exactly <m>1.0 \mathrm{~C}</m>.  How many more protons than electrons are in this object?  Based on this, do you think a net charge of <m>1.0 \mathrm{~C}</m> is typical for an everyday object, or is it much larger or smaller than you would expect for an everyday object?</p>
+		</activity>
+	</subsubsection>
 
 </section>
 

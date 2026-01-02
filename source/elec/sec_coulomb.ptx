@@ -3,11 +3,15 @@
 <section xml:id="sec_coulomb" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Coulomb's Law</title>
 
-	<p>
-	The force between two point charges was experimentally observed and measured in 1785 by the French scientist, Charles Augustin Coulomb. This force is referred to as Coulomb's Law:
-	</p>
+
 		
     <video youtube="ZYcN0GEbOWA"><description>Introducing Coulomb's Law.</description></video>
+
+	<subsubsection><title>Key Ideas</title></subsubsection>
+
+		<p>
+	The force between two point charges was experimentally observed and measured in 1785 by the French scientist, Charles Augustin Coulomb. This force is referred to as Coulomb's Law.
+	</p>
 	
 	<definition>
 		<title>Coulomb's Law</title>
@@ -28,9 +32,9 @@ where <m>\hat{r}</m> is a unit vector that points from the location of the point
  Recall that Newton's third law states that the forces on each particle are equal and opposite. Therefore, both particles exert forces on each other through the fields they generate. The force is attractive for charges with opposite signs and repulsive for charges with like signs. 
  </p> 
  
- 	<exercises>
+ 	<subsubsection>
 		<title>Parallels in Gravity</title>
-		</exercises>
+		</subsubsection>
 		<p> 
 		We previously explored the similarities between the gravitational field and electric field. Recall the Newton's Universal Law of Gravity:
 		
@@ -53,10 +57,10 @@ A consequence of these similarities is that much of the physical and mathematica
 
 		</p> 
 
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
 		
-		<exercise>
+		<activity>
 		<title>The Dipole Force</title>
 		<p>
 
@@ -103,9 +107,9 @@ Suppose that the lengths <m> r \gg d </m> as is usually the case for atomic dipo
 </ol> 	 
 		</p>
 	 
-		</exercise> 
+		</activity> 
 		
-		<exercise> 
+		<activity> 
 		<title>Two Protons</title>
 		<p>
 
@@ -127,8 +131,8 @@ Suppose that the lengths <m> r \gg d </m> as is usually the case for atomic dipo
 		</li>
 		</ol>
 		</p>
-		</exercise> 
-	</exercises>
+		</activity> 
+	</subsubsection>
 	
 </section>
 

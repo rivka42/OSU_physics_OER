@@ -7,9 +7,11 @@
 
 <video youtube="7R74AflPtso"><description>Introducing the electric field of a point charge.</description></video>
 
+<subsubsection><title>Key Ideas</title></subsubsection>
+
 <definition xml:id="point_charge">
 	<title>
-	Single Point Charge
+	Electric Field Created by a Point Charge
 	</title>
 		<statement>
 		
@@ -65,17 +67,17 @@ The constant <m> \epsilon_{0} </m> (pronounced <q>epsilon naught</q>) is a const
 	</p> 
 	</note>
 	
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
-	<exercise>
+	<activity>
 		<title>Electric Field Vector Maps</title>
 			<p>
 			
 			</p>
 			<p>Recall <xref ref="x_graphing-r-hat"/>, in which you made a 2D-map of a vector field.  The vector field you mapped is proportional to <m>\hat{r}</m>! Map this vector field and describe how this vector field changes (or stays the same) at different points in space.  What do you think the map would look like if you could make it three-dimensional?</p>
-		</exercise>
-		<exercise>
-			<title>Explanation: Three Charges</title>
+		</activity>
+		<explanation>
+			<title>Three Charges</title>
 			<statement>
 				<p>
 			
@@ -85,11 +87,11 @@ The constant <m> \epsilon_{0} </m> (pronounced <q>epsilon naught</q>) is a const
 			<solution>
 				<video youtube="XzjpnavhG14"><description>A solution to the Explanation: Three Charges activity.</description></video>
 			</solution>
-		</exercise>
+		</explanation>
 		<figure xml:id="x_fig_three-charges">
 			  <title>Three Charges Figure</title>
     		<caption>Three charges</caption>
     		<image source="three-charges.png" width = "70%" ></image>
 		</figure>
-	</exercises>
+	</subsubsection>
 </section>

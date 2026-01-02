@@ -3,14 +3,17 @@
 <section xml:id="sec_vector-maps" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Electric Field Vector Maps</title>
 
-	  	<p>
-Electric fields exist in three dimensions of space around any charge or charge distribution. One of the major conceptual difficulties when first encountering the idea of electric fields, is that interacting with the field through our primary senses of sight, sound and touch is not possible. Electric and gravitational fields are invisible, and we can really only measure their effect on other objects through the forces they exert or through indirect measurement of the <em> potential difference </em>, a subject for a later chapter. 
-</p>
 
-	  <p>Electric field vector maps offer us a way to visualize what the field might look like in space:</p>
 		
     <video youtube="DbYsyQ1xpdQ"><description>Introducing electric field vector maps.</description></video>
 				
+	<subsubsection><title>Key Ideas</title></subsubsection>
+
+	<!--One of the major conceptual difficulties when first encountering the idea of electric fields, is that interacting with the field through our primary senses of sight, sound and touch is not possible. Electric and gravitational fields are invisible, and we can really only measure their effect on other objects through the forces they exert or through indirect measurement of the <em> potential difference </em>, a subject for a later chapter.-->
+
+		  	<p>
+Electric fields exist in three dimensions of space around any charge or charge distribution.  Electric field vector maps offer a way to visualize what the field might look like in space:</p>
+
 	<conjecture xml:id="rep_vector-map">
 		<title>Electric Field Vector Map</title>
 		<statement>
@@ -23,23 +26,23 @@ Electric fields exist in three dimensions of space around any charge or charge d
 
 	<p>For a given point in space, electric field vector maps tell us how big and in what direction the electric field is.</p>
 
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
 			<title>Practice Sketching Field Maps</title>
 			<p>
 		
 			</p>
 			<p>Sketch (by hand) a vector map for the following field in the <m>xy</m>-plane: <m>\vec{S} = x \hat{x} + y \hat{y}</m>.  Sketch at least 20 vectors showing how this vector field changes in both directions.</p>
-		</exercise>
-		<exercise xml:id="x_graphing-r-hat">
+		</activity>
+		<activity xml:id="x_graphing-r-hat">
 			<title>Practice Sketching Field Maps</title>
 			<p>
 		
 			</p>
 			<p>Use a graphing calculator (such as <url href="https://www.desmos.com/calculator/eijhparfmd" visual="Desmos" />) to sketch the following electric field in the <m>xy</m>-plane: <m>\vec{E} = \frac{7x}{\sqrt{x^2+y^2}} \hat{x} + \frac{7y}{\sqrt{x^2+y^2}} \hat{y}</m>.</p>
-		</exercise>
-	</exercises>
+		</activity>
+	</subsubsection>
 
 </section>
 

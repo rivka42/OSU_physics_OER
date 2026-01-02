@@ -71,9 +71,9 @@ Using the shape of the field from a single point charge, and vector superpositio
  	</p> 
 
 			
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
 		<title>Field Lines</title>
 			<p>
 
@@ -97,17 +97,17 @@ Using the shape of the field from a single point charge, and vector superpositio
 			  </li>
 			   </ol> 
 			  </p>
-		</exercise>
+		</activity>
 		
-		<exercise>
+		<activity>
 		<title>Field Line Simulation</title>
 		<p>
 
 		</p>
 		<p>Use this <url href="https://icphysweb.z13.web.core.windows.net/simulation.html" visual="electric field simulation"/> to help you understand the shape electric field lines take around various charges or charge distributions. Do the electric field lines you sketched previously agree with the simulation?
 		</p>
-		</exercise>
-	</exercises>
+		</activity>
+	</subsubsection>
 
 </section>
 

@@ -10,16 +10,16 @@
 
 	 <p>Generally, the study of electromagnetism is broken into two parts: <alert> electricity </alert> and <alert> magnetism</alert>, focusing on electric and magnetic phenomena, respectively. Further, electrostatics as in <em> static</em>, or stationary, deals with the behaviors and properties of stationary charges while electrodynamics deals with the behaviors and properties of moving charges. We will explore more about electric and magnetic fields and how matter and charge respond to these fields in the chapters to come.</p> 
 	
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
 			<title>Electricity</title>
 			<p>
 			
 			</p>
 			  <p>Describe an instance in your everyday life when you have experienced a phenomenon related to charge or electricity.</p>
-		</exercise>
-	</exercises>
+		</activity>
+	</subsubsection>
 
 </section>
 
