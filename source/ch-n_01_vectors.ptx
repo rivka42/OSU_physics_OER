@@ -11,11 +11,7 @@ Vector analysis is an important aspect of quantifying motion that occurs in more
 You will begin your study of physics by gaining a foundational understanding of what vectors are and how to represent them visually and mathematically. 
     </p>
 		
-    
-</introduction>
-
-<objectives>
-      <title>Learning Outcomes</title>
+    <p><alert>Learning Outcomes</alert></p>
       
       <p>After successful completion of this chapter, you will be able to:
  <ol>
@@ -35,7 +31,11 @@ You will begin your study of physics by gaining a foundational understanding of 
 </ol>
 
 </p>
-    </objectives>
+
+    
+</introduction>
+
+      
   
   <!--<xi:include href="./vec/toy-sec.ptx" />-->
 	
