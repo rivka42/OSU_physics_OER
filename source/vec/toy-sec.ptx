@@ -153,9 +153,9 @@
 		</p>
 	</lemma>
 	<algorithm>
-		<title>Algorithm</title>
+		<title>Video Example</title>
 		<p>
-			This is an Algorithm.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+			This is a Video Example (Algorithm).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
 		</p>
 	</algorithm>
 	<proposition>
@@ -177,9 +177,9 @@
 		</p>
 	</fact>
 	<identity>
-		<title>Identity</title>
+		<title>Video Solution</title>
 		<p>
-			This is an Identity.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+			This is a Video Solution (Identity).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
 		</p>
 	</identity>
 </subsubsection>

@@ -8,7 +8,7 @@ Representing vectors as arrows is a good way to get a geometric understanding an
 </p>
 
 <me>
-\vec{A} = a_x\hat{x}+a_y\hat{y}+a_z\hat{z}
+\vec{A} = A_x\hat{x}+A_y\hat{y}+A_z\hat{z}
 </me>
     
  <p>
@@ -16,7 +16,7 @@ Now you can <em>algebraically</em> compute the vector operations you learned pre
  </p>
  
  <me>
- a\vec{A} = (aA_x)\hat{x} + (aA_y)\hat{y} + (aA_z)\hat{z}
+ b\vec{A} = (bA_x)\hat{x} + (bA_y)\hat{y} + (bA_z)\hat{z}
  </me>
 
 <axiom>

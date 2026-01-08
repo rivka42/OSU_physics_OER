@@ -5,29 +5,10 @@
 
     <p>
 You will often need to orient a vector within a particular coordinate system. A unit vector is a vector that has magnitude of one. 
-For this reason, unit vectors are sometimes called direction vectors.
+For this reason, <xref ref="def_unit-vectors"/> are sometimes called direction vectors.
     </p>
 
-	<definition xml:id="def_unit-vector">
-<title>Unit Vectors</title>
-<p></p>
-<p>
-Symbols like <m>\hat{x}</m> and <m>\hat{y}</m> are special vectors called <em>unit vectors</em> or basis vectors.  A unit vector has the following properties:
-</p>
 
-<ul>
-<li><p>A unit vector has a magnitude of 1</p></li>
-<li><p>A unit vector has no dimensions: the magnitude is 1, not 1 meter or 1 second</p></li>
-<li><p>A unit vector always points in the direction along which the given variable is <em>increasing</em>: for example, <m>\hat{x}</m> points in the direction of increasing <m>x</m></p></li>
-<li><p>A unit vector is written with a <q>hat</q> symbol instead of an <q>arrow</q> symbol.</p></li>
-<li><p>You can turn any vector into a unit vector by dividing it by its own magnitude: for example, <m>\hat{v} = \frac{\vec{v}}{|\vec{v}|}</m></p></li>
-</ul>
-	
-	<p>
-	Some authors, textbooks, and resources will use <m>\hat{i}</m> and <m>\hat{j}</m>, respectively, instead of <m>\hat{x}</m> and <m>\hat{y}</m>, but they mean the same thing.  
-	You can learn more in <xref ref="sec_unit_vector" />.
-</p>
-</definition>
 
 	<!--
 	<definition xml:id="def_unit-vector">
