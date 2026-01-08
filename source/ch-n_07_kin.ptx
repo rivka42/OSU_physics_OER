@@ -3,14 +3,16 @@
 <chapter xml:id="ch_kinematics" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Kinematics</title>
 <introduction>				
-	<p><alert>Learning Outcomes</alert></p>
+	</introduction>
 		
-		<p>After successful completion of this chapter, you will be able to: </p>
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
 <ol>
-<li>Analyze translational motion using quantitative equations in cases of constant and non-constant acceleration.</li>
+<li><p>Analyze translational motion using quantitative equations in cases of constant and non-constant acceleration.</p></li>
 </ol>
 
-</introduction>
+</objectives>
 
 	<!--
   <xi:include href="./mot/sec_what-is-motion.ptx" />

@@ -5,24 +5,23 @@
 	<introduction>
     <p>In this chapter, you will build a model for waves.</p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-  
-<p> After successful completion of this chapter, you will be able to:
+	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
  <ol>
-<li>Use superposition to understand how waves interfere with each other</li>
-<li>Describe what happens when a wave hits a boundary that is fixed or free</li>
-<li>Define path length difference</li>
-<li>Define maximum constructive and destructive interference</li>
-<li>Analyze the path length difference of a system to determine the type of interference seen</li>
-<li>Define standing waves</li>
+<li><p>Use superposition to understand how waves interfere with each other</p></li>
+<li><p>Describe what happens when a wave hits a boundary that is fixed or free</p></li>
+<li><p>Define path length difference</p></li>
+<li><p>Define maximum constructive and destructive interference</p></li>
+<li><p>Analyze the path length difference of a system to determine the type of interference seen</p></li>
+<li><p>Define standing waves</p></li>
 
-<li></li>
+
 </ol>
 
-</p>
-
-</introduction>
+</objectives>
 
     <!--INTRODUCTORY SECTIONS-->
 

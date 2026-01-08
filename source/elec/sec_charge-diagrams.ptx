@@ -3,7 +3,20 @@
 <section xml:id="sec_charge-diagrams" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Charge Diagrams</title>
 		
-    <video youtube="QqhcN2C6SJA"><description>Introducing charge diagrams.</description></video>
+    <corollary xml:id="vid-charge-diagrams">
+	<title>Charge Diagrams</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="QqhcN2C6SJA"><description>Introducing charge diagrams.</description></video>
+
+	</statement>
+  </corollary>
+
+	<subsubsection><title>Key Ideas</title></subsubsection>
 		
 	<conjecture xml:id="rep_charge-diagram">
 		<title>Charge Diagram</title>
@@ -15,9 +28,9 @@
 		</statement>
 	</conjecture>
 
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise xml:id="chg-dens">
+		<activity xml:id="chg-dens">
 			<title>Charge Densities</title>
 			<p>
 
@@ -29,9 +42,9 @@
 					<li><m>\sigma(s,\theta) = +\sigma_3 \frac{s^2}{R^2}</m> between <m>s=0</m> and <m>s=R</m>, where <m>s</m> is the radial distance from the origin.</li>
 				</ul>
 			</p>
-		</exercise>
+		</activity>
 
-		<exercise>
+		<activity>
 			<title>Charge Diagram</title>
 			<p>
 
@@ -42,8 +55,8 @@
 				<image source="Charged_disc.png" width = "50%" ></image>
 			</figure>
 			<p>Shown above is a charge diagram for a disc.  Indicate the location with the greatest charge density.</p>
-		</exercise>
+		</activity>
 		
-	</exercises>
+	</subsubsection>
 
 </section>

@@ -5,7 +5,7 @@
 
 	<p>For an object with a continuous charge density, you can use the <alert>Chop-Multiply-Add</alert> strategy to construct and evaluate an integral for the electric field.  You previously used this strategy in <xref ref="sec_calc1"/> and <xref ref="sec_modeling-inertia"/>.  An example for a one-dimensional object with charge density <m>\lambda(x)</m> is included below.</p>
 	
-	<p><term>Chop:</term> You can start by chopping up the object into small pieces.  Each piece of the object has charge <m>dq = \lambda dx</m>, where the <m>dx</m> represents the infinitesimal length of the piece and <m>\lambda(x)</m> is the charge density of the object.  In general, <m>\lambda</m> can be either uniform (constant over the entire object) or non-uniform (in which case it will change with <m>x</m>).</p>
+	<p><term>Chop:</term> You can start by chopping up the object into small pieces.  Each piece of the object has charge <m>dq = \lambda dx</m>, where the <m>dx</m> represents the infinitesimal length of the piece and <m>\lambda(x)</m> is the charge density of the object.  In general, <m>\lambda</m> can be either uniform (constant over the entire object) or non-uniform (non-constant over the object).</p>
 	
 	<note>
 	<title>Choosing Coordinates for Integrals</title>
@@ -16,16 +16,16 @@
 	
 	<p><term>Add:</term> Last, once you have the infinitesimal <m>d\vec{E}</m>, you <em>add</em> together every <m>d\vec{E}</m> over the entire object: <me>\vec{E} = \int d\vec{E} = \int  k\frac{\lambda(x)dx}{r^2}\hat{r}</me></p>
 
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
 			<title>Chop-Multiply-Add</title>
 			<p>
 
 			</p>
 			<p>For each of the charge densities in <xref ref="chg-dens"/>, set up an integral to calculate the corresponding electric field. Make sure to choose a coordinate system that would help make calculations easier!</p>
-		</exercise>
-	</exercises>
+		</activity>
+	</subsubsection>
 
   
 

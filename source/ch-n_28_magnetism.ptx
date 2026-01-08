@@ -5,21 +5,20 @@
 	<introduction>
     <p> In this chapter you will learn about magnetism.</p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-	<p>
-		After successful completion of this chapter, you will be able to:
-		<ol>
-			<li>Determine the magnetic field at a given location due to a collection of line currents.</li>
-			<li>Determine the magnetic force on a charged object with a given speed due to a magnetic field.</li>
-			<li>Use forces and Newton’s 2nd Law to describe the motion of charges subject to magnetic forces.</li>
-			<li>Distinguish between the magnetic force and the magnetic field.</li>
-			<li>Determine the magnetic potential energy of a magnetic dipole in a magnetic field.</li>
-			<li>Determine the torque on a magnetic dipole due to a magnetic field.</li>
-		</ol>
-	</p>
-
 	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
+		<ol>
+			<li><p>Determine the magnetic field at a given location due to a collection of line currents.</p></li>
+			<li><p>Determine the magnetic force on a charged object with a given speed due to a magnetic field.</p></li>
+			<li><p>Use forces and Newton’s 2nd Law to describe the motion of charges subject to magnetic forces.</p></li>
+			<li><p>Distinguish between the magnetic force and the magnetic field.</p></li>
+			<li><p>Determine the magnetic potential energy of a magnetic dipole in a magnetic field.</p></li>
+			<li><p>Determine the torque on a magnetic dipole due to a magnetic field.</p></li>
+		</ol>
+	</objectives>
 
 	<!--INTRODUCTORY SECTIONS-->
 	<xi:include href="./mag/sec_what-is-magnetism.ptx" />

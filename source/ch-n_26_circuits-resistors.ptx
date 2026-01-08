@@ -5,19 +5,18 @@
 	<introduction>
     <p> In this chapter you will learn about resistors in circuits.</p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-	<p>
-		After successful completion of this chapter, you will be able to:
-		<ol>
-			<li>Determine the amount of current flowing through a circuit with one or more resistors and a single battery, both quantitatively and qualitatively.</li>
-			<li>Determine the amount of current flowing through a circuit with one or more resistors and more than one battery, both quantitatively and qualitatively.</li>
-			<li>Determine the equivalent resistance of a circuit.</li>
-			<li>Determine the power and/or energy used by a resistor.</li>
-		</ol>
-	</p>
-
 	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
+		<ol>
+			<li><p>Determine the amount of current flowing through a circuit with one or more resistors and a single battery, both quantitatively and qualitatively.</p></li>
+			<li><p>Determine the amount of current flowing through a circuit with one or more resistors and more than one battery, both quantitatively and qualitatively.</p></li>
+			<li><p>Determine the equivalent resistance of a circuit.</p></li>
+			<li><p>Determine the power and/or energy used by a resistor.</p></li>
+		</ol>
+	</objectives>
 
 	<!--INTRODUCTORY SECTIONS-->
 	

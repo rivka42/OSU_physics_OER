@@ -5,20 +5,19 @@
 	<introduction>
     <p> In this chapter you will focus on applying physics models to rotational motion.</p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-  
-<p>After successful completion of this chapter, you will be able to:
+	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
  <ol>
-<li>Define centripetal acceleration</li>
-<li>Define angular position, angular velocity, and angular acceleration</li>
-<li>Analyze systems undergoing uniform and non-uniform circular motion</li>
-<li>Identify systems that are rolling without slipping</li>
+<li><p>Define centripetal acceleration</p></li>
+<li><p>Define angular position, angular velocity, and angular acceleration</p></li>
+<li><p>Analyze systems undergoing uniform and non-uniform circular motion</p></li>
+<li><p>Identify systems that are rolling without slipping</p></li>
 </ol>
 
-</p>
-
-</introduction>
+</objectives>
 
     <!--INTRODUCTORY SECTIONS-->
 		<xi:include href="./rot/sec_models.ptx" />

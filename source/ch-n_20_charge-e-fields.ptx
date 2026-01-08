@@ -5,16 +5,15 @@
 	<introduction>
     <p> In this chapter you will learn about the fundamental property of charge and electric fields.</p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-	<p>
-		After successful completion of this chapter, you will be able to:
-		<ol>
-			<li></li>
-		</ol>
-	</p>
-
 	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
+		<ol>
+			<li><p></p></li>
+		</ol>
+	</objectives>
 
 	<!--INTRODUCTORY SECTIONS-->
 	<xi:include href="./elec/sec_what-is-elec.ptx" />

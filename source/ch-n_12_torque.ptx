@@ -5,20 +5,19 @@
 	<introduction>
     <p> In this chapter you will focus on applying physics models to rotational dynamics.</p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-  
-<p>After successful completion of this chapter, you will be able to:
+	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
  <ol>
-<li>Draw extended free body diagrams</li>
-<li>Define torque</li>
-<li>Define the rotational law of motion</li>
-<li>Analyze systems using torque and force analysis</li>
+<li><p>Draw extended free body diagrams</p></li>
+<li><p>Define torque</p></li>
+<li><p>Define the rotational law of motion</p></li>
+<li><p>Analyze systems using torque and force analysis</p></li>
 </ol>
 
-</p>
-
-</introduction>
+</objectives>
 
     <!--INTRODUCTORY SECTIONS-->
 

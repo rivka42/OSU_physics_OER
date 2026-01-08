@@ -3,7 +3,18 @@
 <section xml:id="sec_charge" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>Charge</title>
 		
-    <video youtube="bjUpOgW6bho"><description>Introducing charge.</description></video>
+    <corollary xml:id="vid-charge">
+	<title>Charge</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="bjUpOgW6bho"><description>Introducing charge.</description></video>
+
+	</statement>
+  </corollary>
 
     <subsubsection><title>Key Ideas</title></subsubsection>
 	

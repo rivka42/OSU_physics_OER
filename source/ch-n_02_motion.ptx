@@ -5,25 +5,27 @@
 <introduction>
     <p>Now that you have a foundation in vectors, you will begin looking at your first major physics topic: motion.</p>
 				
-	<p><alert>Learning Outcomes</alert></p>
+	</introduction>
 		
-		<p>After successful completion of this chapter, you will be able to:</p>
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
 <ol>
-<li>Analyze translational motion using a motion diagram.</li>
-<li>Apply the particle model to analyze translational motion.</li>
-<li>Define average velocity.</li>
-<li>Define average acceleration.</li>
-<li>Define instantaneous velocity.</li>
-<li>Define instantaneous acceleration.</li>
-<li>Analyze motion in a position versus time graph.</li>
-<li>Draw a correlation between motion diagrams and position versus time graphs.</li>
-<li>Draw a velocity versus time and acceleration versus time graph from a position versus time graph and vice versa.</li>
-<li>Determine the sign of position, velocity and acceleration within a defined coordinate system.</li>
-<li>Determine position, distance, velocity and speed from graphs of position and velocity versus time.</li>
-<li>Make sense of a symbolic quantity using covariational reasoning.</li>
+<li><p>Analyze translational motion using a motion diagram.</p></li>
+<li><p>Apply the particle model to analyze translational motion.</p></li>
+<li><p>Define average velocity.</p></li>
+<li><p>Define average acceleration.</p></li>
+<li><p>Define instantaneous velocity.</p></li>
+<li><p>Define instantaneous acceleration.</p></li>
+<li><p>Analyze motion in a position versus time graph.</p></li>
+<li><p>Draw a correlation between motion diagrams and position versus time graphs.</p></li>
+<li><p>Draw a velocity versus time and acceleration versus time graph from a position versus time graph and vice versa.</p></li>
+<li><p>Determine the sign of position, velocity and acceleration within a defined coordinate system.</p></li>
+<li><p>Determine position, distance, velocity and speed from graphs of position and velocity versus time.</p></li>
+<li><p>Make sense of a symbolic quantity using covariational reasoning.</p></li>
 </ol>
 
-</introduction>
+</objectives>
 	
 	<!--INTRODUCTORY SECTIONS-->
   <xi:include href="./mot/sec_what-is-motion.ptx" />

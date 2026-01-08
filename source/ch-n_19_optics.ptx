@@ -5,21 +5,20 @@
 	<introduction>
     <p> In this chapter you will learn how to model light.</p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-	<p>
-		After successful completion of this chapter, you will be able to:
-		<ol>
-			<li>Draw ray diagrams using the Ray Model for Light.</li>
-			<li>Explain how light is reflected and refracted upon hitting a surface or entering a medium.</li>
-			<li>Apply the law of refraction to determine how light travels through different mediums.</li>
-			<li>Explain how images are produced by flat and curved mirrors.</li>
-			<li>Explain how lenses work.</li>
-			<li>Differentiate between the wave and ray models for light, and explain in what cases they are most useful.</li>
-		</ol>
-	</p>
-
 	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
+		<ol>
+			<li><p>Draw ray diagrams using the Ray Model for Light.</p></li>
+			<li><p>Explain how light is reflected and refracted upon hitting a surface or entering a medium.</p></li>
+			<li><p>Apply the law of refraction to determine how light travels through different mediums.</p></li>
+			<li><p>Explain how images are produced by flat and curved mirrors.</p></li>
+			<li><p>Explain how lenses work.</p></li>
+			<li><p>Differentiate between the wave and ray models for light, and explain in what cases they are most useful.</p></li>
+		</ol>
+	</objectives>
 
 	<!--INTRODUCTORY SECTIONS-->
 

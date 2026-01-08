@@ -5,17 +5,16 @@
 	<introduction>
     <p> In this chapter you will learn how to calculate the magnetic field.</p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-	<p>
-		After successful completion of this chapter, you will be able to:
-		<ol>
-			<li>Apply Ampere’s Law to arbitrary loops.</li>
-			<li>Use Ampere's Law to solve for the magnetic field in symmetric situations.</li>
-		</ol>
-	</p>
-
 	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
+		<ol>
+			<li><p>Apply Ampere’s Law to arbitrary loops.</p></li>
+			<li><p>Use Ampere's Law to solve for the magnetic field in symmetric situations.</p></li>
+		</ol>
+	</objectives>
 
 	<!--INTRODUCTORY SECTIONS-->
 	

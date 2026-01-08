@@ -10,34 +10,38 @@ Vector analysis is an important aspect of quantifying motion that occurs in more
     <p> 
 You will begin your study of physics by gaining a foundational understanding of what vectors are and how to represent them visually and mathematically. 
     </p>
+
+    </introduction>
 		
-    <p><alert>Learning Outcomes</alert></p>
+    <objectives>
       
-      <p>After successful completion of this chapter, you will be able to:
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
+
  <ol>
-<li>Explain the difference between a vector and a scalar</li>
-<li>List common vectors and scalars</li>
-<li>Represent vectors using multiple representations (diagrams, graphs, words, equations)</li>
-<li>Resolve a vector into components</li>
-<li>Define and use unit vector notation</li>
-<li>Add and subtract vectors graphically and mathematically</li>
-<li>Multiply a vector by a scalar quantity</li>
-<li>Move between the component representation and the magnitude and direction angle representation of vectors. </li>
-<li>Determine position and displacement vectors</li>
-<li>Construct scientific explanations and reasoning</li>
+<li><p>Explain the difference between a vector and a scalar</p></li>
+<li><p>List common vectors and scalars</p></li>
+<li><p>Represent vectors using multiple representations (diagrams, graphs, words, equations)</p></li>
+<li><p>Resolve a vector into components</p></li>
+<li><p>Define and use unit vector notation</p></li>
+<li><p>Add and subtract vectors graphically and mathematically</p></li>
+<li><p>Multiply a vector by a scalar quantity</p></li>
+<li><p>Move between the component representation and the magnitude and direction angle representation of vectors. </p></li>
+<li><p>Determine position and displacement vectors</p></li>
+<li><p>Construct scientific explanations and reasoning</p></li>
 <!--
-<li>Take the dot product between two vectors</li>
+<li><p>Take the dot product between two vectors</p></li>
 -->
 </ol>
 
-</p>
+
+</objectives>
 
     
-</introduction>
+
 
       
   
-  <!--<xi:include href="./vec/toy-sec.ptx" />-->
+  <xi:include href="./vec/toy-sec.ptx" />
 	
 	<!--INTRODUCTORY SECTIONS-->
   <xi:include href="./vec/sec_what-are-vectors.ptx" />

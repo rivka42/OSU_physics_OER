@@ -5,21 +5,20 @@
 	<introduction>
     <p> In this chapter you will learn how to model light.</p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-	<p>
-		After successful completion of this chapter, you will be able to:
-		<ol>
-			<li>Define the wave model for light.</li>
-			<li>Apply the small angle approximation.</li>
-			<li>Define constructive and destructive interference.</li>
-			<li>Explain how diffration is produced.</li>
-			<li>List different optical phenomenon and explain the fundamental concepts behind them.</li>
-			<li>Define the quantum model for light.</li>
-		</ol>
-	</p>
-
 	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
+		<ol>
+			<li><p>Define the wave model for light.</p></li>
+			<li><p>Apply the small angle approximation.</p></li>
+			<li><p>Define constructive and destructive interference.</p></li>
+			<li><p>Explain how diffration is produced.</p></li>
+			<li><p>List different optical phenomenon and explain the fundamental concepts behind them.</p></li>
+			<li><p>Define the quantum model for light.</p></li>
+		</ol>
+	</objectives>
 
 	<!--INTRODUCTORY SECTIONS-->
 

@@ -41,11 +41,14 @@ $beaver-orange: #D73F09;
 // rounded box with border
 .definition-like:not(.dark-mode),
 .example-like:not(.dark-mode),
+.example:not(.dark-mode),
 .remark-like:not(.dark-mode),
 .axiom:not(.dark-mode),
 .conjecture:not(.dark-mode),
 .principle:not(.dark-mode),
 .corollary:not(.dark-mode),
+.identity:not(.dark-mode),
+.algorithm:not(.dark-mode),
 .heuristic:not(.dark-mode),
 .hypothesis:not(.dark-mode),
 .assumption:not(.dark-mode) {
@@ -62,7 +65,9 @@ $beaver-orange: #D73F09;
       $background-color: $background-moondust-half,
     );
 }
-.corollary:not(.dark-mode) {
+.corollary:not(.dark-mode),
+.identity:not(.dark-mode),
+.algorithm:not(.dark-mode) {
   @include C-box-mixin.box(
       $border-color: $beaver-orange,
       $heading-background: $beaver-orange,

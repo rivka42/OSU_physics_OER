@@ -3,7 +3,18 @@
 <section xml:id="sec_electric-field" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>Electric Field</title>
 		
-    <video youtube="D3uxD64rcGI"><description>Introducing the electric field.</description></video>
+    <corollary xml:id="vid-elec-field">
+	<title>Electric Field</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="D3uxD64rcGI"><description>Introducing the electric field.</description></video>
+
+	</statement>
+  </corollary>
 	
 <subsubsection><title>Key Ideas</title></subsubsection>
 

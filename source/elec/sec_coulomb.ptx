@@ -5,7 +5,18 @@
 
 
 		
-    <video youtube="ZYcN0GEbOWA"><description>Introducing Coulomb's Law.</description></video>
+    <corollary xml:id="vid-coulomb">
+	<title>Coulomb's Law</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="ZYcN0GEbOWA"><description>Introducing Coulomb's Law.</description></video>
+
+	</statement>
+  </corollary>
 
 	<subsubsection><title>Key Ideas</title></subsubsection>
 

@@ -33,9 +33,9 @@ Determine the bounds of integration. We need to sum over all the <em> charges </
 </ol>
 	</p>
 	-->
-	<exercises>
+	<subsubsection>
 	<title>Warm-up Activities</title>
-		<exercise>
+		<activity>
 				<title>Force Integral</title>
 			<p>
 
@@ -56,17 +56,28 @@ Determine the bounds of integration. We need to sum over all the <em> charges </
 			</li>
 		
 			</ol>
-		</exercise>
-		</exercises>
+		</activity>
+		</subsubsection>
 		
 	<p>Watch the video for a discussion of the most common questions about integrals in physics.</p>
 		
-    <video youtube="yOeQiBM6N-Y"><description>Answers to some of the most common questions about integration in physics.</description></video>
+    <corollary xml:id="vid-integration-interlude">
+	<title>Integration</title>
+	
+	<statement>
+		<p>
+			
+		</p>
 
-	<exercises>
+		<video youtube="yOeQiBM6N-Y"><description>Answers to some of the most common questions about integration in physics.</description></video>
+
+	</statement>
+  </corollary>
+
+	<subsubsection>
 		<title>Activities</title>
 		
-				<exercise>
+				<activity>
 			<title>Moment of Inertia</title>
 			<statement>
 			<p>
@@ -90,10 +101,10 @@ In a course you took previously, you learned that the moment of inertia for a po
 			</p>
 		</statement>
 	
-		</exercise>
+		</activity>
 
 		<!--
-		<exercise>
+		<activity>
 			<title>Line of charge</title>
 			<statement>
 			<p>
@@ -126,10 +137,10 @@ Verify that your expression has the expected behavior if <m> r \gg L</m>. Check 
 			</p>
 		</statement>
 	
-		</exercise>
+		</activity>
 		
 		
-				<exercise>
+				<activity>
 			<title>Semicircle of Charge</title>
 			<statement>
 			<p>
@@ -155,9 +166,9 @@ Find an expression for the electric field at the center point.
 			</p>
 		</statement>
 	
-		</exercise>
+		</activity>
 -->
-	</exercises>
+	</subsubsection>
 	
 </section>
 

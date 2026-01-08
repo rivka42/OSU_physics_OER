@@ -6,26 +6,24 @@
 <introduction>
     <p> In this chapter you will focus on the topics of energy and momentum.</p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-  
-<p>After successful completion of this chapter, you will be able to:
+	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
  <ol>
-<li>Define momentum</li>
-<li>Define impulse</li>
-<li>Evaluate the relationship between impulse and momentum</li>
-<li>Determine when momentum is conserved</li>
-<li>Analyze systems using a conservation of momentum approach</li>
-<li>Analyze elastic and inelastic collisions</li>
-<li>Analyze explosions using a conservation of momentum approach</li>
-<li>Draw diagrams useful for analysis of a system using momentum approach</li>
-<li>Analyze systems that independently conserve momentum and energy</li>
+<li><p>Define momentum</p></li>
+<li><p>Define impulse</p></li>
+<li><p>Evaluate the relationship between impulse and momentum</p></li>
+<li><p>Determine when momentum is conserved</p></li>
+<li><p>Analyze systems using a conservation of momentum approach</p></li>
+<li><p>Analyze elastic and inelastic collisions</p></li>
+<li><p>Analyze explosions using a conservation of momentum approach</p></li>
+<li><p>Draw diagrams useful for analysis of a system using momentum approach</p></li>
+<li><p>Analyze systems that independently conserve momentum and energy</p></li>
 </ol>
 
-</p>
-
-
-</introduction>
+</objectives>
 
 		<!--INTRODUCTORY SECTIONS-->
 		<xi:include href="./en/sec_what-is-momentum.ptx" />

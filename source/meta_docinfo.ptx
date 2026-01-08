@@ -38,6 +38,8 @@
 
 	<rename element="axiom">Key Skill</rename>
   <rename element="corollary">Video Lesson</rename>
+  <rename element="algorithm">Video Example</rename>
+  <rename element="identity">Video Solution</rename>
   <rename element="conjecture">Representation</rename>
   <!---->
 	<rename element="heuristic">Sensemaking Strategy</rename>

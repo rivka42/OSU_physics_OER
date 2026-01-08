@@ -5,17 +5,16 @@
 	<introduction>
     <p> In this chapter you will learn about symmetry and Gauss's Law.</p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-	<p>
-		After successful completion of this chapter, you will be able to:
-		<ol>
-			<li>Apply Gauss’s Law to arbitrary closed surfaces.</li>
-			<li>Use Gauss's Law to solve for the electric field in symmetric situations.</li>
-		</ol>
-	</p>
-
 	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
+		<ol>
+			<li><p>Apply Gauss’s Law to arbitrary closed surfaces.</p></li>
+			<li><p>Use Gauss's Law to solve for the electric field in symmetric situations.</p></li>
+		</ol>
+	</objectives>
 
 	<!--INTRODUCTORY SECTIONS-->
 	

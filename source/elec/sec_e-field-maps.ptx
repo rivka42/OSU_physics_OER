@@ -5,7 +5,18 @@
 
 
 		
-    <video youtube="DbYsyQ1xpdQ"><description>Introducing electric field vector maps.</description></video>
+    <corollary xml:id="vid-vector-maps">
+	<title>Electric Field Vector Maps</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="DbYsyQ1xpdQ"><description>Introducing electric field vector maps.</description></video>
+
+	</statement>
+  </corollary>
 				
 	<subsubsection><title>Key Ideas</title></subsubsection>
 

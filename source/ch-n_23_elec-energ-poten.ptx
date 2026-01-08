@@ -5,19 +5,18 @@
 	<introduction>
     <p> In this chapter you will learn about electric energy and electric potential</p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-	<p>
-		After successful completion of this chapter, you will be able to:
-		<ol>
-			<li>Determine the electric potential energy in a system of charged objects.</li>
-			<li>Distinguish between the electric potential energy stored in a system and the electric potential due to a charge configuration.</li>
-			<li>Determine the electric potential due to a system of charged objects.</li>
-			<li>Use an energy approach to analyze electrostatics systems.</li>
-		</ol>
-	</p>
-
 	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
+		<ol>
+			<li><p>Determine the electric potential energy in a system of charged objects.</p></li>
+			<li><p>Distinguish between the electric potential energy stored in a system and the electric potential due to a charge configuration.</p></li>
+			<li><p>Determine the electric potential due to a system of charged objects.</p></li>
+			<li><p>Use an energy approach to analyze electrostatics systems.</p></li>
+		</ol>
+	</objectives>
 
 	<!--INTRODUCTORY SECTIONS-->
 	

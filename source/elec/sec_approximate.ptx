@@ -35,9 +35,9 @@ where <m> n! </m> denotes the factorial of <m> n</m> and <m> f^{(n)}(a)</m> deno
 
 </p> 
 
-		<exercises>
+		<subsubsection>
 		<title>The Binomial Approximation</title>
-		</exercises>
+		</subsubsection>
 	<p> 
 A binomial is, as the word implies, two numbers added together and sometimes raised to a power. The binomial approximation is a useful mathematical tool for simplifying or approximating symbolic expressions that involve two lengths that are added together when one is much, much larger than the other. Suppose we have an expression where the quantity <m> x \ll 1</m>, and <m> x </m> is a dimensionless quantity, then we can perform a binomial expansion to expand the function in powers of the small quantity <m> x </m>. 
 	<me> (1+x)^n \approx 1+nx+ \frac{n(n-1)}{2}x^2+ ...</me> 
@@ -53,21 +53,19 @@ Where the term <m> nx</m> is called the first order term, and the term containin
 	</p> 
 
 			
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-				<exercise>
+				<activity>
 		<title>Exploring Approximation Techniques with Desmos</title>
 		<p>
 
 		</p>
 		<p> 
-		To understand the usefulness of approximation techniques it is helpful to explore the graph of the function we wish to approximate and the graph of the approximation function to see how they compare. If you are unfamiliar with Desmos, here is a tutorial on getting started with their graphing calculator.
-		<url href="https://help.desmos.com/hc/en-us/articles/4406040715149-Getting-Started-Desmos-Graphing-Calculator#h_01HSTWT4QGE8CCPQH2G6JSFSDM">Desmos Tutorial</url> 
+		To understand the usefulness of approximation techniques it is helpful to explore the graph of the function we wish to approximate and the graph of the approximation function to see how they compare. If you are unfamiliar with Desmos, here is a <url href="https://help.desmos.com/hc/en-us/articles/4406040715149-Getting-Started-Desmos-Graphing-Calculator#h_01HSTWT4QGE8CCPQH2G6JSFSDM">tutorial</url> on getting started with their graphing calculator.
 		</p> 
 		<ol>
 		<li>
-		Navigate to the Binomial Approximation Desmos simulation. Set <m> n=2 </m> and <m> Order = 0</m>. What type of function does <m> n=2 </m> correspond to? Describe the approximated function in words and symbols. Do the two functions overlap at any point? Over what range do they appear to overlap?
-	<url href="https://www.desmos.com/calculator/vyxit0fwat">Binomial Approximation Simulation</url> 	
+		Navigate to the <url href="https://www.desmos.com/calculator/vyxit0fwat">Binomial Approximation Simulation</url>. Set <m> n=2 </m> and <m> Order = 0</m>. What type of function does <m> n=2 </m> correspond to? Describe the approximated function in words and symbols. Do the two functions overlap at any point? Over what range do they appear to overlap? 	
 		</li>
 		<li>
 		Now, change <m> Order = 1</m>. Describe the approximated function in words and symbols. Do the two functions overlap at any point? Over what range do they appear to overlap? Do the functions overlap more or less than before?
@@ -76,14 +74,14 @@ Where the term <m> nx</m> is called the first order term, and the term containin
 	Continue to increase the order of the approximation. What is happening as the order of the approximation gets very large?
 		</li>
 		</ol>
-		</exercise>
+		</activity>
 
-		<exercise>
+		<activity>
 			<title>Approximation Techniques</title>
 			<p>
 		
 			</p>
-			  <p>Consider the expression for the electric field on the y-axis of a coordinate system due to a set of two positive charges <me> \vec{E}(y) = \frac{q}{4 \pi \epsilon_0} \frac{2y}{(y^2 +(d/2)^2)^{3/2}} \hat{y}</me> 
+			  <p>Consider the expression for the electric field on the <m>y</m>-axis of a coordinate system due to a set of two positive charges <me> \vec{E}(y) = \frac{q}{4 \pi \epsilon_0} \frac{2y}{(y^2 +(d/2)^2)^{3/2}} \hat{y}</me> 
 			  where <m> d </m> is the separation between the charges. If we move very far away from the charges such that <m> y \gg d </m> we could expect to recover the electric field of a single point charge with charge <m> 2q</m>. 
 			  <ol>
 			  <li>
@@ -98,9 +96,9 @@ Approximating to first order is sometimes referred to as <em> linearizing </em> 
 Note: Assuming <m> y \gg d </m> is very reasonable in the case of say, observing the field of a helium nucleus (often called an alpha particle) where the separation distance between the two protons is around <m> 1.0 \times 10^{-15} \mathrm{m} </m>. However, this approximation is generally valid if the two lengths being compared are around three to four <em> orders of magnitude </em>  different. 
 
 			  </p>
-		</exercise>
+		</activity>
 		
-	</exercises>
+	</subsubsection>
 	
 		<references>
         <biblio xml:id="ref_binomial_approx">

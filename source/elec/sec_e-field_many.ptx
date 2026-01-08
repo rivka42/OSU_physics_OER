@@ -32,9 +32,9 @@ where <m> i </m> refers to the electric field from the ith charge in the sum.
     		<image source="elec/Efield_many.png" width = "60%" ></image>
     </figure>
 
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
 		<title>Two Protons</title>
 		<p>
 		
@@ -62,9 +62,9 @@ What do you expect the field to look like if you move very far up the <m>y</m>-a
 		</ol>
 				
 		</p> 
-		</exercise>
+		</activity>
 
-		<exercise>
+		<activity>
 			<title>Spreading out Charges</title>
 			<p>
 		
@@ -143,11 +143,11 @@ What do you expect the field to look like if you move very far up the <m>y</m>-a
 					</ol>
 				</p>
 			</answer>
-		</exercise>
+		</activity>
 		
 		
 		
-	</exercises>
+	</subsubsection>
 
 
 	

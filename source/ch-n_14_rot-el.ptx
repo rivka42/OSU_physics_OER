@@ -5,23 +5,22 @@
 	<introduction>
     <p> In this chapter you will focus on applying physics models to rotational motion.</p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-  
-<p>After successful completion of this chapter, you will be able to:
+	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
  <ol>
-<li>Define rotational kinetic energy</li>
-<li>Define rotational work</li>
-<li>Determine when energy is conserved for rotating systems</li>
-<li>Define angular momentum</li>
-<li>Determine when angular momentum is conserved</li>
-<li>Analyze systems using conservation laws</li>
-<li>Define precession</li>
+<li><p>Define rotational kinetic energy</p></li>
+<li><p>Define rotational work</p></li>
+<li><p>Determine when energy is conserved for rotating systems</p></li>
+<li><p>Define angular momentum</p></li>
+<li><p>Determine when angular momentum is conserved</p></li>
+<li><p>Analyze systems using conservation laws</p></li>
+<li><p>Define precession</p></li>
 </ol>
 
-</p>
-
-</introduction>
+</objectives>
 
     <!--INTRODUCTORY SECTIONS-->
 

@@ -6,28 +6,26 @@
 <introduction>
     <p> In this chapter you will focus on the topics of energy.</p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-  
-<p>After successful completion of this chapter, you will be able to:
+	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
  <ol>
-<li>Define work</li>
-<li>Define kinetic energy</li>
-<li>Evaluate the relationship between work and kinetic energy</li>
-<li>Represent energy concepts using multiple representations (diagrams, graphs, words, equations)</li>
-<li>Define a system</li>
-<li>Define potential energy for a system</li>
-<li>Define mechanical energy and determine when mechanical energy is conserved in a system</li>
-<li>Analyze a system using a conservation of energy approach</li>
-<li>Draw diagrams useful for analysis of a system using an energy approach</li>
-<li>Analyze energy diagrams depicting the total energy as the sum of potential and kinetic energy</li>
-<li>Differentiate between conservative and non-conservative forces in an energy framework</li>
+<li><p>Define work</p></li>
+<li><p>Define kinetic energy</p></li>
+<li><p>Evaluate the relationship between work and kinetic energy</p></li>
+<li><p>Represent energy concepts using multiple representations (diagrams, graphs, words, equations)</p></li>
+<li><p>Define a system</p></li>
+<li><p>Define potential energy for a system</p></li>
+<li><p>Define mechanical energy and determine when mechanical energy is conserved in a system</p></li>
+<li><p>Analyze a system using a conservation of energy approach</p></li>
+<li><p>Draw diagrams useful for analysis of a system using an energy approach</p></li>
+<li><p>Analyze energy diagrams depicting the total energy as the sum of potential and kinetic energy</p></li>
+<li><p>Differentiate between conservative and non-conservative forces in an energy framework</p></li>
 </ol>
 
-</p>
-
-
-</introduction>
+</objectives>
 
 		<!--INTRODUCTORY SECTIONS-->
 		<xi:include href="./en/sec_what-is-energy.ptx" />

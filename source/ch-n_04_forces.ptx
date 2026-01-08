@@ -5,17 +5,17 @@
 <introduction>
     <p>We will now build quantitative models for the most common forces.</p>
 		
-	<p><alert>Learning Outcomes</alert></p>
+	</introduction>
 		
-		<p>After successful completion of this chapter, you will be able to:
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
 		<ol>
-			<li>Construct net force equations in multiple dimensions for an object based on its acceleration and its free-body diagram</li>
-		  <li>Solve net force equations symbolically in terms of given variables</li>
-		  <li>Include friction force acting between two objects at rest or in motion</li>
+			<li><p>Construct net force equations in multiple dimensions for an object based on its acceleration and its free-body diagram</p></li>
+		  <li><p>Solve net force equations symbolically in terms of given variables</p></li>
+		  <li><p>Include friction force acting between two objects at rest or in motion</p></li>
 		</ol>
-		</p>
-
-</introduction>
+		</objectives>
 
 	  <!--INTRODUCTORY SECTIONS-->
 		

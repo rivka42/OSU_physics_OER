@@ -5,25 +5,25 @@
 <introduction>
     <p>You will now begin to study the laws that govern how forces impact motion.</p>
 		
-	<p><alert>Learning Outcomes</alert></p>
+	</introduction>
 		
-		<p>After successful completion of this chapter, you will be able to:
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
 		<ol>
-		  <li>Differentiate between contact forces and non-contact forces</li>
-		  <li>State and apply Newton's laws</li>
-		  <li>Draw a free-body diagram of an object or multiple objects in a system</li>
-		  <li>Define the normal force acting on an object in various situations</li>
-			<li>Break a vector into appropriate components</li>
-		  <li>Construct net force equations in multiple dimensions for an object based on its acceleration and its free-body diagram</li>
-		  <li>Solve net force equations symbolically in terms of given variables</li>
-			<li>Use special-case analysis to make sense of a symbolic equation</li>
+		  <li><p>Differentiate between contact forces and non-contact forces</p></li>
+		  <li><p>State and apply Newton's laws</p></li>
+		  <li><p>Draw a free-body diagram of an object or multiple objects in a system</p></li>
+		  <li><p>Define the normal force acting on an object in various situations</p></li>
+			<li><p>Break a vector into appropriate components</p></li>
+		  <li><p>Construct net force equations in multiple dimensions for an object based on its acceleration and its free-body diagram</p></li>
+		  <li><p>Solve net force equations symbolically in terms of given variables</p></li>
+			<li><p>Use special-case analysis to make sense of a symbolic equation</p></li>
    <!--
-   <li>Define tension in a system</li>
+   <li><p>Define tension in a system</p></li>
 	-->
 		</ol>
-		</p>
-
-</introduction>
+	</objectives>
 	
 	  <!--INTRODUCTORY SECTIONS-->
 		  <xi:include href="./for/sec_what-are-forces.ptx" />

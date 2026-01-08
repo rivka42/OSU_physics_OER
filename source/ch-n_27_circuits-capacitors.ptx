@@ -5,20 +5,19 @@
 	<introduction>
     <p> In this chapter you will learn about capacitors in circuits.</p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-	<p>
-		After successful completion of this chapter, you will be able to:
-		<ol>
-			<li>Relate the capacitance of a circuit to the stored charge and the electric potential difference.</li>
-			<li>Determine the energy stored in a capacitor.</li>
-			<li>Determine the equivalent capacitance of a circuit.</li>
-			<li>Use Kirchhoff’s Laws to quantify the behavior of a complicated circuit.</li>
-			<li>Describe the behavior of simple RC circuits qualitatively and quantitatively.</li>
-		</ol>
-	</p>
-
 	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
+		<ol>
+			<li><p>Relate the capacitance of a circuit to the stored charge and the electric potential difference.</p></li>
+			<li><p>Determine the energy stored in a capacitor.</p></li>
+			<li><p>Determine the equivalent capacitance of a circuit.</p></li>
+			<li><p>Use Kirchhoff’s Laws to quantify the behavior of a complicated circuit.</p></li>
+			<li><p>Describe the behavior of simple RC circuits qualitatively and quantitatively.</p></li>
+		</ol>
+	</objectives>
 
 	<!--INTRODUCTORY SECTIONS-->
 	

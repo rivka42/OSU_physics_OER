@@ -5,7 +5,18 @@
 	
 
 
-<video youtube="7R74AflPtso"><description>Introducing the electric field of a point charge.</description></video>
+<corollary xml:id="vid-elec-point-charge">
+	<title>Field of a Point Charge</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="7R74AflPtso"><description>Introducing the electric field of a point charge.</description></video>
+
+	</statement>
+  </corollary>
 
 <subsubsection><title>Key Ideas</title></subsubsection>
 
@@ -76,7 +87,7 @@ The constant <m> \epsilon_{0} </m> (pronounced <q>epsilon naught</q>) is a const
 			</p>
 			<p>Recall <xref ref="x_graphing-r-hat"/>, in which you made a 2D-map of a vector field.  The vector field you mapped is proportional to <m>\hat{r}</m>! Map this vector field and describe how this vector field changes (or stays the same) at different points in space.  What do you think the map would look like if you could make it three-dimensional?</p>
 		</activity>
-		<explanation>
+		<investigation>
 			<title>Three Charges</title>
 			<statement>
 				<p>
@@ -85,9 +96,20 @@ The constant <m> \epsilon_{0} </m> (pronounced <q>epsilon naught</q>) is a const
 			  	<p>Shown below are three point charges (A, B, and C).  Is the magnitude of the net electric force on charge A greater than, less than, or equal to the magnitude of the net electric force on charge C?  Explain your reasoning.</p>
 			</statement>
 			<solution>
-				<video youtube="XzjpnavhG14"><description>A solution to the Explanation: Three Charges activity.</description></video>
+		<identity xml:id="vid-three-charges-sol">
+	<title>Three Charges - Solution</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="XzjpnavhG14"><description>A solution to the Explanation: Three Charges activity.</description></video>
+
+	</statement>
+</identity>
 			</solution>
-		</explanation>
+		</investigation>
 		<figure xml:id="x_fig_three-charges">
 			  <title>Three Charges Figure</title>
     		<caption>Three charges</caption>

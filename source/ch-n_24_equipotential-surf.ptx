@@ -5,16 +5,15 @@
 	<introduction>
     <p> In this chapter you will learn how to represent the electric potential, and further your understanding of the relationship between the electric field and the electric potential.</p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-	<p>
-		After successful completion of this chapter, you will be able to:
-		<ol>
-			<li>Relate electric potential and electric field using both integrals and derivatives, both algebraically and graphically.</li>
-		</ol>
-	</p>
-
 	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
+		<ol>
+			<li><p>Relate electric potential and electric field using both integrals and derivatives, both algebraically and graphically.</p></li>
+		</ol>
+	</objectives>
 
 	<!--INTRODUCTORY SECTIONS-->
 	

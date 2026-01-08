@@ -3,8 +3,21 @@
 <section xml:id="sec_charge-density" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Charge Density</title>
 		
-    <video youtube="tVUmbC9C4Mg"><description>Introducing charge density.</description></video>
+    <corollary xml:id="vid-charge-density">
+	<title>Charge Density</title>
 	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="tVUmbC9C4Mg"><description>Introducing charge density.</description></video>
+
+	</statement>
+  </corollary>
+	
+	<subsubsection><title>Key Ideas</title></subsubsection>
+
 	<definition>
 		<title>Charge Density</title>
 		<statement>
@@ -17,25 +30,32 @@
 		</statement>
 	</definition>
 
-	<p>Just like for mass density, we can use the charge density to understand how charge is distributed throughout a line, a surface, or a volume.</p>
+	<p>Just like for mass density, charge density describes how charge is distributed throughout a line, a surface, or a volume.</p>
 
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
 			<title>Sensemaking: Charge Density</title>
+			<statement>
 			<p>
 
 			</p>
 			<p>Determine the units for each charge density (one-, two-, or three-dimensional).  Why are they different?</p>
-		</exercise>	
-		<exercise>
+		</statement>
+		<answer>
+			<p>
+				The units for one-, two-, and three-dimensional charge density are <m>\mathrm{\frac{C}{m}}</m>, <m>\mathrm{\frac{C}{m^2}}</m>, and <m>\mathrm{\frac{C}{m^3}}</m>, respectively.
+			</p>
+		</answer>
+		</activity>	
+		<investigation>
 			<title>Varying Charge Density</title>
 			<p>
 
 			</p>
 			<p>Suppose you have a wire of length <m>L</m> with a charge density that changes from one side to the other. Describe in words why the total charge on your wire is NOT given by <m>q = \lambda L</m>.</p>
-			</exercise>
-		</exercises>
+		</investigation>
+		</subsubsection>
 	
 </section>
 

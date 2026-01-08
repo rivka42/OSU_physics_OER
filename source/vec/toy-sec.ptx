@@ -13,7 +13,7 @@
 	This is what happens when you refer to another section.  <xref ref="tester"/>
 </p>
 		
-<subsection xml:id="subsec-Remark-like">
+<subsubsection xml:id="subsec-Remark-like">
 	<title>Remark-like</title>
 	<subsubsection xml:id="subsubsec-">
 		<title>Subsubsection Example</title>
@@ -55,15 +55,35 @@
 			This is a Historical Note (Insight).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
 		</p>
 	</insight>
-</subsection>
+</subsubsection>
 
-<subsection xml:id="subsec-Example-like">
+<subsubsection xml:id="subsec-Example-like">
 	<title>Example-like</title>
 	<example>
 		<title>Example</title>
+		<statement>
+		<p>
+			
+		</p>
 		<p>
 			This is an Example.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have tasks, hints, answers, and solutions, but they cannot be removed.
 		</p>
+	</statement>
+	<hint>
+		<p>
+			Hint.
+		</p>
+	</hint>
+	<answer>
+		<p>
+			Answer.
+		</p>
+	</answer>
+	<solution>
+		<p>
+			Solution.
+		</p>
+	</solution>
 	</example>
 	<question>
 		<title>Question</title>
@@ -77,9 +97,9 @@
 			This is a Problem.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have tasks, hints, answers, and solutions, but they cannot be removed.
 		</p>
 	</problem>
-</subsection>
+</subsubsection>
 
-<subsection xml:id="subsec-Project-like">
+<subsubsection xml:id="subsec-Project-like">
 	<title>Project-like</title>
 	<project>
 		<title>Project</title>
@@ -105,15 +125,20 @@
 			This is an Investigation (Explanation Task).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have hints, answers, and solutions.
 		</p>
 	</investigation>
-</subsection>
+</subsubsection>
 
-<subsection xml:id="subsec-Theorem-like">
+<subsubsection xml:id="subsec-Theorem-like">
 	<title>Theorem-like</title>
 	<theorem>
 		<title>Theorem</title>
 		<p>
 			This is a Theorem.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
 		</p>
+		<proof>
+			<p>
+				This is a proof inside a theorem.
+			</p>
+		</proof>
 	</theorem>
 	<corollary>
 		<title>Video Lesson</title>
@@ -157,9 +182,9 @@
 			This is an Identity.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
 		</p>
 	</identity>
-</subsection>
+</subsubsection>
 
-<subsection xml:id="subsec-Axiom-like">
+<subsubsection xml:id="subsec-Axiom-like">
 	<title>Axiom-like</title>
 	<axiom>
 		<title>Axiom</title>
@@ -198,9 +223,9 @@
 		</p>
 	</assumption>
 	
-</subsection>
+</subsubsection>
 
-<subsection xml:id="subsec-Definition-like">
+<subsubsection xml:id="subsec-Definition-like">
 	<title>Definition-like</title>
 	<definition>
 		<title>Definition</title>
@@ -208,9 +233,9 @@
 			This is a Definition.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have hints, answers, and solutions.
 		</p>
 	</definition>
-</subsection>
+</subsubsection>
 
-<subsection xml:id="subsec-Aside-like">
+<subsubsection xml:id="subsec-Aside-like">
 	<title>Aside-like</title>
 	<aside>
 		<title>Aside</title>
@@ -230,9 +255,9 @@
 			This is a Historical.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
 		</p>
 	</historical>
-</subsection>
+</subsubsection>
 
-<subsection xml:id="subsec-Computation-like">
+<subsubsection xml:id="subsec-Computation-like">
 	<title>Computation-like</title>
 	<computation>
 		<title>Computation</title>
@@ -252,25 +277,33 @@
 			This is a Data.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
 		</p>
 	</data>
-</subsection>
+</subsubsection>
 
-<subsection xml:id="subsec-Objectives-like">
+<subsubsection xml:id="subsec-Objectives-like">
 	<title>Objectives-like</title>
 	<objectives>
 		<title>Objectives</title>
+		<ol>
+		<li>
 		<p>
-			This is an Objectives.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+			This is an Objectives.  Entries must be in a list.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
 		</p>
+	</li>
+	</ol>
 	</objectives>
 	<outcomes>
 		<title>Outcomes</title>
+		<ol>
+		<li>
 		<p>
-			This is an Outcomes.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+			This is an Outcomes.  Entries must be in a list.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
 		</p>
+	</li>
+</ol>
 	</outcomes>
-</subsection>
+</subsubsection>
 
-<subsection xml:id="subsec-Other">
+<subsubsection xml:id="subsec-Other">
 	<title>Other</title>
 	<assemblage>
 		<title>Assemblage</title>
@@ -290,7 +323,7 @@
 			This is a free-standing Exercise.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
 		</p>
 	</exercise>
-</subsection>
+</subsubsection>
 
 </section>
 

@@ -5,17 +5,16 @@
 	<introduction>
     <p> In this chapter you will learn about Faraday's Law.</p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-	<p>
-		After successful completion of this chapter, you will be able to:
-		<ol>
-			<li>Use Faraday's Law to find the induced voltage due to changing magnetic fields.</li>
-			<li>Describe the behavior of simple LC and LR circuits qualitatively and quantitatively.</li>
-		</ol>
-	</p>
-
 	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
+		<ol>
+			<li><p>Use Faraday's Law to find the induced voltage due to changing magnetic fields.</p></li>
+			<li><p>Describe the behavior of simple LC and LR circuits qualitatively and quantitatively.</p></li>
+		</ol>
+	</objectives>
 
 	<!--INTRODUCTORY SECTIONS-->
 	

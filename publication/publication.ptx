@@ -62,7 +62,7 @@
     <!--<css theme="denver" palette="ice-fire"/>-->
     <!--<css style="default" colors="orange_navy"/> -->            
     <!--  -->
-    <css theme="custom" entry-point="../assets/theme-beaver-modern.scss" palette="blues" primary-color="#003B5C" secondary-color="#D73F09" primary-color-dark="#D3832B"/>
+    <css theme="custom" entry-point="../assets/theme-beaver-modern.scss" palette="blues" primary-color="#003B5C" secondary-color="#D73F09" primary-color-dark="#D3832B" provide-dark-mode="no"/>
     
     <!-- Magic IDs identify HTML pages to analytics services   -->
     <!-- Presence implies relevant Javascript will be added    -->

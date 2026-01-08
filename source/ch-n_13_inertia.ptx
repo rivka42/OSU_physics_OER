@@ -5,20 +5,19 @@
 	<introduction>
     <p> In this chapter you will focus on using integrals to determine center of mass and moment of inertia.</p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-  
-<p>After successful completion of this chapter, you will be able to:
+	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
  <ol>
-<li>Define center of mass</li>
-<li>Define moment of inertia</li>
-<li>Utilize the Chop-Multiply-Add method to build integrals for center of mass and moment of inertia</li>
-<li>Define the parallel axis theorem</li>
+<li><p>Define center of mass</p></li>
+<li><p>Define moment of inertia</p></li>
+<li><p>Utilize the Chop-Multiply-Add method to build integrals for center of mass and moment of inertia</p></li>
+<li><p>Define the parallel axis theorem</p></li>
 </ol>
 
-</p>
-
-</introduction>
+</objectives>
 
     <!--INTRODUCTORY SECTIONS-->
 

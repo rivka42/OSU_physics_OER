@@ -5,25 +5,22 @@
 	<introduction>
     <p>In this chapter, you will build a model for waves.</p>
 	
-	<p><alert>Learning Outcomes</alert></p>
-  
-  
-<p> After successful completion of this chapter, you will be able to:
+	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
  <ol>
-<li>Define a wave</li>
-<li>Define wave properties like period, frequency, wavelength, wave number, and amplitude</li>
-<li>Identify wave properties using graphical analysis</li>
-<li>Describe how the wave speed changes when the medium through which the wave is travelling changes</li>
-<li>Define intensity</li>
-<li>Define loudness</li>
-<li>Define the Doppler Effect</li>
-
-<li></li>
+<li><p>Define a wave</p></li>
+<li><p>Define wave properties like period, frequency, wavelength, wave number, and amplitude</p></li>
+<li><p>Identify wave properties using graphical analysis</p></li>
+<li><p>Describe how the wave speed changes when the medium through which the wave is travelling changes</p></li>
+<li><p>Define intensity</p></li>
+<li><p>Define loudness</p></li>
+<li><p>Define the Doppler Effect</p></li>
 </ol>
 
-</p>
-
-</introduction>
+</objectives>
 
     <!--INTRODUCTORY SECTIONS-->
     <xi:include href="./wave/sec_what_are_waves.ptx" />
