@@ -41,7 +41,7 @@ You will begin your study of physics by gaining a foundational understanding of 
 
       
   
-  <xi:include href="./vec/toy-sec.ptx" />
+  <!--<xi:include href="./vec/toy-sec.ptx" />-->
 	
 	<!--INTRODUCTORY SECTIONS-->
   <xi:include href="./vec/sec_what-are-vectors.ptx" />

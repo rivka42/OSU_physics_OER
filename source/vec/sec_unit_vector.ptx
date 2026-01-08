@@ -5,7 +5,7 @@
 
     <p>
 You will often need to orient a vector within a particular coordinate system. A unit vector is a vector that has magnitude of one. 
-For this reason, <xref ref="def_unit-vectors"/> are sometimes called direction vectors.
+For this reason, <xref ref="def_unit-vectors" /> are sometimes called direction vectors.
     </p>
 
 

@@ -80,7 +80,7 @@ Conceptually, the dot product quantifies how much of one vector is in the same d
 				
 			</p>
 			<p>
-				Using the definition of a <xref ref="def_unit-vector"/>, show that <me>\hat{x} \cdot \hat{x} = \hat{y} \cdot \hat{y} = \hat{z} \cdot \hat{z} = 1</me>
+				Using the definition of <xref ref="def_unit-vectors"/>, show that <me>\hat{x} \cdot \hat{x} = \hat{y} \cdot \hat{y} = \hat{z} \cdot \hat{z} = 1</me>
 			</p>
 		</exercise>
 		</exercises>
