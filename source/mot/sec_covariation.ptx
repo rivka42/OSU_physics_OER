@@ -26,7 +26,18 @@
 <p><alert>Do they agree?</alert> In this instance, the physical reasoning and the equation clearly agree with each other, as both suggest an increase in <m>A_{circle}</m>.  Even the stronger claim agrees, because changing the radius changes the size of the circle both horizontally and vertically, so it should impact the area more strongly than a linear relationship!</p>
 </example>
 
-  <video youtube="IPm1qX6NUio"><description>An example of using Covariational Reasoning.</description></video>
+<algorithm xml:id="vid-covariation">
+	<title>Covariational Reasoning</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="IPm1qX6NUio"><description>An example of using Covariational Reasoning.</description></video>
+
+	</statement>
+</algorithm>
 	
 
 
@@ -42,10 +53,10 @@
 
 
 
-	<exercises>
+	<subsubsection>
 	<title>Activities: Practice Sensemaking</title>
 
-	<exercise>
+	<activity>
 	<title>Rejecting Incorrect Claims</title>
 	<p>
 		
@@ -65,10 +76,10 @@
 			  <p>A manufacturer claims that an office space with length <m>x</m> and width <m>y</m> can fit the following number of their cubicles: <m>N=5\frac{y}{x}</m>.</p>
 			</li>
 			</ol>
-	</exercise>
+	</activity>
   
 			
-			<exercise>
+			<activity>
 			<title>Metacognition</title>
 			<statement>
 				<p>
@@ -92,9 +103,9 @@
 				</li>
 			  </ul>
 			</statement>
-			</exercise>
+			</activity>
 
-	<exercise xml:id="class_covariation1">
+	<activity xml:id="class_covariation1">
         <title>The Ball and the Bounce I</title>
 		<statement>
 			<p>
@@ -113,9 +124,9 @@ Determine the average acceleration of the tennis ball.	Do you think it would be 
 			</me>
 			</p>
 		</answer>
-	</exercise>
+	</activity>
 
-	<exercise xml:id="class_covariation2">
+	<activity xml:id="class_covariation2">
         <title>The Ball and the Bounce II</title>
 		<statement>
 			<p>
@@ -153,10 +164,10 @@ Determine the average acceleration of the tennis ball.	Do you think it would be 
 			</ul>
 		</statement>
 		
-	</exercise>
+	</activity>
 			
 			<!--
-					<exercise xml:id="psa_mot-2">
+					<activity xml:id="psa_mot-2">
         <title>Catching a Ball</title>
 		<statement>
 		    <p>You have a tennis ball that you throw directly downward at <m>t = 0</m> with speed <m>v</m>.  At <m>t = t_o</m>, after falling a distance <m>y</m>, the ball hits the ground and bounces.  At <m>t = 4t_o</m>, when the ball is moving upward with speed <m>v/3</m>, you catch the ball at the same point where you released it.</p>
@@ -165,11 +176,11 @@ Determine the average acceleration of the tennis ball.	Do you think it would be 
 		<hint>
 		    <p>Velocity and acceleration are vectors!</p>
 		</hint>
-	</exercise>
+	</activity>
 	-->
 
 			
-		</exercises>
+		</subsubsection>
 	
 </section>
 

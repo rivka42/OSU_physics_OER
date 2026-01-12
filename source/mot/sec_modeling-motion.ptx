@@ -3,13 +3,16 @@
 <section xml:id="sec_modeling-motion" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Modeling Motion</title>
 	
-	<exercises>
+	<subsubsection>
 	<title>Practice Activities</title>
 
 	  
 
-	<exercise xml:id="class_motion-warmup">
+	<activity xml:id="class_motion-warmup">
 		<title>Warm-up</title>
+		<p>
+			
+		</p>
 		<p>
 			Is the average speed of the upper object greater than, less than, or equal to the average speed of the lower object?  
 			Explain your reasoning.
@@ -19,9 +22,9 @@
 		<image source="Simple-Motion-Diagram.png" width = "75%">
 			<description></description></image>
   </figure>
-	</exercise>
+	</activity>
 
-	<exercise xml:id="class_ball-in-the-air">
+	<activity xml:id="class_ball-in-the-air">
 		<title>The Ball in the Air</title>
 		<p>
 			
@@ -60,12 +63,13 @@
 		<p>
 			Do you think it would be appropriate or necessary to use a calculator for this activity?
 		</p>
-	</exercise>
+	</activity>
 
 
 
-	<exercise xml:id="class_runaway-cart">
+	<activity xml:id="class_runaway-cart">
 		<title>The Runaway Cart</title>
+		<statement>
 		<p>
 			
 		</p>
@@ -75,15 +79,17 @@
 			What acceleration can you estimate?  
 			Do you think it would be appropriate or necessary to use a calculator for this activity?
 		</p>
-	</exercise>
-
-		<figure xml:id="mot_runaway-cart">
+				<figure xml:id="mot_runaway-cart">
 		 <caption>A strobe diagram for a cart.</caption>
 		<image source="Runaway Cart.png" width = "100%">
 			<description></description></image>
   </figure>
+</statement>
+	</activity>
 
-		</exercises>
+
+
+		</subsubsection>
 	
 </section>
 

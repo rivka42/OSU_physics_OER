@@ -3,7 +3,27 @@
 <section xml:id="sec_particle_model" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Particle Model</title>
 	
-	<p>
+
+
+
+		  
+      <corollary xml:id="vid-pm">
+	<title>The Particle Model</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="XHKygCac7tg"><description>Introducing the particle model, an example of an assumption in physics.</description></video>
+
+	</statement>
+  </corollary>
+
+
+	<subsubsection><title>Key Ideas</title></subsubsection>
+
+		<p>
 In physics, you will often decide to make assumptions or idealizations.  When you do, you should always consider the three questions below.
 </p>
 	
@@ -14,14 +34,7 @@ In physics, you will often decide to make assumptions or idealizations.  When yo
 			<description>Assumptions and Idealizations. 1 Is the assumption useful for the context?  2 Is the assumption reasonable for the context?  3 Are there any limitations for the context?</description></image>
   </figure>	
 
-	<figure xml:id="mot_vb-particle-model">
-		  <caption>Introducing the particle model, an example of an assumption in physics.</caption>
-      <video youtube="XHKygCac7tg"></video>
-    </figure>
-
-
-
- <p>
+   <p>
 The motion of real objects is often extremely complicated.  For example, when you toss a coin, it will likely rotate so that different parts of the coin move at different speeds, and in different directions. 
 </p>
 
@@ -42,7 +55,7 @@ To begin to investigate motion, you will make a <em>simplifying assumption</em> 
 <note>
 <title>When does an assumption fail?</title>
 <p>
-When you encounter a new assumption, you might want to consider not just when it is good to make the assumption, but instead when the assumption might fail.  As an assumption, the particle model tends to fail when there is (important) rotational motion or when your system has multiple pieces that are moving differently.  For example, sliding a spinning top may not be a good example for the particle model, as the translational motion is deeply tied with both the top’s shape and rotation.
+When you encounter a new assumption, you might want to consider not just when it is good to make the assumption, but instead when the assumption might fail.  As an assumption, the particle model tends to fail when there is (important) rotational motion or when your system has multiple pieces that are moving differently.  For example, sliding a spinning top may not be a good example for the particle model, as the translational motion is deeply tied with both the top's shape and rotation.
 </p>
 <!--This last counterexample provided by undergraduate student reviewer Ian Busby -->
 </note>
@@ -59,25 +72,34 @@ The particle model is almost always useful because it is extremely simple (like 
 
 	
 		
-	<exercises>
-					<title>Activities: Applying the Particle Model</title>
-		<p>For each of the following contexts, do you think it is reasonable to use the particle model?  Why or why not?  What object or system are you treating as a particle?</p>
-			<exercise xml:id="x_particle-examples">
+	<subsubsection>
+					<title>Activities</title>
+		
+			<activity xml:id="x_particle-examples">
+				<title>Applying the Particle Model</title>
+				<statement>
+				<p>For each of the following contexts, do you think it is reasonable to use the particle model?  Why or why not?  What object or system are you treating as a particle?</p>
+
+					<ul>
+				<li>
 			  <p>You drive your car from Corvallis to Portland.</p>
-			</exercise>
-			<exercise>
+			</li>
+			<li>
 			  <p>You throw a softball from one base to another.</p>
-			</exercise>
-			<exercise>
+			</li>
+			<li>
 			  <p>You slowly open a heavy door.</p>
-			</exercise>
-			<exercise>
+			</li>
+			<li>
 			  <p>An Olympic athlete does a flip while snowboarding.</p>
-			</exercise>						
-			<exercise>
+			</li>						
+			<li>
 			  <p>Two snowballs break into pieces as they collide in midair.</p>
-			</exercise>
-		</exercises>
+			</li>
+		</ul>
+		</statement>
+	</activity>
+		</subsubsection>
   
 
 	

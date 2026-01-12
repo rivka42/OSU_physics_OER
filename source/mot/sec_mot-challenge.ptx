@@ -11,7 +11,7 @@
 	-->
 
 	
-<subsection>
+<subsubsection>
 <title>Explanation Tasks</title>
 
 <p>If necessary, review the <xref ref="fig_explanation" text='title'/>.</p>
@@ -55,12 +55,12 @@
 		</statement>
 	</investigation>
 
-</subsection>
+</subsubsection>
 
 
 
 
-	<subsection>
+	<subsubsection>
 	<title>Calculation Activities</title>
 
 <activity xml:id="ch_mot-1">
@@ -89,9 +89,9 @@
 
 	</activity>
 
-</subsection>
+</subsubsection>
 
-<subsection>
+<subsubsection>
 	<title>Metacognitive Reflection</title>
 	<p>
 	     In physics, you are building models that help describe the real world.  
@@ -106,7 +106,7 @@
 		 (say, during a quiz or exam) to answer the types of activities you have complete so far.  
 		 How you structure your model is up to you, but organization is important for quickly retrieving information. 
 	</p>
-	</subsection>
+	</subsubsection>
 
 <!-- I'm not sure I like this activity that much anymore, so it's hidden
 

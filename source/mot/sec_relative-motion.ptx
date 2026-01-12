@@ -22,7 +22,18 @@
 	<title>Shifting Reference Frames</title>
 	<p></p>
 	<p>Physics is often concerned with multiple objects that are moving relative to each other.  The video below will help you determine the velocity of different objects in different reference frames.</p>
- <video youtube="sN-m5WkbMyI"><description>Introducing relative motion.</description></video>
+ <corollary xml:id="vid-relmo">
+	<title>Relative Motion</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="sN-m5WkbMyI"><description>Introducing relative motion.</description></video>
+
+	</statement>
+  </corollary>
 	</axiom>
 
 
@@ -55,18 +66,29 @@
 	
 	</insight>	
      
-		<example>
-		<title>Relative Motion with a Cannonball</title>
-		 <p>
-     The video below illustrates relative motion with a precise and powerful example.
-    </p>
-      <video youtube="BLuI118nhzc"><description>The Mythbusters test relative motion.</description></video>
-		</example>
+      <algorithm xml:id="vid-relmo2">
+	<title>Relative Motion with a Cannonball</title>
+	
+	<statement>
+		<p>
+			
+		</p>
 
-		<exercises>
+		<video youtube="BLuI118nhzc"><description>The Mythbusters test relative motion.</description></video>
+
+	</statement>
+</algorithm>
+
+		<subsubsection>
 	<title>Activities</title>
-			<exercise>
+			<activity>
+				<title>Track Meet I</title>
+				
+				
 			<statement>
+				<p>
+					
+				</p>
 			  <p>Suppose you are running down a straight track at a speed of <m>8 \mathrm{~m/s}</m> (relative to the track).  
 			  Two friends, one in front of you and one behind, each throw a baseball horizontally toward you at a speed of 
 			  <m>24 \mathrm{~m/s}</m> (relative to the track).  Relative to <em>you</em>, which baseball, if either, has a greater speed?  Explain your reasoning.</p>
@@ -74,9 +96,15 @@
 				<hint>
 				<p>Relative motion problems can be tricky to visualize, so it often helps to draw a diagram!</p>
 				</hint>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
+				<title>Track Meet II</title>
+				
+				
 			<statement>
+				<p>
+					
+				</p>
 			  <p>Now suppose you are running down a straight track at a speed of <m>8 \mathrm{~m/s}</m> (relative to the track).  
 			  Two friends, one in front of you and one behind, each throw a baseball horizontally toward you.  
 			  Relative to you, each baseball has a speed of <m>24 \mathrm{~m/s}</m>.  Relative to the <em>track</em>, which baseball has a greater speed?   Explain your reasoning.</p>
@@ -84,8 +112,8 @@
 								<hint>
 				<p>The difference between this activity and the previous one is subtle, but impactful!</p>
 				</hint>
-			</exercise>
-					</exercises>
+			</activity>
+					</subsubsection>
 		
 	
 	
