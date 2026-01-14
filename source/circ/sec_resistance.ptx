@@ -3,11 +3,27 @@
 <section xml:id="sec_resistance" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>Resistance</title>
 			
-	<video youtube="biz9jOu8Dm0"><description>Introducing resistance in circuits.</description></video>
+	<corollary xml:id="vid-resistance">
+	<title>Resistance</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="biz9jOu8Dm0"><description>Introducing resistance in circuits.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<definition>
 		<title>Resistance</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>Circuit elements present obstacles to the flow of electric current in circuits, which we define as <term>Resistance</term> and we write as <m>R</m>. Resistance is measured in units of Ohms (<m>\Omega</m>).</p>
 		</statement>
 	</definition>
@@ -16,7 +32,7 @@
 		Resistance in circuits arises in the form of a resistor. Resistors are elements commonly seen in circuits, and can alter how current flows and provide a voltage drop. The energy lost across a resistor is dissipated in the form of heat. Resistors will be discussed in more detail in an upcoming section. 
 	</p>
 
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
 		<p>Shown below is a circuit with three resistors.  In a circuit diagram, a resistor is represented by a jagged line.</p>
 			<figure xml:id="circuit1">
@@ -24,14 +40,18 @@
 				<caption>A circuit diagram consisting of a battery and three resistors. Resistors 1 and 2 are in series, and are both in parallel with Resistor 3.</caption>
 				<image source="circ/circuit-0.png" width = "50%" ><description>A circuit diagram consisting of a battery and three resistors. Resistors 1 and 2 are in series, and are both in parallel with Resistor 3.</description></image>
 			</figure>
-		<exercise>
+		<investigation>
+      <title>Current Prediction</title>
+      <p></p>
 			
-			<p>Assume that <m>R_1 > R_2</m>. Predict whether the current through resistor 2 greater than, less than, or equal to the current through resistor 1. Explain your answer.</p>
-		</exercise>
-		<exercise>
+			<p>Assume that <m>R_1 \gt R_2</m>. Predict whether the current through resistor 2 greater than, less than, or equal to the current through resistor 1. Explain your answer.</p>
+		</investigation>
+		<investigation>
+      <title>Voltage Prediction</title>
+      <p></p>
 			<p>Predict whether the voltage across resistor 2 is greater than, less than, or equal to the voltage across resistor 1. Explain your answer.</p>
-		</exercise>
-	</exercises>
+		</investigation>
+	</subsubsection>
 
 </section>
 

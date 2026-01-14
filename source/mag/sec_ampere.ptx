@@ -3,11 +3,27 @@
 <section xml:id="sec_ampere" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Ampere's Law</title>
 		
-    <video youtube="gqR1NwRBWiI"><description>Introducing Ampere's Law.</description></video>
+    <corollary xml:id="vid-ampere">
+	<title>Ampere's Law</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="gqR1NwRBWiI"><description>Introducing Ampere's Law.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<definition>
 		<title>Ampere's Law</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p><term>Ampere's Law</term> relates the net magnetic field around a closed curve to the current passing through the region bounded by the curve: <me>\bigcirc \!\!\!\!\!\!\!\!\int_S \vec{B}\cdot d\vec{s} = \mu_o I_{enclosed}</me></p>
 		</statement>
 	</definition>
@@ -16,17 +32,19 @@
 		The integral in the definition above is a line integral. The circle over the integral symbol indicates that this is an integral over a closed path. Ampere's Law is useful when you are able to identify a symmetry of your current distribution.
 	</p>
 	
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<investigation>
+      <title>Three Loops</title>
+      <p></p>
 			<p>Shown below are three different cases, each with two identical current-carrying wires and a circular Amperian loop.  In which case is the net magnetic field around the loop the largest?</p>
 			<figure xml:id="x_fig_ampere">
 			<title>Amperian Loop Figure</title>
 				<caption>Three cases are shown depicting an Amperian loop (dashed line) and different wires.</caption>
 				<image source="mag/Ampo.png" width = "100%" ><description>Three boxes sit side by side. The lefthand box is case A, where one wire sits inside a closed Amperian loop and another wire sits outside the loop. The middle box shows case B, where both wires sit outside the loop. The righthand box shows case C where both wires sit inside the loop.</description></image>
 			</figure>
-		</exercise>
-	</exercises>
+		</investigation>
+	</subsubsection>
 
 </section>
 

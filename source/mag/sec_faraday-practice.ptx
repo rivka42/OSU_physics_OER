@@ -13,12 +13,12 @@
 	<m> \mathrm{~}</m>
 	-->
 
-	<subsection>
+	<subsubsection>
 		<title>A*R*C*S Practice</title>
 
 		<project>
 			<title>Circuit I</title>
-			<statement>
+			<statement><p></p>
 				<figure xml:id="fig-circuit_9">
 					<caption>Circuit diagram.</caption>
 					<image source="mag/circuit-9.png" width = "40%" ></image>
@@ -31,7 +31,7 @@
 
 		<project>
 			<title>Square Loop in a Magnetic Field</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					A square loop of wire with side length 6 cm and resistance 0.4 <m>\Omega</m> is in a uniform magnetic field <m>B = -0.008t^2</m> (in Tesla) that points in the <m>z</m>-direction (through the loop). Determine the current induced in the loop as a function of time (both magnitude and direction).
 				</p>
@@ -40,14 +40,14 @@
 
 
 
-	</subsection>
+	</subsubsection>
 		
-	<subsection>
+	<subsubsection>
 	<title>Numerical Practice</title>
 
 		<exploration>
 			<title>Induced Current</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					A single conducting loop of wire has an area of <m>7.40 \times 10^{-2} \ \mathrm{m}^2</m> and a resistance of 110 <m>\Omega</m>. Perpendicular to the plane of the loop is a magnetic field of strength 0.280 T. At what rate (in T/s) must this field change if the induced current in the loop is to be 0.32 A?
 				</p>
@@ -67,7 +67,7 @@
 
 		<exploration>
 			<title>Conductive Loop in a Magnetic Field</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					A conductive metal loop is at rest within a uniform magnetic field, as shown above. If the magnetic field strength is then decreased, in which direction does induced current flow in the loop?
 				</p>
@@ -87,7 +87,7 @@
 
 		<exploration>
 			<title>Falling Loop</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					The figure shows a circular conductive loop falling away from a long wire that is carrying current to the right, as shown above. What is the direction of the induced current in the loop?
 				</p>
@@ -98,7 +98,7 @@
 				</p>
 			</answer>
 		</exploration>
-	</subsection>
+	</subsubsection>
 
 	<references>
 		<biblio xml:id="ref_boxsand-faraday">

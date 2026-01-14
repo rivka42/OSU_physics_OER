@@ -15,9 +15,9 @@
 
 	<exploration>
 		<title>Flux Through a Rectangle</title>
-		<statement>
+		<statement><p></p>
 			<p>
-				A rectangular surface measures 2.0 m x 4.0 m and lies in the xy-plane. Find the electric flux through the surface if the E-field is given by: <m>\vec{E} = (2.0 \hat{x} - 3.0 \hat{z}) \frac{\mathrm{N}}{\mathrm{C}}</m>
+				A rectangular surface measures <m>2.0 \mathrm{~m}</m> by <m>4.0 \mathrm{~m}</m> and lies in the xy-plane. Find the electric flux through the surface if the E-field is given by: <m>\vec{E} = (2.0 \hat{x} - 3.0 \hat{z}) \frac{\mathrm{N}}{\mathrm{C}}</m>
 			</p>
 		</statement>
 		<answer>
@@ -29,7 +29,7 @@
 
 	<exploration>
 		<title>Greatest Total Flux</title>
-		<statement>
+		<statement><p></p>
 			<figure xml:id="fig-charges-surfaces">
 				<title>Charges in Surfaces</title>
 				<caption>Charges in Gaussian surfaces.</caption>
@@ -48,7 +48,7 @@
 
 	<exploration>
 		<title>Gauss's Law for a Dipole</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Would Gauss's law be helpful for determining the electric field of a dipole? Why?
 			</p>
@@ -62,7 +62,7 @@
 
 	<exploration>
 		<title>Different Gaussian Surfaces</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Two concentric spherical surfaces enclose a point charge q. The radius of the outer sphere is twice that of the inner one. Compare the electric fluxes crossing the two surfaces.
 			</p>
@@ -76,7 +76,7 @@
 
 	<exploration>
 		<title>Net Electric Flux</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				A point charge of  10 <m>\mu</m>C is at an unspecified location inside a cube of side 2 cm. Find the net electric flux though the surfaces of the cube.
 			</p>
@@ -91,7 +91,7 @@
 	
 		<exploration xml:id="psa_elec-alpha7">
 	<title>Charge</title>
-	<statement>
+	<statement><p></p>
 		    <p></p>
 		</statement>
 		<answer>
@@ -101,7 +101,7 @@
 	
 		<exploration xml:id="psa_elec-alpha8">
 	<title>Charge</title>
-	<statement>
+	<statement><p></p>
 		    <p></p>
 		</statement>
 		<answer>
@@ -111,7 +111,7 @@
 	
 		<exploration xml:id="psa_elec-alpha9">
 	<title>Charge</title>
-	<statement>
+	<statement><p></p>
 		    <p></p>
 		</statement>
 		<answer>
@@ -121,7 +121,7 @@
 	
 		<exploration xml:id="psa_elec-alpha10">
 	<title>Charge</title>
-	<statement>
+	<statement><p></p>
 		    <p></p>
 		</statement>
 		<answer>
@@ -131,7 +131,7 @@
 	
 		<exploration xml:id="psa_elec-alpha11">
 	<title>Charge</title>
-	<statement>
+	<statement><p></p>
 		    <p></p>
 		</statement>
 		<answer>

@@ -20,7 +20,7 @@
 
 	<investigation>
 		<title>Circuit I</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Recall the circuit from class, reproduced above. Suppose batteries A and B are not identical. 
 			</p>
@@ -70,7 +70,7 @@
 
 	<investigation>
 		<title>Circuit II</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Consider the circuit shown above, which is a variant of the circuit from class. All bulbs are identical, and all batteries are ideal and identical. (Note that the orientation of battery D has changed.)
 			</p>
@@ -121,7 +121,7 @@
 
 	<project>
 		<title>Circuit III</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				The switch shown has been set to the left in the circuit above for a long time (the two batteries are identical). You then flip the switch to the right. Immediately after you flip the switch, what is the current through the circuit?
 			</p>
@@ -135,7 +135,7 @@
 
 	<investigation>
 		<title>Circuit IV</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Bulb A in the top circuit above is replaced by a battery, as shown in the bottom circuit above. Does the brightness of light bulbs B and C increase, decrease, or remain the same? Please include separate reasoning (part 2) and conclusions (part 3) for each bulb.
 			</p>
@@ -149,7 +149,7 @@
 	
 	<investigation>
 		<title>Circuit V</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				The circuit at right includes five identical linear resistors with resistance 5 <m>\Omega</m>. The battery provides 32 V.
 			</p>

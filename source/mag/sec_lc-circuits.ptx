@@ -6,7 +6,7 @@
 		<p>Recall that the voltage across an inductor is given by <me>V_{inductor} = -L \frac{dI}{dt}</me></p>
 		
 		
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
 	<figure xml:id="x_fig_LC">
 			<title>Inductor and Capacitor Circuit Diagram</title>
@@ -14,12 +14,25 @@
     		<image source="LC-circuit.png" width = "60%" ></image>
 		</figure>
 	<p>The circuit above contains a capacitor and an inductor.  The capacitor is initially charged (positive on the top and negative on the bottom).</p>
-		<exercise>
+		<activity>
+      <title>Prediction</title>
+      <p></p>
 			<p>When the switch is closed, the initial current through the inductor is 0 A.  Give a physical reason for why you think this happens.</p>
-		</exercise>
-	</exercises>
+		</activity>
+	</subsubsection>
 			
-    <video youtube="EZmh2TOI-WI"><description>A description of LC circuits.</description></video>
+    <corollary xml:id="vid-lc-circuits">
+	<title>LC Circuits</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="EZmh2TOI-WI"><description>A description of LC circuits.</description></video>
+
+	</statement>
+  </corollary>
 	
 
 

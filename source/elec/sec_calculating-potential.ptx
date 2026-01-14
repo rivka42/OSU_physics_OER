@@ -3,15 +3,15 @@
 <section xml:id="sec_calculating-potential" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Chop-Multiply-Add: Calculating Electric Potential</title>
 
-  	<exercises>
-		<title>Warm-Up Activity</title>
-		<exercise>
+		<activity>
+      <title>Warm-Up Activity</title>
+      <p></p>
 			<p>Previously, you determined the electric field at the center of a uniformly charged semicircle with total charge <m>Q</m> and radius <m>R</m>. What strategy do you think would help you determine the electric potential at the center of this semicircle?</p>
-		</exercise>
-	</exercises>
+		</activity>
+
 		
 	
-	<p>To determine the electric potential due to some charge distribution, we will use our <alert>Chop-Multiply-Add method!</alert></p>
+	<p>To determine the electric potential due to some charge distribution, use the <alert>Chop-Multiply-Add method!</alert></p>
 
 	<ol>
 		<li>
@@ -25,17 +25,30 @@
 		</li>
 	</ol>
 	
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
+      <title>Charged Semicircle</title>
+      
 		<statement>
-			<p>Go back to the uniformly charged semicircle with total charge <m>Q</m> and radius <m>R</m>. Using the Chop-Multiply-Add method, set up an integral to determine the electric potential at the center of the semicircle.</p>
+			<p></p><p>Go back to the uniformly charged semicircle with total charge <m>Q</m> and radius <m>R</m>. Using the Chop-Multiply-Add method, set up an integral to determine the electric potential at the center of the semicircle.</p>
 			</statement>
 			<solution>
-			 <video youtube="-du3ynxb63g"><description>Finding the electric potential for a uniformly charged semicircle.</description></video>
+			 <identity xml:id="vid-semicircle">
+	<title>V for a Semicircle</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="-du3ynxb63g"><description>Finding the electric potential for a uniformly charged semicircle.</description></video>
+
+	</statement>
+</identity>
 			</solution>
-		</exercise>
-	</exercises>
+		</activity>
+	</subsubsection>
 
 </section>
 

@@ -3,26 +3,46 @@
 <section xml:id="sec_capacitors" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Capacitors</title>
 
-	  <exercises>
+	  <activity>
 		<title>Warm-Up Activity</title>
-		<p>Play with the "Capacitance" and "Light Bulb" <url href="https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics_all.html" visual="PhET Simulations"/>.</p>
-		<exercise>
-			<p>Investigate the properties of the various devices, and how those properties change as you make changes to the system. What is the role of the battery?</p>
-		</exercise>
-		<exercise>
+		<p>Play with the <q>Capacitance</q> and <q>Light Bulb</q> <url href="https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics_all.html" visual="PhET Simulations"/>.  Investigate the properties of the various devices, and how those properties change as you make changes to the system. </p>
+		<task>
+
+
+			<p>What is the role of the battery?</p>
+		</task>
+		<task>
+
+
 			<p>Discuss the flow of energy when you connect the capacitor to either the battery or to the light bulb. When does energy move from one object to another? When does energy change forms? When is energy conserved?</p>
-		</exercise>
-	</exercises>
+		</task>
+	</activity>
 
 	<p>Watch the following video to learn more about capacitors.</p>
 		
-    <video youtube="8lcFW_AyXmg"><description>An introduction to capacitors.</description></video>
+    <corollary xml:id="vid-capacitors">
+	<title>Capacitors</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="8lcFW_AyXmg"><description>An introduction to capacitors.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<p>A capacitor is made up of two conductors separated by an insulator.</p>
 	
 	<definition xml:id="capacitance">
 		<title>Capacitance</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>The <term>Capacitance</term> of a capacitor is defined as <me>C = Q / \Delta V</me> and is often dependent on the geometry of the capacitor. The units of capacitance are in farads (F). </p>
 		</statement>
 	</definition>

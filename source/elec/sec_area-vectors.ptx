@@ -3,17 +3,30 @@
 <section xml:id="sec_area-vectors" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Area Vectors</title>
 	
-	<exercises>
-		<title>Warm-up Activities</title>
-		<exercise>
+	<activity>
+		<title>Warm-up Activity</title>
+		<statement>
+      <p></p>
 			<p>You want to find the dot product between two vectors, <m>\vec{A}</m> and <m>\vec{B}</m>.  What do you know about the directions of vectors if the dot product is positive?  What if the dot product is negative?  What if the dot product is zero?</p>
-			<tip><p>The dot product was introduced in <xref ref="sec_dot-product"/>.</p></tip>
-		</exercise>
-	</exercises>
+		</statement>
+			<hint><p>See <xref ref="sec_dot-product"/>.</p></hint>
+		</activity>
 
-	<p>To describe surfaces, we will need to define a new quantity.</p>
 		
-    <video youtube="OUbAGPoKYtE"><description>Introducing area vectors.</description></video>
+    <corollary xml:id="vid-area-vectors">
+	<title>Area Vectors</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="OUbAGPoKYtE"><description>Introducing area vectors.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<definition>
 		<title>Area Vector</title>
@@ -28,10 +41,11 @@
 		<image source="elec/area-vector.png" width = "25%" ></image>
 	</figure>
 
+	<!--
 	<p>Area vectors will help us define different surfaces, and will become particularly useful in the next few sections.</p>
-	
+	-->
 
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
 		<p>Below is a picture of a closed surface (the outside cover of a book).</p>
 		<figure xml:id="x_fig_book">
@@ -40,14 +54,19 @@
     		<image source="Book.png" width = "25%" ></image>
 		</figure>
 		
-		<exercise xml:id="x_area-book">
+		<activity xml:id="x_area-book">
 			<title>Area Vectors for a Book</title>
+			<p>
+				
+			</p>
 			<p>Which direction is the area vector for the front cover of the book?  For the spine?  How many different area vectors do you need for the entire book?</p>
-		</exercise>
-		<exercise>
+		</activity>
+		<activity>
+      <title>Differential Area Vectors</title>
+      <p></p>
 			<p>Write a differential area vector <m>d\vec{A}</m> for a small part of the front cover of the book in terms of differential elements like <m>dx</m> and <m>dy</m>.  Check that your expression has the correct units!</p>
-		</exercise>
-	</exercises>
+		</activity>
+	</subsubsection>
 	
 </section>
 

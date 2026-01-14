@@ -3,13 +3,16 @@
 <section xml:id="sec_circ-summary" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Electric Circuits Summary</title>
 
-		<exercises>
+		<subsubsection>
 		<title>Activities: Summarize What You Learned</title>
-		<exercise xml:id="x_summarize-circuits">
+		<activity xml:id="x_summarize-circuits">
 		<title>Models</title>
+		<p>
+			
+		</p>
 <p>Consider the questions from <xref ref="fig_applications"></xref>.  Now that you have finished studying electric circuits, how would you answer them?  How have those answers changed over time?</p>
-		</exercise>
-		</exercises>
+		</activity>
+		</subsubsection>
 	
 </section>
 

@@ -21,7 +21,7 @@
 
 	<exploration>
 		<title>Resistance from a Graph</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				 Suppose you apply several different voltage differences across a circuit and measure the resulting current through the circuit; a plot of your results is shown above.  What is the resistance of the circuit?
 			</p>
@@ -35,7 +35,7 @@
 
 	<exploration>
 		<title>Bird on a Wire</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				High-voltage overhead electric lines are not covered by insulation, unlike wires that are used in electric circuitry in homes. Explain why a bird that lands on a single high-voltage line does not get electrocuted.
 			</p>
@@ -55,7 +55,7 @@
 
 	<exploration>
 		<title>Circuit Quantities</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Consider the circuit above. The voltage drops across resistors 1 and 2 are 3 V and 4 V respectively.
 			</p>
@@ -102,7 +102,7 @@
 
 	<exploration>
 		<title>Current Through Resistors</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Consider the circuit above.
 			</p>
@@ -133,7 +133,7 @@
 
 	<exploration>
 		<title>Increasing Resistance</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Two identical resistors are connected in parallel across the terminals of a battery.  If you increase the resistance of one of the resistors, what happens to the current through, and the voltage difference across, the other resistor? 
 			</p>
@@ -153,7 +153,7 @@
 
 	<exploration>
 		<title>Circuit Analysis</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Consider the resistive circuit shown above.
 			</p>
@@ -210,7 +210,7 @@
 
 	<exploration>
 		<title>Circuit Analysis II</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Consider the circuit shown above. 
 			</p>
@@ -233,7 +233,7 @@
 
 	<exploration>
 		<title>Circuit Segment</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				What is the equivalent resistance of the circuit segment above?
 			</p>
@@ -247,7 +247,7 @@
 
 	<exploration>
 		<title>Parallel Resistors</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Every time you add another resistor in parallel which of the following changes occur?
 			</p>
@@ -293,7 +293,7 @@
 
 	<exploration>
 		<title>Circuit Analysis II</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Recall the <xref ref="bs-circuit-13"/> from above. 
 			</p>
@@ -374,7 +374,7 @@
 
 	<exploration>
 		<title>Shock!</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				The severity of a shock depends on the magnitude of the current through your body. Would you prefer to be in series or in parallel with a resistance, such as the heating element of a toaster, if you were shocked by it? Explain.
 			</p>
@@ -388,7 +388,7 @@
 
 	<exploration>
 		<title>Smallest and Largest Resistances</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				What are the largest and smallest resistances you can obtain by connecting a 36.0 <m>\Omega</m>, a 50.0 <m>\Omega</m>, and a 700 <m>\Omega</m> resistor together?
 			</p>

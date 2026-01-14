@@ -13,12 +13,12 @@
 	<m> \mathrm{~}</m>
 	-->
 
-	<subsection>
+	<subsubsection>
 		<title>Explanation Practice</title>
 
 		<investigation>
 			<title>Equipotential Graph I</title>
-			<statement>
+			<statement><p></p>
 				<figure xml:id="fig_equipot-1">
 					<caption>Equipotential graph in the xy-plane.</caption>
 					<image source="elec/equipotential-graph-1.png" width = "75%" ></image>
@@ -31,34 +31,34 @@
 
 		<investigation>
 			<title>Equipotential Graph II</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					Describe the charge distribution of the equipotential graph above.
 				</p>
 			</statement>
 		</investigation>
-	</subsection>
+	</subsubsection>
 
-	<subsection>
+	<subsubsection>
 		<title>A*R*C*S Practice</title>
 
 		<project>
 			<title>Capacitor in an Air Conditioner</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					A large capacitor in an air conditioner is typically connected to the potential difference provided to your house (120 V). Although capacitors like this are usually cylindrical, model this one as a parallel plate capacitor with square plates separated by 2.0 mm. If you want your capacitor to store 0.25 J of energy, what is the area of the capacitor plates? How feasible do you think this answer is?
 				</p>
 			</statement>
 		</project>
-	</subsection>
+	</subsubsection>
 	
 
-<subsection>
+<subsubsection>
 	<title>Numerical Practice</title>
 
 	<exploration>
 		<title>Equipotential Graph</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				The figure below shows a map of equipotential lines. The potential values for lines a, b, and c are 10 V, 20 V and 30 V respectively. If you release an electron on equipotential line b, which direction will it move?
 			</p>
@@ -77,7 +77,7 @@
 
 	<exploration>
 		<title>Equipotential Lines around Conductors</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				 The sketch below shows equipotential lines (which are cross-sections of equipotential surfaces) between two charged conductors (shown in solid black).  Various points on the equipotential lines near the conductors are labeled A, B, C, …, I.  Each question regarding this situation has one correct answer.
 			</p>
@@ -153,7 +153,7 @@
 
 	<exploration>
 		<title>Zero Electric Potential</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				If the electric potential value at a point in space is zero, does that mean the electric field value at that point must be zero, as well? Explain.
 			</p>
@@ -167,7 +167,7 @@
 	
 	<exploration>
 		<title>Voltmeter</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				The electric field in a certain region of space is a consistent value of <m>\vec{E} = (-8 \ \mathrm{N}/\mathrm{C})\hat{x}</m>.  Suppose you place the probes of a voltmeter along the x-axis, 2.00 cm apart, in that region.  What is the magnitude of the reading on the voltmeter?
 			</p>
@@ -181,7 +181,7 @@
 
 	<exploration>
 		<title>Electrostatic Equilibrium</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Consider a piece of metal (a conductor) that has come to electrostatic equilibrium in a steady, external electric field. Which of the following statements are true?
 			</p>
@@ -217,7 +217,7 @@
 
 	<exploration>
 		<title>Strength of the Electric Field</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				What is the strength of the electric field in a region where the electric potential is constant?
 			</p>
@@ -231,7 +231,7 @@
 
 	<exploration>
 		<title>Building Hydrogen</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				To form a hydrogen atom, a proton is fixed at a point and an electron is brought from far away to a distance of <m>0.529 \times 10^{-10} \ \mathrm{m}</m>, the average distance between proton and electron in a hydrogen atom. How much work is done?
 			</p>
@@ -245,7 +245,7 @@
 
 	<exploration>
 		<title>Equivalence of Units</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Show that units of V/m and N/C for electric field strength are indeed equivalent.
 			</p>
@@ -268,5 +268,5 @@
 			</p>
 		</biblio>
 	</references>
-	</subsection>
+	</subsubsection>
 </section>

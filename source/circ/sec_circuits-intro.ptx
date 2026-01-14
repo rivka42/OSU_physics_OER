@@ -5,12 +5,14 @@
 
   	<p>You will now study one of the primary applications of electricity: electric circuits.</p>
 	
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
+      <title>Everyday Circuits</title>
+      <p></p>
 			  <p>Write down a few things you already know about electric circuits from your previous coursework and/or your everyday experiences.</p>
-		</exercise>
-	</exercises>
+		</activity>
+	</subsubsection>
 	
 	<!--I put this definition in words in the next section.
 	

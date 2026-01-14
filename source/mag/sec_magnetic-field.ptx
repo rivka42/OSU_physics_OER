@@ -13,21 +13,34 @@
 	<definition>
 		<title>Magnetic field for a long, straight current</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>The <term>magnetic field</term> a distance <m>s</m> from a long, straight current is given by <me>\vec{B} = \frac{\mu_o}{2\pi}\frac{\vec{I} \times \hat{s}}{s}</me> where <m>\mu_o = 4\pi \times 10^{-7}</m> Tm/A is a universal constant known as the permeability of free space.</p>
 		</statement>
 	</definition>	
 	
-	<exercises xml:id="x_magnetic-field">
+	<subsubsection>
 		<title>Activities</title>
+
+		<activity xml:id="x_magnetic-field">
+			<title>Magnetic Field of a Wire</title>
+			<p>
+				
+			</p>
+			
 		<p>The wire shown below carries current <m>I</m> out of the screen.  The circle represents a distance <m>R</m> away from the wire.</p>
 				<figure xml:id="x_fig_mag">
 			<title>Wire Figure</title>
     		<caption>A wire surrounded by four marked test points.</caption>
     		<image source="MagWire.png" width = "50%" ></image>
 		</figure>
-		<exercise>
+		<task>
 		<title>Explanation</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>Sketch a vector at each marked point to represent the magnetic field.  Explain how you determined each vector.</p>
 			</statement>
 			<answer>
@@ -37,28 +50,37 @@
     		<image source="MagWire-sol.png" width = "50%" ></image>
 		</figure>
 			</answer>
-		</exercise>
-				<exercise>
+		</task>
+				<task>
 		<title>Calculation</title>
 		<statement>
-			<p>Determine the magnitude of the magnetic field at each of the marked points.</p>
+			<p>
+				
+			</p>
+			<p>Calculate the magnitude of the magnetic field at each of the marked points.</p>
 			</statement>
 			<answer>
 			<me>B = \frac{\mu_o I}{2\pi s}</me>
 			</answer>
-		</exercise>
-						<exercise>
+		</task>
+						<task>
 		<title>Sensemaking: Covariational Reasoning</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>How does the strength of the magnetic field change as you get farther away from the wire?  Explain your reasoning.</p>
 			</statement>
 			<answer>
 			<p>Since <m>s</m> is in the denominator, as <m>s</m> increases the magnetic field strength will decrease!</p>
 			</answer>
-		</exercise>
-						<exercise>
-		<title>Representation: Vector Field Map</title>
+		</task>
+						<task>
+		<title>Represent: Vector Field Map</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>Use your answers to the above questions to sketch a magnetic field vector map for the region around the wire.  Your map should highlight all the major features of the magnetic field you have identified so far.</p>
 			</statement>
 			<answer>
@@ -74,8 +96,9 @@
 				<description>This figure demonstrates the right-hand rule. The wire is held with the right hand so that the thumb points along the current. The fingers wrap around the wire in the same sense as the magnetic field.</description>
 		</figure>
 			</answer>
-		</exercise>	
-	</exercises>
+		</task>	
+	</activity>
+	</subsubsection>
 	
 		<references>
         <biblio xml:id="ref_magneticfieldwire">

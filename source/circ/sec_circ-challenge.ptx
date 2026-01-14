@@ -14,7 +14,7 @@
 	-->
 	<investigation>
 		<title>Circuit I</title>
-		<statement>
+		<statement><p></p>
 			<figure xml:id="fig-circuit_2">
 				<caption>Circuit diagram.</caption>
 				<image source="circ/circuit-2.png" width = "40%" ></image>
@@ -44,7 +44,7 @@
 
 	<investigation>
 		<title>Circuit II</title>
-		<statement>
+		<statement><p></p>
 			<figure xml:id="fig-circuit_3">
 				<caption>Circuit diagram.</caption>
 				<image source="circ/circuit-3.png" width = "40%" ></image>
@@ -80,13 +80,13 @@
 		</hint>
 	</investigation>
 
-	<subsection>
+	<subsubsection>
 		<title>Metacognitive Reflection</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				We came up with a model for circuits this week, based on the brightness of a lightbulb. Restate the model here in your own words, and explain why you cannot use Ohm's law for real lightbulbs.
 			</p>
 		</statement>
-	</subsection>
+	</subsubsection>
 	
 </section>

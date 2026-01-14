@@ -3,13 +3,29 @@
 <section xml:id="sec_adding-resistors" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>Resistors in Circuits: Series and Parallel</title>
 	
-	    <video youtube="G66Zxh6fuag"><description>Solving a resistor to develop rules for adding resistances in series and parallel.</description></video>
+	    <corollary xml:id="vid-adding-resistors">
+	<title>Adding Resistors</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="G66Zxh6fuag"><description>Solving a resistor to develop rules for adding resistances in series and parallel.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 			
 	<p>When there is more than one resistor in a circuit, you can find the equivalent resistance using the rules of series and parallel resistors.</p>
 
 	<principle>
 		<title>Combining Resistors in Series</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>If <m>N</m> resistors are in series, the equivalent resistance is: <me>R_{\mathrm{eq}} = \sum_{i = 1}^{N} R_i = R_1 + R_2 + R_3 + \dots</me></p>
 		</statement>
 	</principle>
@@ -17,16 +33,21 @@
 	<principle>
 		<title>Combining Resistors in Parallel</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>If <m>N</m> resistors are in parallel, the equivalent resistance is: <me>\frac{1}{R_{\mathrm{eq}}} = \sum_{i = 1}^{N} \frac{1}{R_i} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} + \dots</me></p>
 		</statement>
 	</principle>
 
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
+      <title>Box of Resistors</title>
+      <p></p>
 			<p>Suppose you have a box of identical resistors, each rated for 6 <m>\Omega</m>. Describe an arrangement of these resistors that has an equivalent total resistance of 4 <m>\Omega</m>.</p>
-		</exercise>
-	</exercises>
+		</activity>
+	</subsubsection>
 
 </section>
 

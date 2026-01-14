@@ -5,7 +5,20 @@
 
 	<p>You learned about capacitors in Section <xref ref="sec_capacitors"/>. Capacitors can also be elements within a circuit!</p>
 			
-	<video youtube="jlTt8b-2ZQc"><description>Setting up capacitors in series and parallel circuits.</description></video>
+	<corollary xml:id="vid-capacitors-sp">
+	<title>Capacitors in Series and Parallel</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="jlTt8b-2ZQc"><description>Setting up capacitors in series and parallel circuits.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 			
 	<p>Combining capacitors in series and in parallel is opposite to how you combine resistors.</p>
 
@@ -15,9 +28,11 @@
 			<image source="CD_C.png" width = "10%" ><description>Two parallel lines of equal length representing a capacitor.</description></image>
 		</figure>
 
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
+      <title>Capacitor Arrangements</title>
+      <p></p>
 			<p>Which of the following statements about capacitors do you think is true? (You may select more than one answer.)</p>
 			<ol type="a">
 				<li><p>Capacitors in series have the same voltage.</p></li>
@@ -26,14 +41,17 @@
 				<li><p>Capacitors in parallel have the same charge.</p></li>
 			</ol>
 			<p>Explain your reasoning.</p>
-		</exercise>
-	</exercises>
+		</activity>
+	</subsubsection>
 	
 	<p>In class, you will derive the rules below for combining capacitors.</p>
 	
 		<definition>
 		<title>Combining Capacitors in Series</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>If <m>N</m> capacitors are in series, the equivalent capacitance is: <me>\frac{1}{C_{\mathrm{eq}}} = \sum_{i = 1}^{N} \frac{1}{C_i} = \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3} + \dots</me></p>
 		</statement>
 	</definition>
@@ -41,6 +59,9 @@
 	<definition>
 		<title>Combining Capacitors in Parallel</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>If <m>N</m> capacitors are in parallel, the equivalent capacitance is: <me>C_{\mathrm{eq}} = \sum_{i = 1}^{N} C_i = C_1 + C_2 + C_3 + \dots</me></p>
 		</statement>
 	</definition>

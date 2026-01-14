@@ -3,24 +3,42 @@
 <section xml:id="sec_loop-rule" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>The Loop Rule</title>
 		
-	<video youtube="cw1TurDRc24"><description>Describing the voltage loop rule for circuits.</description></video>
+	<corollary xml:id="vid-loop-rule">
+	<title>The Loop Rule</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="cw1TurDRc24"><description>Describing the voltage loop rule for circuits.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 		
 
 	<principle xml:id="loop-rule">
 		<title>The Loop Rule</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>The <term>Loop Rule</term> says that the voltages around a complete loop add to zero. The Loop Rule is often written as: <me>\sum V = 0</me>  Note that when writing equations involving circuits, it is customary to write the voltage across a circuit element as <m>V</m> rather than <m>\Delta V</m>; however, <m>V</m> still fundamentally represents a <em>potential difference</em>.</p>
 		</statement>
 	</principle>
 	
 	<p>Recall the definition of <xref ref="def-electric_potential_energy"/>. The Loop Rule is based on conservation of energy. In a closed loop, the energy supplied by the battery is transformed between circuit elements, and not into or out of the system. To ensure that energy is conserved, the voltage differences around closed loops must sum to zero.</p>
 	
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
+      <title>Using the Loop Rule</title>
+      <p></p>
 			<p>Return back to <xref ref="x_voltage-predict"/> from the previous section. Apply the loop rule to that circuit. How do your answers compare with what you now know about the loop rule?</p>
-		</exercise>
-	</exercises>
+		</activity>
+	</subsubsection>
 	
 </section>
 

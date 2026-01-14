@@ -10,6 +10,9 @@
 	<definition>
 		<title>Inductor</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>An <term>inductor</term> is a wire coil<fn>commonly referred to as a solenoid</fn> used as a circuit element. The voltage across an inductor is given by <me>V_{inductor} = -L \frac{dI}{dt}</me>. Here, <m>L</m> is the inductance and it is measured in Henries (H). Inductors can also store energy given by <m>U_L = \frac{1}{2} L I^2</m>.</p>
 		</statement>
 	</definition>
@@ -21,12 +24,14 @@
 		</figure>
 	
 	<!--
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
+      <title>TITLE</title>
+      <p></p>
 			<p>TEXT</p>
-		</exercise>
-	</exercises>
+		</activity>
+	</subsubsection>
 -->
   
 

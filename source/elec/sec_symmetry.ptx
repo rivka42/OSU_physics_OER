@@ -9,9 +9,9 @@
 	symmetric and that may be approximated by an appropriate symmetry.
 </p>
 
-<exercises>
+<subsubsection>
 	<title>Common Geometric Symmetries</title>
-</exercises>
+</subsubsection>
 
 <ol>
 	<li>
@@ -42,9 +42,9 @@
 	
 </note>
 
-<exercises>
+<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
 			<title>What Can Change?</title>
 			<statement>
 				<p>
@@ -75,8 +75,8 @@
 				</li>
 				</ol>
 			</answer>
-		</exercise>
-		<exercise>
+		</activity>
+		<activity>
 			<title>What Kind of Symmetry?</title>
 			<statement>
 				<p>
@@ -135,9 +135,9 @@
 				</li>
 			</ol>
 		</answer>
-		</exercise>	
+		</activity>	
 		
-		</exercises>
+		</subsubsection>
 
 		
 

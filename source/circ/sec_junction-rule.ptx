@@ -3,9 +3,9 @@
 <section xml:id="sec_junction-rule" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>The Junction Rule</title>
 
-	<exercises>
-		<title>Activities</title>
-		<exercise>
+		<activity>
+      <title>Warm-up Activity</title>
+      <p></p>
 			<p>Shown below is part of a circuit where two wires combine into one wire.</p>
 			<figure xml:id="current1">
 			  <title>Junction Circuit Diagram</title>
@@ -21,9 +21,22 @@
 				<li><p><m>I_3 = </m> the bigger of <m>I_1</m> and <m>I_2</m></p></li>
 				<li><p>I can't figure out <m>I_3</m></p></li>
 			</ol>
-		</exercise>
+		</activity>
 			
-	<video youtube="tbAY1Szovxk"><description>The junction rule for electric circuits.</description></video>
+	<corollary xml:id="vid-junction-rule">
+	<title>The Junction Rule</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="tbAY1Szovxk"><description>The junction rule for electric circuits.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<principle>
 		<title>The Junction Rule</title>
@@ -34,10 +47,11 @@
 	
 		<p>The Junction Rule is based on conservation of charge.  Along with the <xref ref="loop-rule"/>, it forms a basis for analyzing all circuits.  Together, the two rules are sometimes known as Kirchhoff's Laws.</p>
 
-		<exercise>
+		<activity>
+      <title>Negative Current</title>
+      <p></p>
 			<p>One of your friends builds a circuit and measures a negative current through one of the light bulbs in their circuit. What do you think the negative means for current?</p>
-		</exercise>
-	</exercises>
+		</activity>
 	
 </section>
 

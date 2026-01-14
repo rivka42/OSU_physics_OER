@@ -6,6 +6,9 @@
 	<conjecture xml:id="rep_circuit-diagrams">
 		<title>Circuit Diagrams</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>A circuit diagram is a simplified representation of a real circuit where each element is given a simple icon connected by straight lines corresponding to ideal wires.  Common circuit elements are shown in the figure below.</p>
 		</statement>
 	</conjecture>

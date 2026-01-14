@@ -31,7 +31,7 @@
 
 	<project>
 		<title>Charged Ring</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				A uniformly charged ring with total charge <m>-q_o</m> and radius <m>R</m> is located in the <m>xy</m>-plane. Determine the electric potential a distance <m>z</m> above the center of the ring
 			</p>
@@ -43,13 +43,13 @@
 		</hint>
 	</project>
 
-	<subsection>
+	<subsubsection>
 		<title>Metacognitive Reflection</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Compare the electric potential energy to the gravitational potential energy. Identify similar equations and write a few sentences commenting on their differences.
 			</p>
 		</statement>
-	</subsection>
+	</subsubsection>
 </section>
 

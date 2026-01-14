@@ -5,10 +5,10 @@
 
 	<p>As you saw in <xref ref="sec_gauss"/>, Gauss's law can be used in certain high-symmetry situations as a shortcut to calculating the electric field due to a charge distribution without using Coulomb's law.  The activities below will help you practice this strategy.</p>
 
-	<exercises>
+	<activity>
 	<title>Gauss's Law Practice - Infinitely Charged Sheet</title>
 	<p>Consider a two-dimensional sheet of charge that is infinitely long in the <m>x</m>-direction and infinitely long in the <m>y</m>-direction, but infinitesimally thin in the <m>z</m>-direction.  The charge density is uniform and equal to <m>+\sigma_o</m> across one side of the entire sheet.</p>
-		<exercise>
+		<task>
 		<statement>
 			<p>Make a sketch of this charge distribution.  Carefully label your coordinate system.</p>
 			</statement>
@@ -19,8 +19,8 @@
     		<image source="InfiniteSheet1.png" width = "70%" ></image>
 		</figure>
 			</answer>
-		</exercise>
-				<exercise>
+		</task>
+				<task>
 		<statement>
 			<p>What direction do you think the electric field should point in the region above the sheet (<m>z \gt 0</m>)?  Below the sheet (<m>z \lt 0</m>)?  How do you think the magnitude of the electric field would change if you moved in the <m>x</m>- or <m>y</m>-direction?</p>
 			</statement>
@@ -30,8 +30,8 @@
 			<answer>
 			<p>The electric field must point away from the positively charged sheet, so it points in the positive <m>z</m>-direction above the sheet and in the negative <m>z</m>-direction below the sheet.  Because the sheet is infinite in both directions, moving in either direction should not change the magnitude of the electric field.</p>
 			</answer>
-		</exercise>
-				<exercise>
+		</task>
+				<task>
 		<statement>
 			<p>If you want to use Gauss's law to find the electric field, you need to pick a Gaussian (imaginary) surface.  Key features of a useful Gaussian surface are: (a) it should enclose some charge, (b) it must be a closed surface, (c) the electric field should point parallel or perpendicular to the area vector for each side, and (d) the electric field should be uniform along sides where it is parallel to the area vector.  Can you find a useful Gaussian surface for the infinite sheet?  Add a sketch of it to your previous diagram.</p>
 			</statement>
@@ -46,16 +46,16 @@
     		<image source="InfiniteSheet2.png" width = "70%" ></image>
 		</figure>
 			</answer>
-		</exercise>
-				<exercise>
+		</task>
+				<task>
 		<statement>
 			<p>Determine the net electric flux through the surface and the charge enclosed by the surface.</p>
 			</statement>
 			<answer>
 			<p>Only the top and bottom ends of the cube have nonzero flux, and both are positive, for a total flux of <m>\Phi_E = 2EL^2</m>, where <m>E</m> is the magnitude of the electric field a distance <m>L/2</m> from the sheet.  The total charge enclosed by the box is the charge density times the cross-sectional area <m>Q_{enc} = \sigma_o L^2</m>.</p>
 			</answer>
-		</exercise>
-				<exercise>
+		</task>
+				<task>
 		<statement>
 			<p>Use Gauss's law to solve for the electric field due to the sheet.</p>
 			</statement>
@@ -67,10 +67,21 @@
 			As discussed above, this electric field points upward above the sheet and downward below the sheet.
 			</p>
 			</answer>
-		</exercise>
+		</task>
 		<p>If you want to watch a full walk-through of this solution, check out the video below.</p>
+		<identity xml:id="vid-gauss2">
+	<title>Using Gauss's Law</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
 		<video youtube="jG--bz8xC-o"><description>Using Gauss's Law</description></video>
-	</exercises>
+
+	</statement>
+</identity>
+</activity>
 
 
 </section>

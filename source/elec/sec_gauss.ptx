@@ -3,11 +3,27 @@
 <section xml:id="sec_gauss" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Gauss's Law</title>
 		
-    <video youtube="d-CLU1diGEg"><description>Introducing Gauss's Law.</description></video>
+    <corollary xml:id="vid-gauss">
+	<title>Gauss's Law</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="d-CLU1diGEg"><description>Introducing Gauss's Law.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<principle>
 		<title>Gauss's Law</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>The net electric flux through any <em>closed</em> surface is equal to the charge enclosed by that surface divided by <m>\epsilon_0</m>: <me>\mathit{\Phi}_E = \frac{Q_{enc}}{\epsilon_0}</me><me>\oint_{S} \vec{E}\cdot d\vec{A} = \frac{Q_{enc}}{\epsilon_0}</me></p>
 		</statement>
 	</principle>
@@ -36,20 +52,24 @@
 		To use Gauss's Law, you will need to define a surface, also called a Gaussian surface, that adequately matches the symmetry of your charge distribution. Interestingly, the flux through a surface does not depend on your choice of surface, because ultimately your flux through any surface is equal to <m>\frac{Q_{enc}}{\epsilon_0}</m>, but your surface choice will change, or potentially complicate, your calculations if you are directly calculating the flux through a surface.
 	</p>
 
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
 		<figure xml:id="x_fig_gauss-rank">
 			  <title>Gauss Rank Figure</title>
     		<caption>Several charge distributions and Gaussian surfaces. The circles represent spheres, and the square represents a cube. </caption>
     		<image source="GaussRank.png" width = "100%" ></image>
 		</figure>
-		<exercise>
+		<investigation>
+      <title>Four Cases</title>
+      <p></p>
 			<p>Rank the four cases above by the net electric flux through the shown Gaussian surface from greatest to least. Explain your reasoning.</p>
-		</exercise>
-		<exercise>
+		</investigation>
+		<investigation>
+      <title>Straight Wire</title>
+      <p></p>
 			<p>Suppose you have a straight wire with a uniform charge density, where the length of the wire is much, much greater than its width. What kind of Gaussian surface do you think you should choose for this charge distribution?  Explain your reasoning.</p>
-		</exercise>
-	</exercises>
+		</investigation>
+	</subsubsection>
 	
 </section>
 

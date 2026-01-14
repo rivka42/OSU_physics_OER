@@ -13,12 +13,12 @@
 	<m> \mathrm{~}</m>
 	-->
 
-	<subsection>
+	<subsubsection>
 		<title>Explanation Practice</title>
 
 		<investigation>
 			<title>Circuit I</title>
-			<statement>
+			<statement><p></p>
 				<figure xml:id="fig-circuit_4">
 					<caption>Circuit diagram.</caption>
 					<image source="circ/circuit-4.png" width = "40%" ></image>
@@ -67,7 +67,7 @@
 
 		<investigation>
 			<title>Circuit II</title>
-			<statement>
+			<statement><p></p>
 				<figure xml:id="fig-circuit_5">
 					<caption>Circuit diagram.</caption>
 					<image source="circ/circuit-5.png" width = "40%" ></image>
@@ -117,14 +117,14 @@
 
 
 		
-	</subsection>
+	</subsubsection>
 
-	<subsection>
+	<subsubsection>
 		<title>A*R*C*S Practice</title>
 
 		<project>
 			<title>Circuit III</title>
-			<statement>
+			<statement><p></p>
 				<figure xml:id="fig-circuit_6">
 					<caption>Circuit diagram.</caption>
 					<image source="circ/circuit-6.png" width = "40%" ></image>
@@ -135,11 +135,11 @@
 			</statement>
 		</project>
 
-	</subsection>
+	</subsubsection>
 		
-	<subsection>
+	<subsubsection>
 		<title>Numerical Practice</title>
-	</subsection>
+	</subsubsection>
   
 	
 </section>

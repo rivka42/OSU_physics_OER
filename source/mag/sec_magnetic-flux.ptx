@@ -12,17 +12,20 @@
 	<definition>
 		<title>Magnetic flux</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p><term>Magnetic flux</term> is a measure of how much magnetic field is passing perpendicularly through a surface: <me>\mathit{\Phi}_{B} = \iint \vec{B}\cdot d\vec{A}</me></p>
 		</statement>
 	</definition>
 
 <!--
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
 			<p>TEXT</p>
-		</exercise>
-	</exercises>
+		</activity>
+	</subsubsection>
 -->
 
 </section>

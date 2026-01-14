@@ -2,21 +2,38 @@
 
 <section xml:id="sec_what-is-magnetism" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>What Is Magnetism?</title>
-	<exercises>
-		<title>Warm-up Activities</title>
-		<exercise>
+
+		<activity>
+      <title>Warm-up Activity</title>
+      <p></p>
 			<p>Write down something you know about magnets or magnetism, and how you know it. Where do you use magnets in your everyday life?</p>
-		</exercise>
-	</exercises>
+		</activity>
+
 		
 		
-    <video youtube="K6zUQH4HGZ8"><description>A few experiments demonstrating basic magnetic properties.</description></video>
+    <corollary xml:id="vid-magnetic-properties">
+	<title>Magnetic Properties</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="K6zUQH4HGZ8"><description>A few experiments demonstrating basic magnetic properties.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<p>Magnets interact in lots of interesting ways with different types of materials. We will discuss mainly permanent magnets and ferromagnetic objects.</p>
 	
 	<definition>
 		<title>Permanent magnets</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p><term>Permanent magnets</term> are objects that have both attractive and repulsive interactions with each other. These objects have a ``north" and a ``south" pole that react to each other in different ways. Like poles repel and opposite poles attract.</p>
 		</statement>
 	</definition>
@@ -24,32 +41,51 @@
 	<definition>
 		<title>Ferromagnetic magnets</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p><term>Ferromagnetic</term> materials (like iron, cobalt, and nickel) tend to be attracted to permanent magnets<fn>ferromagmetic materials can become permanent magnets through a process known as magnetization</fn>.</p>
 		</statement>
 	</definition>
 	
-	    <video youtube="-1w7niP7m6E"><description>Introducing a model for magnetism.</description></video>
 
-	<exercises>
+		<corollary xml:id="vid-magnetism">
+	<title>A Model for Magnetism</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="-1w7niP7m6E"><description>Introducing a model for magnetism.</description></video>
+
+	</statement>
+  </corollary>
+
+	<subsubsection>
 		<title>Activities</title>
 		<p>The experiments below will help answer some of the model questions posed in the video above.</p>
-		<exercise>
+		<activity>
+      <title>Cutting a Magnet in Half</title>
+      
 		<statement>
-			<p>Make a prediction about what you think happens if you cut a magnet in half.  Then watch the following video in the answer to check your prediction.</p>
+			<p></p><p>Make a prediction about what you think happens if you cut a magnet in half.  Then watch the following video in the answer to check your prediction.</p>
 </statement>
 <answer>
-			<video youtube="q0d_SS-0Puk"><description>Cutting a magnet in half</description></video>
+	<url href="https://www.youtube.com/watch?v=q0d_SS-0Puk"></url>
 			</answer>
-		</exercise>
-		<exercise>
+		</activity>
+		<activity>
+      <title>Magnetic Grapes</title>
+      
 		<statement>
-			<p>Make a prediction about what you think happens if you bring a magnet near a grape.  Then watch the following video in the answer to check your prediction.</p>
+			<p></p><p>Make a prediction about what you think happens if you bring a magnet near a grape.  Then watch the following video in the answer to check your prediction.</p>
 </statement>
 <answer>
 			<url href="https://www.youtube.com/watch?v=-zOzEvHmaK8"></url>
 			</answer>
-		</exercise>
-	</exercises>
+		</activity>
+	</subsubsection>
 	
 	
 

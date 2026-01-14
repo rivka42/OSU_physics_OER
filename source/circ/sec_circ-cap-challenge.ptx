@@ -15,7 +15,7 @@
 
 	<investigation>
 		<title>Circuit 1</title>
-		<statement>
+		<statement><p></p>
 			<figure xml:id="fig-circuit_7">
 			<caption>Circuit diagram.</caption>
 			<image source="circ/circuit-7.png" width = "40%" ></image>
@@ -28,7 +28,7 @@
 	
 	<investigation>
 		<title>Circuit 2</title>
-		<statement>
+		<statement><p></p>
 			<figure xml:id="fig-circuit_8">
 				<caption>Circuit diagram.</caption>
 				<image source="circ/circuit-8.png" width = "40%" ></image>
@@ -49,23 +49,23 @@
 	
 	<investigation>
 		<title>Create a Circuit</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				You have two identical batteries, two identical resistors, and two identical capacitors (you also have infinite ideal wires). Sketch the circuit that includes all of the circuit elements that will cause the capacitors to charge in the least amount of time (safely!).
 			</p>
 		</statement>
 	</investigation>
 
-	<subsection>
+	<subsubsection>
 		<title>Metacognitive Reflection</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Look back over the activities you have done over the last two weeks and reflect on a time when you may have made an incorrect prediction. What was your prediction and why was it incorrect? How did you resolve it? 
 				
 				If you did not make an incorrect prediction, reflect on something that surprised you about the behavior of a circuit. Reference specific circuits in your reflection.   
 			</p>
 		</statement>
-	</subsection>
+	</subsubsection>
 	
 </section>
 

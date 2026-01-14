@@ -12,27 +12,40 @@
 	<definition>
 		<title>Lorentz Force</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>The <term>Lorentz Force</term> is defined as the sum of the electric and magnetic forces on a charge <me>\vec{F} = q\vec{E} + q\vec{v}\times\vec{B}</me></p> 
 			<!-- include l * (I x B) ?-->
 		</statement>
 	</definition>
 
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
+		<activity>
+		<title>Magnetic Force from a Wire</title>
+		<p>
+			
+		</p>
 		<p>In <xref ref="x_magnetic-field"/>, you determined the magnetic field due to a long, straight current.  Assume a small positive charge is currently located at each of the four marked points, moving downward with known speed <m>v</m>.</p>
-		<exercise>
+		<task>
+
 			<p>For each point, draw a vector representing the magnetic force on the moving charge.</p>
-		</exercise>
-		<exercise>
+		</task>
+		<task>
+
 			<p>Determine the magnitude of the force in each case.</p>
-		</exercise>
-		<exercise>
+		</task>
+		<task>
+
 			<p>How would your answers change if the charges were moving to the right?</p>
-		</exercise>
-		<exercise>
+		</task>
+		<task>
+
 			<p>How would your answers change if the moving charges were negative?</p>
-		</exercise>
-	</exercises>
+		</task>
+	</activity>
+	</subsubsection>
 
 </section>
 

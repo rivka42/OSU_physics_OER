@@ -3,18 +3,28 @@
 <section xml:id="sec_energy-review" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Review: Conservation of Energy</title>
 	
-	<exercises>
+	<subsubsection>
 		<title>Activities: Review of Conservation of Energy</title>
-		<exercise>
+		<investigation>
+      <title>Mechanical Energy</title>
+      <p></p>
 		<statement>
+			<p>
+				
+			</p>
 		<p>When is the total mechanical energy of a system conserved? Describe how you know.</p>
 		</statement>
 		<answer>
 		<p>Recall the <xref ref="p_work-energy"/> theorem. If the <alert>net work</alert> done by external forces on an object is zero, then total mechanical energy (kinetic and potential) is conserved.</p>
 		</answer>
-		</exercise>
-		<exercise>
+		</investigation>
+		<investigation>
+      <title>Two Experiments</title>
+
 		<statement>
+			<p>
+				
+			</p>
 			<p>Consider the two experiments described below.  In each case, consider the system consisting of the apple and the Earth.</p>
 			
 			<p>Experiment 1: You are initially holding an apple at rest a distance <m>h</m> above the ground, and you lower the apple and place it at rest on the ground.</p>
@@ -33,14 +43,27 @@
 			</statement>
 			<solution>
 				<p>Watch the video below and compare your answers.</p>
-			<video youtube="KTtNSWvf26Y"><description>Reviewing energy with two experiments.</description></video>
+			<identity xml:id="vid-energy-review">
+	<title>Reviewing Energy</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="KTtNSWvf26Y"><description>Reviewing energy with two experiments.</description></video>
+
+	</statement>
+</identity>
 			</solution>
-		</exercise>
-		<exercise>
+		</investigation>
+		<investigation>
+      <title>Two Charges</title>
+      <p></p>
 			<p>Suppose you have two positive point charges separated by some distance. A few minutes later, you find that the distance between the two point charges has increased.</p>
 
 			<p>Do you think the potential energy of the system of both charges increased, decreased, or stayed the same? Explain your reasoning.</p>
-		</exercise>
-	</exercises>
+		</investigation>
+	</subsubsection>
 </section>
 

@@ -2,23 +2,39 @@
 
 <section xml:id="sec_magnetic-dipole" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Magnetic Dipoles</title>
-	<exercises>
-		<title>Warm-up Activity</title>
-		<exercise><p>Shown below are two bar magnets. Describe how they will interact with one another. What will happen to their motion?</p> </exercise>
+
+		<activity>
+      <title>Warm-up Activity</title>
+      <p></p><p>Shown below are two bar magnets. Describe how they will interact with one another. What will happen to their motion?</p> </activity>
 		<figure xml:id="bar_magnets">
 			<title>Bar Magnets Figure</title>
 			<caption>Two bar magnets sit side by side, with their south poles facing each other.</caption>
 			<image source="mag/bars.png" width = "70%" ><description>Two bar magnets sit side by side, with their south poles facing each other.</description></image>
 		</figure>
-	</exercises>
 		
-    <video youtube="UVDOts2nYUw"><description>Introducing magnetic dipole moments.</description></video>
+    <corollary xml:id="vid-magnetic-dipole">
+	<title>Magnetic Dipole Moment</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="UVDOts2nYUw"><description>Introducing magnetic dipole moments.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<p>Bar magnets have a physical property called the magnetic dipole moment.</p>
 	
 	<definition>
 		<title>Magnetic Dipole Moment</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>The <term>magnetic dipole moment</term>, <m>\vec{\mu}</m>, points from the south to the north pole inside a bar magnet.</p>
 		</statement>
 	</definition>
@@ -32,7 +48,7 @@
 				<shortdescription>A bar magnet with a north and south pole. The field lines come out of the north pole and curve out and around to the south pole.</shortdescription>
 		</figure>
 	
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
 		<p>The figure below shows a bar magnet and a loop with current that is running clockwise when viewed from above.</p>
 		<figure xml:id="loop_magnet">
@@ -40,14 +56,16 @@
 				<caption>A bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</caption>
 				<image source="mag/loop.png" width = "70%" ><description>A bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</description></image>
 			</figure>
-		<exercise>
+		<activity>
+      <title>Bar Magnet</title>
+      <p></p>
 		<p>Describe what you expect to happen to the bar magnet and the loop as time progresses.</p>
-		</exercise>
-	</exercises>
+		</activity>
+	</subsubsection>
 
 		<references>
         <biblio xml:id="ref_magneticfieldlines">
-            <p>"Magnetic Field Lines" modified from <em>OpenStax</em>, https://openstax.org/books/university-physics-volume-2/pages/11-2-magnetic-fields-and-lines</p>
+            <p><q>Magnetic Field Lines</q> modified from <em>OpenStax</em>, https://openstax.org/books/university-physics-volume-2/pages/11-2-magnetic-fields-and-lines</p>
         </biblio>
     </references>
 

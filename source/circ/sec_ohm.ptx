@@ -3,11 +3,27 @@
 <section xml:id="sec_ohm" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>Ohm's Law</title>
 			
-	<video youtube="74gJG1ct6Vc"><description>Introducing Ohm's Law.</description></video>
+	<corollary xml:id="vid-ohm">
+	<title>Ohm's Law</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="74gJG1ct6Vc"><description>Introducing Ohm's Law.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
 	<definition>
 		<title>Ohm's Law</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p><term>Ohm's Law</term> relates the voltage across a resistor to the current flowing through that resistor by a quantity known as resistance: <me>V = IR</me></p>
 		</statement>
 	</definition>
@@ -15,6 +31,9 @@
 	<assumption>
 		<title>Linear Resistors</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>A <term>linear resistor</term> or Ohmic resistor is one that has a resistance <m>R</m> that is constant (it is the same no matter what current is flowing through it).</p>
 		</statement>
 	</assumption>
@@ -29,16 +48,19 @@
 		<image source="CD_R.png" width = "10%" ><description>A jagged line representing an Ohmic resistor.</description></image>
 	</figure>
 	
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
-		<exercise>
+		<activity>
 			<title>Sensemaking: Units</title>
 			<statement>
+				<p>
+					
+				</p>
 				<p>What are the units of resistance in terms of other units you have used?</p>
 			</statement>
 			<answer><p>V/A</p></answer>
-		</exercise>
-	</exercises>
+		</activity>
+	</subsubsection>
 	
 </section>
 

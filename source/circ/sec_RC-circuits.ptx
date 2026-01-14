@@ -3,11 +3,13 @@
 <section xml:id="sec_rc-circuits" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>RC Charging Circuits</title>
 	
-	<exercises>
+	<subsubsection>
 					<title>Activities</title>
-					<exercise>
+					<activity>
+      <title>Derivative Warm-up</title>
+      <p></p>
 					<p>What is the derivative of the function <m>f(t) = Ae^{-\omega t}</m> with respect to <m>t</m>?</p>
-					</exercise>
+					</activity>
 					<p>The circuit below contains a battery, a resistor, a switch, and a capacitor. The capacitor is initially uncharged and the voltage of the battery is <m>V</m>.</p>
 					
 					<figure xml:id="RC1">
@@ -16,22 +18,41 @@
 			<image source="circ/RC-circuit.png" width = "50%" ><description>A circuit diagram with a battery, open switch, light bulb, and capacitor.</description></image>
 		</figure>
 		
-					<exercise>
+					<activity>
+      <title>Prediction 1</title>
+      <p></p>
 					<p>Just after the switch is closed: what is the absolute value of the potential difference across the capacitor?  Explain your reasoning.</p>
-					</exercise>
+					</activity>
 					
-										<exercise>
+										<activity>
+      <title>Prediction 2</title>
+      <p></p>
 					<p>A long time after the switch is closed: what is the absolute value of the potential difference across the capacitor?  Explain your reasoning.</p>
-					</exercise>
+					</activity>
 					
-	<video youtube="EuU7Me6dvzg"><description>How to figure out the charge on a charging capacitor.</description></video>
+	<corollary xml:id="vid-charging-capacitor">
+	<title>Charging Capacitor</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="EuU7Me6dvzg"><description>How to figure out the charge on a charging capacitor.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<p>When the capacitor is charging, the current through the resistor as a function of time is given by <me>I(t) = \frac{V_{bat}}{R}e^{-t/RC}</me></p>
 			
-		<exercise>
+		<activity>
+      <title>Represent</title>
+      <p></p>
 			<p>Given the result above, sketch a graph of the current through the resistor when the capacitor is charging.  Describe how the graph would change if you were to increase the resistance of the circuit. Give a physical explanation for why you observe this change.</p>
-		</exercise>
-	</exercises>
+		</activity>
+	</subsubsection>
 
 </section>
 

@@ -14,7 +14,7 @@
 	-->
 	<investigation>
 		<title>Zero Magnetic Field</title>
-		<statement>
+		<statement><p></p>
 			<figure xml:id="fig-current_graph">
 				<caption>Grid showing locations of two current carrying wires.</caption>
 				<image source="mag/current-graph.png" width = "40%" ></image>
@@ -31,7 +31,7 @@
 
 	<project>
 		<title>Current Carrying Half-Cylinder</title>
-		<statement>
+		<statement><p></p>
 			<figure xml:id="fig-cylinder-current">
 				<caption>Half-cylinder carrying current.</caption>
 				<image source="mag/half-cylinder-current.png" width = "40%" ></image>
@@ -42,13 +42,13 @@
 		</statement>
 	</project>
 
-	<subsection>
+	<subsubsection>
 		<title>Metacognitive Reflection</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Review activities you completed when you were studying electric fields. You can start with Chapters 21 and 22. Find two activities related to electric fields that are similar to the activities you completed this week for your challenge homework. Discuss the main similarities and differences.
 			</p>
 		</statement>
-	</subsection>
+	</subsubsection>
 
 </section>

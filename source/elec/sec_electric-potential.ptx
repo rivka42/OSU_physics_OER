@@ -2,47 +2,92 @@
 
 <section xml:id="sec_electric-potential" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Electric Potential</title>
+	
+	
+    <corollary xml:id="vid-elec-u">
+	<title>Electric Potential Energy</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="rrGniazRAL0"><description>Electric Potential Energy</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	<p>Just like a massive object will store gravitational potential energy, charged objects can store <term>electric potential energy</term></p>
-	
-    <video youtube="rrGniazRAL0"><description>Electric Potential Energy</description></video>
-	
 	<definition xml:id="def-electric_potential_energy">
 		<title>Electric Potential Energy</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>The change in <term>electric potential energy</term> is defined as <me>\Delta U_E = q_{\mathrm{test}}\Delta V</me>.</p>
 		</statement>
 	</definition>
 	
 	<p>This definition of potential energy intentionally mirrors the definition for electric force <m>\vec{F}^E = q_{\mathrm{test}}\vec{E}</m>.  The new quantity <m>\Delta V</m> is known as the electric potential difference and is based on a new scalar field <m>V</m>, known as the electric potential, which, like the electric field, is created by the presence of other electric charges.  The electric potential difference, which has units of volts (V), is also sometimes called voltage.</p>
 	
-	<video youtube="uBcTNFbuCZw"><description>Electric Potential Difference</description></video>
+	<corollary xml:id="vid-elec-v">
+	<title>Electric Potential Difference</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="uBcTNFbuCZw"><description>Electric Potential Difference</description></video>
+
+	</statement>
+  </corollary>
 
 	<p>A charged object will experience a potential difference as it moves through, or changes locations in, an electric potential scalar field. If a test charge is near another charged particle, the test charge will experience an electric potential difference due to that point charge.</p>
 	
-	<video youtube="b-WvRdtB3U8"><description>Electric Potential Difference for a Point Charge</description></video>
+	<corollary xml:id="vid-elec-v-pc">
+	<title>Potential Difference for a Point Charge</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="b-WvRdtB3U8"><description>Electric Potential Difference for a Point Charge</description></video>
+
+	</statement>
+  </corollary>
 
 	<definition>
 		<title>Electric Potential for a Point Charge</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>The electric potential created by a single point charge <m>q</m> a distance <m>r</m> from that point charge can be written as <me>V = k \frac{q}{r}</me></p>
 		</statement>
 	</definition>
 
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
+      <title>Sensemaking: Units</title>
+      <p></p>
 			<p>Express the units of the electric potential (volts) in terms of other units with which you are familiar.</p>
-		</exercise>
-		<exercise>
+		</activity>
+		<activity>
+      <title>Two Charges</title>
+      <p></p>
 			<p>Two point charges with charge <m>+q</m> are separated by a distance <m>d</m>. What is the change in electric potential energy if you move one of the charges towards the other a distance of <m>d/2</m>?</p>
-			<answer>
+			<solution>
 				<p>As one particle is moved from <m>r = d</m> to <m>r = d/2</m>, the electric potential difference at the new location is given by <me>\Delta V = \frac{kq}{r_f} - \frac{kq}{r_i} = \frac{kq}{d/2} - \frac{kq}{d} = \frac{kq}{d}</me>.</p>
 				<p>The change in electric potential energy is given by <me>\Delta U_E = q \Delta V</me>.</p>
 				<p>Plugging in what was found for our electric potential difference, we find that the change in electric potential energy for the system of two point charges is <me>\Delta U_E = \frac{kq^2}{d}</me></p>
 				<p>Does this make sense? We know that two like charges want to repel. Here we have two oppositely charged particles that want to push each other away. If we push one charge closer to the other, the magnitude of the electric force is going to get larger. So it requires more energy to push that charge inwards, towards the other charge. We should expect that the potential energy is larger as we move these two charges closer to each other.</p>
-			</answer>
-		</exercise>
-	</exercises>
+			</solution>
+		</activity>
+	</subsubsection>
 	
 </section>
 

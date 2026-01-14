@@ -15,7 +15,7 @@
 
 	<project>
 		<title>Solenoid</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Consider the magnetic field created by an infinitely long solenoid with radius <m>R</m> and <m>n</m> coils per unit length carrying a steady clockwise current <m>I</m>. Starting from the assumption that the magnetic field everywhere in space must point in either the positive or negative <m>z</m>-direction (parallel to the axis of the solenoid), use Ampere's Law to determine the magnitude and direction of this magnetic field.
 			</p>
@@ -27,14 +27,14 @@
 		</hint>
 	</project>
 
-	<subsection>
+	<subsubsection>
 		<title>Metacognitive Reflection</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Write a short paragraph discussing how a changing magnetic field can result in an induced current. As part of your description, highlight specific activities you completed this week.
 			</p>
 		</statement>
-	</subsection>
+	</subsubsection>
 
 
 </section>

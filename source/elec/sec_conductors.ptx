@@ -3,57 +3,93 @@
 <section xml:id="sec_conductors" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Conductors</title>
 
-	<exercises>
+	<activity>
 		<title>Warm-Up Activity</title>
+		<p>
+			
+		</p>
+		<p>The diagram shows a large positive charge next to a conductor. A conductor is a material (typically metal) that has a lot of free charges that can move around in response to external fields. The conductor in the figure is neutral (the net charge is zero).</p>
+
 		<figure xml:id="conductor-img">
 			  <title>Conductor Figure</title>
 			<caption>A large positive charge to the left of a square conductor.</caption>
 			<image source="Conductor.png" width = "50%" ><description>A long rod is positively charged and is held next to a circular conductor.</description></image>
 		</figure>
-		<exercise>
-			<p>The diagram above shows a large positive charge next to a conductor. A conductor is a material (typically metal) that has a lot of free charges that can move around in response to external fields. The conductor in the figure is neutral (the net charge is zero).</p>
-
+		<task>
+			
 			<p>Describe how you would expect the charges in the conductor to distribute themselves in the presence of the large positive charge.</p>
-		</exercise>
-		<exercise>
+		</task>
+		<task>
 			<p>Together, the large positive charge and the charges in the conductor will create a net electric field everywhere in space.  Predict the direction of this net electric field at the center of the square conductor.</p>
-		</exercise>
+		</task>
+		<task>
 			<p>Click on <url href="https://www.youtube.com/watch?v=WqvImbn9GG4" visual="this link"/> to view a video demonstrating what happens in case like the one described above.</p>
-		<exercise>
+		</task>
+		<task>
 		<p>Has your thinking about the electric field at the center of the conductor changed? If so, explain how and why it has changed.</p>
-		</exercise>
-	</exercises>
+		</task>
+	</activity>
 		
-    <video youtube="zOZivY-PfuQ"><description>An introduction to conductors.</description></video>
+    <corollary xml:id="vid-conductors">
+	<title>Conductors</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="zOZivY-PfuQ"><description>An introduction to conductors.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<p>Conductors are extremely useful objects that interact in interesting ways with an external electric field. </p>
 	
 	<definition>
 		<title>Conductors</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>A <term>conductor</term> is an object that possesses free electric charges that move in response to an external electric field in such a way that the electric field everywhere inside the conductor is zero.</p>
 		</statement>
 	</definition>
 	
-	<exercises>
-	<title>Conductor Activities</title>
+	<activity>
+	<title>Conductor in an Electric Field</title>
+	<p>
+		
+	</p>
 		<p>Consider the charged conductor shown below.</p>
 				<figure xml:id="conductor-img2">
 			  <title>Charged Conductor Figure</title>
 			<caption>A charged conductor and an external electric field.</caption>
 			<image source="ConductorCharged.png" width = "50%" ><description>A long rod is positively charged and is held next to a circular conductor.</description></image>
 		</figure>
-		<exercise>
+		<task>
 			<p>What direction is the net electric field at each point inside the conductor?  Explain your reasoning.</p>
-		</exercise>
-		<exercise>
+		</task>
+		<task>
 			<p>Do you think the electric potential difference between points A and B is positive, negative, or zero?  Explain your reasoning.</p>
-		</exercise>
-	</exercises>
+		</task>
+	</activity>
 
 	<p>Conductors have many interesting properties, which are summarized in the video below.</p>
 
-	<video youtube="WrlwwYQ0GIA"><description>Rules for how electric conductors behave.</description></video>
+	<corollary xml:id="vid-conductors-rules">
+	<title>Rules for Conductors</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="WrlwwYQ0GIA"><description>Rules for how electric conductors behave.</description></video>
+
+	</statement>
+  </corollary>
 
 	<references>
 		<biblio xml:id="ref_faraday_cage_mit">

@@ -15,7 +15,7 @@
 	
 	<project>
 		<title>Infinite Wires</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Two infinite wires are located parallel to the y-axis. One wire has uniform charge density <m>+\lambda</m> and is located at <m>x = +x_o</m>. The other wire has uniform charge density <m>-\lambda</m> and is located at <m>x = -x_o</m>. The electric potential in the <m>xy</m>-plane for this system is given by: <me>
 					V(x, y) = 2k \lambda \ln{|x + x_o |} - 2k \lambda \ln{|x-x_o |} = 2k \lambda \ln{| \frac{x + x_o }{x - x_o} |}
@@ -46,7 +46,7 @@
 
 	<investigation>
 		<title>Equipotential Graph II</title>
-		<statement>
+		<statement><p></p>
 			<figure xml:id="fig_equipot-2">
 				<caption>Equipotential graph in the xy-plane.</caption>
 				<image source="elec/equipotential-graph-2.png" width = "75%" ></image>
@@ -99,21 +99,21 @@
 
 	<project>
 		<title>Capacitance and Charge</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Two parallel 3.0-cm-diameter flat aluminum electrodes are spaced 0.50 mm apart. The electrodes are connected to a 50 V battery. Find the capacitance and the magnitude of the charge on each electrode.
 			</p>
 		</statement>
 	</project>
 
-	<subsection>
+	<subsubsection>
 		<title>Metacognitive Reflection</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				You now have a few different ways to calculate the electric field from the electric potential. Describe how you can determine the electric field if you are given: 1) an equation for the potential everywhere in space, or 2) an equipotential map. Be sure to discuss how to determine the direction in both cases. 
 			</p>
 		</statement>
-	</subsection>
+	</subsubsection>
 
 
 </section>

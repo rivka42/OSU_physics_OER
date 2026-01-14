@@ -11,12 +11,14 @@
 	
 	<p><term>Add:</term> Last, once you have the infinitesimal <m>d\vec{B}</m>, you <em>add</em> together every <m>d\vec{B}</m> over the entire object: <me>\vec{B} = \int d\vec{B}</me></p>
 
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
+      <title>Magnetic Field of a Strip</title>
+      <p></p>
 			<p>Complete the calculation above by drawing a diagram, using it to evaluate the cross product, making any useful symmetry arguments, and calculating the resulting integral.</p>
-		</exercise>
-	</exercises>
+		</activity>
+	</subsubsection>
 
   
 

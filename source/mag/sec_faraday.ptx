@@ -3,11 +3,27 @@
 <section xml:id="sec_faraday" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Faraday's Law</title>
 		
-    <video youtube="8LV-H9LZN8I"><description>Introducing Faraday's Law.</description></video>
+    <corollary xml:id="vid-faraday">
+	<title>Faraday's Law</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="8LV-H9LZN8I"><description>Introducing Faraday's Law.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<definition>
 		<title>Faraday's Law</title>
 		<statement>
+      <p>
+        
+      </p>
 			<p><term>Faraday's Law</term> says that if the magnetic flux through a surface changes with time, a voltage is induced within the current carrying material: <me>V_{induced} = - \frac{d\mathit{\Phi}_B}{dt}</me></p>
 		</statement>
 	</definition>
@@ -15,6 +31,9 @@
 					<conjecture xml:id="rep_mag-induction-table">
 			<title>Magnetic Induction Tables</title>
 			<statement>
+        <p>
+          
+        </p>
 				<p>A <term>magnetic induction table</term> is a representation that helps you organize and keep track of the various quantities needed for Faraday's Law.  An example table from the video is reproduced below.</p>
 			</statement>
 		</conjecture>
@@ -61,21 +80,24 @@
 
 </table>
 
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<p>The current-carrying wire below is being pulled downward, away from the square metal loop.</p>
+    <activity>
+      <title>Moving Current Loop</title>
+      		<p>The current-carrying wire below is being pulled downward, away from the square metal loop.</p>
 		<figure xml:id="x_fig_wire-and-loop">
 			<title>Wire and Loop Figure</title>
     		<caption>A long wire carrying current to the right below a wire loop.</caption>
     		<image source="WireAndLoop.png" width = "70%" ></image>
 		</figure>
-		<exercise>
+		<task>  
 			<p>As the wire is moving, is there a clockwise current induced around the loop, a counterclockwise current, or no current?  Create a magnetic induction table to explain your reasoning.</p>
-		</exercise>
-				<exercise>
+		</task>
+				<task>
 			<p>Describe a different experiment you could do with the setup in the figure that would result in an induced current in the loop. What direction will the current in the loop be for your experiment, and why?</p>
-		</exercise>
-	</exercises>
+		</task>
+  </activity>
+	</subsubsection>
 
   
 

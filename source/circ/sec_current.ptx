@@ -3,14 +3,26 @@
 <section xml:id="sec_current" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>Electric Current</title>
 
-	<exercises>
-		<title>Warm-up Activity</title>
-			<exercise>
+			<activity>
+      <title>Warm-up Activity</title>
+      <p></p>
 				<p>Within a circuit, there are tiny positive charges that are free to move<fn>in fact, it is the negative charges that are free to move, but it is conventional to consider the positive charges instead</fn>.  What do you think is happening to all of those tiny positive charges in a simple circuit with a battery and a light bulb?</p>
-			</exercise>
-	</exercises>
+			</activity>
 			
-	<video youtube="LquookvLyh8"><description>Introducing electric current.</description></video>
+	<corollary xml:id="vid-current">
+	<title>Electric Current</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="LquookvLyh8"><description>Introducing electric current.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 		
 	<p>The voltages across different elements of a circuit produce electric fields within the elements that help move the charges along, producing a current.</p>
 
@@ -21,16 +33,21 @@
 	<definition>
 		<title>Electric Current</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p><term>Electric Current</term> is the flow of electric charge and has units of Amps (<m>\mathrm{C}/\mathrm{s}</m>). It is defined as the rate of positive charge flowing past a given point in a circuit per unit time: <me>I = \frac{dq}{dt}</me></p>
 		</statement>
 	</definition>
 
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<investigation>
+      <title>Current Prediction</title>
+      <p></p>
 			<p>Recall the circuit (<xref ref="precircuit"/>) from <xref ref="sec_voltage"/>. Do you think that the current passing through element B is greater than, less than, or equal to the current passing through element A? Explain your answer.</p>
-		</exercise>
-	</exercises>
+		</investigation>
+	</subsubsection>
 	
 </section>
 

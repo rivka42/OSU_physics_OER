@@ -13,12 +13,12 @@
 	<m> \mathrm{~}</m>
 	-->
 
-	<subsection>
+	<subsubsection>
 		<title>Explanation Practice</title>
 		
 		<investigation>
 			<title>Circuit</title>
-			<statement>
+			<statement><p></p>
 				<figure xml:id="fig-circuit_1">
 					<caption>Circuit diagram. The top and bottom circuits are identical, apart from an extra wire connecting around lightbulb C in the bottom diagram.</caption>
 					<image source="circ/circuit-1.png" width = "40%" ></image>
@@ -55,14 +55,14 @@
 		</investigation>
 
 		
-	</subsection>
+	</subsubsection>
 
-	<subsection>
+	<subsubsection>
 		<title>A*R*C*S Practice</title>
 		
 		<project>
 			<title>Current</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					The total amount of charge that has entered a wire at time t is given by: <me>
 						Q(t) = Q_o (1 - e^{t/\tau})
@@ -73,14 +73,14 @@
 		</project>
 
 
-	</subsection>
+	</subsubsection>
 		
-	<subsection>
+	<subsubsection>
 	<title>Numerical Practice</title>
 
 		<exploration>
 			<title>Lightning Bolt</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					A large lightning bolt had a 20,000-A current and moved 30.0 C of charge.  What was its duration? 
 				</p>
@@ -94,7 +94,7 @@
 
 		<exploration>
 			<title>How many electrons?</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					How many electrons flow through a point in a wire in 3.00 s if there is a constant current of I = 4.00 A?
 				</p>
@@ -108,7 +108,7 @@
 		
 		<exploration>
 			<title>Current</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					The quantity of charge through a conductor is modeled as <m>Q(t) = (4.0 \frac{\mathrm{C}}{\mathrm{s}^4}t^4 - (1.0 \frac{\mathrm{C}}{\mathrm{s}})t + 6.0 \mathrm{mC}</m>. What is the current at time t = 3.0 s?
 				</p>
@@ -127,7 +127,7 @@
 		</figure>
 		<exploration>
 			<title>Junction</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					Can all of the currents going into the junction shown above be positive? Explain.
 				</p>
@@ -147,7 +147,7 @@
 
 		<exploration>
 			<title>Resistance from a Graph</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					Suppose you apply several different voltage differences across a circuit and measure the resulting current through the circuit; a plot of your results is shown above.  What is the resistance of the circuit?
 				</p>
@@ -161,7 +161,7 @@
 
 		<exploration>
 			<title>Bird on a Wire</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					High-voltage overhead electric lines are not covered by insulation, unlike wires that are used in electric circuitry in homes. Explain why a bird that lands on a single high-voltage line does not get electrocuted.
 				</p>
@@ -181,7 +181,7 @@
 
 		<exploration>
 			<title>Circuit Quantities</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					Consider the circuit above. The voltage drops across resistors 1 and 2 are 3 V and 4 V respectively.
 				</p>
@@ -228,7 +228,7 @@
 
 		<exploration>
 			<title>Current Through Resistors</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					Consider the circuit above.
 				</p>
@@ -259,7 +259,7 @@
 
 		<exploration>
 			<title>Increasing Resistance</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					Two identical resistors are connected in parallel across the terminals of a battery.  If you increase the resistance of one of the resistors, what happens to the current through, and the voltage difference across, the other resistor? 
 				</p>
@@ -279,7 +279,7 @@
 
 		<exploration>
 			<title>Circuit Analysis</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					Consider the resistive circuit shown above.
 				</p>
@@ -336,7 +336,7 @@
 
 		<exploration>
 			<title>Circuit Analysis II</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					Consider the circuit shown above. 
 				</p>
@@ -359,7 +359,7 @@
 
 		<exploration>
 			<title>Circuit Segment</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					What is the equivalent resistance of the circuit segment above?
 				</p>
@@ -373,7 +373,7 @@
 
 		<exploration>
 			<title>Parallel Resistors</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					Every time you add another resistor in parallel which of the following changes occur?
 				</p>
@@ -419,7 +419,7 @@
 
 		<exploration>
 			<title>Circuit Analysis II</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					Recall the <xref ref="bs-circuit-13"/> from above. 
 				</p>
@@ -500,7 +500,7 @@
 
 		<exploration>
 			<title>Shock!</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					The severity of a shock depends on the magnitude of the current through your body. Would you prefer to be in series or in parallel with a resistance, such as the heating element of a toaster, if you were shocked by it? Explain.
 				</p>
@@ -514,7 +514,7 @@
 
 		<exploration>
 			<title>Smallest and Largest Resistances</title>
-			<statement>
+			<statement><p></p>
 				<p>
 					What are the largest and smallest resistances you can obtain by connecting a 36.0 <m>\Omega</m>, a 50.0 <m>\Omega</m>, and a 700 <m>\Omega</m> resistor together?
 				</p>
@@ -525,7 +525,7 @@
 				</p>
 			</answer>
 		</exploration>
-	</subsection>
+	</subsubsection>
   
 	<references>
 		<biblio xml:id="ref_boxsand-circ">

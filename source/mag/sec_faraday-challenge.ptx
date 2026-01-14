@@ -15,7 +15,7 @@
 	
 	<project>
 		<title>Charging your Phone</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				You have a circular coil of radius 25 cm with 200 turns and resistance 5 <m>\Omega</m> that you would like to use to generate some power for charging your phone. You look up and see that 9 m above you is a long, straight power line that you estimate has a maximum current of 700 A alternating at 50 Hz. Estimate the maximum current through your coil.
 			</p>
@@ -24,7 +24,7 @@
 
 	<investigation>
 		<title>Circuit II</title>
-		<statement>
+		<statement><p></p>
 			<figure xml:id="fig-circuit_10">
 				<caption>Circuit diagram.</caption>
 				<image source="mag/circuit-10.png" width = "40%" ></image>
@@ -36,13 +36,13 @@
 		
 	</investigation>
 
-	<subsection>
+	<subsubsection>
 		<title>Metacognitive Reflection</title>
-		<statement>
+		<statement><p></p>
 			<p>
 				Inductors and capacitors can both act as a voltage source in circuits. Compare and contrast inductors and capacitors. When can both elements act as a voltage source? As part of your comparison, include important equations for both circuit elements.
 			</p>
 		</statement>
-	</subsection>
+	</subsubsection>
 
 </section>

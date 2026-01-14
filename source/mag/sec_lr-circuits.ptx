@@ -3,18 +3,19 @@
 <section xml:id="sec_lr-circuits" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>LR Circuits</title>
 				
-	<exercises>
-	<title>Activities</title>
+
 	<figure xml:id="x_fig_RL">
 			<title>LR Circuit Diagram</title>
     		<caption>A circuit with a battery, a resistor, and an inductor.</caption>
     		<image source="LR-circuit.png" width = "60%" ></image>
 		</figure>
 	<p>The circuit above contains a battery, a resistor, and an inductor.  The switch is initially open.</p>
-		<exercise>
+		<activity>
+      <title>Prediction</title>
+      <p></p>
 			<p>Starting from the moment you close the switch, describe the current through the circuit above as a function of time. Justify your answer with a physical explanation!</p>
-		</exercise>
-	</exercises>
+		</activity>
+
 
 
   

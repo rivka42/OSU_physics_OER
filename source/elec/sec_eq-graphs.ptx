@@ -3,31 +3,51 @@
 <section xml:id="sec_eq-graphs" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Equipotential Graphs</title>
 		
-    <video youtube="6frqYEcoLiE"><description>An introduction to equipotential graphs.</description></video>
+    <corollary xml:id="vid-eq-graphs">
+	<title>Equipotential Graphs</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="6frqYEcoLiE"><description>An introduction to equipotential graphs.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<p>Similar to contour or topographical maps, equipotential graphs are extremely useful to see where the electric potential is constant throughout some region of space. Typically, equipotential lines will be drawn with the same difference in potential between two adjacent lines.</p>	
 				
 	<conjecture xml:id="rep_eq-graphs">
 		<title>Equipotential Graphs</title>
 		<statement>
+			<p>
+				
+			</p>
 			<p>An equipotential graph or diagram shows lines in space where the electric potential is constant, given some electric field or charge distribution. </p>
 		</statement>
 	</conjecture>
 
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
 		<figure xml:id="eq">
 			  <title>Equipotential Graph</title>
 			<caption>An equipotential graph in a region of space. The numbers indicate the value of the electric potential for the corresponding line. </caption>
 			<image source="elec/eq2.png" width = "90%" ><description>An equipotential graph in a region of space. The graph shows a region of space, x vs. y, and 10 equipotential lines.</description></image>
 		</figure>
-		<exercise>
+		<investigation>
+      <title>Electric Potential</title>
+      <p></p>
 			<p>Suppose you were to stand at the bottom-middle of the diagram above and walk directly upward. Describe how the electric potential changes as you walk.  Explain your reasoning.</p>
-		</exercise>
-		<exercise>
+		</investigation>
+		<investigation>
+      <title>Electric Field</title>
+      <p></p>
 			<p>As you walk from bottom to top, do you think the magnitude of the electric field <m>|\vec{E}|</m> increases, decreases or stays the same?  Explain your reasoning.</p>
-		</exercise>
-	</exercises>
+		</investigation>
+	</subsubsection>
 	
 </section>
 
