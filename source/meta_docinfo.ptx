@@ -51,7 +51,7 @@
 	<rename element="project">A*R*C*S</rename>
 	<rename element="investigation">Explanation</rename>
 	<rename element="exploration">Calculation</rename>
-  <rename element="hint">Tip</rename>
+  <rename element="assemblage">Tip</rename>
 
   <rename element="lemma">Clarification</rename>
 

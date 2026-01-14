@@ -83,7 +83,9 @@
 		<statement>
 		<p></p>
 		    <p>In each case below, the top vector is being subtracted from the bottom vector. All of the vectors have the same magnitude.  Is the magnitude of the difference in the left case <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the difference in the right case?</p>
-			<p>Draw a diagram to support your reasoning.</p>
+			<assemblage>
+		<p><alert><!--REPLACE_TAG-->Tip:</alert> Draw a diagram to support your reasoning.</p>
+		</assemblage>
 			<figure xml:id="fig_vector-pairs">
 				<title>Vector Pairs Figure</title>
   				<caption>Two pairs of vectors.</caption>
@@ -109,7 +111,9 @@
 		<p></p>
 		
 		<p>You have been asked to walk your dog around a large park. Your dog always walks north first, then turns and walks in a different direction for the same distance, and last she turns again and walks in another different direction for the same distance.  At the end of today's walk, you find yourself back at the exact position where you started!  Give an explanation for how this is possible.</p>
-		<p>Draw a diagram to support your reasoning.</p>
+		<assemblage>
+		<p><alert><!--REPLACE_TAG-->Tip:</alert> Draw a diagram to support your reasoning.</p>
+		</assemblage>
 
 		</statement>
 		<!--<hint>
@@ -134,7 +138,8 @@
 		<statement>
 			<p></p>
 		<p>It looks like the surveyor forgot to report the specific units for the constants <m>a_1</m> and <m>a_2</m>.  Determine appropriate units for these constants.  Describe why these are sensible units given the equation for <m>y(x)</m>.</p>
-		<p> Make sure to conduct a unit check (like in <xref ref="ex_how-to-check-units"/>) to see if the units you determined are correct.</p>
+		<assemblage><p><alert><!--REPLACE_TAG-->Tip:</alert> Make sure to conduct a unit check (like in <xref ref="ex_how-to-check-units"/>) to see if the units you determined are correct.</p>
+		</assemblage>
 		</statement>
 		</task>
 		
@@ -142,8 +147,10 @@
 		<title>Represent</title>
 		<statement>
 			<p></p>
-		<p>Sketch and label a quantitatively accurate diagram of the hillside and the trees.</p> 
-		<p>Make sure to identify your origin, label your axes, and identify any relevant points of interest.</p>
+		<p>Sketch and label a quantitatively accurate diagram of the hillside and the trees.</p>
+		<assemblage>
+		<p><alert><!--REPLACE_TAG-->Tip:</alert> Make sure to identify your origin, label your axes, and identify any relevant points of interest.</p>
+		</assemblage>
 		</statement>
 		<!--<hint>
 		    <p>Make sure to identify your origin, label your axes, and identify any relevant points of interest.</p>
@@ -155,8 +162,10 @@
 		<statement>
 			<p></p>
 		<p>Determine the displacement vector from the base of tree 2 to the base of tree 3.</p>
-		<p>Remember to do all calculations <em>symbolically</em> before you plug in numbers, 
+		<assemblage>
+		<p><alert><!--REPLACE_TAG-->Tip:</alert> Remember to do all calculations <em>symbolically</em> before you plug in numbers, 
 			following the <xref ref="fig_calculation" text='title'/>.</p>
+		</assemblage>
 		</statement>
 		<!--<hint>
 		    <p>Remember to do all calculations <em>symbolically</em> before you plug in numbers, 
@@ -187,7 +196,9 @@
 			<statement>
 				<p></p>
 				<p>Determine how far you are from your friend and what direction you would need to walk to reach your friend.  Start by writing a brief sentence or two describing your strategy.</p>
-				<p>Remember to do all calculations <em>symbolically</em> before you plug in numbers, following the steps in <xref ref="fig_calculation"/>.</p>
+				<assemblage>
+				<p><alert><!--REPLACE_TAG-->Tip:</alert> Remember to do all calculations <em>symbolically</em> before you plug in numbers, following the steps in <xref ref="fig_calculation"/>.</p>
+				</assemblage>
 			</statement>
 			<!--<hint>
 				<p>Remember to do all calculations <em>symbolically</em> before you plug in numbers, following the steps in <xref ref="fig_calculation"/>.</p>
@@ -199,7 +210,11 @@
 			<statement>
 				<p></p>
 				<p>This is a good activity for numerical sensemaking, especially about the distance.  What is another distance you could compare it to?  Should it be bigger or smaller than that other distance?  Justify your answers.</p>
-				<p>Remember to use the <xref ref="fig_sensemaking" text='title'/>.</p>
+
+				<assemblage>
+				<p><alert><!--REPLACE_TAG-->Tip:</alert> Remember to use the <xref ref="fig_sensemaking" text='title'/>.</p>
+				</assemblage>
+				
 			</statement>
 			<!--<hint><p>Remember to use the <xref ref="fig_sensemaking" text='title'/>.</p></hint>-->
 		</task>

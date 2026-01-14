@@ -163,7 +163,7 @@
 
 
 	
-	<exercises>
+	<subsubsection>
 		
 <project xml:id="class_brick-rail">
         <title>The Brick against the Rail</title>
@@ -345,7 +345,7 @@ Assume the gravitational force on the block points downward with a magnitude equ
 
 
 
-	</exercises>
+	</subsubsection>
 	
 
   
@@ -362,7 +362,7 @@ A Real-world Context is a situation or problem with a real setting, where you at
       <video youtube="kJ9qrl0SrPI"></video>
     </figure>
 		
-	<exercises>
+	<subsubsection>
 	<title>Practice Activity</title>
 						<exercise xml:id="x_realworld-kinematics">
 			<title>A*R*C*S - Stopping a Car</title>
@@ -385,7 +385,7 @@ A Real-world Context is a situation or problem with a real setting, where you at
 				</answer>
 			</exercise>
 			
-		</exercises>
+		</subsubsection>
 -->
 
 	

@@ -3,7 +3,20 @@
 <section xml:id="sec_fbds" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Free-body Diagrams</title>
 
-      <video youtube="KEmhb2gHr1U"><description>An introduction to free-body diagrams.</description></video>
+      <corollary xml:id="vid-fbds">
+	<title>Free-body Diagrams</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="KEmhb2gHr1U"><description>An introduction to free-body diagrams.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 		
 				<definition xml:id="def_system">
 	<title>System</title>
@@ -20,7 +33,7 @@
 			<statement>
 			<p></p>
 	<p>
-	A <term>Free-body Diagram</term> is a way to represent the forces acting on an object.  In a <term>free-body diagram</term>, each force should be labeled with information about the type of force and the objects involved.  For example, in the symbol <me>\vec{F}_{BC}^A</me> <m>\vec{F}</m> indicates that the symbol represents a force, the superscript <m>A</m> represents the type of force (such as <m>G</m> for gravity), <m>B</m> represents the system on which the force is acted, and <m>C</m> represents the system that is exerting the force.  Additional relevant information such as the system of interest, the reference frame, and the direction of the acceleration are commonly written to the side of a free-body diagram, as in the simple example below.</p>
+	A <term>Free-body Diagram</term> is a way to represent the forces acting on an object.  In a <term>free-body diagram</term>, each force should be labeled with information about the type of force and the objects involved.  For example, in the symbol <me>\vec{F}_{BC}^A</me> <m>\vec{F}</m> indicates that the symbol represents a force, the superscript <m>A</m> represents the type of force (such as <m>G</m> for gravity), <m>B</m> represents the system on which the force is acted, and <m>C</m> represents the system that is exerting the force.  Additional relevant information such as the system of interest, the coordinate system, the reference frame, and the direction of the acceleration are commonly written to the side of a free-body diagram, as in the simple example below.</p>
 	<figure xml:id="for_FBD">
 			<title>Simple Free-body Diagram</title>
 		 <caption>A simple free-body diagram.</caption>
@@ -38,19 +51,29 @@
 		
 		<p>One of the most important things to understand when drawing free-body diagrams is the difference between forces acting <em>on</em> a system (which appear on that system's free-body diagram) and forces acted <em>by</em> a system, which would instead be represented on the free-body diagram for the other system.  It is also important <em>not</em> to include things that are not forces, such as the velocity or acceleration of the system, which would instead be represented using a motion diagram.  It is also helpful to include the force vectors acting on a system with relatively correct lengths as well as coordinate axes and any relevant angles.</p>
 		
-		<exercises>
+		<subsubsection>
 		<title>Activities</title>
-		<exercise xml:id="x_practice-fbds">
+		<activity xml:id="x_practice-fbds">
+			<title>Represent</title>
+			<p>
+				
+			</p>
+			
     <p>
       Choose an instant from the <xref ref="for_ball"/> and use what you learned above to draw a free-body diagram for the system consisting only of the dog.
     </p>
-		</exercise>
-		<exercise>
+		</activity>
+		<activity>
+			<title>Reflect</title>
+			<p>
+				
+			</p>
+			
 		<p>
 		The free-body diagram is one of the representational tools you will use most often throughout physics.  Why do <em>you</em> think it might be such a valuable too?  What features of the free body diagram do you think might be most helpful when you are solving future problems?  
 		</p>
-		</exercise>
-		</exercises>
+		</activity>
+		</subsubsection>
   
 
 	

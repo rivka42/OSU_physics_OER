@@ -10,9 +10,9 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 	
-	<subsection>
+	<subsubsection>
 <title>Practice</title>
-</subsection>
+</subsubsection>
 
 <!-- Starting March 20, 2025 (3/20/25)-->
 <exploration xml:id="ex_the_ropes_around_the_tree">
@@ -247,9 +247,9 @@
 <!-- Did not include figure (still need to add)-->
 </exploration>
 
-<subsection>
+<subsubsection>
 <title>Additional Practice</title>
-</subsection>
+</subsubsection>
 
 	<exploration xml:id="psa_for-alpha1">
 		<title>Balancing the forces</title>

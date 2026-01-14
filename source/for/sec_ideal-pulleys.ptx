@@ -21,14 +21,25 @@
 	
 	<p>The video below shows an example problem being solved using an ideal pulley.  You should watch the entire video before attempting the exercises below.</p>
 
-      <video youtube="dHMGV_WOG7w"><description>An example problem involving a pulley.</description></video>
+      <algorithm xml:id="vid-pulley-example">
+	<title>Pulley Example</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="dHMGV_WOG7w"><description>An example problem involving a pulley.</description></video>
+
+	</statement>
+</algorithm>
 
 
   
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
 
-			<exercise>
+			<activity>
 				<title>Two Blocks on a Pulley (the Atwood's Machine)</title>
 				<task>
 			  <p>What grade (A, B, C, etc.) would you give to the work presented in the video?  
@@ -52,8 +63,8 @@
 			  <p>At the end of the video, the instructor did some physics sensemaking.  
 			  What sensemaking strategies did the instructor use?  Do you think they were helpful?  Are there any different strategies that you want to try?</p>
 			</task>
-			</exercise>
-		</exercises>
+			</activity>
+		</subsubsection>
 	
 			<references>
 <biblio xml:id="ref_mit-pulleys">

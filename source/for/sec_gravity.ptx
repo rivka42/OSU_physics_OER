@@ -4,15 +4,28 @@
   <title>The Gravitational Force</title>
 		
 		
-      <video youtube="eaPGC3rYA_E"><description>Introducing the gravitational force.</description>
+      <corollary xml:id="vid-grav-force">
+	<title>Gravitational Force</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="eaPGC3rYA_E"><description>Introducing the gravitational force.</description>
       </video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
 		
 	<note>
 	<title>Gravity acting on a system</title>
 	<p>In general, a system might contain multiple objects, each with its own mass.  
 	For the purpose of finding the gravitational force on such a system, you can simply use the total mass of the system (by adding together the masses of all the objects in the system).  
-	You can then assume the gravitational force acts on the system's <xref ref="def_center-of-mass" text="title"></xref>, a term you will define when you begin learning about rotational motion.</p>
+	You can then assume the gravitational force acts on the system's center of mass, a term you will define when you begin learning about rotational motion.</p>
 	</note>
 	
 		<definition xml:id="def_gravitational-force">
@@ -29,23 +42,23 @@
 	
 
 		
-			<exercises>
+			<subsubsection>
 			<title>Activities</title>
-			<exercise xml:id="x_summarize-grav-field">
+			<activity xml:id="x_summarize-grav-field">
 			<title>Summarize What You Learned - Gravitational Field</title>
 			<p>
 				
 			</p>
 			  <p>At the end of the video, you are asked to think about what kind of quantity the gravitational field is.  Take a moment to think about the name, symbol, and equation.  Then, write down 2-3 things you think might be true for the gravitational field.</p>
-			</exercise>
-		<exercise xml:id="x_grav-alert">
+			</activity>
+		<activity xml:id="x_grav-alert">
 			<title>Sensemaking - Equations</title>
 			<p>
 				
 			</p>
 	<p>The equation for the gravitational force given above looks a lot like the Law of Motion: <m>\vec{F}_{net} = m\vec{a}</m>.  However, these two equations are not the same.  Identify at least two differences between the equations.</p>
-			</exercise>
-			<exercise xml:id="x_units-grav-field">
+			</activity>
+			<activity xml:id="x_units-grav-field">
 			<title>Sensemaking - Units</title>
 			<statement>
 				<p>
@@ -56,8 +69,8 @@
 			<answer>
 			Either <m>\mathrm{N/kg}</m> or <m>\mathrm{m/s^2}</m>.
 			</answer>
-			</exercise>
-						<exercise xml:id="x_practice-grav-field">
+			</activity>
+						<activity xml:id="x_practice-grav-field">
 			<title>Practice - Gravitational Field</title>
 			<statement>
 				<p>
@@ -71,8 +84,8 @@
 			<answer>
 			<p><m>0.65 \mathrm{~N/kg}</m></p>
 			</answer>
-			</exercise>
-		</exercises>
+			</activity>
+		</subsubsection>
  
 	
 </section>

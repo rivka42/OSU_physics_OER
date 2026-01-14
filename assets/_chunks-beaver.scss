@@ -34,8 +34,8 @@ $beaver-orange: #D73F09;
 );
 
 // rounded box
-.assemblage-like {
-  @include box-mixin.box($border-color: var(--assemblage-like-border-color), $background-color: var(--assemblage-like-body-background));
+.assemblage-like:not(.dark-mode) {
+  @include box-mixin.box($border-color: $background-moondust-half, $background-color: $background-moondust-half);
 }
 
 // rounded box with border

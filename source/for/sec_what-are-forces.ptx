@@ -3,13 +3,30 @@
 <section xml:id="sec_what-are-forces" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>What are Forces?</title>
 
-<exercises>
-		<title>Introductory Activity</title>
-		</exercises>
-		<p>Start by writing a short (2-3 sentence) description of how you use the term <em>force</em> in your everyday life. You might want to include an example.</p>
+<activity>
+		<title>Warm-up</title>
+		<p>
+			
+		</p>
+		<p>Start by writing a short (2-3 sentence) description of how you use the term <alert>force</alert> in your everyday life. You might want to include an example.</p>
+</activity>
+		
 			  		
         
-							<video youtube="FB-VKKcC660"><description>An introduction to forces.</description></video>
+							<corollary xml:id="vid-forces">
+	<title>Forces</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="FB-VKKcC660"><description>An introduction to forces.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
 		
 		<definition>
@@ -30,28 +47,31 @@
 		-->
 
 
-<exercises>
-	<title>Activities: Explore forces</title>
+<activity>
+	<title>Explore forces</title>
+	<p>
+		
+	</p>
 				<p>Use the video below to answer the exploration questions.</p>
 				<figure xml:id="for_ball">
 			<title>Dr. Paws Video</title>
 					<caption>Dr. Paws gets a ball.</caption>
-					<video youtube="_bhzaBtdUIE">
+		<video youtube="_bhzaBtdUIE">
 					</video>
 									</figure>
-			<exercise xml:id="x_intro-forces">
+			<task xml:id="x_intro-forces">
 			  <p>Identify and describe the different types of forces you believe are acting on Dr. Paws in the video above as she chases the ball.</p>
-			</exercise>
-			<exercise>
-			  <p>Write a short (2-3 sentence) description of how we use the term force in <em>physics</em>. Highlight any differences between your physics description and your personal description from the first exercise.</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
+			  <p>Write a short (2-3 sentence) description of how we use the term force in <em>physics</em>. Highlight any differences between your physics description and your personal description from the first part.</p>
+			</task>
+			<task>
 			<p>Brainstorm a list of possible different types of forces you can imagine acting on something.</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			<p>The SI unit for a force is the newton (N), while the Imperial unit for force is the <term>pound</term> (lb).  Use a search to find the number of newtons in one pound.  If an amateur soccer player is able to kick a soccer ball with a force of around 500-700 pounds, how many newtons are they able to exert?</p>
-			</exercise>
-		</exercises>
+			</task>
+		</activity>
   
 
 	

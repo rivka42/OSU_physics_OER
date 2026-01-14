@@ -9,7 +9,7 @@
 	</p>
 </introduction> 
 
-<p>
+<p> 
 	This is what happens when you refer to another section.  <xref ref="tester"/>
 </p>
 		

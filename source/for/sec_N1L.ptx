@@ -4,7 +4,20 @@
   <title>The Law of Inertia (Newton's First Law)</title>
 		
 		        
-      <video youtube="3g51mt8Iaz0"><description>An introduction to Newton's 1st Law.</description></video>
+      <corollary xml:id="vid-N1L">
+	<title>The Law of Inertia</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="3g51mt8Iaz0"><description>An introduction to Newton's 1st Law.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
     
 
 	
@@ -37,25 +50,28 @@
 	<p>In contrast, the Law of Inertia states something fundamental about the behavior of objects: that an object has two possible natural states: at rest or moving in a straight line at constant speed.</p>
 	</insight>
 		
-	<exercises>
-					<title>Activity: Explanation Practice</title>
+	<investigation>
+					<title>Practice</title>
+					<p>
+						
+					</p>
 		<p>For each of the following contexts, predict whether or not you expect the system's velocity to change.  Explain your reasoning using the <xref ref="fig_explanation"></xref>.  Clearly state any assumptions you make about each context!</p>
-			<exercise xml:id="x_inertia">
+			<task xml:id="x_inertia">
 			  <p>You are riding your bicycle down a flat street (not pedaling).  <alert>System</alert>: you and the bicycle.</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			  <p>You are driving down the highway in your car, obeying the speed limit.  <alert>System</alert>: you and your car.</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			  <p>A heavy book sits on a table in your house.  <alert>System</alert>: the book.</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			  <p>A fully loaded delivery truck is parked on an icy hill when its emergency brake fails.  <alert>System</alert>: the delivery truck and everything in it.</p>
-			</exercise>						
-			<exercise>
+			</task>						
+			<task>
 			  <p>A spaceship with its engines off is traveling from Mars back home to Earth.  <alert>System</alert>: the spaceship.</p>
-			</exercise>
-		</exercises>
+			</task>
+		</investigation>
   
 
 	

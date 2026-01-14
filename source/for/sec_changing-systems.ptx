@@ -9,9 +9,9 @@
 </p>
 
 
-	<exercises>
+	<subsubsection>
 	<title>Activity: Point of View</title>
-			<exercise xml:id="x_point-of-view">
+			<activity xml:id="x_point-of-view">
 			<introduction>
 			  <p>
 			  </p>
@@ -64,8 +64,8 @@
 				</statement>
 			</task>
 
-			</exercise>
-	</exercises>
+			</activity>
+	</subsubsection>
 
 	<note>
 		<title>Changing Systems</title>

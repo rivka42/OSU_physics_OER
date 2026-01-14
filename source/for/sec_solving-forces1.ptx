@@ -2,30 +2,41 @@
 
 <section xml:id="sec_solving-forces1" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Force Analysis for a Single System</title>
-	<exercises>
+	<subsubsection>
 	<title>Activities: Practice with Force Analysis for a Single System</title>
-	<exercise>
+	<project>
 		<title>The Skateboarder and the Kite</title>
 		<statement>
 			<p>
 				
 			</p>
 			<p>
-				A skateboarder on flat, level ground is being pulled forward by an angled kite.
+				A skateboarder on flat, level ground is being pulled forward by an angled kite.  Calculate the skateboarder's acceleration.
 			</p>
 		</statement>
 		<solution>
-			<video youtube="i6yXnUEO82k"><description>A strategy for using forces to solve physics problems.</description></video>
+			<identity xml:id="vid-forces-analysis">
+	<title>Force Analysis</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="i6yXnUEO82k"><description>A strategy for using forces to solve physics problems.</description></video>
+
+	</statement>
+</identity>
 		</solution>
-	</exercise>
-	<exercise>
+	</project>
+	<activity>
 	<title>Solving for a Different Quantity</title>
 	<p>
 		
 	</p>
 	<p>Using the skateboarder context above, find the magnitude of the normal force acting on the skateboarder.</p>
-	</exercise>
-			<exercise>
+	</activity>
+			<activity>
 			<title>Exploring Systems of Equations</title>
 			<p>
 				
@@ -34,9 +45,9 @@
 			  Suppose you are in the middle of using Force Analysis and you end up finding a system of two equations 
 			  that contain three different unknown quantities.  
 			  How do you think you could make further progress on such a calculation?</p>
-			</exercise>
+			</activity>
 			
-			<exercise xml:id="x_force-analysis">
+			<activity xml:id="x_force-analysis">
 			<title>The Kite and the Wagon</title>
 			<statement>
 				<p>
@@ -49,8 +60,8 @@
 				<p>Model both the force from the kite and the force from the father as constant.  
 				(Remember to follow the <xref ref="fig_realworld"/>!)</p>
 				</hint>
-			</exercise>
-		</exercises>
+			</activity>
+		</subsubsection>
 	
 </section>
 

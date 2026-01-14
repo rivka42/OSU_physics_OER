@@ -3,8 +3,21 @@
 <section xml:id="sec_static-friction" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Force of Static Friction</title>
 	
-      <video youtube="8DLz_Ys1VhI"><description>An introduction to static friction.</description>
+      <corollary xml:id="vid-static-friction">
+	<title>Static Friction</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="8DLz_Ys1VhI"><description>An introduction to static friction.</description>
       </video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
 		
 		<definition>
@@ -19,9 +32,9 @@
 
 <p>The model for static friction only tells you the <em>maximum</em> value; the magnitude can take on any value up to this maximum, depending on the other forces acting on the involved objects.  The constant <m>\mu_s</m> is called the coefficient of static friction; it is a property of the surfaces involved in the force.</p>
 		
-		<exercises>
+		<subsubsection>
 		<title>Activities</title>
-			<exercise>
+			<activity>
 			<title>Sensemaking - Units</title>
 			<statement>
 				<p>
@@ -32,30 +45,30 @@
 				<answer>
 				<p><m>\mu_s</m> is unitless!</p>
 				</answer>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>Largest</title>
 			<p>
 				
 			</p>
 			  <p>A small car might have a mass of around <m>1000 \mathrm{~kg}</m>, and the coefficient of static friction between the tires and the road is about <m>0.9</m>. What is the largest possible force that static friction can exert on this car?</p>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>Smallest</title>
 			<p>
 				
 			</p>
 			  <p>A small car might have a mass of around <m>1000 \mathrm{~kg}</m>, and the coefficient of static friction between the tires and the road is about <m>0.9</m>.  What is the smallest possible force that static friction can exert on this car?</p>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>Largest and Smallest</title>
 			<p>
 				
 			</p>
 			  <p>Describe situations when each of the previous cases (the largest and smallest possible forces from static friction) would occur.</p>
-			</exercise>
+			</activity>
 			
-		</exercises>
+		</subsubsection>
 
 	
 </section>

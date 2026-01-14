@@ -7,18 +7,31 @@
 		You have now built quantitative models for the gravitational force and the frictional force.  
 		Next you will build a model for the spring force.
 	</p>
-		<exercises>
+		<activity>
 		<title>Exploring Spring Forces</title>
-			<exercise>
+			<task>
 			  <p>Play with <url href="https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics_en.html" visual="this simulation"/> for at least a few minutes.</p>
-			</exercise>
-			<exercise>
-			  <p>With the simulation from the previous question, investigate how the spring force appears to be related to the displacement of the spring.</p>
-				</exercise>
-		</exercises>
+			</task>
+			<task>
+			  <p>With the simulation, investigate how the spring force appears to be related to the displacement of the spring.</p>
+			</task>
+		</activity>
   
 		        
-      <video youtube="lG4ixrdnEQ4"><description>An introduction to spring forces.</description></video>
+      <corollary xml:id="vid-spring-forces">
+	<title>Spring Forces</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="lG4ixrdnEQ4"><description>An introduction to spring forces.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
     
 		<definition xml:id="def_spring">
 	<title>Hooke's Law</title>
@@ -33,28 +46,50 @@
 	</statement>
 </definition>
 	
-			<exercises>
+			<subsubsection>
 		<title>Practice with Spring Forces</title>
-			<exercise>
+			<activity>
+				<title>Sensemaking: Observations</title>
+				<p>
+					
+				</p>
+				
 			  <p>Explain how the expression in Hooke's Law is consistent with your observations from the simulation (cite a specific observation!).</p>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<statement>
+				<title>Sensemaking: Units</title>
+				
+				<p>
+					
+				</p>
 			  <p>Determine the units of the spring constant <m>k</m>.  Why do you think these are appropriate units for this quantity?</p>
 				</statement>
 				<answer>
 				<p>N/m</p>
 				</answer>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
+				<title>Sensemaking: Sign</title>
+				
+				
 				<statement>
+					<p>
+						
+					</p>
 					<p>
 						What is the meaning of the negative sign in Hooke's Law?
 					</p>
 				</statement>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
+				<title>Practice</title>
+				
+				
 			<statement>
+				<p>
+					
+				</p>
 				<p>
 					Suppose you have a spring with a spring constant of <m>k = 40 \mathrm{~N/m}</m>.  
 			  What is the magnitude of the displacement of the spring if the magnitude of the spring force is <m>5 \mathrm{~N}</m>?
@@ -65,10 +100,10 @@
 					<m>0.125 \mathrm{~m}</m>
 				</p>
 			  </answer>
-			</exercise>
+			</activity>
 
 
-		</exercises>
+		</subsubsection>
 		
 </section>
 

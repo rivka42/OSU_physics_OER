@@ -3,9 +3,9 @@
 <section xml:id="sec_gravity-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Practice - Gravity</title>
 		
-		<exercises>
+		<subsubsection>
 	<title>Practice Activities</title>
-</exercises>
+</subsubsection>
 
 	<activity xml:id="class_volleyball">
 	<title>The Volleyball inside the Elevator</title>

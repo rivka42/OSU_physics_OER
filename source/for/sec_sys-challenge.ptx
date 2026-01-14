@@ -10,9 +10,9 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 	
-		<subsection>
+		<subsubsection>
 	<title>Explanation Task</title>
-		</subsection>
+		</subsubsection>
 			
 	<investigation xml:id="psa_for-04y">
         <title>Supported Block</title>
@@ -43,7 +43,7 @@
 	
 	
 	
-	<subsection>
+	<subsubsection>
 	<title>A*R*C*S Activities</title>
 
 	
@@ -87,16 +87,17 @@
 			   	<image source="tiltedramp.png" width = "50%">
 				<description></description></image>
 		 	</figure>
-		</statement>
-		<hint>
-		    <p>As part of your symbolic sensemaking (part 3c), evaluate your answer in at least one special case, 
+			<assemblage>
+		    <p><alert><!--REPLACE_TAG-->Tip:</alert> As part of your symbolic sensemaking (part 3c), evaluate your answer in at least one special case, 
 				including a detailed explanation for what the answer should be for the case you chose.</p>
-		</hint>
+			</assemblage>
+		</statement>
+		
 	</project>
 
 
 
-</subsection>
+</subsubsection>
 
 
 

@@ -37,9 +37,11 @@
   </image>
  </figure>
 		    <p>Is the magnitude of the average acceleration of the top bumper car <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the average acceleration of the bottom bumper car?</p>
-			<p>
-				Sketch vectors to represent the change in velocity for each bumper car to support your reasoning.
-			</p>
+			
+			<assemblage>
+		<p><alert><!--REPLACE_TAG-->Tip:</alert> Sketch vectors to represent the change in velocity for each bumper car to support your reasoning.</p>
+		</assemblage>
+			
 		</statement>
 		<!--<hint>
 		    <p>Sketch vectors to represent the change in velocity for each bumper car.</p>

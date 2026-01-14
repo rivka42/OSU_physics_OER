@@ -10,7 +10,7 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 	
-	<subsection>
+	<subsubsection>
 	<title>Explanation Tasks</title>
 	
 	  <investigation xml:id="psa_for-05">
@@ -37,8 +37,8 @@
 		<image source="Angled.png" width = "60%">
 			<description></description></image>
   </figure>
-				<p>Part A: Is the magnitude of the net force on the block in Case B <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the net force in Case A?</p>
-				<p>Part B: Is the magnitude of the frictional force exerted on the block by the ramp in Case B <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the frictional force in Case A?</p>
+				<p><alert>Part A:</alert> Is the magnitude of the net force on the block in Case B <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the net force in Case A?</p>
+				<p><alert>Part B:</alert> Is the magnitude of the frictional force exerted on the block by the ramp in Case B <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the frictional force in Case A?</p>
 		</statement>
 		<!--
 		<hint>
@@ -47,9 +47,9 @@
 		-->
 	</investigation>
 	
-	</subsection>
+	</subsubsection>
 	
-	<subsection>
+	<subsubsection>
 	<title>A*R*C*S Activities</title>
 
 	<p>For each A*R*C*S activity, you are expected to complete and label <alert>all</alert> of the <xref ref="fig_realworld"/>.  
@@ -77,7 +77,7 @@ Assume the gravitational force on the block points downward with a magnitude equ
 		<p><alert>1. Analyze and Represent</alert></p>
 		
 		<p>
-			<ol marker="a">
+			<ol marker="a.">
 				<li>
 					<p>
 						Identify known and unknown quantities with both a symbol and a number.
@@ -101,7 +101,7 @@ Assume the gravitational force on the block points downward with a magnitude equ
 		<p><alert>2. Calculate</alert></p>
 		
 		<p>
-			<ol marker="a">
+			<ol marker="a.">
 				<li>
 					<p>
 						Represent physics principles that will help you solve for the tension and the acceleration.
@@ -124,7 +124,7 @@ Assume the gravitational force on the block points downward with a magnitude equ
 		<p><alert>3. Sensemake</alert></p>
 		
 		<p>
-			<ol marker="a">
+			<ol marker="a.">
 				<li>
 					<p>
 						Check the units of your symbolic answer.
@@ -144,6 +144,20 @@ Assume the gravitational force on the block points downward with a magnitude equ
 			</p>
 		
 	</project>
+
+	<subsubsection>
+		<title>Metacognitive Reflection</title>
+		
+	</subsubsection>
+	<p>
+				Consider the following two A*R*C*S activities: 
+				<xref ref="class_brick-rail"/> and <xref ref="arcs_block-ice"/>.
+			</p>
+
+	<p>
+				In 2-3 written paragraphs, discuss the similarities and differences between these two activities.  
+				Consider both the physical contexts and the overarching strategies you used to approach each context.
+			</p>
 
 	<!-- <activity xml:id="psa_lom-meta">
         <title>Metacognition: Finding Similarities</title>
@@ -209,7 +223,7 @@ Assume the gravitational force on the block points downward with a magnitude equ
 
 	
 	
-	</subsection>
+	</subsubsection>
 	
 	
 	<references>

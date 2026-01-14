@@ -5,7 +5,20 @@
 
 		
 		        
-      <video youtube="JXxc0o1iAH4">      <description>An introduction to Newton's 2nd Law.</description></video>
+      <corollary xml:id="vid-N2L">
+	<title>The Law of Motion</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="JXxc0o1iAH4">      <description>An introduction to Newton's 2nd Law.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
     
 
 	<definition xml:id="def_net-force">
@@ -31,14 +44,14 @@
 	
 
 	
-			<exercises>
+			<subsubsection>
 			<title>Activities</title>
-		   <exercise xml:id="x_summarize-n2l">
+		   <activity xml:id="x_summarize-n2l">
 			<title>Summarize What You Learned - Law of Motion</title>
 			<p></p>
 			  <p>Above, you learned a relationship between net force and acceleration.  Write a 2-3 sentence description of what this symbolic equation says in your own words.</p>
-			</exercise>
-			<exercise xml:id="x_force-units">
+			</activity>
+			<activity xml:id="x_force-units">
 			<title>Sensemaking - Units of Force</title>
 			<statement>
 			<p></p>
@@ -49,9 +62,9 @@
 					<m>\mathrm{\frac{kg m}{s^2}}</m>
 				</p>
 			</answer>
-			</exercise>
+			</activity>
 
-				<exercise  xml:id="x_three-cars">
+				<investigation  xml:id="x_three-cars">
 				<title>Explanation - Three Cars</title>
 				<p></p>
 			  <p>Consider the following three situations: </p>
@@ -61,8 +74,8 @@
 				<li>You are in a car waiting for a red light to turn green.</li>
 				</ol>
 				<p>Rank the three situations by the magnitude of the net force on the car from largest to smallest.  Explain your reasoning.</p>
-			</exercise>
-		</exercises>
+			</investigation>
+		</subsubsection>
   
 
 	

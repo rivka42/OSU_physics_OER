@@ -4,8 +4,21 @@
   <title>The Force of Kinetic Friction</title>
 
 		
-      <video youtube="tUtIkpymzkg"><description>An introduction to kinetic friction.</description>
+      <corollary xml:id="vid-kinetic-friction">
+	<title>Kinetic Friction</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="tUtIkpymzkg"><description>An introduction to kinetic friction.</description>
       </video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
 		
 				<definition>
@@ -22,44 +35,44 @@
 
 	
 		
-		<exercises>
+		<subsubsection>
 		<title>Activities</title>
-			<exercise>
+			<activity>
 			<title>Explaining Friction</title>
 			<p>
 				
 			</p>
 			  <p>Give a one- or two-sentence explanation of the difference between static and kinetic friction, aimed at someone who has never taken a physics course.</p>
-			</exercise>
-						<exercise>
+			</activity>
+						<activity>
 			<title>Exploring Coefficients of Friction</title>
 			<p>
 				
 			</p>
 			  <p>Do a search to find a table of coefficients of friction (both static and kinetic) for different substances.  What is the general range of values that you see?</p>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>Explore Friction</title>
 			<p>
 				
 			</p>
 			  <p>Play with this <url href="https://phet.colorado.edu/en/simulations/forces-and-motion-basics">forces simulation</url>.  Make sure to investigate all four tabs.</p>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>Describe Friction</title>
 			<p>
 				
 			</p>
 			  <p>Describe an observation you were able to make using the simulation, especially if you observed anything that you consider unexpected or surprising.</p>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>Experiment with Friction</title>
 			<p>
 				
 			</p>
 			  <p>Design and carry out a (simple) experiment to test something using the simulation. Describe your experiment, your results, and what you feel you learned from carrying out your experiment.</p>
-			</exercise>
-		</exercises>
+			</activity>
+		</subsubsection>
   
 
 	

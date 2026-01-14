@@ -3,7 +3,20 @@
 <section xml:id="sec_contact-forces" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Contact Forces</title>
 
-      <video youtube="GwQ1ublCTBY"><description>An introduction to contact forces.</description></video>
+      <corollary xml:id="vid-contact-forces">
+	<title>Contact Forces</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="GwQ1ublCTBY"><description>An introduction to contact forces.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
     
 
   <p>Contact forces are a class of forces that involve contact between the two systems that are acting on each other.  Most forces you will encounter in your study of everyday physics are contact forces, including the list below.</p>
@@ -16,16 +29,16 @@
 	</ul>
 	</p>
 
-	<exercises>
+	<subsubsection>
 	<title>Activities: Practice with Contact Forces</title>
-			<exercise xml:id="x_mountain-climbing">
+			<activity xml:id="x_mountain-climbing">
 			<title>Mountain Climbing</title>
 			<statement>
 				<p></p>
 			  <p>A mountain climber is connected to a vertical rope anchored at the top of a cliff.  The climber decides to take a short break at a point where the surface of the cliff makes a <m>75^o</m> angle to the horizontal.  Draw a free-body diagram for the climber showing all of the following forces: normal, friction, tension, and gravity<fn>you will learn about gravity soon, but for now assume it points straight downward</fn>.  Your diagram should be qualitatively correct, but you do not need to solve for anything.</p>
 				</statement>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>Explaining the Forces</title>
 			<statement>
 				<p></p>
@@ -55,8 +68,8 @@
 				   </choice>
 				</choices>
 				-->
-			</exercise>
-		</exercises>
+			</activity>
+		</subsubsection>
 	
 </section>
 

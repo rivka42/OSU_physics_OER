@@ -3,9 +3,9 @@
 <section xml:id="sec_solving-forces2" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Using Action-Reaction Pairs</title>
 
-  <exercises>
+  <subsubsection>
 	<title>Practice Activities</title>
-</exercises>
+</subsubsection>
 
 <activity xml:id="class_book-stack">
 	<title>The Book Stack</title>
@@ -29,8 +29,8 @@
 	</p>
 </activity>
 	
-<activity xml:id="class_uhoh-dog">
-	<title>A*R*C*S: Uh-Oh Dr. Paws</title>
+<project xml:id="class_uhoh-dog">
+	<title>Uh-Oh Dr. Paws</title>
 <introduction>
 	<video xml:id="for_vb-dog-on-stool" youtube="zTqmp750d2E"><description>Dr. Paws is pushed across the floor.</description></video>
     <p>
@@ -148,7 +148,7 @@
 		</statement>
 		</task>
 	
-</activity>
+	</project>
 
 <activity xml:id="class_block-race">
 	<title>The Block Race</title>
@@ -181,7 +181,7 @@
 	</task>	
 </activity>
 
-<activity xml:id="class_block-pair">
+<project xml:id="class_block-pair">
 	<title>The Pair of Blocks</title>
 		<statement>
 			<p></p>
@@ -203,9 +203,9 @@
 			</p>
 		</statement>
 
-</activity>
+	</project>
 
-<activity xml:id="class_pulley-pair">
+<project xml:id="class_pulley-pair">
 	<title>The Pair of Pulleys</title>
 		<statement>
 			<p></p>
@@ -228,7 +228,7 @@
 				The magnitudes of the block's accelerations are different.  How can you relate them?
 			</p>
 		</hint>
-</activity>
+	</project>
 
 
 
