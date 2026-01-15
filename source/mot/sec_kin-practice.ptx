@@ -10,7 +10,7 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 	
-<subsection>
+<subsubsection>
 <title>Numerical Practice</title>
 
 		    <exploration xml:id="psa_mot-alpha9">
@@ -118,7 +118,7 @@
 	</exploration>
 
 
-</subsection>
+</subsubsection>
 
 
 

@@ -3,7 +3,20 @@
 <section xml:id="sec_system-diagrams" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Energy System Diagrams</title>	
 		      
-      <video youtube="D8MzvLM2m64"><description>An introduction to energy system diagrams.</description></video>
+      <corollary xml:id="vid-system-diagrams">
+	<title>Energy System Diagrams</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="D8MzvLM2m64"><description>An introduction to energy system diagrams.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
 				<conjecture>
 			<title>Energy System Diagram</title>
@@ -22,22 +35,25 @@
 		
 		<p>The study of energy is even more strongly concerned with systems (<xref ref="def_system"></xref>) than the study of forces.  When you identify a system of interest, you want to know which things are internal and which are external to that system.  <em>Internal</em> interactions result in the transformation of energy from one form to another, while <em>external</em> interactions result in the transfer of energy from one system to another.</p>
 				
-		<exercises>
-		<title>Activity: A Falling Apple</title>
+		<activity>
+		<title>A Falling Apple</title>
+		<p>
+			
+		</p>
 		<p>
       An apple is initially attached to a branch on an apple tree.  A gust of wind dislodges the apple at noon, which falls to the base of the tree, where it rolls along flat ground into a patch of grass.  At nightfall, a grazing horse eats and digests the apple.
     </p>
-		<exercise xml:id="x_practice-system-diagrams">
+		<task xml:id="x_practice-system-diagrams">
     <p>
       List all the objects of interest in this context.  For each object, describe the different forms of energy it possesses or can possess.  Which forms of energy change?  When is energy transferred from one object to another?
     </p>
-		</exercise>
-		<exercise>
+		</task>
+		<task>
 		<p>
 		Draw an Energy System Diagram for this context.  Make sure your diagram is consistent with your previous answers.
 		</p>
-		</exercise>
-		</exercises>
+		</task>
+	</activity>
   
 
 	

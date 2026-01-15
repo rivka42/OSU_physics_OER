@@ -3,9 +3,9 @@
 <section xml:id="sec_constant-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Practice - Constant Acceleration</title>
 		
-  <exercises>
+  <subsubsection>
 	<title>Practice Activities</title>
-	  </exercises>
+	  </subsubsection>
 
 	  <activity xml:id="class_dropped-rock">
 		<title>A Dropped Rock</title>

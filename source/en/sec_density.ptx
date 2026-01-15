@@ -32,9 +32,9 @@
 		
 	</note>
 
-	<exercises>
+	<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
 			<title>Sensemaking: Units</title>
 			<statement>
 				<p>
@@ -47,8 +47,8 @@
 					<m>\mathrm{kg/m^3}</m>
 				</p>
 			</answer>
-		</exercise>
-		<exercise>
+		</activity>
+		<activity>
 			<title>Sensemaking: Numbers</title>
 			<statement>
 				<p>
@@ -65,8 +65,8 @@
 					The density of water is approximately <m>1000 \mathrm{~kg/m^3}</m> or <m>1 \mathrm{~g/mL}</m>.
 				</p>
 			</answer>
-		</exercise>
-		<exercise>
+		</activity>
+		<activity>
 			<title>Sensemaking: Covariation</title>
 			<statement>
 				<p>
@@ -78,8 +78,8 @@
 				</p>
 			</statement>
 			
-		</exercise>
-		<exercise>
+		</activity>
+		<activity>
 			<title>Calculation</title>
 			<statement>
 				<p>
@@ -92,8 +92,8 @@
 				</p>
 			</statement>
 			
-		</exercise>
-		</exercises>
+		</activity>
+		</subsubsection>
 	
 </section>
 

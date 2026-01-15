@@ -11,7 +11,7 @@
 	-->
 
 
-	<subsection>
+	<subsubsection>
 		<title>Explanation Tasks</title>
 
 		<investigation xml:id="psa_en-10">
@@ -25,10 +25,10 @@
 			</hint>-->
 		</investigation>
 
-	</subsection>
+	</subsubsection>
 
 
-	<subsection>
+	<subsubsection>
 		<title>A*R*C*S Activities</title>
 
 		<!--
@@ -75,7 +75,7 @@
 		</statement>
 	</activity>
 
-</subsection>
+</subsubsection>
 
 	
 </section>

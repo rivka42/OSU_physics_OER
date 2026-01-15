@@ -10,7 +10,7 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 	
-	<subsection>
+	<subsubsection>
 		<title>Explanation Task</title>
 	
 	<investigation xml:id="psa_mech-1">
@@ -44,9 +44,9 @@
 			</statement>
 	</investigation>
 
-	</subsection>
+	</subsubsection>
 
-	<subsection>
+	<subsubsection>
 		<title>A*R*C*S Activity</title>
 
 <project xml:id="psa_mech-2">
@@ -79,7 +79,7 @@
     </p>
 </activity>
 
-	</subsection>
+	</subsubsection>
   
 	
 </section>

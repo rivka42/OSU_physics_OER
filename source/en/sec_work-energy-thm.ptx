@@ -3,7 +3,20 @@
 <section xml:id="sec_work-energy-thm" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Work-Energy Theorem</title>
 
-      <video youtube="Mun7c6RB140"><description>Introducing the Work-Energy Theorem.</description></video>
+      <corollary xml:id="vid-work-energy">
+	<title>The Work-Energy Theorem</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="Mun7c6RB140"><description>Introducing the Work-Energy Theorem.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<principle xml:id="p_work-energy">
 	<title>The Work-Energy Theorem</title>
@@ -21,10 +34,10 @@
 	<p>The Work-Energy Theorem assumes that no heat is transferred into or out of the system of interest.<fn>If heat is transferred, you can use the First Law of Thermodynamics instead of the Work-Energy Theorem: <me>W_{net,external} + Q_{net,external} = \Delta E</me> where <m>Q_{net,external}</m> is the net heat transferred to the system.</fn></p>
 	</assumption>
 
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
 	<!--Covered in the work section now
-			<exercise>
+			<investigation>
 				<title>Net Work</title>
 			<statement>
 				<p></p>
@@ -33,9 +46,9 @@
 				<answer>
 				<p><me>W_{net,external} = \Sigma W_i = W_1 + W_2 + W_3 + \dots</me></p>
 				</answer>
-			</exercise>
+			</investigation>
 			-->
-			<exercise>
+			<investigation>
 			<title>Explanation: Changing Energies</title>
 			<statement>
 				<p></p>
@@ -46,8 +59,8 @@
 				<p>Draw an Energy System Diagram to help keep track of the changes.  How is the Work-Energy Theorem represented in an Energy System Diagram?</p>
 				</hint>
 				-->
-			</exercise>
-			<exercise>
+			</investigation>
+			<investigation>
 			<title>Explanation: Conserved Energy</title>
 			<statement>
 				<p></p>
@@ -58,8 +71,8 @@
 				<p>Draw an Energy System Diagram to help keep track of the changes.  How is the Work-Energy Theorem represented in an Energy System Diagram?</p>
 				</hint>
 				-->
-			</exercise>
-		</exercises>
+			</investigation>
+		</subsubsection>
 	
 </section>
 

@@ -3,7 +3,20 @@
 <section xml:id="sec_calculating-u" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Spring Potential Energy</title>
 
-      <video youtube="KZ0An1CqvzI"><description>Calculating the Spring Potential Energy.</description></video>
+      <corollary xml:id="vid-spring-pe">
+	<title>Spring Potential Energy</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="KZ0An1CqvzI"><description>Calculating the Spring Potential Energy.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
 <definition xml:id="def_spring-potential-energy">
 	<title>Spring Potential Energy</title>
@@ -16,23 +29,23 @@
 	
 
 
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
-			<exercise>
-<title>Explanation</title>
+			<investigation>
+<title>Spring Compression</title>
 <p></p>
 			  <p>Is the following statement true or false: <q>If you compress or extend the same spring by the same distance, 
 				the potential energy stored in the spring is the same.</q>  Explain your reasoning.</p>
-			</exercise>
-			<exercise>
-<title>Calculation</title>
+			</investigation>
+			<exploration>
+<title>Mattress Springs</title>
 <statement>
 	<p></p>
 			  <p>Many mattresses can be approximated as ideal springs.  
 			  Estimate the potential energy stored in a mattress with <m>k = 24,000 \mathrm{~N/m}</m> 
 			  when one person lies down on the mattress and compresses it by <m>2 \mathrm{~cm}</m>.</p>
 </statement>
-			</exercise>
-			</exercises>
+</exploration>
+			</subsubsection>
 	
 </section>

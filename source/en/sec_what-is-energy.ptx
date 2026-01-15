@@ -11,7 +11,20 @@ Thus far you have been analyzing motion using the concepts of force and Newton's
 </p>
 -->
         
-      <video youtube="mA5qc9zSi8w"><description>An introduction to energy.</description></video>
+      <corollary xml:id="vid-energy">
+	<title>Energy</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="mA5qc9zSi8w"><description>An introduction to energy.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
 <p>
 Like many words used in physics, you probably use the word <q>energy</q> in your everyday life.  
@@ -29,16 +42,16 @@ The physics definition of energy will try to take this idea and make it more spe
 	</statement>
 </definition>
 
-<exercises>
+<subsubsection>
 <title>Forms of Energy</title>
-</exercises>
+</subsubsection>
 
 <p>
 Energy comes in many types known as <term>forms</term>.  The primary forms you will encounter in physics are <alert>kinetic energy</alert> (energy associated with motion, including translational, rotational, and thermal kinetic energy) and <alert>potential energy</alert> (including gravitational, electrical, chemical, and nuclear potential energy).  Within a system, energy can <em>transform</em> from one form to another form.  You can add together all the different forms of energy in a system to get that system's <term>total energy</term>, usually symbolized by <m>E_{\text{total}}</m> or just <m>E</m>.</p>
 
-<exercises>
+<subsubsection>
 <title>Energy Transfer</title>
-</exercises>
+</subsubsection>
 
 <p>
 Energy can be transferred from one system to another when those two systems interact with each other in certain ways.  When energy is transferred from one system to another, the total energy of one system will increase and the total energy of the other system will decrease by the same amount.  The primary means of energy transfer in physics are <alert>work</alert> (energy transfer associated with a force) and <alert>heat</alert> (energy transfer associated with a difference in temperature).  If a system is not interacting with anything external (or if all external energy transfers sum to zero), you can say that the total energy of the system is <term>conserved</term>, or constant in time.  If you were to choose a system consisting of everything in the universe, since there is nothing external to interact with the universe, you can say that the total energy in the universe should be conserved.
@@ -58,9 +71,9 @@ Historically, Aristotle of Stagira (384-322 BCE) in ancient Greece was the first
 </insight>
 
 
-<exercises>
+<subsubsection>
 	<title>Energy Activities</title>
-			<exercise xml:id="x_intro-energy-scalar">
+			<activity xml:id="x_intro-energy-scalar">
 			<title>Sensemaking: Type of Quantity</title>
 			<statement>
 				<p></p>
@@ -69,23 +82,23 @@ Historically, Aristotle of Stagira (384-322 BCE) in ancient Greece was the first
 				<answer>
 				<p>A vector quantity has both a magnitude and a direction, and can be represented by an arrow in space.  A scalar quantity is represented only by a single number, and so it does not have a direction, although that number can be positive, negative, or zero.</p>
 				</answer>
-			</exercise>
-			<exercise xml:id="x_intro-energy-forms">
+			</activity>
+			<activity xml:id="x_intro-energy-forms">
 			<title>Exploration: Energy Forms for a Skier</title>
 			<p></p>
 			  <p>Just before you start skiing down a mountain, your system starts with a large amount of gravitational potential energy.  As you ski down the mountain, your system's gravitational potential energy <em>decreases</em>, transforming into other forms.  What other forms of your system's energy do you think are changing as you ski down the mountain?  Are they increasing or decreasing?  Do you expect any forms of energy to change in more than one way?</p>
-			</exercise>
-			<exercise xml:id="x_intro-energy-transfers">
+			</activity>
+			<activity xml:id="x_intro-energy-transfers">
 			<title>Practice: Energy Transfer</title>
 			<p></p>
 			<p>Suppose you have three systems: A, B, and C.  Each system begins with a total energy of <m>50 \mathrm{~J}</m>.  The systems then interact so that system A transfers <m>20 \mathrm{~J}</m> to system B and system B transfers <m>35 \mathrm{~J}</m> to system C.  Find the total energy of each system after the energy transfers.</p>
-			</exercise>
-									<exercise>
+			</activity>
+									<activity>
 			<title>Sensemaking: Unit Conversion</title>
 			<p></p>
 			  <p>Another common unit for energy is the kilocalorie (known colloquially as the Calorie).  Look up the number of joules in a kilocalorie.  How many joules are in a typical <m>2000</m> Calorie daily diet?</p>
-			</exercise>
-		</exercises>
+			</activity>
+		</subsubsection>
   
 
 	

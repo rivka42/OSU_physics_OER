@@ -186,9 +186,9 @@
 	</example>
 
 
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
-	<exercise>
+	<activity>
 		<title>Sensemaking: Units</title>
 		<statement>
 		<p></p>
@@ -201,10 +201,10 @@
 			<m>\mathrm{Nm}</m> or <m>\mathrm{kgm^2/s^2}</m>
 		</p>
 	</answer>
-	</exercise>
+	</activity>
 	
 	
-	<exercise xml:id="x_work-box">
+	<activity xml:id="x_work-box">
 			<title>Practice Calculating Work</title>
 			<statement>
 			<ol>
@@ -217,9 +217,9 @@
 				<li><p>Why is the work you calculated for the three situations above not the same?</p></li>
 				</ol>
 				</statement>
-			</exercise>
+			</activity>
 			
-						<exercise>
+						<activity>
 			<title>Extension: Multiple External Forces</title>
 			<statement>
 				<p>
@@ -234,9 +234,9 @@
 				<answer>
 				<p>Option 1 is correct because it separately calculates the work by each force before adding them together!</p>
 				</answer>
-			</exercise>
+			</activity>
 			
-		</exercises>
+		</subsubsection>
 
 
 
@@ -254,12 +254,12 @@
 	</statement>
 	</definition>
 
-	<exercises>
+	<subsubsection>
 	<title>Activities: Exploring Work</title>
 
-			<exercise>
+			<activity>
 			  <p>The definition of work can look pretty complicated the first time you see it!  Make a list of all the <em>symbols</em> you see in the equation.  For each symbol, write a short description of what you think that symbol means in the context of this equation.</p>
-			</exercise>
+			</activity>
 
 		<p>
      Watch the video briefing below on work.
@@ -267,7 +267,7 @@
 		
       <video xml:id="en_vb-work" youtube="ZN3597-5_NU"><description>Defining work.</description></video>
     
-			<exercise>
+			<activity>
 			<title>Explore: Constant Forces</title>
 			<statement>
 			  <p>Suppose you want to calculate the work done by a force that is <alert>constant</alert> (not changing in either magnitude or direction).  Use this fact to simplify the definition above.</p>
@@ -275,9 +275,9 @@
 			<answer>
 			<p><me>W = \vec{F} \cdot \Delta\vec{r}</me></p>
 			</answer>
-			</exercise>
+			</activity>
 			
-			<exercise xml:id="x_work-box">
+			<activity xml:id="x_work-box">
 			<title>Practice Calculating Work</title>
 			<statement>
 			<ol>
@@ -292,9 +292,9 @@
      If you need a refresher on the dot product, see <xref ref="sec_dot-product"></xref>, especially the video: <xref ref="vec_vb-dot"></xref>.
     </p>
 				</hint>
-			</exercise>
+			</activity>
 			
-						<exercise>
+						<activity>
 			<title>Extension: Multiple External Forces</title>
 			<statement>
 			  <p>Suppose you have a system with two objects, <m>A</m> and <m>B</m>.  Different <alert>constant</alert> external forces, <m>\vec{F}_A</m> and <m>\vec{F}_B</m>, act on the two objects, which undergo different displacements <m>\Delta \vec{r}_A</m> and <m>\Delta\vec{r}_B</m>.  Which of the following expressions do you think correctly describes the net work on this system?  Why?</p>
@@ -306,9 +306,9 @@
 				<answer>
 				<p>Option 1 is correct because it separately calculates the work by each force before adding them together!</p>
 				</answer>
-			</exercise>
+			</activity>
 			
-		</exercises>
+		</subsubsection>
 
 		-->
 	

@@ -26,9 +26,9 @@
 	</statement>
 	</definition>
 
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
-	<exercise xml:id="class_work-pulling">
+	<activity xml:id="class_work-pulling">
 		<title>Doing Work</title>
 		<p>
 			
@@ -73,8 +73,8 @@
 					</p>
 				</li>
 			</ol>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 				<title>Non-Constant Winch</title>
 			<statement>
 				<p>
@@ -85,9 +85,9 @@
 				<answer>
 				<p><me>W_{winch} = \frac{F_o L}{6}</me></p>
 				</answer>
-			</exercise>
+			</activity>
 			
-			</exercises>
+			</subsubsection>
 	
 </section>
 

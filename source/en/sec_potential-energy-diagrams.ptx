@@ -3,7 +3,20 @@
 <section xml:id="sec_potential-energy-diagrams" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Potential Energy Diagrams</title>
 
-      <video youtube="plP2MLFQZNY"><description>Introducing potential energy diagrams.</description></video>
+      <corollary xml:id="vid-potential-energy-diagrams">
+	<title>Potential Energy Diagrams</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="plP2MLFQZNY"><description>Introducing potential energy diagrams.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
 <conjecture xml:id="r_potential-energy-diagrams">
 	<title>Potential Energy Diagrams</title>
@@ -13,31 +26,34 @@
 	</statement>
 	</conjecture>
 
-<exercises>
-	<title>Activity: Spring Potential Energy Diagram</title>
+<activity>
+	<title>Spring Potential Energy Diagram</title>
+	<p>
+		
+	</p>
 			<p>A block on a frictionless, horizontal table is connected to a spring (the other end of the spring is fixed to a wall).  The spring is initially compressed from its equilibrium position by a distance of <m>x_i</m>.</p>
-			<exercise>
+			<task>
 			<statement>
 			  <p>Sketch and label a potential energy diagram for this system.</p>
 				</statement>
 				<hint>
 				<p>Recall the definition of the spring potential energy from <xref ref="def_spring-potential-energy"></xref>.</p>
 				</hint>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			<statement>
 			<p>On your diagram, find the location(s) where the potential energy is (a) largest and (b) smallest.  Explain how you can tell from the diagram.</p>
 			</statement>
 			<hint>
 			<p>If you have not done so already, sketch the total energy on your diagram.  How does the total energy change as the block moves?</p>
 			</hint>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			<p>On your diagram, find the location(s) where the kinetic energy is (a) largest and (b) smallest.  Explain how you can tell from the diagram.</p>
-			</exercise>
-						<exercise>
+			</task>
+						<task>
 			<p>On your diagram, find the location(s) where the spring force is (a) largest and (b) smallest.  Do you think there is a way to tell this from the diagram alone?</p>
-			</exercise>
-				</exercises>
+			</task>
+		</activity>
 	
 </section>

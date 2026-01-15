@@ -3,7 +3,20 @@
 <section xml:id="sec_force-and-potential-energy" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Force and Potential Energy</title>
 
-      <video youtube="tIn6UMjLXTo"><description>Discussing the relationship between force and potential energy.</description></video>
+      <corollary xml:id="vid-force-pe">
+	<title>Force and Potential Energy</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="tIn6UMjLXTo"><description>Discussing the relationship between force and potential energy.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
 <definition xml:id="def_force-pe">
 	<title>Force and Potential Energy</title>
@@ -13,8 +26,8 @@
 	</statement>
 	</definition>
 
-<exercises>
-	<title>Activity: Practice Diagram</title>
+<activity>
+	<title>Practice Diagram</title>
 	<p>Below is a potential energy diagram for some system.</p>
 	  <figure xml:id="en_U-vs-x">
 			<title>Potential Energy Diagram</title>
@@ -22,16 +35,16 @@
 		<image source="Uvsx.png" width = "50%">
 			<description>A graph of U vs. x that starts near 4 J, decreases to 1 J at x = 4 m and then rises to around 6 J.</description></image>
   </figure>	
-						<exercise>
+						<task>
 			<statement>
 			  <p>What property of the graph can you use to identify the force that this particle experiences?  Explain your reasoning.</p>
 				</statement>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			<statement>
 			<p>At what position(s) is the force on the particle zero?</p>
 			</statement>
-			</exercise>
-				</exercises>
+			</task>
+		</activity>
 	
 </section>

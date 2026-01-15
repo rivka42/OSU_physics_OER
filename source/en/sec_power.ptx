@@ -3,7 +3,20 @@
 <section xml:id="sec_power" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Power</title>
 		
-      <video youtube="bTf1uglBaEQ"><description>Introducing power.</description></video>
+      <corollary xml:id="vid-power">
+	<title>Power</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="bTf1uglBaEQ"><description>Introducing power.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<definition>
 	<title>Power</title>
@@ -13,33 +26,33 @@
 	</statement>
 	</definition>
 
-	<exercises>
+	<subsubsection>
   <title>Activities</title>
-				<exercise xml:id="x_summarize-power">
+				<activity xml:id="x_summarize-power">
 			<title>Summarize What You Learned - Power</title>
 			<p></p>
 			  <p>Write a 1-2 sentence description of what the definition of power says in words. </p>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>Sensemaking: Units</title>
 			 <statement>
 				<p></p>
 			  <p>Write the units of power in terms of other units you are familiar with in at least three different ways. Which do you think might be the most useful way of writing them?</p>
 				</statement>
-			</exercise>
-			<exercise>
-			<title>Explanation: Power Company</title>
+			</activity>
+			<investigation>
+			<title>Power Company</title>
 			<p></p>
 			  <p>When you get a bill from the power company, you pay for kilowatt-hours, not watts. What are you actually paying for, and how do you know? </p>
-			</exercise>
-			<exercise>
-			<title>Calculation</title>
+			</investigation>
+			<exploration>
+			<title>Person Power</title>
 			<p></p>
 			<p>An average person produces <m>100 \mathrm{~W}</m> of power.  How much energy does an average person use in one day?</p>
-			</exercise>
+			</exploration>
 			
 			
-		</exercises>
+		</subsubsection>
 	
 </section>
 

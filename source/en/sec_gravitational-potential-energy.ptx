@@ -3,7 +3,20 @@
 <section xml:id="sec_grav-u" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Gravitational Potential Energy</title>
 
-      <video youtube="_x3cl1SXSpk"><description>Calculating Gravitational Potential Energy.</description></video>
+      <corollary xml:id="vid-grav-pe">
+	<title>Gravitational Potential Energy</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="_x3cl1SXSpk"><description>Calculating Gravitational Potential Energy.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
 <definition>
 	<title>Gravitational Potential Energy (General)</title>
@@ -20,9 +33,9 @@
 	</statement>
 	</definition>
 
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
-			<exercise>
+			<investigation>
 <title>Explanation: Zero</title>
 <statement>
 	<p></p>
@@ -33,8 +46,8 @@
 				Using the equation, you want <m>-\frac{GmM}{r} = 0</m>.  This only looks to be true in the limit where <m>r \rightarrow \infty</m>.  So the gravitational potential energy is equal to zero when the two masses are infinitely far away from each other!  As with any other potential energy, you could change the location where <m>U = 0</m> by adding a constant to <m>U</m> without changing the physical system (this is known as changing your reference point).
 				</p>
 				</solution>
-			</exercise>
-			<exercise>
+			</investigation>
+			<activity>
 <title>Approximation: Near the Surface of the Earth</title>
 <statement>
 	<p></p>
@@ -54,7 +67,7 @@
 	</statement>
 	</definition>
 </answer>
-			</exercise>
-			</exercises>
+			</activity>
+			</subsubsection>
 	
 </section>

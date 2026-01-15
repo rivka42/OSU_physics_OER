@@ -342,6 +342,35 @@ Assume the gravitational force on the block points downward with a magnitude equ
 		
 	</project>
 
+	<project xml:id="psa_lom-01">
+        <title>The Coach vs. the Student-Athletes</title>
+		<statement>
+		<p></p>
+		    <p>
+				The figure below shows a top-down view of a tug-of-war between a coach (in red on the left) and two teams of <q>student-athletes</q>.  
+				The coach can pull with a force of <m>1500 \mathrm{~N}</m>, and the two teams together are just able to keep the rock connected to the ropes 
+				from beginning to accelerate.  Determine the magnitude of the tension force provided by each of the two teams.
+			</p>
+				<figure xml:id="for_tug-of-war">
+			<title>Tug-of-War Figure</title>
+		 <caption>A tug of war between a coach (left) and two teams of student-athletes (right).</caption>
+		<image source="tug-of-war.png" width = "60%">
+			<description></description></image>
+  </figure>
+		</statement>
+		<hint>
+		    <p>
+				<alert>Analyze and Represent:</alert> Sketch a free-body diagram for the situation.  Think carefully about what reference frame you want to choose and break each force into components.
+			</p>
+		</hint>
+		<hint>
+		    <p><alert>Calculate:</alert> Remember that your answer and work should be primarily symbolic.  Choosing good symbols for both known and unknown quantities (including the angles!) can help support both your algebra and your sensemaking.</p>
+		</hint>
+		<hint>
+		    <p><alert>Sensemake:</alert> As part of your symbolic sensemaking (part 3c), try covariational reasoning for at least one of the three known quantities.</p>
+		</hint>
+	</project>
+
 
 
 
@@ -388,6 +417,11 @@ A Real-world Context is a situation or problem with a real setting, where you at
 		</subsubsection>
 -->
 
-	
+	<references>
+		<biblio xml:id="ref_tug-of-war">
+		<p>Tug of War image inspired by teamwork by Lucas Helle from <a href="https://thenounproject.com/browse/icons/term/teamwork/" target="_blank" title="teamwork Icons">Noun Project</a> (CC BY 3.0)
+	</p>
+		</biblio>
+	</references>
 </section>
 

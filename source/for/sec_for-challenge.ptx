@@ -10,7 +10,7 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 	
-		<subsection>
+		<subsubsection>
 	<title>Explanation Tasks</title>
 	
 		<investigation xml:id="psa_for-06">
@@ -35,7 +35,7 @@
 	</investigation>
 	
 	
-		</subsection>
+		</subsubsection>
 		
 		
 		  <investigation xml:id="psa_for-01">
@@ -95,12 +95,15 @@
 	
 	
 	
-	<subsection>
+	<subsubsection>
 	<title>A*R*C*S Activities</title>
+
+	<p>For each A*R*C*S activity, you are expected to complete and label <alert>all</alert> of the <xref ref="fig_realworld"/>.
+	</p>
 
 		<project xml:id="psa_for-07">
         <title>The Gymnast II</title>
-		<introduction>
+		<statement>
 		<p></p>
 		    <p>A gymnast is training by hanging from two ropes attached to the ceiling, as shown in the figure. 
 				The angles <m>\theta</m> and <m>\alpha</m> are different.  
@@ -112,49 +115,30 @@
 		<image source="Athlete.png" width = "30%">
 			<description></description></image>
   </figure>
-</introduction>
-<task>
-	<title>Metacognitive Reflection</title>
-<statement>
+
+  <assemblage>
+		<p><alert><!--REPLACE_TAG-->Tip:</alert> Use special-case analysis to make sense of the tensions in the case that the two angles are equal to each other.</p>
+		</assemblage>
+</statement>
+
+	<answer>
 	<p>
-		<p></p>
-		The tensions in the ropes are given by the equations below.
+		
 		<me>
 			F_R^T = \frac{mg\cos\theta}{\cos\alpha\sin\theta + \sin\alpha\cos\theta}
 		</me>
 		<me>
 			F_L^T = \frac{mg\cos\alpha}{\cos\alpha\sin\theta + \sin\alpha\cos\theta}
 		</me>
-		Compare these equations to the equations you found in a previous assignment<!--<xref ref="psa_lom-01"/>-->.  
-		Explain any similarities and differences between the equations for the two activities.
+		<!--Compare these equations to the equations you found in a previous assignment <xref ref="psa_lom-01"/>.  
+		Explain any similarities and differences between the equations for the two activities.-->
 	</p>
-</statement>
-</task>
-<task>
-	<title>Sensemaking: Special Cases</title>
-		<statement>
-			<p></p>
-		    <p>Use special-case analysis to make sense of the tensions in the case that the two angles are equal to each other.</p>
-		</statement>
-	</task>
+</answer>
 	</project>
 
-	<project xml:id="pa_for-02">
-        <title>The Water Slide</title>
-		<statement>
-			<p>
-				
-			</p>
-		    <p>You go down a water slide of length <m>L</m> that makes an angle <m>\theta</m> with the horizontal, 
-			starting from rest. Do not neglect friction (use <m>\mu_k</m> as the coefficient of kinetic friction). 
-			Determine your acceleration.</p>
-		</statement>
-		<hint>
-		    <p>For part 3c (symbolic sensemaking), use special-case analysis in the case that friction can be neglected.</p>
-		</hint>
-	</project>
+	
 
-</subsection>
+</subsubsection>
 
 
 

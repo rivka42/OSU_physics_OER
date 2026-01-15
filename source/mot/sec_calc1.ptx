@@ -16,16 +16,21 @@
 		<p><term>Add:</term> Last, once you have the infinitesimal <m>d\vec{v}</m>, you need to <em>add</em> together every <m>d\vec{v}</m> over the full times of interest, which can be done with an integral: <me>\int_{v_i}^{v_f}d \vec{v} = \int_{t_i}^{t_f} \vec{a}(t) dt</me>  The left hand side of this equation can be easily evaluated to give <me>\Delta \vec{v} = \int_{t_i}^{t_f} \vec{a}(t) dt</me></p>
 	
 
-	<exercises>
+	<subsubsection>
 <title>Activities</title>
-			<exercise>
+			<activity>
+				<title>Different Displacements</title>
+				<p>
+					
+				</p>
+				
 			  <p>The following two equations are both reasonable to write down for a displacement vector: </p>
 				<p><me>1: \Delta \vec{r} = \int_{t_i}^{t_f}\vec{v}(t)dt</me></p>
 				<p><me>2: \Delta \vec{r}= \vec{v}\Delta t</me> </p>
 				<p>What is the difference between them?  In what situations would you use the first equation?  In what situations would you use the second equation?</p>
-			</exercise>
+			</activity>
 			
-		</exercises>
+		</subsubsection>
 
 		<project xml:id="class_mario">
 			<title>Super Mario's Acceleration</title>

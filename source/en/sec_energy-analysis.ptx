@@ -3,8 +3,21 @@
 <section xml:id="sec_energy-analysis" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Energy Analysis</title>
 	
-	<video youtube="hMlkGos6HA0"><description>Energy Analysis.</description></video>
+	<corollary xml:id="vid-energy-analysis">
+	<title>Energy Analysis</title>
 	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="hMlkGos6HA0"><description>Energy Analysis.</description></video>
+
+	</statement>
+  </corollary>
+	
+  <subsubsection><title>Key Ideas</title></subsubsection>
+  
 <p>In <xref ref="sec_solving-forces1"></xref>, you saw a strategy for force analysis.  
 	Approaching a context from an energy perspective follows a similar structure, but the goals are often different. 
 </p>
@@ -55,18 +68,18 @@
 	</statement>
 </heuristic>
 
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
-			<exercise>
-			<title>A*R*C*S: Pulling a Box</title>
+			<project>
+			<title>Pulling a Box</title>
 			<statement>
 				<p></p>
 			  <p>In <xref ref="x_work-box"></xref>, you considered the situation of pulling a box across a flat, level floor using a rope that makes an angle to the horizontal.  Assuming you know the tension in the rope, find the speed of the box after it has traveled across the room.</p>
 				</statement>
 				<hint>Try solving this problem with both Energy Analysis and Force Analysis.</hint>
-			</exercise>
+			</project>
 			
-		</exercises>
+		</subsubsection>
 	
 </section>
 

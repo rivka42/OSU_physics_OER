@@ -5,7 +5,7 @@
 
   
 
-	<exercises>
+	<subsubsection>
 <title>I. The Mystery of the Two Planets</title>
 <p>This activity is intended to help you practice providing a scientific explanation following the steps introduced in <xref ref="fig_explanation"></xref>.</p>
 <p>You are in charge of an interstellar spacecraft that is investigating the planets around a faraway star system.  Currently, your spacecraft is located in the region of space between two of these planets, <alert>Ursula</alert> and <alert>Triton</alert>, where the net gravitational force on the spacecraft is equal to zero.  You have measured that the distance between your spacecraft and the center of Ursula, <m>d_u</m>, is greater than the distance between your spacecraft and the center of Triton, <m>d_t</m>.  You want to know whether the mass of Ursula is <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the mass of Triton.</p>
@@ -48,9 +48,9 @@
 							</statement>
 			</exercise>
 			<video youtube="yaPCpsORgtE"><description>Explaining how to use the universal model for gravitation to predict the masses of planets.</description></video>
-		</exercises>
+		</subsubsection>
 
-	<exercises>
+	<subsubsection>
 		<title>II. Moving Blocks</title>
 		<p>This activity is intended to help you practice solving problems using the A*R*C*S format introduced in <xref ref="fig_realworld"></xref>. This will serve as a touchpoint you can come back to if you need any assistance on working through an A*R*C*S activity. You will work through each section of the A*R*C*S format, watch a video, and reflect on your work. The videos are a little bit long, but there is a lot to explain in an A*R*C*S activity!</p>
 		<p>
@@ -238,9 +238,9 @@
 				</statement>
 			</task>
 		</exercise>
-		</exercises>
+		</subsubsection>
 		
-		<exercises xml:id="psa_vec-6">
+		<subsubsection xml:id="psa_vec-6">
 		<title>III. Math Review</title>
 		<exercise>
 			<title>What is an integral?</title>
@@ -292,7 +292,7 @@
 			</statement>
 
 	</exercise>
-	</exercises>
+	</subsubsection>
   
 </section>
 

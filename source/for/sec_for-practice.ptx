@@ -10,7 +10,27 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 
-<subsection>
+  <subsubsection>
+<title>A*R*C*S Practice</title>
+
+<project xml:id="pa_for-02">
+        <title>The Water Slide</title>
+		<statement>
+			<p>
+				
+			</p>
+		    <p>You go down a water slide of length <m>L</m> that makes an angle <m>\theta</m> with the horizontal, 
+			starting from rest. Do not neglect friction (use <m>\mu_k</m> as the coefficient of kinetic friction). 
+			Determine your acceleration.</p>
+		</statement>
+		<hint>
+		    <p>For part 3c (symbolic sensemaking), use special-case analysis in the case that friction can be neglected.</p>
+		</hint>
+	</project>
+
+  </subsubsection>
+
+<subsubsection>
 <title>Practice</title>
 
 	<!-- Starting March 25, 2025 (3/31/25)-->
@@ -239,9 +259,9 @@
 <!-- NOTE: This problem has a figure-->
 </exploration>
 
-</subsection>
+</subsubsection>
 
-<subsection>
+<subsubsection>
 <title>Additional Practice</title>
 
 	<exploration xml:id="psa_for-alpha3">
@@ -323,7 +343,7 @@
 		</answer>
 	</exploration>
 
-</subsection>
+</subsubsection>
 
 
 <references>

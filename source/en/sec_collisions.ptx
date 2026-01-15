@@ -3,7 +3,20 @@
 <section xml:id="sec_collisions" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Collisions</title>
 	
-      <video youtube="7qSLI0p2lpw"><description>An introduction to collisions.</description></video>
+      <corollary xml:id="vid-collisions">
+	<title>Collisions</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="7qSLI0p2lpw"><description>An introduction to collisions.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
 	<definition>
 	<title>Collision</title>
@@ -23,21 +36,24 @@
 <p></p>
 
 
-	<exercises>
-	<title>Activities</title>
+	<activity>
+	<title>Two Bicycles</title>
+	<p>
+		
+	</p>
 <p>Two bicycles initially moving toward each other get in a low-speed accident in which they bounce off each other so that each bicycle is now moving at the same speed but in the opposite direction!</p>
-			<exercise>
+			<task>
 			  <p>Choose a system for this context for which momentum is conserved.  How do you know momentum is conserved for your system?</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			  <p>For your system, does the kinetic energy change?  How can you tell?</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			  <p>What kind of collision is this?  Explain.</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			  <p>How could you change the context into a different form of collision?  See if you can figure how two bicycles colliding could give you all three kinds of collisions!</p>
-			</exercise>
-					</exercises>
+			</task>
+		</activity>
 	
 </section>

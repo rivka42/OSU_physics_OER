@@ -7,25 +7,38 @@
 	
 	      <video youtube="_p0TGVgnK_w"><description>What happens when you pull on a Bungee cord?</description></video>
 
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
-			<exercise>
-<title>Explanation: Work</title>
+			<investigation>
+<title>Work</title>
 <p></p>
 			  <p>The work done by each hand is positive (and thus, the net work on the system is positive). Explain why this must be true using our definition for work.</p>
-			</exercise>
-			<exercise>
-<title>Explanation: Total Energy</title>
+			</investigation>
+			<investigation>
+<title>Total Energy</title>
 <p></p>
 			  <p>Is the change in total energy of the system positive, negative, or zero?  Explain your reasoning.</p>
-			</exercise>
-			<exercise>
-<title>Explanation: Energy Forms</title>
+			</investigation>
+			<investigation>
+<title>Energy Forms</title>
 <p></p>
 			  <p>If you answered that the total energy of the system changes, what is the form of that energy in the system? If you answered that the total energy of the system stays the same, were there any changes in energy outside the system?</p>
-			</exercise>
+			</investigation>
 
-      <video youtube="LGoCZu0yhvs"><description>Introducing potential energy.</description></video>
+      <corollary xml:id="vid-potential-energy">
+	<title>Potential Energy</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="LGoCZu0yhvs"><description>Introducing potential energy.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 		
 	<definition>
 	<title>Potential Energy</title>
@@ -35,11 +48,11 @@
 	</statement>
 	</definition>
 		
-			<exercise>
+			<activity>
 				<title>Sensemaking - Sign</title>
 				<p></p>
 			  <p>Explain the meaning of the negative sign in the definition of the change in potential energy given above.</p>
-			</exercise>		
-		</exercises>
+			</activity>		
+		</subsubsection>
 	
 </section>

@@ -3,9 +3,9 @@
 <section xml:id="sec_changing-a-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Practice - Non-constant Acceleration</title>
 		
-  <exercises>
+  <subsubsection>
 	<title>Practice Activities</title>
-	  </exercises>
+	  </subsubsection>
 
 	  <activity xml:id="class_diver">
 		<title>An Olympic Diver</title>
@@ -36,10 +36,14 @@
 		    </statement>
 <solution>
 	<p>
-		<figure xml:id="mot_vb-rwc">
-			<caption>An example of using the A*R*C*S steps.</caption>
+		<corollary xml:id="mot_vb-rwc">
+			<title>The Sprinter</title>
+			<p>
+				
+			</p>
+			
 		<video youtube="kJ9qrl0SrPI"></video>
-	  </figure>
+		</corollary>
 	</p>
 </solution>
 	</project>

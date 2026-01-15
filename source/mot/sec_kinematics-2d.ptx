@@ -4,14 +4,27 @@
   <title>Constant Acceleration - 2D</title>
 		
 		  
-      <video youtube="FJE5RVCgXGg"><description>Motion with constant acceleration in two dimensions.</description></video>
+      <corollary xml:id="vid-constant-a2">
+	<title>2D Constant Acceleration</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="FJE5RVCgXGg"><description>Motion with constant acceleration in two dimensions.</description></video>
+
+	</statement>
+  </corollary>
+
+  
     
 	
 		
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
-		<exercise xml:id="x_realworld-ball">
-			<title>A*R*C*S Throwing a Ball</title>
+		<project xml:id="x_realworld-ball">
+			<title>Throwing a Ball</title>
 			<statement>
 				<p>
 					
@@ -47,14 +60,25 @@
 				<!--
 					<figure xml:id="mot_vb_proj-mot">
 		  <caption>A projectile motion practice problem.</caption>
-      <video youtube="lyOJABYAlO4"></video>
+      <corollary xml:id="vid-position">
+	<title>Position</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="lyOJABYAlO4"></video>
+
+	</statement>
+  </corollary>
     </figure>
 	-->
 			</answer>
-			</exercise>
+			</project>
 
 
-			</exercises>
+			</subsubsection>
 	
 </section>
 

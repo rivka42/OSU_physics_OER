@@ -3,11 +3,21 @@
 <section xml:id="sec_dot-product" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Dot Product</title>
 
-<!--THIS VIDEOS IS INTENTIONALLY IN A FIGURE FOR CROSS-REFERENCE PURPOSES.  NORMAL VIDEOS CANNOT BE CROSS-REFERENCED AND SO DO NOT NEED AN XML:ID -->
-		<figure xml:id="vec_vb-dot">
-		  <caption>Introducing the dot product.</caption>
-      <video youtube="09lGQ0qCaCo"></video>
-    </figure>
+      <corollary xml:id="vec_vb-dot">
+	<title>The Dot Product</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="09lGQ0qCaCo"></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
+
 
     		<p>
 			Vectors do not multiply in the same way as scalars due to their inherent directionality.  
@@ -62,9 +72,9 @@ Conceptually, the dot product quantifies how much of one vector is in the same d
 
 
   
-			<exercises>
+			<subsubsection>
 		<title>Practice Activity</title>
-				<exercise xml:id="x_dot">
+				<activity xml:id="x_dot">
 				<title>Explore Dot Product Signs</title>
 		<statement>
 			<p>
@@ -73,8 +83,8 @@ Conceptually, the dot product quantifies how much of one vector is in the same d
 		<p>The result of the dot product can be <em>positive</em>, <em>negative</em>, or <em>zero</em>.  
 		Sketch 2-3 possible pairs of vectors for each possible result of the dot product.</p>
 		</statement>
-		</exercise>
-		<exercise>
+		</activity>
+		<activity>
 			<title>Unit Vectors</title>
 			<p>
 				
@@ -82,8 +92,8 @@ Conceptually, the dot product quantifies how much of one vector is in the same d
 			<p>
 				Using the definition of <xref ref="def_unit-vectors"/>, show that <me>\hat{x} \cdot \hat{x} = \hat{y} \cdot \hat{y} = \hat{z} \cdot \hat{z} = 1</me>
 			</p>
-		</exercise>
-		</exercises>
+		</activity>
+		</subsubsection>
       
 
 

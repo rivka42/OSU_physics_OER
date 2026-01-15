@@ -3,25 +3,48 @@
 <section xml:id="sec_introduction_to_momentum" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>What is Momentum?</title>
 
-<exercises>
-	<title>Activities</title>
-	<exercise>
-	<title>Introductory Activity</title>
+
+	<activity>
+	<title>Warm-up</title>
 	<statement>
 		<p></p>
 	<p>A tennis ball and a baseball have about the same radius, but the baseball has a mass that is three times greater than the mass of the tennis ball.  The baseball is sitting at rest on a table and you roll the tennis ball so that the two collide.  After the collision, you observe that the baseball is moving forward but the tennis ball is moving backward.  Which object do you think will have a larger change in velocity?  Give a detailed description, using your model for forces, for how you determined your answer above, as you would for any Explanation Task.</p>
 	</statement>
 	<solution>
-	<video youtube="7Pqm1T-Ijgk"><description>Examining a collision between a baseball and a tennis ball.</description></video>
+	<identity xml:id="vid-collision">
+	<title>A Collision</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="7Pqm1T-Ijgk"><description>Examining a collision between a baseball and a tennis ball.</description></video>
+
+	</statement>
+</identity>
 	</solution>
-	</exercise>
+	</activity>
 	
 	<p></p>
 	<p>
 	<alert>After you complete the activity above and watch the solution video, continue to the introduction video below.</alert>
 	</p>
 
-	<video youtube="5y9oHu5_2_4"><description>An introduction to momentum.</description></video>
+	<corollary xml:id="vid-momentum">
+	<title>Momentum</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="5y9oHu5_2_4"><description>An introduction to momentum.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
 		<definition>
 	<title>Momentum</title>
@@ -33,12 +56,12 @@
 </definition>
 
 
-<exercise xml:id="x_summarize-momentum">
+<activity xml:id="x_summarize-momentum">
 			<title>Summarize What You Learned - Momentum</title>
 			<p></p>
 			  <p>Write a 1-2 sentence description of what the definition of momentum says in words. </p>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>Sensemaking: Units</title>
 			 <statement>
 				<p></p>
@@ -47,8 +70,8 @@
 				<answer>
 				<p>kg m/s</p>
 				</answer>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>Sensemaking: Direction</title>
 			<statement>
 				<p></p>
@@ -57,18 +80,17 @@
 				<answer>
 				<p>The momentum for a single object always points in the same direction as the object's velocity!</p>
 				</answer>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>Calculation</title>
 			<statement>
 				<p></p>
 			  <p>Estimate the magnitude of the momentum of a car traveling down a highway.</p>
 				</statement>
 											<answer>
-							<p>I estimated around 37,200 kg m/s.  (Many cars have a mass that is somewhere around 1200 kg, and a typical highway speed limit is 70 mph, which is about 31 m/s.)</p>
+							<p>I estimated around <m>37,200 \mathrm{~kgm/s}</m>.  (Many cars have a mass that is somewhere around <m>1200 \mathrm{~kg}</m>, and a typical highway speed limit is <m>70 \mathrm{~mph}</m>, which is about <m>31 \mathrm{~m/s}</m>.)</p>
 							</answer>
-			</exercise>
-		</exercises>
+			</activity>
   
 
 	
