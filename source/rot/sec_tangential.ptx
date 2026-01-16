@@ -3,7 +3,14 @@
 <section xml:id="sec_tangential" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Tangential Acceleration</title>
 		
-      <video youtube="aLi-AAVsIwM"><description>Defining tangential acceleration.</description></video>
+      <corollary xml:id="vid-tangential-a">
+	<title>Tangential Acceleration</title>
+	<statement><p></p>
+		<video youtube="aLi-AAVsIwM"><description>Defining tangential acceleration.</description></video>
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<p>When an object moves along a curved path, the instantaneous acceleration can be broken into two components: one perpendicular to the curve (the centripetal acceleration) and one tangent to the curve (the tangential acceleration).</p>
 	

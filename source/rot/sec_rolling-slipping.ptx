@@ -10,7 +10,14 @@
 			</exercise>
 		</exercises>
 		
-      <video youtube="1anNyNrvtIU"><description>Introducing rolling without slipping.</description></video>
+      <corollary xml:id="vid-rolling-without-slipping">
+	<title>Rolling without Slipping</title>
+	<statement><p></p>
+		<video youtube="1anNyNrvtIU"><description>Introducing rolling without slipping.</description></video>
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<p>Most examples of rolling motion you encounter in your everyday life can be modeled as rolling without slipping, in which the point of contact between the rolling object has a relative velocity of zero with the surface along which it is rolling.  Cases in which the relative motion between the rolling object and the surface are not zero are typically described as slipping or skidding.</p>
 	

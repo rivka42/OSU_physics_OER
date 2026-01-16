@@ -3,12 +3,20 @@
 <section xml:id="sec_cross-product" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Cross Product</title>
 
-<!--THIS VIDEOS IS INTENTIONALLY IN A FIGURE FOR CROSS-REFERENCE PURPOSES.  NORMAL VIDEOS CANNOT BE CROSS-REFERENCED AND SO DO NOT NEED AN XML:ID -->
-		<figure xml:id="vec_vb-cross">
-		<title>Cross Product Video</title>
-		  <caption>Introducing the cross product.</caption>
-      <video youtube="ohX0ywFbPXY"></video>
-    </figure>
+		<corollary xml:id="vec_vb-cross">
+		<title>The Cross Product</title>
+		  <description>Introducing the cross product.</description>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="ohX0ywFbPXY"><description>Introducing the cross product.</description></video>
+	</statement>
+</corollary>
+
+<subsubsection><title>Key Ideas</title></subsubsection>
 
     			<p>
 In a previous section you learned about the dot product as one way to multiply vectors.  Another way to multiply vectors is the <em>cross product</em>, named because you will use <m>\times</m> to represent the multiplication. Unlike the dot product, the cross product of two vectors is a <alert>vector</alert>, not a scalar.
@@ -43,12 +51,18 @@ In the figure, <m> \theta</m> represents the angle between the two vectors when 
 	The <alert>Right Hand Rule</alert> is the convention by which you always choose which of these two directions the cross product should point.
 </p>     
 
-<!--THIS VIDEOS IS INTENTIONALLY IN A FIGURE FOR CROSS-REFERENCE PURPOSES.  NORMAL VIDEOS CANNOT BE CROSS-REFERENCED AND SO DO NOT NEED AN XML:ID -->
-		<figure xml:id="vec_vb-rhr">
-		<title>Right Hand Rule Video</title>
-		  <caption>Introducing the right hand rule.</caption>
-      <video youtube="7sCtIXsKo8s"></video>
-    </figure>
+		<corollary xml:id="vec_vb-rhr">
+		<title>The Right Hand Rule</title>
+		  
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="7sCtIXsKo8s"><description>Introducing the right hand rule.</description></video>
+	</statement>
+</corollary>
 
 				<conjecture xml:id="rep_rhr">
 			<title>Right Hand Rule</title>

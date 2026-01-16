@@ -7,7 +7,14 @@
 	Recall your predictions from <xref ref="sec_models"/> and compare them to the solutions in the video below.
   </p>
 
-      <video youtube="j7C4El5zBXs"><description>Velocity for motion along a curved path.</description></video>
+      <corollary xml:id="vid-velocity-curved">
+	<title>2D Velocity</title>
+	<statement><p></p>
+		<video youtube="j7C4El5zBXs"><description>Velocity for motion along a curved path.</description></video>
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<p>When an object moves along a curved path, the instantaneous velocity always points tangent to the curve.</p>
 				
@@ -30,7 +37,12 @@
 			</exercise>
 		</exercises>
 			
-      <video youtube="mPozBCmcb4w"><description>Determining the direction of centripetal acceleration.</description></video>
+      <corollary xml:id="vid-ca-dir">
+	<title>Centripetal Acceleration Direction</title>
+	<statement><p></p>
+		<video youtube="mPozBCmcb4w"><description>Determining the direction of centripetal acceleration.</description></video>
+	</statement>
+  </corollary>
 			
 				<exercises>
 	<title>Model Application - Acceleration Magnitude</title>
@@ -60,7 +72,12 @@
 			</exercise>
 		</exercises>
 		
-		      <video youtube="IdZoXXpjGpI"><description>Determining the magnitude of centripetal acceleration.</description></video>
+		      <corollary xml:id="vid-ca-mag">
+	<title>Centripetal Acceleration Magnitude</title>
+	<statement><p></p>
+		<video youtube="IdZoXXpjGpI"><description>Determining the magnitude of centripetal acceleration.</description></video>
+	</statement>
+  </corollary>
 	
 	
 	<definition>

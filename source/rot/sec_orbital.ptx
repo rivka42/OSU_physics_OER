@@ -24,7 +24,14 @@
 			</exercise>
 		</exercises>
 
-        <video youtube="XzBIw5aryns"><description>Introducing orbital motion.</description></video>
+        <corollary xml:id="vid-orbital-motion">
+	<title>Orbital Motion</title>
+	<statement><p></p>
+		<video youtube="XzBIw5aryns"><description>Introducing orbital motion.</description></video>
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
 <p>An orbiting object can often be treated as undergoing uniform circular motion, in which case the only force responsibly for the circular motion is the gravitational force between the orbiting and orbited object.</p>
 
