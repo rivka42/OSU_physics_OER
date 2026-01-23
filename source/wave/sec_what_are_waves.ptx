@@ -3,9 +3,9 @@
 <section xml:id="sec_what_are_waves" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>What Are Waves?</title>
 	
-	<exercises>
+	<subsubsection>
 <title>Introductory Activities</title>
-<exercise xml:id="x_intro-waves">
+<activity xml:id="x_intro-waves">
 <title>Explore What You Already Know about Waves</title>
 <statement>
 	<p>
@@ -13,8 +13,8 @@
 	</p>
 <p>You have probably already encountered waves in your everyday life.  Start by writing down a personal list of things you already know about or have observed about waves in your everyday life.</p>
 </statement>
-</exercise>
-<exercise>
+</activity>
+<activity>
 <title>Explore Transverse and Longitudinal Waves</title>
 <statement>
 	<p>
@@ -22,18 +22,23 @@
 	</p>
 <p>Watch the two short videos demonstrating some basic wave behavior below.  Make a list of observations about each video.  Try to find both similarities and differences between the two kinds of waves.</p>
 </statement>
-</exercise>
+</activity>
 <video youtube="g49mahYeNgc"><description>Transverse waves.</description></video>
 <video youtube="cV0aaiG_Jy8"><description>Longitudinal waves.</description></video>
-</exercises>
+</subsubsection>
 		
-			<exercises>
+			<subsubsection>
 <title>What Are Waves?</title>
-</exercises>
+</subsubsection>
 
 <p>Watch the short video below introducing waves and wave pulses.</p>
 		
-<video youtube="YBq2YvzK9MU"><description>Introducing waves.</description></video>
+<corollary xml:id="vid-waves">
+	<title>Waves</title>
+	<statement><p></p>
+		<video youtube="YBq2YvzK9MU"><description>Introducing waves.</description></video>
+	</statement>
+  </corollary>
 
   
 

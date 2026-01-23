@@ -3,7 +3,13 @@
 <section xml:id="sec_loudness" xmlns:xi="http://www.w3.org/2001/XInclude">
    <title>Loudness</title>
 	
-	   <video youtube="eDkmB-ROVkA"><description>Introducing loudness for sound waves.</description></video>
+	   <corollary xml:id="vid-loudness">
+	<title>Loudness</title>
+	<statement><p></p>
+		<video youtube="eDkmB-ROVkA"><description>Introducing loudness for sound waves.</description></video>
+	</statement>
+  </corollary>
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
    <p>Humans have a very wide range of hearing when measuring intensity in units of Watts per meter.
       For this reason, a logarithmic unit of measurement called sound intensity level is often used for 
@@ -24,23 +30,23 @@
 
 
 
-		<exercises>
+		<subsubsection>
 	<title>Activities</title>
-			<exercise>
-			<title>Explanation - Reference Intensity</title>
+			<investigation>
+			<title>Reference Intensity</title>
 			<p>
 				
 			</p>
 			  <p>How loud is a noise that has an intensity of <m>I = I_o</m>?</p>
-			</exercise>
-						<exercise>
-			<title>Calculation - Whisper Intensity</title>
+		</investigation>
+						<exploration>
+			<title>Whisper Intensity</title>
 			<p>
 				
 			</p>
-			  <p>What is the intensity of a whisper (about 30 dB)?  Include an explanation alongside your calculation.</p>
-			</exercise>
-		</exercises>
+			  <p>What is the intensity of a whisper with a loudness of about <m>30 \mathrm{~dB}</m>?  Include an explanation alongside your calculation.</p>
+		</exploration>
+		</subsubsection>
 
   
 

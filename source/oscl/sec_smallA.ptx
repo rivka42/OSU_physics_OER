@@ -50,19 +50,19 @@ We should always take time to think about and determine the error associated wit
  </p>
 --> 
 
- <exercises>
+ <subsubsection>
 		<title>Activities</title>
 		
 		
-		<exercise>
+		<activity>
 		<title>What is the error introduced?</title>
 		<statement>
 			<p>
 			</p>
 		<p> Determine the error introduced by the small-angle approximation for <m>\sin\theta</m> and <m> \cos\theta </m> when <m> \theta = 0.2, 0.4, 0.8 </m> radian. </p>
 		</statement>
-		</exercise>
-</exercises>
+		</activity>
+</subsubsection>
 
 	
 

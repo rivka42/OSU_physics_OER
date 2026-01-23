@@ -10,13 +10,13 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 
-	<subsection>
+	<subsubsection>
 	<title>A*R*C*S Practice</title>
 
 	<project xml:id="pa_rot-sun">
 		<title>The Merry-Go-Round I</title>
 		<statement><p></p>
-			<p>The Sun has mass <m>>2 \times 10^{30}  \mathrm{~kg}</m>, radius <m>7\times 10^{5} \mathrm{~km}</m>, and rotational period of approximately 28 days. If the Sun should collapse into a white dwarf of radius <m>3.5 \times 10^3 \mathrm{~km}</m>, what would its period be if no mass were ejected and a sphere of uniform density can model the Sun both before and after?</p>
+			<p>The Sun has mass <m>2 \times 10^{30}  \mathrm{~kg}</m>, radius <m>7\times 10^{5} \mathrm{~km}</m>, and rotational period of approximately 28 days. If the Sun should collapse into a white dwarf of radius <m>3.5 \times 10^3 \mathrm{~km}</m>, what would its period be if no mass were ejected and a sphere of uniform density can model the Sun both before and after?</p>
 		</statement>
 		<solution>
 			<p>
@@ -34,9 +34,9 @@
 		</statement>
 	</project>
 
-</subsection>
+</subsubsection>
 
-<subsection>
+<subsubsection>
 	<title>Explanation Practice</title>
 
 <investigation xml:id="pa_rot-12">
@@ -46,11 +46,11 @@
 		</statement>
 	</investigation>
 	
-</subsection>
+</subsubsection>
 
 
 	
-<subsection>
+<subsubsection>
 <title>Numerical Practice</title>
 
 	<exploration xml:id="psa_rot-alpha7">
@@ -119,7 +119,7 @@
 		</answer>
 	</exploration>
 
-	</subsection>
+	</subsubsection>
   
 <references>
 <biblio xml:id="ref_rotel">

@@ -7,12 +7,13 @@
 The next situation to which you will apply and adapt your physics model is <alert>oscillatory motion</alert>: any back-and-forth motion that regularly repeats in time. 
 </p>
 
-	<exercises>
-	<title>Warm-up Activity</title>
-	<exercise>
+	<activity>
+	<title>Warm-up</title>
+	<p>
+		
+	</p>
 	<p>Make a list of everyday examples of oscillatory motion you have experienced.  What commonalities do you notice between them?  How common do you think oscillatory motion is in the real world?</p>
-	</exercise>
-</exercises>
+	</activity>
 
  <figure xml:id="pendulum_gif">
  <title>Pendulum Figure</title>

@@ -13,29 +13,29 @@
 	</conjecture>
 
 
-<exercises>
+<activity>
 	<title>Activities - The Bicycle Wheel</title>
 	<p>A physics professor is sitting at rest on a stool that can rotate freely, holding a bicycle wheel that is spinning counterclockwise when viewed from above.  For each of the experiments described below, predict which direction, if either, you expect the professor to be rotating at the end of the experiment (when viewed from above).  Explain your thinking in each case.</p>
-			<exercise>
+			<task>
 <p>Experiment 1: the professor grabs the side of the bicycle wheel, bringing it to a stop.</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 <p>Experiment 2: the professor flips the bicycle wheel over one time, so it is now rotating clockwise when viewed from above.</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 <p>Experiment 3: the professor flips the bicycle wheel over once, then quickly flips it back, so it is still rotating counterclockwise when viewed from above.</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 <p>In which experiment do you think the professor will be moving fastest?</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			<statement>
 <p>If you have not done so already, sketch angular momentum vector diagrams for each experiment and use them to evaluate your answers.</p>
 </statement>
 <hint>
 <p>Your professor will demonstrate this experiment in class!</p>
 </hint>
-			</exercise>
-			</exercises>
+			</task>
+		</activity>
 	
 </section>

@@ -3,7 +3,13 @@
 <section xml:id="sec_angular-momentum" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Angular Momentum</title>
 		
-      <video youtube="Ehx6a5VssFo"><description>Defining angular momentum.</description></video>
+      <corollary xml:id="vid-angular-momentum">
+	<title>Angular Momentum</title>
+	<statement><p></p>
+		<video youtube="Ehx6a5VssFo"><description>Defining angular momentum.</description></video>
+	</statement>
+  </corollary>
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<p>There is one last translational quantity for which you can write an angular analogue: <em>momentum</em>.  This angular analogue is known as angular momentum.</p>
 	
@@ -26,14 +32,14 @@
 <p>One especially critical feature of angular momentum (along with many other angular quantities) for a point particle is that it depends on your choice of axis.  Interestingly, the angular momentum of a rotating rigid object does not depend on your choice of axis (because it is actually rotating around a fixed axis!).</p>
 
 
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
-			<exercise xml:id="x_summarize-L">
+			<activity xml:id="x_summarize-L">
 			<title>Summarize What You Learned - Angular Momentum</title>
 			<p></p>
 			  <p>Write a 1-2 sentence description of what the definitions of angular momentum say in words.  How can you tell which definition to use?</p>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>Sensemaking: Units</title>
 			<statement>
 				<p></p>
@@ -42,8 +48,8 @@
 				<answer>
 				<p>Js</p>
 				</answer>
-			</exercise>
-						<exercise>
+			</activity>
+						<activity>
 						<title>Explanation: Adding Momentum?</title>
 			<statement>
 				<p></p>
@@ -52,8 +58,8 @@
 				<hint>
 				<p>Try checking the units for each quantity!</p>
 				</hint>
-			</exercise>
-		</exercises>
+			</activity>
+		</subsubsection>
 
   
 

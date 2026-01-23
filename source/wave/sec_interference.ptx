@@ -15,7 +15,13 @@
 	
 	</p>
 	
-      <video youtube="8xHVotJfykk"><description>Introducing interference.</description></video>
+      <corollary xml:id="vid-interference">
+	<title>Interference</title>
+	<statement><p></p>
+		<video youtube="8xHVotJfykk"><description>Introducing interference.</description></video>
+	</statement>
+  </corollary>
+  <subsubsection><title>Key Ideas</title></subsubsection>
 			
 	<definition>
 	<title>Phase Difference</title>
@@ -26,32 +32,32 @@
 	</statement>
 </definition>
 	
-	<exercises>
-	<title>Activities</title>
+	<activity>
+	<title>Two Waves Activity</title>
 	<p>Consider the two waves written below: <me>y_1(x,t) = y_m \sin{(kx - \omega t)}</me> <me>y_2(x,t) = y_m \sin{(kx - \omega t + \pi/2)}</me></p>
-			<exercise>
+			<task>
 			  <p>Sketch a graph of each wave at <m>t = 0</m> showing at least two full wavelengths.</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			<statement>
 			  <p>From looking at the graphs, can you tell whether these waves have constructive interference, destructive interference, or neither?</p>
 				</statement>
-			</exercise>
-						<exercise>
+			</task>
+						<task>
 			<statement>
 			  <p>From looking at the equations, can you tell whether these waves have constructive interference, destructive interference, or neither?</p>
 				</statement>
-			</exercise>
-						<exercise>
+			</task>
+						<task>
 			<statement>
 			  <p>If you have not done so already, sketch a graph of the sum of the two waves at <m>t = 0 </m> showing at least two full wavelengths.</p>
 				</statement>
-			</exercise>
-		</exercises>
+			</task>
+		</activity>
 		
-		<exercises>
+		<subsubsection>
 		<title>Check Your Answers</title>
-		</exercises>
+		</subsubsection>
 		
 		<p>When two waves add together at the same location in space, the sum of the two waves causes interference.  The degree of interference can be quantified using the relative phase between the two waves.</p>
 		

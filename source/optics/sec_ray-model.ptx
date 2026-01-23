@@ -6,7 +6,13 @@
     <p><alert>Introductory Activity:</alert> Start by writing 2-4 things about the way that light travels that you are familiar with.</p>
     <p>Light is a critical aspect of everyday life, and its behavior in different circumstances is important to model and understand.  For most everyday contexts, you can assume that light travels in straight lines, which is known as the Ray Model of Light.</p>
 
-    <video youtube="PEZG46lWKhQ"><description>Introducing the ray model for light.</description></video>
+    <corollary xml:id="vid-ray-model">
+	<title>Ray Model</title>
+	<statement><p></p>
+		<video youtube="PEZG46lWKhQ"><description>Introducing the ray model for light.</description></video>
+	</statement>
+  </corollary>
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
 	<assumption xml:id="a_ray-model">
 	    <title>The Ray Model for Light</title>
@@ -18,15 +24,15 @@
 
     <p>You will be using the ray model for light to draw <term>Ray Diagrams</term>. These diagrams help us figure out from where light is coming and to where light is traveling. They can be very helpful when trying to figure out how light is interacting with a particular mechanism. These diagrams will come in handy as we discuss lenses and mirrors in the next few sections.</p>
 
-    <exercises>
+    <subsubsection>
         <title>Ray Diagram Activities</title>
-            <exercise xml:id="x_intro-ray-diagram">
+            <activity xml:id="x_intro-ray-diagram">
                 <title>Exploration: What can you see in the mirror?</title>
                 <p></p>
                 <p>Stand in front of a flat mirror (like in a bathroom) and look at your reflection. You should be able to see in the mirror parts of your body that are below the base of the mirror. Use the ray model of light to explain how this is possible.</p>
-            </exercise>
+            </activity>
 
-            <exercise xml:id="x_intro-pinhole-camera">
+            <activity xml:id="x_intro-pinhole-camera">
                 <title>Practice: Pinhole Camera</title>
                 <p></p>
                 <p><figure xml:id="pinhole_camera">
@@ -35,6 +41,6 @@
                         <image source="optics/pinhole_camera.jpg" width = "90%" ><description>A green arrow, labelled as "Object", sits to the right of two screens.The screen closest to the object has a small hole in the center. Two rays travel from the head and tail of the arrow, through the hole, and end on the screen on the far left.</description></image>
                 </figure></p>
                 <p>A pinhole camera, also called a camera obscura, is an optical phenomenon that occurs when light travels through a very small aperture. Using the figure above, where should you stand in order to see what is on the screen? What do you see on the screen? Find other examples of pinhole cameras online. What sort of observations can you make? Can you make a pinhole camera yourself?</p>
-            </exercise>
-    </exercises>
+            </activity>
+    </subsubsection>
 </section>

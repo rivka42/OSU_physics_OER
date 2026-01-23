@@ -4,7 +4,7 @@
   <title>Block on a Spring</title>
 	
 		<activity>
-	<title>Warm-up Activity: Spring Simulation</title>
+	<title>Warm-up</title>
 	<introduction>
 		<p>
 			
@@ -26,7 +26,13 @@
 </task>
 </activity>
 	
-	<video youtube="zQI_gprkg1M"><description>Introducing simple harmonic motion using the block on a spring.</description></video>
+	<corollary xml:id="vid-block-spring">
+	<title>Block on a Spring</title>
+	<statement><p></p>
+		<video youtube="zQI_gprkg1M"><description>Introducing simple harmonic motion using the block on a spring.</description></video>
+	</statement>
+  </corollary>
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
 	<definition xml:id="def-omega-spring">
 		<title>Block on a Spring Model</title>
@@ -105,9 +111,9 @@ Since the oscillation frequency depends solely on the physical characteristics o
 
 		
 
-		<exercises>
+		<subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
 		<title>Sense-making: Co-variational reasoning</title>
 		<statement>
 		<p>		
@@ -129,8 +135,8 @@ Since the oscillation frequency depends solely on the physical characteristics o
       </ol>
 </p>
 		</answer>
-		</exercise>
-				<exercise>
+		</activity>
+				<activity>
 		<title>Finding the Period of the Oscillation</title>
 		<statement>
 			<p>
@@ -144,18 +150,18 @@ Since the oscillation frequency depends solely on the physical characteristics o
 		<me> T = 2 \pi \sqrt{\frac{m}{k}}</me>
 		</p>
 		</answer>
-		</exercise>
+		</activity>
 		
 			
-				<exercise>
-		<title>PHeT Exercise: Exploring Vertical Oscillations</title>
+				<activity>
+		<title>Exploring Vertical Oscillations</title>
 		<statement>
 		<p>Consider a mass on a spring that hangs <em>vertically</em> instead of being oriented horizontally, such as you saw in the simulation. What are the frequency and period of the oscillation?
 		</p>
 		</statement>
-		</exercise>
+		</activity>
 
-		</exercises>
+		</subsubsection>
 
 <references>
 <biblio>

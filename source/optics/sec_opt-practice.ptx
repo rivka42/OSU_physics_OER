@@ -10,7 +10,7 @@
 	If you want a Calculate activity, use the <problem> tag.  (This tag is Example-like, not Project-like, so you cannot embed lettered steps into it using <task>.
 	-->
 
-<subsection>
+<subsubsection>
 	<title>Explanation Practice</title>
 
 <investigation xml:id="pa_opt-1">
@@ -30,9 +30,9 @@
 		</statement>
 	</investigation>
 	
-</subsection>
+</subsubsection>
 
-<subsection>
+<subsubsection>
 	<title>A*R*C*S Practice</title>
 
 <project xml:id="pa_opt-0">
@@ -43,9 +43,9 @@
 		</statement>
 	</project>
 
-</subsection>
+</subsubsection>
 
-<subsection>
+<subsubsection>
 <title>Numerical practice</title>
     
 	<exploration xml:id="psa_opt-alpha4">
@@ -153,7 +153,7 @@
 		</answer>
 	</exploration>
 
-</subsection>
+</subsubsection>
 
 
 

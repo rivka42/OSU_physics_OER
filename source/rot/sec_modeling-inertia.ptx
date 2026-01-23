@@ -3,7 +3,13 @@
 <section xml:id="sec_modeling-inertia" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Chop-Multiply-Add: Calculating Moment of Inertia</title>
 		
-      <video youtube="ersSAN7aFfw"><description>An example of calculating moment of inertia using integrals.</description></video>
+      <corollary xml:id="vid-calc-moment">
+	<title>Calculating Moment of Inertia</title>
+	<statement><p></p>
+		<video youtube="ersSAN7aFfw"><description>An example of calculating moment of inertia using integrals.</description></video>
+	</statement>
+  </corollary>
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
 	  <definition>
 	<title>Moment of Inertia for Continuous Objects</title>
@@ -30,15 +36,15 @@
 	<p>Physicists commonly use different letters for density depending on whether it is a one-dimensional (linear), two-dimensional (surface), or three-dimensional (volume) density.  The letters typically chosen are, respectively, <m>\lambda</m> (for linear), <m>\sigma</m> (for surface), and <m>\rho</m>.  One reason for this difference is that the different densities have different units, so this makes it easier to check your units at the end!</p>
 	</note>
 
-	<exercises>
+	<subsubsection>
 <title>Activities</title>
-			<exercise>
+			<activity>
 			<title>Calculate - Baton</title>
 			<p></p>
 			  <p>In the previous section, you looked up the moment of inertia for a baton spinning about one of its ends.  Use the Chop-Multiply-Add strategy to calculate this moment of inertia for yourself, given the mass <m>M</m> and length <m>L</m> of the baton.  For simplicity, assume the baton is one dimensional and the mass is uniformly distributed with <m>\lambda = M/L</m>.</p>
-			</exercise>
+			</activity>
 			
-		</exercises>
+		</subsubsection>
 
   
 

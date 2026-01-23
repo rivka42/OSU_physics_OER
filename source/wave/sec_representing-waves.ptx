@@ -16,9 +16,9 @@
 </figure>	
 
 
-<exercises>
+<subsubsection>
 <title>History Graphs</title>
-</exercises>
+</subsubsection>
 
 <p>When modeling the motion of point particles, you primarily used a <xref ref="rep_motion-graphs" text="title" /> to show, for example, the position of an object across many different instants in time.  This sort of graph can still be used to show the motion of <em>one position</em> in a medium over time.  This is known as a <alert>history graph</alert>.</p>
 
@@ -48,9 +48,9 @@ When you have a history graph, a quantity of note is the <alert>period</alert> <
 Another quantity of note is the amplitude: the maximum displacement away from equilibrium of a particle in the medium. 
 </p> 
 
-<exercises>
+<subsubsection>
 <title>Snapshot Graphs</title>
-</exercises>
+</subsubsection>
 
 <p>
 Alternatively, you can graph the displacement of the medium over space at a single instant in time, creating a <alert>snapshot graph</alert>. 
@@ -95,16 +95,16 @@ The wavenumber represents the spatial frequency of a wave over a unit distance.
 </p>
 </observation>
 
-<exercises>
+<subsubsection>
 <title>Activities</title>
-<exercise>
+<activity>
 <title>Exploring Wavenumber</title>
 <p>
 	
 </p>
 <p>A friend tells you about a wave with wavenumber <m>k = \frac{4\pi}{7} \mathrm{~\frac{rad}{m}}</m>.  What is the wavelength of this wave?  What would the wavenumber be for a different wave with double the wavelength?</p>
-</exercise>
-		</exercises>
+</activity>
+		</subsubsection>
 		
 		
 <references>

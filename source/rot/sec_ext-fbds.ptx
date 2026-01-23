@@ -3,18 +3,23 @@
 <section xml:id="sec_extended-fbds" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Extended Free-body Diagrams</title>
 	
-			<exercises>
-	<title>Warm-up Activities</title>
-			<exercise>
+			<activity>
+	<title>Warm-up</title>
+			<task>
 			  <p>Find an area with some space in all directions and stand on one foot.  Describe the normal force that you are experiencing.  Be precise.</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			  <p>Slowly tilt your upper body forward (not so far that you fall over).  Describe how the normal force you experience changes.  Why do you think this happens?</p>
-			</exercise>
-		</exercises>
+			</task>
+		</activity>
 		
-      <video youtube="WNeSIj9tWN4"><description>Introducing extended free-body diagrams.</description></video>
-	
+      <corollary xml:id="vid-extended-fbds">
+	<title>Extended Free-body Diagrams</title>
+	<statement><p></p>
+		<video youtube="WNeSIj9tWN4"><description>Introducing extended free-body diagrams.</description></video>
+	</statement>
+  </corollary>
+	<subsubsection><title>Key Ideas</title></subsubsection>
 	<p>When you are considering the motion of rigid bodies, you will still be concerned with the forces acting on an object, as these forces still impact the translational motion of the object.  You now also need to know <em>where</em> each force acts on the object, as this extra information is needed to understand how the forces impact the rotational motion of the object.</p>
 	
 	<note>
@@ -32,14 +37,14 @@
 			</statement>
 		</conjecture>
 
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
-			<exercise>
+			<activity>
 			<title>Representation Practice</title>
 			<p></p>			
 			<p>Sketch an extended free-body diagram for yourself in the two warm-up activities.  Describe how the diagrams are different.</p>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>The Catapult</title>
 			<p></p>
 			<p>A catapult consists of a long, straight arm mounted on a pivot point, as shown in the figure below, with a round rock on the left and a square block on the right.  Neglecting the mass of the arm, predict which of the following must be true for the catapult to launch the rock?  Explain your reasoning.</p>
@@ -49,13 +54,13 @@
 			<li><p><m>m_2 &lt; m_1</m></p></li>
 			<li><p>None of these</p></li>
 			</ol>
-			</exercise>
+			</activity>
 			<figure xml:id="rot_catapult">
 			<title>Catapult Figure</title>
 		<image source="Catapult1.png" width = "75%">
 			<description>A round rock with mass m1 on the left edge and a square block with mass m2 on the right edge of a long, straight arm, balanced on a pivot point that is a small distance r2 from the right edge and a bigger distance r1 from the left edge.</description></image>
   </figure>
-					<exercise>
+					<activity>
 					<title>Sensemaking Practice</title>
 					<statement><p></p>
 			<p>What do you expect the physical behavior of the catapult should be?  Answer in terms of the quantities for angular motion you have learned about.</p>
@@ -63,13 +68,13 @@
 			<answer>
 			<p>If you want the catapult to launch the rock, then the catapult needs to have a clockwise angular acceleration!</p>
 			</answer>
-			</exercise>
-				<exercise>
+			</activity>
+				<activity>
 				<title>Representation Practice</title>
 				<p></p>				
 			<p>Sketch an extended free-body diagram for the catapult (continue to neglect the mass of the arm).  How did you decide where to draw each force?</p>
-			</exercise>
-		</exercises>
+			</activity>
+		</subsubsection>
 
   
 

@@ -3,7 +3,7 @@
 <section xml:id="sec_moment-of-inertia" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Moment of Inertia</title>
 		
-			<exercises>
+			<activity>
 	<title>Warm-up Activities</title>
 	<p>The picture below shows two weights that have the same mass but that have that mass distributed differently.  The upper weight has most of its mass near the center.  The lower weight has most of its mass near the edges.</p>
 	<figure xml:id="rot_weights">
@@ -11,19 +11,19 @@
 		<image source="dog-weights.jpg" width = "75%">
 			<description>A golden retriever and two barbells, one with weights at the far ends and one with weights about halfway from the middle.</description></image>
   </figure>
-			<exercise>
+			<task>
 				<statement>
 			<p>Which weight, if either, do you think would be easier to twirl about its center. Explain why you think so.</p>
 				</statement>
 				<solution>
 						<video youtube="4aqlc_ygJPI"><description>An example of moment of inertia.</description></video>
 				</solution>
-			</exercise>
+			</task>
 			
-			<exercise>
+			<task>
 			<p>Give a brief description of a situation you have experienced personally where you have noticed something being easier or harder to start or stop rotating than you expected.</p>
-			</exercise>
-		</exercises>
+			</task>
+		</activity>
 		      	
 	<p>Recall the definition of <xref ref="def_mass" text="title"></xref> as the capacity of an object to resist changes to its motion.  The rotational analogue<mdash/>the capacity of an object to resist changes to its <em>angular</em> motion<mdash/>is known as the moment of inertia.</p>
 	
@@ -34,12 +34,13 @@
 	</statement>
 </definition>
 
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
-			<exercise>
+			<activity>
 				<title>Bicycle Inertia</title>
 				
 				<statement>
+					<p></p>
 			<p>You are riding a <m>150 \mathrm{~kg}</m> bicycle at constant speed along a circular track of radius <m>25 \mathrm{~m}</m>.  What is the moment of inertia of the bicycle about the center of the track?  What assumptions do you need to make in order to use the equation above?</p>
 				</statement>
 				<solution>
@@ -47,11 +48,12 @@
 						Since the radius of the track is much bigger than the size of the bicycle, you can probably treat the bicycle as a single point mass!
 					</p>
 				</solution>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 				<title>Weights Inertia</title>
 				
 				<statement>
+					<p></p>
 			<p>Suppose you want to find the moment of inertia of the lower weight from the Warm-up Activities.  What information would you need to know?  What assumptions would you want to make?  What equations would you decide to use?</p>
 				</statement>
 				<solution>
@@ -59,8 +61,9 @@
 						There are a couple ways you could do this. You could directly calculate the moment of inertia, if you knew something about what weights were on the barbell and where they were located. Then you could use <me>\Sigma_i m_i r_i^2 = m_1 r_1^2 + m_2 r_2^2</me>
 						</p>
 				</solution>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
+				<p></p>
 			<p>It is extremely common to use a reference to find the moments of inertia for common objects.  Use <url href="https://en.wikipedia.org/wiki/List_of_moments_of_inertia" visual="this table"/> to determine the moment of inertia for each of the following:</p>
 			<p>
 			<ul>
@@ -69,8 +72,8 @@
 			<li>A baton spinning about its end</li>
 			</ul>
 			</p>
-			</exercise>
-		</exercises>
+			</activity>
+		</subsubsection>
 
     <references>
 <biblio xml:id="ref_moments">

@@ -14,7 +14,7 @@
         <image source="Bubble.png" width = "50%" ><description></description></image>
     </figure>
 
-    <subsection xml:id="subsec-">
+    <subsubsection xml:id="subsec-">
         <title>Example: Oil on Water</title>
         
 <!--
@@ -65,33 +65,33 @@
         The transmitted pulse does not invert in either case.</p>
     </observation>
 
-    </subsection>
+    </subsubsection>
 
-    <exercises>
+    <subsubsection>
         <title>Activities</title>
-            <exercise>
+            <activity>
                 <title>Path Length Difference</title>
                 <statement><p></p><p>Assume the thickness of the thin film is <m>t</m> and the incident ray is nearly normal to the surface. Determine the path length difference, <m>\Delta D</m>, the extra distance traveled by ray (5) compared to ray (2).</p></statement>
                 <solution>
                     <p>At near normal incidence the <m>\Delta D</m> is equal to twice the thickness <m>t</m> of the film, <m>\Delta D = 2t</m>, because ray (5) travels first down then back up.</p>
                 </solution>
-            </exercise>
-            <exercise>
+            </activity>
+            <activity>
                 <title>Oil on Water</title>
                 <statement><p></p><p>Suppose you have the air <m>\rightarrow</m> oil <m>\rightarrow</m> water system described above. The index of refraction for oil is <m>n_{\text{oil}} = 1.44</m> and the index of refraction for water is <m>n_{\text{water}} = 1.33</m>. For each of the two reflections, identify whether or not there is a phase shift.</p></statement>
                 <solution>
                     <p>Oil has a higher index of refraction than air, so ray (2) has a <m>\pi</m> phase shift. When ray (3) reflects off the bottom surface, it is in oil and bouncing off water. Since <m>n_{\text{water}}</m> is smaller than <m>n_{\text{oil}}</m> there is no phase shift in reflected ray (4) or in (5) since it is transmitted.</p>
                 </solution>
-            </exercise>
+            </activity>
 
             <!--
-            <exercise xml:id="x_thin-film-1">
+            <activity xml:id="x_thin-film-1">
                 <title>Minimum Thickness</title>
                 <statement><p>Find the minimum thickness (in nm) of a soap bubble that appears red when illuminated by white light (incident perpendicular to its surface). Assume the red wavelength is 680 nm, and assume the soap bubble film has the same index of refraction as water.</p></statement>
             <answer>128 nm</answer>
-            </exercise>-->
+            </activity>-->
             
-    </exercises>
+    </subsubsection>
     <references>
         <biblio xml:id="ref_boxsand">
             <p>Content provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>

@@ -3,9 +3,9 @@
 <section xml:id="sec_rot-work" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Rotational Work</title>
 	
-	<p>Since there is kinetic energy associated with rotation, it stands to reason that energy can be transferred into or out of a system via a rotational interaction.  In fact, you can create an angular analogue for <xref ref="def_work-calc" text="title"></xref></p>
+	<p>Since there is kinetic energy associated with rotation, it stands to reason that energy can be transferred into or out of a system via a rotational interaction.  In fact, you can create an angular analogue for <xref ref="def_work-calc" text="title"></xref>:</p>
 	
-	<definition xml:id="def_rot-work"> 
+	<definition xml:id="def_rot-work">
 	<title>Rotational Work</title>
 	<statement><p></p>
 	<p>The <term>work</term> done by a torque <m>\vec{\tau}</m> on an object rotating through <m>\vec{d\theta}</m> is: <me>W = \int_{\theta_i}^{\theta_f} {\vec{\tau} \cdot \vec{d\theta}}</me> </p>
@@ -18,14 +18,14 @@
 Importantly, this work is <em>in addition to</em> any work done by the forces acting on the system.
 </p>
 
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
-			<exercise>
+			<activity>
 			<title>Calculation: Unwinding a Spool</title>
 			<p></p>
 			<p>Suppose you unwind a string that has been wrapped around a spool of radius <m>R</m> three times, causing the spool to gain a known amount of rotational kinetic energy <m>K_{rot}</m>.  Find the magnitude of the force you exerted on the string.</p>
-			</exercise>
-		</exercises>
+			</activity>
+		</subsubsection>
 
 	
 </section>

@@ -15,23 +15,23 @@
 <p>Even though this expression looks very similar to the impulse-momentum theorem, it is entirely separate!  This suggests that angular momentum can be conserved (or not conserved) independent of whether translational momentum is conserved (or not).  Additionally, translational momentum can never be converted into angular momentum (though the same thing is not true for translational and angular kinetic energy).</p>
 
 
-	<exercises>
+	<activity>
 	<title>Activities</title>
-			<exercise>
+			<task>
 			<statement>
 			<p>What is the condition that must be met for the angular momentum of a system to be conserved?</p>
 			</statement>
 			<answer>
 			<p>If angular momentum is conserved then <m>\Delta \vec{L} = 0</m>; this can only be true if <m>\vec{\tau}_{net} = 0</m> as well.</p>
 			</answer>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			<p>Visit <url href="https://www.youtube.com/watch?v=vWVZ6APXM4w" visual="this link"/> and watch the video.  Be sure to make and record your prediction and watch the following videos to see what happens!</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			<p>Once you have watched the videos, write a brief (1-2 sentence) summary of what you learned from them.</p>
-			</exercise>
-		</exercises>
+			</task>
+		</activity>
 
     <references>
 <biblio xml:id="ref_veritasium-bullet">

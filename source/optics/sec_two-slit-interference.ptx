@@ -8,13 +8,14 @@
         <p>Write down some observations. What happens when you move the slit width to its minimum and maximum values? What happens as you increase the slit separation? What happens when you increase and decrease the frequency?</p>
     </introduction>
 
-    <subsection>
-        <title>Video Lesson: Two-slit Interference</title>
-        <video youtube="C0bcn8GAWs4"><description>Quantifying the interference of light incident on two small slits.</description></video> 
-
-    </subsection>
+        <corollary xml:id="vid-2si">
+	<title>Two-slit Interference</title>
+	<statement><p></p>
+		<video youtube="C0bcn8GAWs4"><description>Quantifying the interference of light incident on two small slits.</description></video>
+	</statement>
+  </corollary> 
              
-    <subsection>
+    <subsubsection>
         <title>Deriving the Interference Pattern</title>
     <p>
         A powerful wave property allows complicated light waves to be treated as superpositions of simpler light waves.  In particular, any wave front of light can be treated as a collection of point sources of spherical waves, an idea known as Huygen's Principle.
@@ -93,11 +94,11 @@
 
     
 
-        </subsection>
+        </subsubsection>
 
-    <exercises>
+    <subsubsection>
         <title>Activities</title>
-            <exercise>
+            <activity>
                 <title>Constructive Interference</title>
                 <statement>
                 <p>
@@ -115,8 +116,8 @@
                     
                 </p>
             </answer>
-            </exercise>
-            <exercise>
+            </activity>
+            <activity>
                 <title>Destructive Interference</title>
                 <statement>
                 <p>
@@ -134,8 +135,8 @@
                     
                 </p>
             </answer>
-            </exercise>
-						<exercise>
+            </activity>
+						<activity>
 						<title>The Small Angle Approximation</title>
                         <statement>
                         <p></p>
@@ -153,11 +154,11 @@
                                 
                             </p>
                         </answer>
-						</exercise>
-            <exercise>
+						</activity>
+            <activity>
                 <title>Measure the Wavelength</title>
                 <p></p>
                 <p>You are conducting the double slit experiment and you have a light source with an unknown wavelength. The slits are separated by a distance of <m>0.5 \mathrm{~mm}</m> and your screen is <m>3.4 \mathrm{~m}</m>. You measure the third bright fringe to be at a position of <m>4.7 \mathrm{~mm}</m> to the right of the center line on the screen. What is the wavelength of light? </p>
-            </exercise>
-    </exercises>
+            </activity>
+    </subsubsection>
 </section>

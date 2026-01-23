@@ -10,7 +10,7 @@
 	If you want a Calculate activity, use the <exploration> tag. 
 	-->
 
-<subsection>
+<subsubsection>
 	<title>Explanation Practice</title>
 
 <investigation xml:id="pa_oscl-02">
@@ -23,9 +23,9 @@
 		</statement>
 	</investigation>
 	
-</subsection>
+</subsubsection>
 
-<subsection>
+<subsubsection>
 	<title>A*R*C*S Practice</title>
 
 <project xml:id="pa_oscl-01">
@@ -41,9 +41,9 @@
 		</hint>
 	</project>
 
-</subsection>
+</subsubsection>
 
-<subsection> 
+<subsubsection> 
 <title>Numerical practice</title>
     <exploration xml:id="psa_oscl-alpha1">
         <title>Two Springs and a Mass</title>
@@ -200,7 +200,7 @@
 		</answer>
 	</exploration>
 
-</subsection>
+</subsubsection>
 
 
 <references>

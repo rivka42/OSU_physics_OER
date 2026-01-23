@@ -3,7 +3,7 @@
 <section xml:id="sec_precession" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Application: Precession</title>
 	
-		<exercises>
+		<subsubsection>
 	<title>Review Activity</title>
 	<p>Suppose you have an object moving in a straight line to the right with velocity <m>\vec{v}</m>.</p>
 	<exercise>
@@ -17,11 +17,16 @@
 	<exercise>
 	<p>For each situation above, indicate the direction of the net force on the object.  Explain your reasoning.</p>
 	</exercise>
-		</exercises>
+		</subsubsection>
 		
-      <video youtube="0E8YGm-jm-U"><description>Reviewing circular motion.</description></video>
+      <corollary xml:id="vid-reviewing-circular">
+	<title>Reviewing Circular Motion</title>
+	<statement><p></p>
+		<video youtube="0E8YGm-jm-U"><description>Reviewing circular motion.</description></video>
+	</statement>
+  </corollary>
 			
-					<exercises>
+					<subsubsection>
 	<title>Changing the Direction of the Angular Velocity</title>
 	<p>As introduced in the video above, suppose you have an object rotating clockwise with angular velocity <m>\vec{\omega}</m>.</p>
 		<exercise>
@@ -43,9 +48,16 @@
 	<exercise>
 	<p>For each situation above, indicate the direction of the net torque on the object.  Explain your reasoning.</p>
 	</exercise>
-		</exercises>
+		</subsubsection>
 		
-		      <video youtube="FrsVevd38VQ"><description>Introducing precession.</description></video>
+		      <corollary xml:id="vid-precession">
+	<title>Precession</title>
+	<statement><p></p>
+		<video youtube="FrsVevd38VQ"><description>Introducing precession.</description></video>
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<p>Precession refers to a type of motion in which a torque on a rotating object causes the <em>direction</em> of the axis of rotation to change, rather than causing the object's rotation to speed up or slow down.</p>
 

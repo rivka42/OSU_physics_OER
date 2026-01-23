@@ -56,9 +56,9 @@ For mechanical waves, <alert> wave speed is a property of the medium's elasticit
 </observation>   
 
 
-<exercises>
+<subsubsection>
 <title>Activities</title>
-	<exercise xml:id="x_trig-waves">
+	<activity xml:id="x_trig-waves">
 	<title>Graphing Phase</title>
 	<p>
 		
@@ -72,15 +72,15 @@ For mechanical waves, <alert> wave speed is a property of the medium's elasticit
 				<li><m>\sin{(2\pi\frac{x}{\lambda} - \frac{\pi}{3})}</m></li>
 				</ul>
 				</p>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>Exploring Phase</title>
 			<p>
 				
 			</p>
 			<p>Based on your graphs, what is the mathematical role of the phase in an oscillation or wave equation?  What do you think the physical role of the phase is?</p>
-			</exercise>
-		</exercises>
+			</activity>
+		</subsubsection>
 		
 		<!--
 <references>

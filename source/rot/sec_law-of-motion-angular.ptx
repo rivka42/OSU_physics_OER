@@ -7,7 +7,14 @@
 	The video below uses the example in the <xref ref="rot_catapult"></xref> to introduce a new law of motion.
 </p>
 
-      <video youtube="rLFcG0CLUxs">      <description>An introduction to the rotational law of motion.</description></video>
+      <corollary xml:id="vid-N2LR">
+	<title>The Rotational Law of Motion</title>
+	<statement><p></p>
+		<video youtube="rLFcG0CLUxs">      <description>An introduction to the rotational law of motion.</description></video>
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
     
 		<p>Since a rigid object undergoes both translational and rotational motion, it is important to be able to relate the various forces acting on an object to each kind of motion.  This is done by creating an angular analogue of <xref ref="law_N2L" text="title"></xref>.</p>
 
@@ -28,7 +35,7 @@
 	</definition>
 
 
-	<exercises>
+	<subsubsection>
 	<title>The Catapult</title>
 			<p>Recall the <xref ref="rot_catapult"></xref>, for which you previously drew an extended free-body diagram and found the torque exerted by each force.</p>
 		<activity>
@@ -36,10 +43,15 @@
 			<p>Use your previous answers along with the Rotational Law of Motion to determine the relationship between <m>m_1</m> and <m>m_2</m> that will allow the catapult to launch the rock.</p>
 			</statement>
 			<solution>
-      <video youtube="ydVOtjiHm4w">      <description>Solution to the Catapult activity.</description></video>			
+      <identity xml:id="vid-catapult-solution">
+	<title>Catapult Solution</title>
+	<statement><p></p>
+		<video youtube="ydVOtjiHm4w">      <description>Solution to the Catapult activity.</description></video>
+	</statement>
+</identity>			
 			</solution>
 			</activity>
-		</exercises>
+		</subsubsection>
 
 	
 </section>

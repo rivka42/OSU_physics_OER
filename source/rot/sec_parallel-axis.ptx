@@ -14,12 +14,13 @@
 
 
 
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
-			<exercise>
+			<activity>
+				<p></p>
 		<p>Suppose you roll a ball around your arm, so that instead of rotating about its center of mass it is rotating about an axis in the center of your arm.  Do you expect the moment of inertia for the ball to be greater than, less than, or equal to the moment of inertia about the ball's own center of mass?</p>
-			</exercise>
-		</exercises>
+			</activity>
+		</subsubsection>
 
   
 

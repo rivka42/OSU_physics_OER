@@ -3,18 +3,24 @@
 <section xml:id="sec_intensity" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Wave Intensity</title>
 	
-    <exercises>
+    <subsubsection>
       <title>Warm-up Activity</title>
-        <exercise>
+        <activity>
           <title>Exploring Loudness</title>
           <p>
             
           </p>
           <p>You hear a loud noise.  Which wave property or properties (frequency, wavelength, wave speed, amplitude, wave number, phase, etc.) do you think is related to how loud it is?</p>
-        </exercise>
-    </exercises>
+        </activity>
+    </subsubsection>
 		
+		<corollary xml:id="vid-intensity">
+	<title>Intensity</title>
+	<statement><p></p>
 		<video youtube="NsxLt_4tFIU"><description>Introducing intensity for waves</description></video>
+	</statement>
+  </corollary>
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 <p>Consider a transverse wave on a horizontal string. Any point along the string moves up and down as a wave passes through it. The average speed of a point on the string is related to the amplitude of the wave and also to how quickly the motion changes from up to down – thus the frequency.</p>
 
@@ -55,15 +61,15 @@ You can visualize this by considering the energy passing through a small area of
 </observation>
 
 
-<exercises>
+<subsubsection>
   <title>Activities</title>
-   <exercise>
+   <activity>
     <title>Explanation - Distance and Intensity</title>
     <p>
     </p>
     <p>Your friend is a distance <m>d</m> from a point source of sound and measures the intensity of the sound wave to be <m>I</m>.  How far away from the source of the wave do you need to be to measure the intensity to be <m>\frac{I}{2}</m>?</p>
-   </exercise>
-</exercises>
+   </activity>
+</subsubsection>
 
 <references>
 <biblio>

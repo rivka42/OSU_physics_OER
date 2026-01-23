@@ -3,7 +3,13 @@
 <section xml:id="sec_plane-mirrors" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Plane Mirrors</title>
     <p>The ray model for light can be used to understand how <term>images</term> are created in plane mirrors.</p>
-    <video youtube="UMvR165aw5E"><description>How images are produced by plane mirrors.</description></video>
+    <corollary xml:id="vid-plane-mirrors">
+	<title>Plane Mirrors</title>
+	<statement><p></p>
+		<video youtube="UMvR165aw5E"><description>How images are produced by plane mirrors.</description></video>
+	</statement>
+  </corollary>
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
     <p>Images are produced by intersecting light rays and can be seen all over the natural world.</p>
 
@@ -31,7 +37,7 @@
         </statement>
     </definition>
 
-    <exercises>
+    <subsubsection>
         <title>Plane Mirror Activities</title>
             <exercise xml:id="x_plane-mirror">
                 <title>Plane Mirror Simulation</title>
@@ -45,6 +51,7 @@
                 <p>Watch this video about a supposed <q>mirror illusion</q>.</p>
 
                 <video youtube="gNgSlGn59xA"><description>Mirror Illusion</description></video>
+
                 <p>Answer the following questions:</p>
                 <ol>
                     <li>What is the illusion here?</li>
@@ -52,7 +59,7 @@
                     <li>How would you explain this to someone that doesn't know anything about the ray model for light and reflections?</li>
                 </ol>
             </exercise>
-    </exercises>
+    </subsubsection>
     <references>
         <biblio xml:id="ref_mirror_yt">
             <p>"HOW does the MIRROR know this? 😳😨 #Shorts." <em>YouTube</em>, uploaded by Cam Casey, 7 April 2023, https://www.youtube.com/watch?v=gNgSlGn59xA&amp;ab_channel=CamCasey</p>

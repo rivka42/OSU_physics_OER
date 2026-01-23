@@ -4,7 +4,13 @@
     <title>Single-Slit Diffraction</title>
     <p>Single-slit diffraction is an interesting case where we still see interference of light, even when there is only one single slit, because of the assumptions made in <xref ref="prin_Huygen"/>.</p>
   
-    <video youtube="vRNNsP33yVI"><description>Quantifying the diffraction of light incident on one slit.</description></video>
+    <corollary xml:id="vid-diffraction">
+	<title>Single-slit Diffraction</title>
+	<statement><p></p>
+		<video youtube="vRNNsP33yVI"><description>Quantifying the diffraction of light incident on one slit.</description></video>
+	</statement>
+  </corollary>
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
     <principle>
         <title>Single-Slit Diffraction</title>
@@ -20,30 +26,30 @@
         <image source="optics/single_slit.jpg" width = "75%"><description>A single-slit sits on the left side of the diagram, a distance L away from a screen. On the screen, an intensity pattern is shown. A dashed line extends from the center of the slit to the screen, indicating the middle of the slit and the screen. A solid line extends from the center of the slit to the screen at an angle theta sub p and hits the screen at a distance y sub p from the center. Another solid line with arrow heads on both side extends from the slit to the screen and is labelled as "L >> a".</description></image>
     </figure>
 
-    <exercises>
+    <subsubsection>
         <title>Single-Slit Diffraction Activities</title>
-				<exercise>
+				<activity>
                     <title>Comparing Interference and Diffraction</title>
                     <p>
                         
                     </p>
                     
 				<p>What differences do you notice between the single-slit diffraction pattern on the screen and the double-slit interference patterns you have seen previously?</p>
-				</exercise>
-        <exercise xml:id="x_single-slit-diffraction">
+				</activity>
+        <activity xml:id="x_single-slit-diffraction">
             <title>Single-Slit Diffraction Simulation</title>
             <p>
                 
             </p>
             <p>Play with the <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html" visual="light interference simulation"/> for a few minutes. Click on the <q>Diffraction</q> tab.</p>
             <p>Write down some observations. Play with different opening shapes. For the square shape, what happens when you change the width? What happens to the image as you change the frequency of the light?</p>
-        </exercise>
-        <exercise>
+        </activity>
+        <activity>
             <title>Width of a Diffraction Pattern</title>
             <p>
                 
             </p>
             <p>The width of the central bright maxima in a single-slit diffraction pattern can be measured by looking at the distance to the first dark spot. What happens to the width as the distance between the slit and the screen increases? What happens to the width as the wavelength decreases? What happens as the slit size decreases?</p>
-        </exercise>
-    </exercises>
+        </activity>
+    </subsubsection>
 </section>

@@ -5,17 +5,17 @@
 	
 
 
-     
+     <!--
 	<p>The warm-up activity below will help you explore how to calculate center of mass for a continuous object.</p>
-	
+	-->
 	
 
-	<exercises>
-	<title>Warm-up Activity: The Meter Stick</title>
+	<activity>
+	<title>Warm-up: The Meter Stick</title>
 			
 			<p></p>
 		<p> You want to find the center of mass for a meter stick that has a total mass of <m>0.15 \mathrm{~kg}</m>.</p>
-		<exercise>
+		<task>
 			<title>Orient</title>
 			<statement>
 			<p></p>
@@ -28,8 +28,8 @@
 					This integral gives the length of the board, because you are integrating over <m>x</m>. The result of this integral is <m>1 \mathrm{~m}</m>. The board is located with one end at the origin, and the other end at <m>x = 1 \mathrm{~m}</m>. 
 				</p>
 			</solution>
-			</exercise>
-					<exercise>
+			</task>
+					<task>
 						<title>Chop</title>
 						<statement>
 						<p></p>
@@ -44,8 +44,8 @@
 			</image>
 		</figure>
 						</solution>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 				<title>Multiply</title>
 				<statement>
 				<p></p>
@@ -56,8 +56,8 @@
 						 The linear mass density can be written as <m>\lambda=\frac{dm}{dx}</m>.  For a uniform mass density, this reduces to <m>\lambda = M_{total} / L_{total}</m>.  The density only reduces to the total mass over the total length when the density is uniform. So the linear mass density is: <me>\lambda = \frac{M_{total}}{L_{total}} = \frac{0.15 \mathrm{~kg}}{1 \mathrm{~m}} = 0.15 \mathrm{~kg/m}</me>
 					</p>
 				</solution>
-			</exercise>
-					<exercise>
+			</task>
+					<task>
 						<title>Add</title>
 						<statement>
 						<p></p>
@@ -78,14 +78,20 @@
 								
 							</p>
 						</solution>
-			</exercise>
-		</exercises>
+			</task>
+		</activity>
 
 		<p>
 			Watch the video below, which extends the Chop-Multiply-Add strategy above to determine a procedure for finding the center of mass for the meter stick.
 		</p>
 
+		<corollary xml:id="vid-center-of-mass2">
+	<title>Center of Mass (Continuous)</title>
+	<statement><p></p>
 		<video youtube="PO310wQThaM"><description>Defining center of mass for continuous objects.</description></video>
+	</statement>
+  </corollary>
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
 		  <definition xml:id="def_center-of-mass2">
 	<title>Center of Mass for a Continuous Object</title>

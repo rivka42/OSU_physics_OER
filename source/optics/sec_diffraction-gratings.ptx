@@ -5,7 +5,13 @@
     <p>Diffraction gratings are an optical tool that are made up of many many slits side-by-side, sometimes thousands of slits per millimeter, and allow for the diffraction of light. Diffraction gratings work through multiple-slit interference.</p>
     <p>Diffraction gratings are an optical tool that are made up of many many slits side-by-side, sometimes thousands of slits per millimeter, and allow for the diffraction of light. Diffraction gratings work through multiple-slit interference.</p>
   
-    <video youtube="ZHNdxpCehXA"><description>A video on diffraction gratings.</description></video>
+    <corollary xml:id="vid-diffraction-gratings">
+	<title>Diffraction Gratings</title>
+	<statement><p></p>
+		<video youtube="ZHNdxpCehXA"><description>A video on diffraction gratings.</description></video>
+	</statement>
+  </corollary>
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
     <p>When white light travels through a diffraction grating, an interference pattern will show up on the screen. As we have learned, the location of bright and dark spots on the screen depends on the wavelength of the light. So when multiple wavelengths travel through a diffraction grating together, the wavelengths are split up and multiple sets of bands of color can be seen on the screen. When the wavelength is large, the angular displacement on the screen will be larger, as compared to shorter wavelengths.</p>
 
@@ -15,7 +21,7 @@
         <image source="optics/diffraction_grating.jpg" width = "75%"><description>A diffraction grating sits on the left and a screen with a diffraction pattern sits on the right. The bright spots are labelled out to m = 2 above and below the central bright spot. Two lines extend from the diffraction grating to the screen: one at an angle theta 1 to the m = 1 bright spot on top, and the other at an angle theta 2 to the m = 2 bright spot on bottom. A line with arrow heads on both sides extends from the diffraction grating to the screen with the label "L >> d".</description></image>
     </figure>
 
-    <exercises>
+    <subsubsection>
         <title>Diffraction Grating Activities</title>
         <p>Use what you know about multiple slit interference and what you've learned about diffraction gratings to answer the following questions.</p>
         <ol>
@@ -40,5 +46,5 @@
                 </p>
             </li>
         </ol>
-    </exercises>
+    </subsubsection>
 </section>

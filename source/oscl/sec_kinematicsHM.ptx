@@ -8,9 +8,9 @@
 
 
     
-    <exercises>
+    <subsubsection>
 		<title>Activities</title>
-		<exercise>
+		<activity>
 			<title>Exploring Velocity</title>
 			<task>
 				<statement>
@@ -52,9 +52,9 @@ As the object passes through the equilibrium position located at <m> \vec{x} = 0
 	</p>
 </solution>
 </task>
-		</exercise>
+		</activity>
 		
-		<exercise>
+		<activity>
 		<title>Exploring Acceleration</title>
 		<task>
 		<statement>
@@ -76,9 +76,9 @@ As the object passes through the equilibrium position located at <m> \vec{x} = 0
 		<p>Sketch the accompanying <m> a_x(t)</m> function.  </p>
 		</statement>
 	</task>
-		</exercise>
+		</activity>
 		
-		</exercises>		
+		</subsubsection>		
 
 
 

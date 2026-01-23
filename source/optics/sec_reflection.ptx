@@ -3,7 +3,13 @@
 <section xml:id="sec_reflection" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>The Law of Reflection</title>
 
-    <video youtube="zKOcySebSH0"><description>Introducing the Law of Reflection for light.</description></video>
+    <corollary xml:id="vid-reflection">
+	<title>Law of Reflection</title>
+	<statement><p></p>
+		<video youtube="zKOcySebSH0"><description>Introducing the Law of Reflection for light.</description></video>
+	</statement>
+  </corollary>
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
     <p>
         When a ray of light encounters an object, the light is usually either absorbed by the object or is reflected by the object.  If it is reflected, it will continue moving in a straight line in a new direction given by the Law of Reflection.  Objects like mirrors typically reflect most of the light that encounters them.
@@ -23,12 +29,12 @@
         </statement>
     </principle>
 
-    <exercises>
+    <subsubsection>
         <title>Reflection Activities</title>
-            <exercise xml:id="x_corner-reflector">
+            <activity xml:id="x_corner-reflector">
                 <title>Practice: Corner Reflector</title>
                 <p></p>
                 <p>A corner reflector is made up of two mirrors meeting each other at a 90 degree angle. Let a light ray hit one of the mirrors so that the ray is reflected to the other mirror. Draw a ray diagram of this situation. What do you notice about the final reflected ray? What is special about this kind of object?</p>
-            </exercise>
-    </exercises>
+            </activity>
+    </subsubsection>
 </section>

@@ -13,9 +13,9 @@
     		<image source="pendulum.png" width = "15%" ></image>
     </figure>
 			
-		<exercises>
+		<subsubsection>
 			<title>Simple Pendulum Activities</title>
-		<exercise>
+		<activity>
 		<title>Finding Acceleration</title>
 		<task>
 		<statement>
@@ -84,7 +84,7 @@
 			</p>
 		</solution>
 		</task>
-		</exercise>
+		</activity>
 		
 
 		<!--
@@ -132,7 +132,7 @@ This is the equation of motion for the pendulum in terms of the angular position
 
 
 		
-		<exercise>
+		<activity>
 		<title>Analyzing the Equation of Motion</title>
 		<statement>
 			<p>
@@ -142,9 +142,9 @@ This is the equation of motion for the pendulum in terms of the angular position
 		<solution>
 		<p>The equation of motion for the simple pendulum does not satisfy the condition. The restoring force is not directly proportional to the angular displacement. Instead, it depends on <m>\sin\theta</m>. </p>
 		</solution>
-		</exercise>
+		</activity>
 		
-		<exercise>
+		<activity>
 		<title>Approximating the Restoring Force</title>
 		<statement>
 			<p>
@@ -154,9 +154,9 @@ This is the equation of motion for the pendulum in terms of the angular position
 		<solution>
 		<p>The <xref ref="assumption-smallA"/> can be used to simplify the sine and cosine functions for small angles (see the <xref ref="sec_smallA"/> section for more details).</p>
 		</solution>
-		</exercise>
+		</activity>
 
-		<exercise>
+		<activity>
 		<title>Analyzing the Equation of Motion</title>
 		<statement>
 			<p>
@@ -190,16 +190,16 @@ from this and your model of <xref ref="assumption-shm"/>, the oscillation freque
 		</statement>
 		</definition>
 		</solution>
-		</exercise>
-		<exercise>	
+		</activity>
+		<activity>	
 		<title>Sensemaking</title>
 		<p>
 		</p>
 		<p>Make sense of the angular frequency of the simple pendulum using units, numbers, and symbols.</p>
-			</exercise>
+			</activity>
 
 
-</exercises>
+</subsubsection>
 
 <!-- 
 Other deprecated videos

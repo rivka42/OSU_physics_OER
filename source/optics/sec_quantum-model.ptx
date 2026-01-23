@@ -9,9 +9,9 @@
 
     <p>In quantum mechanics, light is described as a photon, which is a fundamental particle. These particles have energies directly related to their frequencies, <m>E = hf</m>, where <m>h</m> is <term>Planck's constant</term> which is equal to <m>6.626 \times 10^{-34}[\mathrm{Js}] </m>. This will help us understand our next activity, which is focused on the Photoelectric Effect.</p>
 
-    <exercises>
+    <subsubsection>
         <title>Quantum Model Activities</title>
-            <exercise xml:id="x_quantum_model">
+            <activity xml:id="x_quantum_model">
                 <title>Photoelectric Effect</title>
                 <p>
                     
@@ -26,8 +26,8 @@
                     <li>Now change the target material. Do you notice any stark differences between any two materials?</li>
                     <li>Make a list of any questions you might still have.</li>
                   </ol>
-            </exercise>
-    </exercises>
+            </activity>
+    </subsubsection>
 
     <references>
         <biblio xml:id="ref_quantum_model_yt">

@@ -10,7 +10,7 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 
-<subsection>
+<subsubsection>
 	<title>Explanation Practice</title>
 
  
@@ -23,16 +23,16 @@
 		</statement>
 	</investigation>
 	
-</subsection>
+</subsubsection>
 
-<subsection>
+<subsubsection>
 	<title>A*R*C*S Practice</title>
 
 
 
-</subsection>
+</subsubsection>
 
-<subsection>
+<subsubsection>
 <title>Numerical Practice</title>
     <exploration xml:id="psa_wave-alpha10">
         <title>Tube of Air</title>
@@ -114,7 +114,7 @@
 		</answer>
 	</exploration>
 
-</subsection>
+</subsubsection>
 
 <references>
 	<biblio xml:id="ref_boxsand-sup">

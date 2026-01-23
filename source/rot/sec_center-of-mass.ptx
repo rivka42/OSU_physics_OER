@@ -3,7 +3,13 @@
 <section xml:id="sec_center-of-mass" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Center of Mass</title>
 		
-      <video youtube="L_vCG4-Aqhw"><description>Defining center of mass.</description></video>
+      <corollary xml:id="vid-center-of-mass">
+	<title>Center of Mass</title>
+	<statement><p></p>
+		<video youtube="L_vCG4-Aqhw"><description>Defining center of mass.</description></video>
+	</statement>
+  </corollary>
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<p>Until now, you have been considering objects that are symmetrical, in which case the geometric center of the object and the center of mass are at the same position.  For non-symmetrical objects, or for systems made up of multiple objects that are not arranged symmetrically, center of mass can be calculated as a weighted average.</p>
 	
@@ -14,7 +20,7 @@
 	</statement>
 </definition>
 
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
 <figure xml:id="rot_cubes-cm">
 			<title>Two Cubes Figure</title>
@@ -22,12 +28,12 @@
 		<image source="blocks-cm.jpg" width = "35%">
 			<description>A cube with side length 2L on the left next to a cube with side length L on the right, the centers of their faces touching.</description></image>
   </figure>
-				<exercise xml:id="x_two-blocks">
+				<activity xml:id="x_two-blocks">
 			<title>Calculate - Two Blocks</title>
 			<p></p>
 			  <p>Find the center of mass of the system of two cubes, assuming they are made of the same uniform material.  Make sure to specify your origin!  Why do you not need to integrate?</p>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 				<title>Optional: Many Blocks</title>
 				<statement>
 					<p>
@@ -45,11 +51,16 @@
 					<p>
 						The video below includes a discussion of center of mass and a few examples, including the solution to the Many Blocks Activity.
 					</p>
-					<video youtube="Vg2iVEeu1Iw"><description>Defining center of mass.</description></video>
+					<identity xml:id="vid-many-blocks-sol">
+	<title>Many Blocks Solution</title>
+	<statement><p></p>
+		<video youtube="Vg2iVEeu1Iw"><description>Center of Mass Solution.</description></video>
+	</statement>
+</identity>
 				</solution>
 				
-			</exercise>
-		</exercises>
+			</activity>
+		</subsubsection>
 
   
 

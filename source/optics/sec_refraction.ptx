@@ -3,20 +3,26 @@
 <section xml:id="sec_refraction" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Refraction</title>
 
-    <exercises>
+    <subsubsection>
 		<title>Exploring Refraction</title>
-			<exercise>
+			<activity>
 			  <p>Play with this <url href="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html" visual="light simulation"/> for at least a few minutes.</p>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
                 <!--
                     From Paul's get-ready activity.
                 -->
 			<p>Make a list of your observations as you go. Design and carry out an experiment to investigate one of your observations.</p>
-			</exercise>
-		</exercises>
+			</activity>
+		</subsubsection>
 
-    <video youtube="GYAAFz983jM"><description>Introducing the law of refraction.</description></video>
+    <corollary xml:id="vid-refraction">
+	<title>Law of Refraction</title>
+	<statement><p></p>
+		<video youtube="GYAAFz983jM"><description>Introducing the law of refraction.</description></video>
+	</statement>
+  </corollary>
+  <subsubsection><title>Key Ideas</title></subsubsection>
 		
 		<p>Refraction is a common everyday phenomenon that helps answer the following questions: Why does a straw in a glass of water look bent? Why do people look shorter in swimming pools? Why do mirages happen?  The fact that light bends when moving from one medium to another helps answer all of these questions.  This bending fundamentally results from a difference in the speed that light travels within different substances, which you can quantify using the index of refraction.</p>
 		
@@ -43,14 +49,14 @@
 
 
 
-    <exercises>
+    <subsubsection>
         <title>Refraction Activities</title>
-				            <exercise xml:id="x_refraction-practice">
+				            <activity xml:id="x_refraction-practice">
                 <title>Air, Oil, and Water</title>
                 <p></p>
 								<p>Draw a ray diagram for light that travels from air (<m>n = 1.00</m>) into oil (<m>n = 1.45</m>) and then into water (<m>n = 1.33</m>).  Which way does the light bend at each change of medium?</p>
-								</exercise>
-            <exercise xml:id="x_total-internal-reflection">
+								</activity>
+            <activity xml:id="x_total-internal-reflection">
                 <title>Total Internal Reflection</title>
                 <p></p>
                 <p>When a ray of light passes from one medium into another, the ray will be refracted in the second medium according to the Law of Refraction. But for some critical angle and above, the ray of light will be completely reflected back into the initial medium. In this activity, we will work through this phenomenon to arrive at a useful conclusion. Work through the following questions.</p>
@@ -74,9 +80,9 @@
                 
                     <li>Return to the simulation you played with at the beginning of this section and experiment with total internal reflection. List some observations.</li>
                 </ol>  
-            </exercise>
+            </activity>
 
-            <exercise xml:id="x_dispersion">
+            <activity xml:id="x_dispersion">
                 <title>Dispersion</title>
                 <p></p>
                 <p>Until now, you have been considering an unspecified light ray. Light, however, has a wavelength (or multiple different wavelengths in the case of white light). The difference in how light rays of different wavelengths behave is known as <term>dispersion</term>. The fundamental cause of dispersion is that the index of refraction in a substance actually depends on the wavelength of light.</p>
@@ -92,6 +98,6 @@
                     </li>
                     <li>Explain how a prism works! Write a few sentences explaining how a prism works and why you see a rainbow if we shine white light through the prism.</li>
                 </ol>
-            </exercise>
-    </exercises>
+            </activity>
+    </subsubsection>
 </section>

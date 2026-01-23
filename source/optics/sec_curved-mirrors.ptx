@@ -12,7 +12,12 @@
         </statement>
     </assumption>
 
-    <video youtube="x1Wadl5orv4"><description>How to draw ray diagrams for a concave mirror.</description></video>
+    <algorithm xml:id="vid-concave-mirror">
+	<title>Concave Mirrors</title>
+	<statement><p></p>
+		<video youtube="x1Wadl5orv4"><description>How to draw ray diagrams for a concave mirror.</description></video>
+	</statement>
+</algorithm>
 
     <figure xml:id="concave_mirror">
 			<title>Concave Mirror Figure</title>
@@ -35,9 +40,9 @@
         </p>
     </definition>
     
-    <exercises>
+    <subsubsection>
         <title>Curved Mirror Activities</title>
-            <exercise>
+            <activity>
                 <title>Convex Mirrors</title>
                 <p></p>
                 <p>Find where the image is located for this convex mirror.
@@ -59,11 +64,16 @@
                         Finally, the following video may help you understand how to draw these rays.
                     </p>
                     <p>
-                        <video youtube="JDUcQ5WfxcM"><description>How to draw ray diagrams for a convex mirror.</description></video>
+                        <algorithm xml:id="vid-convex-mirrors">
+	<title>Convex Mirrors</title>
+	<statement><p></p>
+		<video youtube="JDUcQ5WfxcM"><description>How to draw ray diagrams for a convex mirror.</description></video>
+	</statement>
+</algorithm>
                     </p>
                 </answer>
-            </exercise>
-            <exercise xml:id="x_spherical-mirror">
+            </activity>
+            <activity xml:id="x_spherical-mirror">
                 <title>Curved Mirrors</title>
                 <p></p>
                 <p>Spend some time playing with this <url href="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html" visual="mirror simulation"/>. Make sure to click the <q>Mirror</q> option. Select the concave mirror first.</p>
@@ -74,8 +84,8 @@
                     <li>Switch to the <q>convex</q> mirror. What happens to this image as you move the object from the left side of the screen towards the mirror?</li>
                     <li>Is there any way you can make a real image with only a convex mirror?</li>
                 </ol>
-            </exercise>
-            <exercise xml:id="x_mirror_eqn">
+            </activity>
+            <activity xml:id="x_mirror_eqn">
                 <title>Mirror Equations</title>
                 <p></p>
                 <p>Answer the following questions using what you know about curved mirrors.</p>
@@ -83,6 +93,6 @@
                     <li>A 20 cm tall object is placed at a distance of 200 cm in front of a concave mirror with a radius of curvature of 150 cm. Where is the image located? How does the height of the image change, if at all?</li>
                     <li>An object is placed 40 cm in front of a concave mirror and its virtual image is at a distance of 60 cm. What is the radius of curvature for this mirror?</li>
                 </ol>
-            </exercise>
-    </exercises>
+            </activity>
+    </subsubsection>
 </section>

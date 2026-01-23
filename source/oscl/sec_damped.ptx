@@ -64,43 +64,43 @@ You can see that the oscillation frequency is equivalent to the original oscilla
  
 
 
-<exercises>
+<subsubsection>
 		<title>Activities</title>
 				
-		<exercise>
+		<activity>
 		<title>Exploring limiting Cases</title>
 		<statement>
 			<p></p>
 		<p> The damping constant characterizes the magnitude of the the drag force. Confirm that when <m> b=0 </m> you recover the position function and oscillation frequency for the un-damped mass on a spring.</p>
 		</statement>
-		</exercise>
+		</activity>
 		
-		<exercise>
+		<activity>
 		<title>Is <m>x(t)</m> a Solution?</title>
 		<statement>
 			<p></p>
 		<p>Plug the solution back into the equation of motion and confirm that <m>x(t)</m> is a solution. </p>
 		</statement>
-		</exercise>
+		</activity>
 		
-		<exercise>
+		<activity>
 		<title>Friction at the Surface Boundary</title>
 		<statement>
 			<p></p>
 		<p>Repeat the analysis above excluding air drag, but including kinetic friction between the surface on which the mass rests. Determine an equation of motion, the position as a function of time and the oscillation frequency. </p>
 		</statement>
-		</exercise>
+		</activity>
 		
-		<exercise>
+		<activity>
 		<title>The Damped Pendulum</title>
 		<statement>
 			<p></p>
 		<p>Repeat the analysis above for the pendulum including air drag. Determine an equation of motion, the angular position as a function of time and the oscillation frequency. </p>
 		</statement>
-		</exercise>
+		</activity>
 
 		
-		</exercises>
+		</subsubsection>
 
 <references>
 

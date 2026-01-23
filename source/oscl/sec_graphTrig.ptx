@@ -90,10 +90,10 @@ This relation holds true in simple harmonic motion. When describing oscillatory 
 
 
  
-		<exercises>
+		<subsubsection>
 		<title>Activities</title>
 		
-		<exercise>
+		<activity>
 		<title>Physical Units</title>
 		<statement>
 			<p>
@@ -109,9 +109,9 @@ This relation holds true in simple harmonic motion. When describing oscillatory 
 		<answer>
 		<p>The equation as a whole is a position and has dimension of length with SI units of meters. Trigonometric functions are dimensionless. Therefore, the amplitude must have dimension of length for the equation to be true. The SI units of amplitude are meters. The argument of a trigonometric function must also be dimensionless with SI units of radians. Therefore, the fraction <m>\frac{2\pi t}{T}</m> must be dimensionless. The only way for this to be true is if the dimension of period is time. The SI units of time are seconds. </p>
 		</answer>
-		</exercise>
+		</activity>
 		
-		<exercise>
+		<activity>
 		<title>Exploring the Period, Frequency, and Angular Frequency</title>
 		<statement>
 			<p>
@@ -125,9 +125,9 @@ This relation holds true in simple harmonic motion. When describing oscillatory 
 		-->
 		<men> \omega = 2 \pi f = \frac{2 \pi}{T} </men>
 		</answer>
-		</exercise>
+		</activity>
 				
-		<exercise>
+		<activity>
 		<title>Exploring the Position Function</title>
 		<statement>
 			<p>
@@ -146,8 +146,8 @@ This relation holds true in simple harmonic motion. When describing oscillatory 
 		</p>
 		<p>often <m>\vec{x}(t) = x_{\text{max}} \cos(\omega t + \phi_o)\hat{x}</m> is most useful for solving problems. This is the form of the position function we will use going forward when studying simple harmonic motion. </p>
 		</answer>
-		</exercise>
-		</exercises>		
+		</activity>
+		</subsubsection>		
 
 
 <references>

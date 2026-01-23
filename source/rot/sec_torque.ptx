@@ -3,7 +3,14 @@
 <section xml:id="sec_torque" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Torque</title>
 		
-      <video youtube="C2XHn6NIqAM"><description>Defining torque.</description></video>
+      <corollary xml:id="vid-torque">
+	<title>Torque</title>
+	<statement><p></p>
+		<video youtube="C2XHn6NIqAM"><description>Defining torque.</description></video>
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<p>When any force acts on a rigid object, it also acts a torque on that object.  The torque depends both on the force itself and on where the force acts relative to some axis.  This means that the torque depends on your choice of axis!  The force itself is unchanged no matter what torque it acts.</p>
 	
@@ -22,14 +29,14 @@
 	
 
 
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
-				<exercise xml:id="x_summarize-torque">
+				<activity xml:id="x_summarize-torque">
 			<title>Summarize What You Learned - Torque</title>
 			<p></p>
 			  <p>Write a 1-2 sentence description of what the definition of torque says in words. </p>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>Sensemaking: Units</title>
 			 <statement>
 				<p></p>
@@ -38,20 +45,20 @@
 				<answer>
 				<p>The units for torque are Nm (newton-meters).  Interestingly, the units for energy (joules) can also be written Nm, but the units for torque are never written as joules because torque and energy are fundamentally different quantities that just happen to have matching units.</p>
 				</answer>
-			</exercise>
+			</activity>
 			
-		<exercise>
+		<activity>
 		<title>Calculate - The Catapult</title>
 		<p></p>
 		<p>Recall the <xref ref="rot_catapult"></xref>, for which you previously drew an extended free-body diagram.</p>
 			<p>Use your diagram to help you find the torque exerted by each force acting on the catapult (continue to neglect the mass of the arm).  Choose the pivot point as your axis of rotation (why do you think this might be a reasonable choice?).  Pay attention to both the magnitude and the direction of each torque!</p>
-			</exercise>
-					<exercise>
+			</activity>
+					<activity>
 		<title>Practice - The Toppling Pencil</title>
 		<p></p>
 			<p>Find a pencil (or something with a similar shape) and hold it vertically so that one end is touching a table.  Let go of the pencil in such a way that it begins to fall over, with the base of the pencil as the axis of rotation.  Sketch an extended free-body diagram for the pencil at an instant where it is about 10 degrees from vertical after you have let go of it.  Use your diagram to help you find the direction of the torque exerted by each force acting on the pencil about the axis of rotation.  Try choosing a different point as the origin to see how that can change the direction of the torques!</p>
-			</exercise>
-		</exercises>
+			</activity>
+		</subsubsection>
 
   
 

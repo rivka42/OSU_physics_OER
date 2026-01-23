@@ -3,7 +3,13 @@
 <section xml:id="sec_phase_diff" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Path Length Difference</title>
 		
-<video youtube="XfU7KmKRt8M"><description>Describing relative phase for interference.</description></video>
+<corollary xml:id="vid-relative-phase">
+	<title>Relative Phase</title>
+	<statement><p></p>
+		<video youtube="XfU7KmKRt8M"><description>Describing relative phase for interference.</description></video>
+	</statement>
+  </corollary>
+  <subsubsection><title>Key Ideas</title></subsubsection>
 
 <p>
 The phase difference between two waves that gives rise to interference can be due to two sources:
@@ -40,9 +46,9 @@ Often, the initial (natural) phase difference is 0, in which case interference w
 </principle>
 
 
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
-			<exercise>
+			<activity>
 				<title>Halfway Between</title>
 				
 				
@@ -55,8 +61,8 @@ Often, the initial (natural) phase difference is 0, in which case interference w
 						If you are standing halfway between the two sources of waves, the path length difference is zero.  If the waves were naturally in phase with each other, then you would see maximum constructive interference here.  But since you are seeing maximum destruction interference, the waves must have been out of phase to begin with!
 					</p>
 				</solution>
-			</exercise>
-						<exercise>
+			</activity>
+						<activity>
 							<title>A Pair of Waves</title>
 						<introduction>
 							<p></p>
@@ -124,8 +130,8 @@ Often, the initial (natural) phase difference is 0, in which case interference w
 			  </ol>
 				</statement>
 			</task>
-			</exercise>
-		</exercises>
+			</activity>
+		</subsubsection>
 
   
 

@@ -3,7 +3,7 @@
 <section xml:id="sec_2source" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Interference in 2D</title>
 		
-					<exercises>
+					<subsubsection>
 	<title>Activities</title>
 		<p>Not all waves are one-dimensional<mdash/>in fact, most waves are two- or even three-dimensional.  The diagram below shows a periodic circular wave, where each circle represents a wave crest.</p>
 			  <figure xml:id="two-d-wave">
@@ -11,7 +11,7 @@
 		 <caption>A circular wave.</caption>
 		<image source="2SI-1.jpg" width = "75%"></image>
   </figure>
-	<exercise>
+	<activity>
 	<statement>
 		<p></p>
 	<p>How does the shape of the circular wave change as time moves forward?  What happens to each crest?  Are there any especially interesting moments in time?  Explain your reasoning.</p>
@@ -21,7 +21,7 @@
 			Each wave moves outward, so each circle gets larger as time moves forward.  If you watch one point on the water that is initially at a crest, it will decrease to a trough and then increase back to a crest again.
 		</p>
 	</answer>
-	</exercise>
+	</activity>
 	
 	<p>The diagram below shows two overlapping periodic circular waves, their sources separated by some known distance.</p>
 	
@@ -31,7 +31,7 @@
 		<image source="2SI-2.jpg" width = "75%"></image>
   </figure>
 	
-				<exercise>
+				<activity>
 			<title>Explore Path-length Difference</title>
 			<statement>
 				<p></p>
@@ -40,8 +40,8 @@
 				<answer>
 				<p>The largest path length difference is equal to <m>d</m>, and you are standing along the line that passes through both sources (not between the sources).  The smallest path length difference is equal to 0, and you are standing on the line that passes perpendicularly through the midpoint between the sources.</p>
 				</answer>
-			</exercise>
-		</exercises>
+			</activity>
+		</subsubsection>
 
   
 
