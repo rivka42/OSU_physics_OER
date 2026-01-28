@@ -49,6 +49,7 @@
 
 <activity>
 	<title>Explore forces</title>
+	<introduction>
 	<p>
 		
 	</p>
@@ -59,6 +60,7 @@
 		<video youtube="_bhzaBtdUIE">
 					</video>
 									</figure>
+								</introduction>
 			<task xml:id="x_intro-forces">
 			  <p>Identify and describe the different types of forces you believe are acting on Dr. Paws in the video above as she chases the ball.</p>
 			</task>
