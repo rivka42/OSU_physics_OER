@@ -12,9 +12,10 @@
 
 	<activity>
 	<title>Warm-up: The Meter Stick</title>
-			
+			<introduction>
 			<p></p>
 		<p> You want to find the center of mass for a meter stick that has a total mass of <m>0.15 \mathrm{~kg}</m>.</p>
+			</introduction>
 		<task>
 			<title>Orient</title>
 			<statement>

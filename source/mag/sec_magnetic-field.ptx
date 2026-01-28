@@ -25,6 +25,7 @@
 
 		<activity xml:id="x_magnetic-field">
 			<title>Magnetic Field of a Wire</title>
+			<introduction>
 			<p>
 				
 			</p>
@@ -35,6 +36,7 @@
     		<caption>A wire surrounded by four marked test points.</caption>
     		<image source="MagWire.png" width = "50%" ></image>
 		</figure>
+	</introduction>
 		<task>
 		<title>Explanation</title>
 		<statement>

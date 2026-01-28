@@ -28,10 +28,12 @@
 
 <activity>
 	<title>Spring Potential Energy Diagram</title>
+	<introduction>
 	<p>
 		
 	</p>
 			<p>A block on a frictionless, horizontal table is connected to a spring (the other end of the spring is fixed to a wall).  The spring is initially compressed from its equilibrium position by a distance of <m>x_i</m>.</p>
+</introduction>
 			<task>
 			<statement>
 			  <p>Sketch and label a potential energy diagram for this system.</p>

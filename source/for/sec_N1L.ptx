@@ -52,10 +52,12 @@
 		
 	<investigation>
 					<title>Practice</title>
+					<introduction>
 					<p>
 						
 					</p>
 		<p>For each of the following contexts, predict whether or not you expect the system's velocity to change.  Explain your reasoning using the <xref ref="fig_explanation"></xref>.  Clearly state any assumptions you make about each context!</p>
+				</introduction>
 			<task xml:id="x_inertia">
 			  <p>You are riding your bicycle down a flat street (not pedaling).  <alert>System</alert>: you and the bicycle.</p>
 			</task>

@@ -7,7 +7,10 @@
 
 	<activity>
 	<title>Gauss's Law Practice - Infinitely Charged Sheet</title>
+	<introduction>
+		<p></p>
 	<p>Consider a two-dimensional sheet of charge that is infinitely long in the <m>x</m>-direction and infinitely long in the <m>y</m>-direction, but infinitesimally thin in the <m>z</m>-direction.  The charge density is uniform and equal to <m>+\sigma_o</m> across one side of the entire sheet.</p>
+	</introduction>
 		<task>
 		<statement>
 			<p>Make a sketch of this charge distribution.  Carefully label your coordinate system.</p>

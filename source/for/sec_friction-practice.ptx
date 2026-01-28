@@ -21,13 +21,14 @@
 		<description></description>
 		</image>
 </figure>
-		</introduction>
+		
 
 		
 	<p> 
 		The driver left a crate on top of the truck. You know the mass of the crate (<m>m_c</m>) and the coefficients of friction (<m>\mu_s</m> and <m>\mu_k</m>).  
 		The truck begins speeding up, but the driver wants to prevent the crate from sliding.
 	</p>
+	</introduction>
 	<task>
 	<p> 
 		What force causes the <em>crate</em> to accelerate?

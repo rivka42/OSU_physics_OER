@@ -34,7 +34,10 @@
 	
 	<activity>
 	<title>Two Waves Activity</title>
+	<introduction>
+		<p></p>
 	<p>Consider the two waves written below: <me>y_1(x,t) = y_m \sin{(kx - \omega t)}</me> <me>y_2(x,t) = y_m \sin{(kx - \omega t + \pi/2)}</me></p>
+	</introduction>
 			<task>
 			  <p>Sketch a graph of each wave at <m>t = 0</m> showing at least two full wavelengths.</p>
 			</task>

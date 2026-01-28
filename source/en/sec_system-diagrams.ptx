@@ -37,12 +37,14 @@
 				
 		<activity>
 		<title>A Falling Apple</title>
+		<introduction>
 		<p>
 			
 		</p>
 		<p>
       An apple is initially attached to a branch on an apple tree.  A gust of wind dislodges the apple at noon, which falls to the base of the tree, where it rolls along flat ground into a patch of grass.  At nightfall, a grazing horse eats and digests the apple.
     </p>
+</introduction>
 		<task xml:id="x_practice-system-diagrams">
     <p>
       List all the objects of interest in this context.  For each object, describe the different forms of energy it possesses or can possess.  Which forms of energy change?  When is energy transferred from one object to another?

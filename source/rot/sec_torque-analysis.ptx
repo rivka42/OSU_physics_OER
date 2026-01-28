@@ -16,7 +16,10 @@
   
 	<activity>
 			<title>The Tree Branch</title>
+			<introduction>
+				<p></p>
 	<p>Suppose you are taking a walk one day when you see a tree branch snap at its base and begin to rotate downward with the break near the trunk of the tree as a pivot point.   You estimate the length of the branch to be about 3 meters.</p>
+			</introduction>
 			<task>
 			  <p>What expression do you think you should use for the moment of inertia of the tree branch?</p>
 			</task>

@@ -84,12 +84,14 @@
 		<title>Activities</title>
     <activity>
       <title>Moving Current Loop</title>
+      <introduction>
       		<p>The current-carrying wire below is being pulled downward, away from the square metal loop.</p>
 		<figure xml:id="x_fig_wire-and-loop">
 			<title>Wire and Loop Figure</title>
     		<caption>A long wire carrying current to the right below a wire loop.</caption>
     		<image source="WireAndLoop.png" width = "70%" ></image>
 		</figure>
+  </introduction>
 		<task>  
 			<p>As the wire is moving, is there a clockwise current induced around the loop, a counterclockwise current, or no current?  Create a magnetic induction table to explain your reasoning.</p>
 		</task>

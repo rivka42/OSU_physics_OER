@@ -5,7 +5,9 @@
 
 	  <activity>
 		<title>Warm-Up Activity</title>
+		<introduction>
 		<p>Play with the <q>Capacitance</q> and <q>Light Bulb</q> <url href="https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics_all.html" visual="PhET Simulations"/>.  Investigate the properties of the various devices, and how those properties change as you make changes to the system. </p>
+		</introduction>
 		<task>
 
 

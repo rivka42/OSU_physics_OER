@@ -5,6 +5,7 @@
 
 	<activity>
 		<title>Warm-Up Activity</title>
+		<introduction>
 		<p>
 			
 		</p>
@@ -15,6 +16,7 @@
 			<caption>A large positive charge to the left of a square conductor.</caption>
 			<image source="Conductor.png" width = "50%" ><description>A long rod is positively charged and is held next to a circular conductor.</description></image>
 		</figure>
+	</introduction>
 		<task>
 			
 			<p>Describe how you would expect the charges in the conductor to distribute themselves in the presence of the large positive charge.</p>

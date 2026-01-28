@@ -289,12 +289,13 @@
 
 	<investigation xml:id="pa_for-03">
         <title>Walking a Cat</title>
-		<statement>
+		<introduction>
       <p>
         
       </p>
 		    <p>You are trying to exercise your cat by walking them around the room with a harness - a jacket is strapped around the cat with a leash that you can pull. To get your cat moving, you pull on the leash at an angle <m>\theta</m> above the horizontal (note this is <b>not</b> how you should train your cat with a harness). Annoyed, your cat flops onto their side where there is a sizable friction between the cat and the floor. As you pull your cat, you notice they move with a constant speed. </p>
 			<p>From previous experiments with this harness, you know that your "pull" at the given angle has a vertical component equal to <b>half</b> the weight of your cat. </p>
+    </introduction>
 			<task>
 			<title>Rank the forces</title>
 			<statement>
@@ -314,7 +315,6 @@
 			<p>Now, you notice the cat speeds up. Explain why this occurs. </p>
 			</statement>
 			</task>
-		</statement>
 	</investigation>
 
 

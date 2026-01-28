@@ -5,6 +5,8 @@
   
   <activity>
 <title>Warm-up: Modeling a String</title>
+<introduction>
+	<p></p>
 <p>A primitive model for a string is a straight line of molecules connected by identical springs, as shown in the figure below.  Imagine you create a wave through this string by oscillating one end of this line of molecules back and forth.</p>
 	<figure xml:id="spingmodel">
 			  <title>Wave on a String Figure</title>
@@ -13,7 +15,7 @@
 	</caption>
     	<image source="Springs.png" width = "75%" ></image>
 </figure>	
-
+</introduction>
 <task>
 <statement>
 <p>

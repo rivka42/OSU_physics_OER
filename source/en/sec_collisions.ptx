@@ -38,10 +38,12 @@
 
 	<activity>
 	<title>Two Bicycles</title>
+	<introduction>
 	<p>
 		
 	</p>
 <p>Two bicycles initially moving toward each other get in a low-speed accident in which they bounce off each other so that each bicycle is now moving at the same speed but in the opposite direction!</p>
+</introduction>
 			<task>
 			  <p>Choose a system for this context for which momentum is conserved.  How do you know momentum is conserved for your system?</p>
 			</task>

@@ -40,12 +40,12 @@
 		
 		  <investigation xml:id="psa_for-01">
         <title>Skydiver</title>
-		<statement>
+		<introduction>
 			<p>
 				
 			</p>
 		    <p>When a skydiver jumps from a plane, they quickly become subject to a substantial force known as <em>air resistance</em> or air <em>drag</em>. This force becomes larger when the skydiver's velocity becomes larger.</p>
-
+		</introduction>
 			<task>
 			<title>Accelerating Downward</title>
 			<statement>
@@ -76,7 +76,6 @@
 				Draw and label a free-body diagram for the object. Rank the magnitudes of all forces on the object.</p>
 			</statement>
 			</task>
-		</statement>
 		<!--
 		<hint>
 		    <p></p>

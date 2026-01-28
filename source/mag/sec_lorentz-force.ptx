@@ -24,10 +24,12 @@
 		<title>Activities</title>
 		<activity>
 		<title>Magnetic Force from a Wire</title>
+		<introduction>
 		<p>
 			
 		</p>
 		<p>In <xref ref="x_magnetic-field"/>, you determined the magnetic field due to a long, straight current.  Assume a small positive charge is currently located at each of the four marked points, moving downward with known speed <m>v</m>.</p>
+	</introduction>
 		<task>
 
 			<p>For each point, draw a vector representing the magnetic force on the moving charge.</p>

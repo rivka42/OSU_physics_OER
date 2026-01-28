@@ -5,12 +5,15 @@
 		
 			<activity>
 	<title>Warm-up Activities</title>
+	<introduction>
+		<p></p>
 	<p>The picture below shows two weights that have the same mass but that have that mass distributed differently.  The upper weight has most of its mass near the center.  The lower weight has most of its mass near the edges.</p>
 	<figure xml:id="rot_weights">
 			<title>Dog Weights Figure</title>
 		<image source="dog-weights.jpg" width = "75%">
 			<description>A golden retriever and two barbells, one with weights at the far ends and one with weights about halfway from the middle.</description></image>
   </figure>
+</introduction>
 			<task>
 				<statement>
 			<p>Which weight, if either, do you think would be easier to twirl about its center. Explain why you think so.</p>

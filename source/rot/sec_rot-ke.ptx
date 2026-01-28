@@ -5,7 +5,10 @@
 	
 		<activity>
 	<title>Warm-up - Flywheel</title>
+	<introduction>
+		<p></p>
 	<p>Suppose you wanted to design a device that stores energy in the form of rotational kinetic energy (such a device is known as a flywheel).</p>
+	</introduction>
 			<task>
 			<p>What properties of the flywheel device do you think would impact its ability to store energy?</p>
 			</task>

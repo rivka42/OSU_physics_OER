@@ -15,7 +15,7 @@
 	
 	<investigation xml:id="study_elec-09">
 		<title>Flux Practice</title>
-		<statement>
+		<introduction>
 			<figure xml:id="x_point-charges-flux">
 				<title>Flux Figure</title>
 				<caption>Two points and an imaginary square loop.</caption>
@@ -25,7 +25,7 @@
 			<p>
 			The figure above shows an imaginary square loop centered between two points <m>A</m> and <m>B</m>.
 			</p>
-		
+		</introduction>
 		<task>
 			<statement>
 				<p>
@@ -51,12 +51,11 @@
 				</p>
 			</statement>
 		</task>	
-		</statement>
 	</investigation>
 
 	<investigation xml:id="apply_elec-07">
 		<title>Flux</title>
-		<statement>
+		<introduction>
 			<figure xml:id="x_cube-gauss">
 				<title>Gaussian Cube Figure</title>
 				<caption>
@@ -67,7 +66,7 @@
 			<p>
 				Two positive point charges <m>+q</m> are located a distance <m>L</m> apart, as shown above.  A Gaussian surface (a cube with side length <m>L</m>) is drawn with its center at the location of the left charge.
 			</p>
-		
+		</introduction>
 		<task>
 			<statement>
 			<p>
@@ -82,7 +81,6 @@
 				</p>
 			</statement>
 		</task>
-		</statement>
 	</investigation>
 
 	<subsubsection>
