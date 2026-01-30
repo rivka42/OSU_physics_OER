@@ -24,10 +24,10 @@
 				<li><p>In case C, Michael's final velocity is <m>\frac{v_i}{4}</m> in the positive <m>x</m>-direction.</p></li>
 				</ul>
 				<p>Rank the experiments by Collins' final kinetic energy.</p>
+						<assemblage>
+		    <p><alert><!--REPLACE_TAG-->Tip:</alert> Sketch a momentum vector diagram for each case.</p>
+			</assemblage>
 		</statement>
-		<hint>
-		    <p>Sketch a momentum vector diagram for each case.</p>
-		</hint>
 	</investigation>
 
 	</subsubsection>
@@ -43,13 +43,13 @@
 				at which point it begins to explode, splitting into an upper piece with mass <m>m_u</m> and a lower piece with mass <m>m_l</m>.  
 				The explosion finishes at <m>t = \frac{v_1}{g}</m>, at which point you observe that the upper piece is still moving upward with speed <m>3v_1</m>.</p>
 				<p>Determine the velocity of the lower piece at <m>t = \frac{v_1}{g}</m>.</p>
+						<assemblage>
+		    <p><alert><!--REPLACE_TAG-->Tip:</alert> For your representation (part 1c), sketch a momentum vector diagram.</p>
+			</assemblage>
+			<assemblage>
+		    <p><alert><!--REPLACE_TAG-->Tip:</alert> For your symbolic sensemaking (part 3c), try at least two special cases.</p>
+			</assemblage>
 		</statement>
-		<hint>
-		    <p>For your representation (part 1c), sketch a momentum vector diagram.</p>
-		</hint>
-		<hint>
-		    <p>For your symbolic sensemaking (part 3c), try at least two special cases.</p>
-		</hint>
 	</project>
 
 

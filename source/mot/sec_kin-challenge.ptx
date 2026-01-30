@@ -53,10 +53,13 @@
 					downward with a known acceleration <m>a_e</m> much smaller than <m>g</m>.  
 					Find the displacement of the elevator when you catch the penny, and the amount of time the penny was in the air.</p>
 			</statement>
-			<hint>
-				<p>For your representation (part 1c), sketch graphs of the position vs. time and the velocity vs. time for both the elevator and the penny.  It can help to graph these on the same set of axes if you are careful about labeling your different graphs.</p>
-					<p>For your symbolic sensemaking (part 3c), use the Covariational Reasoning strategy to discuss how and why your answer depends on each important variable, especially the initial velocity of the penny and the acceleration of the elevator.</p>
-			</hint>
+
+			<assemblage>
+		    <p><alert><!--REPLACE_TAG-->Tip:</alert> For your representation (part 1c), sketch graphs of the position vs. time and the velocity vs. time for both the elevator and the penny.  It can help to graph these on the same set of axes if you are careful about labeling your different graphs.</p>
+			</assemblage>
+			<assemblage>
+		    <p><alert><!--REPLACE_TAG-->Tip:</alert> For your symbolic sensemaking (part 3c), use the Covariational Reasoning strategy to discuss how and why your answer depends on each important variable, especially the initial velocity of the penny and the acceleration of the elevator.</p>
+			</assemblage>
 		</project>
 		
 					<project xml:id="psa_mot-15">
