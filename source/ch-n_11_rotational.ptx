@@ -39,6 +39,7 @@
     
     <!--CHALLENGE SECTIONS-->
     <xi:include href="./rot/sec_circ-exer.ptx" />
+    <xi:include href="./prep/sec_prep-arcs.ptx" />
     <xi:include href="./rot/sec_rot-challenge.ptx" />
 
 

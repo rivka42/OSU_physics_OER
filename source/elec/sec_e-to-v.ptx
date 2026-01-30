@@ -17,6 +17,10 @@
   </corollary>
 
   <subsubsection><title>Key Ideas</title></subsubsection>
+
+  <p>
+		If you know the electric field of a given charge distribution, you can integrate the electric field along a path to determine the electric potential difference between two points. Notice that the electric potential difference is a scalar quantity.
+	</p>
 	
 	<principle xml:id="e_to_v">
 		<title>Determining Electric Potential Difference from Electric Field</title>
@@ -28,9 +32,41 @@
 		</statement>
 	</principle>
 
-	<p>
-		If you know the electric field of a given charge distribution, you can integrate the electric field along a path to determine the electric potential difference between two points. Notice that the electric potential difference is a scalar quantity.
-	</p>
+	<definition xml:id="def-dr">
+		<title>Cartesian <m>\vec{dr}</m></title>
+		
+		
+		<statement>
+			<p>
+				
+			</p>
+			<p>
+				In the equation for <m>\Delta V</m> above, the quantity <m>\vec{dr}</m> represents an infinitesimally small step along a path from <m>r_i</m> to <m>r_f</m>.  In Cartesian coordinates, such a step may be represented as:
+				<me>
+					\vec{dr} = dx\hat{x} + dy\hat{y} + dz\hat{z}
+				</me>
+				
+				Given this definition, <m>\vec{dr}</m> will not be the same for different paths, and you will typically need to use your knowledge of the specific path to simplify <m>\vec{dr}.</m>
+			</p>
+		</statement>
+	</definition>
+
+	<assemblage xml:id="shortcuts-dr">
+		<title>Shortcuts for <m>\vec{dr}</m></title>
+
+			<p>
+				  The simplest paths can be described as along a single direction: for example, if the path is only in the <m>y</m>-direction, <m>\vec{dr} = dy \hat{y}</m>, while if the path is only in the <m>z</m>-direction then <m>\vec{dr} = dz \hat{z}</m>.
+			</p>
+		</assemblage>
+
+	<note>
+		<title>Path Independence</title>
+		<p>
+			The electric field is an example of a conservative vector field.  One consequence of this is that the line integral for finding <m>\Delta V</m> is <term>path independent</term>.  Since the value of the line integral does not depend on the path, you can always choose the path that makes evaluating the integral as easy as possible.
+		</p>
+		
+	</note>
+	
 
 	<subsubsection>
 		<title>Activities</title>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_mech-challenge" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Challenge - Mechanics</title>
+<section xml:id="sec_model-challenge" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Challenge - Modeling</title>
 
 	<!--
 	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 
-<chapter xml:id="ch_mechanics" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Mechanics</title>
+<chapter xml:id="ch_modeling" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Modeling</title>
 	
 <introduction>
     <p> In this chapter you will focus on combining other topics.</p>
@@ -30,11 +30,11 @@
 		<!--PRACTICE SECTIONS-->
 		
 
-		<xi:include href="./en/sec_mech-practice.ptx" />
+		<xi:include href="./en/model/sec_model-practice.ptx" />
 		
 		<!--CHALLENGE SECTIONS-->
-		<xi:include href="./en/sec_mech-challenge.ptx" />
-		<xi:include href="./prep/sec_prep-arcs.ptx" />
+		<xi:include href="./en/model/sec_model-challenge.ptx" />
+		
 		
 
 		

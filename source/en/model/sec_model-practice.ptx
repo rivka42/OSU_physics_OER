@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_mech-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Practice - Mechanics</title>
+<section xml:id="sec_model-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Practice - Modeling</title>
 
 	<!--
 	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
@@ -18,7 +18,7 @@
 	    
   
 <references>
-<biblio xml:id="ref_mechanics">
+<biblio xml:id="ref_modeling">
 <p>Numerical practice activities provided by .</p>
 </biblio>
 </references>
