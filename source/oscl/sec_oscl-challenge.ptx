@@ -26,10 +26,11 @@
         <title>Coin on a Block</title>
 		<statement>
 			<p></p>
-		    <p>A block is attached to the top of a spring that is oscillating vertically. A small coin with negligible mass is riding on top of the block (it is not attached to either the block or the spring). You measure that the largest possible time for the block to complete one full oscillation, without causing the coin to fall off, is 2.5 s. What is the amplitude of this oscillation?</p>
+		    <p>A block is attached to the top of a spring that is oscillating vertically. A small coin with negligible mass is riding on top of the block (it is not attached to either the block or the spring). You measure that the largest possible time for the block to complete one full oscillation, without causing the coin to fall off, is <m>2.5 \mathrm{~s}</m>. What is the amplitude of this oscillation?</p>
+		
+		<assemblage>
+			<p><alert><!--REPLACE_TAG-->Tip:</alert> For your representation (part 1c), sketch graphs of the position, velocity, and acceleration of the block vs. time.</p></assemblage>
 		</statement>
-		<hint>
-			<p>For your representation (part 1c), sketch graphs of the position, velocity, and acceleration of the block vs. time.</p></hint>
 	</project>
 
 <activity xml:id="x_meta-osc">

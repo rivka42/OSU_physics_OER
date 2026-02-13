@@ -14,16 +14,16 @@
         <title>The Cheese Slice</title>
 		<statement><p></p>
 		    <p>You have a one-dimensional slice of cheese with total mass <m>M</m> and total length <m>L</m>.  You know the linear mass density is <m>\lambda(x) = k \sqrt{x}</m>.  Find the constant of proportionality <m>k</m> (including its units) and the center of mass of the slice of cheese.</p>
-		</statement>
-		<hint>
+		<assemblage>
 		    <p>
-				<alert>Analyze and Represent:</alert> Sketch and label a physical diagram showing at least one small piece of the cheese slice.
+				<alert><!--REPLACE_TAG-->Tip:</alert> For your representation (part 1c), sketch and label a physical diagram showing at least one small piece of the cheese slice.
 			</p>
-		</hint>
-		<hint>
-		    <p><alert>Sensemake:</alert> For your numerical sensemaking (part 3b), sketch a graph of the mass density vs. <m>x</m> and use it to support a qualitative explanation for why the center of mass is located where it is relative to the geometric center of the cheese slice.
+		</assemblage>
+		<assemblage>
+		    <p><alert><!--REPLACE_TAG-->Tip:</alert> For your numerical sensemaking (part 3b), sketch a graph of the mass density vs. <m>x</m> and use it to support a qualitative explanation for why the center of mass is located where it is relative to the geometric center of the cheese slice.
 			</p>
-		</hint>
+		</assemblage>
+		</statement>
 	</project>
 
 

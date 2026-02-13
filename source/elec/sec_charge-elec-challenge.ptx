@@ -20,11 +20,11 @@
 
 				</p>
 				<p>One reason that a gecko (a small lizard with a mass of around <m>75</m> grams) can walk across a ceiling is the electric force.  If we assume the magnitude of the electric field acting on the gecko is <m>10^6 \mathrm{~N/C}</m>, determine the net charge on the gecko's feet.</p>
-			</statement>
-			<hint>
-				<p>Numerical sensemaking: explain why, for example, an elephant might have a tough time walking across a ceiling.</p>
-			</hint>
-
+			
+			<assemblage>
+				<p><alert><!--REPLACE_TAG-->Tip:</alert> For your numerical sensemaking (part 3b), explain why, for example, an elephant might have a tough time walking across a ceiling.</p>
+			</assemblage>
+		</statement>
 		</project>
 
 		

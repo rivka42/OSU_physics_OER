@@ -35,12 +35,13 @@
 			<p>
 				A uniformly charged ring with total charge <m>-q_o</m> and radius <m>R</m> is located in the <m>xy</m>-plane. Determine the electric potential a distance <m>z</m> above the center of the ring
 			</p>
-		</statement>
-		<hint>
+		
+		<assemblage>
 			<p>
-				Evaluate your answer in at least two special cases
+				<alert><!--REPLACE_TAG-->Tip:</alert> For your symbolic sensemaking (part 3c), evaluate your answer in at least two special cases.
 			</p>
-		</hint>
+		</assemblage>
+		</statement>
 	</project>
 
 	<subsubsection>

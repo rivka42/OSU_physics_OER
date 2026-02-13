@@ -36,19 +36,20 @@
         <title>The Conical Bowl</title>
 		<statement><p></p>
 		    <p>You are riding a <m>150 \mathrm{~kg}</m> bicycle at constant speed along a circular track of radius <m>25 \mathrm{~m}</m>.  The shape of the track is a conical bowl, so the track makes a consistent angle of 15° with the horizontal. Determine the speed of the bicycle.</p>
-		</statement>
-		<hint>
+		
+		<assemblage>
 		    <p>
-				<alert>Analyze and Represent:</alert> Sketch and label a free-body diagram for the bicycle.  Think carefully about what coordinate system you want to choose and break each force into components.
+				<alert><!--REPLACE_TAG-->Tip:</alert> For your representation, sketch and label a free-body diagram for the bicycle.  Think carefully about what coordinate system you want to choose and break each force into components.
 			</p>
-		</hint>
-		<hint>
-		    <p><alert>Calculate:</alert> When you are beginning your calculation (part 2a), explicitly identify the concepts, laws, and definitions that are relevant.  For example, if you are solving for the magnitude of an object's angular acceleration, you might decide to use the <em>definition of angular acceleration</em>, <m>\alpha = \frac{d\omega}{dt}</m>.  Also, remember that your answer and work should be primarily symbolic: you should only plug in numbers at the very end!</p>
-		</hint>
-		<hint>
-		    <p><alert>Sensemake:</alert> As part of your symbolic sensemaking (part 3c), try a special case using the angle of the track.
+		</assemblage>
+		<assemblage>
+		    <p><alert><!--REPLACE_TAG-->Tip:</alert> When you are beginning your calculation (part 2a), explicitly identify the concepts, laws, and definitions that are relevant.  For example, if you are solving for the magnitude of an object's angular acceleration, you might decide to use the <em>definition of angular acceleration</em>, <m>\alpha = \frac{d\omega}{dt}</m>.  Also, remember that your answer and work should be primarily symbolic: you should only plug in numbers at the very end!</p>
+		</assemblage>
+		<assemblage>
+		    <p><alert><!--REPLACE_TAG-->Tip:</alert> As part of your symbolic sensemaking (part 3c), try a special case using the angle of the track.
 			</p>
-		</hint>
+		</assemblage>
+		</statement>
 	</project>
 
 

@@ -39,12 +39,13 @@
 			<p>
 				Identify the resistor(s) with the lowest current and determine this amount of current. Show your work and describe your problem-solving process.
 			</p>
-		</statement>
-		<hint>
+		
+		<assemblage>
 			<p>
-				Create a voltge diagram for each branch of this circuit.
+				<alert><!--REPLACE_TAG-->Tip:</alert> Create a voltge diagram for each branch of this circuit.
 			</p>
-		</hint>
+		</assemblage>
+	</statement>
 	</investigation>
 	
 	<investigation>

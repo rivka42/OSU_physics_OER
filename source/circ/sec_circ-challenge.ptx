@@ -72,12 +72,13 @@
 					</p>
 				</li>
 			</ol>
-		</statement>
-		<hint>
+		
+		<assemblage>
 			<p>
-				Use voltage diagrams to help your reasoning.
+				<alert><!--REPLACE_TAG-->Tip:</alert> Use voltage diagrams to help your reasoning.
 			</p>
-		</hint>
+		</assemblage>
+	</statement>
 	</investigation>
 
 	<subsubsection>
