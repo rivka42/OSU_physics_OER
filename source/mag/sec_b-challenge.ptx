@@ -13,6 +13,22 @@
 	<m> \mathrm{~}</m>
 	-->
 
+			<project>
+			<title>Magnetic Flux</title>
+			<statement><p></p>
+				<p>
+					What is the magnetic flux through an equilateral triangle with side <m>60 \mathrm{~cm},</m> long, whose plane makes a 60 degree angle with a uniform magnetic field of <m>0.33 \mathrm{~T}</m>?
+				</p>
+			</statement>
+			<!--
+			<answer>
+				<p>
+					0.056 Wb
+				</p>
+			</answer>
+			-->
+		</project>
+
 	<project>
 		<title>Solenoid</title>
 		<statement><p></p>
