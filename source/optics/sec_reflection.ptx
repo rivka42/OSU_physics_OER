@@ -12,14 +12,31 @@
   <subsubsection><title>Key Ideas</title></subsubsection>
 
     <p>
-        When a ray of light encounters an object, the light is usually either absorbed by the object or is reflected by the object.  If it is reflected, it will continue moving in a straight line in a new direction given by the Law of Reflection.  Objects like mirrors typically reflect most of the light that encounters them.
+        When a ray of light encounters an object, the light is usually either <em>absorbed</em>, <em>scattered</em>, or <em>reflected</em>.
     </p>
+    <ul>
+        <li>
+            <p>
+                Absorbed light will no longer move through the physical world.
+            </p>
+        </li>
+        <li>
+            <p>
+                Scattered light will emerge in all directions, causing the object to act as a new point source of light.
+            </p>
+        </li>
+        <li>
+            <p>
+                Reflected light will move in a single new direction given by the Law of Reflection.  Objects like mirrors typically reflect most incident light.
+            </p>
+        </li>
+    </ul>
 
     <principle>
         <title>The Law of Reflection</title>
         <statement>
             <p></p>
-          <p>For a ray of light incident on a locally flat mirror, the reflected angle <m>\theta_{r}</m> is equal to the incident angle <m>\theta_{i}</m>, both measured from the line normal to the surface: <me>\theta_{r} = \theta_{i}</me>
+          <p>For a ray of light incident on a flat mirror, the reflected angle <m>\theta_{r}</m> is equal to the incident angle <m>\theta_{i}</m>, both measured from the line normal to the surface: <me>\theta_{r} = \theta_{i}</me>
             <figure xml:id="reflection">
 			<title>Reflection Figure</title>
                 <caption>A diagram of the Law of Reflection.</caption>
@@ -30,7 +47,14 @@
     </principle>
 
     <subsubsection>
-        <title>Reflection Activities</title>
+        <title>Activities</title>
+        <activity>
+            <title>Analogies for Reflection of Light</title>
+            <p></p>
+            <p>
+               Are there any other objects in your personal experience that <q>reflect</q> or <q>bounce</q> in a way that reminds you of how light behaves?  Choose one and briefly discuss any similarities or differences you see between the two situations.
+            </p>
+        </activity>
             <activity xml:id="x_corner-reflector">
                 <title>Practice: Corner Reflector</title>
                 <p></p>

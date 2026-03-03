@@ -3,7 +3,12 @@
 <section xml:id="sec_ray-model" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Ray Model for Light</title>
 
-    <p><alert>Introductory Activity:</alert> Start by writing 2-4 things about the way that light travels that you are familiar with.</p>
+    <activity>
+        <title>Warm-up Activity</title>
+        <p></p>
+        <p>Start by writing a few sentences about your personal experience with how light travels in the real world.</p>
+    </activity>
+    
     <p>Light is a critical aspect of everyday life, and its behavior in different circumstances is important to model and understand.  For most everyday contexts, you can assume that light travels in straight lines, which is known as the Ray Model of Light.</p>
 
     <corollary xml:id="vid-ray-model">
@@ -22,7 +27,14 @@
 	    </statement>
     </assumption>
 
-    <p>You will be using the ray model for light to draw <term>Ray Diagrams</term>. These diagrams help us figure out from where light is coming and to where light is traveling. They can be very helpful when trying to figure out how light is interacting with a particular mechanism. These diagrams will come in handy as we discuss lenses and mirrors in the next few sections.</p>
+    <p>An important tool for using the ray model is to help draw <term>Ray Diagrams</term>, which allow you to characterize where and how light is moving through space.</p>
+
+    <conjecture xml:id="r_ray-diagram">
+			<title>Ray Diagram</title>
+			<statement>
+				<p>A <term>ray diagram</term> represents light as a collection of <em>rays</em>: straight lines that show light as traveling in straight lines marked with arrows to indicate the direction of travel.</p>
+			</statement>
+		</conjecture>
 
     <subsubsection>
         <title>Ray Diagram Activities</title>

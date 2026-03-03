@@ -2,7 +2,7 @@
 
 <section xml:id="sec_plane-mirrors" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Plane Mirrors</title>
-    <p>The ray model for light can be used to understand how <term>images</term> are created in plane mirrors.</p>
+    <!--<p>The ray model for light can be used to understand how <term>images</term> are created in plane mirrors.</p>-->
     <corollary xml:id="vid-plane-mirrors">
 	<title>Plane Mirrors</title>
 	<statement><p></p>
@@ -11,44 +11,55 @@
   </corollary>
   <subsubsection><title>Key Ideas</title></subsubsection>
 
-    <p>Images are produced by intersecting light rays and can be seen all over the natural world.</p>
+  <definition xml:id="def_images">
+        <title>Images</title>
+        <statement>
+            <p></p>
+          <p>An image is a phenonemon where a collection of light rays that begin at a physical object interact with optical devices in such a way that they diverge from a location <alert>that is different from the position of the object</alert>, giving the appearance of an object at a location where there is none.</p>
+        </statement>
+    </definition>
+
+    <!--<p>Images are produced by intersecting light rays and can be seen all over the natural world.</p>-->
 
     <figure xml:id="plane_mirror">
-			<title>Plane Mirror Figure</title>
-        <caption>Diagram of a plane mirror. An object sits at a distance <m>d_o</m> from the mirror, and an image is produced at a distance <m>d_i</m> behind the mirror.</caption>
+			<title>Flat Mirror Figure</title>
+        <caption>Diagram of a flat mirror. An object sits at a distance <m>d_o</m> from the mirror, and an image is produced at a distance <m>d_i</m> behind the mirror.</caption>
         <image source="optics/plane_mirror.jpg" width = "90%" ><description>A green arrow, labelled as "object", sits a distance d sub o away from a plane mirror on the left side. Two rays extend from the tip of the arrow and hit the mirror: the first hits the mirror perpendicularly, and is reflected backwards along the same line. The second ray hits the mirror at some angle and is reflected back at that angle. Both reflected rays are extended as dashed lines behind the mirror and intersect. Another green arrow, labelled as "image", sits behind the mirror with the tip of the arrow pointing at the intersection point.</description></image>
     </figure>
 
     <principle>
-        <title>Image Distance</title>
+        <title>Image Distance - Flat Mirrors</title>
         <statement>
             <p></p>
-          <p>If you measure from the surface of the mirror, the distance of an object to the mirror is equal to the negative of the distance of the image to the mirror: <m>d_o = -d_i</m></p>
+          <p>Measuring from the surface of a flat mirror, the distance of an object to the mirror is equal to the negative of the distance of the image to the mirror: <m>d_o = -d_i</m>.  The negative indicates that the image is in the opposite direction of the object (<q>behind</q> the mirror).</p>
         </statement>
     </principle>
 
-    <p>In this situation, you are seeing a <term>virtual image</term>. These types of images are produced when light rays do not physically travel to the image location. When you are looking at yourself in a mirror, there is no physical copy of yourself behind the mirror. The image that you see is virtual. When you are looking at ray diagrams of mirrors and lenses, you are typically interested in figuring out where the image is located.</p>
+    <p>In this situation, you are seeing a <term>virtual image</term>. Virtual images are produced when light rays do not physically travel to the image location. When you are looking at yourself in a mirror, there is no physical copy of yourself behind the mirror. The image that you see is virtual. When you are looking at ray diagrams of mirrors and lenses, you are typically interested in figuring out where the image is located.</p>
 
     <definition>
         <title>Virtual Images</title>
         <statement>
             <p></p>
-            <p>A <term>Virtual Image</term> is created when light rays do not travel through the image location. These images will have a negative image distance.</p>
+            <p>A <term>virtual image</term> is created when light rays form an image but <em>do not travel</em> through the image location. These images typically have a negative image distance.</p>
         </statement>
     </definition>
 
     <subsubsection>
         <title>Plane Mirror Activities</title>
-            <exercise xml:id="x_plane-mirror">
+            <activity xml:id="x_plane-mirror">
                 <title>Plane Mirror Simulation</title>
-                <p>Spend some time playing with this <url href="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html" visual="simulation"/>. Click on the "Mirror" option. At the top of the screen, select the flat mirror option.</p>
-                <p>Make some observations as you move the object away from and towards the mirror.</p>
-            </exercise>
-            <exercise xml:id="x_mirror-illusion">
+                <p>
+                    
+                </p>
+                <p>Spend some time playing with this <url href="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html" visual="simulation"/>. Click on the <q>Mirror</q> option. At the top of the screen, select the flat mirror option.</p>
+                <p>Make some observations as you move the object away from and towards the mirror and use them to describe how the size and position of the image depend on the position of the object.</p>
+            </activity>
+            <activity xml:id="x_mirror-illusion">
                 <title>Mirror Illusion</title>
                 <p></p>
                 
-                <p>Watch this video about a supposed <q>mirror illusion</q>.</p>
+                <p>Watch this video about a <q>mirror illusion</q>.</p>
 
                 <video youtube="gNgSlGn59xA"><description>Mirror Illusion</description></video>
 
@@ -58,11 +69,11 @@
                     <li>Draw a ray diagram to explain how you can still see the object in the mirror.</li>
                     <li>How would you explain this to someone that doesn't know anything about the ray model for light and reflections?</li>
                 </ol>
-            </exercise>
+            </activity>
     </subsubsection>
     <references>
         <biblio xml:id="ref_mirror_yt">
-            <p>"HOW does the MIRROR know this? 😳😨 #Shorts." <em>YouTube</em>, uploaded by Cam Casey, 7 April 2023, https://www.youtube.com/watch?v=gNgSlGn59xA&amp;ab_channel=CamCasey</p>
+            <p><q>HOW does the MIRROR know this? 😳😨 #Shorts.</q> <em>YouTube</em>, uploaded by Cam Casey, 7 April 2023, https://www.youtube.com/watch?v=gNgSlGn59xA&amp;ab_channel=CamCasey</p>
         </biblio>
     </references>
 </section>

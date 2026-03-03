@@ -4,9 +4,15 @@
     <title>Refraction</title>
 
     <subsubsection>
-		<title>Exploring Refraction</title>
+		<title>Warm-up Activity</title>
 			<activity>
-			  <p>Play with this <url href="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html" visual="light simulation"/> for at least a few minutes.</p>
+                <title>Exploring Refraction</title>
+                <p>
+                    
+                </p>
+			  <p>Play with this <url href="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html" visual="light simulation"/> for at least a few minutes.  For now, focus on the <q>intro</q> tab.</p>
+
+              <p>Make a list of your observations as you go. Design and carry out an experiment to investigate one of your observations.</p>
 			</activity>
 			<activity>
                 <!--
@@ -24,7 +30,7 @@
   </corollary>
   <subsubsection><title>Key Ideas</title></subsubsection>
 		
-		<p>Refraction is a common everyday phenomenon that helps answer the following questions: Why does a straw in a glass of water look bent? Why do people look shorter in swimming pools? Why do mirages happen?  The fact that light bends when moving from one medium to another helps answer all of these questions.  This bending fundamentally results from a difference in the speed that light travels within different substances, which you can quantify using the index of refraction.</p>
+		<p>Refraction is a common everyday phenomenon that helps answer the following questions: Why does a straw in a glass of water look bent? Why do people look shorter in swimming pools? Why do mirages happen?  The fact that light <q>bends</q> when moving from one medium to another helps answer all of these questions.  This bending fundamentally results from a difference in the speed that light travels within different substances, which you can quantify using the index of refraction.</p>
 		
 		    <definition>
         <title>Index of Refraction</title>

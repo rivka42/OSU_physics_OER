@@ -57,7 +57,7 @@
 		<xi:include href="./ch-n_09_momentum.ptx" />
 		<xi:include href="./ch-n_10_modeling.ptx" />
 
-
+		<xi:include href="./ch-n_19_optics.ptx" />
 
 		<xi:include href="./ch-n_11_rotational.ptx" />
 		<xi:include href="./ch-n_12_torque.ptx" />
@@ -68,7 +68,7 @@
 		<xi:include href="./ch-n_16_waves.ptx" />
 		<xi:include href="./ch-n_17_superposition.ptx" />
 		<xi:include href="./ch-n_18_physical-optics.ptx" />
-		<xi:include href="./ch-n_19_optics.ptx" />
+		
 
 		<xi:include href="./ch-n_20_charge-e-fields.ptx" />
 		<xi:include href="./ch-n_21_electric-force.ptx" />
