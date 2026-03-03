@@ -12,6 +12,91 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
+
+	<investigation>
+		<title>The Moving Wire Loop</title>
+		<statement><p></p>
+			<p>
+				The square wire loop below is located below a long straight wire carrying current <m>I_w</m>.  Each side of the circuit has length <m>l</m>.
+			</p>
+			<figure xml:id="fig-moving-loop">
+				<caption>A square wire loop moving upward toward a wire.</caption>
+				<image source="Moving-Loop.png" width = "40%" ></image>
+			</figure>
+			<p>
+				Make a magnetic induction table for each of the following cases:
+			</p>
+			<ol marker="A:">
+				<li>
+					<p>
+						The loop is moving upward with constant speed <m>v</m>. Choose an area vector into the page.
+					</p>
+				</li>
+				<li>
+					<p>
+						Repeat case A, but choose the area vector to be in the opposite direction.
+					</p>
+				</li>
+				<li>
+					<p>
+						Repeat case A, but now the loop is moving downward with constant speed <m>v</m>.
+					</p>
+				</li>
+				<li>
+					<p>
+						Repeat case A, but now the loop is moving to the left with constant speed <m>v</m>.
+					</p>
+				</li>
+				<li>
+					<p>
+						Repeat case A, but now the loop is stationary and the long straight wire is moving upward with constant speed <m>v</m>.
+					</p>
+				</li>
+			</ol>
+			<table>
+  <title>Blank Magnetic Induction Table</title>
+  <tabular halign="center">
+    <row header="yes" bottom="minor" >
+      <cell>Quantity</cell>
+      <cell>Case</cell>
+    </row>
+    <row>
+      <cell><m>\vec{A}</m></cell>
+      <cell></cell>
+    </row>
+    <row>
+      <cell><m>\vec{B}</m></cell>
+      <cell></cell>
+    </row>
+    <row>
+      <cell><m>\Phi_B</m></cell>
+      <cell></cell>
+    </row>
+    <row>
+      <cell><m>\frac{d\Phi_B}{dt}</m></cell>
+      <cell></cell>
+
+    </row>
+    <row>
+      <cell><m>V_{ind}</m></cell>
+      <cell></cell>
+
+    </row>
+		    <row>
+      <cell><m>I_{ind}</m></cell>
+      <cell></cell>
+
+    </row>
+		    <row>
+      <cell><m>\vec{\mu}_{ind}</m></cell>
+      <cell></cell>
+
+    </row>
+  </tabular>
+
+</table>
+		</statement>
+	</investigation>
 	
 	<project>
 		<title>Charging your Phone</title>
@@ -23,26 +108,21 @@
 	</project>
 
 	<investigation>
-		<title>Circuit II</title>
+		<title>Square Loop</title>
 		<statement><p></p>
-			<figure xml:id="fig-circuit_10">
-				<caption>Circuit diagram.</caption>
-				<image source="mag/circuit-10.png" width = "40%" ></image>
+			
+			<p>
+				A square wire loop with resistance <m>R</m> is located in a region of uniform magnetic field <m>B</m>.  Each side of the circuit has length <m>l</m> and the loop is rotating counterclockwise about a vertical axis (when viewed from above) with constant angular speed <m>\omega</m>.  (The axis of rotation is shown as a dashed line.)  The figure shows the loop at <m>t = 0</m>.
+			</p>
+			<figure xml:id="fig-loop-field">
+				<caption>A square wire loop in a uniform magnetic field.</caption>
+				<image source="Loop-Field.png" width = "30%" ></image>
 			</figure>
 			<p>
-				Shown below is a circuit with an ideal battery, a linear resistor, and an ideal inductor. This circuit has been connected for a very long time (with the switch open), and you measure the current through the inductor to be <m>I_A</m>. At time <m>t_1</m>, you close the switch. You then wait a long time and measure the current through the inductor to be <m>I_B</m>. Is <m>I_B</m> greater than, less than, or equal to <m>I_A</m>?
+				Explain how the magnetic flux and the induced current change over time.  As part of your explanation, sketch two graphs, one of the magnetic flux vs. time and one of the induced current vs. time, and describe how flux and current are related using your graphs.
 			</p>
 		</statement>
 		
 	</investigation>
-
-	<subsubsection>
-		<title>Metacognitive Reflection</title>
-		<statement><p></p>
-			<p>
-				Inductors and capacitors can both act as a voltage source in circuits. Compare and contrast inductors and capacitors. When can both elements act as a voltage source? As part of your comparison, include important equations for both circuit elements.
-			</p>
-		</statement>
-	</subsubsection>
 
 </section>

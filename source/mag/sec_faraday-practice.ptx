@@ -13,6 +13,29 @@
 	<m> \mathrm{~}</m>
 	-->
 
+	<investigation>
+		<title>Circuit II</title>
+		<statement><p></p>
+			<figure xml:id="fig-circuit_10">
+				<caption>Circuit diagram.</caption>
+				<image source="mag/circuit-10.png" width = "40%" ></image>
+			</figure>
+			<p>
+				Shown below is a circuit with an ideal battery, a linear resistor, and an ideal inductor. This circuit has been connected for a very long time (with the switch open), and you measure the current through the inductor to be <m>I_A</m>. At time <m>t_1</m>, you close the switch. You then wait a long time and measure the current through the inductor to be <m>I_B</m>. Is <m>I_B</m> greater than, less than, or equal to <m>I_A</m>?
+			</p>
+		</statement>
+		
+	</investigation>
+
+	<subsubsection>
+		<title>Metacognitive Reflection</title>
+		<statement><p></p>
+			<p>
+				Inductors and capacitors can both act as a voltage source in circuits. Compare and contrast inductors and capacitors. When can both elements act as a voltage source? As part of your comparison, include important equations for both circuit elements.
+			</p>
+		</statement>
+	</subsubsection>
+
 	<subsubsection>
 		<title>A*R*C*S Practice</title>
 
