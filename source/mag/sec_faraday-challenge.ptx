@@ -58,38 +58,70 @@
   <tabular halign="center">
     <row header="yes" bottom="minor" >
       <cell>Quantity</cell>
-      <cell>Case</cell>
+      <cell>Case A</cell>
+	  <cell>Case B</cell>
+	  <cell>Case C</cell>
+	  <cell>Case D</cell>
+	  <cell>Case E</cell>
     </row>
     <row>
       <cell><m>\vec{A}</m></cell>
       <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
     </row>
     <row>
       <cell><m>\vec{B}</m></cell>
       <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
     </row>
     <row>
       <cell><m>\Phi_B</m></cell>
       <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
     </row>
     <row>
       <cell><m>\frac{d\Phi_B}{dt}</m></cell>
       <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
 
     </row>
     <row>
       <cell><m>V_{ind}</m></cell>
       <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
 
     </row>
 		    <row>
       <cell><m>I_{ind}</m></cell>
       <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
 
     </row>
 		    <row>
       <cell><m>\vec{\mu}_{ind}</m></cell>
       <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
 
     </row>
   </tabular>
