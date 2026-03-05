@@ -10,7 +10,7 @@
 <p>This activity is intended to help you practice providing a scientific explanation following the steps introduced in <xref ref="fig_explanation"></xref>.</p>
 <p>You are in charge of an interstellar spacecraft that is investigating the planets around a faraway star system.  Currently, your spacecraft is located in the region of space between two of these planets, <alert>Ursula</alert> and <alert>Triton</alert>, where the net gravitational force on the spacecraft is equal to zero.  You have measured that the distance between your spacecraft and the center of Ursula, <m>d_u</m>, is greater than the distance between your spacecraft and the center of Triton, <m>d_t</m>.  You want to know whether the mass of Ursula is <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the mass of Triton.</p>
 <p>Before you begin, you may want to draw a simple diagram of this situation.</p>
-		  <exercise>
+		  <activity>
 			<title>Identify Building Blocks</title>
 			<statement>
 			  			<p>Which of the following equations do you think will be useful or applicable in approaching this situation?  For each equation, identify the corresponding physical model.</p>
@@ -25,14 +25,14 @@
 							<li><p>Other: __________</p></li>
 							</ul>
 							</statement>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>Reasoning</title>
 			<statement>
 			  			<p>Write an explanation allowing you to defend whether <m>m_u</m> is <em>greater than</em>, <em>less than</em>, or <em>equal to</em> <m>m_t</m>, starting from one or more of the physical models you previously identified as being useful or applicable to this situation.</p>
 							</statement>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>Evaluate</title>
 			<statement>
 			  			<p>Review the explanation below.  What do you think is missing?  Why do you think it is important to include the missing piece(s)?</p>
@@ -40,13 +40,13 @@
 							<p><q>The mass of Ursula is bigger because you are farther away from Ursula than from Triton.</q></p>
 							</blockquote>
 							</statement>
-			</exercise>
-			<exercise>
+			</activity>
+			<activity>
 			<title>Reflect</title>
 			<statement>
 			  			<p>Watch the video below, then review your answers to the questions above and reflect on how your thinking has changed over the course of this activity.  Generalize your thinking to identify (1) what is important to include in a scientific explanation and (2) what is <alert>unnecessary</alert> to include, and why.</p>
 							</statement>
-			</exercise>
+			</activity>
 			<video youtube="yaPCpsORgtE"><description>Explaining how to use the universal model for gravitation to predict the masses of planets.</description></video>
 		</subsubsection>
 
@@ -63,7 +63,7 @@
 			<description></description></image>
 		</figure>
 
-		<exercise>
+		<activity>
 			<title>Analyze and Represent</title>		
 			<task>
 				<title>Understand and Plan</title>
@@ -107,9 +107,9 @@
 					
 				</statement>
 			</task>
-		</exercise>
+		</activity>
 
-		<exercise>
+		<activity>
 			<title>Calculate</title>
 			<task>
 				<title>Represent Principles</title>
@@ -155,9 +155,9 @@
 					
 				</statement>
 			</task>
-		</exercise>
+		</activity>
 
-		<exercise>
+		<activity>
 			<title>Sensemake</title>
 			<task>
 				<title>Units</title>
@@ -237,12 +237,12 @@
 					</p>
 				</statement>
 			</task>
-		</exercise>
+		</activity>
 		</subsubsection>
 		
 		<subsubsection xml:id="psa_vec-6">
 		<title>III. Math Review</title>
-		<exercise>
+		<activity>
 			<title>What is an integral?</title>
 			<p>
 				
@@ -264,8 +264,8 @@
 					D. If <em>x</em> is measured in meters, what are the units of <em>V</em>?
 				</p>
 			</statement>
-		</exercise>
-		<exercise>
+		</activity>
+		<activity>
 			<title>Area of a Triangle</title>
 			<p>
 				
@@ -277,9 +277,9 @@
 				</figure>
 			</statement>
 			
-		</exercise>
+		</activity>
 		
-		<exercise>
+		<activity>
 			<title>Area of a Parabola</title>
 			<p>
 				
@@ -291,7 +291,7 @@
 				</figure>
 			</statement>
 
-	</exercise>
+	</activity>
 	</subsubsection>
   
 </section>

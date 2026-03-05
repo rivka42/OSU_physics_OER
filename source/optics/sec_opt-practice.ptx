@@ -18,12 +18,63 @@
 		<statement>
 			<p></p>
 			<p>
-				Two objects and a mirror are arranged as shown below. Draw a ray diagram to determine the location of the image of each of the two objects.
+				Draw a ray diagram to determine the location of the images of both objects in the figure.
 			</p>
 			<figure xml:id="fig_opt-mirror">
 			<title>Objects and Mirror Figure</title>
 				<caption>Two objects and a mirror.</caption>
-				<image source="ray-diagram-1.png" width = "100%">
+				<image source="MirrorOnly.png" width = "50%">
+					<description></description>
+				</image>
+			</figure>
+		</statement>
+	</investigation>
+
+	<investigation xml:id="pa_opt-1a">
+		<title>The Wall and the Mirror</title>
+		<statement>
+			<p></p>
+			<p>
+				Shown below is an object, a wall, and a flat mirror.
+			</p>
+			<ul>
+				<li>
+					<p>
+						Find the image location
+					</p>
+				</li>
+				<li>
+					<p>
+						Suppose you put your eye at each of the points on the right
+					</p>
+				</li>
+				<li>
+					<p>
+						At which points would you be able to see the object?
+					</p>
+				</li>
+				<li>
+					<p>
+						At which points would you be able to see the image?
+					</p>
+				</li>
+				<li>
+					<p>
+						What direction would you have to look to see it in each case?
+					</p>
+				</li>
+				<li>
+					<p>
+						Which rays is it necessary to draw to answer this questions?
+					</p>
+				</li>
+			</ul>
+				
+			</p>
+			<figure xml:id="fig_opt-mirror-wall">
+			<title>Objects and Mirror Figure</title>
+				<caption>An object, a wall, and a mirror.</caption>
+				<image source="WallMirror.png" width = "60%">
 					<description></description>
 				</image>
 			</figure>

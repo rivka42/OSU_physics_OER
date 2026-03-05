@@ -2,15 +2,7 @@
 
 <section xml:id="sec_curved-mirrors" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Curved Mirrors</title>
-    <p>We can also use the ray model for light to explain images created by convex and concave mirrors.</p>
-    
-    <assumption xml:id="a_mirror">
-        <title>Parabolic Mirrors</title>
-        <statement>
-            <p></p>
-            <p>When we are talking about curved mirrors, we are assuming that we are looking at the section where it is <term>parabolic</term>. This means that all incoming rays parallel to the principal axis will be reflected to or appear to originate from the focal point.</p>
-        </statement>
-    </assumption>
+
 
     <algorithm xml:id="vid-concave-mirror">
 	<title>Concave Mirrors</title>
@@ -19,26 +11,63 @@
 	</statement>
 </algorithm>
 
-    <figure xml:id="concave_mirror">
+<subsubsection><title>Key Ideas</title></subsubsection>
+
+    <p>The ray model for light can also account for the images created by curved mirrors, by treating each location on a mirror as locally flat.  For certain mirror shapes, you can derive mathematical rules for determining the location of the image.</p>
+
+    
+    <assumption xml:id="a_mirror">
+        <title>Parabolic Mirrors</title>
+        <statement>
+            <p></p>
+            <p>If a section of a curved mirror is <term>parabolic</term>, all incoming rays parallel to the principal axis will be reflected to or appear to originate from the focal point.  Spherical mirrors are approximately parabolic for parallel rays that strike the mirror close to the intersection of the axis and the mirror.</p>
+        </statement>
+    </assumption>
+
+        <definition>
+        <title>Focal Length</title>
+        <p></p>
+        <p>
+            The <term>focal length</term> for a spherical mirror is <m>f = \frac{R}{2}</m>, where <m>R</m> is the radius of curvature of the mirror.
+        </p>
+    </definition>
+
+    <p>
+        The figure below shows a ray diagram for a concave parabolic mirror, choosing for convenience three principal rays that are especially easy to sketch.
+    </p>
+
+        <figure xml:id="concave_mirror">
 			<title>Concave Mirror Figure</title>
-        <caption>Diagram of a concave mirror. Notice there are three rays which help us figure out where the image is: the first ray comes in parallel to the optical axis, and is reflected through the focal point. The second ray travels through the focal point and is reflected back parallel to the optical axis. The third ray hits the vertex of the mirror at the center, and is reflected back at the same incidence angle. Where the three rays intersect is there the top of the object is located. The image distance is negative for virtual images and positive for real images.</caption>
+        <caption>Diagram of a concave mirror. Three principal rays help determine the image location: the first ray comes in parallel to the optical axis, and is reflected through the focal point. The second ray travels through the focal point and is reflected back parallel to the optical axis. The third ray hits the vertex of the mirror at the center, and is reflected back at the same incidence angle. Where the three rays intersect is where the top of the image is located. The image distance is negative for virtual images and positive for real images.</caption>
         <image source="optics/concave.jpg" width = "90%" ><description>A green arrow, labelled as "object" sits upright and to the left of a concave mirror. The tail of the arrow sits on the optical axis, which runs straight through the center of the mirror. A vertical dashed line sits tangent to and behind the mirror. Three arrows leave from the head of the arrow, hit the dashed line, and then reflect backwards and intersect with one another. Another green arrow points downwards with the head of the arrow at the intersection point. This arrow is labelled as "image".</description></image>
     </figure>
 
-    <definition>
+    <p>
+        Given the assumptions above, the location of the image may be found using the geometry in the figure.
+    </p>
+
+        <principle>
         <title>The Mirror Equation</title>
         <p></p>
         <p>
             The <term>Mirror Equation</term> is defined as <m>\frac{1}{d_o} + \frac{1}{d_i} = \frac{1}{f}</m>, where <m>d_o</m> is the object distance, <m>d_i</m> is the image distance, and <m>f</m> is the focal length of the mirror.
         </p>
-    </definition>
-    <definition>
-        <title>Focal Length</title>
-        <p></p>
+    </principle>
+
+    <p>
+    By considering similar triangles in the figure above, the height of the image can be determined in terms of the height of the object, giving the magnification achieved by the mirror for a given object.
+    </p>
+
+        <definition xml:id="d_magnification">
+        <title>Magnification</title>
         <p>
-            The <term>Focal Length</term> of a mirror is defined as <m>f = \frac{R}{2}</m>, where <m>R</m> is the radius of curvature of the mirror.
+            <p></p>
+            <term>Magnification</term> is defined to be the height ratio between the height of an image to the height of an object: <me>M = \frac{h_i}{h_o} = -\frac{d_i}{d_o} </me>.
         </p>
     </definition>
+
+
+
     
     <subsubsection>
         <title>Curved Mirror Activities</title>

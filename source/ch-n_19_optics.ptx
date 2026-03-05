@@ -40,16 +40,20 @@
 
 	<!--PREPARE SECTIONS-->
 	<xi:include href="./optics/sec_reflection.ptx" />
+	<xi:include href="./optics/sec_mirrors.ptx" />
 	<xi:include href="./optics/sec_plane-mirrors.ptx" />
 	<xi:include href="./optics/sec_refraction.ptx" />
-	<xi:include href="./optics/sec_lenses.ptx" /> 
+	<xi:include href="./optics/sec_refraction-exercises.ptx" />
 	<xi:include href="./optics/sec_curved-mirrors.ptx" />
+	<xi:include href="./optics/sec_lenses.ptx" /> 
+
 
     <!--PRACTICE SECTIONS-->
 
 	<xi:include href="./optics/sec_opt-practice.ptx" />
 
     <!--CHALLENGE SECTIONS-->
+	<xi:include href="./optics/sec_compound-optics.ptx" />
 	<xi:include href="./optics/sec_opt-challenge.ptx" />
 
 	<!--

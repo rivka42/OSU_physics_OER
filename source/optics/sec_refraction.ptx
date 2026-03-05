@@ -3,24 +3,17 @@
 <section xml:id="sec_refraction" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Refraction</title>
 
-    <subsubsection>
+    <activity>
 		<title>Warm-up Activity</title>
-			<activity>
-                <title>Exploring Refraction</title>
                 <p>
                     
                 </p>
-			  <p>Play with this <url href="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html" visual="light simulation"/> for at least a few minutes.  For now, focus on the <q>intro</q> tab.</p>
+			  <p>Play with this <url href="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html" visual="light simulation"/> for a few minutes.  For now, focus on the <q>intro</q> tab.</p>
 
-              <p>Make a list of your observations as you go. Design and carry out an experiment to investigate one of your observations.</p>
+              <p>Make a list of your observations as you go.</p>
+              
+              <p>Design and carry out an experiment to investigate one of your observations.</p>
 			</activity>
-			<activity>
-                <!--
-                    From Paul's get-ready activity.
-                -->
-			<p>Make a list of your observations as you go. Design and carry out an experiment to investigate one of your observations.</p>
-			</activity>
-		</subsubsection>
 
     <corollary xml:id="vid-refraction">
 	<title>Law of Refraction</title>
@@ -36,7 +29,7 @@
         <title>Index of Refraction</title>
         <statement>
             <p></p>
-            <p>The <term>Index of Refraction</term> is defined as <m>n = c/v</m>, the speed of light in vacuum divided by the speed of light in a medium. This number tells you something about how much a light ray will bend when crossing the boundary from one medium to another.</p>
+            <p>The <term>Index of Refraction</term> tells you something about how much a light ray will bend when crossing the boundary from one medium to another.  It can be quantified as the speed of light in vacuum <m>c</m> divided by the speed of light in a given medium <m>v</m>: <me>n = c/v</me> </p>
         </statement>
     </definition>
 
@@ -56,54 +49,12 @@
 
 
     <subsubsection>
-        <title>Refraction Activities</title>
+        <title>Activities</title>
 				            <activity xml:id="x_refraction-practice">
                 <title>Air, Oil, and Water</title>
                 <p></p>
 								<p>Draw a ray diagram for light that travels from air (<m>n = 1.00</m>) into oil (<m>n = 1.45</m>) and then into water (<m>n = 1.33</m>).  Which way does the light bend at each change of medium?</p>
 								</activity>
-            <activity xml:id="x_total-internal-reflection">
-                <title>Total Internal Reflection</title>
-                <p></p>
-                <p>When a ray of light passes from one medium into another, the ray will be refracted in the second medium according to the Law of Refraction. But for some critical angle and above, the ray of light will be completely reflected back into the initial medium. In this activity, we will work through this phenomenon to arrive at a useful conclusion. Work through the following questions.</p>
-                <p>When a ray of light passes from one medium into another, the ray will be refracted in the second medium according to the Law of Refraction. But for some critical angle and above, the ray of light will be completely reflected back into the initial medium. In this activity, we will work through this phenomenon to arrive at a useful conclusion. Work through the following questions.</p>
-                <ol>
-                    <li>
-                        Starting with the (<xref ref="refraction" />), think about the initial condition for total internal reflection. If you want the second ray (the one entering the second medium) to start to be reflected back (i.e., the ray will not be entering the second medium), what does the second angle need to be equal to? Write down Snell's Law for this situation.
-                        <answer>
-                        <p><m>90^\circ</m>. This means the second ray is going to point along the interface between the first and second medium. This would be the starting point for the initial ray being completely reflected back into the first medium. Snell's law would then be: <m>n_1 \mathrm{sin} \theta_c = n_2 \mathrm{sin}(90^\circ) = n_2</m>. <m>\theta_c</m> is known as the critical angle.</p>
-                        </answer>
-                    </li>
-                    
-                    <li>What does this mean about the ratio of <m>n_2 / n_1</m>? Does the index of refraction of the second medium need to be greater than or less than the index of refraction of the first medium? Can they be equal to each other?</li>
-                    
-                    <li>
-                        A light ray is traveling through diamond (<m>n_1 = 2.4</m>) and is incident upon a layer of olive oil (<m>n_1 = 1.4</m>). What is the critical angle for this situation?
-                        <answer>
-                            <p><m>\theta_c = 35.6^\circ</m></p>
-                        </answer>
-                    </li>
-                
-                    <li>Return to the simulation you played with at the beginning of this section and experiment with total internal reflection. List some observations.</li>
-                </ol>  
-            </activity>
-
-            <activity xml:id="x_dispersion">
-                <title>Dispersion</title>
-                <p></p>
-                <p>Until now, you have been considering an unspecified light ray. Light, however, has a wavelength (or multiple different wavelengths in the case of white light). The difference in how light rays of different wavelengths behave is known as <term>dispersion</term>. The fundamental cause of dispersion is that the index of refraction in a substance actually depends on the wavelength of light.</p>
-                <p>In this activity, you will use this fact to understand how a prism works.</p>
-
-                <ol>
-                    <li>First draw a ray diagram of a light ray entering a prism and then exiting through the other side. Label all necessary angles and indexes of refraction.</li>
-                    <li>
-                        The indexes of refraction for violet and red light passing through a prism are <m>n_v = 1.53</m> and <m>n_r = 1.51</m>, respectively. If the incident angle is <m>45^\circ</m>, what is the angle of the light within the prism for both colors? What does this mean for the light that emerges from the prism? 
-                        <answer>
-                            <p><m>\theta_2 = 27.5^\circ</m> for violet light rays and <m>\theta_2 = 27.9^\circ</m> for red light rays. While this difference might seem small, the fact there is any difference at all allows for the light to be dispersed.</p>
-                        </answer>
-                    </li>
-                    <li>Explain how a prism works! Write a few sentences explaining how a prism works and why you see a rainbow if we shine white light through the prism.</li>
-                </ol>
-            </activity>
+            
     </subsubsection>
 </section>

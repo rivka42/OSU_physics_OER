@@ -36,16 +36,12 @@
 			</statement>
 		</conjecture>
 
-    <subsubsection>
-        <title>Ray Diagram Activities</title>
-            <activity xml:id="x_intro-ray-diagram">
-                <title>Exploration: What can you see in the mirror?</title>
-                <p></p>
-                <p>Stand in front of a flat mirror (like in a bathroom) and look at your reflection. You should be able to see in the mirror parts of your body that are below the base of the mirror. Use the ray model of light to explain how this is possible.</p>
-            </activity>
+        <p>
+            Since ray optics is concerned with light, it can help you answer questions about vision.  The most basic such question is: can you see something?  In general, if you want to see an object, light from that object has to reach your eye (you also need to be looking in the direction that the light comes from).
+        </p>
 
-            <activity xml:id="x_intro-pinhole-camera">
-                <title>Practice: Pinhole Camera</title>
+        <example xml:id="x_intro-pinhole-camera">
+                <title>Pinhole Camera</title>
                 <p></p>
                 <p><figure xml:id="pinhole_camera">
 			<title>Pinhole Camera Figure</title>
@@ -53,6 +49,13 @@
                         <image source="optics/pinhole_camera.jpg" width = "90%" ><description>A green arrow, labelled as "Object", sits to the right of two screens.The screen closest to the object has a small hole in the center. Two rays travel from the head and tail of the arrow, through the hole, and end on the screen on the far left.</description></image>
                 </figure></p>
                 <p>A pinhole camera, also called a camera obscura, is an optical phenomenon that occurs when light travels through a very small aperture. Using the figure above, where should you stand in order to see what is on the screen? What do you see on the screen? Find other examples of pinhole cameras online. What sort of observations can you make? Can you make a pinhole camera yourself?</p>
-            </activity>
+            </example>
+
+            <!--
+
+    <subsubsection>
+        <title>Activities</title>     
     </subsubsection>
+
+    -->
 </section>
