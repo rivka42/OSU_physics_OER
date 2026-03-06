@@ -38,10 +38,11 @@
     <p>In this situation, you are seeing a <term>virtual image</term>. Virtual images are produced when light rays do not physically travel to the image location. When you are looking at yourself in a mirror, there is no physical copy of yourself behind the mirror. The image that you see is virtual. When you are looking at ray diagrams of mirrors and lenses, you are typically interested in figuring out where the image is located.</p>
 
     <definition>
-        <title>Virtual Image</title>
+        <title>Real and Virtual Images</title>
         <statement>
             <p></p>
-            <p>A <term>virtual image</term> is created when light rays form an image but <em>do not travel</em> through the image location. These images typically have a negative image distance.</p>
+            <p>A <term>real image</term> is created when light rays form an image by <em>traveling</em> through the image location.</p>
+            <p>A <term>virtual image</term> is created when light rays form an image but <em>do not travel</em> through the image location.</p>
         </statement>
     </definition>
 
@@ -60,7 +61,7 @@
                 <ol>
                     <li>What is the illusion here?</li>
                     <li>Draw a ray diagram to explain how you can still see the object in the mirror.</li>
-                    <li>How would you explain this to someone that doesn't know anything about the ray model for light and reflections?</li>
+                    <li>How would you explain this to someone that does not know anything about the ray model for light and reflections?</li>
                 </ol>
             </activity>
     </subsubsection>

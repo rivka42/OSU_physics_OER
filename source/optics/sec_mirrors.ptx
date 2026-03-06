@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_mirrors" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Mirrors</title>
+    <title>Mirror Exercises</title>
     
     <subsubsection>
         <title>Plane Mirror Activities</title>
@@ -14,12 +14,12 @@
                 <p>Make some observations as you move the object away from and towards the mirror and use them to describe how the size and position of the image depend on the position of the object.</p>
             </activity>
             <activity xml:id="x_intro-ray-diagram">
-                <title>Exploration: What can you see in the mirror?</title>
+                <title>What can you see in the mirror?</title>
                 <p></p>
                 <p>Stand in front of a flat mirror (like in a bathroom) and look at your reflection. You should be able to see in the mirror parts of your body that are below the base of the mirror. Sketch a ray diagram showing the path the light follows from the object to your eye.</p>
             </activity>
             <activity xml:id="x_corner-reflector">
-                <title>Practice: Corner Reflector</title>
+                <title>Corner Reflector</title>
                 <p></p>
                 <p>A corner reflector is made up of two mirrors meeting each other at a 90 degree angle. Let a light ray hit one of the mirrors so that the ray is reflected to the other mirror. Draw a ray diagram of this situation. What do you notice about the final reflected ray? What is special about this kind of object?</p>
             </activity>
