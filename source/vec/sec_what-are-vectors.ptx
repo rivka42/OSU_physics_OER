@@ -93,10 +93,40 @@ Another, common example of a vector is <alert>velocity</alert>. Velocity is a qu
 		<p>Make a list of physical quantities you are familiar with from your everyday experience.  For each quantity, do you think it would be better to represent it as a <em>scalar</em> or as a <em>vector</em>?</p>
 		</statement>
 		<answer>
-			<p>
-				Position, velocity, acceleration, force, and momentum are examples of physical quantities that are represented by vectors.  
-				In contrast, time, mass, charge, and temperature are represented by scalars.
-			</p>
+
+<table>
+	<title>Examples of Scalar and Vector Quantities</title>
+	
+	
+  <tabular halign="center">
+    <row header="yes" bottom="minor" >
+      <cell>Scalars</cell>
+      <cell>Vectors</cell>
+    </row>
+    <row>
+      <cell>Time</cell>
+      <cell>Position</cell>
+    </row>
+    <row>
+      <cell>Mass</cell>
+      <cell>Velocity</cell>
+    </row>
+    <row>
+      <cell>Charge</cell>
+      <cell>Acceleration</cell>
+    </row>
+    <row>
+      <cell>Temperature</cell>
+      <cell>Force</cell>
+    </row>
+    <row>
+      <cell>Energy</cell>
+      <cell>Momentum</cell>
+    </row>
+  </tabular>
+
+</table>
+
 		</answer>
 		</activity>
 				<activity xml:id="x_length">

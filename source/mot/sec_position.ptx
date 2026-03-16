@@ -115,7 +115,7 @@ Symbols like <m>\hat{x}</m> and <m>\hat{y}</m> are special vectors called <em>un
 		<statement>
 		<p></p>
 		<p>Use what you know about triangles and vector components to write equations relating <m>r_x</m> and <m>r_y</m> to <m>r</m> (the magnitude of <m>\vec{r}</m>) and <m>\theta</m> in the figure above.  
-		How would the answer have differed if you wanted to write the components in terms of the other angle in the triangle?</p>
+		How would the answer differ if you want to write the components in terms of the other angle in the triangle?</p>
 		</statement>
 		<answer>
 		<p>
@@ -136,7 +136,7 @@ Symbols like <m>\hat{x}</m> and <m>\hat{y}</m> are special vectors called <em>un
 			<title>State Vectors</title>
 			<p></p>
 			<p>Choose a different state (or country) than Oregon and find a simple map.  Mark a few of the major cities or landmarks on the map (at least three).
-			<ol marker="a">
+			<ol marker="a)">
 			<li>
 			  <p>Choose a coordinate system and an origin and mark them on your map.</p>
 			</li>
