@@ -5,7 +5,7 @@
 <!-- just imports other .ptx files which contain content. Open   -->
 <!-- those files to see more pretext features                    -->
 
-<!--     python -m pretext build web -g     -->
+<!--     python -m pretext build web -g     --> 
 
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
 
@@ -27,18 +27,18 @@
 
     <!--
 		This is the original structure, which had 11 big chapters
-    <xi:include href="./ch_01_vectors.ptx" />
-    <xi:include href="./ch_02_motion.ptx" />
-		<xi:include href="./ch_03_forces.ptx" />
-		<xi:include href="./ch_04_energy.ptx" />
-		<xi:include href="./ch_05_rotational.ptx" />
-		<xi:include href="./ch_06_oscillate.ptx" />
-		<xi:include href="./ch_07_waves.ptx" />
-		<xi:include href="./ch_08_optics.ptx" />
-    <xi:include href="./ch_09_electricity.ptx" />
-		<xi:include href="./ch_10_circuits.ptx" />
-    <xi:include href="./ch_11_magnetism.ptx" />
-		<xi:include href="./ch_00_prep.ptx" />
+    <xi:include href="./1oldch/ch_01_vectors.ptx" />
+    <xi:include href="./1oldch/ch_02_motion.ptx" />
+		<xi:include href="./1oldch/ch_03_forces.ptx" />
+		<xi:include href="./1oldch/ch_04_energy.ptx" />
+		<xi:include href="./1oldch/ch_05_rotational.ptx" />
+		<xi:include href="./1oldch/ch_06_oscillate.ptx" />
+		<xi:include href="./1oldch/ch_07_waves.ptx" />
+		<xi:include href="./1oldch/ch_08_optics.ptx" />
+    <xi:include href="./1oldch/ch_09_electricity.ptx" />
+		<xi:include href="./1oldch/ch_10_circuits.ptx" />
+    <xi:include href="./1oldch/ch_11_magnetism.ptx" />
+		<xi:include href="./1oldch/ch_00_prep.ptx" />
 				-->
 		
 		<!--
@@ -57,17 +57,17 @@
 		<xi:include href="./ch-n_09_momentum.ptx" />
 		<xi:include href="./ch-n_10_modeling.ptx" />
 
-		<xi:include href="./ch-n_19_optics.ptx" />
+		<xi:include href="./ch-n_11_optics.ptx" />
 
-		<xi:include href="./ch-n_11_rotational.ptx" />
-		<xi:include href="./ch-n_12_torque.ptx" />
-		<xi:include href="./ch-n_13_inertia.ptx" />
-		<xi:include href="./ch-n_14_rot-el.ptx" />
+		<xi:include href="./ch-n_12_rotational.ptx" />
+		<xi:include href="./ch-n_13_torque.ptx" />
+		<xi:include href="./ch-n_14_inertia.ptx" />
+		<xi:include href="./ch-n_15_rot-el.ptx" />
 
-		<xi:include href="./ch-n_15_oscillate.ptx" />
-		<xi:include href="./ch-n_16_waves.ptx" />
-		<xi:include href="./ch-n_17_superposition.ptx" />
-		<xi:include href="./ch-n_18_physical-optics.ptx" />
+		<xi:include href="./ch-n_16_oscillate.ptx" />
+		<xi:include href="./ch-n_17_waves.ptx" />
+		<xi:include href="./ch-n_18_superposition.ptx" />
+		<xi:include href="./ch-n_19_physical-optics.ptx" />
 		
 
 		<xi:include href="./ch-n_20_charge-e-fields.ptx" />

@@ -38,12 +38,24 @@
 
         <figure xml:id="concave_mirror">
 			<title>Concave Mirror Figure</title>
-        <caption>Diagram of a concave mirror. Three principal rays help determine the image location: the first ray comes in parallel to the optical axis, and is reflected through the focal point. The second ray travels through the focal point and is reflected back parallel to the optical axis. The third ray hits the vertex of the mirror at the center, and is reflected back at the same incidence angle. Where the three rays intersect is where the top of the image is located. The image distance is negative for virtual images and positive for real images.</caption>
+        <caption>Diagram of a concave mirror with three principal rays.</caption>
         <image source="optics/concave.jpg" width = "90%" ><description>A green arrow, labelled as "object" sits upright and to the left of a concave mirror. The tail of the arrow sits on the optical axis, which runs straight through the center of the mirror. A vertical dashed line sits tangent to and behind the mirror. Three arrows leave from the head of the arrow, hit the dashed line, and then reflect backwards and intersect with one another. Another green arrow points downwards with the head of the arrow at the intersection point. This arrow is labelled as "image".</description></image>
     </figure>
 
     <p>
-        Given the assumptions above, the location of the image may be found using the geometry in the figure.
+    <alert>Principal Rays</alert>
+    <ol>
+        <li>
+            Ray 1 comes in parallel to the optical axis, and is reflected through the focal point
+        </li>
+        <li>
+            Ray 2 travels through the focal point and is reflected back parallel to the optical axis
+        </li>
+        <li>
+            Ray 3 hits the vertex of the mirror at the center, and is reflected back at the same incidence angle
+        </li>
+    </ol>
+    Where the three rays intersect is where the top of the image is located. As established previously, the image distance is negative for virtual images and positive for real images.  Once you have found the image using principal rays, the image location may be determined using the geometry.
     </p>
 
         <principle>
@@ -74,13 +86,40 @@
             <activity>
                 <title>Convex Mirrors</title>
                 <p></p>
-                <p>Find where the image is located for this convex mirror.
+                <p>Follow the steps below to determine the image location for a convex mirror.
                     <figure xml:id="empty_convex_mirror">
 			<title>Convex Mirror Figure</title>
                         <caption>Empty diagram of a convex mirror. Where is the image located?</caption>
                         <image source="optics/empty_convex.jpg" width = "90%" ><description>A green arrow, labelled as "object", sits up right and to the left of a convex mirror. The optical plane of the mirror is sitting in front of and tangent to the mirror as a dashed line. The focal point of the mirror is labelled as "f" on the right side of the mirror.</description></image>
                     </figure>
                 </p>
+                <ol marker="A)">
+                    <li>
+                        <p>
+                            Sketch a ray diagram showing the three principal rays that start at the tip of the object.  Use a straightedge and make your sketch carefully
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Extend each ray backward using a dashed line to show the path it looks like it is coming from after reflecting off the mirror.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Determine the image location by looking for a point where all three reflected rays appear to converge.  Does it appear that this image is real or virtual?
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Measure the position of the the object and the image and use them to find a magnification.  Is it positive or negative?  Is it greater than or smaller than 1?
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Substitute your image and object distances into the Mirror Equation and use them to determine the focal length of the mirror.  Measure the focal length on your diagram and see if it agrees with your calculation.  What do you think the sign of the focal length tells you?
+                        </p>
+                    </li>
+                </ol>
                 <answer>
                     <p> Check the following ray diagram and compare it with your own. How did you do? If you made any mistakes, list them and indicate how you need to change your rays in order to produce the correct image.
                         <figure xml:id="convex_mirror">
@@ -101,9 +140,9 @@
 </algorithm>
                     </p>
                 </answer>
-            </activity>
+                 </activity>
             <activity xml:id="x_spherical-mirror">
-                <title>Curved Mirrors</title>
+                <title>Exploring Curved Mirrors</title>
                 <p></p>
                 <p>Spend some time playing with this <url href="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html" visual="mirror simulation"/>. Make sure to click the <q>Mirror</q> option. Select the concave mirror first.</p>
                 <p>As you are playing with this simulation, walk yourself through the following questions:</p>
@@ -114,7 +153,7 @@
                     <li>Is there any way you can make a real image with only a convex mirror?</li>
                 </ol>
             </activity>
-            <activity xml:id="x_mirror_eqn">
+                        <activity xml:id="x_mirror_eqn">
                 <title>Mirror Equations</title>
                 <p></p>
                 <p>Answer the following questions using what you know about curved mirrors.</p>
