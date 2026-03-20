@@ -1,9 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_arcs" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>A*R*C*S</title>
+  <title>Challenge Activities</title>
 		
-<p>At this point, you have learned a wide range of skills that you can apply to a physics context, including:</p>
+<p>
+	The last section in each chapter includes a set of challenge activities.  Each activity is typically either an Explanation Task, focused on conceptual understanding and using scientific reasoning, or an A*R*C*S Activity, focused on using representational fluency, symbolic algebra, and physics sensemaking to explore situations with deep physics.
+</p>
+
+<subsubsection>
+		<title>Challenge Activity Philosophy</title>
+		<introduction>
+			<p>
+		When you work on a challenge activity, your goal is not just to solve a problem, 
+		but to <alert>learn new physics</alert> and <alert>practice communicating</alert>.
+	</p>
+		</introduction>
+	</subsubsection>
+	
+	
+	<subsubsection>
+	<title>Explanation Task Instructions</title>
+	
+	<p>Physics is a systematic way of looking at the world that involves building <em>quantitative models</em> and 
+	<em>mechanistic explanations</em> for why real-world objects and systems behave the way they do.  
+	When you provide an explanation, include the steps detailed below.</p>
+	
+		  <figure xml:id="fig_explanation">
+		  <title>Explanation Task Steps</title>
+		 <caption>Steps to follow when giving an explanation.</caption>
+		<image source="ExplanationSteps.png" width = "100%">
+			<description>Explanations in Physics.  
+			1. Principles - what fundamental physics concepts, laws, or definitions did you start with? 
+			2. Reasoning - explain all the reasoning steps to go from your principles to your conclusion.  
+			3. Conclusion - state your conclusion clearly.  
+			</description></image>
+  </figure>	
+	
+	<example xml:id="ex_park-explanation">
+	<title>Rectangular Park I</title>
+	<p>
+	     You manage parks for Corvallis, and you are comparing two rectangular parks that have the same total area.  Park 1 is 2 km long, while park 2 is 3 km long.  Is the width of park 2 greater, less than, or equal to the width of park 1?
+	</p>
+<p>
+     <ol>
+		     <li><em>Principles</em>: If <m>l</m> is the length and <m>w</m> is the width of a rectangular park, the area is <m>A_{rectangle} = lw</m>.</li>
+		     <li><em>Reasoning</em>: The area of the two parks is constant, so we can say that <m>A_1 = A_2</m> or alternatively <m>l_1 w_1 = l_2 w_2</m>. Since <m>l_2</m> is greater than <m>l_1</m>, we must have that <m>w_2</m> is smaller than <m>w_1</m> to keep the product of l and w the same for the two parks.  The width of park 2 is less than the width of park 1. A way of making sense of this is to draw pictures of two example parks that have different widths but the same area.
+			<figure xml:id="fig_park-area">
+				<title>Two Parks Figure</title>
+				<caption>Two rectangles, one with greater length than the other.</caption>
+				<image source="park-area.png" width = "60%">
+				<description></description></image>
+			</figure>	
+			</li>	
+		     <li><em>Conclusion</em>: The width of park 2 is less than the width of park 1.</li>
+		</ol>
+</p>	
+	
+	<p><alert>Commentary</alert></p>
+	
+	<p>
+     <ol>
+		     <li><em>Principles</em>: The Principle for this problem is relatively simple!  Sometimes you will only have one simple Principle like in this problem, while other times you may have several.</li>
+		     <li><em>Reasoning</em>: An important claim here is that the parks have the same area.  Note that even though this is stated in the problem, make sure you list it here—often there is information in the problem statement that is not directly relevant or necessary to consider. You should go through every step of the reasoning here, starting from the principle: first, from the claim that two areas are equal, use proportional reasoning to go from the given relationship between <m>l</m>'s to the desired relationship between <m>w</m>'s.  
+			 You can mix words, symbols, and even pictures in your reasoning!</li>
+		     <li><em>Conclusion</em>: Clearly state the conclusion of your reasoning that answers the question.</li>
+		</ol>
+</p>
+	
+</example>
+
+</subsubsection>
+
+<investigation xml:id="ch_vec-2">
+        <title>A Walk in the Park</title>
+		<statement>
+		<p></p>
+		
+		<p>You have been asked to walk your dog around a large park. Your dog always walks north first, then turns and walks in a different direction for the same distance, and last she turns again and walks in another different direction for the same distance.  At the end of today's walk, you find yourself back at the exact position where you started!  Give an explanation for how this is possible using vectors.</p>
+		<assemblage>
+		<p><alert><!--REPLACE_TAG-->Tip:</alert> Draw a diagram to support your reasoning.</p>
+		</assemblage>
+
+		</statement>
+		<!--<hint>
+		<p>In activities like this, a diagram is nearly always essential!</p>
+		</hint>-->
+	</investigation>
+
+<subsubsection>
+	<title>A*R*C*S Activity Instructions</title>
+	
+
+
+  <p>At this point, you have learned a wide range of skills that you can apply to a physics context, including:</p>
 
 <ul>
 <li><p>Identifying assumptions, as shown in the <xref ref="fig_assumptions"/></p></li>
@@ -40,12 +129,12 @@
 <p><alert>1. Analyze and Represent</alert></p>
 		
 		<p>
-			<ol marker="a)">
+			<ol marker="a.">
 				<li>
 					<p>
 						<alert>List quantities.</alert>  The only known here is <m>l = 110 \mathrm{~m}</m>, the length of the rectangular park.  
 						There are many unknowns: <m>s</m> (the side length of the square park), <m>w</m> (the width of the rectangle), 
-						<m>P_{square}</m>, <m>A_{rectangle}</m>, and <m>P_{rectangle}</m>, and <m>A_{square}</m> (which we are trying to find).
+						<m>P_{square}</m>, <m>A_{rectangle}</m>, and <m>P_{rectangle}</m>, and <m>A_{square}</m> (which you are trying to find).
 					</p>
 				</li>
 				<li>
@@ -73,7 +162,7 @@
 		<p><alert>2. Calculate</alert></p>
 		
 		<p>
-			<ol marker="a)">
+			<ol marker="a.">
 				<li>
 					<p>
 						<alert>Represent principles symbolically.</alert> 
@@ -114,37 +203,37 @@
 		<p><alert>3. Sensemake</alert></p>
 		
 		<p>
-			<ol marker="a)">
+			<ol marker="a.">
 				<li>
 					<p>
 						<alert>Are the units correct?</alert>  
 						The units for area should be <m>\mathrm{m^2}</m>.  
-						Each factor of <m>l</m> in our answer has units of <m>\mathrm{m}</m>, so squaring it gives <m>\mathrm{m^2}</m>, which is what we expect!
+						Each factor of <m>l</m> in the answer has units of <m>\mathrm{m}</m>, so squaring it gives <m>\mathrm{m^2}</m>, which is what you should expect!
 					</p>
 				</li>
 				<li>
 					<p>
 						<alert>Is your numerical answer reasonable?</alert>  
-						Something a little weird happened.  You got <em>two</em>> numbers.  What does that mean?  
+						Something a little weird happened.  You got <em>two</em> numbers.  What does that mean?  
 						In this case you were told that the length of the park was <m>l</m>, 
 						but you were not told whether the length was bigger or smaller than the width!  
 						The two cases correspond to those two possibilities.  
 						The units <m>\mathrm{m^2}</m> are not great for making sense of something as big as a park, 
 						so you can look up how many <m>\mathrm{m^2}</m> are in an acre (4047), 
 						which is a more reasonable measure of land area for a park.  
-						This gives us 41.6 acres (this would be a pretty big park!) and 0.2 acres (on the other hand, very small).
+						This gives 41.6 acres (this would be a pretty big park!) and 0.2 acres (on the other hand, very small).
 					</p>
 				</li>
 				<li>
 					<p>
 							<alert>Does your symbolic answer make physical sense?</alert>  
-							A quick way to check if our answer makes sense is to evaluate how it depends on the given quantities.  
-							In our case, the area varies like <m>l^2</m>.  
+							A quick way to check if your answer makes sense is to evaluate how it depends on the given quantities.  
+							In this case, the area varies like <m>l^2</m>.  
 							First of all, it depends on the square of <m>l</m>, 
 							which is something you have seen before in many other expressions for area, 
 							such as for squares, circles, polygons, etc.  
 							More specifically, this means that increasing <m>l</m> (making the given parameter bigger) 
-							corresponds to an increase in the area.  Lastly, we can check special values of <m>l</m> 
+							corresponds to an increase in the area.  Lastly, you can check special values of <m>l</m> 
 							and see what your answer is.  The most special value of <m>l</m> is <m>l = 0</m>, 
 							which corresponds to no park at all!  
 							In this case, the area of the park should of course be 0, 
@@ -157,37 +246,24 @@
 	
 </example>
 
+</subsubsection>
 
+<project xml:id="ch_vec-4">
+        <title>The Tower in the Forest</title>
+		<introduction>
+			<p></p>
+		
+			<p>You and a friend are each lost in the same forest.  They message you that they are directly northeast of a very large tower that is about <m>3</m> miles away.  You are about <m>2</m> miles away from the same large tower, but you are <m>25^o</m> west of south of it.  About how far are you from your friend?  What direction would you need to walk to reach your friend?</p>
+		
+		</introduction>
 
-
-
-
-	
-	<subsubsection>
-		
-<project xml:id="class_brick-rail">
-        <title>The Brick against the Rail</title>
-		
-		<p></p>
-		
-		    <p>A small brick of mass <m>0.8 \mathrm{~kg}</m> is positioned against a horizontal wooden railing. 
-You pull on the rope at the <m>60^o</m> angle shown so that the acceleration of the brick is <m>2 \mathrm{~m/s^2}</m> to the left. 
-Find the magnitudes of all forces on the brick.</p>
-		
-			<figure xml:id="for_brick-pull">
-			<title>Brick Figure</title>
-		 <caption>A brick is pulled against a wooden railing.</caption>
-		<image source="BrickPull.png" width = "50%">
-			<description></description></image>
-  </figure>
-		
 		<p><alert>1. Analyze and Represent</alert></p>
 		
 		<p>
-			<ol marker="a">
+			<ol marker="a.">
 				<li>
 					<p>
-						Identify known and unknown quantities with both a symbol and a number.
+						Identify known and unknown quantities with both a symbol and a number.  In general, when a quantity is stated with a number of symbol, that is a known quantity.
 					</p>
 				</li>
 				<li>
@@ -197,7 +273,7 @@ Find the magnitudes of all forces on the brick.</p>
 				</li>
 				<li>
 					<p>
-						Choose an appropriate system and draw a-free-body diagram for the system.
+						Sketch and label a quantitatively accurate diagram.
 					</p>
 				</li>
 			</ol>
@@ -207,15 +283,15 @@ Find the magnitudes of all forces on the brick.</p>
 		<p><alert>2. Calculate</alert></p>
 		
 		<p>
-			<ol marker="a">
+			<ol marker="a.">
 				<li>
 					<p>
-						Represent physics principles that will help you solve for the unknown quantities.
+						Represent physics principles that will help you solve for the unknown quantities (you probably only need one here!).
 					</p>
 				</li>
 				<li>
 					<p>
-						Determine a symbolic equation for each force in terms of known variables.
+						Determine how far you are from your friend and what direction you would need to walk to reach your friend.  Your answers should be symbolic equations in terms of known variables.
 					</p>
 				</li>
 				<li>
@@ -229,7 +305,7 @@ Find the magnitudes of all forces on the brick.</p>
 		<p><alert>3. Sensemake</alert></p>
 		
 		<p>
-			<ol marker="a">
+			<ol marker="a.">
 				<li>
 					<p>
 						Check the units of your symbolic answer.
@@ -237,144 +313,27 @@ Find the magnitudes of all forces on the brick.</p>
 				</li>
 				<li>
 					<p>
-						Compare your numerical answers to other numerical forces with which you are familiar.
+						Compare your numerical answers to other numbers in the situation.  Find at least one other distance to compare it to: should it be bigger or smaller than that other distance?  Explain your reasoning.
 					</p>
-				</li>
-				<li>
-					<p>
-						Use covariational reasoning: how should your symbolic equations depend on <m>m</m>, <m>a</m>, and <m>\theta</m>?
-					</p>
-				</li>
-			</ol>
-			</p>
 
-	</project>
-
-
-
-
-	<project xml:id="arcs_block-ice">
-        <title>The Block upon the Ice</title>
-		
-		<p></p>
-		
-		    <p>You are pulling a small, heavy block of mass <m>40 \mathrm{~kg}</m> across an icy lake.  
-You pull on the rope at the angle shown in such a way that the normal force on the block by the ice is zero. 
-Find the magnitude of the tension and the magnitude of the acceleration.  
-Assume the gravitational force on the block points downward with a magnitude equal to <m>mg</m>, where <m>m</m> is the block's mass and <m>g = 10 \mathrm{~m/s^2}</m>.</p>
-		
-		
-	<figure xml:id="for_block-ice">
-			<title>Ice Block Figure</title>
-		 <caption>A block is pulled across an icy pond.</caption>
-		<image source="BlockIce.png" width = "50%">
-			<description></description></image>
-  </figure>
-		
-		<p><alert>1. Analyze and Represent</alert></p>
-		
-		<p>
-			<ol marker="a">
-				<li>
-					<p>
-						Identify known and unknown quantities with both a symbol and a number.
-					</p>
+					
 				</li>
 				<li>
 					<p>
-						Identify and justify any assumptions.
-					</p>
-				</li>
-				<li>
-					<p>
-						Choose an appropriate system and draw a-free-body diagram for the system.
-					</p>
-				</li>
-			</ol>
-
-			</p>
-		
-		
-		<p><alert>2. Calculate</alert></p>
-		
-		<p>
-			<ol marker="a">
-				<li>
-					<p>
-						Represent physics principles that will help you solve for the tension and the acceleration.
-					</p>
-				</li>
-				<li>
-					<p>
-						Determine a symbolic equation for each unknown quantity in terms of known variables.
-					</p>
-				</li>
-				<li>
-					<p>
-						Plug numbers into your symbolic answer.
+						What symbols does your numerical answer depend on?  In what ways does it depend on each symbol?  Why do you think this does (or does not) make physical sense, given the situation?
 					</p>
 				</li>
 			</ol>
 			</p>
 		
+			</project>	
+
+	
 		
-		<p><alert>3. Sensemake</alert></p>
+	
+
 		
-		<p>
-			<ol marker="a">
-				<li>
-					<p>
-						Check the units of your symbolic answer.
-					</p>
-				</li>
-				<li>
-					<p>
-						Compare your numerical answers to appropriate numerical quantities with the same units.
-					</p>
-				</li>
-				<li>
-					<p>
-						Use covariational reasoning: how should your symbolic equations depend on <m>m</m> and <m>\theta</m>?
-					</p>
-				</li>
-			</ol>
-			</p>
-		
-	</project>
 
-	<project xml:id="psa_lom-01">
-        <title>The Coach vs. the Student-Athletes</title>
-		<statement>
-		<p></p>
-		    <p>
-				The figure below shows a top-down view of a tug-of-war between a coach (in red on the left) and two teams of <q>student-athletes</q>.  
-				The coach can pull with a force of <m>1500 \mathrm{~N}</m>, and the two teams together are just able to keep the rock connected to the ropes 
-				from beginning to accelerate.  Determine the magnitude of the tension force provided by each of the two teams.
-			</p>
-				<figure xml:id="for_tug-of-war">
-			<title>Tug-of-War Figure</title>
-		 <caption>A tug of war between a coach (left) and two teams of student-athletes (right).</caption>
-		<image source="tug-of-war.png" width = "60%">
-			<description></description></image>
-  </figure>
-		</statement>
-		<hint>
-		    <p>
-				<alert>Analyze and Represent:</alert> Sketch a free-body diagram for the situation.  Think carefully about what reference frame you want to choose and break each force into components.
-			</p>
-		</hint>
-		<hint>
-		    <p><alert>Calculate:</alert> Remember that your answer and work should be primarily symbolic.  Choosing good symbols for both known and unknown quantities (including the angles!) can help support both your algebra and your sensemaking.</p>
-		</hint>
-		<hint>
-		    <p><alert>Sensemake:</alert> As part of your symbolic sensemaking (part 3c), try covariational reasoning for at least one of the three known quantities.</p>
-		</hint>
-	</project>
-
-
-
-
-	</subsubsection>
 	
 
   
@@ -417,11 +376,6 @@ A Real-world Context is a situation or problem with a real setting, where you at
 		</subsubsection>
 -->
 
-	<references>
-		<biblio xml:id="ref_tug-of-war">
-		<p>Tug of War image inspired by teamwork by Lucas Helle from <a href="https://thenounproject.com/browse/icons/term/teamwork/" target="_blank" title="teamwork Icons">Noun Project</a> (CC BY 3.0)
-	</p>
-		</biblio>
-	</references>
+
 </section>
 

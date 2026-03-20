@@ -9,72 +9,14 @@
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
-	<subsubsection>
-		<title>Challenge Activity Philosophy</title>
-		<introduction>
-			<p>
-		When you work on a challenge activity, your goal is not just to solve a problem, 
-		but to <alert>learn new physics</alert> and <alert>practice communicating</alert>.
-	</p>
-		</introduction>
-	</subsubsection>
 	
-	
-	<subsubsection>
-	<title>Explanation Task Instructions</title>
-	
-	<p>Physics is a systematic way of looking at the world that involves building <em>quantitative models</em> and 
-	<em>mechanistic explanations</em> for why real-world objects and systems behave the way they do.  
-	When you provide an explanation, include the steps detailed below.</p>
-	
-		  <figure xml:id="fig_explanation">
-		  <title>Explanation Task Steps</title>
-		 <caption>Steps to follow when giving an explanation.</caption>
-		<image source="ExplanationSteps.png" width = "100%">
-			<description>Explanations in Physics.  
-			1. Principles - what fundamental physics concepts, laws, or definitions did you start with? 
-			2. Reasoning - explain all the reasoning steps to go from your principles to your conclusion.  
-			3. Conclusion - state your conclusion clearly.  
-			</description></image>
-  </figure>	
-	
-	<example xml:id="ex_park-explanation">
-	<title>Rectangular Park I</title>
-	<p>
-	     You manage parks for Corvallis, and you are comparing two rectangular parks that have the same total area.  Park 1 is 2 km long, while park 2 is 3 km long.  Is the width of park 2 greater, less than, or equal to the width of park 1?
-	</p>
-<p>
-     <ol>
-		     <li><em>Principles</em>: If <m>l</m> is the length and <m>w</m> is the width of a rectangular park, the area is <m>A_{rectangle} = lw</m>.</li>
-		     <li><em>Reasoning</em>: The area of the two parks is constant, so we can say that <m>A_1 = A_2</m> or alternatively <m>l_1 w_1 = l_2 w_2</m>. Since <m>l_2</m> is greater than <m>l_1</m>, we must have that <m>w_2</m> is smaller than <m>w_1</m> to keep the product of l and w the same for the two parks.  The width of park 2 is less than the width of park 1. A way of making sense of this is to draw pictures of two example parks that have different widths but the same area.
-			<figure xml:id="fig_park-area">
-				<title>Two Parks Figure</title>
-				<caption>Two rectangles, one with greater length than the other.</caption>
-				<image source="park-area.png" width = "60%">
-				<description></description></image>
-			</figure>	
-			</li>	
-		     <li><em>Conclusion</em>: The width of park 2 is less than the width of park 1.</li>
-		</ol>
-</p>	
-	
-	<p><alert>Commentary</alert></p>
-	
-	<p>
-     <ol>
-		     <li><em>Principles</em>: The Principle for this problem is relatively simple!  Sometimes you will only have one simple Principle like in this problem, while other times you may have several.</li>
-		     <li><em>Reasoning</em>: An important claim here is that the parks have the same area.  Note that even though this is stated in the problem, make sure you list it here—often there is information in the problem statement that is not directly relevant or necessary to consider. You should go through every step of the reasoning here, starting from our Principle: first, from the claim that two areas are equal, use proportional reasoning to go from the given relationship between <m>l</m>'s to the desired relationship between <m>w</m>'s.  
-			 You can mix words, symbols, and even pictures in your reasoning!</li>
-		     <li><em>Conclusion</em>: Clearly state the conclusion of your reasoning that answers the question.</li>
-		</ol>
-</p>
-	
-</example>
-
-</subsubsection>
 
 <subsubsection>
 <title>Explanation Tasks</title>
+
+<p>For each Explanation Task, you are expected to complete and label <alert>all</alert> of the <xref ref="fig_explanation"/>.  
+	A simple example is provided in <xref ref="ex_park-explanation"/>.
+	</p>
 
 	<!--<p><em>Don't ignore the tips!  They can help make sure you don't lose points for overlooking something obvious.</em></p>-->
 	
@@ -105,120 +47,98 @@
 	</investigation>
 	
 			
-	<investigation xml:id="ch_vec-2">
-        <title>A Walk in the Park</title>
-		<statement>
-		<p></p>
-		
-		<p>You have been asked to walk your dog around a large park. Your dog always walks north first, then turns and walks in a different direction for the same distance, and last she turns again and walks in another different direction for the same distance.  At the end of today's walk, you find yourself back at the exact position where you started!  Give an explanation for how this is possible.</p>
-		<assemblage>
-		<p><alert><!--REPLACE_TAG-->Tip:</alert> Draw a diagram to support your reasoning.</p>
-		</assemblage>
-
-		</statement>
-		<!--<hint>
-		<p>In activities like this, a diagram is nearly always essential!</p>
-		</hint>-->
-	</investigation>
+	
 </subsubsection>
 	
 <subsubsection>
-	<title>Calculation Activities</title>
+	<title>A*R*C*S Activities</title>
+
+	<p>For each A*R*C*S activity, you are expected to complete and label <alert>all</alert> of the <xref ref="fig_realworld"/>.  
+	For your first A*R*C*S activity, each step will walk you through the A*R*C*S process.  A simple example is provided in <xref ref="ex_park-arcs"/>.
+	</p>
 	
-	<activity xml:id="ch_vec-3">
+	<project xml:id="ch_vec-3">
         <title>The Trees upon the Hillside</title>
 		<introduction>
 		<p></p>
 
 		    <p>A surveyor measures a hillside and describes the height of the hill <m>y</m> (in meters) as the following function of distance from the base of the hill <m>x</m> (also measured in meters): <me>y(x) = a_1x^3 - a_2x^5</me> He reports that <m>a_1 = 1.5 \times 10^{-5}</m> and <m>a_2 = 1.0 \times 10^{-10}</m>.  He has also identified three especially large trees (about <m>30 \mathrm{~m}</m> tall) whose bases are located at <m>x_1 = 5 \mathrm{~m}</m>, <m>x_2 = 257 \mathrm{~m}</m>, and <m>x_3 = 300 \mathrm{~m}</m>.</p>
 		</introduction>
+
+		<p><alert>1. Analyze and Represent</alert></p>
 		
-		<task>
-		<title>Sensemake</title>
-		<statement>
-			<p></p>
-		<p>It looks like the surveyor forgot to report the specific units for the constants <m>a_1</m> and <m>a_2</m>.  Determine appropriate units for these constants.  Describe why these are sensible units given the equation for <m>y(x)</m>.</p>
-		<assemblage><p><alert><!--REPLACE_TAG-->Tip:</alert> Make sure to conduct a unit check (like in <xref ref="ex_how-to-check-units"/>) to see if the units you determined are correct.</p>
+		<p>
+			<ol marker="a.">
+				<li>
+					<p>
+						Identify known and unknown quantities with both a symbol and a number.  In general, when a quantity is stated with a number of symbol, that is a known quantity.
+					</p>
+					<assemblage><p><alert><!--REPLACE_TAG-->Tip:</alert> It looks like the surveyor forgot to report the specific units for the constants <m>a_1</m> and <m>a_2</m>.  Determine appropriate units for these constants.  Describe why these are sensible units given the equation for <m>y(x)</m>.</p>
 		</assemblage>
-		</statement>
-		</task>
-		
-		<task>
-		<title>Represent</title>
-		<statement>
-			<p></p>
-		<p>Sketch and label a quantitatively accurate diagram of the hillside and the trees.</p>
+				</li>
+				<li>
+					<p>
+						Identify and justify any assumptions.
+					</p>
+				</li>
+				<li>
+					<p>Sketch and label a quantitatively accurate diagram of the hillside and the trees.</p>
 		<assemblage>
 		<p><alert><!--REPLACE_TAG-->Tip:</alert> Make sure to identify your origin, label your axes, and identify any relevant points of interest.</p>
 		</assemblage>
-		</statement>
-		<!--<hint>
-		    <p>Make sure to identify your origin, label your axes, and identify any relevant points of interest.</p>
-		</hint>-->
-		</task>
-		
-		<task>
-		<title>Calculate</title>
-		<statement>
-			<p></p>
-		<p>Determine the displacement vector from the base of tree 2 to the base of tree 3.</p>
-		<assemblage>
-		<p><alert><!--REPLACE_TAG-->Tip:</alert> Remember to do all calculations <em>symbolically</em> before you plug in numbers, 
-			following the <xref ref="fig_calculation" text='title'/>.</p>
-		</assemblage>
-		</statement>
-		<!--<hint>
-		    <p>Remember to do all calculations <em>symbolically</em> before you plug in numbers, 
-			following the <xref ref="fig_calculation" text='title'/>.</p>
-		</hint>-->
-		</task>
-	</activity>
+				</li>
+			</ol>
 
-	<activity xml:id="ch_vec-4">
-        <title>The Tower in the Forest</title>
-		<introduction>
-			<p></p>
+			</p>
 		
-			<p>You and a friend are each lost in the same forest.  They message you that they are directly northeast of a very large tower that is about <m>3</m> miles away.  You are about <m>2</m> miles away from the same large tower, but you are <m>25^o</m> west of south of it.  About how far are you from your friend?  What direction would you need to walk to reach your friend?</p>
+		<p><alert>2. Calculate</alert></p>
 		
-		</introduction>
-		
-		<task>
-			<title>Represent</title>
-			<statement>
-				<p></p>
-			<p>Sketch and label a quantitatively accurate diagram.</p>
-			</statement>
-		</task>
-		
-		<task>
-			<title>Calculate</title>
-			<statement>
-				<p></p>
-				<p>Determine how far you are from your friend and what direction you would need to walk to reach your friend.  Start by writing a brief sentence or two describing your strategy.</p>
-				<assemblage>
-				<p><alert><!--REPLACE_TAG-->Tip:</alert> Remember to do all calculations <em>symbolically</em> before you plug in numbers, following the steps in <xref ref="fig_calculation"/>.</p>
-				</assemblage>
-			</statement>
-			<!--<hint>
-				<p>Remember to do all calculations <em>symbolically</em> before you plug in numbers, following the steps in <xref ref="fig_calculation"/>.</p>
-			</hint>-->
-		</task>
-		
-		<task>
-			<title>Sensemake</title>
-			<statement>
-				<p></p>
-				<p>This is a good activity for numerical sensemaking, especially about the distance.  What is another distance you could compare it to?  Should it be bigger or smaller than that other distance?  Justify your answers.</p>
+		<p>
+			<ol marker="a.">
+				<li>
+					<p>
+						Represent physics principles that will help you solve for the unknown quantities (you only really need one here!).
+					</p>
+				</li>
+				<li>
+					<p>Determine a symbolic expression for the displacement vector from the base of tree 2 to the base of tree 3 in terms of the given variables.</p>
 
-				<assemblage>
-				<p><alert><!--REPLACE_TAG-->Tip:</alert> Remember to use the <xref ref="fig_sensemaking" text='title'/>.</p>
-				</assemblage>
-				
-			</statement>
-			<!--<hint><p>Remember to use the <xref ref="fig_sensemaking" text='title'/>.</p></hint>-->
-		</task>
-	</activity>	
+				</li>
+				<li>
+					<p>
+						Plug numbers into your symbolic answer.
+					</p>
+				</li>
+			</ol>
+			</p>
+	
+		<p><alert>3. Sensemake</alert></p>
+		
+		<p>
+			<ol marker="a.">
+				<li>
+					<p>
+						Check the units of your symbolic answer.
+					</p>
+				</li>
+				<li>
+					<p>
+						Compare your numerical answers to other numbers in the situation.  Find at least one other distance to compare it to: should it be bigger or smaller than that other distance?  Explain your reasoning.
+					</p>
+
+					
+				</li>
+				<li>
+					<p>
+						What symbols does your numerical answer depend on?  In what ways does it depend on each symbol?  Why do you think this does (or does not) make physical sense, given the situation?
+					</p>
+				</li>
+			</ol>
+			</p>
+
+	</project>
+
+	
 </subsubsection>
 	
 <subsubsection>

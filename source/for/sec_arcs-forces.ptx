@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_arcs-forces" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>A*R*C*S</title>
+		
+
+
+
+
+
+
+
+	
+
+		
+<project xml:id="class_brick-rail">
+        <title>The Brick against the Rail</title>
+		
+		<p></p>
+		
+		    <p>A small brick of mass <m>0.8 \mathrm{~kg}</m> is positioned against a horizontal wooden railing. 
+You pull on the rope at the <m>60^o</m> angle shown so that the acceleration of the brick is <m>2 \mathrm{~m/s^2}</m> to the left. 
+Find the magnitudes of all forces on the brick.</p>
+		
+			<figure xml:id="for_brick-pull">
+			<title>Brick Figure</title>
+		 <caption>A brick is pulled against a wooden railing.</caption>
+		<image source="BrickPull.png" width = "50%">
+			<description></description></image>
+  </figure>
+		
+		<p><alert>1. Analyze and Represent</alert></p>
+		
+		<p>
+			<ol marker="a.">
+				<li>
+					<p>
+						Identify known and unknown quantities with both a symbol and a number.
+					</p>
+				</li>
+				<li>
+					<p>
+						Identify and justify any assumptions.
+					</p>
+				</li>
+				<li>
+					<p>
+						Choose an appropriate system and draw a-free-body diagram for the system.
+					</p>
+				</li>
+			</ol>
+
+			</p>
+		
+		<p><alert>2. Calculate</alert></p>
+		
+		<p>
+			<ol marker="a.">
+				<li>
+					<p>
+						Represent physics principles that will help you solve for the unknown quantities.
+					</p>
+				</li>
+				<li>
+					<p>
+						Determine a symbolic equation for each force in terms of known variables.
+					</p>
+				</li>
+				<li>
+					<p>
+						Plug numbers into your symbolic answer.
+					</p>
+				</li>
+			</ol>
+			</p>
+	
+		<p><alert>3. Sensemake</alert></p>
+		
+		<p>
+			<ol marker="a.">
+				<li>
+					<p>
+						Check the units of your symbolic answer.
+					</p>
+				</li>
+				<li>
+					<p>
+						Compare your numerical answers to other numerical forces with which you are familiar.
+					</p>
+				</li>
+				<li>
+					<p>
+						Use covariational reasoning: how should your symbolic equations depend on <m>m</m>, <m>a</m>, and <m>\theta</m>?
+					</p>
+				</li>
+			</ol>
+			</p>
+
+	</project>
+
+
+
+
+	<project xml:id="arcs_block-ice">
+        <title>The Block upon the Ice</title>
+		
+		<p></p>
+		
+		    <p>You are pulling a small, heavy block of mass <m>40 \mathrm{~kg}</m> across an icy lake.  
+You pull on the rope at the angle shown in such a way that the normal force on the block by the ice is zero. 
+Find the magnitude of the tension and the magnitude of the acceleration.  
+Assume the gravitational force on the block points downward with a magnitude equal to <m>mg</m>, where <m>m</m> is the block's mass and <m>g = 10 \mathrm{~m/s^2}</m>.</p>
+		
+		
+	<figure xml:id="for_block-ice">
+			<title>Ice Block Figure</title>
+		 <caption>A block is pulled across an icy pond.</caption>
+		<image source="BlockIce.png" width = "50%">
+			<description></description></image>
+  </figure>
+		
+		<p><alert>1. Analyze and Represent</alert></p>
+		
+		<p>
+			<ol marker="a.">
+				<li>
+					<p>
+						Identify known and unknown quantities with both a symbol and a number.
+					</p>
+				</li>
+				<li>
+					<p>
+						Identify and justify any assumptions.
+					</p>
+				</li>
+				<li>
+					<p>
+						Choose an appropriate system and draw a-free-body diagram for the system.
+					</p>
+				</li>
+			</ol>
+
+			</p>
+		
+		
+		<p><alert>2. Calculate</alert></p>
+		
+		<p>
+			<ol marker="a.">
+				<li>
+					<p>
+						Represent physics principles that will help you solve for the tension and the acceleration.
+					</p>
+				</li>
+				<li>
+					<p>
+						Determine a symbolic equation for each unknown quantity in terms of known variables.
+					</p>
+				</li>
+				<li>
+					<p>
+						Plug numbers into your symbolic answer.
+					</p>
+				</li>
+			</ol>
+			</p>
+		
+		
+		<p><alert>3. Sensemake</alert></p>
+		
+		<p>
+			<ol marker="a.">
+				<li>
+					<p>
+						Check the units of your symbolic answer.
+					</p>
+				</li>
+				<li>
+					<p>
+						Compare your numerical answers to appropriate numerical quantities with the same units.
+					</p>
+				</li>
+				<li>
+					<p>
+						Use covariational reasoning: how should your symbolic equations depend on <m>m</m> and <m>\theta</m>?
+					</p>
+				</li>
+			</ol>
+			</p>
+		
+	</project>
+
+	<project xml:id="psa_lom-01">
+        <title>The Coach vs. the Student-Athletes</title>
+		<statement>
+		<p></p>
+		    <p>
+				The figure below shows a top-down view of a tug-of-war between a coach (in red on the left) and two teams of <q>student-athletes</q>.  
+				The coach can pull with a force of <m>1500 \mathrm{~N}</m>, and the two teams together are just able to keep the rock connected to the ropes 
+				from beginning to accelerate.  Determine the magnitude of the tension force provided by each of the two teams.
+			</p>
+				<figure xml:id="for_tug-of-war">
+			<title>Tug-of-War Figure</title>
+		 <caption>A tug of war between a coach (left) and two teams of student-athletes (right).</caption>
+		<image source="tug-of-war.png" width = "60%">
+			<description></description></image>
+  </figure>
+		</statement>
+		<hint>
+		    <p>
+				<alert>Analyze and Represent:</alert> Sketch a free-body diagram for the situation.  Think carefully about what reference frame you want to choose and break each force into components.
+			</p>
+		</hint>
+		<hint>
+		    <p><alert>Calculate:</alert> Remember that your answer and work should be primarily symbolic.  Choosing good symbols for both known and unknown quantities (including the angles!) can help support both your algebra and your sensemaking.</p>
+		</hint>
+		<hint>
+		    <p><alert>Sensemake:</alert> As part of your symbolic sensemaking (part 3c), try covariational reasoning for at least one of the three known quantities.</p>
+		</hint>
+	</project>
+
+
+
+
+	
+
+  
+	
+	<!-- Deprecated language
+<p>
+A Real-world Context is a situation or problem with a real setting, where you attempt to answer specific questions about a situation that could occur in the real world by making assumptions and simplifications, applying relevant aspects of your physics knowledge to determine both symbolic and numerical answers, and lastly making sense of those answers to reevaluate your understanding of the situation.  Real-world Contexts are what you will spend the vast majority of your time in physics considering.  The figure below shows all the steps involved in approaching a Real-world Context.  It seems like a lot of steps, but remember that you have already practiced each step many times already.</p>
+-->
+
+	<!-- Moved examples
+	
+			<figure xml:id="mot_vb-rwc">
+		  <caption>An example of using the A*R*C*S steps.</caption>
+      <video youtube="kJ9qrl0SrPI"></video>
+    </figure>
+		
+	<subsubsection>
+	<title>Practice Activity</title>
+						<exercise xml:id="x_realworld-kinematics">
+			<title>A*R*C*S - Stopping a Car</title>
+			<statement>
+			<p>You are driving a car on a residential street when a ball bounces in front of you and you slam on the brakes.  How much time does it take for you to stop?  How much distance have you traveled in this time?</p>
+			</statement>
+			<hint>
+			<p><xref ref="x_practice-kinematics"></xref> for constant acceleration will probably be helpful!  You should also estimate a reasonable initial velocity for a car on a residential street and a reasonable acceleration for a car slamming on its brakes<fn>perhaps try searching "how fast can a car brake?"</fn>.</p>
+			</hint>
+			</exercise>
+			
+				
+				<exercise xml:id="x_forces-driver">
+			<title>A*R*C*S: Net Force on a Driver</title>
+			<statement>
+			  <p>You are driving in an everyday car when you decide to hit the accelerator to make your car begin to move with its maximum acceleration.  Estimate the magnitude of the net force exerted on you, the driver.  Remember to use the A*R*C*S steps from <xref ref="fig_realworld"></xref>.</p>
+				</statement>
+				<answer>
+				<p>For a driver with a mass of <m>80 \mathrm{~kg}</m> and a car with a maximum acceleration of <m>6 \mathrm{~m/s^2}</m>, the net force on the driver would be <m>480 \mathrm{~N}</m>.</p>
+				</answer>
+			</exercise>
+			
+		</subsubsection>
+-->
+
+	<references>
+		<biblio xml:id="ref_tug-of-war">
+		<p>Tug of War image inspired by teamwork by Lucas Helle from <a href="https://thenounproject.com/browse/icons/term/teamwork/" target="_blank" title="teamwork Icons">Noun Project</a> (CC BY 3.0)
+	</p>
+		</biblio>
+	</references>
+</section>
+

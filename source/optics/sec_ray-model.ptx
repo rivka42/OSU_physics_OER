@@ -32,7 +32,16 @@
     <conjecture xml:id="r_ray-diagram">
 			<title>Ray Diagram</title>
 			<statement>
-				<p>A <term>ray diagram</term> represents light as a collection of <em>rays</em>: straight lines that show light as traveling in straight lines marked with arrows to indicate the direction of travel.</p>
+				<p>A <term>ray diagram</term> represents light as a collection of <em>rays</em>: straight lines that show light as traveling in straight lines marked with arrows to indicate the direction of travel, as in the figure below.</p>
+
+                <figure xml:id="for_point-source-ray-diagram">
+			<title>Brick Figure</title>
+		 <caption>A ray diagram for a point source of light (such as a small light bulb or candle).  The orange dot represents the point source of light, and the arrows represent rays of light emanating in all directions.</caption>
+		<image source="point-source-ray-diagram.png" width = "50%">
+			<description></description></image>
+  </figure>
+
+                
 			</statement>
 		</conjecture>
 

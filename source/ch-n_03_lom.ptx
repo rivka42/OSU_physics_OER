@@ -41,7 +41,7 @@
 		<xi:include href="./for/sec_lom-practice.ptx" />
 		
 		<!--CHALLENGE SECTIONS-->
-		<xi:include href="./for/sec_arcs.ptx" />
+		<xi:include href="./for/sec_arcs-forces.ptx" />
 		<xi:include href="./for/sec_lom-challenge.ptx" />
 		
 
