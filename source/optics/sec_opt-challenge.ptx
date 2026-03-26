@@ -10,12 +10,13 @@
 	If you want a Calculate activity, use the <problem> tag.  (This tag is Example-like, not Project-like, so you cannot embed lettered steps into it using <task>.
 	-->
 
-
+<subsubsection>
+<title>Explanation Tasks</title>
 	<investigation xml:id="psa_opt-0">
 		<title>The Candle and the Mirrors</title>
 		<statement>
 			<p></p>
-		<p>A candle is located near two mirrors as shown in the figure below. Draw a ray diagram showing the location of the image that your eye sees when looking into the left mirror.</p>
+		<p>A candle is located near two mirrors as shown in the figure below. Draw a ray diagram showing the location of the nearest image that your eye sees when looking into the left mirror.</p>
 		<figure xml:id="fig_opt-ray-diagram">
 			<title>Candle and Mirrors Figure</title>
 			<caption>A candle and two mirrors.</caption>
@@ -25,18 +26,18 @@
 		</figure>
 		</statement>
 	</investigation>
-
+</subsubsection>
+<subsubsection>
+<title>A*R*C*S Activities</title>
 	<project xml:id="psa_opt-1">
         <title>Human Eye</title>
 		<statement>
 			<p></p>
 		    <p>The average human eye is about 2.4 cm in diameter, that is, the lens is 2.4 cm from the retina. Assume you have an average eye, and that an object that is 5.0 cm high is located 25 cm from your eye. What focal length must your lens be to create an image on your retina?</p>
+			<assemblage>
+		<p><alert><!--REPLACE_TAG-->Tip:</alert> For your numerical sensemaking (part 3b): What type of lens is this? How can you tell?</p>
+		</assemblage>
 		</statement>
-		<hint>
-			<p>
-				Sensemaking suggestion: What type of lens is this? How can you tell?
-			</p>
-		</hint>
 		<!--
 		<solution>
 			<p>
@@ -96,15 +97,18 @@ c) This is a good opportunity for a special case!  If we put the object very far
 		</solution>
 		-->
 	</project>
-
+</subsubsection>
+<subsubsection>
+<title>Metacognitive Reflection</title>
 <activity xml:id="x_meta-ray-optics">
-		<title>Metacognitive Reflection: Ray Optics</title>
+		<title>Everyday Optics</title>
 
 <p></p>
 <p>
 	You likely interact with ray optics frequently in your everyday life.  Choose one experience or observation from your everyday life that your model for ray optics can help describe and give a brief description of it using the rules you built.
 </p>
 </activity>
+</subsubsection>
 
 
 

@@ -33,6 +33,7 @@
 		<xi:include href="./en/model/sec_model-practice.ptx" />
 		
 		<!--CHALLENGE SECTIONS-->
+		<xi:include href="./prep/sec_prep-arcs.ptx" />
 		<xi:include href="./en/model/sec_model-challenge.ptx" />
 		
 		
