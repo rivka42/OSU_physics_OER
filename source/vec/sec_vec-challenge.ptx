@@ -62,7 +62,7 @@
 		<introduction>
 		<p></p>
 
-		    <p>A surveyor measures a hillside and describes the height of the hill <m>y</m> (in meters) as the following function of distance from the base of the hill <m>x</m> (also measured in meters): <me>y(x) = a_1x^3 - a_2x^5</me> He reports that <m>a_1 = 1.5 \times 10^{-5}</m> and <m>a_2 = 1.0 \times 10^{-10}</m>.  He has also identified three especially large trees (about <m>30 \mathrm{~m}</m> tall) whose bases are located at <m>x_1 = 5 \mathrm{~m}</m>, <m>x_2 = 257 \mathrm{~m}</m>, and <m>x_3 = 300 \mathrm{~m}</m>.</p>
+		    <p>A surveyor measures a hillside and describes the height of the hill <m>y</m> (in meters) as the following function of distance from the base of the hill <m>x</m> (also measured in meters): <me>y(x) = a_1x^3 - a_2x^5</me> His computer software reports that <m>a_1 = 1.5 \times 10^{-5}</m> and <m>a_2 = 1.0 \times 10^{-10}</m>.  He has also identified three especially large trees (about <m>30 \mathrm{~m}</m> tall) whose bases are located at <m>x_1 = 5 \mathrm{~m}</m>, <m>x_2 = 257 \mathrm{~m}</m>, and <m>x_3 = 300 \mathrm{~m}</m>.</p>
 		</introduction>
 
 		<p><alert>1. Analyze and Represent</alert></p>
@@ -73,7 +73,7 @@
 					<p>
 						Identify known and unknown quantities with both a symbol and a number.  In general, when a quantity is stated with a number of symbol, that is a known quantity.
 					</p>
-					<assemblage><p><alert><!--REPLACE_TAG-->Tip:</alert> It looks like the surveyor forgot to report the specific units for the constants <m>a_1</m> and <m>a_2</m>.  Determine appropriate units for these constants.  Describe why these are sensible units given the equation for <m>y(x)</m>.</p>
+					<assemblage><p><alert><!--REPLACE_TAG-->Tip:</alert> It looks like the surveyor's software did not report the specific units for the constants <m>a_1</m> and <m>a_2</m>.  Determine appropriate units for these constants.  Describe why these are sensible units given the equation for <m>y(x)</m>.</p>
 		</assemblage>
 				</li>
 				<li>
@@ -141,6 +141,27 @@
 	
 </subsubsection>
 	
+
+<subsubsection>
+	<title>Metacognitive Reflection</title>
+	<p>
+	     When you complete an A*R*C*S Activity, you are expected to carry out many different steps, some of which you might be able to skip sometimes and still arrive at a correct answer.  Write a few sentences answering the following two questions:
+	</p>
+	<ul>
+		<li>
+			<p>
+				Why do you think we ask you to carry out all of these steps for every A*R*C*S Activity?
+			</p>
+		</li>
+		<li>
+			<p>
+				What steps can you take when you are working on an A*R*C*S Activity to make sure you learn something from every step along the way?
+			</p>
+		</li>
+	</ul>
+</subsubsection>
+
+<!--
 <subsubsection>
 	<title>Metacognitive Reflection</title>
 	<p>
@@ -148,7 +169,7 @@
 	</p>
 </subsubsection>
 	
-	
+	-->
 	
 	
 

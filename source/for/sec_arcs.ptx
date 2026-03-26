@@ -36,11 +36,17 @@
 			</description></image>
   </figure>	
 	
-	<example xml:id="ex_park-explanation">
+	<investigation xml:id="ex_park-explanation">
 	<title>Rectangular Park I</title>
+	<statement>
+	<p>
+		
+	</p>
 	<p>
 	     You manage parks for Corvallis, and you are comparing two rectangular parks that have the same total area.  Park 1 is 2 km long, while park 2 is 3 km long.  Is the width of park 2 greater, less than, or equal to the width of park 1?
 	</p>
+</statement>
+<solution>
 <p>
      <ol>
 		     <li><em>Principles</em>: If <m>l</m> is the length and <m>w</m> is the width of a rectangular park, the area is <m>A_{rectangle} = lw</m>.</li>
@@ -66,10 +72,11 @@
 		     <li><em>Conclusion</em>: Clearly state the conclusion of your reasoning that answers the question.</li>
 		</ol>
 </p>
+</solution>
 	
-</example>
+</investigation>
 
-</subsubsection>
+
 
 <investigation xml:id="ch_vec-2">
         <title>A Walk in the Park</title>
@@ -86,6 +93,8 @@
 		<p>In activities like this, a diagram is nearly always essential!</p>
 		</hint>-->
 	</investigation>
+
+	</subsubsection>
 
 <subsubsection>
 	<title>A*R*C*S Activity Instructions</title>
@@ -116,16 +125,20 @@
 			<description></description></image>
   </figure>	
 	
-	<example xml:id="ex_park-arcs">
+	<project xml:id="ex_park-arcs">
 	<title>A*R*C*S Example: Rectangular Park II</title>
+	<statement>
+	<p>
+		
+	</p>
 	<p>
 	     You manage parks for Corvallis, and you are responsible for putting up fences around two new parks that have the same area.  
 		 Park 1 is a square, while park 2 is a rectangle whose length is <m>110 \mathrm{~m}</m>.  
 		 If park 2 requires twice as much fencing as park 1, what is the area of each park?
 	</p>
+</statement>
 
-
-	
+	<solution>
 <p><alert>1. Analyze and Represent</alert></p>
 		
 		<p>
@@ -243,10 +256,10 @@
 				</li>
 			</ol>
 			</p>
-	
-</example>
+		</solution>
+		</project>
 
-</subsubsection>
+
 
 <project xml:id="ch_vec-4">
         <title>The Tower in the Forest</title>
@@ -328,7 +341,7 @@
 		
 			</project>	
 
-	
+	</subsubsection>
 		
 	
 
