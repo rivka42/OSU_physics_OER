@@ -10,7 +10,19 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 	
-	
+	<subsubsection>
+<title>Explanation Tasks</title>
+
+<investigation xml:id="psa_mot-10">
+        <title>Ramp Timing</title>
+		<statement>
+		<p></p>
+		    <p>You release a ball from rest at the top of a ramp and decide to assume that the ball’s acceleration is constant as it speeds up moving down the ramp.  You observe the ball at three times while it is on the ramp: <m>t_A = 1.5  \mathrm{~s}</m>, <m>t_B = 3.0 \mathrm{~s}</m>, and <m>t_C = 4.5 \mathrm{~s}</m>.  Using these observations, you determine <m>\Delta v_{AB}</m> (the change in velocity between <m>t_A</m> and <m>t_B</m>) and <m>\Delta v_{BC}</m> (the change in velocity between <m>t_B</m> and <m>t_C</m>).</p>
+		    <p>Is the magnitude of <m>\Delta v_{BC}</m> <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of <m>\Delta v_{AB}</m>?</p>
+		</statement>
+	</investigation>
+
+	</subsubsection>
 	
 <subsubsection>
 <title>Numerical Practice</title>

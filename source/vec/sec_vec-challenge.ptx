@@ -32,7 +32,7 @@
 				<title>Vector Pairs Figure</title>
   				<caption>Two pairs of vectors.</caption>
 				<image source="Vector-Pairs.png" width = "25%">
-				<description></description>
+				<description>Two pairs of tail-to-tail arrows. The left pair has an acute angle and the right pair has an obtuse angle.</description>
 				</image>
  			</figure>
 		</statement>
@@ -71,7 +71,7 @@
 			<ol marker="a.">
 				<li>
 					<p>
-						Identify known and unknown quantities with both a symbol and a number.  In general, when a quantity is stated with a number of symbol, that is a known quantity.
+						Identify known and unknown quantities with both a symbol and a number.  In general, when a quantity is stated with a number or symbol, that is a known quantity.
 					</p>
 					<assemblage><p><alert><!--REPLACE_TAG-->Tip:</alert> It looks like the surveyor's software did not report the specific units for the constants <m>a_1</m> and <m>a_2</m>.  Determine appropriate units for these constants.  Describe why these are sensible units given the equation for <m>y(x)</m>.</p>
 		</assemblage>
@@ -130,7 +130,7 @@
 				</li>
 				<li>
 					<p>
-						What symbols does your numerical answer depend on?  In what ways does it depend on each symbol?  Why do you think this does (or does not) make physical sense, given the situation?
+						What quantities does your symbolic answer depend on?  In what ways does it depend on each quantity?  Why do you think this does (or does not) make physical sense, given the situation?
 					</p>
 				</li>
 			</ol>

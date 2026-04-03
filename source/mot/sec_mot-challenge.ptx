@@ -48,14 +48,7 @@
 		</hint>-->
 	</investigation>
 	
-				<investigation xml:id="psa_mot-10">
-        <title>Ramp Timing</title>
-		<statement>
-		<p></p>
-		    <p>You release a ball from rest at the top of a ramp and decide to assume that the ball’s acceleration is constant as it speeds up moving down the ramp.  You observe the ball at three times while it is on the ramp: <m>t_A = 1.5  \mathrm{~s}</m>, <m>t_B = 3.0 \mathrm{~s}</m>, and <m>t_C = 4.5 \mathrm{~s}</m>.  Using these observations, you determine <m>\Delta v_{AB}</m> (the change in velocity between <m>t_A</m> and <m>t_B</m>) and <m>\Delta v_{BC}</m> (the change in velocity between <m>t_B</m> and <m>t_C</m>).</p>
-		    <p>Is the magnitude of <m>\Delta v_{BC}</m> <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of <m>\Delta v_{AB}</m>?</p>
-		</statement>
-	</investigation>
+				
 
 </subsubsection>
 
@@ -65,19 +58,58 @@
 	<subsubsection>
 	<title>Calculation Activities</title>
 
-<activity xml:id="ch_mot-1">
+<project xml:id="ch_mot-1">
         <title>The 100-meter Dash</title>
 		<introduction>
 		<p></p>
 		    <p>In a race with a total distance of <m>d = 100 \mathrm{~m}</m>, the winner is timed at <m>t_1 = 11.2 \mathrm{~s}</m>. The second-place finisher’s time is <m>t_2 = 11.6 \mathrm{~s}</m>. How far is the second-place finisher behind when the winner crosses the finish line? Assume the velocity of each runner is constant throughout the race.
 				</p>
 		</introduction>
+
+		<task>
+			<title>Analyze and Represent</title>
+			<statement>
+				<p></p>
+				<p>
+					<ol marker="a.">
+				<li>
+					<p>
+						Identify known and unknown quantities with both a symbol and a number.  In general, when a quantity is stated with a number or symbol, that is a known quantity.
+					</p>
+				</li>
+				<li>
+					<p>
+						Identify and justify any assumptions.
+					</p>
+				</li>
+				<li>
+					<p>Sketch and label a diagram showing the runners and the course of the race.</p>
+				</li>
+			</ol>
+				</p>
+			</statement>
+		</task>
 		
 				<task>
 		<title>Calculate</title>
 		<statement>
 			<p></p>
-		<p>Follow the <xref ref="fig_calculation" text='title'/>: most of the credit will be given for your <alert>symbolic calculation</alert>.</p>
+		<ol marker="a.">
+				<li>
+					<p>
+						Represent physics principles that will help you solve for the unknown quantities.
+					</p>
+				</li>
+				<li>
+					<p>Determine a symbolic expression in terms of the given variables.</p>
+
+				</li>
+				<li>
+					<p>
+						Plug numbers into your symbolic answer.
+					</p>
+				</li>
+			</ol>
 		</statement>
 		</task>
 		
@@ -85,17 +117,39 @@
 		<title>Sensemake</title>
 		<statement>
 			<p></p>
-		<p>Use covariational reasoning and the <xref ref="fig_sensemaking" text='title'/> for each of the three given quantities: <m>d</m>, <m>t_1</m>, and <m>t_2</m>.</p>
+			<ol marker="a.">
+				<li>
+					<p>
+						Check the units of your symbolic answer.
+					</p>
+				</li>
+				<li>
+					<p>
+						Compare your numerical answers to other numbers in the situation.  Find at least one other distance to compare it to: should it be bigger or smaller than that other distance?  Explain your reasoning.
+					</p>
+
+					
+				</li>
+				<li>
+					<p>Use covariational reasoning and the <xref ref="fig_sensemaking" text='title'/> for each of the three given quantities: <m>d</m>, <m>t_1</m>, and <m>t_2</m>.</p>
+				</li>
+			</ol>
+		
 		</statement>
 		</task>		
 
-	</activity>
+	</project>
 
 </subsubsection>
 
 <subsubsection>
 	<title>Metacognitive Reflection</title>
-	<p>
+	<activity>
+		<title>Building a Memory Aid</title>
+		<p>
+			
+		</p>
+		<p>
 	     In physics, you are building models that help describe the real world.  
 		 As you learn more, these models will become more and more detailed and complicated, with many different parts, 
 		 including a variety of <em>quantities</em>, <em>assumptions</em>, <em>representations</em>, <em>definitions</em>, 
@@ -108,6 +162,8 @@
 		 (say, during a quiz or exam) to answer the types of activities you have complete so far.  
 		 How you structure your model is up to you, but organization is important for quickly retrieving information. 
 	</p>
+	</activity>
+	
 	</subsubsection>
 
 <!-- I'm not sure I like this activity that much anymore, so it's hidden
