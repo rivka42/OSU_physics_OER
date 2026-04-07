@@ -9,7 +9,8 @@
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
-
+<subsubsection>
+<title>Explanation Tasks</title>
 
 	<investigation xml:id="psa_rot-01">
 		<title>The Bowl</title>
@@ -30,6 +31,10 @@
 		<p>Your explanation should describe how you used the diagram to determine each vector and detail why the magnitudes of the vectors are the same or different.</p>
 		</statement>
 	</investigation>
+
+</subsubsection>
+<subsubsection>
+<title>A*R*C*S Activities</title>
 
 
 	<project xml:id="psa_rot-02">
@@ -52,10 +57,12 @@
 		</statement>
 	</project>
 
+</subsubsection>
 
-
+<subsubsection>
+<title>Metacognitive Reflection</title>
 <activity xml:id="x_meta-rot">
-		<title>Metacognitive Reflection</title>
+		<title>Models</title>
 		<p></p>
     <p>
       Choose one of the major models or equations that you made use of during this unit on rotational motion.  
@@ -63,6 +70,7 @@
 	  Write a few sentences comparing and contrasting the rotational and translational versions.
     </p>
 </activity>
+</subsubsection>
 
 	
 	

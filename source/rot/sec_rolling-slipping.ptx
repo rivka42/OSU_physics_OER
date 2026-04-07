@@ -3,12 +3,17 @@
 <section xml:id="sec_rolling-slipping" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Application: Rolling without Slipping</title>
 	
-		<exercises>
+		<subsubsection>
 	<title>Warm-up Activity</title>
-			<exercise>
+			<activity>
+				<title>Rolling Bicycle Wheel</title>
+				<p>
+					
+				</p>
+				
 			  <p>A bicycle wheel rolls along the floor such that its center of mass moves at constant speed <m>v</m> to the right (choose this to be the positive direction).  What is the translational velocity of a point on the bottom of the wheel?  Explain your reasoning.</p>
-			</exercise>
-		</exercises>
+			</activity>
+		</subsubsection>
 		
       <corollary xml:id="vid-rolling-without-slipping">
 	<title>Rolling without Slipping</title>
@@ -30,26 +35,30 @@
 </assumption>
 
 
-	<exercises>
+	<subsubsection>
 	<title>Activities</title>
-			<exercise>
+			<activity>
+				<title>Exploring the Bicycle Wheel</title>
+				
+				<task>
 			<p>Consider the bicycle wheel from the warm-up activity.  What is the translational velocity of a point on the <em>top</em> of the wheel?  Explain your reasoning.</p>
-			</exercise>
-						<exercise>
+			</task>
+						<task>
 			<p>A bicycle riding on a dry road can usually be treated as if both tires are rolling without slipping along the road.  As the bicycle accelerates from rest, what kind of force do you think acts on the tire?  What direction do you think it points?  Be specific.</p>
-			</exercise>
-						<exercise>
+			</task>
+						<task>
 			<p>In some cases, especially when slowing down rapidly, the bicycle tires will begin to slip along the road (that is, they will no longer be rolling without slipping).  Why do you think this happens?</p>
-			</exercise>
-			
+			</task>
 			<!--
 				<p>Adding a test to see how desmos works in pretext</p>
-			<exercise>
+			<task>
 			  <p>Play with this rolling motion simulation: <url href="https://www.desmos.com/calculator/whyyk5hkxz"/>.  Play around with it for at least a few minutes.</p>
-			</exercise>
+			</task>
 			-->
+		</activity>
+			
 
-		</exercises>
+		</subsubsection>
 
   
 

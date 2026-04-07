@@ -37,28 +37,7 @@
 	</statement>
 </definition>
 
-	<exercises>
-	<title>Activities - Units</title>
-	<p>Angular position is virtually always measured using radians.  Other choices, such as degrees, introduce additional units that typically need to be converted to radians when working with other quantities.</p>
-			<exercise>
-			<statement>
-			  <p>Use the definition of angular position to find the units of radians in terms of other units you are familiar with.</p>
-				</statement>
-				<answer>
-				<p>Both <m>s</m> and <m>r</m> are measured using the same units (probably meters), so when you divide them the units of <m>\theta</m> cancel!  This means that radians have no units at all<mdash/>which is why they are preferred for angular measurements.</p>
-				</answer>
-			</exercise>
-						<exercise>
-						<statement>
-			  <p>Determine the units of angular velocity and angular acceleration.</p>
-				</statement>
-				<answer>
-				<p>rad/s and rad/s<m>^2</m></p>
-				</answer>
-			</exercise>
-		</exercises>
-
-	<p>As with translational motion quantities, the angular motion quantities are vectors, with both magnitude and direction.  For straightforward examples of angular motion in which the axis of rotation<fn>the line passing through the center of the circle perpendicular to the plane of the circle</fn> does not change, the direction may often be summarized as clockwise or counterclockwise, but the true direction of the angular motion quantities is along the axis of rotation.</p>
+<p>As with translational motion quantities, the angular motion quantities are vectors, with both magnitude and direction.  For straightforward examples of angular motion in which the axis of rotation<fn>the line passing through the center of the circle perpendicular to the plane of the circle</fn> does not change, the direction may often be summarized as clockwise or counterclockwise, but the true direction of the angular motion quantities is along the axis of rotation.</p>
 				
 				<conjecture xml:id="rep_angular-vectors">
 			<title>Direction of Angular Vectors</title>
@@ -70,16 +49,50 @@
 			</statement>
 		</conjecture>
 
-
-	<exercises>
-	<title>Activities - Circling Helicopter</title>
-	<p>A helicopter is flying in a horizontal circle of radius <m>40 \mathrm{~m}</m> with an initial angular speed of <m>1.2 \mathrm{~rad/s}</m>.  The angular velocity vector points upward.</p>
-			<exercise>
+	<subsubsection>
+	<title>Activities</title>
+	<activity>
+		<title>Units</title>
+		<introduction>
+			<p>
+				
+			</p>
+			<p>Angular position is virtually always measured using radians.  Other choices, such as degrees, introduce additional units that typically need to be converted to radians when working with other quantities.</p>
+		</introduction>
+		<task>
+			<statement>
+			  <p>Use the definition of angular position to find the units of radians in terms of other units you are familiar with.</p>
+				</statement>
+				<answer>
+				<p>Both <m>s</m> and <m>r</m> are measured using the same units (probably meters), so when you divide them the units of <m>\theta</m> cancel!  This means that radians have no units at all<mdash/>which is why they are preferred for angular measurements.</p>
+				</answer>
+			</task>
+						<task>
+						<statement>
+			  <p>Determine the units of angular velocity and angular acceleration.</p>
+				</statement>
+				<answer>
+				<p>rad/s and rad/s<m>^2</m></p>
+				</answer>
+			</task>
+		
+	</activity>
+	
+			
+	<activity>
+	<title>Circling Helicopter</title>
+	<introduction>
+		<p>
+			<p>A helicopter is flying in a horizontal circle of radius <m>40 \mathrm{~m}</m> with an initial angular speed of <m>1.2 \mathrm{~rad/s}</m>.  The angular velocity vector points upward.</p>
+		</p>
+	</introduction>
+	
+			<task>
 			  <p>When viewed from above, is the helicopter moving clockwise or counterclockwise?</p>
-			</exercise>
-						<exercise>
+			</task>
+						<task>
 			  <p>How long does it take for the helicopter to complete one full rotation?  This time is often known as the period, and is denoted using the letter <m>T</m>.</p>
-			</exercise>
+			</task>
 			<definition xml:id="def_period">
 			<title>Period</title>
 				<statement><p></p>
@@ -88,13 +101,14 @@
 					</p>
 				</statement>
 			</definition>
-			<exercise>
+			<task>
 			  <p>What is the helicopter's tangential speed?</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			  <p>Suppose the helicopter begins slowing down with an angular acceleration that has a magnitude of <m>4 \mathrm{~m/s^2}</m>.  What is the helicopter's angular acceleration (magnitude and direction!)?</p>
-			</exercise>
-		</exercises>
+			</task>
+		</activity>
+		</subsubsection>
 
   
 

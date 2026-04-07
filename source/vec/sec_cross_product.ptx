@@ -95,39 +95,50 @@ The magnitude of the cross product is the magnitude of <m>\vec{B}</m> multiplied
     </figure>
 
   
-			<exercises>
+			<subsubsection>
 		<title>Practice Activities</title>
-		<exercise xml:id="x_cross">
+		<activity xml:id="x_cross">
 		<statement>
+			<p>
+				
+			</p>
 		<p>Indicate the direction of the cross product of the two vectors in <xref ref="vec_cross_product" text='type-global'/>, 
 		<m>\vec{A} \times \vec{B}</m>.</p>
 		</statement>
 		<answer><p>Into the screen!</p></answer>
-		</exercise>
+		</activity>
 		
+				
+		<activity xml:id="x_cross2">
+			<introduction>
+				<p>
+					
+				</p>
 				<p>Use the two vectors shown below for the remaining questions.</p>
 				     <figure xml:id="vec_x-cross-product">
 		<title>Cross Product Figure</title>
     	<caption></caption>
     		<image source="CrossProductVectors.png" width = "50%" ></image>
     </figure>
-		<exercise xml:id="x_cross2">
+			</introduction>
+			<task>
 		<statement>
 		<p>Indicate the direction of the cross product <m>\vec{v}_1 \times \vec{v}_2</m>.</p>
 		</statement>
 		<answer>
 		<p>Into the screen again!</p>
 		</answer>
-		</exercise>
-				<exercise xml:id="x_cross3">
+	</task>
+				<task xml:id="x_cross3">
 		<statement>
 		<p>Label the appropriate angle <m>\theta</m> and estimate its value.  Use your estimate and the value <m>a = 15</m> for the magnitude of both vectors to estimate the magnitude of <m>\vec{v}_1 \times \vec{v}_2</m>.</p>
 		</statement>
 		<answer>
 		<p>Estimating the angle to be about <m>120^o</m> gives a cross product with a magnitude of about <m>195</m>.</p>
 		</answer>
-		</exercise>
-		</exercises>
+	</task>
+		</activity>
+		</subsubsection>
       
 
 

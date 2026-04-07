@@ -21,16 +21,25 @@
 	</statement>
 </definition>
 
-	<exercises>
+	<subsubsection>
+		<title>Model Application</title>
+		
+		<activity xml:id="x_forest-road">
 			<title>Centripetal and Tangential Acceleration</title>
-	    <p>Recall the <xref ref="rot_curved-road"></xref>, which shows a car moving counterclockwise while slowing down. </p>
-			<exercise xml:id="x_forest-road">
+			<introduction>
+				<p>
+					
+				</p>
+				<p>Recall the <xref ref="rot_curved-road"></xref>, which shows a car moving counterclockwise while slowing down. </p>
+			</introduction>
+	    
+			<task>
 			  <p>Indicate the direction of the centripetal acceleration of the car.</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			  <p>Indicate the direction of the tangential acceleration of the car.</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 				<statement>
 			  <p>Draw a vector for the instantaneous acceleration of the car.  How did you use the previous answers?</p>
 			  </statement>
@@ -45,8 +54,8 @@
 			</image>
   			</figure>
 				</answer>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 				<statement>
 			    <p>Suppose the speed of the car decreases at a constant rate as it moves around the track.  How does each acceleration 
 					(centripetal, tangential, and the combined instantaneous) change?</p>
@@ -56,11 +65,12 @@
 						However, the centripetal acceleration depends on the speed, so it will decrease as the car slows down.  
 					Since one component is constant and the other is decreasing, the magnitude of the instantaneous accleration will also decrease.</p>
 				</answer>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			  <p>Consider the <xref ref="fig_applications" />.  How would you answer them after what you have learned so far?</p>
-			</exercise>
-		</exercises>
+			</task>
+		</activity>
+		</subsubsection>
 
   	
 </section>

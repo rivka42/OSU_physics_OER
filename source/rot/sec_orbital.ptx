@@ -4,25 +4,34 @@
   <title>Application: Orbital Motion</title>
 		
 
-		<exercises>
-	<title>Activities - Motion of the Earth</title>
-	<p>The Earth moves around the Sun in an approximately circular orbit.</p>
-			<exercise xml:id="x_earth">
+		<subsubsection>
+	<title>Warm-up Activity</title>
+	
+			<activity xml:id="x_earth">
+				<title>Motion of the Earth</title>
+				<introduction>
+					<p>
+						
+					</p>
+					<p>The Earth moves around the Sun in an approximately circular orbit.</p>
+				</introduction>
+				<task>
 			  <p>Start by looking up and writing down any numerical quantities about the Earth and the Sun you expect to be important or useful.</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			  <p>Calculate the angular velocity of the Earth's orbit around the Sun.</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			  <p>Sketch a free-body diagram for the Earth.</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			  <p>Use the Law of Motion to find a symbolic expression for the mass of the Sun in terms of other physical quantities you can look up.  Plug in numbers and check if your answer is close to the measured mass of the Sun!</p>
-			</exercise>
-			<exercise>
+			</task>
+			<task>
 			  <p>Were there any numerical quantities you expected to matter that turned out not to be important for this context?  Why do you think this happened?</p>
-			</exercise>
-		</exercises>
+			</task>
+		</activity>
+		</subsubsection>
 
         <corollary xml:id="vid-orbital-motion">
 	<title>Orbital Motion</title>
