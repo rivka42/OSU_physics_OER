@@ -294,14 +294,14 @@
 			</statement>
 			<solution>
 				<figure xml:id="mot_MotionDiagramFilled">
-		  <caption>A motion diagram with velocity vectors (middle, red) and acceleration vectors (bottom, blue).</caption>
+		  <caption>A motion diagram with velocity vectors (middle, blue) and acceleration vectors (bottom, red).</caption>
       		<image source="MotionDiagramFilled.png" width = "80%">
 			<description></description>
 			</image>
     		</figure>
 				<p>
-					The instantaneous velocity vectors (middle, red) can be found by looking at the change in position on either side of each dot.  
-					The average velocity vectors (bottom, blue) can be found by looking at the change in <em>velocity</em> at the start and end of each interval. 
+					The instantaneous velocity vectors (middle, blue) can be found by looking at the change in position on either side of each dot.  
+					The average acceleration vectors (bottom, red) can be found by looking at the change in <em>velocity</em> at the start and end of each interval. 
 					This diagram assumes that the speed at the start and end is zero, and that the acceleration is zero during the middle.
 				</p>
 			</solution>
