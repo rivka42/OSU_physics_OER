@@ -35,7 +35,13 @@ Recall that the sides of a right triangle can be related to the angle using the 
     <figure xml:id="vec_right_tri_and_vec">
 		<title>Right Triangle Figure</title>
     	<caption>A right triangle with angle theta and the lengths of the sides labeled as opposite, adjacent and hypotenuse next to a 2D position vector oriented at the origin of an xy-coordinate system.</caption>
-    		<image source="vectors/vec_right_tri_and_vec.png" width = "100%" ></image>
+    		<image source="vectors/vec_right_tri_and_vec.png" width = "100%" >
+			<description>
+				A right triangle on the left with the adjacent, opposite, and hypotenuse labeled.  On the right, a vector r on an xy-axis with a dashed line showing rx opposite the angle theta.
+			</description>
+
+			</image>
+			
     </figure>
     
     

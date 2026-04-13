@@ -22,7 +22,7 @@
 		<title>Three Vectors Figure</title>
 		 <caption>Three vectors in a triangle.</caption>
 		<image source="3Vecs.png" width = "50%">
-			<description></description></image>
+			<description>The vector A points up and to the right.  The vector B starts at the tail of A and points down and to the right.  The vector C points from the tip of B to the tip of A.</description></image>
   </figure>
 
   	<ol marker="A">
@@ -67,7 +67,7 @@
 		<title>Vector Figure</title>
 		 <caption>A vector.</caption>
 		<image source="vec-comp.png" width = "40%">
-			<description></description></image>
+			<description>A vector that is 14 meters long points down and to the right, at an angle of 60 degrees from a downward dashed line.</description></image>
   </figure>
 	</activity>
 
@@ -96,7 +96,7 @@ What could you draw to help explain your reasoning?
 		<title>Vector Pairs Figure</title>
 		 <caption>Two pairs of vectors.</caption>
 		<image source="Vector-Pairs.png" width = "30%">
-			<description></description></image>
+			<description>Two pairs of vectors, each with one pointing up and to the right and one pointing down and to the right.  The pair on the left points more horizontally than vertically, while the pair on the right points more vertically than horizontally.</description></image>
   </figure>
 
 	<activity xml:id="arcs_planets-building">

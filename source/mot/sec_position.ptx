@@ -33,7 +33,7 @@
 		<figure xml:id="def_Cartesian">
 		 <caption>A set of Cartesian coordinates.</caption>
 		<image source="Cartesian.png" width = "25%">
-			<description></description></image>
+			<description>A standard Cartesian coordinate system: a horizontal line with arrows on both ends, labeled x, and a vertical line with arrows on both ends, labeled y.</description></image>
   </figure>
 			</statement>
 			

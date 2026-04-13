@@ -22,7 +22,7 @@
 		<title>Vector Sum Figure</title>
   <caption>Two vectors.</caption>
   <image source="Vector-Sum.png" width = "40%">
-  <description></description>
+  <description>On a standard xy-coordinate axis, the vector a points up and to the left at an angle of forty-five degrees, and the vector b points up and to the right at an angle of sixty degrees up from the x-axis.</description>
   </image>
  </figure>
 		    <p>Determine the magnitude of the vectors <m>\vec{c}</m> and <m>\vec{d}</m>?  What is the angle to each vector from the positive <m>x</m>-axis?</p>
@@ -47,7 +47,7 @@
 		<title>Vector Sum Figure</title>
   <caption>Two vectors.</caption>
   <image source="Vector-Sum2.png" width = "30%">
-  <description></description>
+  <description>On a standard xy-coordinate axis, the vector a points down and to the left at an angle of seventy-five degrees down from the negative x-axis, and the vector b points up and to the right at an angle of twenty degrees up from the x-axis.</description>
   </image>
  </figure>
 		    <p>Determine the magnitude of the vectors <m>\vec{c}</m> and <m>\vec{d}</m>?  What is the angle to each vector from the positive <m>x</m>-axis?</p>
@@ -86,12 +86,12 @@
         <title>Sums and Differences of Vectors</title>
 		<statement>
 		<p></p>
-		    <p>Use the figure to determine a single vector that is equivalent to the given summation of vectors in each of the cases below.  (The notation <m>\vec{PQ}</m> represents a vector pointing from point <m>P</m> to point <m>Q</m>.)</p>
+		    <p>Use the figure to determine a single vector that is equivalent to the given summation of vectors in each of the cases below. (The notation <m>\vec{PQ}</m> represents a vector pointing from point <m>P</m> to point <m>Q</m>.)</p>
 				<figure xml:id="fig_vector-quadrangle">
 		<title>Vector Quadrangle Figure</title>
   <caption>Four points.</caption>
   <image source="Quadrangle.png" width = "50%">
-  <description></description>
+  <description>An irregular quadrilateral with point Q in the upper left, point P in the upper right, point S in the lower right, and point R in the lower left.</description>
   </image>
  </figure>
 <p>

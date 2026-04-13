@@ -73,7 +73,7 @@
 		<figure>
 			<caption>Two blocks, connected by a rope.</caption>
 			<image source="moving-blocks.png" width = "50%">
-			<description></description></image>
+			</image><description></description>
 		</figure>
 	</introduction>
 

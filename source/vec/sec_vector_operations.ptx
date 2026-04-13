@@ -35,6 +35,9 @@ Suppose you have two vectors <m> \vec{A}</m> and <m> \vec{B}</m>. To add the two
 		<title>Vector Addition Figure</title>
     	<caption>A representation of vector addition using arrows.</caption>
     		<image source="vectors/vec_addition.png" width = "25%" ></image>
+			<description>
+				The vector A points up, the vector B points to the left, and the vector A + B points from the tail of A to the tip of B.
+			</description>
     </figure>
     
  <subsubsection>
@@ -49,6 +52,9 @@ To subtract two vectors, you again start by placing the vectors tail-to-tail.  T
 		<title>Vector Subtraction Figure</title>
     	<caption>A representation of vector subtraction using arrows.</caption>
     		<image source="vectors/vec_subtraction.png" width = "25%" ></image>
+			<description>
+				The vector A points up, the vector negative B points to the right, and the vector A - B points from the tail of A to the tip of negative B.
+			</description>
     </figure>
 
 
@@ -60,6 +66,9 @@ Alternatively, you can add the negative <m> \vec{A} + (-\vec{B})</m>. Recall tha
 		<title>Vector Subtraction Figure</title>
     	<caption>Another representation of vector subtraction using arrows.</caption>
     		<image source="vectors/vec_subtraction.png" width = "25%" ></image>
+			<description>
+				The vector A points up, the vector negative B points to the right, and the vector A - B points from the tail of A to the tip of negative B.
+			</description>
     </figure>
 
  <subsubsection>
@@ -74,6 +83,9 @@ Multiplication of a vector with a positive scalar will <em>scale</em> the magnit
 		<title>Vector Multiplication Figure</title>
     	<caption>An arrow representing vector A is shown. The scalar multiplication of A by -1/2 and 2 is also shown.</caption>
     		<image source="vectors/vec_scalar_mult.png" width = "100%" ></image>
+			<description>
+				The vector A points to the right, the vector 2A points to the right and is twice as long, and the vector negative one half A points to the left and is half as long.
+			</description>
     </figure>
 
 
