@@ -9,17 +9,22 @@
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
-
+<subsubsection>
+	<title>Metacognitive Reflection</title>
+	
 	<activity>
-		<title>Metacognition: Integrals</title>
+		<title>Integral Strategy</title>
 		<p>
 			
 		</p>
 		<p>
-			In this chapter, you learned a strategy for constructing integrals for physical calculations involving quantities that are not constant.  
+			In this chapter, you learned the Chop-Multiply-Add strategy for constructing integrals for physical calculations involving quantities that are not constant.  
 			Write a 1-2 paragraph reflection about how this strategy is similar to or different from your previous experience with integrals.
 		</p>
 	</activity>
+	
+</subsubsection>
+	
 	
   
 	<subsubsection>
