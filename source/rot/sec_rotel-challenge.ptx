@@ -10,6 +10,10 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 
+	<subsubsection>
+	<title>Explanation Tasks</title>
+		</subsubsection>
+
 
 	<investigation xml:id="psa_rot-09">
         <title>Spool Competition</title>
@@ -24,7 +28,9 @@
 		</statement>
 	</investigation>
 
-
+<subsubsection>
+	<title>A*R*C*S Activities</title>
+	</subsubsection>
 
 	<project xml:id="psa_rot-10">
         <title>Brick on a Disc</title>
@@ -34,10 +40,15 @@
 	</project>
 
 
-	
+	<subsubsection>
+		<title>Metacognitive Reflection</title>
+		</subsubsection>
 	
 <activity xml:id="x_meta-rotel">
-		<title>Metacognitive Reflection: Models</title>
+		<title>Models</title>
+		<p>
+			
+		</p>
 
 <p>You have now finished adapting your model for motion to include rotational motion.  Consider again the questions from <xref ref="fig_applications"></xref>.  Considering specifically the process of adapting your model to include rotational motion, are your answers to these questions different than they were when you began this process?</p>
 

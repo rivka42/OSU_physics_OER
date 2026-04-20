@@ -83,14 +83,14 @@
 <introduction>
 <p></p>
     <p>
-      Draw a motion diagram for the ball rolling up and then down the ramp..
+      Draw a motion diagram for the ball rolling up and then down the ramp.
     </p>
 		</introduction>
 		<figure xml:id="mot_MotionRamp">
 		  <caption>A strobe diagram of a ball rolling up and then down a ramp.</caption>
       <image source="MotionRamp.png" width = "80%">
-			<description></description>
-			</image>
+			<description>Five icons of a ball rolling up a ramp, then repeated below moving down a ramp.</description>
+			</image> 
     </figure>
 <p>
 	Start by sketching velocity vectors for each instant.
@@ -131,7 +131,7 @@
 		<figure xml:id="mot_MotionArray">
 		  <caption>Four strobe diagrams.</caption>
       <image source="MotionArray.png" width = "40%">
-			<description></description>
+			<description>Five dots separated by changing distances, repeated four times with different orientations.</description>
 			</image>
     </figure>
 <p>
@@ -164,7 +164,7 @@
 		<figure xml:id="mot_MotionCars">
 		  <caption>Two strobe diagrams.</caption>
       <image source="MotionCars.png" width = "100%">
-			<description></description>
+			<description>Six blue cars spaced evenly above six orange cars spaced unevenly.</description>
 			</image>
     </figure>
 <p> 
@@ -201,7 +201,7 @@
 		<figure xml:id="mot_MotionB">
 		  <caption>A strobe diagram.</caption>
       <image source="MotionB.png" width = "100%">
-			<description></description>
+			<description>Nine icons of a ball rolling, first far apart, then close together, then far apart again.</description>
 			</image>
     </figure>
 <p>
@@ -296,7 +296,7 @@
 				<figure xml:id="mot_MotionDiagramFilled">
 		  <caption>A motion diagram with velocity vectors (middle, blue) and acceleration vectors (bottom, red).</caption>
       		<image source="MotionDiagramFilled.png" width = "80%">
-			<description></description>
+			<description>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.  Blue vectors represent velocity and red vectors represent acceleration.</description>
 			</image>
     		</figure>
 				<p>

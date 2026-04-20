@@ -10,7 +10,9 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 
-
+<subsubsection>
+	<title>Explanation Tasks</title>
+		</subsubsection>
 
 		<investigation xml:id="psa_oscl-01">
 		<title>Pendulum on a Tree</title>
@@ -20,7 +22,11 @@
 		</statement>
 	</investigation>
 
-	
+	<subsubsection>
+	<title>A*R*C*S Activities</title>
+	</subsubsection>
+
+
 
 	<project xml:id="psa_oscl-02">
         <title>Coin on a Block</title>
@@ -33,8 +39,12 @@
 		</statement>
 	</project>
 
-<activity xml:id="x_meta-osc">
+	<subsubsection>
 		<title>Metacognitive Reflection</title>
+		</subsubsection>
+
+<activity xml:id="x_meta-osc">
+		<title>Extending the Model</title>
 		<p></p>
     <p>
       Oscillatory motion is especially common in the real world.  Suppose you were to observe a new situation that you suspect can be modeled with simple harmonic motion.  Describe the process you would use to apply your model for oscillations to this new situation.  Try to identify both key steps in the process and important representations that you would include.

@@ -10,6 +10,10 @@
 	If you want a Calculate activity, use the <problem> tag.  (This tag is Example-like, not Project-like, so you cannot embed lettered steps into it using <task>.
 	-->
 
+	<subsubsection>
+	<title>Explanation Task</title>
+		</subsubsection>
+
 <investigation xml:id="pa_opt-2">
 		<title>A Dark Spot on the Screen</title>
 		<statement>
@@ -19,6 +23,10 @@
 			</p>
 		</statement>
 		</investigation>
+
+		<subsubsection>
+	<title>A*R*C*S Activities</title>
+	</subsubsection>
 
 		<project xml:id="pa_opt-10">
 		<title>Intensity on the Screen</title>
@@ -35,6 +43,10 @@
           </figure>
 		</statement>
 	</project>
+
+	<subsubsection>
+		<title>Metacognitive Reflection</title>
+		</subsubsection>
 
 </section>
 

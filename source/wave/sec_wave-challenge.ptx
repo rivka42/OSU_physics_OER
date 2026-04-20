@@ -10,6 +10,9 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 
+ <subsubsection>
+	<title>A*R*C*S Activities</title>
+	</subsubsection>
 
 	<project xml:id="psa_wave-1">
 		<title>Diving Bird</title>
@@ -31,8 +34,12 @@
 		</statement>
 	</project>
 
+	<subsubsection>
+		<title>Metacognitive Reflection</title>
+		</subsubsection>
+
 <activity xml:id="x_meta-waves">
-		<title>Metacognitive Reflection: Waves</title>
+		<title>Oscillations vs. Waves</title>
 <p></p>
 <p>The model you have been building for waves is an extension of the model for oscillations.  Identify one key feature of the wave model that is <em>the same as</em> and another key feature of the wave model that is <em>different from</em> the oscillation model.  For each feature, write a short (2-3) sentence reflection about how the models are similar and/or different.</p>
 

@@ -29,11 +29,11 @@
 <figure xml:id="mot_car-1">
 		 <caption>Representations of a car moving at constant speed (top), with increasing speed (middle), and with decreasing speed (bottom).</caption>
 		<image source="motion graph constant speed.png" width = "75%">
-			<description>To be filled.</description></image>
+			<description>Six icobns of a car with velocity vectors above a linearly increasing graph of x vs t and a constant graph of v vs t.</description></image>
 					<image source="motion graph speeding up.png" width = "75%">
-			<description>To be filled.</description></image>
+			<description>Five icons of a car (speeding up) with velocity vectors above a parabolic graph of x vs t and a linear graph of v vs t.</description></image>
 					<image source="motion graph slowing down.png" width = "75%">
-			<description>To be filled.</description></image>
+			<description>Five icons of a car (slowing down) with velocity vectors above a parabolic graph of x vs t and a linear graph of v vs t.</description></image>
   </figure>	
 	</example>
 	
@@ -59,7 +59,7 @@
 			<figure xml:id="mot_skydiver">
 		 <caption>A graph of position vs. time for a skydiver</caption>
 		<image source="skydiver_x.png" width = "75%">
-			<description>To be filled.</description></image>
+			<description>A graph with y on the vertical axis and t on the horizontal axis, starting at 3000 meters and moving down and to the right.</description></image>
   </figure>	
 			</activity>
 			

@@ -33,7 +33,7 @@
 				<figure xml:id="fig_motion-bumper-cars">
   <caption>Two bumper cars before and after a collision.</caption>
   <image source="Bumper-Cars.png" width = "40%">
-  <description></description>
+  <description>An icon of a blue car, first with an arrow downward indicating initial velocity, then with an arrow upward indicating final velocity.  An icon of an orange car, first with an arrow downward indicating initial velocity, then with a smaller arrow downward indicating final velocity.</description>
   </image>
  </figure>
 		    <p>Is the magnitude of the average acceleration of the top bumper car <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the average acceleration of the bottom bumper car?</p>

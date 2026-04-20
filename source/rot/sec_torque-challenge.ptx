@@ -9,6 +9,10 @@
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
+
+	<subsubsection>
+	<title>Explanation Tasks</title>
+		</subsubsection>
 	
 	<investigation xml:id="psa_rot-04">
 		<title>Standing on a Ramp</title>
@@ -33,6 +37,10 @@
 			</p>
 		</hint>
 	</investigation>
+
+	<subsubsection>
+	<title>A*R*C*S Activities</title>
+	</subsubsection>
 
 	<project xml:id="psa_rot-08">
         <title>Massive Pulley</title>
@@ -61,8 +69,12 @@
 	</statement>
 	</project>
 
-	<activity xml:id="x_meta-torque">
+	<subsubsection>
 		<title>Metacognitive Reflection</title>
+		</subsubsection>
+
+	<activity xml:id="x_meta-torque">
+		<title>Everyday Rotation</title>
 		<p></p>
     <p>
       Choose an object from your everyday experience, different from any of the situations you encountered so far in physics, that has at least one non-zero torque (it can have many, and the net torque can even be zero) and give a brief description of all the forces and torques on it.  Sketch a free-body diagram for the object and explain how your diagram is consistent with both the Law of Motion and the Angular Law of Motion.

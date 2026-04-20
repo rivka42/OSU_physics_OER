@@ -10,6 +10,10 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 
+	<subsubsection>
+	<title>A*R*C*S Activities</title>
+	</subsubsection>
+
 	<project xml:id="psa_rot-05">
         <title>The Cheese Slice</title>
 		<statement><p></p>
@@ -34,10 +38,14 @@
 		    <p>A wooden cube with side length <m>L</m> and total mass <m>M</m> is rotating about an axis passing through one of its edges.  Use an integral to calculate the moment of inertia.</p>
 		</statement>
 		<assemblage>
-		    <p><alert><!--REPLACE_TAG-->Tip:</alert> For your numerical sensemaking (part 3b), compare your symbolic expression to the moment of inertia expressions of other objects to help you make sense of the coefficient.
+		    <p><alert><!--REPLACE_TAG-->Tip:</alert> For your numerical sensemaking (part 3b), compare your symbolic expression to the moment of inertia expressions for other objects to help interpret the coefficient.
 			</p>
 		</assemblage>
 	</project>
+
+	<subsubsection>
+	<title>Explanation Tasks</title>
+		</subsubsection>
 
 	<investigation xml:id="psa_rot-07">
         <title>The Cube II</title>
@@ -46,7 +54,19 @@
 		</statement>
 	</investigation>
 
+<subsubsection>
+		<title>Metacognitive Reflection</title>
+		</subsubsection>
 
+		<activity>
+			<title>When to Calculate</title>
+			<p>
+				
+			</p>
+			<p>
+				You have now learned several ways to calculate moments of inertia: looking it up in a table, using the Parallel Axis Theorem, and using Chop-Multiply-Add to construct and integral directly.  When do you think each of these three methods is the <em>best</em> method to choose?  Give an example of an activity you have done highlighting the best use of each method.
+			</p>
+		</activity>
 
 
 	

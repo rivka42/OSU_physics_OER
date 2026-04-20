@@ -13,7 +13,7 @@
 			<figure xml:id="rep_ref-frames">
 		 <caption>Two Cartesian reference frames, one moving to the right relative to the other.</caption>
 		<image source="Cartesian2.png" width = "70%">
-			<description></description></image>
+			<description>Two crossed axes with arrows on each end, the left one stationary and the right one moving with speed v to the right.</description></image>
   </figure>
 			</statement>
 </definition>

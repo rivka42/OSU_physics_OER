@@ -20,7 +20,7 @@
 		<figure xml:id="mot_simple-motion-diagram">
 		 <caption>A pair of strobe diagrams.</caption>
 		<image source="Simple-Motion-Diagram.png" width = "75%">
-			<description></description></image>
+			<description>At the top, five equally separated dots, numbered 1 to 5 from left to right.  At the bottom, six equally separated dots, numbered 1 to 6 from left to right.</description></image>
   </figure>
 	</activity>
 
@@ -82,7 +82,7 @@
 				<figure xml:id="mot_runaway-cart">
 		 <caption>A strobe diagram for a cart.</caption>
 		<image source="Runaway Cart.png" width = "100%">
-			<description></description></image>
+			<description>Three images of a cart, moving right to left.</description></image>
   </figure>
 </statement>
 	</activity>

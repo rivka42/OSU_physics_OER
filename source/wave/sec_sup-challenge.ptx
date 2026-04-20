@@ -10,6 +10,10 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 
+	<subsubsection>
+	<title>Explanation Task</title>
+		</subsubsection>
+
 	<investigation xml:id="psa_wave-0a">
 		<title>Reflecting Waves</title>
 		<statement>
@@ -38,6 +42,11 @@
 		</statement>
 	</investigation>
 
+
+	<subsubsection>
+	<title>A*R*C*S Activities</title>
+	</subsubsection>
+
 	<project>
 		<title>Silent Speakers</title>
 		<statement>
@@ -49,8 +58,12 @@
 		
 	</project>
 
+	<subsubsection>
+		<title>Metacognitive Reflection</title>
+		</subsubsection>
+
 	<activity xml:id="x_meta-sup">
-		<title>Metacognitive Reflection: Superposition of Waves</title>
+		<title>Superposition of Waves</title>
 		<p>
 			
 		</p>
