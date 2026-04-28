@@ -47,6 +47,7 @@
 
 	<rename element="insight">Historical Note</rename>
 	<rename element="observation">Additional Detail</rename>
+  <rename element="remark">Derivation</rename>
 	
 	<rename element="project">A*R*C*S</rename>
 	<rename element="investigation">Explanation</rename>

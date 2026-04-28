@@ -59,8 +59,26 @@ We should always take time to think about and determine the error associated wit
 		<statement>
 			<p>
 			</p>
-		<p> Determine the error introduced by the small-angle approximation for <m>\sin\theta</m> and <m> \cos\theta </m> when <m> \theta = 0.2, 0.4, 0.8 </m> radian. </p>
+		<p> Calculate the value of both <m>\sin\theta</m> and <m> \cos\theta </m> at <m> \theta_1 = 10^o</m>, <m>\theta_2 = 30^o</m>, and <m> \theta_3 = 60^o </m>.  Then, find the approximate value of each using the small-angle approximation.  Last, use your answers to find the error (as a percentage of the true value) for each number.</p>
 		</statement>
+		<hint>
+			<p>
+				Don't forget to convert to radians!
+			</p>
+		</hint>
+		<answer>
+			<p>
+				Here are the answers for <m>\cos{30^o}</m>:
+				<me>
+					\cos{30^o} = \frac{\sqrt{3}}{2} \approx 0.866
+				</me>
+				<me>
+					\cos{30^o} \apprix 1 - \frac{(\pi/6)^2}{2!} \approx 0.863
+				</me>
+				The percent difference is <me>\frac{0.863 - 0.866}{0.866} \approx -0.36\%</me>
+				Here the negative indicates that the approximation is <em>smaller</em> than the true value of cosine.
+			</p>
+		</answer>
 		</activity>
 </subsubsection>
 

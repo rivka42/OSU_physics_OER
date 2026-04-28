@@ -51,8 +51,8 @@
 		</statement>
 	</definition>
 		
-	<note>
-		<title>Derivation of the Equation of Motion</title>
+	<remark>
+		<title>Equation of Motion for a Block on a Spring</title>
 		 <p>
 <!--Let's apply what we have learned to analyze the oscillatory motion of a mass on a spring. -->Consider a spring with spring constant <m>k</m> that has one end held fixed in space and one end attached to a block of mass <m>m</m>, which rests on a frictionless surface. Assume the spring has negligible mass compared to the object's mass <m>m</m> such that we can apply the massless spring approximation. 
 </p>
@@ -107,7 +107,7 @@ From this we can determine the oscillation frequency of the spring system. Note 
 Since the oscillation frequency depends solely on the physical characteristics of the system (the stiffness of the spring and the mass of the object attached to the spring), the more specific label <m>\omega_s</m> is appropriate.
 </p>
 
-	</note>
+</remark>
 
 		
 
@@ -156,6 +156,9 @@ Since the oscillation frequency depends solely on the physical characteristics o
 				<activity>
 		<title>Exploring Vertical Oscillations</title>
 		<statement>
+			<p>
+				
+			</p>
 		<p>Consider a mass on a spring that hangs <em>vertically</em> instead of being oriented horizontally, such as you saw in the simulation. What are the frequency and period of the oscillation?
 		</p>
 		</statement>

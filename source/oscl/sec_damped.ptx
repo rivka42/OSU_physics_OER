@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_damped" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Models Including Dissipative Forces</title>
+  <title>Damped Harmonic Motion</title>
 			
  <p>
-The models you have built for simple harmonic motion of spring, simple pendulums, and rigid body oscillators have not included dissipative forces such as friction. You know from experience that a pendulum left to oscillate will lose energy. The amplitude decreases in time until all energy has been dissipated and the system comes to rest. An oscillation whose amplitude decreases in time is called a <alert> damped oscillation</alert>. Energy dissipation can be caused by dissipative forces such as air resistance and friction. 
+The models you have built for simple harmonic motion have not included dissipative forces such as friction or drag. You know from experience that a pendulum left to oscillate will lose energy. The amplitude decreases in time until all energy has been dissipated and the system comes to rest. An oscillation whose amplitude decreases in time is called a <alert> damped oscillation</alert>.
  </p>
  
  <figure xml:id="Damped_spring">
@@ -16,11 +16,11 @@ The models you have built for simple harmonic motion of spring, simple pendulums
     </figure>
  
  <p>
-You can now analyze a spring system and consider the effects of air drag, assuming a drag force that is directly proportional to the velocity.
+One broadly applicable damping force is linear air drag, in which the drag force is assumed to be directly proportional to the velocity.
  
  <me> \vec{F}_{drag} = -b\vec{v}</me>
  
-The <alert>damping constant </alert>, <m>b</m>, depends on the shape of the object and the viscosity of the air (or other medium) in which it moves. The damping constant plays the same role as the coefficient of friction. The negative sign reminds you that the force always opposes the velocity of the object. 
+The <alert>damping constant </alert>, <m>b</m>, depends on the shape of the object and the viscosity of the air (or other medium) in which it moves. The damping constant plays the same role as the coefficient of friction. The negative sign reminds you that the direction of the drag force always opposes the direction of the object's velocity, as shown in the figure below. 
 </p>
 
 <figure xml:id="mass_spring_damp">
@@ -31,58 +31,147 @@ The <alert>damping constant </alert>, <m>b</m>, depends on the shape of the obje
     		<image source="oscillate/mass_spring_damp.png" width = "100%" ></image>
     </figure>
 
-<p>
-Again, apply the general physics problem-solving strategy. First, draw a pictorial representation of the situation and choose a coordinate system. Applying the Law of Motion, you find
+<assumption xml:id="assumption-damped">
+  <title>Damped Harmonic Motion</title>
+    <statement>
+    <p>
+    </p>
+    <p>
+      The motion of an object or system subject to both a linear restoring force and a linear drag force can be described by:
+
+	  <me> x(t) = x_{\text{max}} e^{-bt/2m} \cos{(\omega_{d} t + \phi_o)}</me>
+      
+		The oscillation frequency is given by the following expression.
+
+		<me> \omega_{d} = \sqrt{\frac{k}{m} - \frac{b^2}{4m^2}}</me>
+
+		Note that <m>\omega_{d}</m> is only valid when <m>\frac{k}{m} \gt \frac{b^2}{4m^2}</m>.<fn>When this condition is met, the solution above is valid and the system is called <q>underdamped</q>.  When this condition is not met, the solution will take on a different functional form.</fn>
+
+    </p>
+  </statement>
+</assumption>
+
+
+	<remark>
+		<title>Equation of Motion for a Damped Harmonic Oscillator</title>
+		
+		<p>
+Applying the Law of Motion to a damped harmonic oscillator gives:
 
 <me> ma_x = -kx -bv_x </me>
 
-Using the relationship between velocity acceleration and position, rewrite the equation in terms of position only. 
+This can be rewritten entirely in terms of position and derivatives of position as: 
 
 <men xml:id="dampedEOM"> \frac{d^2}{dt^2}x(t) + \frac{b}{m}\frac{d}{dt}x(t) +\frac{k}{m}x(t) = 0</men>
 
-This is the equation of motion of a damped mass on a spring. Since you know that the amplitude decreases in time, you can guess a solution of the form:
+This is the equation of motion for a damped mass on a spring. If you expect motion that is still oscillatory with an amplitude that decreases in time, you can guess a solution of the form:
 
-<men> x(t) = A e^{-bt/2m} \cos{(\omega t +\phi_o)}</men>
+<men> x(t) = x_{\text{max}} e^{-bt/2m} \cos{(\omega_{d} t +\phi_o)}</men>
 
-The oscillation frequency is given by,
+This function turns out to satisfy the differential equation above, with an oscillation frequency given by:
 
-<men> \omega = \sqrt{\frac{k}{m} - \frac{b^2}{4m}}=\frac{2 \pi}{T}</men>
+<men> \omega_{d} = \sqrt{\frac{k}{m} - \frac{b^2}{4m^2}}</men>
 
-You can see that the oscillation frequency is equivalent to the original oscillation frequency modified by the quantity <m> b^2/4m^2 </m>. Below is a graph of the position as a function of time for the damped oscillator. The cosine function modified by the exponential decay is shown. You can see that the envelope of the amplitude decays in time. The maximum displacement away from equilibrium decreases according to the function
+Note that <m>\omega_{d}</m> is only valid when <m>\frac{k}{m} \gt \frac{b^2}{4m^2}</m>.  When this condition is met, the solution above is valid and the system is called <q>underdamped</q>.  When this condition is not met, the solution will take on a different functional form.
+		</p>
+		<p>
 
-<me> x_{max}(t) = A e^{-bt/2m}</me>
+<alert>Sensemaking:</alert> A good sensemaking technique in situations like this is to plug the solution back into the equation of motion and confirm that <m>x(t)</m> is a solution!
+		</p>
+<p>
+ You can see that the oscillation frequency is equivalent to the original oscillation frequency modified by the quantity <m> b^2/4m^2 </m>. In the <xref ref="damped_pos"/> the cosine function is modified by an exponential decay. You can see that the envelope of the amplitude decays in time. The maximum displacement away from equilibrium decreases according to the function
+ <me> x_{\text{max}}(t) = x_{\text{max}} e^{-bt/2m}</me>
+	
+
 </p>
 
-<figure xml:id="damped_pos">
-<title>Damped Spring Motion Graph</title>
+		
+		
+</remark>
+
+	
 
 
-    	<caption>The position as a function of time for the damped oscillator.</caption>
-    		<image source="oscillate/damped2.png" width = "100%" ></image>
-    </figure>
 
- 
+
 
 
 <subsubsection>
 		<title>Activities</title>
 				
 		<activity>
-		<title>Exploring limiting Cases</title>
+		<title>Sensemaking: Special-case Analysis</title>
 		<statement>
 			<p></p>
-		<p> The damping constant characterizes the magnitude of the the drag force. Confirm that when <m> b=0 </m> you recover the position function and oscillation frequency for the un-damped mass on a spring.</p>
+		<p> The damping constant characterizes the magnitude of the the drag force. Confirm that when <m>b = 0</m> you recover the position function and oscillation frequency for the un-damped mass on a spring.</p>
 		</statement>
+		</activity>
+
+		<activity>
+		<title>Sensemaking: Units</title>
+		<statement>
+			<p></p>
+		<p> Determine the units of the quantity <m>\frac{2m}{b}</m> and give a brief description of what kind of quantity it might be.</p>
+		</statement>
+		<answer>
+			<p>
+				This quantity has units of seconds, which suggests that it is a time of some kind!  In fact, it is often known as the <alert>time constant</alert>, symbolized by <m>\tau</m>.
+			</p>
+		</answer>
 		</activity>
 		
 		<activity>
-		<title>Is <m>x(t)</m> a Solution?</title>
+		<title>Graphing the Equation of Motion</title>
 		<statement>
 			<p></p>
-		<p>Plug the solution back into the equation of motion and confirm that <m>x(t)</m> is a solution. </p>
+		<p>Use a graphing calculator (such as <url href="https://www.desmos.com/calculator" >Desmos</url>) to create a graph of <m>x(t)</m>.  Choose starting values of the various constants such that you observe many oscillations (you likely want to choose a small value of <m>b</m>).  Describe what the graph looks like in words.</p>
+		</statement>
+		<answer>
+			<p>
+				As shown in the graph below, this function is still oscillatory, but appears to have an amplitude that decreases with time!
+			</p>
+
+			<figure xml:id="damped_pos">
+<title>Damped Spring Motion Graph</title>
+
+
+    	<caption>The position as a function of time for the damped oscillator.</caption>
+    		<image source="oscillate/damped2.png" width = "100%" ></image>
+    </figure>
+		</answer>
+		</activity>
+
+		<activity>
+		<title>Graphical Covariation</title>
+		<statement>
+			<p></p>
+		<p>For each of the following quantities, observe how the graph you made in the previous activity changes when you increase it and write a brief description of the change.</p>
+		<ol>
+			<li>
+				<p>
+					The spring constant <m>k</m>
+				</p>
+			</li>
+			<li>
+				<p>
+					The mass <m>m</m>
+				</p>
+			</li>
+			<li>
+				<p>
+					The damping constant <m>b</m>
+				</p>
+			</li>
+			<li>
+				<p>
+					The time constant <m>\tau = \frac{2m}{b}</m>
+				</p>
+			</li>
+		</ol>
 		</statement>
 		</activity>
-		
+
+		<!--
 		<activity>
 		<title>Friction at the Surface Boundary</title>
 		<statement>
@@ -99,18 +188,20 @@ You can see that the oscillation frequency is equivalent to the original oscilla
 		</statement>
 		</activity>
 
+		-->
+
 		
 		</subsubsection>
 
 <references>
 
 <biblio>
-<p><xref ref="Damped_spring"></xref> created by Oleg Alexandrov published on Wikipedia under Public Domain.</p>
+<p><xref ref="Damped_spring"></xref> created by Oleg Alexandrov, published on Wikipedia under Public Domain.</p>
 </biblio>
 
 
 <biblio>
-<p><xref ref="mass_spring_damp"></xref> and <xref ref="damped_pos"></xref>created by Rebecka Tumblin.</p>
+<p><xref ref="mass_spring_damp"></xref> and <xref ref="damped_pos"></xref> created by Rebecka Tumblin.</p>
 </biblio>
 </references>
 		

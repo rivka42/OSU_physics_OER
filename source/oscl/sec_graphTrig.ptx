@@ -22,17 +22,7 @@ Here, the notation <m> \vec{x}(t)</m> indicates that the position <m>\vec{x}</m>
 
 
 		
-	<activity>
-		<title>Practice with Graphing</title>
-		<statement>
-		<p>Identify the equilibrium position <m>\vec{x}_o</m> and the initial phase <m> \phi_o</m> in the graph above.  Explain how you found them</p>
-		</statement>
-<solution>
-<p>
-The initial phase can be found by looking at where in its cycle the cosine function is at <m>t = 0</m>: here, it is at a maximum, which means <m>\phi_o = 0</m>.  The equilibrium position can be found by looking halfway between the maximum and minimum values, which here is at <m>\vec{x}_o = 0</m>.  When possible, it is extremely common to choose both of these quantities to be zero to simplify the position equation.
-</p>
-</solution>
-</activity>
+	
 
 <definition xml:id="def-amplitude">
 	<title>Amplitude</title>
@@ -41,7 +31,7 @@ The initial phase can be found by looking at where in its cycle the cosine funct
 				
 			</p>
 		<p>
-			The <term>amplitude</term> of an oscillatory function is the function's maximum deviation from equilibrium.  It can be represented generically with <m>A</m> (as in the figure) or with a more evocative name for a particular function, such as <m>x_{\text{max}}</m> for position, which can help make the units of the amplitude more obvious. 
+			The <term>amplitude</term> of an oscillatory function is the function's maximum deviation from equilibrium.  It can be represented generically with <m>A</m> or with a more evocative name for a particular function, such as <m>x_{\text{max}}</m> for position, which can help make the units of the amplitude more obvious. 
 		</p>
 	</statement>
 </definition>
@@ -92,6 +82,21 @@ This relation holds true in simple harmonic motion. When describing oscillatory 
  
 		<subsubsection>
 		<title>Activities</title>
+
+		<activity>
+		<title>Practice with Graphing</title>
+		<statement>
+			<p>
+				
+			</p>
+		<p>Identify the equilibrium position <m>\vec{x}_o</m> and the initial phase <m> \phi_o</m> in the graph above.  Explain how you found them.</p>
+		</statement>
+<solution>
+<p>
+The initial phase can be found by looking at where in its cycle the cosine function is at <m>t = 0</m>: here, it is at a maximum, which means <m>\phi_o = 0</m>.  The equilibrium position can be found by looking halfway between the maximum and minimum values, which here is at <m>\vec{x}_o = 0</m>.  When possible, it is extremely common to choose both of these quantities to be zero to simplify the position equation.
+</p>
+</solution>
+</activity>
 		
 		<activity>
 		<title>Physical Units</title>
@@ -144,7 +149,7 @@ This relation holds true in simple harmonic motion. When describing oscillatory 
 		<mrow>               \amp  = x_{\text{max}} \cos(\omega t+ \phi_o)\hat{x} </mrow>
 		</md>
 		</p>
-		<p>often <m>\vec{x}(t) = x_{\text{max}} \cos(\omega t + \phi_o)\hat{x}</m> is most useful for solving problems. This is the form of the position function we will use going forward when studying simple harmonic motion. </p>
+		<p>often <m>\vec{x}(t) = x_{\text{max}} \cos(\omega t + \phi_o)\hat{x}</m> is most useful for solving problems. This is the form of the position function you will use going forward when studying simple harmonic motion. </p>
 		</answer>
 		</activity>
 		</subsubsection>		

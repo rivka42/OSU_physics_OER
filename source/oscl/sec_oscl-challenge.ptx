@@ -22,6 +22,47 @@
 		</statement>
 	</investigation>
 
+	<investigation xml:id="psa_oscl-damp">
+		<title>The Bouncing Apple</title>
+		<introduction>
+			<p></p>
+		<p>You tie a small apple to a vertical spring and allow it to bounce up and down, creating the graph below of the apple's position vs. time.</p>
+		<figure xml:id="damped_hw">
+		<title>Damped Spring Motion Graph</title>
+    	<caption>The position as a function of time for an oscillator.</caption>
+    		<image source="oscillate/DampedHW.png" width = "100%" ></image>
+    </figure>
+</introduction>
+<task>
+	<statement>
+		<p>
+			Is this an example of simple harmonic motion, damped harmonic motion, or non-harmonic motion? 
+		</p>
+	</statement>
+</task>
+<task>
+	<statement>
+		<p>
+			Write an equation to describe the motion of the apple.  You should specify any and all values or constants that you include in your equation. 
+		</p>
+	</statement>
+</task>
+<task>
+	<statement>
+		<p>
+			Estimate the maximum speed of the apple. 
+		</p>
+	</statement>
+</task>
+<task>
+	<statement>
+		<p>
+			Suppose you were to replace the spring with a new spring that has a larger spring constant.  Give a qualitative description of how you expect the graph of the apple's position vs. time to be different.  Sketch an example to illustrate your thinking. 
+		</p>
+	</statement>
+</task>
+	</investigation>
+
 	<subsubsection>
 	<title>A*R*C*S Activities</title>
 	</subsubsection>

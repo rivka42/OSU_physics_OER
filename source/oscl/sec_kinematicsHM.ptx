@@ -15,11 +15,11 @@
 			<task>
 				<statement>
 					<p>
-						Starting from the general one-dimensional position function for simple harmonic motion <me>x(t) = x_o + x_{\text{max}} \cos{(\omega t + \phi_o)}</me> take the derivative to find the velocity function <m>\vec{v}(t)</m>.
+						Starting from the general one-dimensional position function for simple harmonic motion <me>\vec{x}(t) = \vec{x}_o + \vec{x}_{\text{max}} \cos{(\omega t + \phi_o)}</me> take the derivative to find the velocity function <m>\vec{v}(t)</m>.
 					</p>
 				</statement>
 				<solution>
-					<p> <men xml:id="vel_HM"> v(t) = - \omega x_{\text{max}} \sin(\omega t + \phi_o) </men></p>
+					<p> <men xml:id="vel_HM"> \vec{v}(t) = - \omega \vec{x}_{\text{max}} \sin(\omega t + \phi_o) </men></p>
 				</solution>
 			</task>
 			<task>
@@ -48,7 +48,7 @@ As the object passes through the equilibrium position located at <m> \vec{x} = 0
 		<solution>
 		<p>The equation as a whole is a velocity and has dimension of length/time with SI units of meters/second. Trigonometric functions are dimensionless. Therefore, the quantity <m> \omega A</m> must have dimension of length/time for the equation to be true. Note that the SI units of <m> \omega</m> are <m> rad/s</m>. While radians are an SI unit, they are dimensionless. The physical significance of this quantity is that it corresponds to the maximum speed <m> v_{max} = \omega x_{\text{max}} </m> of the object. This allows you to re-write equation the velocity equation of motion as:</p>
 	<p>
-	<men> \vec{v}(t) = - v_{max} \sin(\omega t + \phi_0) \hat{x} </men>
+	<men> \vec{v}(t) = - \vec{v}_{max} \sin(\omega t + \phi_0) </men>
 	</p>
 </solution>
 </task>
@@ -66,7 +66,7 @@ As the object passes through the equilibrium position located at <m> \vec{x} = 0
 	<p>
 	<men> \vec{a}(t) = - \omega^2 x_{\text{max}} \cos(\omega t + \phi_0) \hat{x} </men>
 	
-	Note that the quantity <m> \omega^2 A = a_{max}</m> represents the magnitude of the acceleration of the object when <m> \vec{x}= \pm x_{\text{max}} \hat{x}</m>. 
+	Note that the quantity <m> \omega^2 A = a_{max}</m> represents the magnitude of the acceleration of the object when <m> \vec{x}= \pm \vec{x}_{\text{max}} </m>. 
 	</p>
 </solution>
 </task>

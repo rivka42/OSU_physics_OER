@@ -37,9 +37,9 @@ This holds as long as you assume no dissipative forces act on the system. </p>
 </figure>
 
 <p>
-There are some special cases to consider. As the system oscillates, kinetic and potential energy are exchanged. When <m> x = \pm A </m> (see <xref ref="energySHM"></xref>), the system only has potential energy
+There are some special cases to consider. As the system oscillates, kinetic and potential energy are exchanged. When <m> x = \pm x_{\text{max}} </m> (see <xref ref="energySHM"></xref>), the system only has potential energy
 
-<me> U(x) =  \frac{1}{2} k A^2 </me>
+<me> U(x) =  \frac{1}{2} k x_{\text{max}}^2 </me>
 
 As the system passes through the equilibrium position <m> x = 0 </m> and the speed is maximal <m> v = v_{max}</m> (see <xref ref="sec_graphTrig"></xref>), the system only has kinetic energy,
 
@@ -47,9 +47,9 @@ As the system passes through the equilibrium position <m> x = 0 </m> and the spe
 
 Conservation of energy allows you to write the total energy of the system in multiple ways.  
 
-<me> E = \frac{1}{2} m v^2 + \frac{1}{2} k x^2 = \frac{1}{2} k A^2 =  \frac{1}{2} m v_{max}^2 </me>
+<me> E = \frac{1}{2} m v^2 + \frac{1}{2} k x^2 = \frac{1}{2} k x_{\text{max}}^2 =  \frac{1}{2} m v_{max}^2 </me>
 
-The first term accounts for positions between <m> x=0 </m> and <m> x=\pm A</m>. The last two expression represent the energy at <m> x=\pm A</m> and <m> x = 0 </m> respectively. These relations are very useful for analyzing spring systems using an energy approach. 
+The first term accounts for positions between <m> x=0 </m> and <m> x=\pm x_{\text{max}}</m>. The last two expression represent the energy at <m> x=\pm x_{\text{max}}</m> and <m> x = 0 </m> respectively. These relations are very useful for analyzing spring systems using an energy approach. 
 </p>
 
 <p>
