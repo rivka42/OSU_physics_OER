@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_cma-mass" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Chop-Multiply-Add: Total Mass</title>
+  <title>Total Mass</title>
 	
-  <subsection>
+  <subsubsection>
     <title>Part I. Mass and Density</title>
     
-    <ol marker="A">
+    <ol marker="A.">
       <li>
         <p>
           Write down a symbolic equation relating the mass of an object and its density.
@@ -41,8 +41,8 @@
   </p>
  
  
-</subsection>
- <subsection>
+</subsubsection>
+ <subsubsection>
   <title>Part II. Chopping up Space</title>
   
 
@@ -52,7 +52,7 @@
   <p>
     The three objects you studied in Part I can each be used to represent part of the larger object.
   </p>
-  <ol marker="A">
+  <ol marker="A.">
           <li>
             <p>
               Sketch your three objects on the figure.  Label each sketch with the symbols you used in Part I.
@@ -104,8 +104,8 @@
   </ol>
   
   
-</subsection>
-<subsection>
+</subsubsection>
+<subsubsection>
   <title>Part III. Multiplying and Adding</title>
   
 
@@ -113,7 +113,7 @@
   The equation <m>dm = \rho dV</m> describes the mass of a small piece of the object in Part II.
     </p>
 
-    <ol marker="A">
+    <ol marker="A.">
       <li>
         <p>
           Substitute your expression for <m>dV</m> from the end of Part II into this equation.
@@ -152,8 +152,8 @@
   The task of integrating both sides of an equation like <m>dm = \rho dV</m> (including appropriate limits) is a form of <alert>adding</alert>, or, alternatively, <alert>accumulating</alert>.
     </p>
   
-</subsection>
-<subsection>
+</subsubsection>
+<subsubsection>
   <title>Part IV. Varying Density</title>
   
 
@@ -172,7 +172,7 @@
     </image>
   </figure>
 
-  <ol marker="A">
+  <ol marker="A.">
     <li>
       <p>
         List a few different ways you could chop this object into small pieces.  Write a symbolic equation for the volume of an example small piece for each way you think of.  Make sure to use the differential <m>d</m> symbol appropriately in your equations.
@@ -197,7 +197,7 @@
     edge to <m>3\rho_o</m> at the right edge.
   </p>
 
-  <ol marker="A">
+  <ol marker="A.">
     <li>
       <p>
         Start by writing a symbolic equation for <m>\rho</m> in terms of <m>x</m>, using what you know about the equation for a straight line.  Make sure your equation agrees with your chosen reference frame.
@@ -217,7 +217,7 @@
   <p>
   You should now have an equation that looks like <m>dm = ...</m>, which you can integrate to get an equation for <m>m</m>!
   </p>
-  <ol marker="A">
+  <ol marker="A.">
     <li>
       <p>
         How many integrals do you need to do?  How would your answer change if you had chosen a different way of chopping the object into small pieces?
@@ -252,23 +252,7 @@
     </li>
   </ol>
   
-    </subsection>
-
-<hypothesis xml:id="chop-multiply-add">
-  <title>Chop-Multiply-Add</title>
-  <statement>
-    <p>
-      
-    </p>
-    <p><term>Chop-Multiply-Add</term> is a strategy that can be used to perform a calculation when one or more of the involved quantities is <em>not constant</em>.    </p>
-
-    <p><term>Chop:</term> Start by chopping something up into small pieces: usually regions of space or intervals of time.  Label each relevant piece with a differential, such as <m>dx</m> or <m>dt</m>.</p>
-	
-    <p><term>Multiply:</term> Multiply appropriate quantities, including the infinitesimal quantity identified in the Chop step, to find an infinitesimal version fo the desired quantity.  For example, mass might be written in terms of linear mass density <m>\lambda</m> as <m>dm = \lambda dx</m>.</p>
-    
-      <p><term>Add:</term> Last, add up all the infinitesimal pieces of the relevant quantity: for example <m>M = \int_{x_i}^{x_f}\lambda dx</m>.</p>  
-  </statement>
-</hypothesis>
+    </subsubsection>
 
     
 	

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_cma" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Chop-Multiply-Add</title>
+
+  <axiom xml:id="chop-multiply-add">
+  <title>Chop-Multiply-Add</title>
+  <statement>
+    <p>
+      
+    </p>
+    <p><term>Chop-Multiply-Add</term> is a strategy for calculations when one or more of the involved quantities is <alert>not constant</alert>.</p>
+
+    <p><term>Chop:</term> Start by chopping something up into small pieces: usually regions of space or intervals of time.  Label each relevant piece with a differential, such as <m>dx</m> or <m>dt</m>.</p>
+	
+    <p><term>Multiply:</term> Multiply appropriate quantities, including the infinitesimal quantity identified in the Chop step, to find an infinitesimal version for the desired quantity.</p>
+    
+      <p><term>Add:</term> Last, add up all the infinitesimal pieces of the relevant quantity.</p>
+  </statement>
+</axiom>
+
+  <p>
+     You have now seen two examples of the <alert>Chop-Multiply-Add</alert> Strategy, which is used to construct integrals for calculations involving quantities that are <em>non-constant</em>.  Each of these is summarized below.
+    </p>
+
+    <subsubsection>
+      <title>Mass from a Non-constant Density</title>
+      <p>
+      In one dimension, mass <m>m</m> and density <m>\lambda</m> are related by <m>m = \lambda L</m>, where <m>L</m> is the total length of the object.  However, this equation is only valid for an object with <em>constant</em> density.  If the density is non-constant, the equation no longer correctly relates the quantities.  However, it is always possible to consider instead each infinitesimal piece of mass <m>dm</m> occupying an infinitesimal chunk of space <m>dx</m> via the equivalent equation <m>dm = \lambda(x)dx</m>.
+      </p>
+      <p>
+      This second equation is <em>always true</em>, provided the pieces are infinitesimal: practically speaking, the pieces need to be small enough that <m>\lambda</m> is effectively constant.  Starting from the infinitesimal equation, the total mass may be found by integrating both sides over the entire object:
+
+      <me>
+        m_{\text{total}} = \int dm = \int_0^L \lambda(x)dx
+      </me>
+      
+      The structure of this process can be broken into three steps:
+      </p>
+
+      <p><alert>Chop</alert> the object up into infinitesimal pieces <m>dm</m> each occupying an infinitesimal chunk of space <m>dx</m>.</p>
+	
+    <p><alert>Multiply</alert> the infinitesimal chunk of space by the (local) density to find the mass of the corresponding infinitesimal piece: <m>dm = \lambda(x) dx</m>.</p>
+    
+      <p><alert>Add</alert> all the infinitesimal pieces: <m>m_{\text{total}} = \int_{x_i}^{x_f}\lambda(x) dx</m>.</p>
+      
+    </subsubsection>
+
+    <p>
+      The process above can be repeated for any quantitative relationship that can be written in terms of infinitesimal quantities.  It is especially useful in situations where you need to find the <alert>total amount</alert> of some quantity, like mass or work, or when you need to find the <alert>total change</alert> in some quantity, like velocity or position.  Below is a summary for work.
+    </p>
+
+    <subsubsection>
+      <title>Work from a Non-constant Force</title>
+      
+    </subsubsection>
+			
+	<p><term>Chop:</term> Work involves multiplying force and displacement along some path traveled by an object.  You can start by chopping up the path into small steps.  Each step along the path is given by an infinitesimal vector displacement <m>\vec{dr}</m>.</p>
+	
+	<p><term>Multiply:</term> You can then multiply the force acting on the object by the displacement to get the infinitesimal amount of work done along only that step <m>dW = \vec{F} \cdot \vec{dr}</m>.</p>
+	
+		<p><term>Add:</term> Last, you <em>add</em> up all the infinitesimal works with an integral along the entire path, resulting in the expression below!
+    <me>
+      W = \int_{\vec{r}_i}^{\vec{r}_f} \vec{F} \cdot \vec{dr}
+    </me>
+    
+    </p>
+	
+  
+
+
+
+    
+	
+</section>
+
+

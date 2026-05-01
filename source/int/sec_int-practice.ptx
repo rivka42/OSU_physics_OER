@@ -10,17 +10,18 @@
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
 	
-<subsection>
+<subsubsection>
 <title>Numerical Practice</title>
 
-	</subsection>
+	</subsubsection>
 	
-  
+  <!--
 <references>
 <biblio xml:id="ref_integrals">
 <p>Numerical practice activities provided by .</p>
 </biblio>
 </references>
+-->
 	
 </section>
 

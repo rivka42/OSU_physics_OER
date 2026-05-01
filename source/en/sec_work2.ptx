@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_work2" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Practice - Work</title>
+  <title>Using Work Tables</title>
 	
   <subsubsection>
 	<title>Practice Activities</title>
@@ -35,7 +35,7 @@
 	</p>
 	<p>
 		Draw a free-body diagram for the crate.  
-		Make a qualitative <xref ref="rep_work-table"/> indicating the direction of each force, the direction of the corresponding displacement, and the sign of the work done by each force
+		Make a qualitative <xref ref="rep_work-table"/> indicating the direction of each force, the direction of the corresponding displacement, and the sign of the work done by each force.
 	</p>
 	
 </activity>
@@ -52,7 +52,7 @@
 		Assume you pull on the rope with tension <m>T</m> at the angle shown so the acceleration of the brick is to the left, 
 		causing the brick to slide a total distance <m>d</m>.
 		Draw a free-body diagram for the brick.  
-		Make a quantitative <xref ref="rep_work-table"/> indicating the direction of each force, the direction of the corresponding displacement, and the sign of the work done by each force
+		Make a quantitative <xref ref="rep_work-table"/> indicating the direction of each force, the direction of the corresponding displacement, and the sign of the work done by each force.
 	</p>
 	
 </activity>
@@ -66,7 +66,7 @@
 		Two books on the same frictionless surface are pushed toward each other; consider the system of both books.  
 		Assume each hand pushes with the same constant force <m>F^H</m> and that each book moves the same distance <m>d_b</m>.  
 		Draw a free-body diagram for the system.  
-		Make a quantitative Work Table indicating the direction of each force, the direction of the corresponding displacement, and the work done by each force
+		Make a quantitative Work Table indicating the direction of each force, the direction of the corresponding displacement, and the work done by each force.
 	</p>
 	<figure xml:id="fig_book-push">
 		<title>Pushing Books Diagram</title>
@@ -79,17 +79,17 @@
 </activity>
 
 <activity xml:id="class_work-tables">
-	<title>Work Tables</title>
+	<title>Net Work</title>
 	<p>
 		
 	</p>
 	<p>
-		For each situation: (1) draw a free-body diagram, 
+		For each of the situations below: (1) draw a free-body diagram, 
 		(2) make a qualitative Work Table to determine if the work done by each force is positive, negative, or zero, 
-		and (3) determine if the net work is positive, negative, or zero
+		and (3) determine if the net work is positive, negative, or zero.
 
 	</p>
-	<ol marker="a">
+	<ol marker="a.">
 		<li>
 			<p>
 				An elevator moves downward at constant speed (system = elevator).
