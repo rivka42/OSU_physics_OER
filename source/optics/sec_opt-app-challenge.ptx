@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_opt-app-challenge" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Challenge - Optical Applications</title>
+	
+	<!--
+	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
+	If you want an Explain activity, use the <investigation> tag.
+		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
+	If you want a Calculate activity, use the <problem> tag.  (This tag is Example-like, not Project-like, so you cannot embed lettered steps into it using <task>.
+	-->
+
+	<subsubsection>
+	<title>Explanation Task</title>
+		</subsubsection>
+
+
+
+		<subsubsection>
+	<title>A*R*C*S Activities</title>
+	</subsubsection>
+
+		
+
+	<subsubsection>
+		<title>Metacognitive Reflection</title>
+		</subsubsection>
+
+</section>
+

@@ -15,7 +15,7 @@
 		<p>
 			You are attending the Summer Olympics and have been taking data of the position as a function of time of Olympic High Divers. You have determined the following position function: 
 			<me>
-				\vec{r}(t) = \left[ -Tgt - \left(T^2 g - Tv_o \right)\left(e^{-\frac{t}{T} - 1} \right) \right]\hat{y}
+				\vec{r}(t) = \left[ -Tgt - \left(T^2 g - Tv_o \right)\left(e^{-\frac{t}{T}} - 1 \right) \right]\hat{y}
 			</me>
 			
 		</p>

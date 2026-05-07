@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_optical-applications" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Optical Applications</title>
+	<introduction>
+    <p> In this chapter you will learn how to model light.</p>
+	
+	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
+		<ol>
+			<li><p>Define the quantum model for light.</p></li>
+		</ol>
+	</objectives>
+
+	<!--INTRODUCTORY SECTIONS-->
+
+
+	<!--PREPARE SECTIONS-->
+
+
+    <!--PRACTICE SECTIONS-->
+
+
+    <!--CHALLENGE SECTIONS-->
+
+
+
+
+
+	<!--INTRODUCTORY SECTIONS-->
+
+
+	<!--PREPARE SECTIONS-->
+
+	<xi:include href="./optics/sec_quantum-model.ptx" />
+
+    <!--PRACTICE SECTIONS-->
+	<xi:include href="./optics/sec_opt-app-practice.ptx" />
+
+    <!--CHALLENGE SECTIONS-->
+	<xi:include href="./optics/sec_opt-app-challenge.ptx" />
+
+
+
+</chapter>
+
+
+
+
+
+
+
+

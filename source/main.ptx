@@ -19,9 +19,7 @@
 
 
 
-    <!-- First a frontmatter for prefaces and such. Maybe comment  -->
-    <!-- out for now and write this when the book is more complete -->
-		
+    	
     <xi:include href="./meta_frontmatter.ptx" />
     
 
@@ -68,7 +66,7 @@
 		<xi:include href="./ch-n_17_waves.ptx" />
 		<xi:include href="./ch-n_18_superposition.ptx" />
 		<xi:include href="./ch-n_19_physical-optics.ptx" />
-		
+		<xi:include href="./ch-n_20_optical-applications.ptx" />
 
 		<xi:include href="./ch-n_20_charge-e-fields.ptx" />
 		<xi:include href="./ch-n_21_electric-force.ptx" />
