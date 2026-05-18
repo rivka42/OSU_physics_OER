@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_thin-coatings" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Thin Coatings</title>
+      <subsubsection>
+<title>Activities</title>
+<activity>
+    <title>Warm-up</title>
+     
+    <introduction>
+        <p>
+            
+        </p>
+        <p>
+            Recall the <xref ref="thin_film"/>, in which light is incident on a thin surface with a different index of refraction than the neighboring surfaces.
+        </p>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                A common assumption when considering thin-film interference is for the incident light to be nearly normal to the surface.  How does this assumption simplify the situation?
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                How would you redraw the figure to represent the situation more accurately?  Why do you think the figure is drawn the way it is? 
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                What is the path length difference between rays 2 and 5 for the light traveling through the thin film to the right?
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                What is the phase difference due to the path length difference for the rays 2 and 5 traveling through the thin film to the right?
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                When light reflects off a material of a higher index of refraction, the reflected wave is inverted, which can be represented as a phase shift of <m>\pi</m>.  How does this compare to other situations you have seen in which a reflected wave is inverted?  Check your answere in <xref ref="sec_boundary"/>
+            </p>
+        </statement>
+    </task>
+</activity>
+<activity>
+    <title>The Screen Coating</title>
+    <introduction>
+        <p>
+            
+        </p>
+        <p>
+            A thin layer of <m>\mathrm{TiO_2}</m> with <m>n \approx 2.6</m> is a common coating for the glass screen of an electronic device <m>n \approx 1.5</m>. 
+        </p>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                For each reflection, identify how (if at all) the phase of the reflected light will shift.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                How thick should the coating be to cause complete destructive interference for light with a wavelength of 520 nm?  (Hint: Use your expressions from the previous activity!)
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                After some testing, you see that the thin coating breaks down too fast when it is this thin. What are other thicknesses that would still produce the desired result?
+            </p>
+        </statement>
+    </task>
+</activity>
+<activity>
+    <title>Simulation</title>
+    <p>
+        
+    </p>
+    <p>
+        Visit <url href="https://beav.es/thinfilm">this simulation</url> and use it to check how your answer would change if you adjusted the material out of which the thin coating was made.
+    </p>
+</activity>
+      </subsubsection>
+</section>

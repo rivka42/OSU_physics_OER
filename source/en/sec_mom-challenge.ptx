@@ -34,20 +34,18 @@
 
 	<subsubsection>
 		<title>A*R*C*S Activities</title>
+		</subsubsection>
 
-<project xml:id="psa_en-012">
-        <title>The Exploding Firecracker</title>
+<project xml:id="psa_momentum-sled">
+        <title>The Sled</title>
 		<statement>
 			<p></p>
-		    <p>You throw a firecracker vertically upward.  At <m>t = 0</m>, the firecracker is moving upward with speed <m>v_1</m>, 
-				at which point it begins to explode, splitting into an upper piece with mass <m>m_u</m> and a lower piece with mass <m>m_l</m>.  
-				The explosion finishes at <m>t = \frac{v_1}{g}</m>, at which point you observe that the upper piece is still moving upward with speed <m>3v_1</m>.</p>
-				<p>Determine the velocity of the lower piece at <m>t = \frac{v_1}{g}</m>.</p>
+		    <p>A sled with mass <m>m_s = 20 \mathrm{~kg}</m> carrying a single passenger with mass <m>m_p = 60 \mathrm{~kg}</m> is initially moving to the right along an icy, frictionless surface with speed <m>v_i = 5 \mathrm{~\frac{m}{s}}</m> relative to the ice.  The passenger then decides to jump off the front of the sled!  The jump takes a small amount of time <m>t = 3 \mathrm{~s}</m>, after which the passenger is now moving to the right in such a way that the passenger's final speed relative to the ice is twice as large as the sled's final speed relative to the ice.  Determine the final speed of the sled and the magnitude of the average net force on the sled during the jump.</p>
 						<assemblage>
 		    <p><alert><!--REPLACE_TAG-->Tip:</alert> For your representation (part 1c), sketch a momentum vector diagram.</p>
 			</assemblage>
 			<assemblage>
-		    <p><alert><!--REPLACE_TAG-->Tip:</alert> For your symbolic sensemaking (part 3c), try at least two special cases.</p>
+		    <p><alert><!--REPLACE_TAG-->Tip:</alert> For your symbolic sensemaking (part 3c), try at least one special case.</p>
 			</assemblage>
 		</statement>
 	</project>
@@ -55,11 +53,11 @@
 
 		
 
-	</subsubsection>
+	
 
 	<subsubsection>
 		<title>Metacognitive Reflection</title>
-		
+		</subsubsection>
 	<activity xml:id="x_summarize-energy">
 		<title>Conservation Laws</title>
 		<p></p>
@@ -70,7 +68,7 @@
 </activity>
 
 	
-	 </subsubsection>
+	
 	
 </section>
 

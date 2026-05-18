@@ -42,6 +42,26 @@
 		</statement>
 	</investigation>
 
+	<investigation xml:id="psa_wave-0b">
+		<title>Source Separation</title>
+		<introduction>
+			<p>
+				
+			</p>
+			<p>
+				Two speakers set to produce in-phase sound waves are located somewhere within the gray circle in the figure below.  Using a microphone, you walk around a large circle, marking all positions where the detected sound volume is maximal with a dot and all positions where the detected sound volume is zero with a square.  Are the two speakers separated horizontally or vertically?  How far apart are they (in terms of the wavelength)?
+			</p>
+
+			<figure xml:id="speaker-separation">
+    	<caption><p>Microphone locations around a pair of speakers.</p>
+	</caption>
+    	<image source="SpeakerSeparation.png" width = "55%" ></image>
+</figure>
+
+		</introduction>
+		
+	</investigation>
+
 
 	<subsubsection>
 	<title>A*R*C*S Activities</title>

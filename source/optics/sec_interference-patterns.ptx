@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_interference-patterns" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Interference Patterns</title>
+
+        <corollary xml:id="vid-2si">
+	<title>Two-slit Interference</title>
+	<statement><p></p>
+		<video youtube="C0bcn8GAWs4"><description>Quantifying the interference of light incident on two small slits.</description></video>
+	</statement>
+  </corollary> 
+             
+    <subsubsection>
+        <title>Key Ideas</title>
+    
+
+    <p>Applying the general rules for <xref ref="def_constructive"/> and <xref ref="def_destructive"/> from the <xref ref="sec_interference"/> and <xref ref="sec_phase_diff"/> Sections allows you to determine the spacing of the interference pattern by looking at the path length difference of the rays exiting the slits.  The figure below gives a magnified look at the paths traveled by the two rays.</p>
+
+        <figure>
+			<title>Double Slit Experiment Figure</title>
+        <caption>Left: A diagram of the double slit experiment. The slits are separated from the screen by a distance of <m>L</m>, and the angle to the mth bright spot is denoted by <m>\theta_m</m>. The vertical distance to the mth bright spot is <m>y_m</m>. Right: A zoomed-in view of the double slits. The slits are separated by a distance <m>d</m>. Two different rays, <m>r_1</m> and <m>r_2</m> travel towards the screen at an angle <m>\theta</m>, making the path length difference between the two rays equal to <m>d \sin\theta</m>.</caption>
+        <image source="optics/slit-diagram.jpg"><description>On the left side, there is a diagram of the souble-slit experiment, with the slits sitting on the left a distance L away from a screen. A dashed line extends from the center of the slits to the screen at an angle theta sub m and hits a point y sub m on the screen on the right. A small circle covers the double-slit experiment on the right. On the right side, there is a zoomed-in picture of the double-slit set up inside a circle. Two slits sit at a distance d away from each other. A ray extends from each slit to the right side of the circle at an angle theta. The rays are labelled "r 1" and "r 2". Another line extends from the top slit to the bottom ray at an angle theta, indicating the path length difference.</description></image>
+    </figure>
+
+    <p>
+        If the screen is far away from the sources, the two rays in the figure above may be treated as parallel, allowing you to calculate the path-length difference using trigonometry.
+    </p>
+		
+		    <assumption>
+        <title>Two-Source Path Length Difference</title>
+        <statement>
+            <p></p>
+            <p>For a screen that is far away from two sources of light, the <term>path length difference</term> can be approximated as <me>\Delta D = d \sin \theta</me>  where <m>d</m> is the distance between slits and <m>\theta</m> is the angle between the center line and the path to a spot on the screen.</p>
+        </statement>
+    </assumption>
+		
+
+
+  
+
+    
+
+        </subsubsection>
+
+    <subsubsection>
+        <title>Activities</title>
+            <activity>
+                <title>Constructive Interference</title>
+                <statement>
+                <p>
+                    
+                </p>
+                <p>
+                    Combine the geometric path-length difference found above and the general rule for <xref ref="def_constructive"/> to find an equation relating <m>d</m>, <m>\lambda</m>, and <m>\theta</m> for the bright spots on the screen.
+                </p>
+            </statement>
+            <answer>
+                <p>
+                    <me>
+                        d \sin \theta = m\lambda
+                    </me>
+                    
+                </p>
+            </answer>
+            </activity>
+            <activity>
+                <title>Destructive Interference</title>
+                <statement>
+                <p>
+                    
+                </p>
+                <p>
+                    Combine the geometric path-length difference found above and the general rule for <xref ref="def_destructive"/> to find an equation relating <m>d</m>, <m>\lambda</m>, and <m>\theta</m> for the dark spots on the screen.
+                </p>
+            </statement>
+            <answer>
+                <p>
+                    <me>
+                        d \sin \theta = \left( m + \frac{1}{2} \right)\lambda
+                    </me>
+                    
+                </p>
+            </answer>
+            </activity>
+						<activity>
+						<title>The Small Angle Approximation</title>
+                        <statement>
+                        <p></p>
+						<p>In the video, you learned about using the <xref ref="assumption-smallA"/> for interference.  Use the small-angle approximation to write an equation relating <m>d</m>, <m>y</m>, <m>L</m>, and <m>\lambda</m> for points of maximum constructive interference.</p>
+                        </statement>
+                        <answer>
+                            <p>
+                                <me>
+                                    \sin\theta \approx \theta \approx \tan\theta = \frac{y}{L}
+                                </me>
+                                Plugging this into the maximum constructive interference expression above gives:
+                                <me>
+                                    d \frac{y}{L} = m\lambda
+                                </me>
+                                
+                            </p>
+                        </answer>
+						</activity>
+
+
+                        <p>
+                            The process above will allow you to find locations where the light exhibits maximum intensity (bright spots) and zero intensity (dark spots).  It is also possible to determine that the intensity at <em>any</em> given point on the screen under the approximations described above is
+                            <me>
+                                I(y) = I_0 \cos^2{\left(\frac{\pi d}{L\lambda}y\right)}
+                            </me>
+                            where <m>I_0</m> is the intensity of one of the point sources.
+                        </p>
+
+                          <conjecture xml:id="r_intensity-graph">
+			<title>Intensity Graph</title>
+			<statement>
+                <p></p>
+				<p>An <term>intensity graph</term> shows the intensity of light in some region, often on a screen.  The example below is for light on a distant screen that has passed through two extremely narrow slits (using the small-angle approximation).</p>
+                <figure>
+			<title>2-Slit Intensity Figure</title>
+        <caption>Intensity graph for two extremely narrow slits.</caption>
+        <image source="2SI-Intensity.png"><description></description></image>
+    </figure>
+			</statement>
+		</conjecture>
+
+            <activity>
+                <title>Measure the Wavelength</title>
+                <p></p>
+                <p>You are conducting the double slit experiment and you have a light source with an unknown wavelength. The slits are separated by a distance of <m>0.5 \mathrm{~mm}</m> and your screen is <m>3.4 \mathrm{~m}</m>. You measure the third bright fringe to be at a position of <m>4.7 \mathrm{~mm}</m> to the right of the center line on the screen. What is the wavelength of light? </p>
+            </activity>
+    </subsubsection>
+</section>

@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_boundary" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Boundaries and Discontinuities</title>
+  <title>Boundaries</title>
   
 				<subsubsection>
-	<title>Activities</title>
-			  <p>Play with this <url href="https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_en.html" visual="simulation"/> for a few minutes.</p>
+	<title>Simulation Activity</title>
+	
+			  
 			<activity>
-			<statement>
-			  <p>Write an interesting observation you made using the simulation. Try to connect your observation to something you have experienced in your everyday life.</p>
-				</statement>
-			</activity>
-						<activity>
-			<statement>
-			  <p>If you have not done so already, follow these steps in the simulation:</p>
+				<title>String Boundary</title>
+				<introduction>
+		<p>
+		</p>
+		<p>Play with this <url href="https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_en.html" visual="simulation"/> for a few minutes.</p>
+	</introduction>
+				<task>
+					<statement>
+						<p>Write an interesting observation you made using the simulation. Try to connect your observation to something you have experienced in your everyday life.</p>
+					</statement>
+				</task>
+			  <task>
+				<statement>
+					<p>If you have not done so already, follow these steps in the simulation:</p>
 				<p>
 				<ul>
 				<li>Click on the Pulse button and reduce the damping to zero.</li>
@@ -25,7 +33,7 @@
 				</ul>
 				</p>
 				</statement>
-				<answer>
+			  <answer>
 				
 				<p>Reflections from fixed ends tend to flip over, while reflections from free ends do not.</p>
 				
@@ -43,47 +51,9 @@
     	<image source="wave/soft.gif" width = "50%" ></image>
 </figure>	
 				</answer>
-			</activity>
-			<p>The image below shows a wave pulse moving from left to right in two different situations: from a region with high density to a region with low density (top) and from a region with low density to a region with high density (bottom).</p>
-						  <figure xml:id="waves_approach2">
-		 <caption>A wave pulse approaches a boundary between two strings in two different configurations.</caption>
-		<image source="MovingPulses2.png" width = "75%">
-			</image>
-  </figure>
-			<activity>
-			<statement>
-			<p>Predict what you think will happen after the wave pulse reaches the boundary in the top experiment.</p>
-			</statement>
-			<answer>
-			
-						<figure xml:id="hi_lo">
-						<title>Boundary Reflection Figure</title>
+			</task>
 						
-						
-    	<caption>
-	A wave encountering a discontinuity from a high density to a low density.
-	</caption>
-    	<image source="wave/hi_lo.gif" width = "75%" ></image>
-</figure>	
-
-			</answer>
-			</activity>
-			<activity>
-			<statement>
-			<p>Predict what you think will happen after the wave pulse reaches the boundary in the bottom experiment.</p>
-			</statement>
-			<answer>
-<figure xml:id="lo_hi">
-<title>Boundary Reflection Figure</title>
-    	<caption>
-	A wave encountering a discontinuity from a low density to a high density.
-	</caption>
-    	<image source="wave/lo_hi.gif" width = "75%" ></image>
-</figure>	
-
-
-			</answer>
-			</activity>			
+				</activity>
 			
 		</subsubsection>
 

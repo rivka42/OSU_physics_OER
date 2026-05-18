@@ -22,10 +22,10 @@
 	<title>Collision</title>
 	<statement>
 		<p></p>
-		<p>A collision is a situation in which two (or more) objects hit each other, usually during a small amount of time.  Collisions can be categorized by whether or not the <em>kinetic energy</em> of the system changes:</p>
+		<p>A collision is a situation in which two (or more) objects hit each other, usually during a small amount of time, and typically in a fashion such that the momentum of the system is conserved.  Collisions can be categorized by whether or not the <em>kinetic energy</em> of the system changes:</p>
 		<p>
 		<ul>
-		<li><term>Elastic collision</term>: The kinetic energy of the system does not change (no kinetic energy is "lost" or "gained").</li>
+		<li><term>Elastic collision</term>: The kinetic energy of the system does not change (no kinetic energy is <q>lost</q> or <q>gained</q>).</li>
 		<li><term>Inelastic collision</term>: The kinetic energy of the system decreases (some kinetic energy is lost, usually transforming into heat, sound, or internal energy).  When two colliding objects stick together afterward, the collision is said to be <em>perfectly</em> inelastic.</li>
 		<li><term>Super-elastic collision</term>: The kinetic energy of the system increases (some kinetic energy is gained, usually transforming from internal potential energy).</li>
 		</ul>

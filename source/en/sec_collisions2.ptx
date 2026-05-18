@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_collisions2" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Collision Exercises</title>
+	
+	<activity>
+	<title>Bumper Cars</title>
+	<statement>
+	<p>
+		
+	</p>
+<p>Two bumper cars collide with each other and get tangled together.  Car 1 (<m>m_1</m>) moves north at <m>v_1</m>.  Car 2 (<m>m_2</m>) moves south at <m>v_2</m>.</p>
+<p>
+	Case 1: Initially, car 1 (<m>100 \mathrm{~kg}</m>) moves north at <m>4 \mathrm{~m/s}</m> and car 2 (<m>200 \mathrm{~kg}</m>) moves south at <m>3 \mathrm{~m/s}</m>.
+</p>
+<ol marker="A)">
+	<li>
+		<p>
+			Draw a momentum vector diagram for the situation.
+		</p>
+	</li>
+	<li>
+		<p>
+			Find the final velocity of the cars.
+		</p>
+	</li>
+	<li>
+		<p>
+			Determine the initial and final kinetic energies of the cars.
+		</p>
+	</li>
+	<li>
+		<p>
+			Compare the total kinetic energy before and after the collision.
+		</p>
+	</li>
+</ol>
+<p>
+	Case 2: Initially, car 1 (<m>100 \mathrm{~kg}</m>) moves north at <m>4 \mathrm{~m/s}</m> and car 2 (<m>200 \mathrm{~kg}</m>) moves south.  Both end at rest.
+</p>
+<ol marker="A)">
+	<li>
+		<p>
+			Draw a momentum vector diagram for the situation.
+		</p>
+	</li>
+	<li>
+		<p>
+			Find the initial velocity of car 2.
+		</p>
+	</li>
+	<li>
+		<p>
+			Determine the initial and final kinetic energies of the cars.
+		</p>
+	</li>
+	<li>
+		<p>
+			Compare the total kinetic energy before and after the collision.
+		</p>
+	</li>
+</ol>
+</statement>
+</activity>
+
+<activity>
+	<title>Energy and Collisions</title>
+	<introduction>
+		<p>
+			
+		</p>
+		<p>
+			A small rock (mass <m>m</m>) is moving to the right on a frictionless table with speed <m>v</m>.  It hits a second rock (mass <m>M</m>) that is initially at rest on the table.  The rocks do not stick together.
+		</p>
+	</introduction>
+	<task>
+		<statement>
+			<p>
+				Do you think momentum is conserved during this interaction?  If so, for what system is it conserved?
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Do you think energy is conserved during this interaction?  If so, for what system is it conserved?
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				A reasonable objective for this situation is to try to find the speed of each rock after the collision.  This can be complicated, so do not try it yet.
+			</p>
+			<p>
+				What special cases do you think might be worth considering in this situation?  Try to come up with at least two.
+			</p>
+			<p>
+				For each special case you came up with, determine the final speed of each rock.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				The final speeds of the rocks are given by: <me>v_m=\frac{m-M}{m+M}v</me><me>v_M=\frac{2m}{m+M}v</me>
+				Evaluate these expressions in the special cases you came up with previously.  Were your predictions correct?
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Determine the total kinetic energy of the system both before and after the collision.  Was kinetic energy conserved during this collision?  Why or why not?
+			</p>
+		</statement>
+	</task>
+	
+</activity>
+<activity>
+	<title>The Firework</title>
+	<introduction>
+		<p>
+			
+		</p>
+		<p>
+			A firework is moving to the right with speed <m>v</m> when it explodes into two pieces with equal mass (<m>m/2</m>).  Right after the explosion, the first piece is moving backward with speed <m>v</m>.
+		</p>
+	</introduction>
+	<task>
+		<statement>
+			<p>
+				Sketch a momentum vector diagram.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>Calculate the velocity of the other piece.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Determine the change in the system's kinetic energy.
+			</p>
+		</statement>
+	</task>
+</activity>
+	
+</section>

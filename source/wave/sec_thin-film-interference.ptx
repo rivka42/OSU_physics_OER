@@ -4,7 +4,7 @@
     <title>Thin-film Interference</title>
     <introduction>
     <p>
-        One of the most commonly encountered instances of interference between light waves in the real world occurs when light reflects off a thin substance.  For example, in the picture below, the edges of the reflection are purple because of interference that is constructive for some wavelengths of light and destructive for other wavelengths, preventing the full spectrum of light from reaching the eye.
+        A common everyday instance of interference occurs when light reflects off a thin substance.  For example, in the picture below, the edges of the reflection are purple because of interference that is constructive for some wavelengths of light and destructive for other wavelengths, preventing the full spectrum of light from reaching the eye.
     </p>
     </introduction>
 
@@ -14,7 +14,7 @@
         <image source="Bubble.png" width = "50%" ><description></description></image>
     </figure>
 
-    <subsubsection xml:id="subsec-">
+    <subsubsection>
         <title>Example: Oil on Water</title>
         
 <!--

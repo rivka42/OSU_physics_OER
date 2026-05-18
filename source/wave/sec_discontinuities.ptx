@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_discontinuities" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Boundary Discontinuities</title>
+  
+
+  <p>The image below shows a wave pulse moving from left to right in two different situations: from a region with high density to a region with low density (top) and from a region with low density to a region with high density (bottom).</p>
+
+  <figure xml:id="waves_approach2">
+		 <caption>A wave pulse approaches a boundary between two strings in two different configurations.</caption>
+		<image source="MovingPulses2.png" width = "75%">
+			</image>
+  </figure>
+
+
+				<subsubsection>
+	<title>Activities</title>
+			  
+			
+						  
+			<activity>
+			<statement>
+			<p>Predict what you think will happen after the wave pulse reaches the boundary in the top experiment.</p>
+			</statement>
+			<answer>
+			
+						<figure xml:id="hi_lo">
+						<title>Boundary Reflection Figure</title>
+						
+						
+    	<caption>
+	A wave encountering a discontinuity from a high density to a low density.
+	</caption>
+    	<image source="wave/hi_lo.gif" width = "75%" ></image>
+</figure>	
+
+			</answer>
+			</activity>
+			<activity>
+			<statement>
+			<p>Predict what you think will happen after the wave pulse reaches the boundary in the bottom experiment.</p>
+			</statement>
+			<answer>
+<figure xml:id="lo_hi">
+<title>Boundary Reflection Figure</title>
+    	<caption>
+	A wave encountering a discontinuity from a low density to a high density.
+	</caption>
+    	<image source="wave/lo_hi.gif" width = "75%" ></image>
+</figure>	
+
+
+			</answer>
+			</activity>			
+			
+		</subsubsection>
+
+
+
+
+
+
+<references>
+
+<biblio>
+<p> Animations courtesy of Dr. Dan Russell, Grad. Prog. Acoustics, Penn State. licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. For more information see <url href="https://www.acs.psu.edu/drussell/demos.html"/>
+</p>
+</biblio>
+</references>
+
+  
+
+	
+</section>
+

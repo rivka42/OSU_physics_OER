@@ -2,6 +2,40 @@
 
 <section xml:id="sec_standing" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Standing Waves</title>
+
+  <activity>
+	<title>Warm-up Activity</title>
+	<introduction>
+		<p>
+			
+		</p>
+		<p>
+			Visit <url href="https://beav.es/standing">this website</url>, hit the start button, and observe the behavior.  (It will take a little for the wave behavior to evolve fully.)
+		</p>
+	</introduction>
+	<task>
+		<statement>
+			<p>
+				Why do you think this is called a <alert>standing wave</alert>?
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Identify the locations that remain always fixed (these are known as nodes) and the locations that oscillate most strongly (these are known as anti-nodes).  Verify that the principle of superposition is accurate at these points.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				With the wave reflecting from a free end, click on Start, wait until the wave returns to its point of origin, and observe the new standing wave.  What is different about it?
+			</p>
+		</statement>
+	</task>
+	
+  </activity>
 	
 	<p>When two traveling waves with the same frequency and amplitude move past each other in opposite directions, they create what is known as a <term>standing wave</term>, such as the example shown below.</p>
 	

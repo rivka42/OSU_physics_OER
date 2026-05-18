@@ -9,6 +9,27 @@
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
 	If you want a Calculate activity, use the <exploration> tag.
 	-->
+
+		<subsubsection>
+		<title>A*R*C*S Activities</title>
+		</subsubsection>
+
+<project xml:id="psa_en-012">
+        <title>The Exploding Firecracker</title>
+		<statement>
+			<p></p>
+		    <p>You throw a firecracker vertically upward.  At <m>t = 0</m>, the firecracker is moving upward with speed <m>v_1</m>, 
+				at which point it begins to explode, splitting into an upper piece with mass <m>m_u</m> and a lower piece with mass <m>m_l</m>.  
+				The explosion finishes at <m>t = \frac{v_1}{g}</m>, at which point you observe that the upper piece is still moving upward with speed <m>3v_1</m>.</p>
+				<p>Determine the velocity of the lower piece at <m>t = \frac{v_1}{g}</m>.</p>
+						<assemblage>
+		    <p><alert><!--REPLACE_TAG-->Tip:</alert> For your representation (part 1c), sketch a momentum vector diagram.</p>
+			</assemblage>
+			<assemblage>
+		    <p><alert><!--REPLACE_TAG-->Tip:</alert> For your symbolic sensemaking (part 3c), try at least two special cases.</p>
+			</assemblage>
+		</statement>
+	</project>
 	
 	<subsubsection>
 		<title>Numerical Practice</title>
@@ -112,7 +133,7 @@
   
 <references>
 <biblio xml:id="momentum">
-<p>Numerical practice activities provided by .</p>
+<p>Numerical practice activities provided by BoxSand.</p>
 </biblio>
 </references>
 	

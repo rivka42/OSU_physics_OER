@@ -28,6 +28,19 @@
 <subsubsection>
 	<title>A*R*C*S Practice</title>
 
+	<project>
+		<title>Muscovite Sheet</title>
+		<p>
+			
+		</p>
+		
+		<p>
+		Muscovite, which as <m>n = 1.56</m>, or better known as mica, is a phyllosilicate mineral of aluminum and potassium. New industrial uses include being an insulator, usually for small electrical components. Fabrication of devices with mica often require high precision in the determination of the mica thickness. If a mica sheet is suspended in air and reflected light shows gaps in the visible spectrum at <m>450</m>, <m>525</m>, and <m>630 \mathrm{~nm}</m>, what is the thickness of the mica sheet?
+	</p>
+		
+	</project>
+
+	
 
 
 </subsubsection>
@@ -39,15 +52,15 @@
 		<statement>
 			<p></p>
 			<p>
-				A cylindrical tube of air sustains standing waves at 600 Hz, 800 Hz, and 1000 Hz, but at no other frequencies between 600 and 1000 Hz. Which of the following statements are plausible here?
+				A cylindrical tube of air sustains standing waves at <m>600 \mathrm{~Hz}</m>, <m>800 \mathrm{~Hz}</m>, and <m>1000 \mathrm{~Hz}</m>, but at no other frequencies between <m>600</m> and <m>1000  \mathrm{~Hz}</m>. Which of the following statements are plausible here?
 			</p>
 			<ol marker="A">
-			<li>The fundamental frequency is 50 Hz and the tube is open on both ends. </li>
-			<li>The fundamental frequency is 100 Hz and the tube is open on both ends.</li>
-			<li>The fundamental frequency is 100 Hz and the tube has one open and one closed end. </li>
-			<li>The fundamental frequency is 200 Hz and the tube has one open and one closed end.</li>
-			<li>The fundamental frequency is 200 Hz and the tube is open on both ends. </li>
-			<li>The fundamental frequency is 200 Hz and the tube is closed on both ends.</li>
+			<li>The fundamental frequency is <m>50 \mathrm{~Hz}</m> and the tube is open on both ends. </li>
+			<li>The fundamental frequency is <m>100 \mathrm{~Hz}</m> and the tube is open on both ends.</li>
+			<li>The fundamental frequency is <m>100 \mathrm{~Hz}</m> and the tube has one open and one closed end. </li>
+			<li>The fundamental frequency is <m>200 \mathrm{~Hz}</m> and the tube has one open and one closed end.</li>
+			<li>The fundamental frequency is <m>200 \mathrm{~Hz}</m> and the tube is open on both ends. </li>
+			<li>The fundamental frequency is <m>200 \mathrm{~Hz}</m> and the tube is closed on both ends.</li>
 		  </ol>
 		</statement>
 		
@@ -73,28 +86,28 @@
 				At which of the following path length differences will constructive interference also occur?
 			</p>
 			<ol marker="A">
-			<li>64 m</li>
-			<li>180 m</li>
-			<li>256 m</li>
-			<li>320 m</li>
-			<li>512 m</li>
-			<li>832 m</li>
-			<li>3264 m</li>
-			<li>4096 m</li>
+			<li><m>64 \mathrm{~m}</m></li>
+			<li><m>180 \mathrm{~m}</m></li>
+			<li><m>256 \mathrm{~m}</m></li>
+			<li><m>320 \mathrm{~m}</m></li>
+			<li><m>512 \mathrm{~m}</m></li>
+			<li><m>832 \mathrm{~m}</m></li>
+			<li><m>3264 \mathrm{~m}</m></li>
+			<li><m>4096 \mathrm{~m}</m></li>
 		  </ol>
 
 			<p>
 				At which of the following path length differences will destructive interference occur?
 			</p>
 			<ol marker="A">
-			<li>64 m</li>
-			<li>180 m</li>
-			<li>256 m</li>
-			<li>320 m</li>
-			<li>512 m</li>
-			<li>832 m</li>
-			<li>3264 m</li>
-			<li>4096 m</li>
+			<li><m>64 \mathrm{~m}</m></li>
+			<li><m>180 \mathrm{~m}</m></li>
+			<li><m>256 \mathrm{~m}</m></li>
+			<li><m>320 \mathrm{~m}</m></li>
+			<li><m>512 \mathrm{~m}</m></li>
+			<li><m>832 \mathrm{~m}</m></li>
+			<li><m>3264 \mathrm{~m}</m></li>
+			<li><m>4096 \mathrm{~m}</m></li>
 		  </ol>
 		</statement>
 		
@@ -118,7 +131,7 @@
 
 <references>
 	<biblio xml:id="ref_boxsand-sup">
-	<p>Numerical practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+	<p>Numerical practice activities and the Muscovite Sheet Activity provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
 	</biblio>
 </references>
 </section>

@@ -1,15 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_standing_string" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Standing Waves on Strings</title>
+  <title>Making Standing Waves</title>
 		
-<!-- I DO NOT THINK WE REALLY NEED TWO SEPARATE STANDING WAVE SECTIONS -->
 
-<references>
-<biblio>
-<p></p>
-</biblio>
-</references>
+		
+  <subsubsection>
+<title>Activities</title>
+<activity>
+	<title>Making Standing Waves</title>
+	
+<introduction>
+  <p>
+    
+  </p>
+  <p>
+    Visit <url href="https://beav.es/standing">this website</url>, hit the start button, and observe the behavior of the string.
+  </p>
+</introduction>
+<task>
+  <statement>
+    <p>
+      Why do you think this is called a standing wave?
+    </p>
+  </statement>
+</task>
+<task>
+  <statement>
+    <p>
+      Identify the locations that remain always fixed (these are known as nodes) and the locations that oscillate most strongly (these are known as anti-nodes).  Verify that the principle of superposition is accurate at these points.
+    </p>
+  </statement>
+</task>
+<task>
+  <statement>
+    <p>
+      With the wave reflecting from a free end in the simulation, click on Start, wait until the wave returns to its point of origin, and observe the new standing wave.  What is different about it?
+    </p>
+  </statement>
+</task>
+</activity>
+
+<activity>
+  <title>Fixed Ends</title>
+  <introduction>
+    <p>
+      
+    </p>
+    <p>
+      Shown at the bottom of the page are three different standing waves that can be formed a string or spring, like the one in the experiment.  Suppose you have such a string with length L and that both ends are fixed.
+    </p>
+  </introduction>
+  <task>
+    <statement>
+      <p>
+        Identify all nodes and antinodes in the sketches.
+      </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <p>
+        For each sketch, determine the number of wavelengths that fit on the string.  Use your answer to determine the wavelength <m>\lambda</m> in terms of the length of the string <m>L</m> and indicate it on your sketch.
+      </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <p>
+        Do you notice any patterns in the wavelengths?  Can you come up with a general rule for all possible wavelengths?
+      </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <p>
+        Assuming you know the wave speed v, determine the frequencies <m>f</m> in terms of <m>v</m> and the length of the string <m>L</m>.
+      </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <p>
+        Sketch another wave on this string that has a higher frequency than the three waves shown.
+      </p>
+    </statement>
+  </task>
+  
+</activity>
+<activity>
+  <title>The Banjo String</title>
+  <introduction>
+    <p>
+      
+    </p>
+    <p>
+      A banjo string is <m>0.7 \mathrm{~m}</m> long and has a minimum (fundamental) frequency
+of <m>392 \,athrm{~Hz}</m> (G).  Determine:
+    </p>
+  </introduction>
+  <task>
+    <statement>
+      <p>
+        The wave speed along this string.
+      </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <p>
+        Three other frequencies at which this string can vibrate.
+      </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <p>
+        How long should you make the string to increase the minimum (fundamental) frequency to <m>494 \mathrm{~Hz}</m> (B)?
+      </p>
+    </statement>
+  </task>
+ 
+</activity>
+<activity>
+  <title>Fixed and Free Ends</title>
+  <introduction>
+    <p>
+      
+    </p>
+    <p>
+      Consider a string with one end fixed but the other end is not fixed—instead, it is free to move back and forth.
+    </p>
+  </introduction>
+  <task>
+    <statement>
+      <p>
+        Sketch the standing wave consistent with the ends of the string that has the largest wavelength.
+      </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <p>
+        Find the frequency of this standing wave.
+      </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <p>
+        Sketch at least two additional waves and find their wavelengths and frequencies.
+      </p>
+    </statement>
+  </task>
+  <task>
+    <statement>
+      <p>
+        Do you notice any patterns in the wavelengths?  Can you come up with a general rule for all possible wavelengths?
+      </p>
+    </statement>
+  </task>
+  
+  
+</activity>
+
+
+
+
+</subsubsection>
 
   
 

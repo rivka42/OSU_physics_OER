@@ -28,6 +28,54 @@
 	</task>
   </activity>
 
+  <activity>
+	<title>The Pitcher</title>
+	<introduction>
+		<p>
+			
+		</p>
+		<p>
+			A baseball pitcher throws a baseball toward home plate.  The mass of the baseball is about <m>145 \mathrm{~g}</m>.  It takes approximately <m>0.2 \mathrm{~s}</m> for the pitcher to speed up the ball.
+		</p>
+	</introduction>
+	<task>
+		<statement>
+			<p>
+				Estimate the speed of the ball (in m/s) as it leaves the pitcher's hand.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Sketch a free-body diagram for the pitcher and the baseball.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Is momentum conserved for the baseball?  For the pitcher?  For the system of both the baseball and the pitcher?
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Estimate the magnitude of the force the pitcher acts on the ball.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Estimate the magnitude of any other forces acting on the pitcher.
+			</p>
+		</statement>
+	</task>
+	
+  </activity>
+
 	
 </section>
 
