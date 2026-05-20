@@ -24,15 +24,13 @@
 			</statement>
 			<answer>
 			
-						<figure xml:id="hi_lo">
-						<title>Boundary Reflection Figure</title>
-						
-						
-    	<caption>
-	A wave encountering a discontinuity from a high density to a low density.
-	</caption>
-    	<image source="wave/hi_lo.gif" width = "75%" ></image>
-</figure>	
+			<figure xml:id="hi_lo">
+			<title>Boundary Reflection Figure</title>
+			<caption>
+				A wave encountering a discontinuity from a high density to a low density.
+			</caption>
+			<image source="wave/hi_lo.gif" width = "75%" ></image>
+			</figure>	
 
 			</answer>
 			</activity>

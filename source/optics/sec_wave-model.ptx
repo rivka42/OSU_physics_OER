@@ -21,7 +21,7 @@
 
     <exercises>
         <title>Wave Model Simulation</title>
-        <p>Spend some time playing with the <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html" visual="light interference simulation"/>. Click on the <q>Interference</q> tab, and on the right hand side, choose the laser pointer option.  (You will revisit the other tabs in this simulation in future sections.)  Make a list of your observations as you are playing with the simulation, then use your observations to answer the following questions.
+        <p>Spend some time playing with the <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html">light interference simulation</url>. Click on the <alert><q>Interference</q></alert> tab, and on the right hand side, choose the laser pointer option.  (You will revisit the other tabs in this simulation in future sections.)  Make a list of your observations as you are playing with the simulation, then use your observations to answer the following questions.
         </p>
         <exercise>
         <p>When you look at the screen, how would you describe the pattern of light and dark spots that you observe?  Why do you think this pattern appears?</p>

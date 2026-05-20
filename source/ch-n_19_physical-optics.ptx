@@ -47,6 +47,7 @@
 
     <!--PRACTICE SECTIONS-->
 	<xi:include href="./optics/sec_po-practice.ptx" />
+	<xi:include href="./optics/sec_interference-applications.ptx" />
 
     <!--CHALLENGE SECTIONS-->
 	<xi:include href="./optics/sec_po-challenge.ptx" />

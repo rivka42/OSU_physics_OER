@@ -24,29 +24,49 @@
 		</statement>
 		</investigation>
 
+		<investigation xml:id="pa_opt-2-a">
+			<title>Unknown Mask I</title>
+			<p>
+				
+			</p>
+			<p>
+				You shine a laser through a mask, producing the intensity graph shown below.  How many slits are in the mask?
+			</p>
+			<figure>
+			<title>Masks Homework Figure</title>
+        <caption>Intensity Graph.</caption>
+        <image source="UnknownMask.png" width = "100%"><description></description></image>
+    </figure>
+		</investigation>
+
 		<subsubsection>
 	<title>A*R*C*S Activities</title>
 	</subsubsection>
 
-		<project xml:id="pa_opt-10">
-		<title>Intensity on the Screen</title>
-		<statement>
-			<p></p> 
-			<p>
-				You have a laser with wavelength <m>\lambda = 550 \mathrm{~nm}</m>.  You shine this laser through the mask with two slits shown below, where <m>s = 0.5 \mathrm{~mm}</m>.  Create and label a diagram of the pattern that appears on a screen that has been placed a distance <m>L = 2.0 \mathrm{~m}</m> away from the mask.  The location of bright and dark spots should be quantitatively accurate; the relative intensity should be qualitatively accurate.  Your diagram should include many bright and dark spots (enough to see all the interesting parts of the pattern), and you should include additional diagrams alongside your sensemaking.
-
-			</p>
-			<figure>
-			<title>Mask with Two Slits</title>
-            <caption>A mask with two slits.</caption>
-            <image source="Masks.png" width = "75%"><description></description></image>
-          </figure>
-		</statement>
+	<project xml:id="pa_opt-2-b">
+		<title>Unknown Mask II</title>
+		<p>
+			
+		</p>
+		<p>
+			Assuming the wavelength of the laser is <m>\lambda = 450 \mathrm{~nm}</m>, calculate the distance between the slits in the unknown mask.
+		</p>
 	</project>
+
+		
 
 	<subsubsection>
 		<title>Metacognitive Reflection</title>
 		</subsubsection>
+
+		<activity>
+			<title>Duality for Light</title>
+			<p></p>
+			<p>
+				You now have two models for light: a ray model (which may also be thought of as a particle model) and a wave model.  Briefly compare and contrast key features of these models.  Does it make sense to you that light sometimes behaves like a wave and sometimes behaves like a particle?
+			</p>
+			
+		</activity>
 
 </section>
 

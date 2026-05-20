@@ -9,7 +9,7 @@
             <p>
                 
             </p>
-        <p>Start by playing with the <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html">light interference simulation</url> for a few minutes. Click on the <q>Slits</q> tab and select the laser. On the right hand side, increase the number of slits to two.</p>
+        <p>Start by playing with the <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html">light interference simulation</url> for a few minutes. Click on the <alert><q>Slits</q></alert> tab and select the laser. On the right hand side, increase the number of slits to two.</p>
     </introduction>
     <!--
     <task>

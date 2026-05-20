@@ -3,10 +3,114 @@
 <section xml:id="sec_boundary-model" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Boundary Models</title>
   
-				
-
-  
-
-	
+				<activity>
+          <title>Wave Boundaries</title>
+          <introduction>
+            <p>
+              
+            </p>
+            <p>
+              Shown below is a wave pulse that is moving toward a point of the spring that is fixed (tied down so that it cannot move), represented by a dot.  Note that the right side of the image is imaginary (there is no real spring there).
+            </p>
+            <figure xml:id="fig_fixed-end">
+            <title>Fixed-end Reflection Figure</title>
+            <caption>
+              A wave pulse moving toward a fixed end of a spring.
+            </caption>
+            <image source="WavePulse5.png" width = "50%" >
+              <description>A triangular wave pulse on a horizontal spring moves to the right toward a fixed end represented by a dot.</description>
+            </image>
+            </figure>
+          </introduction>
+          <task>
+            <statement>
+              <p>
+                Sketch another wave pulse on the imaginary side of the figure that has the following features:
+              </p>
+              <ol>
+                <li>
+                  <p>
+                    It has the same general shape as the incident pulse.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    It is <em>mirrored</em> (reflected over the vertical line passing through the dot).
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    It is <em>inverted</em> (reflected over the horizontal).
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    It is moving to the left.
+                  </p>
+                </li>
+              </ol>
+            </statement>
+          </task>
+          <task>
+            <statement>
+              <p>
+                Show that, as these two pulses pass each other, the superposition of the two pulses leaves the dot fixed.
+              </p>
+            </statement>
+          </task>
+          <task>
+            <statement>
+              <p>
+                Sketch the shape of the spring at some instant after the two pulses have completely passed each other.
+              </p>
+            </statement>
+          </task>
+          <task>
+            <statement>
+              <p>
+                Suppose the same pulse is incident on a point of the spring that is free to move up and down, represented by the same dot.
+              </p>
+              <p>
+                Sketch another wave pulse on the imaginary side of the figure that has the following features:
+              </p>
+              <ol>
+                <li>
+                  <p>
+                    It has the same general shape as the incident pulse.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    It is <em>mirrored</em> (reflected over the vertical line passing through the dot).
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    It is <em>not inverted</em>.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    It is moving to the left.
+                  </p>
+                </li>
+              </ol>
+            </statement>
+          </task>
+          <task>
+            <statement>
+              <p>
+                Sketch the shape of the spring at a few different instants as the pulses pass each other.  What do you notice about the shape of the spring near the free end?
+              </p>
+            </statement>
+          </task>
+          <task>
+            <statement>
+              <p>
+                Sketch the shape of the spring at some instant after the two pulses have completely passed each other.
+              </p>
+            </statement>
+          </task>
+          </activity>
 </section>
 

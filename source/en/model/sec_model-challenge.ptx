@@ -68,9 +68,11 @@
 		</statement>
 	</project>
 
-
-		<activity xml:id="x_summarize-mech">
+<subsubsection>
 		<title>Metacognitive Reflection</title>
+		</subsubsection>
+		<activity xml:id="x_summarize-mech">
+		<title>Three Approaches to Solving Physics Problems</title>
 		<p></p>
     <p>
       You have now learned several different ways to analyze a context: forces, energy, and momentum.  

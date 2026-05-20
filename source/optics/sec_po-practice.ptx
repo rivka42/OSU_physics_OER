@@ -9,14 +9,23 @@
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
 	If you want a Calculate activity, use the <problem> tag.  (This tag is Example-like, not Project-like, so you cannot embed lettered steps into it using <task>.
 	-->
-<!--
+
 <subsubsection>
 	<title>Explanation Practice</title>
-
+<investigation>
+	<title>Two Sources</title>
+	<p>
+		
+	</p>
+	
+	<p>
+		The source in the double slit experiment emits at two wavelengths, <m>\lambda_1</m> and <m>\lambda_2</m>. On the viewing screen, the fourth maximum for <m>\lambda_1</m> is located at the same spot as the fifth maximum for <m>\lambda_2</m>. Explain how this is possible and determine the correct ratio of the wavelengths.
+	</p>
+</investigation>
 	
 	 
 </subsubsection>
--->
+
 <subsubsection>
 	<title>A*R*C*S Practice</title>
 
@@ -28,6 +37,17 @@
 				A <m>650 \mathrm{~nm}</m> laser illuminates a single slit and is observed on a screen <m>1.2 \mathrm{~m}</m> behind the slit. The distance between the second minimum on the right and the second minimum on the left is <m>11 \mathrm{~mm}</m>.  What is the width of the slit?
 			</p>
 		</statement>
+	</project>
+
+	<project>
+		<title>Minimum Separation</title>
+		<p>
+			
+		</p>
+		<p>
+			Suppose that the highest order fringe that can be observed is the eighth in a double-slit experiment where 550-nm wavelength light is used. What is the minimum separation of the slits?
+		</p>
+		
 	</project>
 
 </subsubsection>

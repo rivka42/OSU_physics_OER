@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_interference-applications" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Interference Applications</title>
+   <activity>
+    <title>Diffraction Practice</title>
+    <introduction>
+        <p>
+            
+        </p>
+        <p>
+            A red laser with <m>\lambda = 633 \mathrm{~nm}</m> shines through a single diffraction slit. The angular width of the bright spot in the middle of the screen is 10 degrees. 
+        </p>
+    </introduction>
+    <task>
+        <statement>
+            <p>
+                Determine the width of the slit.
+            </p>
+        </statement>
+    </task>
+    <task>
+        <statement>
+            <p>
+                Predict what will happen (qualitatively) when a green laser shines through the same slit: will the pattern get wider, narrower, or stay the same?
+            </p>
+        </statement>
+    </task>
+   </activity>
+   <activity>
+    <title>Diffraction Grating Practice</title>
+    <p>
+        
+    </p>
+    <p>
+        A green laser (wavelength <m>550 \mathrm{~nm}</m>) of intensity <m>1.5 \mathrm{~\mu W/m^2}</m> passes through a diffraction grating that is <m>3 \mathrm{~cm}</m> wide and has <m>600 \mathrm{~lines/mm}</m>, forming an image on a screen <m>5 \mathrm{~cm}</m> away.
+    </p>
+    <p>
+        Where on the screen does the first bright spot show up?
+    </p>
+   </activity>
+</section>
