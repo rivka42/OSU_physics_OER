@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_photoelectric" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>The Photoelectric Effect</title>
+
+        <p>
+            Recall that the energy of a single photon <m>E = \frac{hc}{\lambda}</m> <em>increases</em> as the wavelength <em>decreases</em>.
+        </p>
+
+            <activity xml:id="x_quantum_model">
+                <title>Photoelectric Simulation</title>
+                <p>
+                    
+                </p>
+                
+                <p>Play with this <url href="https://phet.colorado.edu/en/simulations/photoelectric">Photoelectric Effect Simulation</url> for a few minutes.  Then, use your observations to answer the following questions.</p>
+                <ol>
+                    <li>How does the current (the number of electrons removed from the plate) depend on the intensity of <alert>purple light</alert> incident on sodium?</li>
+                    <li>How does the current depend on the intensity of <alert>red light</alert> incident on sodium?</li>
+                    <li>What is the largest wavelength of light (approximately) that will cause electrons to be removed from the sodium plate?  About how much energy do you think each electron ends up with in this case?</li>
+                    <li>How does the energy of an individual electron emitted from sodium under extreme ultraviolet light compare to the energy of an individual electron emitted from sodium under purple light?</li>
+                    <li>Based on the simulation, what property of calcium is different from sodium?  Assign a numerical value of this property to both substances.</li>
+                  </ol>
+            </activity>
+            <activity>
+                <title>Summary</title>
+                <p>
+                    
+                </p>
+                <p>
+                    Discuss how your observations are consistent with the statement below:
+                </p>
+                <p>
+                    <em><q>When light is incident on a metallic surface, each individual photon must have sufficient energy to dislodge an electron from the metal.  If the energy of each individual photon is too small, increasing the intensity will not dislodge any electrons.</q></em>
+                </p>
+            </activity>
+
+            <!--
+            <p>
+                This is a simulation of light with some wavelength hitting different types of targets, and kicking off electrons. The electrons travel across the gap, to another plate, and produce a current. For now, we aren't interested in the circuitry of the set-up, we are just going to make observations about what we are seeing.</p>
+                <p>Now answer the following questions by investigating them with the simulation.
+            </p>
+            -->
+
+            <insight>
+                <title>Photoelectric Effect</title>
+                <p>The Photoelectric Effect occurs when light hits a material, and some of the electrons that were a part of the material are kicked off as they absorb the energy of the incoming photons. This phenomenon was first seen by Heinrich Hertz in 1887.</p>
+            </insight>
+    
+
+</section>

@@ -80,6 +80,14 @@
     </p>
       </assemblage>
 
+      <assumption xml:id="a_wave-model">
+        <title>The Wave Model for Light</title>
+        <statement>
+          <p></p>
+          <p>In the <term>Wave Model</term>, light is treated as an electromagnetic wave that travels through space.  The frequency and wavelength of light are related to its color, and the intensity of the light is related to its brightness.</p>
+        </statement>
+      </assumption>
+
 
       
     

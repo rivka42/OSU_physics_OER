@@ -34,9 +34,12 @@
 
 
 	<!--PREPARE SECTIONS-->
-
-	<xi:include href="./optics/sec_quantum-model.ptx" />
+	<xi:include href="./optics/sec_combined.ptx" />
 	<xi:include href="./optics/sec_duality.ptx" />
+	<xi:include href="./optics/sec_photoelectric.ptx" />
+
+	<!--<xi:include href="./optics/sec_quantum-model.ptx" />-->
+	
 
     <!--PRACTICE SECTIONS-->
 	<xi:include href="./optics/sec_opt-app-practice.ptx" />

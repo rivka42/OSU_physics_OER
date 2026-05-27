@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_combined" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Combined Interference &amp; Diffraction</title>
+
+    <p>
+        You have now seen the intensity pattern created by coherent light traveling through several different arrangements of slits.  Two of the most basic are:
+    </p>
+    <ul>
+        <li>
+            <p>
+                The <xref ref="fig_intensity-graph-diffraction"/>, which arises from a single slit of non-infinitesimal width.
+            </p>
+        </li>
+        <li>
+            <p>
+                The <xref ref="fig_intensity-graph-interference"/>, which arises from a pair of slits each with the same infinitesimal width.
+            </p>
+        </li>
+    </ul>
+    <p>
+        In practice, real slits never have a truly infinitesimal width, so any actual interference pattern due to two slits will be a combination of the two patterns above.
+    </p>
+
+    <subsubsection>
+        <title>Activities</title>
+            <activity>
+                <title>Intensity Pattern Points</title>
+                <statement>
+                <p>
+                    
+                </p>
+                <p>
+                    In each pattern above, mark at least three different points where it is easy to write a relationship between the wavelength of the light and the position or angle to the point on the screen
+                </p>
+            </statement>
+            <answer>
+                <p>
+                    In the first graph (for single-slit diffraction), it is relatively easy to locate the diffraction minima.  The first diffraction minima, for example, is located at a point on the screen where <m>a\sin\theta=\lambda</m>, where <m>a</m> is the width of the slit.
+                </p>
+                <p>
+                    In the second graph (for double-slit interference), it is relatively easy to locate either maxima or minima.  The first principal maximum to either the left or the right is located at a point on the screen where <m>d\sin\theta=\lambda</m>, where <m>d</m> is the width of the slit.
+                </p>
+            </answer>
+            </activity>
+            <activity>
+                <title>Combined Pattern</title>
+                <p>
+                    
+                </p>
+                <p>
+                    The graph below shows an example of the intensity graph due to two slits with non-infinitesimal width.  Briefly explain why you think this graph might be reasonable, given the shapes of the two graphs referenced above.
+                </p>
+                <figure xml:id="fig_intensity-graph-combined">
+			<title>Combined Interference and Diffraction Intensity Pattern</title>
+        <caption>Intensity graph for two non-infinitesimal slits.</caption>
+        <image source="Combined-Intensity.png"><description></description></image>
+    </figure>
+            </activity>
+    </subsubsection>
+
+    
+
+</section>

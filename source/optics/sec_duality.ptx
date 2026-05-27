@@ -3,6 +3,71 @@
 <section xml:id="sec_duality" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Wave-Particle Duality</title>
 
+<!--Original text-->
+<!--
+<p>So is light a particle or a wave? Or is it both? What is actually happening? The great thing about these models (the ray and the wave model) is that they allow us to understand the behavior of light in different situations. But to understand things like atomic spectra, and the photoelectric effect, we need to understand the quantum properties of light. Watch this TED-Ed video about the nature of light to learn more.</p>
+-->
+
+    <video youtube="J1yIApZtLos"><description>Is light a particle or a wave? - Colm Kelleher</description></video>
+
+    <subsubsection>
+        <title>Key Ideas</title>
+        
+    </subsubsection>
+    <p>
+        You now have two models for how light behaves: <xref ref="a_ray-model"/>, in which light is treated as a particle that travels in straight lines, and <xref ref="a_wave-model"/>, in which light is treated as an electromagnetic wave subject to superposition and interference.  It turns out that <alert>both models</alert> are necessary to account for all the behavior that light exhibits, an idea known as <alert>Wave-Particle Duality</alert>
+    </p>
+
+    <assumption xml:id="a_dual-model">
+        <title>Wave-Particle Duality for Light</title>
+        <statement>
+          <p></p>
+          <p>Light exhibits some properties that are wavelike, such as superposition and interference, and some properties that are particlelike, such as traveling in straight lines.  Neither model on its own can account for all the properties of light!</p>
+        </statement>
+      </assumption>
+
+
+    <p>The two models are encapsulated together by <alert>quantum mechanics</alert>, in which both light and matter is composed of fundamental particles that also exhibit wavelike behavior.  A fundamental particle of light is known as a <alert>photon</alert>.  The frequency of a single photon is directly related to its energy <m>E = hf</m>, where <m>h = 6.626 \times 10^{-34}\mathrm{~Js}</m> is a new fundamental constant known as <term>Planck's constant</term>.</p>
+
+    <subsubsection>
+        <title>Activities</title>
+        <activity>
+            <title>Energy and Wavelength</title>
+            <p>
+                
+            </p>
+            <p>
+                Visible light is often characterized by wavelength.  For example, <m>650 \mathrm{~nm}</m> would be seen as red light while <m>400 \mathrm{~nm}</m> would be seen as purple.  Given this, does a single photon of purple light have more energy, less energy, or the same energy as a single photon of red light?
+            </p>
+        </activity>
+        <activity>
+            <title>Apple Photons</title>
+            <statement>
+            <p>
+                
+            </p>
+            <p>
+                A single apple contains about <m>4 \times 10^6 \mathrm{~J}</m> of stored energy (about <m>100 \mathrm{~kCal}</m>).  Estimate the number of red photons that an apple tree must absorb to make one apple.
+            </p>
+        </statement>
+        <solution>
+            <p>
+                Each red photon has
+                <me>E_{red} = \frac{hc}{\lambda} = \frac{6.626 \times 10^{-34}\mathrm{~Js} \times 3 \times 10^8 \mathrm{~m/s}}{6.5 \times 10^{-7} \mathrm{~m}} \approx 3 \times 10^{-19} \mathrm{~J}</me>
+                In order to get up to the total energy in an apple, it looks like you need
+                <me>
+                    \frac{4 \times 10^6 \mathrm{~J}}{3 \times 10^{-19} \mathrm{~J}} \approx 1.3 \times 10^{27} \mathrm{~photons!}
+                </me>
+            </p>
+        </solution>
+        </activity>
+    </subsubsection>
    
+
+    <references>
+        <biblio xml:id="ref_quantum_model_yt">
+            <p><q>Is light a particle or a wave? - Colm Kelleher</q> <em>YouTube</em>, uploaded by TED-Ed, 12 January 2013.</p>
+        </biblio>
+    </references>
 
 </section>

@@ -3,11 +3,7 @@
 <section xml:id="sec_quantum_model" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Quantum Model for Light</title>
 
-    <p>So is light a particle or a wave? Or is it both? What is actually happening? The great thing about these models (the ray and the wave model) is that they allow us to understand the behavior of light in different situations. But to understand things like atomic spectra, and the photoelectric effect, we need to understand the quantum properties of light. Watch this TED-Ed video about the nature of light to learn more.</p>
-
-    <video youtube="J1yIApZtLos"><description>Is light a particle or a wave? - Colm Kelleher</description></video>
-
-    <p>In quantum mechanics, light is described as a photon, which is a fundamental particle. These particles have energies directly related to their frequencies, <m>E = hf</m>, where <m>h</m> is <term>Planck's constant</term> which is equal to <m>6.626 \times 10^{-34}[\mathrm{Js}] </m>. This will help us understand our next activity, which is focused on the Photoelectric Effect.</p>
+    
 
     <subsubsection>
         <title>Quantum Model Activities</title>
@@ -29,10 +25,6 @@
             </activity>
     </subsubsection>
 
-    <references>
-        <biblio xml:id="ref_quantum_model_yt">
-            <p><q>Is light a particle or a wave? - Colm Kelleher</q> <em>YouTube</em>, uploaded by TED-Ed, 12 January 2013.</p>
-        </biblio>
-    </references>
+    
 
 </section>

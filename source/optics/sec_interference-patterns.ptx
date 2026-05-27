@@ -116,8 +116,8 @@
 			<statement>
                 <p></p>
 				<p>An <term>intensity graph</term> shows the intensity of light in some region, often on a screen.  The example below is for light on a distant screen that has passed through two extremely narrow slits (using the small-angle approximation).</p>
-                <figure>
-			<title>2-Slit Intensity Figure</title>
+                <figure xml:id="fig_intensity-graph-interference">
+			<title>2-Slit Interference Intensity Pattern</title>
         <caption>Intensity graph for two extremely narrow slits.</caption>
         <image source="2SI-Intensity.png"><description></description></image>
     </figure>
