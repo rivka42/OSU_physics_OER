@@ -53,6 +53,7 @@
 
 
     <!--CHALLENGE SECTIONS-->
+    <xi:include href="./oscl/sec_damped-reps.ptx" /> 
     <xi:include href="./oscl/sec_oscl-challenge.ptx" /> 
 
     

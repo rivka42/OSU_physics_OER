@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_duality2" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Working with Duality</title>
+
+    <subsubsection>
+        <title>Activities</title>
+        
+        <activity>
+            <title>Double-slit Electrons</title>
+            <introduction>
+            <p>
+                
+            </p>
+            <p>
+                Suppose electrons with speed <m>v = 10^4 \mathrm{~m/s}</m> are sent through a double-slit experiment with <m>d = 1.5 \mathrm{~mm}</m>.
+            </p>
+        </introduction>
+        <task>
+            <statement>
+                <p>
+                    Find the wavelength of each electron in nanometers.
+                </p>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    Find the angle to the first constructive point?
+                </p>
+            </statement>
+        </task>
+        <task>
+            <statement>
+                <p>
+                    How would each of your previous answers change if the speed of each electron were <m>v = 10^6 \mathrm{~m/s}</m>
+                </p>
+            </statement>
+        </task>
+        </activity>
+
+        <activity>
+            <title>Momentum of a Photon</title>
+            <introduction>
+            <p>
+                
+            </p>
+            <p>
+                A particle with mass has a wavelength <me>\lambda = \frac{h}{p}</me>  
+                Suppose that the this equation were also valid for a photon, which is massless and has energy given by <me>E = \frac{hc}{\lambda}</me>  
+            </p>
+        </introduction>
+            <task>
+                <statement>
+                    <p>
+                        Use these equations to write a relationship between the energy and momentum of a photon.  Check the fundamental units of this equation to confirm its accuracy.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        The special theory of relativity expresses the following relationship between energy and momentum for all particles: <me>E^2 = (pc)^2 + (mc^2)^2</me>  
+                        Show that this equation agrees with the relationship you found above for a massless photon.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Investigate the energy-momentum relation above for a particle with mass <m>m</m> that is <em>at rest</em> (that is, with no momentum).  Is the result a familiar one?
+                    </p>
+                </statement>
+            </task>
+        </activity>
+
+        <activity>
+            <title>Wavelength and Energy</title>
+            <introduction>
+                <p>
+                    
+                </p>
+                <p>
+                    You conduct an experiment using two slits separated by <m>2500 \mathrm{~nm}</m> and observe a two-slit interference pattern.  You measure the angle to the first maximum to be <m>0.164 \mathrm{~rad}</m>.
+                </p>
+            </introduction>
+            <task>
+                <statement>
+                    <p>
+                        If the experiment was conducted with photons, determine the wavelength, frequency, and energy of each individual photon.
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                       If the experiment was conducted with electrons, determine the wavelength, velocity, and energy of each individual electron. 
+                    </p>
+                </statement>
+            </task>
+            <task>
+                <statement>
+                    <p>
+                        Compare the wavelengths and the energies of the two particles.
+                    </p>
+                </statement>
+            </task>
+        </activity>
+        
+    </subsubsection>
+    
+
+
+</section>

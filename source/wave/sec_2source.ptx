@@ -8,6 +8,78 @@
 		
 		</subsubsection>
 
+		
+		<activity>
+			<title>Crests and Troughs</title>
+			<introduction>
+				<p>
+					
+				</p>
+				<p>
+					The figure below shows two overlapping periodic circular waves, their sources separated by some known distance.  The solid lines represent successive wave crests and the dotted lines represent wave troughs.
+				</p>
+				<figure xml:id="overlapping-waves">
+			  <title>Overlapping Circular Waves Figure</title>
+		 <caption>Two overlapping circular waves.</caption>
+		<image source="2Source-4.png" width = "100%"></image>
+  </figure>
+			</introduction>
+			<task>
+				<statement>
+					<p>
+						Locate several places on the diagram where two wave crests meet.  Do these points correspond to constructive or destructive interference?
+					</p>
+				</statement>
+			</task>
+			<task>
+				<statement>
+					<p>
+						Locate several places on the diagram where a wave crest meets a wave trough.  Do these points correspond to constructive or destructive interference?
+					</p>
+				</statement>
+			</task>
+		</activity>
+
+		<activity>
+			<title>Path-length Difference</title>
+			<introduction>
+				<p>
+					
+				</p>
+				<p>
+					The figure from above has been reproduced below, with several points labeled A-F.
+				</p>
+				<figure xml:id="overlapping-waves2">
+			  <title>Overlapping Circular Waves Figure 2</title>
+		 <caption>Two overlapping circular waves with several points marked.</caption>
+		<image source="2Source-5.png" width = "100%"></image>
+  </figure>
+			</introduction>
+			<task>
+				<statement>
+					<p>
+						For each labeled point, determine the value of the path length difference <m>\Delta D</m> as a multiple of the wavelength <m>\lambda</m>.
+					</p>
+				</statement>
+			</task>
+			<task>
+				<statement>
+					<p>
+						For each labeled point, find at least two other points that have the exact save value of <m>\Delta D</m> as a multiple of the wavelength <m>\lambda</m>.
+					</p>
+				</statement>
+			</task>
+		</activity>
+
+		<p>
+					The figure from above has been reproduced below, with all points with maximum constructive interference connected in orange and all points with complete destructive interference connected in black.
+				</p>
+				<figure xml:id="overlapping-waves3">
+			  <title>Overlapping Circular Waves Figure 3</title>
+		 <caption>Two overlapping circular waves with interference lines marked.</caption>
+		<image source="2Source-6.png" width = "100%"></image>
+  </figure>
+
   
 
 	

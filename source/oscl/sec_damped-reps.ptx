@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_damped-reps" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Representations of Damped Harmonic Motion</title>
+			
+ <subsubsection>
+	<title>Activities</title>
+	<activity>
+		<title>Damped Block I</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>
+				A block is attached to an ideal spring. At <m>t = 0</m>, the block-spring system, which has non-negligible air resistance, is released from rest at <m>x = 10 \mathrm{~cm}</m>.
+			</p>
+			<p>
+				Which of the following graphs best represents both the position and amplitude functions for the block?
+			</p>
+			<figure xml:id="fig_damped-ex0">
+<title>Choices</title>
+    	<caption>Possible graphs for damped harmonic motion.</caption>
+    		<image source="damped-ex0.png" width = "100%" ></image>
+</figure>
+</statement>
+		
+	</activity>
+	<activity>
+		<title>Damped Block II</title>
+		<introduction>
+			<p>
+				
+			</p>
+			<p>
+				Suppose the graph below represents the displacement from equilibrium of another block attached to an ideal spring.
+			</p>
+			<figure xml:id="fig_damped-ex">
+<title>Choices</title>
+    	<caption>An example graph of damped harmonic motion.</caption>
+    		<image source="damped-ex.png" width = "100%" ></image>
+</figure>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					What's the oscillator's displacement at <m>t= 0 \mathrm{~s}</m>?
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					What is the amplitude at <m>t= 0 \mathrm{~s}</m>?
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					What is the displacement at <m>t= 2.5 \mathrm{~s}</m>?
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					What is the amplitude at <m>t= 2.5 \mathrm{~s}</m>?
+				</p>
+			</statement>
+			<hint>
+				<p>
+					You will need to determine <m>\tau</m>.
+				</p>
+			</hint>
+		</task>
+	</activity>
+	
+ </subsubsection>
+
+ <references>
+	<biblio xml:id="ref_boxsand-adapt-osc">
+	<p>Activities adapted from BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+	</biblio>
+</references>
+		
+</section>
+

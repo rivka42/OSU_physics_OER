@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_spectra" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Spectra</title>
+
+    
+    <p>
+        A spectrometer is a device, typically using a prism or diffraction grating, that allows you to separate a light source into the various wavelengths that make up that light.  The resulting distribution is known as the spectrum of the light source, and might be represented by a spectrograph, such as the examples below.
+    </p>
+
+    <note>
+        <title>How to Use a Spectrometer</title>
+        <p>
+            If you have access to a spectrometer, the steps below will help you use it.  As with other optical devices, <em>do not</em> use a spectrometer to view the Sun.
+        </p>
+        <p>
+            Look through the side of the spectrometer with no numbers at a source of light.  When you have it aligned correctly, you should see a narrow vertical strip of light.
+        </p>
+        <p>
+            Without moving the spectrometer, look through the other side of the device (the side with numbers).  You should now be able to see the wavelengths (colors) of light that make up the light source!
+        </p>
+    </note>
+        
+    <figure>
+			<title>Hydrogen Spectrum</title>
+            <caption>Visible lines in the hydrogen emission spectrum.</caption>
+            <image source="spectrum-H.png" width = "100%"><description>On a black background, four vertical lines, from left to right: violet, blue, cyan, red.</description></image>
+    </figure>
+
+    <figure>
+			<title>Helium Spectrum</title>
+            <caption>Simulated emission spectrum of neutral Helium (He I) based on data from the National Institute of Standards and Technology Atomic Spectra Database (NIST ASD)</caption>
+            <image source="spectrum-He.png" width = "100%"><description>On a black background, many colored vertical lines, each corresponding to a spectral line.</description></image>
+    </figure>
+
+    <figure>
+			<title>Sodium Spectrum</title>
+            <caption>Simulated emission spectrum of neutral Sodium (Na I) based on data from the National Institute of Standards and Technology Atomic Spectra Database (NIST ASD).</caption>
+            <image source="spectrum-Na.png" width = "100%"><description>On a black background, many colored vertical lines, each corresponding to a spectral line.</description></image>
+    </figure>
+
+    <figure>
+			<title>Incandescent Spectrum</title>
+            <caption>Spectral power distribution of a 25 W incandescent light bulb, measured at the Department of Photonics Engineering at the Technical University of Denmark. With a calibrated Instrument systems CAS - 140 Array spectrometer. Spectral colors added as sRGB values for monochromatic light scaled with the the luminosity function.</caption>
+            <image source="spectrum-bulb.png" width = "100%"><description>A graph showing, from left to right, the purple to red visible spectrum of an incandescent bulb.</description></image>
+    </figure>
+
+    <subsubsection>
+        <title>Activities</title>
+
+        <activity>
+            <title>Spectra and Spectral Lines</title>
+            <p>
+                
+            </p>
+            <p>
+                What similarities stand out across the various spectra shown above?  Are there any light sources that seem especially unique?
+            </p>
+        </activity>
+        <activity>
+            <title>Spectrum of the Sun</title>
+            
+            <p>
+                
+            </p>
+            <p>
+                The spectrum below shows light emitted from the Sun.
+            </p>
+            <figure>
+			<title>Solar Spectrum</title>
+            <caption>Spectrum of light emitted by the Sun.</caption>
+            <image source="spectrum-sun.png" width = "100%"><description>A graph showing, from left to right, the purple to red spectrum of the sun.</description></image>
+    </figure>
+            <p>
+                What features does this have in common with the various light sources you have already looked at?
+            </p>
+        </activity>
+    </subsubsection>
+
+
+    
+
+<references>
+<biblio xml:id="ref_spectrum-H">
+<p>The spectrum of hydrogen image has been released into the public domain by its author, Merikanto, and is taken from the English Wikipedia project.</p>
+</biblio>
+<biblio xml:id="ref_spectrum-He">
+<p>Kramida, A., Ralchenko, Yu., Reader, J., and NIST ASD Team (2024). NIST Atomic Spectra Database (ver. 5.12), Online. Available: [2] (2025, January 19). National Institute of Standards and Technology, Gaithersburg, MD. doi:10.18434/T4W30F</p>
+</biblio>
+<biblio xml:id="ref_spectrum-Na">
+<p>Kramida, A., Ralchenko, Yu., Reader, J., and NIST ASD Team (2024). NIST Atomic Spectra Database (ver. 5.12), Online. Available: [2] (2025, January 20). National Institute of Standards and Technology, Gaithersburg, MD. doi:10.18434/T4W30F</p>
+</biblio>
+<biblio xml:id="ref_spectrum-bulb">
+<p>The Incandescent Spectrum is licensed under the Creative Commons Attribution-Share Alike 4.0 International license: https://commons.wikimedia.org/wiki/File:Spectral_power_distribution_of_a_25_W_incandescent_light_bulb.png.</p>
+</biblio>
+<biblio xml:id="ref_spectrum-sun">
+<p>Public Domain Image, image source: Christopher S. Baird, data source: American Society for Testing and Materials Terrestrial Reference.</p>
+</biblio>
+
+</references>
+
+</section>

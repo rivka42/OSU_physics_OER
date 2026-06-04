@@ -39,7 +39,7 @@
     <xi:include href="./wave/sec_wave-practice.ptx" />
     
     <!--CHALLENGE SECTIONS-->
-
+    <xi:include href="./wave/sec_intensity-patterns.ptx" />
     <xi:include href="./wave/sec_wave-challenge.ptx" />
 
 

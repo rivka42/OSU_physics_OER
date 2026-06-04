@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_wave-matter" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Wave Properties of Matter</title>
+
+    <assemblage>
+        <title>A Question of Duality</title>
+        <p>
+            Given that light appears to exhibit some wave-like properties and some particle-like properties, a natural question to ask is: is there anything else that might exhibit this duality?
+        </p>
+      </assemblage>
+
+        
+
+            <activity xml:id="x_prediction-wave-matter">
+                <title>Prediction Warm-up</title>
+                <introduction>
+                    <p>
+                    
+                </p>
+                
+                <p>Suppose that a double-slit experiment is conducted with a beam of <em>electrons</em> instead of with photons (light), as shown in the figure below.</p>
+
+                <figure>
+			<title>Double-slit Interference of Electrons Figure</title>
+            <caption>A beam of electrons incident on a mask with two narrow slits.</caption>
+            <image source="double-slit-electrons.png" width = "100%"><description>A beam of electrons (left) moves toward a vertical mask with two narrow slits, then to a vertical screen on the right.</description></image>
+          </figure>
+                </introduction>
+                
+                <task>
+                    <statement>
+                        <p>
+                            Suppose that the electrons behave like <em>particles</em>.  Draw a picture of what you would expect to see on the screen.
+                        </p>
+                    </statement>
+                    <answer>
+                        <p>
+                            If the electrons behave like particles, they should travel roughly in straight lines through the two slits, forming two sharp spots on the screen, each corresponding to the electrons that traveled through one of the two slits.
+                        </p>
+                        <figure>
+			<title>Particle Behavior of Electrons Figure</title>
+            <caption>Interference for a beam of electrons behaving like particles.</caption>
+            <image source="double-slit-electrons-particles.png" width = "100%"><description>A beam of electrons (left) moves toward a vertical mask with two narrow slits, then to a vertical screen on the right.  Two sharp dots appear on the screen.</description></image>
+          </figure>
+                    </answer>
+                </task>
+                <task>
+                    <statement>
+                        <p>
+                            Suppose that the electrons behave like <em>waves</em>.  Draw a picture of what you would expect to see on the screen.
+                        </p>
+                    </statement>
+                    <answer>
+                        <p>
+                            If the electrons instead behave like waves, they should produce an interference pattern, like that formed by light, causing several bright and dark spots to appear on the screen.
+                        </p>
+                        <figure>
+			<title>Wave Behavior of Electrons Figure</title>
+            <caption>Interference for a beam of electrons behaving like waves.</caption>
+            <image source="double-slit-electrons-waves.png" width = "100%"><description>A beam of electrons (left) moves toward a vertical mask with two narrow slits, then to a vertical screen on the right.  An interference pattern with several maxima appears on the screen.</description></image>
+          </figure>
+                    </answer>
+                </task>
+                
+            </activity>
+            
+<subsubsection>
+    <title>Electrons in the Double-Slit Experiment</title>
+    
+</subsubsection>
+
+            <p>
+                When the double-slit experiment is conducted with electrons, a potentially surprising result occurs: an interference pattern appears on the screen!  An example of this result is shown below: the bright vertical strips correspond to the interference maxima, while the sparsely lit regions in between correspond to the interference minima.
+            </p>
+
+            <figure>
+			<title>Double-slit Experiment Results</title>
+            <caption>An interference pattern of single electrons.</caption>
+            <image source="2slit-electrons1.png" width = "75%"><description>Results of a double-slit-experiment performed by Dr. Tonomura showing the build-up of an interference pattern of single electrons. Numbers of electrons are 140000.</description></image>
+          </figure>
+
+          <p>
+            These results suggest that electrons, like photons, should be treated as waves, since they exhibit interference.  In fact, since electrons are also known to exhibit particle-like behavior in other situations, they are subject to the same wave-particle duality as photons.  While one possible interpretation is that electrons interfere <em>with each other</em>, the results of the double-slit experiment can be reproduced even using only one electron at a time (as shown in the figure below), indicating that each electron is interfering <em>with itself</em>!  (The same self-interference is also observed with photons.)
+          </p>
+
+
+          <figure>
+			<title>Double-slit Experiment Results 2</title>
+            <caption>Results of double slit electron experiment over time.</caption>
+            <image source="2slit-electrons2.png" width = "75%"><description>Results of a double-slit-experiment performed by Dr. Tonomura showing the build-up of an interference pattern of single electrons. Numbers of electrons are 11 (a), 200 (b), 6000 (c), 40000 (d), 140000 (e).</description></image>
+          </figure>
+
+          <assumption xml:id="a_dual-model-particles">
+        <title>Wave-Particle Duality</title>
+        <statement>
+          <p></p>
+          <p>Even objects with mass, such as electrons, protons, neutrons, etc., exhibit some properties that are wavelike, such as superposition and interference, and some properties that are particlelike, such as traveling in straight lines.</p>
+        </statement>
+      </assumption>
+
+      <definition xml:id="def-db-wavelength">
+        <title>Matter Wavelength</title>
+             
+        <statement>
+            <p>
+                
+            </p>
+            <p>
+                When you treat a massive particle as wavelike, the wavelength (typically known as the de Broglie wavelength) is given by <me>\lambda = \frac{h}{p}</me> where <m>p</m> is the magnitude of the particle's momentum and <m>h = 6.626 \times 10^{-34} \mathrm{~Js}</m> is Planck's constant.
+            </p>
+        </statement>
+      </definition>
+    
+<references>
+<biblio xml:id="ref_duality1">
+<p>The Double-slit Experiment Results Figures, by Dr. Tonomura and Belsazar, are licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.</p>
+</biblio>
+</references>
+
+</section>

@@ -9,9 +9,36 @@
 			  <figure xml:id="two-d-wave">
 			  <title>Circular Wave Figure</title>
 		 <caption>A circular wave.</caption>
-		<image source="2SI-1.jpg" width = "75%"></image>
+		<image source="2Source-1.png" width = "100%"><description>A series of concentric circles.
+		</description></image>
   </figure>
+  <activity>
+	<title>Crests and Troughs</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>
+			How could you represent the wave troughs?  Where would you draw them on the figure?
+		</p>
+	</statement>
+	<solution>
+		<p>
+			One way to represent the troughs would be with dotted or dashed lines, as in the figure below.  If you wanted to try to represent more than just the crests and troughs, you might have to use color or some alternative method.
+		</p>
+		<figure xml:id="two-d-wave2">
+			  <title>Circular Wave Figure</title>
+		 <caption>A circular wave.</caption>
+		<image source="2Source-2.png" width = "100%"><description>A series of concentric circles, alternating between solid and dotted.
+		</description></image>
+  </figure>
+	</solution>
+	
+  </activity>
 	<activity>
+		<title>Wave Shape in Time</title>
+		
+		
 	<statement>
 		<p></p>
 	<p>How does the shape of the circular wave change as time moves forward?  What happens to each crest?  Are there any especially interesting moments in time?  Explain your reasoning.</p>
@@ -26,9 +53,9 @@
 	<p>The diagram below shows two overlapping periodic circular waves, their sources separated by some known distance.</p>
 	
 				  <figure xml:id="two-d-waves">
-			  <title>Circular Waves Figure</title>
+			  <title>Overlapping Circular Waves Figure</title>
 		 <caption>Two overlapping circular waves.</caption>
-		<image source="2SI-2.jpg" width = "75%"></image>
+		<image source="2Source-3.png" width = "100%"></image>
   </figure>
 	
 				<activity>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_intensity-patterns" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Intensity Patterns</title>
+	
+			<subsubsection>
+	<title>Warm-up Activities</title>
+			<activity>
+			<title>Intensity to Loudness</title>
+			<p></p>
+			  <p>How loud is a noise that has an intensity of <m>I = 100 I_0</m>?</p>
+			</activity>
+
+			<activity>
+			<title>Speaking to a Friend</title>
+			<p></p>
+			  <p>Speaking to your friend involves sound at about 60 dB. How much bigger is the intensity of a sound at 80 dB?
+
+			  </p>
+			</activity>
+
+			<activity>
+			<title>The Vacuum Cleaner</title>
+			<statement>
+			<p></p>
+			  <p>If a vacuum cleaner makes a sound of 75 dB from a distance of 1 m away, how far away must you stand from the vacuum cleaner for the sound to drop to a level of 25 dB (a whisper)?
+			  </p>
+			</statement>
+			<hint>
+				<p>
+					Write a symbolic expression for the sound level in terms of the distance from the source.
+				</p>
+			</hint>
+			</activity>
+
+		</subsubsection>
+
+      <subsubsection>
+		<title>Intensity Pattern Activities</title>
+		<activity>
+			<title>Sound Detectors</title>
+			<introduction>
+				<p>
+					
+				</p>
+				<p>
+					A source produces a sound with power P. It sits across from a wall of sound detectors a distance <m>L</m> away, as shown below. The sound detectors are separated from each other by a distance <m>s</m>.
+				</p>
+				<figure xml:id="fig_sound-detectors">
+<title>Sound Detectors Figure</title>
+    	<caption>
+	Five speakers near a source of sound waves.
+	</caption>
+    	<image source="sound-detectors.png" width = "75%" ></image>
+</figure>	
+			</introduction>
+			<task>
+				<statement>
+					<p>
+						Which speaker(s) will detect the loudest sound?
+					</p>
+				</statement>
+			</task>
+			<task>
+				<statement>
+					<p>
+						Which speaker(s) will detect the faintest sound?
+					</p>
+				</statement>
+			</task>
+			<task>
+				<statement>
+					<p>
+						Determine a symbolic expression for the intensity of the sound at point A. 
+					</p>
+				</statement>
+			</task>
+			<task>
+				<statement>
+					<p>
+						What if the wall was made up of an infinite number of detectors? What would a graph of the intensity vs. vertical position look like?
+					</p>
+				</statement>
+			</task>
+		</activity>
+	  </subsubsection>
+	
+</section>
+
