@@ -68,11 +68,11 @@ The spring has equilibrium length <m>x_0</m> and is initially stretched and then
     </figure>
 
 <p>
-If we place the origin of our coordinate system at equilibrium, the simplified spring force is a restoring force given by Hooke's law:
+If you place the origin of our coordinate system at equilibrium, the simplified spring force is a restoring force given by Hooke's law:
 
 <me> \vec{F}(x) = -kx \hat{x}</me>
 
-The negative sign tells us that the force always points in the opposite direction as the displacement.  Applying the Law of Motion to the system and setting the force equal to the spring force
+The negative sign tells you that the force always points in the opposite direction as the displacement.  Applying the Law of Motion to the system and setting the force equal to the spring force
 
 <men xml:id="Hookes"> ma_x = -kx </men>
 
@@ -90,17 +90,17 @@ Equation <xref ref="EOM" text='type-global'></xref> is called the <alert>equatio
 <p>
 Often you can guess the solutions to differential equations. Since you already know the motion will be oscillatory from everyday experience, the natural guess for this physical situation is a position function that is oscillatory in time. Consider the position function
 
-<me> x(t) = A \cos(\omega t + \phi_o)</me>
+<me> x(t) = x_{\text{max}} \cos(\omega t + \phi_o)</me>
 
 Taking two derivatives in time
 
-<me> \frac{d^2}{dt^2}x(t) = - \omega^2 A \cos(\omega t + \phi_o)</me>
+<me> \frac{d^2}{dt^2}x(t) = - \omega^2 x_{\text{max}} \cos(\omega t + \phi_o)</me>
 
 Plugging all this back into the equation of motion yields
 
-<me> - \omega^2 A \cos(\omega t + \phi_o) = -\frac{k}{m} A \cos(\omega t + \phi_o)</me>
+<me> - \omega^2 x_{\text{max}} \cos(\omega t + \phi_o) = -\frac{k}{m} x_{\text{max}} \cos(\omega t + \phi_o)</me>
 
-From this we can determine the oscillation frequency of the spring system. Note that a factor of the position function can be canceled from each side of the equation. From this you can determine the angular frequency of the oscillation. 
+From this you can determine the oscillation frequency of the spring system. Note that a factor of the position function can be canceled from each side of the equation. From this you can determine the angular frequency of the oscillation. 
 
 <men> \omega_s = \sqrt{\frac{k}{m}}</men>
 
