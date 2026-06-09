@@ -65,13 +65,13 @@ Some particular things to keep in mind are listed below.</p>
 			<title>Gymnast Figure</title>
 		 <caption>A gymnast suspended by two ropes.</caption>
 		<image source="Gymnast.png" width = "30%">
-			<description></description></image>
+			<description>A gymnast is suspended from two ropes, each running to the ceiling at the same angle theta.</description></image>
   </figure>
 			
   <p><alert>1. Analyze and Represent</alert></p>
 		
 		<p>
-			<ol marker="a">
+			<ol marker="a)">
 				<li>
 					<p>
 						Identify known and unknown quantities with both a symbol and a number.
@@ -95,7 +95,7 @@ Some particular things to keep in mind are listed below.</p>
 		<p><alert>2. Calculate</alert></p>
 		
 		<p>
-			<ol marker="a">
+			<ol marker="a)">
 				<li>
 					<p>
 						Identify relevant laws that will help you solve for the tensions.
@@ -118,7 +118,7 @@ Some particular things to keep in mind are listed below.</p>
 		<p><alert>3. Sensemake</alert></p>
 		
 		<p>
-			<ol marker="a">
+			<ol marker="a)">
 				<li>
 					<p>
 						Check the units of your symbolic answer.

@@ -26,7 +26,7 @@ Find the magnitudes of all forces on the brick.</p>
 			<title>Brick Figure</title>
 		 <caption>A brick is pulled against a wooden railing.</caption>
 		<image source="BrickPull.png" width = "50%">
-			<description></description></image>
+			<description>Top-down view: a brick against a horizontal railing, connected to a rope that runs down and to the left at an angle of sixty degrees.</description></image>
   </figure>
 		
 		<p><alert>1. Analyze and Represent</alert></p>
@@ -100,7 +100,7 @@ Find the magnitudes of all forces on the brick.</p>
 
 
 
-
+<!--
 	<project xml:id="arcs_block-ice">
         <title>The Block upon the Ice</title>
 		
@@ -116,7 +116,7 @@ Assume the gravitational force on the block points downward with a magnitude equ
 			<title>Ice Block Figure</title>
 		 <caption>A block is pulled across an icy pond.</caption>
 		<image source="BlockIce.png" width = "50%">
-			<description></description></image>
+			<description>A block on a horizontal surface pulled by a person using a rope angled up and to the right at 25 degrees.</description></image>
   </figure>
 		
 		<p><alert>1. Analyze and Represent</alert></p>
@@ -190,6 +190,8 @@ Assume the gravitational force on the block points downward with a magnitude equ
 		
 	</project>
 
+	-->
+
 	<project xml:id="psa_lom-01">
         <title>The Coach vs. the Student-Athletes</title>
 		<statement>
@@ -203,7 +205,7 @@ Assume the gravitational force on the block points downward with a magnitude equ
 			<title>Tug-of-War Figure</title>
 		 <caption>A tug of war between a coach (left) and two teams of student-athletes (right).</caption>
 		<image source="tug-of-war.png" width = "60%">
-			<description></description></image>
+			<description>Top-down view: a boulder pulled by three ropes: a leftward rope pulled by a single coach; an up and to the right rope pulled by three orange atheletes; and a down and to the right rope pulled by two blue athletes</description></image>
   </figure>
 		</statement>
 		<hint>

@@ -18,7 +18,7 @@
 		<title>Truck and Crate Figure</title>
 	  <caption>A crate on top of a truck.</caption>
   <image source="TruckCrate.png" width = "60%">
-		<description></description>
+		<description>An orange crate on top of a gray truck, moving to the right with speed v.</description>
 		</image>
 </figure>
 		

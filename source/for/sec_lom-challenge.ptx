@@ -35,7 +35,7 @@
 			<title>Hand Blocks Figure</title>
 		 <caption>A hand pushes on different surfaces on a block on a ramp.</caption>
 		<image source="Angled.png" width = "60%">
-			<description></description></image>
+			<description>Case A: A block on a ramp, pushed directly downward by a hand.  Case B: A block on a ramp, pushed perpendicular to the ramp by a hand.</description></image>
   </figure>
 				<p><alert>Part A:</alert> Is the magnitude of the net force on the block in Case B <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the net force in Case A?</p>
 				<p><alert>Part B:</alert> Is the magnitude of the frictional force exerted on the block by the ramp in Case B <em>greater than</em>, <em>less than</em>, or <em>equal to</em> the magnitude of the frictional force in Case A?</p>
@@ -56,7 +56,7 @@
 	For your first A*R*C*S activity, each step will walk you through the A*R*C*S process.  A simple example is provided in <xref ref="ex_park-arcs"/>.
 	</p>
 
-	<project>
+	<project xml:id="arcs_block-ice">
         <title>The Block upon the Ice</title>
 		
 		<p></p>
@@ -71,7 +71,7 @@ Assume the gravitational force on the block points downward with a magnitude equ
 			<title>Ice Block Figure</title>
 		 <caption>A block is pulled across an icy pond.</caption>
 		<image source="BlockIce.png" width = "50%">
-			<description></description></image>
+			<description>A block on a horizontal surface pulled by a person using a rope angled up and to the right at 25 degrees.</description></image>
   </figure>
 		
 		<p><alert>1. Analyze and Represent</alert></p>

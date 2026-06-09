@@ -85,7 +85,7 @@
 			<title>Tilted Ramp Figure</title>
 				<caption>Two blocks, connected by a rope on a tilted ramp.</caption>
 			   	<image source="tiltedramp.png" width = "50%">
-				<description></description></image>
+				<description>Block 1 is on a ramp tilted downward at angle theta.  A rope runs and to the right, over a pulley, and connects to block 2, which sits on a flat table.</description></image>
 		 	</figure>
 			<assemblage>
 		    <p><alert><!--REPLACE_TAG-->Tip:</alert> As part of your symbolic sensemaking (part 3c), evaluate your answer in at least one special case, 

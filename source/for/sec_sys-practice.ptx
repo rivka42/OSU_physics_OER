@@ -29,7 +29,7 @@
 		<title>Books in an Elevator Figure</title>
 	 <caption>Two books in an elevator.</caption>
 	<image source="Stacked_Books.png" width = "30%">
-		<description></description></image>
+		<description>Book 2 (blue) on top of book 1 (orange) inside a square elevator.</description></image>
 </figure>
 	</statement>
 	<hint>
@@ -80,7 +80,7 @@
 			<title>Blocks Figure</title>
 		 	<caption>Two blocks attached to ropes.</caption>
 			<image source="Blocks_Ropes.png" width = "50%">
-			<description></description></image>
+			<description>Block 2 (orange) on flat ground with a string extending to the right.  Block 1 (blue) sits on top of block 1 with a string extending to the left and connected to a wall.</description></image>
   			</figure>
 		</statement>
 	</project>
@@ -105,7 +105,7 @@
 			<title>Force Pulley Figure</title>
 			<caption></caption>
 			<image source="pulley_angle.png" width = "50%">
-				<description></description>
+				<description>Block 1 sits on an angled ramp.  A string runs up and to the right, goes over a pulley, and connects to block 2, which is hanging vertically.</description>
 			</image>
 		</figure>	
 		</statement>

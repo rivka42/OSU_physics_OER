@@ -260,7 +260,7 @@
 			<title>Force Balance Figure</title>
 			<caption></caption>
 			<image source="balance_forces.png" width = "100%">
-				<description></description>
+				<description>1. one upward and one downward vector.  2. one rightward and one leftward vector.  3. one downward and one leftward vector.  4. one rightward vector and one vector up and to the left.  5. one rightward, one upward, and one outward vector.  6. one upward, one downward, and one rightward vector.</description>
 			</image>
 		</figure>
 		</statement>
@@ -278,7 +278,7 @@
 			<title>Teapot Figure</title>
 			<caption></caption>
 			<image source="teapot.png" width = "100%">
-				<description></description>
+				<description>1. one upward and one downward vecotr.  2. equal upward and downward vectors and equal rightward and leftward vectors.  3. equal upward and downward vectors and a bigger rightward than leftward vector.  4. equal upward and downward vectors and a bigger leftward than rightward vector.</description>
 			</image>
 		</figure>	
 		</statement>

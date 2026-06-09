@@ -20,7 +20,7 @@
 			<title>Book Stack Figure</title>
 		  <caption>A stack of two books.</caption>
       <image source="BookStack.png" width = "35%">
-			<description></description>
+			<description>Book 2 (blue) on top of book 1 (orange) on a flat table.</description>
 			</image>
 		</figure>
 	<p>
@@ -43,7 +43,7 @@
 			<title>Dog on Footstool Figure</title>
 		  <caption>A simplified sketch of a dog on a footstool.</caption>
       <image source="DogFootstool.png" width = "15%">
-			<description></description>
+			<description>A golden dog on top of a regtangular footstool.</description>
 			</image>
     </figure>
 
@@ -101,7 +101,7 @@
 			<title>Dog and Footstool FBDs</title>
 			 <caption>Two free-body diagrams.</caption>
 			<image source="uhoh-fbds.png" width = "80%">
-				<description></description></image>
+				<description>Dog: FNDS pointing up, FGDE pointing down, and FSFDS pointing to the right.  Footstool: FNSG pointing up, FSFSD pointing to the left, FNSP pointing to the right, FNSD pointing down, FGSE pointing down.</description></image>
 	  </figure>	
 	
 				</p>
@@ -165,7 +165,7 @@
 		<title>Block Race Figure</title>
 	  <caption>Two Blocks connected to strings.</caption>
   <image source="BlocksRace.png" width = "100%">
-		<description></description>
+		<description>Left: Block A connected to a string which runs over a pulley to a hanging block with a 1 kg hanging mass with gravitational force of about 10 N.  Right: Block B connected to a string which runs over a pulley to a hand that acts a constant downward tension of about 10 N.</description>
 		</image>
 </figure>
 		</introduction>
@@ -195,7 +195,7 @@
 		<title>Pair of Blocks Figure</title>
 	  <caption>Two Blocks connected by a string over a pulley.</caption>
   <image source="BlockPulleyFriction.png" width = "60%">
-		<description></description>
+		<description>Block A connected to a string which runs over a pulley to a hanging block.</description>
 		</image>
 </figure>
 			<p>
@@ -219,7 +219,7 @@
 		<title>Pair of Pulleys Figure</title>
 	  <caption>Two Blocks connected by a string to two pulleys.</caption>
   <image source="BlockPulley2.png" width = "40%">
-		<description></description>
+		<description>Block A connected to a string which runs over two pulleys before being connected to the ceiling.  Block B is suspended from the second pulley.</description>
 		</image>
 </figure>
 			<p>

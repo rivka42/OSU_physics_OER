@@ -129,12 +129,12 @@
 			<title>Box and Ramp Figure</title>
 		 <caption></caption>
   <image source="AP88.png" width = "50%">
+    <description>Figure shows a surface sloping down and left, making an angle of 60 degrees with the horizontal. An object of 30 kg hangs from a spring and rests on the slope.</description>
   </image>
   </figure>
   </introduction>
   
   
-
 
 		<p>
       What is the spring constant of the spring?
@@ -157,6 +157,7 @@
 			<title>Block and Ramp Figure</title>
 		 <caption></caption>
   <image source="AP90.png" width = "50%">
+    <description>Figure shows a surface sloping down and right, making an angle of 30 degrees with the horizontal. A box labeled M rests on it. An arrow labeled F points horizontally left towards the box. The angle formed by the arrow and the slope is 30 degrees.</description>
   </image>
   </figure>
   </introduction>
@@ -186,6 +187,7 @@
 			<title>Mountain Climber Figure</title>
 		 <caption></caption>
   <image source="6.2.61.png" width = "50%">
+    <description>A mountain climber is drawn leaning away from the rock face with her feet against the rock face. The rope extends up from the climber  at an angle of 31 degrees to the vertical. The climbers legs are straight and make an angle of fifteen degrees with the rock face. The force vector F sub T starts at the harness and points away from the climber, along the rope. The force vector F sub legs starts at climber's feet and points away from the rock, parallel to her legs.</description>
   </image>
 	</figure>
   </introduction>
@@ -236,6 +238,7 @@
 			<title>Hanging Mass Figure</title>
 		 <caption></caption>
   <image source="AP93.png" width = "50%">
+    <description>Mass M is suspended from strings 1 and 2. String 1 connects to a wall at a point below and to the left of the mass. String 1 makes an angle of 40 degrees below the horizontal. String 2 connects to a ceiling at a point above and to the right of the mass. String 2 makes an angle of 40 degrees to the right of vertical.</description>
   </image>
   </figure>
   </introduction>

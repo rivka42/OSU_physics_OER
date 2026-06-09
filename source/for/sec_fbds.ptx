@@ -38,7 +38,7 @@
 			<title>Simple Free-body Diagram</title>
 		 <caption>A simple free-body diagram.</caption>
 		<image source="FBD.png" width = "40%">
-			<description></description></image>
+			<description>On the left, a small circle with a downward force and another force that is up and to the right.  On the right, System: Ball, an xy coordinate axis, and a rightward acceleration vector.</description></image>
   </figure>
 			</statement>
 		</conjecture>

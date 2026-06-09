@@ -153,7 +153,7 @@
 		<title>Strange Box Figure</title>
 	  <caption>Two people trying to move a box.</caption>
   <image source="StrangeBox.png" width = "60%">
-		<description></description>
+		<description>Mike pushes to the right on a large box, while Lucas pulls on a rope connected to the box to the left.</description>
   </image>
 </figure>
 </introduction>
@@ -199,7 +199,7 @@
 			<title>Stranger Box Figure</title>
 		  <caption>Three people trying to move a box.</caption>
       <image source="StrangerBox.png" width = "60%">
-			<description></description>
+			<description>Mike pushes to the right on a large box, while Lucas pulls on a rope connected to the box to the left.  El stands to the left, exerting a force on the box with her mind.</description>
 			</image>
     </figure>
 
@@ -237,7 +237,7 @@
 			<title>Three Cases Figure</title>
 		  <caption>Three cases, each showing two of the three forces acting on an object.</caption>
       <image source="2Forces.png" width = "70%">
-			<description></description>
+			<description>Case A: two force vectors, one up and to the left, one down and to the left.  Case B: two force vectors, one up and to the left, one up and to the right.  Case C: two force vectors, one up and to the left, one down and to the right.</description>
 			</image>
     </figure>
 	<p>
@@ -274,7 +274,7 @@
 		<title>Book on a Ramp Figure</title>
 	  <caption>A book on a ramp connected to a string.</caption>
   <image source="BookRamp.png" width = "50%">
-		<description></description>
+		<description>A book on a ramp, a string running from the top of the book to the wall.</description>
 		</image>
 </figure>
 		</introduction>

@@ -24,7 +24,7 @@
 			<title>Truck and Bucket Figure</title>
 		 <caption>A bucket suspended from the back of an accelerating truck.</caption>
 		<image source="Truck.png" width = "50%">
-			<description></description></image>
+			<description>A gray truck with a small bucket suspended from the back by a string at an angle theta.</description></image>
   </figure>
 		</statement>
 		<!--
@@ -112,7 +112,7 @@
 			<title>Gymnast Figure</title>
 		 <caption>A gymnast suspended by two ropes.</caption>
 		<image source="Athlete.png" width = "30%">
-			<description></description></image>
+			<description>A gymnast is suspended from two ropes, the left one running to the ceiling at the angle theta and the right one running to the ceiling at the angle alpha.</description></image>
   </figure>
 
   <assemblage>

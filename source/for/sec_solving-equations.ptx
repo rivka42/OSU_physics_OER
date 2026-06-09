@@ -114,7 +114,7 @@ Suppose you want to know the exact temperature of the gas at the end of the expa
 			<title>Angle Solve Figure</title>
 		  <caption>A velocity vector and its <m>x</m>-component.</caption>
       <image source="Angle-solve.png" width = "25%">
-			<description></description>
+			<description>A vector v points up and to the right; the vector's x component, vx, points to the right, with the angle theta between the two vectors.</description>
 			</image>
     </figure>
 		
@@ -199,7 +199,7 @@ Suppose you want to know the exact temperature of the gas at the end of the expa
 			<title>Air Carts Figure</title>
 		  <caption>Free-body diagrams of the air cart.</caption>
       <image source="Air-carts.png" width = "80%">
-			<description></description>
+			<description>Experiment 1: a blue cart with a large rightward force and a small leftward force.  Experiment 2: an orange cart with a large leftward force and a small leftward force.</description>
 			</image>
     </figure>
 		</answer>
