@@ -20,7 +20,7 @@
 		<title>Simple Free-body Diagram</title>
 	  <caption>A free-body diagram for a heavy box.</caption>
   <image source="SimpleFBD.png" width = "60%">
-		<description></description>
+		<description>A free-body diagram for system Box moving to the right with zero acceleration: FNBG pointing up, FgBE pointing down, FNBP pointing to the right, and FkfBG pointing to the left.</description>
 		</image>
 </figure>
 </activity>
@@ -72,7 +72,7 @@
 		<title>Pushing Books Diagram</title>
 	  <caption>Two books being pushed toward each other.</caption>
   <image source="BookPush.png" width = "100%">
-		<description></description>
+		<description>Book 1 (orange, left) pushed to the right by a hand and book 2 (blue, right) pushed to the left by a hand, both on a flat table.</description>
 		</image>
 </figure>
 	
