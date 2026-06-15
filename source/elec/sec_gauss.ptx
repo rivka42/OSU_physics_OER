@@ -57,7 +57,11 @@
 		<figure xml:id="x_fig_gauss-rank">
 			  <title>Gauss Rank Figure</title>
     		<caption>Several charge distributions and Gaussian surfaces. The circles represent spheres, and the square represents a cube. </caption>
-    		<image source="GaussRank.png" width = "100%" ></image>
+    		<image source="GaussRank.png" width = "100%" >
+				<description>
+					Four images, from left to right: (1) a circle of radius R around a point charge +q; (2) a square with side length 2R around a point charge +q; (3) a circle of radius R around two point charges +q each; (4) a bigger circle or radius R around ap oint charge +q.
+				</description>
+			</image>
 		</figure>
 		<investigation>
       <title>Four Cases</title>

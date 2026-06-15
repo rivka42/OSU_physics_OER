@@ -74,7 +74,9 @@
 				<figure xml:id="charge_pendulum">
 					<title>Charged Pendulum </title>
 					<caption>A charged pendulum. </caption>
-					<image source="elec/charge_pendulum.png" width = "80%" ></image>
+					<image source="elec/charge_pendulum.png" width = "80%" >
+						<description>Two charged pendulums of length L, each displaced by theta from equilibrium.</description>
+					</image>
 				</figure>
 			</statement>
 		</project>
@@ -350,7 +352,9 @@
 			<figure xml:id="fig-charged-balls">
 				<title>Charged Balls</title>
 				<caption>Two charged balls attached to strings.</caption>
-				<image source="elec/charged-balls.jpg" width = "35%"  description="Two small balls are attached to threads which are in turn tied to the same point on the ceiling. The threads hang at an angle of 5.0 degrees to either side of the vertical. Each ball has a charge Q."></image>
+				<image source="elec/charged-balls.jpg" width = "35%"><description>
+					Two small balls are attached to threads which are in turn tied to the same point on the ceiling. The threads hang at an angle of 5.0 degrees to either side of the vertical. Each ball has a charge Q.
+				</description></image>
 			</figure>
 			<p>
 				Two small balls, each of mass 5.0 g, are attached to silk threads 50 cm long, which are in turn tied to the same point on the ceiling, as shown above. When the balls are given the same charge Q, the threads hang at <m>5.0^\circ</m> to the vertical. What is the magnitude of Q? What are the signs of the two charges?

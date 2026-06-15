@@ -52,7 +52,9 @@
 			<figure xml:id="chg-dgm">
 				<title>Example Charge Diagram</title>
 				<caption>An example charge diagram.</caption>
-				<image source="Charged_disc.png" width = "50%" ></image>
+				<image source="Charged_disc.png" width = "50%" >
+					<description>A large red circle with many + signs representing charges distributed nonuniformly.</description>
+				</image>
 			</figure>
 			<p>Shown above is a charge diagram for a disc.  Indicate the location with the greatest charge density.</p>
 		</activity>

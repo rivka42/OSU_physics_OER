@@ -35,7 +35,11 @@
 			<statement>
 				<figure xml:id="fig_charged-wire-1">
 					<caption>A charged wire lies along the y-axis centered on the origin.</caption>
-					<image source="elec/charged-wire-1.png" width = "35%" ></image>
+					<image source="elec/charged-wire-1.png" width = "35%" >
+					<description>
+					A vertical wire with length L centered on the origin.  Point A lies along the horizontal x axis a distance L from the center of the wire.  Point B lies along the vertical y axis a distance L from the center of the wire.
+				</description>
+				</image>
 				</figure>
 				<p>
 					The wire shown above has its middle located at the origin. The wire has length <m>L</m> and a non-uniform charge density <m>\lambda = \frac{q_o y}{L^2}</m>.
@@ -79,7 +83,11 @@
 		<statement>
 			<figure xml:id="fig_charged-wire">
 				<caption>A charged wire lies along the y-axis centered on the origin.</caption>
-				<image source="elec/charged-wire-1.png" width = "35%" ></image>
+				<image source="elec/charged-wire-1.png" width = "35%" >
+					<description>
+					A vertical wire with length L centered on the origin.  Point A lies along the horizontal x axis a distance L from the center of the wire.  Point B lies along the vertical y axis a distance L from the center of the wire.
+				</description>
+				</image>
 			</figure>
 			<p>
 				Write an expression for the electric potential at point A and point B for the wire above.

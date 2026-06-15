@@ -29,7 +29,9 @@ where <m> i </m> refers to the electric field from the ith charge in the sum.
  <figure xml:id="Efield_many">
 		<title>Electric field of many charges</title>
     	<caption>A visualization of the electric field at a point in space due to multiple charges. </caption>
-    		<image source="elec/Efield_many.png" width = "60%" ></image>
+    		<image source="elec/Efield_many.png" width = "60%" >
+				<description>q1, 12, and q3, each with their own r-hat vector pointing toward point P, corresponding to three electric fields at point P.</description>
+			</image>
     </figure>
 
 	<subsubsection>
@@ -76,7 +78,9 @@ What do you expect the field to look like if you move very far up the <m>y</m>-a
 			<figure xml:id="spread-out-charge">
 				<title>Charge on a wire.</title>
     			<caption>Four charges of charge <m>+q</m> are evenly distributed on a wire.</caption>
-    			<image source="elec/spread-out-charge.png" width = "60%" ></image>
+    			<image source="elec/spread-out-charge.png" width = "60%" >
+					<description>Four +q charges distributed uniformly along a horizontal line.</description>
+				</image>
     		</figure>
 			<ol>
 				<li>

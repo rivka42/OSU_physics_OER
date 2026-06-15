@@ -25,7 +25,9 @@
 			<figure xml:id="x_point-charges-arc2">
 				<title>Point Charges and Arc Figure</title>
 				<caption>Three cases with different charges.</caption>
-				<image source="point-charges-arc2.png" width = "100%" ></image>
+				<image source="point-charges-arc2.png" width = "100%" >
+				<description>Three cases, each with some charge a constant distance from point P.  Case A: two negative charges at either end of an arc.  Case B: one of the charges is positive.  Case C, the negative charge is now distributed across a continuous arc length.</description>
+			</image>
 			</figure>
 		</statement>
 	</investigation>

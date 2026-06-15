@@ -19,7 +19,11 @@
 					<figure xml:id="x_fig_sheet1">
 			  <title>Infinite Sheet</title>
     		<caption>An infinitely charged sheet.</caption>
-    		<image source="InfiniteSheet1.png" width = "70%" ></image>
+    		<image source="InfiniteSheet1.png" width = "70%" >
+				<description>
+					A representation of an infinite sheet as a parallelogram with a coordinate system on it, x to the right, y parallel to the other side of the parallelogram, and z perpendicular to the parallelogram.
+				</description>
+			</image>
 		</figure>
 			</answer>
 		</task>
@@ -46,7 +50,11 @@
 					<figure xml:id="x_fig_sheet2">
 			  <title>Charged Sheet Figure</title>
     		<caption>An infinitely charged sheet with a Gaussian surface.</caption>
-    		<image source="InfiniteSheet2.png" width = "70%" ></image>
+    		<image source="InfiniteSheet2.png" width = "70%" >
+				<description>
+					A representation of an infinite sheet as a parallelogram with a coordinate system on it, x to the right, y parallel to the other side of the parallelogram, and z perpendicular to the parallelogram.  Bottom left, a small cube with side length L, two sides shaded blue.
+				</description>
+			</image>
 		</figure>
 			</answer>
 		</task>

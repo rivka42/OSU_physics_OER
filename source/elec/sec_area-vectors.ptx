@@ -38,7 +38,9 @@
 	<figure xml:id="fig_area_vector">
 			<title>Area Vector</title>
 		<caption>An example of the area vector.</caption>
-		<image source="elec/area-vector.png" width = "25%" ></image>
+		<image source="elec/area-vector.png" width = "25%" >
+				<description>a square with a vector A pointing perpendicularly away.</description>
+			</image>
 	</figure>
 
 	<!--
@@ -51,7 +53,7 @@
 		<figure xml:id="x_fig_book">
 			  <title>Book Figure</title>
     		<caption>A simple representation of a book.</caption>
-    		<image source="Book.png" width = "25%" ></image>
+    		<image source="Book.png" width = "25%" ><description>A book with LIPA on the spine and Learning Introductory Physics with Activities on the cover.</description></image>
 		</figure>
 		
 		<activity xml:id="x_area-book">

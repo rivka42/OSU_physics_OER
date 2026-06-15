@@ -43,7 +43,9 @@ In examining the behavior of positive and negative charge, we can find that unli
 	 <figure xml:id="charge">
 		<title>Charges</title>
     	<caption>A representation of positive and negative charges.</caption>
-    		<image source="elec/charges.png" width = "80%" ></image>
+    		<image source="elec/charges.png" width = "80%" >
+          <description>A positive charge (left) and a negative charge (right).</description>
+        </image>
     </figure>
     
  

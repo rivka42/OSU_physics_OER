@@ -26,7 +26,9 @@ The electric dipole moment <me> |\vec{p}| = qd </me> is the vector that points f
  <figure xml:id="dipole_moment">
 		<title>Electric field of many charges</title>
     	<caption>A visualization of the electric dipole moment due to a small separation of positive and negative charges. </caption>
-    		<image source="elec/dipole_moment.png" width = "60%" ></image>
+    		<image source="elec/dipole_moment.png" width = "60%" >
+				<description>A positive charge +q (top right) and a negative charge -q (bottom left) separated by a distance d with a vector p pointing from the negative to the positive charge.</description>
+			</image>
     </figure>
 
 
@@ -62,7 +64,9 @@ Dipoles are randomly oriented in the absence of an external electric field. When
  <figure xml:id="water_dipole">
 		<title>Electric Dipole of Water Molecules</title>
     	<caption>A visualization of the electric dipole moment of the water molecule. </caption>
-    		<image source="elec/water_dipole.png" width = "60%" ></image>
+    		<image source="elec/water_dipole.png" width = "60%" >
+				<description>A water molecule with an oxygen (--) and two hydrogens (+), with an angle 104.5 degrees between the hydrogen atoms and a dipole moment p pointing downward.</description>
+			</image>
     </figure>
 
 <p> 

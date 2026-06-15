@@ -27,7 +27,9 @@ It is the flow of electrons through air if we are talking of lightning, or the f
     	<caption>
 	A visualization of the atomic structure of atoms (Image Credit: Wikimedia Commons).
 	</caption>
-    		<image source="elec/Atom_Diagram.png" width = "60%" ></image>
+    		<image source="elec/Atom_Diagram.png" width = "60%" >
+				<description>Diagram of an idealized Lithium atom, primarily useful to illustrate the nucleus of an atom.</description>
+			</image>
 </figure>
     
 

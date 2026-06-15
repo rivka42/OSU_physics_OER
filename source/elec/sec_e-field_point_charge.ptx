@@ -43,7 +43,9 @@ The figure below illustrates each of the quantities in the definition above. Con
 <figure xml:id="Efield_point">
 		<title>Electric field of a single point charge</title>
     	<caption>A visualization of the symbols used to define the electric field of a single point charge. </caption>
-    		<image source="elec/Efield_point.png" width = "60%" ></image>
+    		<image source="elec/Efield_point.png" width = "60%" >
+				<description>A positive point charge a distance r from a point P, with the r-hat vector pointing from the charge to P and the electric field vector pointing in the same direction.</description>
+			</image>
 </figure>
 
 <note>
@@ -113,7 +115,9 @@ The constant <m> \epsilon_{0} </m> (pronounced <q>epsilon naught</q>) is a const
 		<figure xml:id="x_fig_three-charges">
 			  <title>Three Charges Figure</title>
     		<caption>Three charges</caption>
-    		<image source="three-charges.png" width = "70%" ></image>
+    		<image source="three-charges.png" width = "70%" >
+				<description>Charge A (q) on the left, charge B (-q) in the middle, and charge C (2q) on the right, all separated by a distance d.</description>
+			</image>
 		</figure>
 	</subsubsection>
 </section>

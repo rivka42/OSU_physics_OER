@@ -49,7 +49,9 @@
 		<statement><p></p>
 			<figure xml:id="fig_equipot-2">
 				<caption>Equipotential graph in the xy-plane.</caption>
-				<image source="elec/equipotential-graph-2.png" width = "75%" ></image>
+				<image source="elec/equipotential-graph-2.png" width = "75%" >
+					<description>An equipotential map with many concentric circles at the top and many ellipses at the bottom.  A, B, and C lie on the same nearly circular contour near the top, while C, D, and E lie in a straight line from top to bottom. </description>
+				</image>
 			</figure>
 			<p>
 				This problem is a modified Explanation Task with several specific prompts. Above is a graph of the equipotentials due to some unknown distribution of charges. The boxed numbers represent the values of the potential.

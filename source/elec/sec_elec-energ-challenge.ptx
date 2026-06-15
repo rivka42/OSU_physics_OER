@@ -18,7 +18,11 @@
 		<statement>
 			<figure xml:id="fig_charged-wire-2">
 				<caption>A charged wire lies along the y-axis with one end starting at the origin.</caption>
-				<image source="elec/charged-wire-2.png" width = "35%" ></image>
+				<image source="elec/charged-wire-2.png" width = "35%" >
+					<description>
+					A vertical wire with length L with its bottom at the origin.  Point B lies along the horizontal x axis a distance L from the bottom of the wire.  Point A lies a distance L vertically above point B.  
+				</description>
+				</image>
 			</figure>
 			<p>
 				The wire shown above has one end located at the origin. The wire has length <m>L</m> and a non-uniform charge density <m>\lambda = \frac{q_o y}{L^2}</m>. Points A and B are located a distance <m>x_o</m> from the top and bottom ends of the wire, respectively.
