@@ -27,7 +27,7 @@
 	<figure xml:id="fig_marbless">
 		<caption>Three marbles launched off a table.</caption>
 	   <image source="Marbles.png" width = "50%">
-		   <description></description></image>
+		   <description>A table with a marble at the upper right corner.  The marble has three possible velocities: v1 up and to the right, v2 directly to the right, and v3 down and to the right.</description></image>
  </figure>
 <p>
 		Start with Marble 2.

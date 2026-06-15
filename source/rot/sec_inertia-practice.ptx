@@ -59,7 +59,7 @@
 			<figure xml:id="rot_shifted-rod">
 			<title>Shifted Rod Figure</title>
 		<image source="ShiftedRod.png" width = "60%">
-			<description></description></image>
+			<description>A horizontal rod with an axis L/3 from the left end and 2L/3 from the right end.</description></image>
   </figure>
 		</statement>
 	</project>

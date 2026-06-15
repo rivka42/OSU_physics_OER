@@ -48,7 +48,6 @@
 				
 		<!--PRACTICE SECTIONS-->
 		<xi:include href="./en/sec_work2.ptx" />
-		<!--alttextbreak-->
 		<xi:include href="./int/sec_cma-mass.ptx" />
 		<xi:include href="./int/sec_cma-work.ptx" />
 		<xi:include href="./int/sec_cma.ptx" />

@@ -22,7 +22,7 @@
 			<title>Bowl Figure</title>
 			<caption></caption>
 			<image source="The-Bowl.png" width = "75%">
-				<description>A motion diagram of a ball on a semicircular track.</description>
+				<description>A motion diagram of a ball on a semicircular track.  Instant 1 is at the top left, subsequent instants get farther apart until reaching the bottom, then get closer together until reaching the top on the upper right.</description>
 			</image>
 		</figure>
 		

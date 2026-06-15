@@ -17,7 +17,7 @@
 			<title>Ladder Figure</title>
 		 <caption>A ladder leans against a wall</caption>
 		<image source="Ladder1.png" width = "40%">
-			<description></description></image>
+			<description>A ladder of mass m with length L leans at an angle theta against a wall.</description></image>
   </figure>
 </statement>
 
@@ -84,7 +84,7 @@
 			<title>Tug of War Figure</title>
 		 <caption>Two ropes connected to a board that is free to rotate</caption>
 		<image source="TugofWar.png" width = "30%">
-			<description></description></image>
+			<description>A top-down view of a board with an axis at its center.  String A pulls down on the left side, 2l from the axis, string B pulls down on the right side, l away from the axis.</description></image>
   </figure>
 </introduction>
 <task>

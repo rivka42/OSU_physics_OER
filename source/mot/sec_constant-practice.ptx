@@ -92,7 +92,7 @@
 							<title>Baseball Figure</title>
 								<caption>A baseball's path.</caption>
 								   <image source="Baseball.png" width = "60%">
-								<description></description></image>
+								<description>A ball at initial height yi follows an arced trajectoring to final position xf.</description></image>
 							 </figure>
 					</li>
 				</ol>

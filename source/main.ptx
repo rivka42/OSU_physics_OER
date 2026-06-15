@@ -62,6 +62,8 @@
 		<xi:include href="./ch-n_14_inertia.ptx" />
 		<xi:include href="./ch-n_15_rot-el.ptx" />
 
+		<!--alttextbreak-->
+
 		<xi:include href="./ch-n_16_oscillate.ptx" />
 		<xi:include href="./ch-n_17_waves.ptx" />
 		<xi:include href="./ch-n_18_superposition.ptx" />

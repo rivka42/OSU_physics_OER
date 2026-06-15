@@ -96,7 +96,7 @@
 		<title>Car around a Curve Figure</title>
 		 <caption>Acceleration components for the final position of the car.</caption>
 		<image source="car-curve.png" width = "60%">
-			<description></description></image>
+			<description>A circle with two vectors at the far right edge: at upward and ac to the left.</description></image>
   </figure>	
 
 			</p>

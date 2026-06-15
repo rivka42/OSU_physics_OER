@@ -15,7 +15,7 @@
 			<title>3 Spheres Figure</title>
 			<caption>Three spheres arranged in a line.</caption>
 			<image source="3spheres.png" width = "100%">
-				<description></description>
+				<description>5m sphere on the left, a distance L from a 3m sphere to its right, another distance L from a 2m sphere to its right.</description>
 			</image>
 		</figure>
 </statement>
@@ -32,7 +32,7 @@
 			<title>Hammerhand Figure</title>
 			<caption>Two possible orientations for balancing a hammer.</caption>
 			<image source="hammer-hands.png" width = "100%">
-				<description></description>
+				<description>Two pictures of a hand holding a hammer; on the left, the head of the hammer is down, on the right, the head of the hammer is up.</description>
 			</image>
 		</figure>
 </statement>
@@ -49,7 +49,7 @@
 			<title>Ring Figure</title>
 			<caption>A simplified two-dimensional model for a baseball bat.</caption>
 			<image source="bat1.png" width = "50%">
-				<description></description>
+				<description>A long horizontal triangle with length L and vertical width W.</description>
 			</image>
 		</figure>
 	</introduction>

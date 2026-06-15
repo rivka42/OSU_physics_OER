@@ -33,7 +33,9 @@ and is given by the <xref ref="rep_rhr"/>.</p>
 <figure xml:id="vec_cross_product">
 		<title>Cross Product Figure</title>
     	<caption>A representation of vectors A and B and the angle between them illustrating the cross product for two vectors.</caption>
-    		<image source="vectors/vec_dot_product.png" width = "25%" ></image>
+    		<image source="vectors/vec_dot_product.png" width = "25%" >
+				<description>Vector A up and to the right and vector B pointing to the right, with an angle theta between them.</description>
+			</image>
     </figure>
     
 <p>
@@ -70,7 +72,9 @@ In the figure, <m> \theta</m> represents the angle between the two vectors when 
 				<figure xml:id="vec_rhr">
 		<title>Right Hand Rule Figure</title>
     	<caption>One example of the right hand rule that can be used to find the direction of a cross product.</caption>
-    		<image source="RHR.png" width = "25%" ></image>
+    		<image source="RHR.png" width = "25%" >
+				<description>A right hand making a fist with an upward thumb.  The vector A points forward from the hand, the vector B points perpendicular to the palm of the hand out of the screen, and the vector C points upward in the direction of the thumb.</description>
+			</image>
     </figure>
 			</statement>
 		</conjecture>
@@ -91,7 +95,9 @@ The magnitude of the cross product is the magnitude of <m>\vec{B}</m> multiplied
 <figure xml:id="vec_in-and-out">
 		<title>Vectors Figure</title>
     	<caption>The symbols for vectors that point out of the screen (above) and into the screen (below).</caption>
-    		<image source="InAndOutVectors.png" width = "25%" ></image>
+    		<image source="InAndOutVectors.png" width = "25%" >
+				<description>out of the screen: a circle with a dot.  into the screen: a circle with an x.</description>
+			</image>
     </figure>
 
   
@@ -118,7 +124,9 @@ The magnitude of the cross product is the magnitude of <m>\vec{B}</m> multiplied
 				     <figure xml:id="vec_x-cross-product">
 		<title>Cross Product Figure</title>
     	<caption></caption>
-    		<image source="CrossProductVectors.png" width = "50%" ></image>
+    		<image source="CrossProductVectors.png" width = "50%" >
+				<description>v1 points down and to the left, v2 points up and to the right, z points out of the page</description>
+			</image>
     </figure>
 			</introduction>
 			<task>

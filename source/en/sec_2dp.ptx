@@ -3,8 +3,146 @@
 <section xml:id="sec_2dp" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>2D Momentum</title>
 	
-	
-	
+	<activity>
+    <title>Traffic Accident</title>
+    <introduction>
+      <p>
+        
+      </p>
+      <p>
+        Your friend is going to court to determine fault in an automobile accident. She thinks the other car was speeding and she was not. She is looking to you for help to prove her assertion. During discovery, the following evidence is presented, none of which is disputed by the other driver:
+      </p>
+      <ul>
+        <li>
+          <p>
+            Weather records indicate that there was no rain the day of the collision 
+          </p>
+        </li>
+        <li>
+          <p>
+            Your friend was traveling north just before the collision, and the other car was traveling east
+          </p>
+        </li>
+        <li>
+          <p>
+            The two cars got stuck together and remained so after the collision while skidding to a stop
+          </p>
+        </li>
+        <li>
+          <p>
+            The speed limit on both roads is <m>20 \mathrm{~m/s}</m>
+          </p>
+        </li>
+        <li>
+          <p>
+            The accident occurred on level ground
+          </p>
+        </li>
+        <li>
+          <p>
+            Measurements of skid marks created after the collision indicate that the cars skidded <m>15 \mathrm{~m}</m> at an angle of 30 degrees north of east before stopping 
+          </p>
+        </li>
+        <li>
+          <p>
+            According to manuals, your friend's truck is <m>1100 \mathrm{~kg}</m> and the other car is <m>980 \mathrm{~kg}</m>. 
+          </p>
+        </li>
+        <li>
+          <p>
+            A physics textbook indicates that the coefficient of kinetic friction for rubber on dry pavement is 0.80
+          </p>
+        </li>
+      </ul>
+    </introduction>
+    <task>
+      <statement>
+        <p>
+          Consider the information above and organize it in a way that you think would be helpful toward accomplishing an objective.
+        </p>
+      </statement>
+      <solution>
+        <p><alert>1. Analyze and Represent</alert></p>
+		
+		<p>
+			<ol marker="a.">
+				<li>
+					<p>
+						Knowns and Unknowns
+            <me>m_T = 1100 \mathrm{~kg}</me>
+            <me>m_c = 980 \mathrm{~kg}</me>
+            <me>\mu_k = 0.8</me>
+            <me>\Delta r_{slide} = 15 \mathrm{~m}</me>
+            <me>v_{ci} = ?</me>
+            <me>v_{Ti} = ?</me>
+					</p>
+				</li>
+				<li>
+					<p>
+						Assumptions: Near the surface of the Earth, the cars stick together in an elastic collision that takes little time.
+					</p>
+				</li>
+				<li>
+					<p>
+						Representation.
+					</p>
+          <figure xml:id="2d-coll-fig">
+			<title>2D Collision Figure</title>
+		 <caption>Schematic of the collision.</caption>
+		<image source="2dcoll.png" width = "50%">
+			<description>Friend's truck velocity vector upward, other driver velocity vector to the right.  Skidmarks diagonally up and to the right 15 m.</description></image>
+  </figure>
+				</li>
+			</ol>
+
+			</p>
+      </solution>
+    </task>
+    <task>
+      <statement>
+        <p>
+          Identify all of the analysis methods that could be used to analyze the system.
+        </p>
+      </statement>
+      <solution>
+        <p>
+          Conservation of momentum will be useful during the collision itself.  However, kinematics will also likely be necessary (perhaps with some force analysis) to make use of the distance that the cars slide after colliding.
+        </p>
+      </solution>
+    </task>
+    <task>
+      <statement>
+        <p>
+          First, find the car/truck acceleration while they slide together.  Then, solve for the initial speeds of 
+the vehicles before the collision.
+        </p>
+      </statement>
+      <solution>
+        <p>
+          Net force in the x-direction: <me>F_{net,x} = - \mu_k F^N = -(m_T + m_c) a_x </me>
+
+        Net force in y-direction: <me>F^N = F^g = (m_T + m_c)g</me>
+
+        Solve for the acceleration: <me>a_x = - \mu_k g</me>
+
+        Use constant acceleration equations: <me>v_i = \sqrt{2\mu_k g \Delta r}</me>
+
+        Now use conservation of momentum, first in the x and then in the y direction: 
+        <me>v_{ci} = \frac{m_T + m_c}{m_c}\mu_k g\cos\theta \approx 28.48 \mathrm{~m/s}</me>
+        <me>v_{Ti} = \frac{m_T + m_c}{m_T}\mu_k g\sin\theta \approx 14.65 \mathrm{~m/s}</me>
+        From this, your friend's truck was indeed under the <m>20 \mathrm{~m/s}</m> speed limit
+
+        </p>
+      </solution>
+    </task>
+    
+  </activity>
+	<references>
+		<biblio xml:id="ref_2dcoll">
+		<p>Traffic Accident problem adapted from classroom activities used by Dustin Treece and Erik Jensen at Chemeketa Community College.
+	</p>
+		</biblio>
+	</references>
 </section>
 
 

@@ -43,7 +43,7 @@
 			<title>Ramp Figure</title>
 			<caption>A collection of identical blocks.</caption>
 			<image source="COM-Blocks.png" width = "50%">
-				<description></description>
+				<description>Eight stacks of blocks, in order from left to right: one, one, two, two, one, two, two, and two.</description>
 			</image>
 		</figure>
 				</statement>

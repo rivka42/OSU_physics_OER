@@ -14,7 +14,7 @@
 			<title>Tug of War Figure</title>
 		 <caption>Two ropes connected to a board that is free to rotate</caption>
 		<image source="Unicycle.png" width = "50%">
-			<description></description></image>
+			<description>A stylized unicycle with acceleration to the right: a horizontal seat connected to a circular wheel by a vertical support.</description></image>
   </figure>
 </introduction>
 	<task>
@@ -43,7 +43,7 @@
 			<title>Incorrect Free-body Diagram for the Unicycle Wheel</title>
 		 <caption>A possible free-body diagram showing four forces acting on the wheel.</caption>
 		<image source="UnicycleFBD.png" width = "100%">
-			<description></description></image>
+			<description>An incorrect free-body diagram for the unicycle.</description></image>
   </figure>
 </hint>
 	</task>	
@@ -79,7 +79,7 @@
 	<task>
 		<statement>
 	<p> 
-		In the tip above is an <xref ref="rot_unicycleFBD"/>.  Show that the net torque about the center of the wheel is <alert>not consistent</alert> with the angular acceleration of thew heel.  How would you modify that free-body diagram so that the net torque is consistent with the angular acceleration?
+		In the hint above is an <xref ref="rot_unicycleFBD"/>.  Show that the net torque about the center of the wheel is <alert>not consistent</alert> with the angular acceleration of thew heel.  How would you modify that free-body diagram so that the net torque is consistent with the angular acceleration?
 	</p>
 </statement>
 <answer>
@@ -87,7 +87,7 @@
 			<title>Unicycle Wheel Free-body Diagram</title>
 		 <caption>A free-body diagram showing five forces acting on the wheel.</caption>
 		<image source="UnicycleFBDb.png" width = "60%">
-			<description></description></image>
+			<description>An incorrect free-body diagram.</description></image>
   </figure>
 </answer>
 <solution>
@@ -121,7 +121,7 @@
 			<title>Unicycle Free-body Diagram</title>
 		 <caption>A free-body diagram for the unicycle.</caption>
 		<image source="UnicycleFBDc.png" width = "60%">
-			<description></description></image>
+			<description>A correct free-body diagram for the unicycle.</description></image>
   </figure>
 			<p>
 				The Law of Motion says: <me>

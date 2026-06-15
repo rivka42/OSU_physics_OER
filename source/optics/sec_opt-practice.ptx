@@ -24,7 +24,7 @@
 			<title>Objects and Mirror Figure</title>
 				<caption>Two objects and a mirror.</caption>
 				<image source="MirrorOnly.png" width = "50%">
-					<description></description>
+					<description>A tilted mirror at the bottom, with point 1 above and to the left and point 2 above in the middle.</description>
 				</image>
 			</figure>
 		</statement>
@@ -75,7 +75,7 @@
 			<title>Objects and Mirror Figure</title>
 				<caption>An object, a wall, and a mirror.</caption>
 				<image source="WallMirror.png" width = "60%">
-					<description></description>
+					<description>A horizontal mirror with a small orange dot above left and an angled wall above right.  Four points are arranged at different locations around the wall, and one additional point is below the mirror.</description>
 				</image>
 			</figure>
 		</statement>

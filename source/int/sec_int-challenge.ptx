@@ -65,7 +65,7 @@
 				<title>Energy Blocks Figure</title>
 				<caption></caption>
 				<image source="work-blocks.png" width = "50%">
-					<description></description>
+					<description>Case A: a hand pushes a block to the left and another hand pushes a block to the right.  Case B: a hand pushes a block to the left and another hand pushes a block to the right, and the two blocks are connected by a spring.  Case C: a hand pushes a block to the left and another hand pushes a block to the right, and the two blocks are connected by a rope.</description>
 				</image>
 			</figure>
 				<p>Rank the three cases by the net external work done on each system.</p>

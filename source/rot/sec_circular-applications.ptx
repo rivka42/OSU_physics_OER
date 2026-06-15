@@ -176,8 +176,8 @@
 	<figure xml:id="rot_mgr">
 			<title>Merry-go-round Graph</title>
 		 <caption>Angular position vs. time for a merry-go-round.</caption>
-		<image source="mgr.png" width = "40%">
-			<description></description></image>
+		<image source="mgr.png" width = "80%">
+			<description>A graph of theta vs time, starting at the origin, increasing with a curve then increasing in a straight line then increasing with a downward cuve before finally decreasing.</description></image>
   </figure>
 		<p> 
 		Describe your experience on the merry-go-round using words, equations, and graphs.
@@ -188,8 +188,8 @@
 	<figure xml:id="rot_mgr-sol">
 			<title>Merry-go-round Solution</title>
 		 <caption>Angular speed vs. time for a merry-go-round.</caption>
-		<image source="mgr-sol.png" width = "40%">
-			<description></description></image>
+		<image source="mgr-sol.png" width = "80%">
+			<description>A graph of omega vs time.  First you speed up at a constant rate (line is diagonally upward), then you move at constant speed (line is horizontal), then you slow down, turn around, and speed up backwards (line is diagonally downward), last you slow back down until you stop (line is diagonally upward again, ending at zero).</description></image>
   </figure>
 </answer>	
 </activity>

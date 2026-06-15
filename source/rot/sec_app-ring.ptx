@@ -46,7 +46,7 @@ Find the moment of inertia for the system consisting of the two moons about an a
 			<title>Ring Figure</title>
 			<caption>A ball suspended from the ceiling by a string.</caption>
 			<image source="ring-i.png" width = "50%">
-				<description></description>
+				<description>Two concentric circles, the outer with radius ro and the inner with radius ri.</description>
 			</image>
 		</figure>
 	</introduction>

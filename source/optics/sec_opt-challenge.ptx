@@ -20,8 +20,8 @@
 		<figure xml:id="fig_opt-ray-diagram">
 			<title>Candle and Mirrors Figure</title>
 			<caption>A candle and two mirrors.</caption>
-			<image source="ray-diagram.png" width = "25%">
-				<description></description>
+			<image source="ray-diagram.png" width = "50%">
+				<description>On the right, a vertical mirror with an eye located just above the mirror.  On the left, a second vertical mirror with a candle located just below the mirror.  The two mirrors are separated by a distance d, and the vertical distance from the candle to the eye is 2d.</description>
 			</image>
 		</figure>
 		</statement>

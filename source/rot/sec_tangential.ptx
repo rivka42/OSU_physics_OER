@@ -51,6 +51,7 @@
 			<title>Curved Road Solution Figure</title>
 		 	<caption>Acceleration vectors for a car moving along a curved road.</caption>
 			<image source="CurvedPathSol.png" width = "30%">
+				<description>A car on a curve with an acceleration vector broken into components: the tangential acceleration pointing down and to the right, tangent to the curve, the centripetal acceleration pointing down and to the left, perpendicular to the curve, and the instantaneous acceleration pointing down and slightly to the left, the sum of the centripetal and tangential acceleration components.</description>
 			</image>
   			</figure>
 				</answer>

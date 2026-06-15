@@ -61,7 +61,7 @@
               <title>CMA Figure 1</title>
               <caption></caption>
               <image source="CMA-1.png" width = "50%">
-                <description></description>
+                <description>A gray shape bounded by a horizontal line, a vertical line, and a curved line.</description>
               </image>
             </figure>
           </li>
@@ -80,7 +80,7 @@
               <title>CMA Figure 1.5</title>
               <caption></caption>
               <image source="Reference Frame.png" width = "50%">
-                <description></description>
+                <description>A 3D coordinate system, with x pointing right, y pointing up, and z pointing out of the page.</description>
               </image>
             </figure>
           </li>
@@ -168,7 +168,7 @@
     <title>CMA Figure 2</title>
     <caption></caption>
     <image source="CMA-2.png" width = "50%">
-      <description></description>
+      <description>A 3D rectangular object, light gray at the left edge with increasing density to gray at the right edge.</description>
     </image>
   </figure>
 

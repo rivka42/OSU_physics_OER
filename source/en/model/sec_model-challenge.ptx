@@ -24,7 +24,7 @@
 							<title>Launching Boxes Figure</title>
 							<caption></caption>
 							<image source="SpringLaunch.png" width = "75%">
-								<description></description>
+								<description>m1 (a large box) and m2 (a small box) each on a horizontal surface and attached to a spring.</description>
 							</image>
 						</figure>
 			<p>
@@ -61,7 +61,7 @@
 							<title>Pendulum Collision Figure</title>
 							<caption></caption>
 							<image source="PendulumCOllision.png" width = "50%">
-								<description></description>
+								<description>Two pendulums with length L: m2 hanging directly down and m1 displaced up and to the left by angle theta.</description>
 							</image>
 						</figure>
 

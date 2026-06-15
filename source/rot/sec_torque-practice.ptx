@@ -28,7 +28,7 @@
 			<title>String around a Ball Figure</title>
 			<caption>A ball suspended from the ceiling by a string.</caption>
 			<image source="String-around-Ball.png" width = "20%">
-				<description></description>
+				<description>A small circle with a string connecting its left edge with a horizontal ceiling.</description>
 			</image>
 		</figure>
 		</statement>
@@ -37,7 +37,7 @@
 			<title>String around a Ball Figure</title>
 			<caption>A free-body diagram for a ball attached to the ceiling by a string.</caption>
 			<image source="String-around-BallFBD.png" width = "30%">
-				<description></description>
+				<description>An extended free-body diagram: FTBR upward on the left edge and FgBE pointing downward on the middle.</description>
 			</image>
 		</figure>
 			<p>

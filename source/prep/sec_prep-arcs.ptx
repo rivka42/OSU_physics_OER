@@ -73,7 +73,8 @@
 		<figure>
 			<caption>Two blocks, connected by a rope.</caption>
 			<image source="moving-blocks.png" width = "50%">
-			</image><description></description>
+				<description>m1 on a horizontal table, a horizontal distance L from a pulley, connected by a string over the pulley to m2, hanging vertically.</description>
+			</image>
 		</figure>
 	</introduction>
 
@@ -235,7 +236,9 @@
 			</p>
 				<p>Use an integral to determine the area of the triangle shown below. What is the meaning of the infinitesimal in the integral you use?</p>
 				<figure xml:id="fig_math-rev1">
-					<image source="math-review1.png" width = "50%"></image>
+					<image source="math-review1.png" width = "50%">
+						<description>A right triangle with h = 2 cm and w = 4 cm.</description>
+					</image>
 				</figure>
 			</statement>
 			
@@ -250,7 +253,9 @@
 			</p>
 				<p>Use an integral to determine the area of the shape shown below, where the curve is a parabola with its vertex at the lower left corner.</p>
 				<figure xml:id="fig_math-rev2">
-					<image source="math-review2.png" width = "50%"></image>
+					<image source="math-review2.png" width = "50%">
+						<description>An upward curve connecting the two sides of a diagonal line, also with h = 2 cm and w = 4 cm.</description>
+					</image>
 				</figure>
 			</statement>
 

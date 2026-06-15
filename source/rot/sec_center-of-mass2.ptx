@@ -41,7 +41,7 @@
 			<title>Meter Stick Figure</title>
 			<caption>An infinitesimal piece of a meter stick.</caption>
 			<image source="COM-MS.png" width = "100%">
-				<description></description>
+				<description>A horizontal rectangle with a small mass dm labeled near the middle, a distance x from the left end with a width dx.</description>
 			</image>
 		</figure>
 						</solution>
