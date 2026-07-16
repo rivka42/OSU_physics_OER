@@ -4,16 +4,25 @@
   <title>Sinusoidal Waves</title>
 			
   	
-<p>Waves can take any shape or size, and do not necessarily have a regular, smooth, repeating pattern. However, if a <em> wave source </em> oscillates with simple harmonic motion, then the wave that is generated will be a <alert>sinusoidal wave</alert>.  Sinusoidal waves are periodic in both <em> space </em> and <em> time </em>, so the displacement of a particle in a medium is symbolized by a function like <m> D(x,t) </m> or <m> y(x,t) </m>.
-
-<me> y(x,t) = y_{\mathrm{max}} \sin\left(\frac{2\pi}{\lambda}x \pm \frac{2\pi}{T}t + \phi_i\right)</me>
-
+<p>
+	Waves can take any shape or size, and do not necessarily have a regular, smooth, repeating pattern. However, if a <em> wave source </em> oscillates with simple harmonic motion, then the wave that is generated will be a <alert>sinusoidal wave</alert> (more specifically, a <em>traveling</em> sinusoidal wave).  Sinusoidal waves are periodic in both <em> space </em> and <em> time </em>, so the displacement of a particle in a medium is symbolized by a function like <m> y(x,t) </m> or <m> D(x,t) </m>.
 </p>
 
-<note>
-<title>Traveling Waves</title>
-<p>A sinusoidal wave of this form is also known as a <alert>traveling wave</alert>.  Why do you think this might be a good name?</p>
-</note>
+<definition xml:id="def-sinusoidal-wave">
+	<title>Sinusoidal Wave</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>
+			A sinusoidal wave with amplitude <m>y_{\mathrm{max}}</m>, wavelength <m>\lambda</m>, period <m>T</m>, and initial phase <m>\phi_i</m> can be written
+			<me> y(x,t) = y_{\mathrm{max}} \sin\left(\frac{2\pi}{\lambda}x \pm \frac{2\pi}{T}t + \phi_i\right)</me>
+			Alternatively, the wave may be written in terms of the wavenumber <m>k = \frac{2\pi}{\lambda}</m> and the angular frequency <m>\omega = \frac{2\pi}{T}</m>:
+			<me> y(x,t) = y_{\mathrm{max}} \sin\left(kx \pm \omega t + \phi_i\right)</me>
+			The sign of the <m>\pm</m> determines the direction of travel: choosing <m>-</m> corresponds to a wave moving in the <alert>positive</alert> direction, while choosing <m>+</m> corresponds to a wave moving in the <alert>negative</alert> direction.
+		</p>
+	</statement>
+</definition>
 
 	<definition xml:id="def_phase">
 	<title>Initial Phase</title>
@@ -27,34 +36,6 @@
 	</statement>
 </definition>
 
-	<principle xml:id="law_wave-speed">
-	<title>Wave Speed</title>
-	<statement>
-		<p>
-			
-		</p>
-		<p>
-		
-		For sinusoidal waves, the <alert> wave speed </alert> can be written
-
-<me> v = \frac{\lambda}{T} = \mathrm{\frac{distance}{time}} = \lambda f</me> 
-
-For a traveling wave, each wave crest travels forward a distance of one wavelength <m> \lambda</m> during a time interval of one period <m> T</m>. 
-</p>
-	</statement>
-	</principle>
-    
-
-
-<observation>
-<title>Wave Speed and Elasticity</title>
-<p>
-For mechanical waves, <alert> wave speed is a property of the medium's elasticity </alert> while the <alert> frequency of the wave is the frequency of the oscillating source</alert> of the wave. To keep this important aspect of waves in mind, you can use the relationship
-
-<me> \lambda_{\text{mechanical}} = \frac{v}{f} = \frac{\text{medium}}{\text{source}} </me>
-</p>
-</observation>   
-
 
 <subsubsection>
 <title>Activities</title>
@@ -63,7 +44,7 @@ For mechanical waves, <alert> wave speed is a property of the medium's elasticit
 	<p>
 		
 	</p>
-	<p>Use a graphing program (like Desmos or Mathematica), to graph the following functions (use <m>\lambda = 6 \mathrm{~m}</m>).</p>
+	<p>Use a graphing program (like <url href="https://www.desmos.com/calculator" >Desmos</url> or <url href="https://www.wolframalpha.com/">Mathematica</url>), to graph the following functions (use <m>\lambda = 6 \mathrm{~m}</m>).</p>
 				<p>
 				<ul>
 				<li><m> \sin{(2\pi\frac{x}{\lambda})} </m> </li>

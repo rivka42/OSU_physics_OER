@@ -51,7 +51,9 @@
     	<caption>
 	Five speakers near a source of sound waves.
 	</caption>
-    	<image source="sound-detectors.png" width = "75%" ></image>
+    	<image source="sound-detectors.png" width = "75%" >
+			<description>On the right, points A through E are arranged from top to bottom, equally spaced.  A speaker on the left is a horizotnal distance L from point C.</description>
+		</image>
 </figure>	
 			</introduction>
 			<task>

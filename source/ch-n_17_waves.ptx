@@ -35,6 +35,7 @@
     <xi:include href="./wave/sec_intensity.ptx" /> 
     <xi:include href="./wave/sec_loudness.ptx" /> 
     <xi:include href="./wave/sec_doppler.ptx" />
+    <xi:include href="./wave/sec_doppler2.ptx" />
 
     <xi:include href="./wave/sec_wave-practice.ptx" />
     

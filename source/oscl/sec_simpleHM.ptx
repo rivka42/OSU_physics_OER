@@ -1,28 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_simpleHM" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Simple Harmonic Motion</title>
-			
-<p>
-The next situation to which you will apply and adapt your physics model is <alert>oscillatory motion</alert>: any back-and-forth motion that regularly repeats in time. 
-</p>
+  <title>Oscillatory Motion</title>
 
+  <outcomes xml:id="adapting-model-oscillations">
+	<title>Oscillation and Wave Motion</title>
+	<ul>
+		<li>
+		<p>You now have a physics model that encompasses both the translational and rotational motion of objects.</p>
+	</li>
+	<li>
+		<p>
+			Throughout this chapter, you will expand these models to describe <alert>oscillatory motion</alert>: any back-and-forth motion that repeats in time.
+		</p>
+	</li>
+	<li>
+		<p>
+			In the subsequent chapters, you will further extend the model for oscillations to describe <alert>wave motion</alert> as well!
+		</p>
+	</li>
+</ul>
+</outcomes>
+			
+<subsubsection>
+<title>Warm-up Activities</title>
+</subsubsection>
 	<activity>
-	<title>Warm-up</title>
+	<title>Explore What You Know</title>
 	<p>
 		
 	</p>
-	<p>Make a list of everyday examples of oscillatory motion you have experienced.  What commonalities do you notice between them?  How common do you think oscillatory motion is in the real world?</p>
+	<p>Make a list of everyday examples of oscillatory (back-and-forth) motion you have experienced.  What commonalities do you notice between them?  How common do you think oscillatory motion is in the real world?</p>
+	</activity>
+	<activity>
+		<title>Explore Oscillation Quantities</title>
+		<p>
+			
+		</p>
+		<p>
+			Make a list of physical quantities you think might be useful in describing an object that is oscillating.  (It is okay to invent new quantities!)
+		</p>
 	</activity>
 
- <figure xml:id="pendulum_gif">
+ <corollary xml:id="vid-oscillations">
+	<title>Oscillations</title>
+	<statement><p></p>
+		<video youtube="YBq2YvzK9MU"><description>Introducing oscillations.</description></video>
+	</statement>
+  </corollary>
+
+  <subsubsection>
+	<title>Key Ideas</title>
+	
+  </subsubsection>
+
+  <definition xml:id="def-oscillation">
+	<title>Oscillation</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>
+			An oscillation is a <alert>repeating displacement from equilibrium.</alert>
+		</p>
+	</statement>
+  </definition>
+
+	<p>An oscillation typically occurs when an object is displaced away from a <alert>stable equilibrium</alert> such that a net force acts to return the object to this resting position.  The forces that lead to oscillatory motion are typically called <alert>restoring forces</alert>. <!--Recall that an object is said to be in <em>equilibrium</em> when there are no net forces acting on the object. --> A restoring force always acts opposite an object's displacement from equilibrium.  <xref ref="def_spring" text="title"/>, in which the force is directly proportional to displacement, is the canonical example restoring force. </p>
+
+<figure xml:id="pendulum_gif">
  <title>Pendulum Figure</title>
      	<caption>A simple pendulum oscillates around its equilibrium position.</caption>
     		<image source="oscillate/pendulum.gif" width = "50%" ></image>
     </figure>
 
 <p>
-Oscillatory motion occurs when an object is displaced away from a <alert>stable equilibrium</alert> such that a net force acts to return the object to this resting position.  The forces that lead to oscillatory motion are typically called <alert>restoring forces</alert>. <!--Recall that an object is said to be in <em>equilibrium</em> when there are no net forces acting on the object. --> A restoring force always acts opposite an object's displacement from equilibrium.  <xref ref="def_spring" text="title"/>, in which the force is directly proportional to displacement, is the canonical example restoring force. </p>
+	Several quantities are key to understanding oscillatory motion.  The first, the period, is familiar from uniform circular motion, and corresponds to the total amount of time for the oscillation to progress through one full cycle.  The second, the frequency, corresponds to the rate at which the oscillation proceeds.  Lastly, the amplitude describes the maximum deviation from equilibrium.
+</p>
+
+<definition xml:id="def-period-oscillation">
+	<title>Oscillation Period</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>
+			The oscillation <term>period</term>, symbolized by <m>T</m>, is the time for an oscillation to progress through one full cycle.
+		</p>
+	</statement>
+</definition>
+
+<definition xml:id="def-angular-frequency">
+	<title>Frequency and Angular Frequency</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>
+			The oscillation <term>frequency</term> is the number of cycles completed during a given time interval, and is thus related to the period by
+			<me>
+				f = \frac{2\pi}{T}
+			</me>
+
+			Frequency is measured in cycles per second, or Hertz (Hz).  The <term>angular frequency</term> is instead the number of radians completed during a given time interval, and is given by
+			
+			<me>
+				\omega = 2\pi f = \frac{2\pi}{T}
+			</me>
+
+			Angular frequency is measured in radians per second.
+		</p>
+	</statement>
+</definition>
+
+<definition xml:id="def-amplitude">
+	<title>Amplitude</title>
+		<statement>
+			<p>
+				
+			</p>
+		<p>
+			The <term>amplitude</term> of an oscillatory function is the function's maximum deviation from equilibrium.  It can be represented generically with <m>A</m> or with a more evocative name for a particular function, such as <m>x_{\text{max}}</m> for position, which can help make the units of the amplitude more obvious. 
+		</p>
+	</statement>
+</definition>
+
+
 
 <p>
 This most fundamental oscillatory motion, <em>simple harmonic motion</em>, can be described by a sine or cosine function.  More complicated oscillatory motion can be described either as a sum of sinusoidal functions or as a sinusoidal function multiplied by other functions such as exponential functions. 

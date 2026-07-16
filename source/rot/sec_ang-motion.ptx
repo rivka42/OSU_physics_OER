@@ -93,14 +93,6 @@
 						<task>
 			  <p>How long does it take for the helicopter to complete one full rotation?  This time is often known as the period, and is denoted using the letter <m>T</m>.</p>
 			</task>
-			<definition xml:id="def_period">
-			<title>Period</title>
-				<statement><p></p>
-					<p>
-						When an object undergoes regular, repeated motion, the amount of time <m>T</m> required to complete a full cycle is typically referred to as the <term>period</term>.
-					</p>
-				</statement>
-			</definition>
 			<task>
 			  <p>What is the helicopter's tangential speed?</p>
 			</task>
@@ -109,6 +101,15 @@
 			</task>
 		</activity>
 		</subsubsection>
+
+		<definition xml:id="def_period">
+			<title>Period</title>
+				<statement><p></p>
+					<p>
+						When an object undergoes regular, repeated motion, the amount of time <m>T</m> required to complete a full cycle is typically referred to as the <term>period</term>.
+					</p>
+				</statement>
+			</definition>
 
   
 

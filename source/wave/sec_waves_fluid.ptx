@@ -10,7 +10,9 @@ A sound wave is a sequence of <alert> compressions</alert> where the density is 
     <figure xml:id="sound_wave">
 			  <title>Sound Wave Figure</title>
     	<caption>A sound wave. As the wave disturbance propagates through the medium, the particles that make up the medium oscillate, but do not travel with the wave.</caption>
-    		<image source="wave/longitudinal.gif" width = "100%" ></image>
+    		<image source="wave/longitudinal.gif" width = "100%" >
+          <description>A microscopic representation of air as scattered dots demonstrates a longitudinal sound wave moving from left to right.  Two molecules are colored red to demonstrate that they move in the same direction as the wave (left-right).</description>
+        </image>
     </figure>
 
 <p>

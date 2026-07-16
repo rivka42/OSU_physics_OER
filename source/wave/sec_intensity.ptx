@@ -52,7 +52,9 @@ The kinetic energy of the mass at that point depends on the square of the speed.
         <caption>
         Energy from a point source decreases as the surface area of the sphere increases. 
         </caption>
-	<image source="wave/intensity_rsquared.jpg" width = "60%" ></image>
+	<image source="wave/intensity_rsquared.jpg" width = "60%" >
+    <description>Two concentric spheres, the larger with twice the radius.  Two radii are drawn, with corresponding surface areas sketched for each sphere: the surface area of the larger sphere is four times bigger, represented with four panels of equal size.</description>
+  </image>
 </figure>
 <p>
 You can visualize this by considering the energy passing through a small area of a sphere of radius <m>r</m>. The same amount of energy must pass through a larger area of a sphere of radius <m>2r</m>. Since the surface area of the larger sphere increases by a factor of <m>r^2</m>, the energy passing through the same area must be <m>\frac{1}{4}</m> as much.    

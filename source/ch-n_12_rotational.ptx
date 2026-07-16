@@ -20,7 +20,7 @@
 </objectives>
 
     <!--INTRODUCTORY SECTIONS-->
-		<xi:include href="./rot/sec_models.ptx" />
+		<!--<xi:include href="./rot/sec_models.ptx" />-->
 
 		<!--PREPARE SECTIONS--> 
     <xi:include href="./vec/sec_cross_product.ptx" />

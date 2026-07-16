@@ -185,7 +185,7 @@ from this and your model of <xref ref="assumption-shm"/>, the oscillation freque
 					\omega_p = \sqrt{\frac{g}{L}}
 				</me>
 				
-				The equation of motion for the pendulum is given by <me> \theta(t) = \theta_{\text{max}} \cos(\omega_p t + \phi_o)</me>
+				The equation of motion for the pendulum is given by <me> \theta(t) = \theta_{\text{max}} \cos(\omega_p t + \theta_i)</me>
 			</p>
 		</statement>
 		</definition>

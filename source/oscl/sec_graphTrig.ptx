@@ -7,11 +7,11 @@ The general form for the position of a system undergoing simple harmonic motion 
 </p>
 
 <p> 
-<men xml:id="pos_HM">\vec{x}(t) = \vec{x}_o + x_{\text{max}} \cos \left(\frac{2\pi t}{T} + \phi_o\right)\hat{x}</men>
+<men xml:id="pos_HM">\vec{x}(t) = \vec{x}_o + x_{\text{max}} \cos \left(\frac{2\pi t}{T} + \phi_i\right)\hat{x}</men>
 </p>
 
 <p>
-Here, the notation <m> \vec{x}(t)</m> indicates that the position <m>\vec{x}</m> is a <em>function</em> of time <m>t</m>. This position is a cosine function with <alert>amplitude</alert> <m>x_{\text{max}}</m>, <alert>period</alert> <m>T</m>, <alert>initial phase</alert> <m> \phi_o</m>, and <alert>equilibrium position</alert> <m>\vec{x}_o</m>. The argument of a trigonometric function is called the <em>phase</em> and <m> \phi_o</m> tells you the initial condition for the oscillation (the position at <m> t=0</m>).
+Here, the notation <m> \vec{x}(t)</m> indicates that the position <m>\vec{x}</m> is a <em>function</em> of time <m>t</m>. This position is a cosine function with <xref ref="def-amplitude"/> <m>x_{\text{max}}</m>, <xref ref="def-period-oscillation"/> <m>T</m>, <alert>initial phase</alert> <m> \phi_i</m>, and <alert>equilibrium position</alert> <m>\vec{x}_o</m>. The argument of a trigonometric function is called the <em>phase</em> and <m> \phi_i</m> tells you the initial condition for the oscillation at <m> t = 0</m>.
 </p> 
 
 <figure xml:id="HM_position">
@@ -22,20 +22,8 @@ Here, the notation <m> \vec{x}(t)</m> indicates that the position <m>\vec{x}</m>
 
 
 		
-	
-
-<definition xml:id="def-amplitude">
-	<title>Amplitude</title>
-		<statement>
-			<p>
-				
-			</p>
-		<p>
-			The <term>amplitude</term> of an oscillatory function is the function's maximum deviation from equilibrium.  It can be represented generically with <m>A</m> or with a more evocative name for a particular function, such as <m>x_{\text{max}}</m> for position, which can help make the units of the amplitude more obvious. 
-		</p>
-	</statement>
-</definition>
-
+<!--These definitions got introduced previously-->	
+<!--
 <definition xml:id="def-period-oscillation">
 	<title>Oscillation Period</title>
 		<statement>
@@ -63,6 +51,8 @@ Here, the notation <m> \vec{x}(t)</m> indicates that the position <m>\vec{x}</m>
 	</statement>
 </definition>
 
+-->
+
 <note>
 	<title>Analogue to Circular Motion</title>
 	<p>
@@ -89,11 +79,11 @@ This relation holds true in simple harmonic motion. When describing oscillatory 
 			<p>
 				
 			</p>
-		<p>Identify the equilibrium position <m>\vec{x}_o</m> and the initial phase <m> \phi_o</m> in the graph above.  Explain how you found them.</p>
+		<p>Identify the equilibrium position <m>\vec{x}_o</m> and the initial phase <m> \phi_i</m> in the graph above.  Explain how you found them.</p>
 		</statement>
 <solution>
 <p>
-The initial phase can be found by looking at where in its cycle the cosine function is at <m>t = 0</m>: here, it is at a maximum, which means <m>\phi_o = 0</m>.  The equilibrium position can be found by looking halfway between the maximum and minimum values, which here is at <m>\vec{x}_o = 0</m>.  When possible, it is extremely common to choose both of these quantities to be zero to simplify the position equation.
+The initial phase can be found by looking at where in its cycle the cosine function is at <m>t = 0</m>: here, it is at a maximum, which means <m>\phi_i = 0</m>.  The equilibrium position can be found by looking halfway between the maximum and minimum values, which here is at <m>\vec{x}_o = 0</m>.  When possible, it is extremely common to choose both of these quantities to be zero to simplify the position equation.
 </p>
 </solution>
 </activity>
@@ -144,12 +134,12 @@ The initial phase can be found by looking at where in its cycle the cosine funct
 		<p>You can write the position relationship as follows:</p>
 		<p>
 		<md> 
-		<mrow>\vec{x}(t) \amp = x_{\text{max}} \cos \left(\frac{2\pi t}{T} + \phi_o\right)\hat{x}</mrow>
-		<mrow>               \amp  = x_{\text{max}} \cos(2 \pi f t+ \phi_o)\hat{x}</mrow>
-		<mrow>               \amp  = x_{\text{max}} \cos(\omega t+ \phi_o)\hat{x} </mrow>
+		<mrow>\vec{x}(t) \amp = x_{\text{max}} \cos \left(\frac{2\pi t}{T} + \phi_i\right)\hat{x}</mrow>
+		<mrow>               \amp  = x_{\text{max}} \cos(2 \pi f t+ \phi_i)\hat{x}</mrow>
+		<mrow>               \amp  = x_{\text{max}} \cos(\omega t+ \phi_i)\hat{x} </mrow>
 		</md>
 		</p>
-		<p>often <m>\vec{x}(t) = x_{\text{max}} \cos(\omega t + \phi_o)\hat{x}</m> is most useful for solving problems. This is the form of the position function you will use going forward when studying simple harmonic motion. </p>
+		<p>often <m>\vec{x}(t) = x_{\text{max}} \cos(\omega t + \phi_i)\hat{x}</m> is most useful for solving problems. This is the form of the position function you will use going forward when studying simple harmonic motion. </p>
 		</answer>
 		</activity>
 		</subsubsection>		

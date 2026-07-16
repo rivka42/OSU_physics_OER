@@ -8,7 +8,7 @@ Consider a particle in uniform circular motion with angular velocity <m> \omega(
 
 <me> x = A\cos(\phi) </me>
 
-This is equivalent to the position function <m> x(t) = A \cos(\omega_s t + \phi_o) </m> for an oscillating block on a spring with initial condition <m> \phi_o = 0 </m>  at <m> t=0 </m>. Recall the angular velocity is the rate of change of angular position
+This is equivalent to the position function <m> x(t) = A \cos(\omega_s t + \phi_i) </m> for an oscillating block on a spring with initial condition <m> \phi_i = 0 </m>  at <m> t=0 </m>. Recall the angular velocity is the rate of change of angular position
 
 <me> \omega(t) = \frac{d\theta}{dt} </me> 
 
@@ -18,11 +18,11 @@ This equation is separable. A small change in angle can be written,
 
 If the particle is in uniform circular motion, then <m> \omega(t) = \omega </m> is constant in time. Integrating both sides of the relationship
 
-<me> \int_{\theta_o}^{\theta} d \theta = \omega \int_{0}^{t} dt \rightarrow \theta(t) = \omega t + \theta_o </me>
+<me> \int_{\theta_i}^{\theta} d \theta = \omega \int_{0}^{t} dt \rightarrow \theta(t) = \omega t + \theta_i </me>
 
 As time increases, the particle's <m>x</m>-component can be written as
 
-<me> x(t) = A \cos(\theta(t)) = A \cos(\omega t + \theta_o) </me>
+<me> x(t) = A \cos(\theta(t)) = A \cos(\omega t + \theta_i) </me>
 
 As the particle moves in a circle, its projection onto the <m>x</m>-axis oscillates between <m> x = \pm A </m>. Thus, <alert> uniform circular motion is simple harmonic motion when projected onto one spatial axis </alert>. 
 </p>
@@ -37,9 +37,9 @@ As the particle moves in a circle, its projection onto the <m>x</m>-axis oscilla
 
 
 <p>
-This can also help you understand the meaning of the <alert> initial phase </alert>. The <alert> phase </alert> in oscillatory motion is given by <m> \phi = \omega_s t +\phi_o</m> and is analogous to the angle of a particle in circular motion <m> \theta = \omega t +\theta_o</m>. The initial phase <m>\phi_o </m> in oscillatory motion is analogous to the initial angle <m>\theta_o</m> when <m> t = 0 </m>. Setting <m> t = 0 </m> in the position function for a simple harmonic oscillator, you can find the initial <m>x</m>-position
+This can also help you understand the meaning of the <alert> initial phase </alert>. The <alert> phase </alert> in oscillatory motion is given by <m> \phi = \omega_s t +\phi_i</m> and is analogous to the angle of a particle in circular motion <m> \theta = \omega t +\theta_i</m>. The initial phase <m>\phi_i </m> in oscillatory motion is analogous to the initial angle <m>\theta_i</m> when <m> t = 0 </m>. Setting <m> t = 0 </m> in the position function for a simple harmonic oscillator, you can find the initial <m>x</m>-position
 
-<me> x_0 = A \cos(\theta_o) </me> 
+<me> x_0 = A \cos(\theta_i) </me> 
 
 Thus different values of the phase constant represent different starting points on the circle and correspond to different <em> initial conditions </em> of the motion. 
 </p>

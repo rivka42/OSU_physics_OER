@@ -17,9 +17,9 @@ where <m> C</m> can be any collection of constants. If you can write the equatio
 
 Additionally, the function that <m> solves </m> the differential equation will always be a position function that oscillates in time about <m>s = 0</m>
 
-<me> s(t) = A \cos( \omega t + \phi_o)</me>
+<me> s(t) = A \cos( \omega t + \phi_i)</me>
 
-Where <m>A</m> and <m> \phi_o</m> are determined from the initial conditions of the oscillator. 
+Where <m>A</m> and <m> \phi_i</m> are determined from the initial conditions of the oscillator. 
 </p>
 
 <p> This is a powerful <alert>model of simple harmonic motion</alert> that can predict subsequent motion of many oscillating systems. However, models have their limitations. This model fails if the restoring force is <em> nonlinear</em>, meaning that it is not directly proportional to the displacement. 
@@ -35,7 +35,7 @@ Where <m>A</m> and <m> \phi_o</m> are determined from the initial conditions of 
       <me> \frac{d^2}{dt^2} s(t) = -\omega^2 s(t)</me>
       can be represented using <term>simple harmonic motion</term> as 
       <me>
-        s(t) = A \cos( \omega t + \phi_o)
+        s(t) = A \cos( \omega t + \phi_i)
       </me>
       
     </p>

@@ -1,114 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_what_are_waves" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>What Are Waves?</title>
-	
-	<subsubsection>
-<title>Introductory Activities</title>
-<activity xml:id="x_intro-waves">
-<title>Explore What You Already Know about Waves</title>
-<statement>
-	<p>
-		
-	</p>
-<p>You have probably already encountered waves in your everyday life.  Start by writing down a personal list of things you already know about or have observed about waves in your everyday life.</p>
-</statement>
-</activity>
-<activity>
-<title>Explore Transverse and Longitudinal Waves</title>
-<statement>
-	<p>
-		
-	</p>
-<p>Watch the two short videos demonstrating some basic wave behavior below.  Make a list of observations about each video.  Try to find both similarities and differences between the two kinds of waves.</p>
-</statement>
-</activity>
-<video youtube="g49mahYeNgc"><description>Transverse waves.</description></video>
-<video youtube="cV0aaiG_Jy8"><description>Longitudinal waves.</description></video>
-</subsubsection>
-		
-			<subsubsection>
-<title>What Are Waves?</title>
-</subsubsection>
+  <title>Wave Motion</title>
 
-<p>Watch the short video below introducing waves and wave pulses.</p>
+
+	<subsubsection>
+<title>Warm-up Activities</title>
+</subsubsection>
+<activity xml:id="x_intro-waves">
+<title>Explore What You Know</title>
+<statement>
+	<p>
 		
+	</p>
+<p>You have probably already encountered waves in your everyday life.  Start by writing down a short list of things you already know about or waves from your personal experience.</p>
+</statement>
+</activity>
+
+<activity>
+<title>Explore Different Kinds of Waves</title>
+<statement>
+	<p>
+		
+	</p>
+<p>Watch the two short videos demonstrating some basic wave behavior below.</p>
+<video youtube="g49mahYeNgc"><description>Transverse waves.</description></video>
+<video youtube="cV0aaiG_Jy8"><description>Longitudinal waves.</description></video>	
+<p>Make a list of observations about each video.  Try to find both similarities and differences between the two kinds of waves.</p>
+</statement>
+</activity>
+
+
+
 <corollary xml:id="vid-waves">
 	<title>Waves</title>
 	<statement><p></p>
 		<video youtube="YBq2YvzK9MU"><description>Introducing waves.</description></video>
 	</statement>
   </corollary>
+		
+<subsubsection>
+<title>Key Ideas</title>
+</subsubsection>
 
-  
-
-
-<observation>
-<title>Mechanical Waves</title>
-<p>A <alert>mechanical wave</alert> is an organized disturbance that travels through a <alert>medium</alert>. This medium could be air, water, a guitar string, or the fluid that makes up the outer core of the Earth. Any medium that can sustain a wave must have some elasticity which acts as a restoring force. As a wave disturbance propagates through a medium, the particles that make up the medium are displaced away from equilibrium and experience local oscillations. However, it is important to note that the particles in the medium <alert>do not</alert> travel with the wave. Instead, the elastic properties of the medium act to bring the particles back to equilibrium. 
-</p>
-
-<video youtube="iY5zhbtKLO8"><description>A water wave passing under a lily.  Droplets on the lily oscillate as the wave passes.</description></video>
-
-<!-- REMOVED TO SAVE SPACE
-    <figure xml:id="lily_wave">
-    	<caption>A water wave passing under a lily.  Droplets on the lily oscillate as the wave passes. </caption>
-    		<video source="wave/lily_wave.mp4" width = "100%" ></video>
-    </figure>
--->
-</observation>
+<definition xml:id="def-wave">
+	<title>Wave</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>
+			A wave is a <alert>propagating disturbance from equilibrium.</alert>
+		</p>
+	</statement>
+  </definition>
 
 <p> 
-A wave disturbance is created by a <alert> source </alert>: an external oscillation of the medium. This could be in the form of a finger plucking a string or a rock tossed into a pond. Once the medium has been disturbed, a wave propagates away from the source of that disturbance at a particular speed called the <alert> wave speed </alert>. The wave speed depends on the properties of the medium, and particularly, restoring forces provided by the elasticity of the medium such as tension in a plucked string or cohesion in water. 
+On its own, the word <q>wave</q> usually refers to a repeated disturbance, while the word <q>pulse</q> or <q>wave pulse</q> refers to a one-time disturbance that does not repeat.  Many waves are created by a <alert> source </alert> in the form of an external oscillation: this could be in the form of a finger plucking a string or a rock tossed into a pond.  In fact, it is worthwhile to contrast the definition of a wave with your previous definition for an <xref ref="def-oscillation"/>.
 </p>
 
+<p>
+	The quantities from oscillatory motion are still relevant for wave motion, namely:
+</p>
+	<ul>
+		<li>
+			<p>
+				<m>T</m>, the <xref ref="def-period-oscillation"/>
+			</p>
+		</li>
+		<li>
+			<p>
+				<m>f</m> and <m>\omega</m>, the <xref ref="def-angular-frequency"/>
+			</p>
+		</li>
+		<li>
+			<p>
+				<m>x_\text{max}</m>, the <xref ref="def-amplitude"/>
+			</p>
+		</li>
+	</ul>
+	<p>
+	A few new quantities will be introduced as you continue to explore more about waves.
+</p>
+
+<p>Most of the different waves you encounter are <alert>mechanical waves</alert>, which travel through a <alert>medium</alert> such as air, water, or a guitar string.  Any medium that can sustain a wave must have elasticity to act as a restoring force. As a wave propagates, the particles that make up the medium are displaced from equilibrium and experience local oscillations.  However, it is important to note that the particles in the medium <alert>do not</alert> travel with the wave.  Instead, the elastic restoring force returns the particles to equilibrium.  Although the medium is not traveling, the wave carries <alert> energy </alert> and <alert> momentum </alert> from point to point in the medium.
+</p>
+
+<note>
+	<title>Non-mechanical Waves</title>
+	<p>
+		There are, of course, waves that propagate without a medium.  The most prominent non-mechanical waves you will study are <alert>light waves!</alert>  Instead of acting as a disturbance in a medium, light waves are progagating oscillations in the electric and magnetic fields.  Importantly, the mathematics you will use to describe mechanical waves also work for other kinds of waves, including light waves!
+	</p>
+</note>
+
 <definition>
-<title>Transverse Waves</title>
+<title>Transverse Wave</title>
 <p>
 	
 </p>
 <p>
-A <alert> transverse wave </alert> is a wave in which the displacement of particles in the medium is perpendicular to the direction that the disturbance travels. The figure below shows a wave pulse traveling down a string. Note that the <em>source</em> of the pulse is the action of lifting the string from one end and moving it up and down. The particles in the string are displaced perpendicular to the direction that the wave pulse travels. 
+In a <alert>transverse wave</alert>, the displacement of the medium is <em>perpendicular</em> to the direction the disturbance travels.</p>
+
+<p>Below, an example wave pulse on a string travels to the right, but each part of the string moves up-down. Note that the <em>source</em> of the pulse is the action of lifting the string from one end and moving it up and down. The particles in the string are displaced perpendicular to the direction that the wave pulse travels. 
 </p>
 
 <figure xml:id="stringpulse">
 <title>Longitudinal Wave Figure</title>
     	<caption>A wave pulse that displaces particles in the string perpendicular to the direction of that the wave travels.</caption>
-    		<image source="wave/stringpulse.gif" width = "75%" ></image>
+    		<image source="wave/stringpulse.gif" width = "75%" >
+				<description>A bell-shaped wave pulse moves from left to right on a string.</description>
+			</image>
     </figure>
 </definition>
 
 <definition>
-<title>Longitudinal Waves</title>
+<title>Longitudinal Wave</title>
 <p>
 	
 </p>
 <p>
-A <alert> longitudinal wave </alert> is a wave in which the displacement of the medium is parallel to the direction that the disturbance travels. The figure below shows a wave pulse traveling in a fluid. The <em>source</em> is the action of initially forcing all the particles. Intermolecular attraction between molecules in the fluid restores the particles back to their original position after the wave pulse passes. 
+In a <alert> longitudinal wave </alert>, the displacement of the medium is <em>parallel</em> to the direction the disturbance travels.</p>
+
+<p>Below, an example wave pulse in a fluid travels to the right, and each particle moves left-right (three particles are highlighted to show their motion). The <em>source</em> is the action of initially forcing all the particles. Intermolecular attraction between molecules in the fluid restores the particles back to their original position after the wave pulse passes. 
  </p>
-
-<figure xml:id="wavepulse">
-<title>Transverse Wave Figure</title>
-
-
-    	<caption>A wave pulse that displaces particles in the fluid parallel to the direction of that the wave travels.</caption>
-    		<image source="wave/wavepulse.gif" width = "75%" ></image>
-    </figure>
-
-
-<p>
-In the figure below you can see a longitudinal wave passing through a medium. Three particles are highlighted to show the difference between motion of the wave and motion of the particles that make up the medium. You may ask, if the medium is not traveling with the disturbance, then what is traveling? A wave disturbance carries <alert> energy </alert> and <alert> momentum </alert> from point to point in the medium. 
-</p>
-
-<figure xml:id="DR_wave2">
-<title>Traveling Longitudinal Wave Figure</title>
+ <figure xml:id="DR_wave2">
+<title>Longitudinal Wave Figure</title>
 
 
     	<caption>A longitudinal wave passes through a medium. A single particle is highlighted in red to show the difference between motion of the wave and motion of particles in the medium. </caption>
-    		<image source="wave/DR_wave2.gif" width = "100%" ></image>
+    		<image source="wave/DR_wave2.gif" width = "100%" >
+				<description>A microscopic representation of air as scattered dots demonstrates a longitudinal sound wave moving from left to right.  Two molecules are colored red to demonstrate that they move in the same direction as the wave (left-right).</description>
+			</image>
     </figure>
-		
+<!--Don't need both figures-->
+<!--
+<figure xml:id="wavepulse">
+<title>Longitudinal Wave Figure</title>
+
+
+    	<caption>A wave pulse that displaces particles in the fluid parallel to the direction of that the wave travels.</caption>
+    		<image source="wave/wavepulse.gif" width = "75%" >
+				<description>A microscopic representation of air as scattered dots demonstrates a longitudinal sound wave moving from left to right.</description>
+			</image>
+    </figure>
+	-->		
 		</definition>
+
+		
+<!-- REMOVED TO SAVE SPACE
+
+<video youtube="iY5zhbtKLO8"><description>A water wave passing under a lily.  Droplets on the lily oscillate as the wave passes.</description></video>
+    <figure xml:id="lily_wave">
+    	<caption>A water wave passing under a lily.  Droplets on the lily oscillate as the wave passes. </caption>
+    		<video source="wave/lily_wave.mp4" width = "100%" ></video>
+    </figure>
+-->
+
 
 	
 	
@@ -129,14 +176,17 @@ In the figure below you can see a longitudinal wave passing through a medium. Th
 <p>Longitudinal pulse by Gorazd Planinsic, FMF UL.</p>
 </biblio>
 <biblio xml:id="ref_DR_wave">
-<p> Animations in <xref ref="wavepulse"></xref>, <xref ref="stringpulse"></xref> and <xref ref="DR_wave2"></xref> courtesy of Dr. Dan Russell, Grad. Prog. Acoustics, Penn State. licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. For more information see <url href="https://www.acs.psu.edu/drussell/demos.html"/>
+<p> Animations in <xref ref="stringpulse"></xref> and <xref ref="DR_wave2"></xref> courtesy of Dr. Dan Russell, Grad. Prog. Acoustics, Penn State. licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. For more information see <url href="https://www.acs.psu.edu/drussell/demos.html"/>
 </p>
 </biblio>
 </references>
 
 
-  
-
-	
+<!--NO AI-->
+<assemblage>
+	<p>
+		<em>Learning Introductory Physics with Activities</em> was made without large language models or generative AI.  It may not be used in the training of or included in the data for any large language model or generative AI without permission.
+	</p>
+</assemblage>
 </section>
 

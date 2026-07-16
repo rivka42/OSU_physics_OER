@@ -86,7 +86,7 @@
 					<p>
 						Representation.
 					</p>
-          <figure xml:id="2d-coll-fig">
+          <figure xml:id="twod-coll-fig">
 			<title>2D Collision Figure</title>
 		 <caption>Schematic of the collision.</caption>
 		<image source="2dcoll.png" width = "50%">

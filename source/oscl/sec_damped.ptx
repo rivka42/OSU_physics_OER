@@ -39,7 +39,7 @@ The <alert>damping constant </alert>, <m>b</m>, depends on the shape of the obje
     <p>
       The motion of an object or system subject to both a linear restoring force and a linear drag force can be described by:
 
-	  <me> x(t) = x_{\text{max}} e^{-bt/2m} \cos{(\omega_{d} t + \phi_o)}</me>
+	  <me> x(t) = x_{\text{max}} e^{-bt/2m} \cos{(\omega_{d} t + \phi_i)}</me>
       
 		The oscillation frequency is given by the following expression.
 
@@ -66,7 +66,7 @@ This can be rewritten entirely in terms of position and derivatives of position 
 
 This is the equation of motion for a damped mass on a spring. If you expect motion that is still oscillatory with an amplitude that decreases in time, you can guess a solution of the form:
 
-<men> x(t) = x_{\text{max}} e^{-bt/2m} \cos{(\omega_{d} t +\phi_o)}</men>
+<men> x(t) = x_{\text{max}} e^{-bt/2m} \cos{(\omega_{d} t +\phi_i)}</men>
 
 This function turns out to satisfy the differential equation above, with an oscillation frequency given by:
 

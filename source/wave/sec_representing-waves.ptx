@@ -2,11 +2,12 @@
 
 <section xml:id="representing-waves" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Representing Waves</title>
-			
-  	
-<p>A first step in building a <alert> wave model </alert> is to consider different representations (words, graphs, equations, <em>etc.</em>) to help describe the behaviors of waves.  While the figure below shows actual waves in time and space, simplified graphical representations will be more useful.
+	<!--I'm just not sure we need any of this setup-->
+  	<!--
+<p>A first step in building a <alert> wave model </alert> is to consider different representations (words, graphs, equations, <em>etc.</em>) to help describe the behaviors of waves.  Unlike the videos of actual waves you saw previously, here you will construct simplified graphical representations aimed at storing information that is both compact and useful.
 </p>
-
+-->
+<!--
 <figure xml:id="wave_source">
 <title>Wave Source Figure</title>
     	<caption>
@@ -14,7 +15,7 @@
 	</caption>
     	<image source="wave/wave_source.gif" width = "50%" ></image>
 </figure>	
-
+-->
 
 <subsubsection>
 <title>History Graphs</title>
@@ -23,11 +24,13 @@
 <p>When modeling the motion of point particles, you primarily used a <xref ref="rep_motion-graphs" text="title" /> to show, for example, the position of an object across many different instants in time.  This sort of graph can still be used to show the motion of <em>one position</em> in a medium over time.  This is known as a <alert>history graph</alert>.</p>
 
 <figure xml:id="snap_hist">
-<title>History Diagram Figure</title>
+<title>History Graph Figure</title>
     	<caption>
 	A graphical representation of a sinusoidal wave in time (holding space fixed).
 	</caption>
-    	<image source="wave/snap_hist.png" width = "100%" ></image>
+    	<image source="wave/snap_hist.png" width = "100%" >
+			<description>A history graph shows displacement of the medium in time at one point in space.  The displacement has amplitude A and period T measured from one crest to the next.</description>
+		</image>
 </figure>
 
 <conjecture xml:id="rep_history-graph">
@@ -36,7 +39,7 @@
 				<p>
 					
 				</p>
-				<p>A <term>history graph</term> is a graph of wave motion showing the position of a fixed part of a medium over time.</p>
+				<p>A <term>history graph</term> for wave motion shows the displacement of a fixed part of a medium over time.</p>
 			</statement>
 		</conjecture>
     
@@ -63,7 +66,9 @@ Alternatively, you can graph the displacement of the medium over space at a sing
     	<caption>
 	A graphical representation of a sinusoidal wave in space (holding time fixed).
 	</caption>
-    	<image source="wave/snap_hist2.png" width = "100%" ></image>
+    	<image source="wave/snap_hist2.png" width = "100%" >
+			<description>A snapshot graph shows displacement of the medium in space at one point in time.  The displacement has amplitude A and wavelength lambda measured from one crest to the next.</description>
+		</image>
 </figure>
 
 <conjecture xml:id="rep_snapshot-graph">
@@ -72,7 +77,7 @@ Alternatively, you can graph the displacement of the medium over space at a sing
 				<p>
 					
 				</p>
-				<p>A <term>snapshot graph</term> is a graph of wave motion showing the position of all parts of a medium at a fixed time.</p>
+				<p>A <term>snapshot graph</term> for wave motion shows the displacement of all parts of a medium at a fixed time.</p>
 			</statement>
 		</conjecture>
 
@@ -80,39 +85,115 @@ Alternatively, you can graph the displacement of the medium over space at a sing
 Now, the quantity of note is the <em>distance</em> spanned from one crest of the wave to the next, or the <alert> wavelength </alert>, symbolized by <m> \lambda </m>.
 </p>
 
-<observation>
-<title>Wavenumber</title>
-<p>
+<definition xml:id="def-wavelength">
+	<title>Wavelength</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>
+			The <term>wavelength</term> <m>\lambda</m> is the amount of distance for a wave to progress through one full cycle.
+		</p>
+	</statement>
+</definition>
+
+<definition xml:id="def-wavenumber">
+	<title>Wavenumber</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>
 Recall from simple harmonic motion the relationship between angular frequency, frequency, and period,
 
 <me> \omega = 2 \pi f = \frac{2 \pi}{T} </me> 
 
-Time is the physical quantity that connects angular frequency, frequency and period. There is an analogous spatial relationship between wavelength and a quantity called the <alert> wavenumber </alert> <m> k </m>:
+Time is the physical quantity described by angular frequency, frequency, and period. There is an analogous spatial relationship between wavelength and a quantity called the <alert>wavenumber</alert> <m>k</m>:
 
 <me> k = \frac{2 \pi}{\lambda} </me>
 
-The wavenumber represents the spatial frequency of a wave over a unit distance. 
+The wavenumber represents the spatial frequency of a wave over a unit distance, and is measured in radians per meter.
 </p>
-</observation>
+	</statement>
+</definition>
+
+<subsubsection>
+	<title>Wave Speed Relation</title>
+	
+</subsubsection>
+
+  <p>
+	A traveling wave propagates away from its source at a particular speed called the <alert> wave speed</alert>.  Since both the period <m>T</m> and the wavelength <m>\lambda</m> correspond to a single cycle of a wave, they may be combined as follows:
+	
+	<me> v = \mathrm{\frac{distance}{time}} = \frac{\lambda}{T} = \lambda f</me> 
+	
+	However, it is worth noting that wave speed is <alert>not determined</alert> by the frequency of the wavelength.  Instead, for mechanical waves, <alert> wave speed is a property of the medium's elasticity!</alert>  Combining this with knowledge of the <alert>frequency of the oscillating source</alert> allows you to determine the wavelength:
+
+<me> \lambda = \frac{v}{f} = \frac{\text{medium}}{\text{source}} </me>
+  </p>
+
+	<principle xml:id="law_wave-speed">
+	<title>Wave Speed</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>
+		
+	Wave speed, wavelength, and frequency are related as follows:
+
+<me> \lambda = \frac{v}{f}</me>
+
+<me> v = \lambda f</me>
+
+	In some cases, it is useful to represent <m>v</m> in terms of <m>k</m> and <m>\omega</m>
+
+	<me> v = \frac{\omega}{k}</me>
+</p>
+	</statement>
+	</principle>
 
 <subsubsection>
 <title>Activities</title>
 <activity>
 <title>Exploring Wavenumber</title>
-<p>
-	
-</p>
-<p>A friend tells you about a wave with wavenumber <m>k = \frac{4\pi}{7} \mathrm{~\frac{rad}{m}}</m>.  What is the wavelength of this wave?  What would the wavenumber be for a different wave with double the wavelength?</p>
+<introduction>
+	<p>
+		
+	</p>
+	<p>
+		A friend tells you about a wave with wavenumber <m>k = \frac{4\pi}{7} \mathrm{~\frac{rad}{m}}</m>.
+	</p>
+</introduction>
+<task>
+	<statement>
+		<p>What is the wavelength of this wave?</p>
+	</statement>
+</task>
+<task>
+	<statement>
+		<p>What would the wavenumber be for a different wave with double the wavelength?</p>
+	</statement>
+</task>
+<task>
+	<statement>
+		<p>
+			Make a sketch of both waves on the same axes.  Which kind of graph do you need to choose to show the difference between the two waves?
+		</p>
+	</statement>
+</task>
 </activity>
 		</subsubsection>
 		
 		
 <references>
+	<!--
 <biblio>
 <p>
 Gif image in <xref ref="wave_source"></xref> from Veritasium. <url href="https://www.youtube.com/watch?v=Iuv6hY6zsd0"/>
  </p>
 </biblio>
+-->
 
 <biblio>
 <p>

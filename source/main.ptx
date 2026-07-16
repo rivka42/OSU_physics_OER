@@ -55,6 +55,8 @@
 		<xi:include href="./ch-n_09_momentum.ptx" />
 		<xi:include href="./ch-n_10_modeling.ptx" />
 
+		<!--<xi:include href="./ch-interlude.ptx" />-->
+
 		<xi:include href="./ch-n_11_optics.ptx" />
 
 		<xi:include href="./ch-n_12_rotational.ptx" />
@@ -62,7 +64,7 @@
 		<xi:include href="./ch-n_14_inertia.ptx" />
 		<xi:include href="./ch-n_15_rot-el.ptx" />
 
-		<!--alttextbreak-->
+		<!--alttext: Need to do 16, 18-20, and 26-30-->
 
 		<xi:include href="./ch-n_16_oscillate.ptx" />
 		<xi:include href="./ch-n_17_waves.ptx" />
@@ -70,13 +72,13 @@
 		<xi:include href="./ch-n_19_physical-optics.ptx" />
 		<xi:include href="./ch-n_20_optical-applications.ptx" />
 
-		<xi:include href="./ch-n_20_charge-e-fields.ptx" />
-		<xi:include href="./ch-n_21_electric-force.ptx" />
-		<xi:include href="./ch-n_22_gauss.ptx" />
-		<xi:include href="./ch-n_23_elec-energ-poten.ptx" />
-		<xi:include href="./ch-n_24_equipotential-surf.ptx" />
+		<xi:include href="./ch-n_21_charge-e-fields.ptx" />
+		<xi:include href="./ch-n_22_electric-force.ptx" />
+		<xi:include href="./ch-n_23_gauss.ptx" />
+		<xi:include href="./ch-n_24_elec-energy-poten.ptx" />
+		<xi:include href="./ch-n_25_equipotential-surf.ptx" />
 
-		<xi:include href="./ch-n_25_circuits-intro.ptx" />
+		<xi:include href="./ch-n_26_circuits-intro.ptx" />
 		<!-- <xi:include href="./ch-n_26_circuits-resistors.ptx" /> -->
 		<xi:include href="./ch-n_27_circuits-capacitors.ptx" />
 		

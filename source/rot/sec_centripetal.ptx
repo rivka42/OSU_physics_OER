@@ -3,8 +3,64 @@
 <section xml:id="sec_centripetal" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Centripetal Acceleration</title>
 
+  <outcomes xml:id="adapting-model-rotation">
+	<title>Rotational Motion</title>
+	<ul>
+		<li>
+		<p>You will now begin adapting and applying your physics model for the motion of objects to a new situation.</p>
+	</li>
+	<li>
+		<p>
+			Throughout the rest of this chapter, you will start by exploring circular motion as an extension of the one- and two-dimensional motion you studied previously.
+		</p>
+	</li>
+	<li>
+		<p>
+			In upcoming chapters, you will explore how to adapt your techniques for using forces, integrals, energy, and momentum as well.
+		</p>
+	</li>
+</ul>
+</outcomes>
+
+  <subsubsection>
+	<title>Warm-up Activities</title>
+			
+			
+								<activity xml:id="x_intro-rotation">
+									<title>Exploration - Curved Road</title>
+						<statement>
+							<p>
+								
+							</p>
+							<p>Suppose you are in the right seat of a car driving along a curved road.  Use everyday language to explain what happens as the car is turning to the left along a curved road. In particular:</p>
+							<ol>
+							<li><p>What direction do you move relative to the car?</p></li>
+							<li><p>What direction do you move relative to the ground?</p></li>
+							<li><p>What do you feel as the car turns?</p></li>
+							</ol>
+						</statement>
+					</activity>
+					<activity>
+					<title>Prediction - Car Turning</title>
+					<p></p>
+					<p>A car moves counterclockwise at constant speed along the curved road shown below.</p>
+					<figure xml:id="rot_curved-road">
+			<title>Curved Road Figure</title>
+		 <caption>A car moving along a curved road.</caption>
+		<image source="CurvedPath.png" width = "20%">
+			<description>A top-view diagram of a road curving from the bottom of the screen to the top left.</description></image>
+  </figure>
+					<p>Choose an origin and coordinates and use them to sketch vectors you believe best represent the directions of the (a) instantaneous position, (b) instantaneous velocity, and (c) instantaneous acceleration of the car at the instant shown.  Explain how you predicted the direction of each vector.</p>
+					</activity>
+						<activity>
+					<title>Prediction - Car Slowing Down</title>
+					<p></p>
+					<p>Suppose the car in the previous activity were instead slowing down.  How if at all would you expect the three vectors to change?</p>
+					</activity>
+		</subsubsection>
+
   <p>
-	Recall your predictions from <xref ref="sec_models"/> and compare them to the solutions in the video below.
+	<alert>Compare your predictions to the solutions in the video below.</alert>
   </p>
 
       <corollary xml:id="vid-velocity-curved">
@@ -23,9 +79,7 @@
 	<activity xml:id="x_path-acceleration">
 		<title>Acceleration Direction</title>
 		<introduction>
-			<p>
-				
-			</p>
+			<p></p><p></p>
 			<p>The figure below shows four different instants (A-D) for a car moving clockwise along a curved path at constant speed.</p>
 	<figure xml:id="rot_centa">
 			<title>Curved Path Figure</title>
@@ -56,9 +110,7 @@
 				<activity xml:id="x_path-acceleration2">
 	<title>Acceleration Magnitude</title>
 	<introduction>
-		<p>
-			
-		</p>
+		<p></p><p></p>
 		<p>The figure below shows three identical cars, each moving around a circular track.  Cars A and B move at different constant speeds around tracks with the same radius.  Cars A and C move at the same speed around tracks with different radii.</p>
 		<figure xml:id="rot_centb">
 			<title>Curved Path Figure</title>

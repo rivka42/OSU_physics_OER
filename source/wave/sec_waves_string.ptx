@@ -13,7 +13,9 @@
     	<caption>
 	A series of connected molecules approximating a string.
 	</caption>
-    	<image source="Springs.png" width = "75%" ></image>
+    	<image source="Springs.png" width = "75%" >
+			<description>A horizontal row of small circles representing molecules, each separated by a representation of a spring.</description>
+		</image>
 </figure>	
 </introduction>
 <task>
@@ -61,7 +63,9 @@ depends on the tension that serves as a restoring force for the medium and the l
     	<caption>
 	A wave pulse passing through a string. The wave propagates with wave speed <m> v_{\text{string}}</m>.
 	</caption>
-    	<image source="wave/pulse.gif" width = "50%" ></image>
+    	<image source="wave/pulse.gif" width = "50%" >
+			<description>A bell-shaped pulse moves from left to right on a horizontal string.</description>
+		</image>
 </figure>	
 
 		
@@ -90,7 +94,9 @@ Indeed, the units are consistent.
     	<caption>
 	A wave pulse moves to the left.
 	</caption>
-    	<image source="WavePulse1.png" width = "75%" ></image>
+    	<image source="WavePulse1.png" width = "75%" >
+			<description>A horizontal string on a gridded background, with a wave pulse on the right moving to the left.  The pulse is serrated, with one 2-mm peak, a 1-mm valley, and a 3-mm peak.</description>
+		</image>
 </figure>	
 <activity>
 <title>Practice: Moving Wave Pulse</title>
@@ -103,7 +109,9 @@ Indeed, the units are consistent.
     	<caption>
 	The wave pulse has moved to the left.
 	</caption>
-    	<image source="WavePulse1_sol.png" width = "75%" ></image>
+    	<image source="WavePulse1_sol.png" width = "75%" >
+			<description>The peak from the previous image has moved 6 mm to the left.</description>
+		</image>
 </figure>	
 </answer>
 </activity>
