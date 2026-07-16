@@ -42,12 +42,16 @@
 		</p>
 	</activity>
 
+	<!--
+
  <corollary xml:id="vid-oscillations">
 	<title>Oscillations</title>
 	<statement><p></p>
 		<video youtube="YBq2YvzK9MU"><description>Introducing oscillations.</description></video>
 	</statement>
   </corollary>
+
+  -->
 
   <subsubsection>
 	<title>Key Ideas</title>
@@ -128,8 +132,9 @@
 
 
 <p>
-This most fundamental oscillatory motion, <em>simple harmonic motion</em>, can be described by a sine or cosine function.  More complicated oscillatory motion can be described either as a sum of sinusoidal functions or as a sinusoidal function multiplied by other functions such as exponential functions. 
+The most fundamental oscillatory motion, <em>simple harmonic motion</em>, can be described by a sine or cosine function.  More complicated oscillatory motion can be described either as a sum of sinusoidal functions or as a sinusoidal function multiplied by other functions such as exponential functions. 
 </p>
+
 
 <!--
 <p> 

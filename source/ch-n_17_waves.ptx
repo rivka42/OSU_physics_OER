@@ -27,15 +27,19 @@
 
 		<!--PREPARE SECTIONS-->
     <xi:include href="./wave/sec_representing-waves.ptx" /> 
-    <xi:include href="./wave/sec_sinusoidal_waves.ptx" /> 
-    <xi:include href="./wave/sec_waves_string.ptx" />
+    <xi:include href="./wave/sec_sinusoidal-waves.ptx" />
+ 
 
     <!--PRACTICE SECTIONS-->
-    <xi:include href="./wave/sec_waves_fluid.ptx" /> 
-    <xi:include href="./wave/sec_intensity.ptx" /> 
-    <xi:include href="./wave/sec_loudness.ptx" /> 
+    <xi:include href="./wave/sec_traveling-waves.ptx" />  
+    <xi:include href="./wave/sec_waves-string.ptx" />
+    <xi:include href="./wave/sec_waves-fluid.ptx" /> 
+    <xi:include href="./wave/sec_representing-sound.ptx" />
     <xi:include href="./wave/sec_doppler.ptx" />
     <xi:include href="./wave/sec_doppler2.ptx" />
+    <xi:include href="./wave/sec_intensity.ptx" /> 
+    <xi:include href="./wave/sec_loudness.ptx" /> 
+    
 
     <xi:include href="./wave/sec_wave-practice.ptx" />
     

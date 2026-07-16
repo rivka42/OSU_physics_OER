@@ -6,9 +6,7 @@
 
 			
 <p>
-The <alert>small-angle approximation</alert> is used to approximate the values of the main trigonometric functions when the angles involved are restricted to a certain domain. 
-
-Any function can be expanded into an infinite sum of polynomials. This is called a series expansion. Consider a series expansion (Taylor Series) of the sine and cosine functions:
+	Most functions can be expanded into an infinite sum of polynomials for the purpose of approximating them (his is called a series expansion).  The full series expansions for sine and cosine when the angle is close to <m>\theta = 0</m> are:
 
 <me> \sin(\theta) = \sum^\infty_{n=0} \frac{(-1)^n}{2n+1}\theta^{2n+1} = \theta - \frac{\theta^3}{3!}+\frac{\theta^5}{5!} -\frac{\theta^7}{7!}-....</me>
 
@@ -63,7 +61,7 @@ We should always take time to think about and determine the error associated wit
 		</statement>
 		<hint>
 			<p>
-				Don't forget to convert to radians!
+				Remember to convert to radians!
 			</p>
 		</hint>
 		<answer>
@@ -73,7 +71,7 @@ We should always take time to think about and determine the error associated wit
 					\cos{30^o} = \frac{\sqrt{3}}{2} \approx 0.866
 				</me>
 				<me>
-					\cos{30^o} \apprix 1 - \frac{(\pi/6)^2}{2!} \approx 0.863
+					\cos{30^o} \approx 1 - \frac{(\pi/6)^2}{2!} \approx 0.863
 				</me>
 				The percent difference is <me>\frac{0.863 - 0.866}{0.866} \approx -0.36\%</me>
 				Here the negative indicates that the approximation is <em>smaller</em> than the true value of cosine.

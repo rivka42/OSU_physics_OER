@@ -4,7 +4,7 @@
   <title>Damped Harmonic Motion</title>
 			
  <p>
-The models you have built for simple harmonic motion have not included dissipative forces such as friction or drag. You know from experience that a pendulum left to oscillate will lose energy. The amplitude decreases in time until all energy has been dissipated and the system comes to rest. An oscillation whose amplitude decreases in time is called a <alert> damped oscillation</alert>.
+The model for <xref ref="assumption-shm"/> does not include dissipative forces such as friction or drag. You know from experience that a pendulum left to oscillate will lose energy. The amplitude decreases in time until all energy has been dissipated and the system comes to rest. An oscillation whose amplitude decreases in time is called a <alert> damped oscillation</alert>.
  </p>
  
  <figure xml:id="Damped_spring">

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="traveling_waves" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Traveling Waves</title>
+			
+  	<subsubsection>
+		<title>Activities</title>
+		
+		<activity>
+			<title>Generating a Wave</title>
+			<statement>
+				<p>
+					
+				</p>
+				<p>
+					A string is tied to a mass on a spring. The mass oscillates 5 times each second, getting as far as <m>8.0 \mathrm{~cm}</m> from equilibrium, generating a wave on the string whose crests are separated by <m>7.2 \mathrm{~m}</m>.  Find the following:
+				</p>
+				<ol marker="a)">
+					<li>
+						<p>
+							Wavelength
+						</p>
+					</li>
+					<li>
+						<p>
+							Amplitude
+						</p>
+					</li>
+					<li>
+						<p>
+							Period
+						</p>
+					</li>
+					<li>
+						<p>
+							Frequency
+						</p>
+					</li>
+					<li>
+						<p>
+							Wave speed
+						</p>
+					</li>
+					<li>
+						<p>
+							Initial phase
+						</p>
+					</li>
+					<li>
+						<p>
+							An equation for the displacement of the string as a function of <m>x</m> and <m>t</m>
+						</p>
+					</li>
+				</ol>
+			</statement>
+			
+		</activity>
+		<activity>
+			<title>Three Waves</title>
+			<introduction>
+			<p>
+				
+			</p>
+			<p>
+				You create three waves on three identical strings that have the same period <m>T</m>, but they start at a maximum displacement at different times: <m>y_{\text{max}}</m> occurs at <m>t=0</m> for wave 1, at <m>t=T/6</m> for wave 2, and at <m>t=5T/6</m> for wave 3.
+			</p>
+			</introduction>
+			<task>
+				<statement>
+					<p>
+						Sketch a history graph of each wave (displacement vs. time).
+					</p>
+				</statement>
+			</task>
+			<task>
+				<statement>
+					<p>
+						Sketch a snapshot graph of each wave at <m>t=T/6</m> (displacement vs. position).
+					</p>
+				</statement>
+			</task>
+			<task>
+				<statement>
+					<p>
+						Write an equation for each wave.
+					</p>
+				</statement>
+			</task>
+		</activity>
+
+		<activity>
+			<title>Leaf on a Lake</title>
+			<introduction>
+				<p>
+					
+				</p>
+				<p>
+					You are watching a leaf bobbing up and down on the surface of a lake (both above and below the surface of the water).  You measure the leaf's highest point above the surface of the water to be <m>12 \mathrm{~cm}</m>.  After <m>3 \mathrm{~s}</m>, the leaf returns to its highest point above the surface of the water. 
+				</p>
+			</introduction>
+			<task>
+				<statement>
+					<p>
+						Write an equation for the position of the leaf as a function of time.
+					</p>
+				</statement>
+			</task>
+			<task>
+				<statement>
+					<p>
+						What is the leaf's highest speed during its motion?
+					</p>
+				</statement>
+			</task>
+			<task>
+				<statement>
+					<p>
+						Find all the instants in time when the leaf has this speed.
+					</p>
+				</statement>
+			</task>
+			<task>
+				<statement>
+					<p>
+						How do you think you could use your equation for the position of the leaf to write an equation for the vertical displacement of the water a distance <m>x</m> away from the leaf?  Try writing such an equation!
+					</p>
+				</statement>
+			</task>
+			<task>
+				<statement>
+					<p>
+						Start the following <url href="https://beav.es/N7q">simulation</url>.
+						</p>
+						<ol>
+							<li>
+								<p>
+									Explore each of the three tabs.  Make a list of your observations as you go.
+								</p>
+							</li>
+							<li>
+								<p>
+									In the water tab, what do you think would happen if you placed a leaf on the surface of the water near the right edge of the tank?  Draw a displacement vs. time graph (like those provided in the simulation) for the leaf.
+								</p>
+							</li>
+							<li>
+								<p>
+									How does each experiment change if you change the frequency?  Explain briefly.
+								</p>
+							</li>
+							<li>
+								<p>
+									How does each experiment change if you change the amplitude? Explain briefly. (You may want to turn your sound on.)
+								</p>
+							</li>
+						</ol>
+				</statement>
+			</task>
+		</activity>
+
+	</subsubsection>
+
+		
+</section>
+

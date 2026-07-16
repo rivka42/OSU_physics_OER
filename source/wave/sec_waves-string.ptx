@@ -71,10 +71,42 @@ depends on the tension that serves as a restoring force for the medium and the l
 		
 <subsubsection>
 <title>Activities</title>
+
+<activity>
+<title>Sensemaking: Covariational Reasoning</title>
+<statement>
+	<p>
+		
+	</p>
+<p>
+How, if at all, does the speed of the wave depend on each of the following?  
+</p>
+<ol>
+	<li>
+		<p>
+			The amplitude of the wave
+		</p>
+	</li>
+	<li>
+		<p>
+			The frequency of the wave
+		</p>
+	</li>
+	<li>
+		<p>
+			The properties of the medium through which the wave is traveling
+		</p>
+	</li>
+</ol>
+</statement>
+</activity>
 	
 <activity>
 <title>Sensemaking: Units of wave speed</title>
 <statement>
+	<p>
+		
+	</p>
 <p>
 Explicitly check the units of <m> v_{\text{string}} </m> to confirm its relationship holds.  
 </p>
@@ -88,6 +120,7 @@ Indeed, the units are consistent.
 </p>
 </answer>
 </activity>
+
 <p>The diagram below shows a wave pulse at <m>t = 0</m> moving to the left on a string with wave speed 2 mm/s.  Each grid box represents 1 mm.</p>
 <figure xml:id="wavepulse1">
 			  <title>Wave Pulse Figure</title>
@@ -101,6 +134,9 @@ Indeed, the units are consistent.
 <activity>
 <title>Practice: Moving Wave Pulse</title>
 <statement>
+	<p>
+		
+	</p>
 <p>Sketch the wave pulse at <m>t = 3 \text{ s}</m>.</p>
 </statement>
 <answer>
@@ -115,6 +151,60 @@ Indeed, the units are consistent.
 </figure>	
 </answer>
 </activity>
+
+<activity>
+	<title>Comparing Waves</title>
+	<introduction>
+		<p>
+			
+		</p>
+		<p>
+			Assume all the waves below have the same amplitude.  Make all graphs below by hand (without a graphing calculator).
+		</p>
+	</introduction>
+	<task>
+		<statement>
+			<p>
+				Sketch two waves that have different frequencies. What kind of graph (history or snapshot) would you want to draw?
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Sketch two waves that have different wavelengths. What kind of graph (history or snapshot) would you want to draw?
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Sketch two waves with the same frequency and the same wavelength but different phases. What kind of graph (history or snapshot) would you want to draw?
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Which waves do you think would be easiest to add together?
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Explain why you agree or disagree with each of the following statements:
+				</p>
+				<p>
+					1: <q>Two waves that have the same frequency, wavelength, and amplitude will always look the same when you graph them.</q>
+				</p>
+				<p>
+					2: <q>If two waves have different phases, they will start at different points in their cycle even if they have the same shape.</q>
+			</p>
+		</statement>
+	</task>
+</activity>
+
 </subsubsection>
 
 

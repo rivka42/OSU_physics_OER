@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_representing-sound" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Representing Sound Waves</title>
+		
+
+    <subsubsection>
+      <title>Activities</title>
+      
+    </subsubsection>
+
+  <activity>
+    <title>Two-dimensional Waves</title>
+    
+    <introduction>
+      <p>
+        
+      </p>
+      <p>
+  Unlike waves on a string, which can typically be represented as one-dimensional, sound waves travel in three dimensions.  If the sound comes from a small enough source, called a point source, then a sound wave may be represented as a spherical wave, with the center of the wave located at the point source.
+</p>
+    </introduction>
+    <task>
+      <statement>
+        <p>
+          Make a sketch of a sound wave in the space below, including the location of the source.  What choices did you have to make while making your sketch?  What are the limitations of representing a wave like this?
+        </p>
+      </statement>
+      <answer>
+        <figure xml:id="fig_2dwave1">
+<title>Stationary 2D Wave</title>
+    	<caption>
+	A representation of a 2D wave where each solid line represents a wave crest.
+	</caption>
+    	<image source="Doppler.png" width = "50%" >
+			<description>Five increasingly larger concentric circles.</description>
+		</image>
+</figure>
+      </answer>
+    </task>
+    <task>
+      <statement>
+        <p>
+          The figure in the answer to the previous task shows a periodic circular wave, where each circle represents a wave crest, created by a stationary point source.
+        </p>
+        <ol>
+          <li>
+            <p>
+              What feature of the figure tells you that this is a periodic wave?
+            </p>
+          </li>
+          <li>
+            <p>
+              How does the shape of the circular wave change as time moves forward?  What happens to each crest?  Explain your reasoning.
+            </p>
+          </li>
+          <li>
+            <p>
+              How would the figure look different if you sketched the wave again after half a period had passed?  A full period?
+            </p>
+          </li>
+          <li>
+            <p>
+              Would it be reasonable to use a figure like this to represent a spherical wave?  Justify your answer.
+            </p>
+          </li>
+          <li>
+            <p>
+              Where is the source of the wave located?  Mark it on the figure.
+            </p>
+          </li>
+          <li>
+            <p>
+              Mark the wavelength of this wave and estimate its value.
+            </p>
+          </li>
+          <li>
+            <p>
+              What feature of the graph tells you that the source of the waves is not moving?  Explain your reasoning.
+            </p>
+          </li>
+          <li>
+            <p>
+              Suppose the source of the waves were moving to the right.  How do you think the figure would need to change to represent this motion?  Sketch an example.
+            </p>
+          </li>
+        </ol>
+      </statement>
+    </task>
+    <task>
+      <statement>
+        <p>
+          The figure below shows a periodic circular wave, where each circle represents a wave crest, created by a moving point source.
+        </p>
+        <figure xml:id="fig_2dwave2">
+<title>Moving 2D Wave</title>
+
+
+    	<caption>
+	A representation of a 2D wave where each solid line represents a wave crest.
+	</caption>
+    	<image source="Doppler2.png" width = "50%" >
+			<description>Five increasingly larger circles, their centers moving to the left.</description>
+		</image>
+</figure>
+<ol>
+  <li>
+    <p>
+      	Which wave crest was made at the earliest moment in time?  Mark the position where the source was located at the instant that wave crest was created.
+    </p>
+  </li>
+  <li>
+    <p>
+      Which wave crest was made at the latest moment in time?  Mark the position where the source was located at the instant that wave crest was created.
+    </p>
+  </li>
+  <li>
+    <p>
+      What direction is the point source moving?  How can you tell?
+    </p>
+  </li>
+  <li>
+    <p>
+      Suppose you were located to the right of the figure.  Is the source of the wave moving toward you or away from you?  For you, are the wave crests spaced evenly or unevenly?  How can you tell?  For you, is the wavelength bigger or smaller than the wavelength you found for the first figure?  What about the frequency?
+    </p>
+  </li>
+  <li>
+    <p>
+      Suppose instead you were located to the left of the figure.  Is the source of the wave moving toward you or away from you?  For you, are the wave crests spaced evenly or unevenly?  How can you tell?  For you, is the wavelength bigger or smaller than the wavelength you found for the first figure?  What about the frequency?
+    </p>
+  </li>
+</ol>
+      </statement>
+    </task>
+    
+  </activity>
+
+
+	
+</section>
+

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_EOM" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Simple Harmonic Motion Model</title>
+  <title>Model: Simple Harmonic Motion</title>
 			
  <p>
 You can formalize the process for the block on a spring into a <em> physical model </em> for simple harmonic motion that can be used generally for any oscillating system where the <alert>restoring force is directly proportional to the displacement</alert> or can be approximated in such a way as to be directly proportional. If this condition is true, the motion will be simple harmonic motion around the equilibrium position. Additionally, the frequency and period of the motion will be independent of the amplitude of the oscillation. 
@@ -9,17 +9,17 @@ You can formalize the process for the block on a spring into a <em> physical mod
 
 <p> Consider a general position function <m>s(t)</m> and an <alert> equation of motion</alert> which can be written in the form:
 
-<men xml:id="HM_model"> \frac{d^2}{dt^2} s(t) = -C s(t)</men>
+<me xml:id="HM_model"> \frac{d^2}{dt^2} s(t) = -C s(t)</me>
 
-where <m> C</m> can be any collection of constants. If you can write the equation of motion in this form, then you can immediately determine the angular frequency and period of the oscillation, 
+where <m> C</m> can be any collection of constants. If you can write the equation of motion in this form, then you can immediately determine the angular frequency and period of the oscillation:
 
-<men xml:id="HM_model2"> \omega = \sqrt{C} = \frac{2 \pi}{T}</men>
+<me xml:id="HM_model2"> \omega = \sqrt{C} = \frac{2 \pi}{T}</me>
 
-Additionally, the function that <m> solves </m> the differential equation will always be a position function that oscillates in time about <m>s = 0</m>
+Additionally, the function that <m> solves </m> the differential equation will always be a position function that oscillates in time about <m>s = 0</m>:
 
-<me> s(t) = A \cos( \omega t + \phi_i)</me>
+<me> s(t) = s_{\text{max}} \cos( \omega t + \phi_i)</me>
 
-Where <m>A</m> and <m> \phi_i</m> are determined from the initial conditions of the oscillator. 
+Where <m>s_{\text{max}}</m> and <m> \phi_i</m> are determined from the initial conditions of the oscillator. 
 </p>
 
 <p> This is a powerful <alert>model of simple harmonic motion</alert> that can predict subsequent motion of many oscillating systems. However, models have their limitations. This model fails if the restoring force is <em> nonlinear</em>, meaning that it is not directly proportional to the displacement. 
@@ -31,11 +31,11 @@ Where <m>A</m> and <m> \phi_i</m> are determined from the initial conditions of 
     <p>
     </p>
     <p>
-      Any object or system described by an equation of motion satisfying the equation 
+      Any object or system described by an equation of motion satisfying:
       <me> \frac{d^2}{dt^2} s(t) = -\omega^2 s(t)</me>
       can be represented using <term>simple harmonic motion</term> as 
       <me>
-        s(t) = A \cos( \omega t + \phi_i)
+        s(t) = s_{\text{max}} \cos( \omega t + \phi_i)
       </me>
       
     </p>

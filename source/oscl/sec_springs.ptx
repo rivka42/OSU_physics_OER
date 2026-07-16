@@ -3,6 +3,9 @@
 <section xml:id="sec_springs" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Block on a Spring</title>
 	
+
+<!--
+
 		<activity>
 	<title>Warm-up</title>
 	<introduction>
@@ -25,6 +28,8 @@
 	</p>
 </task>
 </activity>
+
+-->
 	
 	<corollary xml:id="vid-block-spring">
 	<title>Block on a Spring</title>
@@ -152,7 +157,7 @@ Since the oscillation frequency depends solely on the physical characteristics o
 		</answer>
 		</activity>
 		
-			
+			<!--
 				<activity>
 		<title>Exploring Vertical Oscillations</title>
 		<statement>
@@ -163,6 +168,8 @@ Since the oscillation frequency depends solely on the physical characteristics o
 		</p>
 		</statement>
 		</activity>
+
+		-->
 
 		</subsubsection>
 

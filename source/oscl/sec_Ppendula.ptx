@@ -25,7 +25,7 @@ Note that this analysis will only provide an accurate predictive model when the 
 
 <men xml:id="PpendulumE"> \frac{d^2}{dt^2}\theta(t)=-\frac{MgL}{I} \theta(t)</men>
 
-The equation of motion is in the form of equation <xref ref="HM_model" text='type-global'></xref> and so you can directly determine the oscillation frequency and period of the system.
+The equation of motion is in the <xref ref="assumption-shm"></xref> Model and so you can directly determine the oscillation frequency and period of the system.
 
  <men xml:id="PpendulumE2"> \omega=\sqrt{\frac{MgL}{I}}= \frac{2 \pi}{T}</men>
  

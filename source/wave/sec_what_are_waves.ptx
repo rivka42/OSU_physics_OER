@@ -5,8 +5,9 @@
 
 
 	<subsubsection>
-<title>Warm-up Activities</title>
+<title>Warm-up Activity</title>
 </subsubsection>
+
 <activity xml:id="x_intro-waves">
 <title>Explore What You Know</title>
 <statement>
@@ -16,6 +17,8 @@
 <p>You have probably already encountered waves in your everyday life.  Start by writing down a short list of things you already know about or waves from your personal experience.</p>
 </statement>
 </activity>
+
+<!--
 
 <activity>
 <title>Explore Different Kinds of Waves</title>
@@ -29,6 +32,8 @@
 <p>Make a list of observations about each video.  Try to find both similarities and differences between the two kinds of waves.</p>
 </statement>
 </activity>
+
+-->
 
 
 
@@ -60,7 +65,7 @@ On its own, the word <q>wave</q> usually refers to a repeated disturbance, while
 </p>
 
 <p>
-	The quantities from oscillatory motion are still relevant for wave motion, namely:
+	The following quantities from oscillatory motion are still relevant for wave motion:
 </p>
 	<ul>
 		<li>

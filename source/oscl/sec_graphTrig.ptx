@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_graphTrig" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Graphical Trigonometry</title>
+  <title>Representing Oscillations</title>
 	<p>
 The general form for the position of a system undergoing simple harmonic motion is a sinusoidal function of time. 
 </p>
 
 <p> 
-<men xml:id="pos_HM">\vec{x}(t) = \vec{x}_o + x_{\text{max}} \cos \left(\frac{2\pi t}{T} + \phi_i\right)\hat{x}</men>
+<me xml:id="pos_HM">\vec{x}(t) = \vec{x}_o + x_{\text{max}} \cos \left(\frac{2\pi t}{T} + \phi_i\right)\hat{x}</me>
 </p>
 
 <p>
@@ -46,7 +46,7 @@ Here, the notation <m> \vec{x}(t)</m> indicates that the position <m>\vec{x}</m>
 			The <term>frequency</term> is the number of cycles completed during each second. Since period <m>T</m> represents the time it takes to complete one cycle, period and frequency have an inverse relationship. 
 		</p>
 		<p>
-<men> f = \frac{1}{T}</men>
+<me> f = \frac{1}{T}</me>
 </p>
 	</statement>
 </definition>
@@ -60,7 +60,7 @@ Here, the notation <m> \vec{x}(t)</m> indicates that the position <m>\vec{x}</m>
 	</p>
 	<p>
 Recall that a particle in uniform circular motion has an angular speed <m>\omega</m> related to the period of motion by 
-<men>\omega= \frac{2 \pi}{T}</men> 
+<me>\omega= \frac{2 \pi}{T}</me> 
 
 This relation holds true in simple harmonic motion. When describing oscillatory motion, <m> \omega </m> is called the <alert> angular frequency</alert> rather than angular velocity. The physical units of <m>\omega</m> are given in rad/s. Note that since radians are a dimensionless unit, often the rad is dropped for the SI units when <m>\omega</m> is used together with other quantities. Most of the symbolic work you will do when representing oscillations will be done in terms of the angular frequency <m>\omega</m>, rather than the ordinary frequency <m>f</m>. 
 </p>
@@ -87,6 +87,8 @@ The initial phase can be found by looking at where in its cycle the cosine funct
 </p>
 </solution>
 </activity>
+
+<!--
 		
 		<activity>
 		<title>Physical Units</title>
@@ -115,12 +117,14 @@ The initial phase can be found by looking at where in its cycle the cosine funct
 		<p>It is often useful to represent oscillatory motion in terms of the period <m>T</m>, the frequency <m>f</m> or the angular frequency <m>\omega</m>. Write the relationship between angular frequency, period, and frequency. </p>
 		</statement>
 		<answer> 
-			<!--
-		<p>We can write a relation between period <m>T</m>, frequency <m>f</m>, and angular frequency <m>\omega</m> as follows:</p>
-		-->
-		<men> \omega = 2 \pi f = \frac{2 \pi}{T} </men>
+			
+		<p>You can write a relation between period <m>T</m>, frequency <m>f</m>, and angular frequency <m>\omega</m> as follows:</p>
+		
+		<me> \omega = 2 \pi f = \frac{2 \pi}{T} </me>
 		</answer>
 		</activity>
+
+		-->
 				
 		<activity>
 		<title>Exploring the Position Function</title>
@@ -128,7 +132,7 @@ The initial phase can be found by looking at where in its cycle the cosine funct
 			<p>
 				
 			</p>
-		<p>It is often useful to be able to represent the position function in terms of the period <m>T</m>, the frequency <m>f</m> or the angular frequency <m>\omega</m>. Rewrite equation <xref ref="pos_HM" text='type-global'></xref> in terms of the frequency <m>f</m> and the angular frequency <m>\omega</m>.</p>
+		<p>It is often useful to be able to represent the position function in terms of the period <m>T</m>, the frequency <m>f</m> or the angular frequency <m>\omega</m>. Rewrite the position equation in terms of the frequency <m>f</m> and the angular frequency <m>\omega</m>.</p>
 		</statement>
 		<answer>
 		<p>You can write the position relationship as follows:</p>
