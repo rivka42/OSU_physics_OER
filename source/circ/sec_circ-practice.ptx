@@ -21,7 +21,8 @@
 			<statement><p></p>
 				<figure xml:id="fig-circuit_1">
 					<caption>Circuit diagram. The top and bottom circuits are identical, apart from an extra wire connecting around lightbulb C in the bottom diagram.</caption>
-					<image source="circ/circuit-1.png" width = "40%" ></image>
+					<image source="circ/circuit-1.png" width = "40%" >
+					<description>Top: A circuit diagram with a battery on the left, bulbs A and D on the top, bulbs B and C on a branch extending downward from between A and D, and an extra wire extending downward past bulb D.  Below: An otherwise identical circuit diagram with an extra wire connecting the two ends of bulb C directly.</description></image>
 				</figure>
 				<p>
 					The circuit shown on top in the image above has four identical light bulbs and an ideal battery.
@@ -123,7 +124,8 @@
 		<figure xml:id="os-junction">
 			<title>Junction</title>
 			<caption>Junction with three incoming current branches.</caption>
-			<image source="circ/junction.jpg" width = "50%" ></image>
+			<image source="circ/junction.jpg" width = "50%" >
+			<description>Current I2 moving to the right, I1 moving down, and I3 moving to the left.</description></image>
 		</figure>
 		<exploration>
 			<title>Junction</title>
@@ -142,7 +144,8 @@
 		<figure xml:id="bs-current-voltage">
 			<title>Current versus Voltage</title>
 			<caption>Current versus voltage graph.</caption>
-			<image source="circ/current-vs-voltage.png" width = "50%" ></image>
+			<image source="circ/current-vs-voltage.png" width = "50%" >
+			<description>A graph of current vs voltage that starts at the origin and increases linearly.</description></image>
 		</figure>
 
 		<exploration>
@@ -176,7 +179,8 @@
 		<figure xml:id="bs-circuit-11">
 			<title>Circuit Diagram</title>
 			<caption>Circuit diagram.</caption>
-			<image source="circ/circuit-11.png" width = "50%" ></image>
+			<image source="circ/circuit-11.png" width = "50%" >
+			<description>A circuit diagram with a battery, R1, and R2 in series.</description></image>
 		</figure>
 
 		<exploration>
@@ -223,7 +227,8 @@
 		<figure xml:id="bs-circuit-12">
 			<title>Circuit Diagram</title>
 			<caption>Circuit diagram.</caption>
-			<image source="circ/circuit-12.png" width = "50%" ></image>
+			<image source="circ/circuit-12.png" width = "50%" >
+			<description>A circuit diagram with a battery on the left, a downward branch with 25 Ohms, a rightward branch with 15 Ohms, another downward branch with 15 Ohms, and a final leftward branch with 20 Ohms.</description></image>
 		</figure>
 
 		<exploration>
@@ -274,7 +279,8 @@
 		<figure xml:id="bs-circuit-13">
 			<title>Circuit Diagram</title>
 			<caption>Circuit diagram.</caption>
-			<image source="circ/circuit-13.png" width = "50%" ></image>
+			<image source="circ/circuit-13.png" width = "50%" >
+			<description>A 12 V battery connected to a 15 Ohm resistor, a parallel network of two five Ohm resistors, and an eight Ohm resistor.</description></image>
 		</figure>
 
 		<exploration>
@@ -331,7 +337,8 @@
 		<figure xml:id="bs-circuit-14">
 			<title>Circuit Diagram</title>
 			<caption>Circuit diagram.</caption>
-			<image source="circ/circuit-14.png" width = "50%" ></image>
+			<image source="circ/circuit-14.png" width = "50%" >
+			<description>A circuit diagram with three vertical branches, from left to right: VA, R3, VB.  The upward horizontal wires contain, from left to right, R1 and R2.</description></image>
 		</figure>
 
 		<exploration>
@@ -354,7 +361,8 @@
 		<figure xml:id="bs-circuit-segment">
 			<title>Circuit Segment</title>
 			<caption>Circuit segment.</caption>
-			<image source="circ/circuit-segment.png" width = "50%" ></image>
+			<image source="circ/circuit-segment.png" width = "50%" >
+			<description>A vertical portion of a circuit diagram: four parallel resistors of 4, 4, 2, and 4 Ohms, followed by another two parallel resistors of 4 and 2 Ohms.</description></image>
 		</figure>
 
 		<exploration>

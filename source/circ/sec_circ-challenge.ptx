@@ -17,7 +17,8 @@
 		<statement><p></p>
 			<figure xml:id="fig-circuit_2">
 				<caption>Circuit diagram.</caption>
-				<image source="circ/circuit-2.png" width = "40%" ></image>
+				<image source="circ/circuit-2.png" width = "40%" >
+				<description>A circuit diagram with a battery on the left.  On the right, a branch with bulb A in series with a parallel network of bulbs B and C, in series with bulb D.</description></image>
 			</figure>
 			<p>
 				The circuit above shows four identical bulbs connected to an ideal battery. The switch is initially closed.
@@ -47,7 +48,8 @@
 		<statement><p></p>
 			<figure xml:id="fig-circuit_3">
 				<caption>Circuit diagram.</caption>
-				<image source="circ/circuit-3.png" width = "40%" ></image>
+				<image source="circ/circuit-3.png" width = "40%" >
+				<description>A circuit diagram with three batteries in series on the left.  The first vertical branch contains bulbs A and B in series.  The next vertical branch contains bulb C in series with a parallel network of bulb D and bulbs E and F in series.</description></image>
 			</figure>
 			<p>
 				Rank the light bulbs shown above according to brightness. If any bulb does not light, or if you do not have enough information, state so explicitly. 

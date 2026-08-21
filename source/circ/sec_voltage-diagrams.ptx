@@ -24,8 +24,9 @@
 
 	<figure xml:id="fig-voltage_diagram">
 		<title>Voltage Diagram Example</title>
-		<caption>A basic circuit along and it's associated voltage diagram. Two points, A and B, are defined between circuit elements. Voltage increases moving clockwise from point A to point B, then decreases by the same amount from B to A.</caption>
-		<image source="circ/voltage-diagram.png" width = "100%" ></image>
+		<caption>A basic circuit along and its associated voltage diagram. Two points, A and B, are defined between circuit elements. Voltage increases moving clockwise from point A to point B, then decreases by the same amount from B to A.</caption>
+		<image source="circ/voltage-diagram.png" width = "100%" >
+		<description>Left: a battery and a circuit element connected by wires labeled A and B.  Right: A graph of voltage, with 0 at point A, +Vbat at point B.</description></image>
 	</figure>
 
 	<p>
