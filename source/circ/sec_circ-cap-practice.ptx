@@ -21,7 +21,8 @@
 			<statement><p></p>
 				<figure xml:id="fig-circuit_4">
 					<caption>Circuit diagram.</caption>
-					<image source="circ/circuit-4.png" width = "40%" ></image>
+					<image source="circ/circuit-4.png" width = "40%" >
+					<description>A circuit diagram with three vertical branches, from left to right: a battery, bulb 11, and bulbs 12 and another battery in series.</description></image>
 				</figure>
 				<p>
 					Recall the circuit from class, reproduced above. Suppose batteries A and B are not identical. 
@@ -70,7 +71,8 @@
 			<statement><p></p>
 				<figure xml:id="fig-circuit_5">
 					<caption>Circuit diagram.</caption>
-					<image source="circ/circuit-5.png" width = "40%" ></image>
+					<image source="circ/circuit-5.png" width = "40%" >
+					<description>A circuit diagram with three vertical branches, from left to right: battery C, bulb 1, and bulb 2 and battery D in series.  Point X lies above bulb 1, point Y between bulb 2 and battery D, and point Z below bulb 1.</description></image>
 				</figure>
 				<p>
 					Consider the circuit shown above, which is a variant of the circuit from class. All bulbs are identical, and all batteries are ideal and identical. (Note that the orientation of battery D has changed.)
@@ -127,7 +129,8 @@
 			<statement><p></p>
 				<figure xml:id="fig-circuit_6">
 					<caption>Circuit diagram.</caption>
-					<image source="circ/circuit-6.png" width = "40%" ></image>
+					<image source="circ/circuit-6.png" width = "40%" >
+					<description>A circuit diagram with three vertical branches, from left to right: a battery, a resistor and a capacitor in series, and an inverted battery.  A switch allows the first branch to be connected to either the second or third branch.</description></image>
 				</figure>
 				<p>
 					The switch shown has been set to the left in the circuit above for a long time (the two batteries are identical). You then flip the switch to the right. Immediately after you flip the switch, what is the current through the circuit?

@@ -64,7 +64,7 @@
 		<xi:include href="./ch-n_14_inertia.ptx" />
 		<xi:include href="./ch-n_15_rot-el.ptx" />
 
-		<!--alttext: Need to do 16, 18-20, and 26-30-->
+		<!--alttext: Need to do 16, 18-20, and 28-30-->
 
 		<xi:include href="./ch-n_16_oscillate.ptx" />
 		<xi:include href="./ch-n_17_waves.ptx" />
