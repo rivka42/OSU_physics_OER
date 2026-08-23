@@ -3,7 +3,36 @@
 <section xml:id="sec_what-is-elec" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>What Is Electricity?</title>
 
-  	<p>You will now begin investigating electric and magnetic phenomena! You will start with electricity. What is electricity? Very loosely speaking, we can say that electricity is the flow of electric charge. What is electric charge and what phenomenon are associated with the flow of charge? How does charge flow, and what forces cause charges to move? Let's watch some physics demonstrations to get started thinking about electric phenomenon and charge.</p>
+	<outcomes xml:id="adapting-model-electricity">
+	<title>Electricity</title>
+	<ul>
+		<li>
+		<p>You now have an extensive physics model that encompasses many forces and their impact on translation, rotational, oscillatory, and wave motion.</p>
+	</li>
+	<li>
+		<p>
+			You will now explore a quantitative model for one of the most fundamental forces in nature: <alert>the electric force</alert>.
+		</p>
+	</li>
+	<li>
+		<p>
+			In the next several chapters, you will see how the electric force fits into your existing physics model, and what new techniques will help you describe electricity.
+		</p>
+	</li>
+</ul>
+</outcomes>
+
+<subsubsection>
+		<title>Activities</title>
+		<activity>
+			<title>Electricity</title>
+			<p>
+			
+			</p>
+			  <p>Describe an instance in your everyday life when you have experienced a phenomenon related to electric charge or electricity.</p>
+		</activity>
+	</subsubsection>
+
 
 		
 	<corollary xml:id="vid-intro-elec">
@@ -19,18 +48,11 @@
 	</statement>
   </corollary>
 
+	<!--
 	 <p>Generally, the study of electromagnetism is broken into two parts: <alert> electricity </alert> and <alert> magnetism</alert>, focusing on electric and magnetic phenomena, respectively. Further, electrostatics as in <em> static</em>, or stationary, deals with the behaviors and properties of stationary charges while electrodynamics deals with the behaviors and properties of moving charges. We will explore more about electric and magnetic fields and how matter and charge respond to these fields in the chapters to come.</p> 
+	 -->
 	
-	<subsubsection>
-		<title>Activities</title>
-		<activity>
-			<title>Electricity</title>
-			<p>
-			
-			</p>
-			  <p>Describe an instance in your everyday life when you have experienced a phenomenon related to charge or electricity.</p>
-		</activity>
-	</subsubsection>
+	
 
 <!--NO AI-->
 </section>

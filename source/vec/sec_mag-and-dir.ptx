@@ -2,12 +2,41 @@
 
 <section xml:id="sec_mag-and-dir" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Magnitude and Direction</title>
+
+  <assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section were designed to be implemented in the classroom, after students have completed the rest of the chapter, especially:
+	</p>
+	<ul>
+		<li>
+			<p>
+				<xref ref="sec_displacement"/>
+			</p>
+		</li>
+		<li>
+			<p>
+				<xref ref="sec_reps-of-vecs"/>
+			</p>
+		</li>
+		<li>
+			<p>
+				<xref ref="sec_trig_relations"/>
+			</p>
+		</li>
+	</ul>
+	
+	 <p>
+	 One of the warm-up activities, in addition to the main activity, is usually enough to fill a 50-minute interactive period.
+  </p>
+  </assemblage>
+  
 		
 <p>As you have seen, one of the most common shorthand ways of describing a vector is as something with <q>magnitude and direction</q>.  Determining or working with these two quantities are essential for using vectors in physics.</p>
 
 	
 	<subsubsection>
-	<title>Activities</title>
+	<title>Warm-up Activities</title>
 	
 	
 		
@@ -86,7 +115,7 @@ What could you draw to help explain your reasoning?
 </statement>
 		<hint>
 			<p>
-				This is a good activity to practice the steps in <xref ref="fig_explanation"/>.
+				This is a good activity to practice the <xref ref="fig_explanation"/>.
 			</p>
 		</hint>
 			
@@ -98,6 +127,11 @@ What could you draw to help explain your reasoning?
 		<image source="Vector-Pairs.png" width = "30%">
 			<description>Two pairs of vectors, each with one pointing up and to the right and one pointing down and to the right.  The pair on the left points more horizontally than vertically, while the pair on the right points more vertically than horizontally.</description></image>
   </figure>
+
+  <subsubsection>
+	<title>Main Activity</title>
+	
+  </subsubsection>
 
 	<activity xml:id="arcs_planets-building">
         <title>The Planets around the Sun</title>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_force-field" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Applying Forces and Fields</title>
+
+	<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section were designed to be implemented in a 50-minute interactive classroom, after students have completed the rest of the chapter, especially:
+	</p>
+	<ul>
+		<li>
+			<p>
+				<xref ref="sec_electric-reps"/>
+			</p>
+		</li>
+		<li>
+			<p>
+				<xref ref="sec_electric-field_point_charge"/>
+			</p>
+		</li>
+		<li>
+			<p>
+				<xref ref="sec_coulomb"/>
+			</p>
+		</li>
+	</ul>
+  </assemblage>
+
+  <subsubsection>
+	<title>Activities</title>
+	
+  </subsubsection>
+
+	<activity xml:id="class_charge-launcher-1">
+		<title>Charge Launcher I</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			You decide to make a launcher by gluing a <m>+20 \mathrm{~mC}</m> point charge at the bottom of a vertical tube that is <m>10 \mathrm{~m}</m> long.
+		</p>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Make a qualitatively accurate vector map of the electric field in the tube.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Find the magnitude of the electric field in <m>\mathrm{N/C}</m> halfway to the top of the tube.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+Find the magnitude of the electric field in <m>\mathrm{N/C}</m> at the top of the tube.
+				</p>
+			</statement>
+		</task>
+	</activity>
+
+	<activity xml:id="class_charge-launcher-2">
+		<title>Charge Launcher II</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+Your projectile for the charge launcher above is a heavy metal ball with mass <m>900 \mathrm{~kg}</m> and charge <m>+5 \mathrm{~mC}</m>. The projectile begins halfway up the tube.
+		</p>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Find the net force and acceleration on the projectile at its starting point.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					As the projectile moves, is the acceleration constant?  At what point, if any, is the acceleration zero? What does this mean for the projectile?
+				</p>
+			</statement>
+		</task>
+	</activity>
+
+	<!--
+
+	<activity xml:id="class_">
+		<title>Generator</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			
+		</p>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					
+				</p>
+			</statement>
+		</task>
+	</activity>
+
+	<activity xml:id="class_">
+		<title>Generator</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			
+		</p>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					
+				</p>
+			</statement>
+		</task>
+	</activity>
+
+	-->
+	
+<!--NO AI-->
+</section>
+

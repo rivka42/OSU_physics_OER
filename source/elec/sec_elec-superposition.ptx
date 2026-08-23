@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_electric-reps" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Representations of Electric Fields</title>
+	
+<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section were designed to be implemented in a 2-hour interactive studio classroom, after students have completed:
+	</p>
+	<ul>
+		<li>
+			<p>
+				<xref ref="sec_charge"/>
+			</p>
+		</li>
+		<li>
+			<p>
+				<xref ref="sec_electric-field"/>
+			</p>
+		</li>
+		<li>
+			<p>
+				<xref ref="sec_vector-maps"/>
+			</p>
+		</li>
+	</ul>
+	<p>
+		The opening activity (Electric Field Generator), can also make for a good, short introductory activity for use on the first day of the term.
+	</p>
+	<p>
+		These activities do not usually take the full 2 hours.  Good additions include <xref ref="class_flowers-garden"/> to prepare students for multivariable integration and the content in the <xref ref="sec_field_lines"/> section to explore alternative representations.
+	</p>
+  </assemblage>
+
+  <subsubsection>
+	<title>Activities</title>
+	
+  </subsubsection>
+
+<activity xml:id="class_field-gen">
+		<title>Electric Field Generator</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			Suppose you have a proton in your physics lab.  You would like to cause the proton to float suspended in the middle of the lab, and all you have is a single electric field generator located on the floor.  You can program this generator to make an electric field with any magnitude in any direction.
+		</p>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Determine the settings of your electric field generator (<em>i.e.,</em> the magnitude and the direction) that will cause the proton to float.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					What would you need to change if you had an electron instead of a proton?
+				</p>
+			</statement>
+		</task>
+	</activity>
+
+	<activity xml:id="class_charged-ball">
+		<title>Charged Ball</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			An electrically charged ball with <m>m = 0.06 \mathrm{~kg}</m> hangs at the end of a string oriented <m>\theta = 53^o</m> outward from a wall. The wall produces a uniform electric field with magnitude <m>E = 105 \mathrm{~N/C}</m> that points away from the wall (to the right).
+		</p>
+		<figure xml:id="fig_charged-ball">
+		<title>Charged Ball Figure</title>
+    	<caption>A charged ball connected to a string.</caption>
+    		<image source="Charged-Ball.png" width = "30%" >
+          <description>A vertical wall on the left with a string connected to the top, its other end connected to a ball at an angle of 53 degrees.</description>
+        </image>
+    </figure>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+Analyze and Represent: Draw a free-body diagram!
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Calculate: Determine a symbolic expression for the electric charge on the ball.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+Sensemake: What do you expect to happen to q in the special case that <m>E = 0</m>?  What about <m>\theta = 0</m>?
+				</p>
+			</statement>
+		</task>
+	</activity>
+
+	<activity xml:id="class_vector-maps">
+		<title>Vector Maps</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			Shown below is an electric field vector map.
+		</p>
+		<figure xml:id="fig_Evectormap">
+		<title>Electric Field Vector Map Example</title>
+    	<caption>A example electric field vector map with different values at different points on a grid.</caption>
+    		<image source="Evectormap.png" width = "60%" >
+          <description>A map of arrows with a different arrow at every point on a grid.</description>
+        </image>
+    </figure>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Choose any point on the map and discuss the following: (1) How do you find the direction of the electric field at your chosen point?  (2) How do you find the magnitude of the electric field at your chosen point?
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Identify one or more locations where the electric field is the largest.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Identify one or more locations where the electric field is the smallest.  Is <m>E</m> zero anywhere on this map?
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Suppose a positive point charge is located at the middle of the map's right edge. Describe what will happen to the charge over time.  What do you think will happen to charges placed at other locations?
+				</p>
+			</statement>
+		</task>
+	</activity>
+
+	
+<!--NO AI-->
+</section>
+

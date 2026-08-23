@@ -34,19 +34,26 @@
 				<p>
 				
 				</p>
-				<p>A massless horizontal spring is attached to a support at one end and has a <m> 2.0</m>  <m> \mu \mathrm{C}</m> charge glued to the other end. A <m> 4.0</m>  <m> \mu \mathrm{C}</m>  charge is slowly brought near. The spring has compressed <m> 1.2 </m>  <m> \mathrm{cm}</m> when the charges are <m> 2.6</m>  <m> \mathrm{cm}</m> apart. What is the spring constant of the spring?</p>
+				<p>A massless horizontal spring is attached to a support at one end and has a <m> +2.0 \mathrm{~\mu C}</m> charge glued to the other end. A <m> +4.0 \mathrm{~\mu C}</m> charge is slowly brought near. The spring has compressed <m> 1.2 \mathrm{~cm}</m> when the charges are <m> 2.6 \mathrm{~cm}</m> apart. What is the spring constant of the spring?</p>
 			</statement>
 		</project>
 
-	<subsection>
+	<subsubsection>
 		<title>Metacognitive Reflection</title>
-		<p>
+		<activity>
+			<title>Gravitational Energy</title>
+			
+			<statement>
+				<p>
 		
 		</p>
 		<p>
 		Choose one of the equations that you made use of during this unit on electric fields. Identify a similar model or equation that you have used previously when studying the gravitational field. Write a few sentences comparing and contrasting the electric field and gravitational field.
 		</p>
-	</subsection>
+			</statement>
+		</activity>
+		
+	</subsubsection>
 
 <!--NO AI-->
 </section>

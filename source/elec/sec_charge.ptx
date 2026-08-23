@@ -17,8 +17,9 @@
   </corollary>
 
     <subsubsection><title>Key Ideas</title></subsubsection>
-	
+	<!--
 	<p>Electric charge is a fundamental property of matter. Objects that are <q>charged</q> can display interesting behaviors when interacting with electric fields that we will explore in this chapter.</p>
+-->
 
 	<definition>
 		<title>Charge</title>
@@ -27,50 +28,30 @@
 			
 		</p>
 		<p>
-<term>Electric charge</term> is a physical property of subatomic particles, measured in coulombs (C), that governs how matter generates (and interacts with) electric and magnetic fields.  
-                 </p>
-		</statement>
-	</definition>
-	
-	<p>Electric charge is often represented with the letter <m>q</m>. Charge, like mass, is a physical property of subatomic particles. Electric charge can be positive <m>(+q)</m>  or negative <m>(-q)</m>. In an atom, protons are positively charged and electrons are negatively charged while neutrons are neutral. We represent positive charges with the symbol <q>+</q> and negative charges with the symbol <q>-</q>. </p>
-	<p>
-			
-	</p>
-	<p>
-In examining the behavior of positive and negative charge, we can find that unlike charges tend to attract while like charges repel. Therefore, two electrons or two protons will repel each other while a proton and an electron will tend to attract.  	
-	</p>
-	
-	 <figure xml:id="charge">
-		<title>Charges</title>
-    	<caption>A representation of positive and negative charges.</caption>
-    		<image source="elec/charges.png" width = "80%" >
-          <description>A positive charge (left) and a negative charge (right).</description>
-        </image>
-    </figure>
-    
- 
-<note>
-  <title>Properties of Charge</title>
-  <p>
-  </p> 
+<term>Electric charge</term>, commonly represented with the letter <m>q</m>, is a fundamental physical property of matter with the following properties:</p>
 
-  <p>
- In addition to the existence of two types of charge, several other properties of charge have been discovered:
-  </p>
+    <ul>
+    <li>
+      <p>
+        <alert>Charge governs interactions with the electric field.</alert>  Charged objects create electric fields, and they also feel a force due to other electric fields.  <!--Understanding how charges generate electric fields and how other charges interact with electric fields will be our primary focus for understanding electric interactions.-->
+      </p>
+    </li>
 
-  <ul>
-    <li><alert>Charge is quantized</alert>. This means that electric charge comes in discrete amounts, and there is a smallest possible amount of charge that any object can have. In the SI system, this smallest amount is called the <em>fundamental unit of charge</em> and is equal to <me>e \equiv 1.602 \times 10^{-19} \, \mathrm{C}</me>. No free particle can have less charge than this. Therefore, the charge on any object must be an integer multiple of this amount. The charge on a single proton is <m> +e </m> and the charge on a single electron is <m> -e </m>. All macroscopic, charged objects have charge because electrons have either been added or taken away from them, resulting in a net positive or negative overall charge.</li>
-
-    <li><alert>Charge is conserved</alert>. Charge can neither be created nor destroyed; it can only be transferred from one location in space to another, or from one object to another. The net charge of the universe, or of any closed, isolated system is constant. This is referred to as the <alert>law of conservation of charge</alert>. We often speak of two charges <q>canceling</q>, however, this is verbal shorthand. It means that if two objects have equal and opposite charges, and are physically very close to each other, then the (oppositely directed) forces they apply on each other cancel as vectors. However, the charges on the objects still remain intact. The net charge of the universe remains constant in time according to conservation laws. </li>
-    
-    <li><alert>Charges generate electric fields</alert>. Just like mass can generate a gravitational field, electric charge can generate an electric field. Mass and charge physically alter the space around them such that any other mass or charge that comes into their <em> field of influence</em> feels a gravitational or electric force. Understanding how charges generate electric fields and how other charges interact with electric fields will be our primary focus for understanding electric interactions. </li>.
-    
+    <!--
      <li><alert>Moving charges generate magnetic fields</alert>. Just like stationary charges can create electric fields, charges that move with some velocity generate magnetic fields. Magnetic fields, like electric fields, can interact with charges in interesting ways that we will explore in further chapters. </li>.
-    
-      </ul>
+    -->
+
+    <li>
       
-   
-     <table xml:id="charge-table">
+      <p><alert>Charge can be positive or negative</alert>. In an atom, protons are positively charged, electrons are negatively charged, and neutrons are electrically neutral (zero charge). Unlike charges tend to attract while like charges tend to repel.  <!--In diagrams, positive charges are represented with the <q><m>+</m></q> symbol and negative charges with the <q><m>-</m></q> symbol.--></p>
+	   </li>
+
+    <li><alert>Charge is conserved</alert>. Charge can neither be created nor destroyed; it can only be transferred from one location in space to another, or from one object to another. <!--The net charge of the universe, or of any closed, isolated system is constant. This is referred to as the <alert>law of conservation of charge</alert>. --> </li>
+
+    <li><p><alert>Charge is quantized</alert>. Electric charge, which is measured in coulombs, occurs in discrete, integer multiples of the <em>fundamental unit of charge</em> <me>e \equiv 1.602 \times 10^{-19} \mathrm{~C}</me> <!--No free particle can have less charge than this. Therefore, the charge on any object must be an integer multiple of this amount.--> The charge on a single proton is <m> +e </m> and the charge on a single electron is <m> -e </m>. All macroscopic, charged objects have charge because electrons have either been added or taken away from them, resulting in a net positive or negative overall charge.</p></li>
+      </ul>
+
+      <table xml:id="charge-table">
   <title>Fundamental properties of the proton and electron</title>
   <p>
 			
@@ -78,31 +59,59 @@ In examining the behavior of positive and negative charge, we can find that unli
   <tabular alignment="left left left">
     <row>
       <cell><alert> Particle </alert></cell>
-      <cell><alert>Charge (C)</alert></cell>
-      <cell><alert>Mass (kg)</alert></cell>
+      <cell><alert>Charge</alert> (C)</cell>
+      <cell><alert>Mass</alert>  (kg)</cell>
     </row>
     <row>
-      <cell><alert>Electron</alert></cell>
+      <cell>Electron</cell>
       <cell><me>-1.602 \times 10^{-19}</me></cell>
       <cell><me>9.11 \times 10^{-31}</me></cell>
     </row>
     <row>
-      <cell><alert>Proton</alert></cell>
+      <cell>Proton</cell>
       <cell><me>+1.602 \times 10^{-19}</me></cell>
       <cell><me>1.67 \times 10^{-27}</me></cell>
     </row>
   </tabular>
 </table>
-</note>
+		</statement>
+	</definition>
+	
+	 <figure xml:id="charge">
+		<title>Charges</title>
+    	<caption>A simple representation of positive and negative charges.</caption>
+    		<image source="elec/charges.png" width = "80%" >
+          <description>A positive charge (left) and a negative charge (right).</description>
+        </image>
+    </figure>
+
+    <assemblage xml:id="assemblage-gravity1">
+      <title>Analogy with Gravity</title>
+      <p>
+        Gravity and electricity share a mathematical structure, so you can often use gravity as a strong analogy for the behavior of electric charge.  For example, just like mass generates gravitational fields, electric charges generate electric (and magnetic) fields. A charged particle also experiences an electric force due to an electric field, in the same way that a massive object experiences a gravitational force due to a gravitational field.
+      </p>
+    </assemblage>
+    
+ 
 	
 	<subsubsection>
 		<title>Activities</title>
 		<activity>
-      <title>Neutral Atom</title>
+      <title>Charge on an Atom</title>
+      <statement>
       <p>
 
       </p>
-			<p>A neutral atom always has the same number of protons as electrons.  What is the total charge on such an atom?</p>
+			<p>An atom has the same number of protons as electrons.  What is the total charge on any atom?</p>
+        </statement>
+        <answer>
+          <p>
+            Since electrons and protons have equal charges with opposite sign, and atoms have the same number of each, the net charge on an atom is always zero, making them neutral!  An atom that has an unequal number of protons and electrons is typically called an ion.
+          </p>
+          <p>
+            Although you might speak of the positive and negative charges <q>canceling</q>, the charges are still present, typically so close together that they cannot be distinguished.
+          </p>
+        </answer>
 		</activity>
 		<activity>
       <title>Charged Object</title>

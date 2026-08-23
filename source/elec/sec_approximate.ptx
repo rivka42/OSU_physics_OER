@@ -95,7 +95,7 @@ Use an approximation to <em> first order </em> in the small dimensionless quanti
 Approximating to first order is sometimes referred to as <em> linearizing </em> the equation.  
 			   </li>
 			   </ol> 
-Note: Assuming <m> y \gg d </m> is very reasonable in the case of say, observing the field of a helium nucleus (often called an alpha particle) where the separation distance between the two protons is around <m> 1.0 \times 10^{-15} \mathrm{m} </m>. However, this approximation is generally valid if the two lengths being compared are around three to four <em> orders of magnitude </em>  different. 
+Note: Assuming <m> y \gg d </m> is very reasonable in the case of say, observing the field of a helium nucleus (often called an alpha particle) where the separation distance between the two protons is around <m> 1.0 \times 10^{-15} \mathrm{~m} </m>. However, this approximation is generally valid if the two lengths being compared are around three to four <em> orders of magnitude </em>  different. 
 
 			  </p>
 		</activity>

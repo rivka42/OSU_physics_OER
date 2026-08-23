@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_electric-field_point_charge" xmlns:xi="http://www.w3.org/2001/XInclude">
-	<title>Electric Field of a Single Point Charge</title>
+	<title>Electric Field of a Point Charge</title>
 	
 
 
@@ -31,22 +31,46 @@
 			</p>
 			
 			<p>
-			The electric field created by a single point charge is <me> \vec{E}(r) = k \frac {q}{r^2} \hat{r}</me> where <m> q </m> represents the source charge generating the field, <m> r </m> is the distance from the charge to the location you want to know the magnitude of the field, <m> \hat{r} </m> is a unit vector that points radially away from the source charge, and <m> k = 9 \times 10^{9} \frac{\mathrm{Nm^2}}{\mathrm{C^2}}</m> is a fundamental constant. 
-			</p>
-		</statement>
-</definition>
-
-<p>
-The figure below illustrates each of the quantities in the definition above. Consider a charge <m> q </m>, represented in the figure below by a positive charge, and a point in space <m> P </m> a distance <m> r </m> away from charge <m> q </m>. The vector symbol above the <m> E</m> tells you that the electric field is a vector and the <m>(r)</m> indicates that it depends on, or is a function of, the distance <m> r </m> from the center of the charge <m> q </m> that creates the field. The field is defined at any point in space around the charge, and its magnitude changes with the inverse square of distance from that charge. To find the direction of the field, the unit vector <m> \hat{r} </m> always points away from the center of the charge, radially outward.  Recall that a unit vector has magnitude <m> |\hat{r}|=1.0 </m> and so multiplying the equation by <m> \hat{r} </m> does not change the overall magnitude, it only tells you about the direction of the electric field at that point. If you choose a different point in space around the charge, both the magnitude and the direction of the electric field will be different depending on the position you choose.
-</p>
-
-<figure xml:id="Efield_point">
+			The electric field at position <m>\vec{r}</m> due to a point charge located at the origin is <me> \vec{E}(r) = k \frac {q_{\text{source}}}{r^2} \hat{r}</me></p> 
+			
+			<ul>
+				<li>
+					<p>
+						<m> k \approx 9 \times 10^{9} \frac{\mathrm{Nm^2}}{\mathrm{C^2}}</m> is the electrostatic constant, a fundamental constant.
+					</p>
+				</li>
+				<li>
+					<p>
+						<m> q_{\text{source}} </m> represents the source charge generating the field.
+					</p>
+				</li>
+				<li>
+					<p>
+						<m> r </m> is the distance from the charge to the location where you want to know the field.  Note that <m>\vec{E}</m> is a <alert>function</alert> of <m>r</m>: its value depends on where you are in space!
+					</p>
+				</li>
+				<li>
+					<p>
+						<m> \hat{r} </m> is a unit vector that points radially away from the source charge.  Note that this <alert>also</alert> depends on where you are in space!
+					</p>
+				</li>
+			</ul>
+			<figure xml:id="Efield_point">
 		<title>Electric field of a single point charge</title>
     	<caption>A visualization of the symbols used to define the electric field of a single point charge. </caption>
     		<image source="elec/Efield_point.png" width = "60%" >
 				<description>A positive point charge a distance r from a point P, with the r-hat vector pointing from the charge to P and the electric field vector pointing in the same direction.</description>
 			</image>
 </figure>
+			
+		</statement>
+</definition>
+<!--
+<p>
+The figure below illustrates each of the quantities in the definition above. Consider a charge <m> q </m>, represented in the figure below by a positive charge, and a point in space <m> P </m> a distance <m> r </m> away from charge <m> q </m>. The vector symbol above the <m> E</m> tells you that the electric field is a vector and the <m>(r)</m> indicates that it depends on, or is a function of, the distance <m> r </m> from the center of the charge <m> q </m> that creates the field. The field is defined at any point in space around the charge, and its magnitude changes with the inverse square of distance from that charge. To find the direction of the field, the unit vector <m> \hat{r} </m> always points away from the center of the charge, radially outward.  Recall that a unit vector has magnitude <m> |\hat{r}|=1.0 </m> and so multiplying the equation by <m> \hat{r} </m> does not change the overall magnitude, it only tells you about the direction of the electric field at that point. If you choose a different point in space around the charge, both the magnitude and the direction of the electric field will be different depending on the position you choose.
+</p>
+-->
+
 
 <note>
 <title>Charge subscripts</title>
@@ -63,22 +87,20 @@ Every electric charge generates an electric field. The term <em>source charge</e
 		The Permittivity Constant
 		</title>
 	<p> 
-In the equation above, the electric field is written in terms of the <alert> electrostatic constant</alert>, <m> k = 9.0 \times 10^9 \frac{\mathrm{Nm^2}}{\mathrm{C^2}}</m>. In other contexts, this constant is written as <m>k = \frac{1}{ 4 \pi \epsilon_0}</m>, where <m> \epsilon_{0} = 8.85 \times 10^{-12} \frac{\mathrm{C^2}}{\mathrm{Nm^2}}</m> is a fundamental constant known as the permittivity of free spsace.
+In the equation above, the electric field is written in terms of the <alert> electrostatic constant</alert>, <m> k \approx 9 \times 10^9 \frac{\mathrm{Nm^2}}{\mathrm{C^2}}</m>. In other contexts, this constant is written as <m>k = \frac{1}{ 4 \pi \epsilon_0}</m>, where <m> \epsilon_{0} = 8.85 \times 10^{-12} \frac{\mathrm{C^2}}{\mathrm{Nm^2}}</m> is a fundamental constant known as the permittivity of free spsace.
 </p>
 <p>
 The constant <m> \epsilon_{0} </m> (pronounced <q>epsilon naught</q>) is a constant of proportionality that scales how the magnitude of the electric field is related to charge and distance in a <em> vacuum </em>.  If there is other matter around that charge, for example air or wood or water, that matter can affect how the electric field is <em> permitted </em> to exist, and thus the permittivity constant will be different. 
 	</p>
 	</note>
 
+	<assemblage xml:id="assemblage-gravity4">
+      <title>Analogy with Gravity</title>
+      <p>
+        Recall the definition of <xref ref="def_gravitational-field" text="title"/>. Note the units of the gravitational constant and then recall the units of the electrostatic constant <m> k </m>. Do you notice any similarities?
+      </p>
+    </assemblage>
 	
-	<note>
-		<title>
-		Parallels to Gravity
-		</title>
-	<p>
-	Recall the definition of <xref ref="def_gravitational-field" text="title"/>. Note the units of the Gravitational constant and then recall the units of the electrostatic constant <m> k </m>. Do you notice any similarities?
-	</p> 
-	</note>
 	
 	<subsubsection>
 	<title>Activities</title>
@@ -96,6 +118,13 @@ The constant <m> \epsilon_{0} </m> (pronounced <q>epsilon naught</q>) is a const
 			
 				</p>
 			  	<p>Shown below are three point charges (A, B, and C).  Is the magnitude of the net electric force on charge A greater than, less than, or equal to the magnitude of the net electric force on charge C?  Explain your reasoning.</p>
+					<figure xml:id="x_fig_three-charges">
+			  <title>Three Charges Figure</title>
+    		<caption>Three charges</caption>
+    		<image source="three-charges.png" width = "70%" >
+				<description>Charge A (q) on the left, charge B (-q) in the middle, and charge C (2q) on the right, all separated by a distance d.</description>
+			</image>
+		</figure>
 			</statement>
 			<solution>
 		<identity xml:id="vid-three-charges-sol">
@@ -112,13 +141,7 @@ The constant <m> \epsilon_{0} </m> (pronounced <q>epsilon naught</q>) is a const
 </identity>
 			</solution>
 		</investigation>
-		<figure xml:id="x_fig_three-charges">
-			  <title>Three Charges Figure</title>
-    		<caption>Three charges</caption>
-    		<image source="three-charges.png" width = "70%" >
-				<description>Charge A (q) on the left, charge B (-q) in the middle, and charge C (2q) on the right, all separated by a distance d.</description>
-			</image>
-		</figure>
+		
 	</subsubsection>
 <!--NO AI-->
 </section>

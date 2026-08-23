@@ -17,7 +17,7 @@
 		<investigation xml:id="apply_elec-03">
 			<title>Three Wires</title>
 			<statement>
-				<p>Three straight wires (with one end at <m>x = –L</m> and the other end at <m>x = +L</m>) each have the same total charge <m>+Q</m> distributed differently.  Wire A has charge density <m>\lambda_A(x) = +\alpha x^2</m>.  Wire B has charge density <m>\lambda_B(x) = +\beta \cos\left(\frac{\pi x}{2L}\right)</m>.  Wire C has uniform charge density <m>+\lambda_C</m>.</p>
+				<p>Three straight wires (with one end at <m>x = -L</m> and the other end at <m>x = +L</m>) each have the same total charge <m>+Q</m> distributed differently.  Wire A has charge density <m>\lambda_A(x) = +\alpha x^2</m>.  Wire B has charge density <m>\lambda_B(x) = +\beta \cos\left(\frac{\pi x}{2L}\right)</m>.  Wire C has uniform charge density <m>+\lambda_C</m>.</p>
 				<p>You want to predict how the electric fields of these three wires will compare a distance <m>L</m> above the center of each rod (along the <m>y</m>-axis).  Rank the three wires by the magnitude of the electric field produced at this location from smallest to largest.
 				</p>
 			</statement>
@@ -315,6 +315,53 @@
 			</answer>
 		</exploration>
 	</subsubsection>
+
+<activity xml:id="class_flowers-garden">
+	<title>Flowers in the Garden</title>
+	<introduction>
+		<p>
+			
+		</p>
+		<p>
+			You have a rectangular garden (width <m>2l</m> and length <m>l</m>) that is full of flowers. If the origin is located at one corner of the garden, the surface flower density is given by: <m>\sigma(x, y) = \frac{fy\left(x + l\right)}{l^4}</m>, where <m>f</m> is a constant with units of flowers.
+		</p>
+	</introduction>
+	<task>
+		<statement>
+			<p>
+				What are the units of <m>\sigma</m>?
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				What does the garden look like? Sketch a picture of where there are many flowers and where there are fewer flowers.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Write and solve an integral for the area of the garden. Check that it gives you an answer that makes sense.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Write and solve an integral for the total number of flowers in the garden.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Suppose <m>f = 100 \mathrm{~flowers}</m> and <m>l = 4 \mathrm{~m}</m>. Evaluate your symbolic answers with these numbers and comment on whether or not your numerical answers make sense.
+			</p>
+		</statement>
+	</task>
+</activity>
 
 	<references>
 		<biblio xml:id="ref_boxsand-elec-force">

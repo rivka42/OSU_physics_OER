@@ -5,7 +5,7 @@
 		
  	
 <p>
-As you saw in the previous section, different materials interact with charges differently. You may already know that metals are better at conducting electricity than wood or plastic. However, what you might not know is how the electronic structure of a material affects its ability to be charged and how charges behave on or within that material. What does it mean to conduct electricity and how does the atomic structure of materials lead to different charge properties? We will explore these ideas together in this section.  
+As you saw in the previous section, different materials interact with charges differently. You may already know that metals are better at conducting electricity than wood or plastic. The electronic structure of a material also affects its ability to be charged and how charges behave on or within that material. <!--What does it mean to conduct electricity and how does the atomic structure of materials lead to different charge properties? We will explore these ideas together in this section.-->
 </p>
 
 		<p>
@@ -17,15 +17,14 @@ As you saw in the previous section, different materials interact with charges di
 </subsubsection> 
 
 <p>
-If we are talking about the electricity that powers our homes, we mean "electricity" as in the flow of electrons through conducting wires.
-It is the flow of electrons through air if we are talking of lightning, or the flow of electrons through our bodies when we feel an electric shock (ouch!). To understand how electrons interact with different materials, let's briefly review the basics of <alert> atomic structure </alert>. A single atom is made up of positively charged protons and neutral neutrons in its nucleus. Recall the periodic table of elements is arranged by atoms with increasing numbers of protons. The nucleus is surrounded by negatively charged electrons which can exist in different positions corresponding to different electron energies.                 
+The <q>electricity</q> that powers things is actually the flow of electrons through conducting wires, while the flow of electrons through air causes lightning and the feel of an electric shock. To understand how electrons interact with different materials, recall the basics of <alert> atomic structure </alert>. A single atom is made up of positively charged protons and neutral neutrons in its nucleus (the periodic table of elements is arranged by atoms with increasing numbers of protons). The nucleus is surrounded by negatively charged electrons that can exist in different states corresponding to different electron energies.                 
  </p>
                  
                  
 <figure xml:id="atomic_structure">
 		<title>Atomic Structure</title>
     	<caption>
-	A visualization of the atomic structure of atoms (Image Credit: Wikimedia Commons).
+	A visualization of the atomic structure of atoms.
 	</caption>
     		<image source="elec/Atom_Diagram.png" width = "60%" >
 				<description>Diagram of an idealized Lithium atom, primarily useful to illustrate the nucleus of an atom.</description>
@@ -37,7 +36,7 @@ It is the flow of electrons through air if we are talking of lightning, or the f
 
 </p>
 <p>
-Atoms are held together by electric forces. The <em> electron configuration</em> refers to how the electrons are arranged into different energy levels, sometimes referred to as energy orbitals, within an atom or molecule. The outermost electrons, the <alert>valence electrons</alert> are responsible for much of the bonding properties of atoms. The electron configuration was first described in the Bohr Model of an atom, but as physics has progressed, we have come to understand that quantum mechanics plays a much larger role in how atoms interact than previously thought. 
+Atoms are held together by electric forces. The <em>electron configuration</em> refers to how the electrons are arranged into different energy levels, sometimes referred to as energy orbitals, within an atom or molecule. The outermost electrons, the <alert>valence electrons</alert> are responsible for much of the bonding properties of atoms. The electron configuration was first described in the Bohr Model of an atom, but as physics has progressed, we have come to understand that quantum mechanics plays a much larger role in how atoms interact than previously thought. 
 </p>
 			
 	 
@@ -46,7 +45,7 @@ Atoms are held together by electric forces. The <em> electron configuration</em>
 </subsubsection> 
 
   <p>
-The charge carriers in metals are electrons. In a <alert> conductor </alert>, the outermost electrons, the valence electrons, are only very weakly bound to the nucleus by electric forces between positive and negative charges. The electrons can become detached from their parent nuclei and move freely around the atomic lattice structure of the conductor. Essentially, charge can flow in a conductor which is why they are great at conducting electricity. Examples of conductors include metals, plasmas, water and some inorganic molecules (generally, materials whose molecules undergo valence bonding, or inorganic compounds with free electrons)
+The charge carriers in metals are electrons. In a <alert> conductor </alert>, the outermost electrons, the valence electrons, are only very weakly bound to the nucleus by electric forces between positive and negative charges. The electrons can become detached from their parent nuclei and move freely around the atomic lattice structure of the conductor. Essentially, charge can flow in a conductor which is why they are great at conducting electricity. Examples of conductors include metals, plasmas, water, and some inorganic molecules (generally, materials whose molecules undergo valence bonding, or inorganic compounds with free electrons)
 </p>
 
 <p>
@@ -56,6 +55,13 @@ The charge carriers in metals are electrons. In a <alert> conductor </alert>, th
 <p>
 <alert> Insulators</alert>, in contrast, are made from materials whose valence electrons are all tightly bound to their nucleus and cannot move freely between atoms. Charging an insulator by friction leaves patches of molecular ions on the surface but the charges are immobile, they cannot move on the surface. When excess charge is added to an insulating material, that charge cannot move. It remains in place until the charges are dissipated to the environment. Examples of insulators include glass, plastic, wood, rubber, and some organic molecules (generally, materials whose atoms undergo covalent and hydrogen bonding). 
 </p>
+
+<references>
+<biblio xml:id="electric-atom">
+<p>
+	 Atom image from Wikimedia Commons.</p>
+</biblio>
+</references>
 	
 <!--NO AI-->
 </section>

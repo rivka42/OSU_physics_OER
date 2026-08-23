@@ -30,22 +30,8 @@
 
 	<subsubsection>
 		<title>Activities</title>
-		<activity xml:id="chg-dens">
-			<title>Charge Densities</title>
-			<p>
-
-			</p>
-			<p>Make a charge diagram for each of the following charge densities.  What is the purpose of the various constants in these expressions?
-				<ul>
-					<li><m>\lambda(x) = +\lambda_1 \frac{x}{L}</m> between <m>x=-L</m> and <m>x=+L</m></li>
-					<li><m>\lambda(y) = \frac{+q_2}{y}</m> between <m>y=0</m> and <m>y=\infty</m></li>
-					<li><m>\sigma(s,\theta) = +\sigma_3 \frac{s^2}{R^2}</m> between <m>s=0</m> and <m>s=R</m>, where <m>s</m> is the radial distance from the origin.</li>
-				</ul>
-			</p>
-		</activity>
-
 		<activity>
-			<title>Charge Diagram</title>
+			<title>Reading a Charge Diagram</title>
 			<p>
 
 			</p>
@@ -58,6 +44,22 @@
 			</figure>
 			<p>Shown above is a charge diagram for a disc.  Indicate the location with the greatest charge density.</p>
 		</activity>
+
+		<activity xml:id="chg-dens">
+			<title>Diagramming Charge Densities</title>
+			<p>
+
+			</p>
+			<p>Make a charge diagram for each of the following charge densities.  What is the purpose of the various constants in these expressions?
+				<ul>
+					<li><m>\lambda(x) = +\lambda_1 \frac{x}{L}</m> between <m>x=-L</m> and <m>x=+L</m></li>
+					<li><m>\lambda(y) = \frac{+q_2}{y}</m> between <m>y=0</m> and <m>y=\infty</m></li>
+					<li><m>\sigma(s,\theta) = +\sigma_3 \frac{s^2}{R^2}</m> between <m>s=0</m> and <m>s=R</m>, where <m>s</m> is the radial distance from the origin.</li>
+				</ul>
+			</p>
+		</activity>
+
+		
 		
 	</subsubsection>
 

@@ -7,7 +7,7 @@
 	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
 	If you want an Explain activity, use the <investigation> tag.
 		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
-	If you want a Calculate activity, use the <problem> tag.  (This tag is Example-like, not Project-like, so you cannot embed lettered steps into it using <task>.
+	If you want a Calculate activity, use the <exploration> tag.
 	-->
 
 	<subsubsection>

@@ -14,6 +14,14 @@
   <!-- source PreTeXt file                                      -->
   <source>
     <directories external="../assets" generated="../generated-assets"/>
+    <!--Choose whether to include the implementation or instructor notes-->
+    <version include=""></version>
+    <!--
+    <version include="implementation"></version>
+    <version include="instructor"></version>
+    <version include="implementation instructor"></version>
+    -->
+
   </source>
 
   <numbering>
