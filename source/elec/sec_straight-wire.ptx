@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_force-field0" xmlns:xi="http://www.w3.org/2001/XInclude">
-	<title>Applying Forces and Fields</title>
+<section xml:id="sec_elec-wire" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Application: The Charged Wire</title>
 
 	<assemblage component="implementation">
   <title>Implementation Notes</title>
@@ -11,17 +11,17 @@
 	<ul>
 		<li>
 			<p>
-				<xref ref="sec_electric-reps"/>
+				<xref ref="sec_integration"/>
 			</p>
 		</li>
 		<li>
 			<p>
-				<xref ref="sec_electric-field_point_charge"/>
+				<xref ref="sec_semicircular-wire"/>
 			</p>
 		</li>
 		<li>
 			<p>
-				<xref ref="sec_coulomb"/>
+				<xref ref="sec_calculating-e"/>
 			</p>
 		</li>
 	</ul>
@@ -32,62 +32,64 @@
 	
   </subsubsection>
 
-	<activity xml:id="class_000">
-		<title>Charge Launcher I</title>
+	<activity xml:id="class_charged-wire">
+		<title>The Charged Wire</title>
 		<introduction>
 			<p>
 			
 		</p>
 		<p>
-			You decide to make a launcher by gluing a <m>+20 \mathrm{~mC}</m> point charge at the bottom of a vertical tube that is <m>10 \mathrm{~m}</m> long.
+			A total charge <m>+q</m> is spread uniformly over a wire of length <m>L</m>.  You want to determine the electric field at the indicated point.
 		</p>
+		<figure xml:id="fig_elec-wire">
+		<title>Wire Figure</title>
+    	<caption>A charged wire.</caption>
+    		<image source="elec-wire.png" width = "80%" >
+          <description>A horizontal wire of length L.  A point is labeled a distance y above the center.</description>
+        </image>
+    </figure>
 		</introduction>
 		<task>
 			<statement>
 				<p>
-					Make a qualitatively accurate vector map of the electric field in the tube.
+					<alert>Predict:</alert> What direction do you expect the electric field to point?  Do you expect its magnitude to be bigger, smaller or equal to <m>\frac{kq}{y^2}</m> ?
 				</p>
 			</statement>
 		</task>
 		<task>
 			<statement>
 				<p>
-					Find the magnitude of the electric field in <m>\mathrm{N/C}</m> halfway to the top of the tube.
-				</p>
-			</statement>
-		</task>
-		<task>
-			<statement>
-				<p>
-Find the magnitude of the electric field in <m>\mathrm{N/C}</m> at the top of the tube.
-				</p>
-			</statement>
-		</task>
-	</activity>
+					<alert>Chop</alert> the object up into pieces.  Label at least one <m>dq</m> and identify relevant quantities.  What is <m>dq</m> in terms of known quantities?  What is <m>r</m>?  What is <m>\hat{r}</m>?
 
-	<activity xml:id="class_001">
-		<title>Charge Launcher II</title>
-		<introduction>
-			<p>
-			
-		</p>
-		<p>
-Your projectile for the charge launcher above is a heavy metal ball with mass <m>900 \mathrm{~kg}</m> and charge <m>+5 \mathrm{~mC}</m>. The projectile begins halfway up the tube.
-		</p>
-		</introduction>
-		<task>
-			<statement>
-				<p>
-					Find the net force and acceleration on the projectile at its starting point.
 				</p>
 			</statement>
 		</task>
 		<task>
 			<statement>
 				<p>
-					As the projectile moves, is the acceleration constant?  At what point, if any, is the acceleration zero? What does this mean for the projectile?
+					<alert>Multiply</alert> the relevant quantities together to find <m>\vec{dE}</m>.
 				</p>
 			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					<alert>Add</alert> the <m>\vec{dE}</m> over the entire wire!
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					<alert>Make sense</alert> of your answer.  Do the units check out?  What happens as <m>L \rightarrow 0</m>?  As <m>y \rightarrow \inf</m>?  As <m>y \rightarrow 0</m>
+				</p>
+			</statement>
+			<hint>
+				<p>
+					Remember to state: (a) Your expectation of what will happen, (b) a physical description why that should happen, and (c) a verification that your expression matches your expectation.
+
+				</p>
+			</hint>
 		</task>
 	</activity>
 

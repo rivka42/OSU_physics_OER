@@ -1,35 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_electric-reps0" xmlns:xi="http://www.w3.org/2001/XInclude">
-	<title>Representations of Electric Fields</title>
+<section xml:id="sec_elec-superposition" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Electric Superposition</title>
 	
 <assemblage component="implementation">
   <title>Implementation Notes</title>
   <p>
-	The activities in this section were designed to be implemented in a 2-hour interactive studio classroom, after students have completed:
+	The activities in this section were designed to be implemented in a classroom, after students have completed:
 	</p>
 	<ul>
 		<li>
 			<p>
-				<xref ref="sec_charge"/>
+				<xref ref="sec_charge-density"/>
 			</p>
 		</li>
 		<li>
 			<p>
-				<xref ref="sec_electric-field"/>
+				<xref ref="sec_charge-diagrams"/>
 			</p>
 		</li>
 		<li>
 			<p>
-				<xref ref="sec_vector-maps"/>
+				<xref ref="sec_e-field_many"/>
 			</p>
 		</li>
 	</ul>
 	<p>
-		The opening activity (Electric Field Generator), can also make for a good, short introductory activity for use on the first day of the term.
-	</p>
-	<p>
-		These activities do not usually take the full 2 hours.  Good additions include <xref ref="class_flowers-garden"/> to prepare students for multivariable integration and the content in the <xref ref="sec_field_lines"/> section to explore alternative representations.
+		The opening activity, can also make for a good, short introductory activity for use on the first day of the term.
 	</p>
   </assemblage>
 
@@ -38,118 +35,172 @@
 	
   </subsubsection>
 
-<activity xml:id="class_field-gen0">
-		<title>Electric Field Generator</title>
+<activity>
+		<title>Warm-up Activity</title>
+		<statement>
+			<p>
+			
+		</p>
+		<p>
+			Is the magnitude of the net force on object A greater than, less than, or equal to that on object B?  Explain your reasoning.
+		</p>
+		<figure xml:id="fig_many-forces">
+		<title>Many Forces Figure</title>
+    	<caption>Two objects being acted on by different forces.</caption>
+    		<image source="many-forces.png" width = "100%" >
+          <description>Object A: two forces, magnitude F, one down and to the right, the other down and to the left.  Object B: four fources, magnitude F/2, evenly spaced between the angles described by the two forces on Object A.</description>
+        </image>
+    </figure>
+			</statement>
+	</activity>
+
+	<activity xml:id="class_moving-a-abox">
+		<title>Moving a Box</title>
+				<statement>
+					<p>
+						
+					</p>
+				<p>
+					Three students are trying to move a box that is preventing them from going home after a long day of doing physics.  All the students are equally strong: that is, they can all exert a force of the same magnitude if they push on something.  Each student has a different idea about how best to push on the box to get it to move.  Which student do you most agree with?
+					</p>
+	<p>
+		Student A: <q>I think we should all spread out and push from different angles.</q>
+	</p>
+	<p>
+		Student B: <q>I think we should all try to push in the same direction.</q>
+	</p>
+<p>
+Student C: <q>I don't think it matters: as long as three of us are pushing, our collective force will be the same.</q>
+				</p>
+			</statement>
+		
+	</activity>
+
+	<activity xml:id="class_non-uniform-wire">
+		<title>Non-uniform Wire</title>
 		<introduction>
 			<p>
 			
 		</p>
 		<p>
-			Suppose you have a proton in your physics lab.  You would like to cause the proton to float suspended in the middle of the lab, and all you have is a single electric field generator located on the floor.  You can program this generator to make an electric field with any magnitude in any direction.
+			A charge wire has one end at <m>x = 0</m> and the other end at <m>x = L</m>.  You measure the charge density to be the following:
+			<me>
+				\lambda(x) = \frac{q_o}{L^2}x
+			</me>
+			
+
 		</p>
 		</introduction>
 		<task>
 			<statement>
 				<p>
-					Determine the settings of your electric field generator (<em>i.e.,</em> the magnitude and the direction) that will cause the proton to float.
+					Sketch a charge diagram of the wire showing the charge density, using <m>+</m> and <m>-</m> symbols to represent positive and negative charge, respectively. 
+
 				</p>
 			</statement>
 		</task>
 		<task>
 			<statement>
 				<p>
-					What would you need to change if you had an electron instead of a proton?
+					Determine the total charge on the wire.
 				</p>
 			</statement>
 		</task>
+		
 	</activity>
 
-	<activity xml:id="class_charged-ball0">
-		<title>Charged Ball</title>
+	<activity xml:id="class_point-charges">
+		<title>Point Charges</title>
 		<introduction>
 			<p>
 			
 		</p>
 		<p>
-			An electrically charged ball with <m>m = 0.06 \mathrm{~kg}</m> hangs at the end of a string oriented <m>\theta = 53^o</m> outward from a wall. The wall produces a uniform electric field with magnitude <m>E = 105 \mathrm{~N/C}</m> that points away from the wall (to the right).
+		Two positive point charges are separated by a distance <m>L</m>, as shown in the figure.
+
 		</p>
-		<figure xml:id="fig_charged-ball0">
-		<title>Charged Ball Figure</title>
-    	<caption>A charged ball connected to a string.</caption>
-    		<image source="Charged-Ball.png" width = "30%" >
-          <description>A vertical wall on the left with a string connected to the top, its other end connected to a ball at an angle of 53 degrees.</description>
+		<figure xml:id="fig_Charges1">
+		<title>Two Charges Figure</title>
+    	<caption>Two point charges.</caption>
+    		<image source="Charges1.png" width = "50%" >
+          <description>Charge +q located a vertical distance L above charge +2q.</description>
         </image>
     </figure>
 		</introduction>
 		<task>
 			<statement>
 				<p>
-Analyze and Represent: Draw a free-body diagram!
-				</p>
-			</statement>
-		</task>
-		<task>
-			<statement>
-				<p>
-					Calculate: Determine a symbolic expression for the electric charge on the ball.
-				</p>
-			</statement>
-		</task>
-		<task>
-			<statement>
-				<p>
-Sensemake: What do you expect to happen to q in the special case that <m>E = 0</m>?  What about <m>\theta = 0</m>?
-				</p>
-			</statement>
-		</task>
-	</activity>
+					Indicate the direction of the electric force exerted on each charge.
 
-	<activity xml:id="class_vector-maps0">
-		<title>Vector Maps</title>
-		<introduction>
-			<p>
-			
-		</p>
-		<p>
-			Shown below is an electric field vector map.
-		</p>
-		<figure xml:id="fig_Evectormap0">
-		<title>Electric Field Vector Map Example</title>
-    	<caption>A example electric field vector map with different values at different points on a grid.</caption>
-    		<image source="Evectormap.png" width = "60%" >
-          <description>A map of arrows with a different arrow at every point on a grid.</description>
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Compare the magnitudes of the forces.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					The large point charge is split into two smaller point charges and separated, as shown in the figure, so that each new charge is still a distance <m>L</m> away from the upper charge.
+
+				</p>
+				<figure xml:id="fig_Charges2">
+		<title>Three Charges Figure</title>
+    	<caption>Three point charges.</caption>
+    		<image source="Charges2.png" width = "50%" >
+          <description>Charge +q located a distance L from two additional +q charges.</description>
         </image>
     </figure>
-		</introduction>
-		<task>
-			<statement>
-				<p>
-					Choose any point on the map and discuss the following: (1) How do you find the direction of the electric field at your chosen point?  (2) How do you find the magnitude of the electric field at your chosen point?
-				</p>
+	<p>
+		Write a short sentence about how the magnitude of the net electric force on the upper charge has changed. 
+	</p>
 			</statement>
 		</task>
 		<task>
 			<statement>
 				<p>
-					Identify one or more locations where the electric field is the largest.
+					Suppose that when the large point charge is split into two smaller point charges, they are instead moved horizontally, so that each new charge lies along a horizontal line passing through the original point charge, as shown in the figure.
+
 				</p>
+				<figure xml:id="fig_Charges3">
+		<title>Three Charges Figure</title>
+    	<caption>Three point charges.</caption>
+    		<image source="Charges3.png" width = "50%" >
+          <description>Two +q charges separated horizontally below a third +q charge.</description>
+        </image>
+    </figure>
+	<p>
+		Write a short sentence about how the magnitude of the net electric force on the upper charge compares to both of the previous situations. 
+	</p>
 			</statement>
 		</task>
 		<task>
 			<statement>
 				<p>
-					Identify one or more locations where the electric field is the smallest.  Is <m>E</m> zero anywhere on this map?
+					Suppose instead that the large point charge is spread uniformly across a horizontal line, as shown in the figure.
+
 				</p>
+				<figure xml:id="fig_Charges4">
+		<title>Line of Charge Figure</title>
+    	<caption>A line of charge.</caption>
+    		<image source="Charges4.png" width = "50%" >
+          <description>Charge +q located a distance L from a line with +2q charge.</description>
+        </image>
+    </figure>
+	<p>
+		Explain why the magnitude of the net electric force on the upper charge is not the same as it is in any of the previous situations.  Discuss possible methods you might use to calculate the electric force on <m>+q</m>.  (You do not have to calculate this force.)
+
+	</p>
 			</statement>
 		</task>
-		<task>
-			<statement>
-				<p>
-					Suppose a positive point charge is located at the middle of the map's right edge. Describe what will happen to the charge over time.  What do you think will happen to charges placed at other locations?
-				</p>
-			</statement>
-		</task>
+
+		
 	</activity>
+
 
 	
 <!--NO AI-->
