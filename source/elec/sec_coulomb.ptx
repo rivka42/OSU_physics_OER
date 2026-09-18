@@ -83,33 +83,40 @@ A consequence of these similarities is that many physical and mathematical tools
 				
 			</p>
 			<p>
-				Show that Coulomb's Law is consistent with Newton's third law, which states that the forces on the two charges should be equal in magnitude and opposite in direction.  Check both the case that the charges have the same sign and thecase that the charges have unlike sign.
+				Explain how Coulomb's Law is consistent with Newton's third law, which states that the forces on the two charges should be equal in magnitude and opposite in direction.  Check both the case that the charges have the same sign and the case that the charges have unlike sign.
 			</p>
 		</activity>
 		
-		<activity> 
-		<title>Two Protons</title>
+		<investigation>
+			<title>Three Charges</title>
+			<statement>
+				<p>
+			
+				</p>
+			  	<p>Shown below are three point charges (A, B, and C).  Is the magnitude of the net electric force on charge A greater than, less than, or equal to the magnitude of the net electric force on charge C?  Explain your reasoning.</p>
+					<figure xml:id="x_fig_three-charges">
+			  <title>Three Charges Figure</title>
+    		<caption>Three charges</caption>
+    		<image source="three-charges.png" width = "70%" >
+				<description>Charge A (q) on the left, charge B (-q) in the middle, and charge C (2q) on the right, all separated by a distance d.</description>
+			</image>
+		</figure>
+			</statement>
+			<solution>
+		<identity xml:id="vid-three-charges-sol">
+	<title>Three Charges - Solution</title>
+	
+	<statement>
 		<p>
+			
+		</p>
 
-		</p>
-		<p> 
-		Two protons are <m> 1.0 \ \mathrm{pm} </m> away from each other. 
-		<ol>
-		
-		<li>
-		What is the magnitude of the electric force from one proton on the other?
-		</li>
-		
-		<li>
-		What is the magnitude of the gravitational force from one proton on the other?
-		</li>
-		
-		<li>
-		What is the ratio of the magnitude of the gravitational force compared to the electric force from one proton on the other? Is this a big difference? Why is the electric force more viable as a means of holding an atom together compared to the gravitational force? 
-		</li>
-		</ol>
-		</p>
-		</activity> 
+		<video youtube="XzjpnavhG14"><description>A solution to the Explanation: Three Charges activity.</description></video>
+
+	</statement>
+</identity>
+			</solution>
+		</investigation>
 
 
 		

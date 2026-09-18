@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_electric-reps" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="sec_electric-reps0" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>Representations of Electric Fields</title>
 	
 <assemblage component="implementation">
@@ -38,7 +38,7 @@
 	
   </subsubsection>
 
-<activity xml:id="class_field-gen">
+<activity xml:id="class_field-gen0">
 		<title>Electric Field Generator</title>
 		<introduction>
 			<p>
@@ -64,7 +64,7 @@
 		</task>
 	</activity>
 
-	<activity xml:id="class_charged-ball">
+	<activity xml:id="class_charged-ball0">
 		<title>Charged Ball</title>
 		<introduction>
 			<p>
@@ -73,7 +73,7 @@
 		<p>
 			An electrically charged ball with <m>m = 0.06 \mathrm{~kg}</m> hangs at the end of a string oriented <m>\theta = 53^o</m> outward from a wall. The wall produces a uniform electric field with magnitude <m>E = 105 \mathrm{~N/C}</m> that points away from the wall (to the right).
 		</p>
-		<figure xml:id="fig_charged-ball">
+		<figure xml:id="fig_charged-ball0">
 		<title>Charged Ball Figure</title>
     	<caption>A charged ball connected to a string.</caption>
     		<image source="Charged-Ball.png" width = "30%" >
@@ -104,7 +104,7 @@ Sensemake: What do you expect to happen to q in the special case that <m>E = 0</
 		</task>
 	</activity>
 
-	<activity xml:id="class_vector-maps">
+	<activity xml:id="class_vector-maps0">
 		<title>Vector Maps</title>
 		<introduction>
 			<p>
@@ -113,7 +113,7 @@ Sensemake: What do you expect to happen to q in the special case that <m>E = 0</
 		<p>
 			Shown below is an electric field vector map.
 		</p>
-		<figure xml:id="fig_Evectormap">
+		<figure xml:id="fig_Evectormap0">
 		<title>Electric Field Vector Map Example</title>
     	<caption>A example electric field vector map with different values at different points on a grid.</caption>
     		<image source="Evectormap.png" width = "60%" >

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_force-field" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="sec_force-field0" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>Applying Forces and Fields</title>
 
 	<assemblage component="implementation">
@@ -32,7 +32,7 @@
 	
   </subsubsection>
 
-	<activity xml:id="class_charge-launcher-1">
+	<activity xml:id="class_000">
 		<title>Charge Launcher I</title>
 		<introduction>
 			<p>
@@ -65,7 +65,7 @@ Find the magnitude of the electric field in <m>\mathrm{N/C}</m> at the top of th
 		</task>
 	</activity>
 
-	<activity xml:id="class_charge-launcher-2">
+	<activity xml:id="class_001">
 		<title>Charge Launcher II</title>
 		<introduction>
 			<p>
