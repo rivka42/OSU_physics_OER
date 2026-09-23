@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_elec-superposition" xmlns:xi="http://www.w3.org/2001/XInclude">
-	<title>Using Superposition to Find Electric Fields</title>
+	<title>Electric Superposition</title>
 	
 <assemblage component="implementation">
   <title>Implementation Notes</title>

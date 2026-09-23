@@ -30,7 +30,7 @@
 		</statement>
 	</definition>
 
-	<p>Just like for mass density, charge density describes how charge is distributed throughout a line, a surface, or a volume.</p>
+	<p>Just like for <xref ref="def_mass-density"/>, charge density describes how charge is distributed throughout a line, a surface, or a volume.  In fact, the same letters are typically used to represent mass density and charge density!</p>
 
 	<subsubsection>
 		<title>Activities</title>
@@ -45,6 +45,9 @@
 		<answer>
 			<p>
 				The units for one-, two-, and three-dimensional charge density are <m>\mathrm{\frac{C}{m}}</m>, <m>\mathrm{\frac{C}{m^2}}</m>, and <m>\mathrm{\frac{C}{m^3}}</m>, respectively.
+			</p>
+			<p>
+				The units are different because each density measures the charge in a different region of space!
 			</p>
 		</answer>
 		</activity>	

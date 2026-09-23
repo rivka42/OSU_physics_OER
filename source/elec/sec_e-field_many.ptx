@@ -4,7 +4,7 @@
 	<title>Electric Field of Many Charges</title>
 		
  <p>
-The electric field is a vector field and vectors obey the <alert> principle of superposition </alert>. If multiple point charges exist in some region of space, and we want to know the electric field at some point in space in the vicinity of these charges, then we need to sum the vector components of the electric field from each charge at that point in space to determine the total electric field. It may be useful for you to review vector addition before moving forward. 
+The electric field is a vector field and vectors obey the <alert> principle of superposition </alert>. If multiple point charges exist in some region of space, and you want to know the electric field at some point in space in the vicinity of these charges, then you need to add the vector components of the electric field from each charge at that point in space to determine the total electric field. <!--It may be useful for you to review vector addition before moving forward. -->
 </p>
 
 <definition>
@@ -20,7 +20,7 @@ The electric field is a vector field and vectors obey the <alert> principle of s
 			<p>
 The electric field due to multiple point charges is the vector sum <me> \vec{E}_{tot} = \vec{E}_1 + \vec{E}_2 + \vec{E}_3  + ... = \Sigma{\vec{E}_i} </me>.	
 
-where <m> i </m> refers to the electric field from the ith charge in the sum.  	
+where <m> i </m> refers to the electric field from the <m>i^{\text{th}}</m> charge in the sum.  	
 			</p>
 		</statement>
 </definition>

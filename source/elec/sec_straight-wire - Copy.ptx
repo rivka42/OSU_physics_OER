@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_elec-wire" xmlns:xi="http://www.w3.org/2001/XInclude">
-	<title>Application: Charged Wire</title>
+	<title>Application: The Charged Wire</title>
 
 	<assemblage component="implementation">
   <title>Implementation Notes</title>

@@ -19,18 +19,14 @@
 		</me>
 		
 	</p>
-	</statement>
-	</definition>
 
-	<note>
-		<title>1D and 2D Density</title>
-		<p>
-			The symbol <m>\rho</m> represents the volume (three-dimensional) mass density.  
+	<p>
+			<alert>Note:</alert>The symbol <m>\rho</m> represents the volume (three-dimensional) mass density.  
 			Physics also commonly makes use of surface (two-dimensional) mass density, symbolized by <m>\sigma</m>, 
 			and linear (one-dimensional) mass density, symbolized by <m>\lambda</m>.  
 		</p>
-		
-	</note>
+	</statement>
+	</definition>
 
 	<subsubsection>
 		<title>Activities</title>

@@ -24,7 +24,16 @@
 			<p>
 
 			</p>
-			<p>A charge diagram shows a simple picture of an object with small <m>+</m> and <m>-</m> labels indicating where charge is present, what type of charge is present, and where the charge density is greatest and smallest.</p>
+			<p>A charge diagram shows a simple picture of an object with small <m>+</m> and <m>-</m> labels indicating where charge is present, what type of charge is present, and where the charge density is greatest and smallest.
+			</p>
+			<p><alert>Example:</alert> a wire with dense positive charge on the left, low density charge in the middle, and very dense negative charge on the right.</p>
+				<figure xml:id="chg-diagram">
+				<title>Example Charge Diagram</title>
+				<caption>An example charge diagram.</caption>
+				<image source="ChargeDiagram.png" width = "50%" >
+					<description>Many + and - signs representing charges distributed nonuniformly.</description>
+				</image>
+			</figure>
 		</statement>
 	</conjecture>
 
@@ -130,7 +139,7 @@
 								Integrating both sides of this expression: <me>
 									\vec{F} = \int \vec{E} \lambda(x) dx
 								</me>
-								Since the electric field doesn't change along x, it can be pulled out of the integral:
+								Since the electric field does not change in the <m>x</m> direction, it can be pulled out of the integral:
 								<me>
 									\vec{F} = \vec{E} \int \lambda(x) dx
 								</me>
