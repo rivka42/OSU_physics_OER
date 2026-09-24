@@ -72,19 +72,19 @@ The figure below illustrates each of the quantities in the definition above. Con
 -->
 
 
-<note>
+<claim>
 <title>Charge subscripts</title>
 <p>
-Every electric charge generates an electric field. The term <em>source charge</em> is typically used to refer to a charge that is creating an electric field, represented as <m> q_{\text{source}}</m>.  A source charge never feels a force from its own field.  The term <em>test charge</em>, represented as <m> q_{\text{test}}</m>, is typically used to refer to the charge experiencing a force due to this field. It is common to drop the subscript notation and describe charges using just <m>q</m>, using context to determine which is the charge creating the field and which is the charge experiencing the field. 
+Every electric charge generates an electric field. The term <em>source charge</em> or <em>field charge</em> is typically used to refer to a charge that is creating an electric field, represented as <m> q_{\text{source}}</m>.  A source charge never feels a force from its own field.  The term <em>test charge</em>, represented as <m> q_{\text{test}}</m>, is typically used to refer to the charge experiencing a force due to this field. It is common to drop the subscript notation and describe charges using just <m>q</m>, using context to determine which is the charge creating the field and which is the charge experiencing the field. 
 </p>
-</note>
+</claim>
 
 
 
 
-	<note>
+	<claim xml:id="notation-permittivity">
 		<title>
-		The Permittivity Constant
+		Permittivity of Free Space
 		</title>
 	<p> 
 In the equation above, the electric field is written in terms of the <alert> electrostatic constant</alert>, <m> k \approx 9 \times 10^9 \frac{\mathrm{Nm^2}}{\mathrm{C^2}}</m>. In other contexts, this constant is written as <m>k = \frac{1}{ 4 \pi \epsilon_0}</m>, where <m> \epsilon_{0} = 8.85 \times 10^{-12} \frac{\mathrm{C^2}}{\mathrm{Nm^2}}</m> is a fundamental constant known as the permittivity of free spsace.
@@ -92,7 +92,7 @@ In the equation above, the electric field is written in terms of the <alert> ele
 <p>
 The constant <m> \epsilon_{0} </m> (pronounced <q>epsilon naught</q>) is a constant of proportionality that scales how the magnitude of the electric field is related to charge and distance in a <em> vacuum </em>.  If there is other matter around that charge, for example air or wood or water, that matter can affect how the electric field is <em> permitted </em> to exist, and thus the permittivity constant will be different. 
 	</p>
-	</note>
+	</claim>
 
 	<assemblage xml:id="assemblage-gravity4">
       <title>Analogy with Gravity</title>

@@ -2,9 +2,16 @@
 
 <section xml:id="sec_flux" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-	<p>Flux can be described as how much of something flows perpendicularly through an area. Common examples of flux might be how much water flows through the surface of your faucet, how many photons travel through the opening of a telescope, or how much wind flows through a window. You can also think about the electric flux:</p>
+		<activity>
+		<title>Warm-up</title>
+		<statement>
+      <p></p>
+			<p>You want to find the dot product between two vectors, <m>\vec{A}</m> and <m>\vec{B}</m>.  What do you know about the directions of the vectors if the dot product is positive?  What if the dot product is negative?  What if the dot product is zero?</p>
+		</statement>
+			<hint><p>See <xref ref="vec_vb-dot"/> video.</p></hint>
+		</activity>
 
-  	<title>Electric Flux</title>
+	<title>Electric Flux</title>
 		
     <corollary xml:id="vid-flux">
 	<title>Flux</title>
@@ -19,6 +26,8 @@
 	</statement>
   </corollary>
 
+  
+
   <subsubsection><title>Key Ideas</title></subsubsection>
 
 	<definition>
@@ -27,30 +36,36 @@
 			<p>
 				
 			</p>
-			<p>The <term>electric flux</term>, <m>\mathit{\Phi}_E</m>, through a surface defined by infinitesimal area vector <m>d\vec{A}</m> is given by<fn>the double-integral sign indicates that the integral is over a two-dimensional surface</fn> <me>\mathit{\Phi}_E = \iint\vec{E}\cdot d\vec{A}</me></p>
+			<p>The <term>electric flux</term>, <m>\mathit{\Phi}_E</m>, through a surface is given by <me>\mathit{\Phi}_E = \iint\vec{E}\cdot d\vec{A}</me>
+			The double-integral sign indicates that the integral is over a two-dimensional surface, and the limits of integration must be chosen so that they cover the entirety of the desired surface.  The differential area vector <m>d\vec{A}</m> represents an infinitesimal piece of the total surface.
+			</p>
 		</statement>
 	</definition>
 
-	<p>The electric flux tells us about the total electric field passing perpendicularly through a surface. While the electric field isn't actually <q>flowing</q> through a surface, it is still useful to discuss how much of the electric field is passing through a surface. The integral above is called a surface integral, and can be thought of as summing the electric flux passing through each infinitesimal <m>d\vec{A}</m>.</p>
+	  <p>Flux can be described as how much of something flows perpendicularly through an area. Common examples of flux might be how much water flows through the surface of your faucet, how many photons travel through the opening of a telescope, or how much wind flows through a window.</p>
+
+	<p>The electric flux tells us about the total electric field passing perpendicularly through a surface. While the electric field is not actually <q>flowing</q> through a surface, it is still useful to discuss how much of the electric field is passing through a surface. The integral above is called a surface integral, and can be thought of as summing the electric flux passing through each infinitesimal <m>d\vec{A}</m> that makes up a macroscopic surface area.</p>
 
 	<subsubsection>
 		<title>Activities</title>
-		<p>Recall <xref ref="x_fig_book" visual="book" /> from <xref ref="x_area-book" />.</p>
+		
 		<activity>
-      <title>Flux</title>
+      <title>Flux through a Book</title>
       <p></p>
+		<p>Recall the figure from <xref ref="x_area-book" />.</p>
 			<p>Suppose the book were placed in a region with a uniform electric field that points upward: <m>\vec{E} = E_o\hat{y}</m>. If the area of the front cover is <m>A</m>, determine the electric flux through the front cover.  What happens to the integral in a case like this?</p>
 		</activity>
 		<activity>
       <title>Area Vector for a Sphere</title>
+	  <statement>
       <p></p>
-			<p>Suppose you know the electric field everywhere in space and your surface of interest is the surface of  a sphere centered on the origin.  What is the area vector for this surface?  Outline a general procedure for finding the electric flux through this surface.  Can you think of any electric fields for which this procedure will be very challenging?  Very easy?</p>
-		</activity>
-	</subsubsection>
-
-  	<p>After you have completed the activities above, watch the video below.</p>
-
-	<algorithm xml:id="vid-sphere-flux">
+			<p>Suppose you know the electric field everywhere in space and your surface of interest is a sphere centered on the origin.  What is the area vector for this surface?  Outline a general procedure for finding the electric flux through this surface.  Can you think of any electric fields for which this procedure will be very challenging?  Very easy?</p>
+				
+				</statement>
+				<!--
+				<solution>
+					<p>The solution below gives a detailed example of calculating the electric flux for a spherical surface.</p>
+					<algorithm xml:id="vid-sphere-flux">
 	<title>Flux through a Sphere</title>
 	
 	<statement>
@@ -62,6 +77,15 @@
 
 	</statement>
 </algorithm>
+				</solution>
+
+				-->
+		</activity>
+	</subsubsection>
+
+  	
+
+	
 	
 <!--NO AI-->
 </section>

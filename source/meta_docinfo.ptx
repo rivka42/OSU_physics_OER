@@ -55,6 +55,7 @@
   <rename element="assemblage">Tip</rename>
 
   <rename element="lemma">Clarification</rename>
+  <rename element="claim">Notation</rename>
 
   <rename element="outcomes">Adapting Your Model</rename>
 

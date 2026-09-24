@@ -34,6 +34,8 @@ $beaver-orange: #D73F09;
 );
 
 // rounded box
+.claim:not(.dark-mode),
+.lemma:not(.dark-mode),
 .assemblage-like:not(.dark-mode) {
   @include box-mixin.box($border-color: $background-moondust-half, $background-color: $background-moondust-half);
 }

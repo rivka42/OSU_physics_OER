@@ -4,19 +4,33 @@
   <title>Application: Precession</title>
 	
 		<subsubsection>
-	<title>Review Activity</title>
-	<p>Suppose you have an object moving in a straight line to the right with velocity <m>\vec{v}</m>.</p>
-	<exercise>
-	<p>Indicate the direction of the acceleration of the object in each of the following situations.  In particular, how is the direction of the acceleration related to the direction of the velocity?  Explain your reasoning.</p>
+	<title>Warm-up Activity</title>
+	
+	<activity>
+	<title>Acceleration and Velocity Review</title>
+	<introduction>
+		<p>
+			
+		</p>
+		<p>Suppose you have an object moving in a straight line to the right with velocity <m>\vec{v}</m>.</p>
+	</introduction>
+	<task>
+		<statement>
+			<p>Indicate the direction of the acceleration of the object in each of the following situations.  In particular, how is the direction of the acceleration related to the direction of the velocity?  Explain your reasoning.</p>
 	<ul>
 	<li><p>the object speeds up</p></li>
 	<li><p>the object slows down</p></li>
 	<li><p>the object moves in a circle</p></li>
 	</ul>
-	</exercise>
-	<exercise>
-	<p>For each situation above, indicate the direction of the net force on the object.  Explain your reasoning.</p>
-	</exercise>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>For each situation above, indicate the direction of the net force on the object.  Explain your reasoning.</p>
+		</statement>
+	</task>
+	
+	</activity>
 		</subsubsection>
 		
       <corollary xml:id="vid-reviewing-circular">
@@ -28,26 +42,39 @@
 			
 					<subsubsection>
 	<title>Changing the Direction of the Angular Velocity</title>
-	<p>As introduced in the video above, suppose you have an object rotating clockwise with angular velocity <m>\vec{\omega}</m>.</p>
-		<exercise>
+	<activity>
+	<title>How to Change <m>\omega</m></title>
+	
+	
+	<introduction>
+		<p>
+			
+		</p>
+		<p>As introduced in the video above, suppose you have an object rotating clockwise with angular velocity <m>\vec{\omega}</m>.</p>
+	</introduction>
+	
+	
+	
+		<task>
 		<statement>
 	<p>For an object rotating clockwise (from your perspective), what is the direction of the angular velocity vector?</p>
 	</statement>
 	<answer>
 	<p>Into the screen (away from you).</p>
 	</answer>
-	</exercise>
-	<exercise>
+	</task>
+	<task>
 	<p>Indicate the direction of the angular acceleration of the object in each of the following situations.  In particular, how is the direction of the angular acceleration related to the direction of the angular velocity?  Explain your reasoning.</p>
 	<ul>
 	<li><p>the object speeds up</p></li>
 	<li><p>the object slows down</p></li>
 	<li><p>the angular velocity changes so that it traces out a circle<mdash/>what do you think this motion looks like?</p></li>
 	</ul>
-	</exercise>
-	<exercise>
+	</task>
+	<task>
 	<p>For each situation above, indicate the direction of the net torque on the object.  Explain your reasoning.</p>
-	</exercise>
+		</task>
+	</activity>
 		</subsubsection>
 		
 		      <corollary xml:id="vid-precession">

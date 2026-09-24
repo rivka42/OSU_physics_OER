@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_antisymmetric-wire" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Application: Nonuniform Wire</title>
+
+	<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section were designed to be implemented in an interactive studio classroom, and makes for good practice after students have completed all other material on charge distributions and integration.  The activities take about one hour.
+	</p>
+  </assemblage>
+
+  <subsubsection>
+	<title>Activities</title>
+	
+  </subsubsection>
+
+	<activity xml:id="class_nonuniform-wire">
+		<title>The Nonuniform Wire</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			A wire of length <m>2L</m> lies along the <m>x</m>-axis and has its center at the origin.  The non-uniform charge density of this wire is known to be
+			<me>\lambda(x) = +\frac{Q_o}{L^2}|x|</me>
+			  You are interested in finding the electric field created by this wire at a point along the <m>y</m>-axis.
+		</p>
+		
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Draw a graph of the charge density.  Use your graph to draw a physical picture of the wire showing the location of charges in the wire.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Predict the direction of the electric field at the indicated point.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Choose a small section of the wire and write a symbolic expression for the charge on that section <m>dq</m>.  Label your figure with all relevant distances.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Find the electric field created by your dq at a point along the <m>y</m>-axis.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Set up an integral to find the electric field created by the entire wire at a point along the <m>y</m>-axis.
+				</p>
+			</statement>
+			<answer>
+				<p>
+					The electric field created by this wire at a point along the <m>y</m>-axis is 
+					<me>\vec{E} = \frac{2kQ_o}{L^2}\left(\frac{\sqrt{L^2 + y^2} - y}{\sqrt{L^2 + y^2}}\right)\hat{y}</me>
+				</p>
+			</answer>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Make sense of this answer using the following strategies:
+				</p>
+				<ol>
+					<li>
+						<p>
+							Check that the units are correct for electric field!
+						</p>
+					</li>
+					<li>
+						<p>
+							Check that it points in the correct direction.
+						</p>
+					</li>
+					<li>
+						<p>
+							Evaluate the answer in the special case that <m>y</m> goes to <m>\infty</m>.  (Remember to compare the actual answer to your expectation!)
+						</p>
+					</li>
+					<li>
+						<p>
+							Sketch a graph of the electric field along the <m>y</m>-axis (Desmos might help!).  Does your sketch have the right qualitative behavior?
+						</p>
+					</li>
+				</ol>
+			</statement>
+		</task>
+	</activity>
+
+	
+	
+<!--NO AI-->
+</section>
+

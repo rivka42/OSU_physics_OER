@@ -28,10 +28,13 @@
 
     <!--PRACTICE SECTIONS-->
 	<xi:include href="./elec/sec_gauss2.ptx" />
+	<xi:include href="./elec/sec_gauss3.ptx" />
+	<xi:include href="./elec/sec_gauss4.ptx" />
 
 	<xi:include href="./elec/sec_gauss-practice.ptx" />
 
     <!--CHALLENGE SECTIONS-->
+	<xi:include href="./elec/sec_using-symmetry.ptx" />
 	<xi:include href="./elec/sec_gauss-challenge.ptx" />
 
 

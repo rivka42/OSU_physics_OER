@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_using-symmetry" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Using Symmetry</title>
+	
+<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section were designed to be implemented in a 1-hour interactive classroom, after students have completed the rest of the chapter:
+	</p>
+  </assemblage>
+
+  <subsubsection>
+	<title>Activities</title>
+	
+  </subsubsection>
+
+<activity xml:id="class_infinite-slab">
+		<title>Infinite Slab</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			A charged wire with length <m>L</m> is oriented horizontally. The wire has a positive uniform charge density (the charge is spread out uniformly along the one-dimensional wire).
+		</p>
+		<figure xml:id="fig_slab">
+		<title>Infinite Slab Figure</title>
+    	<caption>Two views of a charged slab extending infinitely in the x- and y-directions.</caption>
+    		<image source="Slab.png" width = "100%" >
+				<description>Left, a 3D view of a rectangular slab that occupies the entire xy-plane, extending through a z-height of 2h.  Right, an edge view of the yz-plane, showing a rectangular cross section of the slab, extending infinitely in the horizontal y direction and vertically from -h to h in the z direction.  Point A lies above the slab on the left, point B lies above the slab on the right, point C lies in the slab on the right, and point D lies in the slab on the left, the four points forming a rectangle.</description>
+			</image>
+    </figure>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Which direction should the electric field point?
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					How does the magnitude of the electric field at A and B compare? How does the magnitude of the electric field at C and D compare?
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Which method should you use: Gauss’s Law or chop-multiply-add? How do you know?
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Use the following steps, first for <m>z \gt h</m> (outside), and then for <m>z \lt h</m> (inside).
+				</p>
+				<ol>
+					<li>
+						<p>
+							Draw an appropriate Gaussian surface.
+						</p>
+					</li>
+					<li>
+						<p>
+							Determine the enclosed charge.
+						</p>
+					</li>
+					<li>
+						<p>
+							Write down the flux through each surface.
+						</p>
+					</li>
+					<li>
+						<p>
+							Use Gauss's Law to determine the magnitude of the electric field. Do not forget your direction!
+						</p>
+					</li>
+				</ol>
+			</statement>
+		</task>
+	</activity>
+
+	<activity xml:id="class_finite-slab">
+		<title>Finite Slab</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			Suppose you have a finite slab of thickness <m>2h</m>, length <m>2a</m>, and width <m>2b</m>, with a uniform volume charge density <m>\rho</m>. You want to determine the electric field everywhere in space.
+		</p>
+		<figure xml:id="fig_slab2">
+		<title>Finite Slab Figure</title>
+    	<caption>Two views of a finite charged slab.</caption>
+    		<image source="Slab2.png" width = "100%" >
+				<description>Left, a 3D view of a rectangular slab that has x-length 2a, y-width 2b, and z-height 2h.  Right, an edge view of the yz-plane, showing a rectangular cross section of the slab, extending horizontally in the y direction from -b to b and vertically from -h to h in the z direction.  Point A lies above the middle of the slab on the z-axis and point B lies horizontally to the right from point A.</description>
+			</image>
+    </figure>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					True or False: The direction of the electric field at point A and B is the same.
+				</p>
+			</statement>
+			<answer>
+				<p>
+					False.
+				</p>
+			</answer>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Try setting up an integral using chop-multiply-add for no more than five minutes before you click on the hint.
+				</p>
+			</statement>
+			<hint>
+				<p>
+					Setting up this integral is extremely challenging, and evaluating it analytically is nearly impossible.  Click the solution to see what it looks like!
+				</p>
+			</hint>
+			<solution>
+				<figure xml:id="fig_slab3">
+		<title>Slab Calculation Figure</title>
+    	<caption>Two views of an infinitesimal chunk of a finite charged slab.</caption>
+    		<image source="Slab3.png" width = "70%" >
+				<description>Top, a 3D view of a rectangular slab, with a small cube representing the infinitesimal piece.  Bottom, an edge view of the yz-plane, showing the small cube at position r prime and the position r where the field is to be evaluated.</description>
+			</image>
+    </figure>
+				<me>
+					\vec{E}(x,y,z) = k\rho\int_{-h}^h \int_{-b}^b \int_{-a}^a \frac{\left(x - x'\right)\hat{x} + \left(y - y'\right)\hat{y} + \left(z - z'\right)\hat{z}}{\left(\left(x - x'\right)^2 + \left(y - y'\right)^2 + \left(z - z'\right)^2\right)^{3/2}}dx'dy'dz'
+				</me>
+				
+				<p>
+					Calculating the electric field for any given charge distribution is in general non-trivial. This is why you try to apply any symmetry arguments before diving into the chop-multiply-add method.
+				</p>
+			</solution>
+		</task>
+	</activity>
+
+	
+
+
+	
+<!--NO AI-->
+</section>
+

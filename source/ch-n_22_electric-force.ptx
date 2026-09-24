@@ -38,6 +38,7 @@
 
     <!--CHALLENGE SECTIONS-->
 	<xi:include href="./elec/sec_straight-wire.ptx" />
+	<xi:include href="./elec/sec_nonuniform-wire.ptx" />
 	<xi:include href="./elec/sec_elec-force-challenge.ptx" />
 
 

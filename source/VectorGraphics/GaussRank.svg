@@ -2,20 +2,23 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="13.839785in"
    height="4.7534151in"
    viewBox="0 0 351.53052 120.73674"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="GaussRank.svg">
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="GaussRank.svg"
+   inkscape:export-filename="GaussRank.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <marker
@@ -132,21 +135,24 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="668.98221"
-     inkscape:cy="209.14989"
+     inkscape:cx="669.5"
+     inkscape:cy="209.5"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-width="2880"
+     inkscape:window-height="1514"
+     inkscape:window-x="-11"
+     inkscape:window-y="97"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -155,7 +161,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -165,7 +171,7 @@
      id="layer1"
      transform="translate(279.25065,-121.69761)">
     <circle
-       style="fill:none;fill-opacity:1;stroke:#d45500;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:none;fill-opacity:1;stroke:#d73f09;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path950"
        cx="-248.81647"
        cy="182.06598"
@@ -178,7 +184,7 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:7.40833333px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332;"
+       style="font-size:7.40833px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
        x="-263.5163"
        y="172.44429"
        id="text1250"><tspan
@@ -186,139 +192,103 @@
          id="tspan1248"
          x="-263.5163"
          y="172.44429"
-         style="font-style:italic;stroke-width:0.26458332;font-size:7.40833333px;">R</tspan></text>
-    <g
-       id="g866"
-       transform="matrix(1.5,0,0,1.5,-135.36559,-84.61853)">
-      <circle
-         r="4.088789"
-         cy="177.78967"
-         cx="-75.633926"
-         id="path854"
-         style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.30596748;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         id="text858"
-         y="178.55534"
-         x="-78.358994"
-         style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.26458332"
-           y="178.55534"
-           x="-78.358994"
-           id="tspan856"
-           sodipodi:role="line">+<tspan
+         style="font-style:italic;font-size:7.40833px;stroke-width:0.264583">R</tspan></text>
+    <circle
+       r="6.1331835"
+       cy="182.06598"
+       cx="-248.81648"
+       id="path854"
+       style="fill:#c6dae7;fill-opacity:1;stroke:#000000;stroke-width:0.458951;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       id="text858"
+       y="183.21449"
+       x="-252.90408"
+       style="font-size:7.40833px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.396874"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.396874"
+         y="183.21449"
+         x="-252.90408"
+         id="tspan856"
+         sodipodi:role="line">+<tspan
    id="tspan860"
-   style="font-style:italic">q</tspan></tspan></text>
-    </g>
+   style="font-style:italic;stroke-width:0.396874">q</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-5)"
        d="m -171.24471,183.99445 -29.78211,0.39858"
        id="path952-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <g
-       id="g866-1"
-       transform="matrix(1.5,0,0,1.5,-57.916328,-82.988607)">
-      <circle
-         r="4.088789"
-         cy="177.78967"
-         cx="-75.633926"
-         id="path854-6"
-         style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.30596748;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         id="text858-0"
-         y="178.55534"
-         x="-78.358994"
-         style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.26458332"
-           y="178.55534"
-           x="-78.358994"
-           id="tspan856-6"
-           sodipodi:role="line">+<tspan
-   id="tspan860-1"
-   style="font-style:italic">q</tspan></tspan></text>
-    </g>
-    <g
-       id="g1308-9"
-       transform="translate(-0.44474101)"
-       style="">
-      <circle
-         r="29.934185"
-         cy="182.06598"
-         cx="-90.066475"
-         id="path950-7"
-         style="fill:none;fill-opacity:1;stroke:#d45500;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path952-1"
-         d="M -90.200116,182.33326 -105.99711,157.78541"
-         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-6)" />
-      <text
-         id="text1250-9"
-         y="172.44429"
-         x="-104.76631"
-         style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:italic;stroke-width:0.26458332;font-size:7.40833333px"
-           y="172.44429"
-           x="-104.76631"
-           id="tspan1248-8"
-           sodipodi:role="line">R</tspan></text>
-    </g>
-    <g
-       id="g1377"
-       transform="matrix(1.5,0,0,1.5,-31.583306,-90.832547)">
-      <g
-         transform="translate(36.348656)"
-         id="g866-3">
-        <circle
-           style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.30596748;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-           id="path854-4"
-           cx="-75.633926"
-           cy="177.78967"
-           r="4.088789" />
-        <text
-           xml:space="preserve"
-           style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
-           x="-78.358994"
-           y="178.55534"
-           id="text858-4"><tspan
-             sodipodi:role="line"
-             id="tspan856-8"
-             x="-78.358994"
-             y="178.55534"
-             style="stroke-width:0.26458332">+<tspan
-   style="font-style:italic"
-   id="tspan860-3">q</tspan></tspan></text>
-      </g>
-      <g
-         transform="translate(36.348657,8.2853554)"
-         id="g866-3-3">
-        <circle
-           style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.30596748;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-           id="path854-4-0"
-           cx="-75.633926"
-           cy="177.78967"
-           r="4.088789" />
-        <text
-           xml:space="preserve"
-           style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
-           x="-78.358994"
-           y="178.55534"
-           id="text858-4-4"><tspan
-             sodipodi:role="line"
-             id="tspan856-8-4"
-             x="-78.358994"
-             y="178.55534"
-             style="stroke-width:0.26458332">+<tspan
-   style="font-style:italic"
-   id="tspan860-3-7">q</tspan></tspan></text>
-      </g>
-    </g>
     <circle
-       style="fill:none;fill-opacity:1;stroke:#d45500;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       r="6.1331835"
+       cy="183.69591"
+       cx="-171.36722"
+       id="path854-6"
+       style="fill:#c6dae7;fill-opacity:1;stroke:#000000;stroke-width:0.458951;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       id="text858-0"
+       y="184.84441"
+       x="-175.45482"
+       style="font-size:7.40833px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.396874"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.396874"
+         y="184.84441"
+         x="-175.45482"
+         id="tspan856-6"
+         sodipodi:role="line">+<tspan
+   id="tspan860-1"
+   style="font-style:italic;stroke-width:0.396874">q</tspan></tspan></text>
+    <circle
+       r="29.934185"
+       cy="182.06598"
+       cx="-90.511215"
+       id="path950-7"
+       style="fill:none;fill-opacity:1;stroke:#d73f09;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path952-1"
+       d="M -90.644857,182.33326 -106.44185,157.78541"
+       style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-6)" />
+    <circle
+       style="fill:#c6dae7;fill-opacity:1;stroke:#000000;stroke-width:0.458951;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path854-4"
+       cx="-90.511215"
+       cy="175.85196"
+       r="6.1331835" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.40833px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.396874"
+       x="-94.598816"
+       y="177.00047"
+       id="text858-4"><tspan
+         sodipodi:role="line"
+         id="tspan856-8"
+         x="-94.598816"
+         y="177.00047"
+         style="stroke-width:0.396874">+<tspan
+   style="font-style:italic;stroke-width:0.396874"
+   id="tspan860-3">q</tspan></tspan></text>
+    <circle
+       style="fill:#c6dae7;fill-opacity:1;stroke:#000000;stroke-width:0.458951;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path854-4-0"
+       cx="-90.511208"
+       cy="188.28"
+       r="6.1331835" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.40833px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.396874"
+       x="-94.598808"
+       y="189.4285"
+       id="text858-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan856-8-4"
+         x="-94.598808"
+         y="189.4285"
+         style="stroke-width:0.396874">+<tspan
+   style="font-style:italic;stroke-width:0.396874"
+   id="tspan860-3-7">q</tspan></tspan></text>
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#d73f09;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path950-0"
        cx="11.911497"
        cy="182.06598"
@@ -331,7 +301,7 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:7.40833333px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.52916664;"
+       style="font-size:7.40833px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.529167"
        x="-11.13817"
        y="161.23512"
        id="text1250-7"><tspan
@@ -339,32 +309,28 @@
          id="tspan1248-9"
          x="-11.13817"
          y="161.23512"
-         style="font-style:italic;font-size:7.40833333px;stroke-width:0.52916664;">R</tspan></text>
-    <g
-       id="g866-2"
-       transform="matrix(1.5,0,0,1.5,125.36239,-84.618531)">
-      <circle
-         r="4.088789"
-         cy="177.78967"
-         cx="-75.633926"
-         id="path854-5"
-         style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.30596748;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         id="text858-47"
-         y="178.55534"
-         x="-78.358994"
-         style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.26458332"
-           y="178.55534"
-           x="-78.358994"
-           id="tspan856-2"
-           sodipodi:role="line">+<tspan
+         style="font-style:italic;font-size:7.40833px;stroke-width:0.529167">R</tspan></text>
+    <circle
+       r="6.1331835"
+       cy="182.06598"
+       cx="11.9115"
+       id="path854-5"
+       style="fill:#c6dae7;fill-opacity:1;stroke:#000000;stroke-width:0.458951;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       id="text858-47"
+       y="183.21448"
+       x="7.8238997"
+       style="font-size:7.40833px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.396874"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.396874"
+         y="183.21448"
+         x="7.8238997"
+         id="tspan856-2"
+         sodipodi:role="line">+<tspan
    id="tspan860-8"
-   style="font-style:italic">q</tspan></tspan></text>
-    </g>
+   style="font-style:italic;stroke-width:0.396874">q</tspan></tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#d45500;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:none;fill-opacity:1;stroke:#d73f09;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1431"
        width="59.720234"
        height="59.720234"
@@ -374,7 +340,7 @@
        ry="0" />
     <text
        xml:space="preserve"
-       style="font-size:7.40833333px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332;"
+       style="font-size:7.40833px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
        x="-188.45674"
        y="180.9846"
        id="text1250-78"><tspan
@@ -382,6 +348,17 @@
          id="tspan1248-0"
          x="-188.45674"
          y="180.9846"
-         style="font-style:italic;stroke-width:0.26458332;font-size:7.40833333px;">R</tspan></text>
+         style="font-style:italic;font-size:7.40833px;stroke-width:0.264583">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.40833px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="-107.63374"
+       y="170.75146"
+       id="text1250-78-0"><tspan
+         sodipodi:role="line"
+         id="tspan1248-0-9"
+         x="-107.63374"
+         y="170.75146"
+         style="font-style:italic;font-size:7.40833px;stroke-width:0.264583">R</tspan></text>
   </g>
 </svg>

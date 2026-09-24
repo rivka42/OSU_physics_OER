@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_gauss4" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>Application: Infinite Sheet</title>
+
+	<p>As you saw in <xref ref="sec_gauss"/>, Gauss's law can be used in certain high-symmetry situations as a shortcut to calculating the electric field due to a charge distribution without using Coulomb's law.</p>
+
+	<activity>
+	<title>Gauss's Law Practice - Infinitely Charged Sheet</title>
+	<introduction>
+		<p></p>
+	<p>Consider a two-dimensional sheet of charge that is infinitely long in the <m>x</m>-direction and infinitely long in the <m>y</m>-direction, but infinitesimally thin in the <m>z</m>-direction.  The charge density is uniform and equal to <m>+\sigma_o</m> across the entire sheet.</p>
+	</introduction>
+		<task>
+		<statement>
+			<p>Make a sketch of this charge distribution.  Carefully label your coordinate system.</p>
+			</statement>
+			<answer>
+					<figure xml:id="x_fig_sheet1">
+			  <title>Infinite Sheet</title>
+    		<caption>An infinitely charged sheet.</caption>
+    		<image source="InfiniteSheet1.png" width = "70%" >
+				<description>
+					A representation of an infinite sheet as a parallelogram with a coordinate system on it, x to the right, y parallel to the other side of the parallelogram, and z perpendicular to the parallelogram.
+				</description>
+			</image>
+		</figure>
+			</answer>
+		</task>
+				<task>
+		<statement>
+			<p>What direction do you think the electric field should point in the region above the sheet (<m>z \gt 0</m>)?  Below the sheet (<m>z \lt 0</m>)?  How do you think the magnitude of the electric field would change if you moved in the <m>x</m>- or <m>y</m>-direction?</p>
+			</statement>
+			<hint>
+			<p>Coulomb's law and vector superposition can help here: pick a point, and think about how the charges to the left and right of your point (and their electric fields) compare to each other.</p>
+			</hint>
+			<answer>
+			<p>The electric field must point away from the positively charged sheet, so it points in the positive <m>z</m>-direction above the sheet and in the negative <m>z</m>-direction below the sheet.  Because the sheet is infinite in both directions, moving in either direction should not change the magnitude of the electric field.</p>
+			</answer>
+		</task>
+				<task>
+		<statement>
+			<p>If you want to use Gauss's law to find the electric field, you need to pick a Gaussian (imaginary) surface.  Key features of a useful Gaussian surface are: (a) it should enclose some charge, (b) it must be a closed surface, (c) the electric field should point parallel or perpendicular to the area vector for each side, and (d) the electric field should be uniform along sides where it is parallel to the area vector.  Can you find a useful Gaussian surface for the infinite sheet?  Add a sketch of it to your previous diagram.</p>
+			</statement>
+			<hint>
+			<p>From the previous question, the electric field points away from the sheet, so you want a surface whose sides are either parallel or perpendicular to the sheet.</p>
+			</hint>
+			<answer>
+			<p>Any box will do, such as the cube of side length <m>L</m> drawn below (the box can actually have any cross-section, even a round one).  The box is centered on the <m>xy</m>-plane.</p>
+					<figure xml:id="x_fig_sheet2">
+			  <title>Charged Sheet Figure</title>
+    		<caption>An infinitely charged sheet with a Gaussian surface.</caption>
+    		<image source="InfiniteSheet2.png" width = "70%" >
+				<description>
+					A representation of an infinite sheet as a parallelogram with a coordinate system on it, x to the right, y parallel to the other side of the parallelogram, and z perpendicular to the parallelogram.  Bottom left, a small cube with side length L, two sides shaded blue.
+				</description>
+			</image>
+		</figure>
+			</answer>
+		</task>
+				<task>
+		<statement>
+			<p>Determine the net electric flux through the surface and the charge enclosed by the surface.</p>
+			</statement>
+			<answer>
+			<p>Only the top and bottom ends of the cube have nonzero flux, and both are positive, for a total flux of <m>\Phi_E = 2EL^2</m>, where <m>E</m> is the magnitude of the electric field a distance <m>L/2</m> from the sheet.  The total charge enclosed by the box is the charge density times the cross-sectional area <m>Q_{enc} = \sigma_o L^2</m>.</p>
+			</answer>
+		</task>
+				<task>
+		<statement>
+			<p>Use Gauss's law to solve for the electric field due to the sheet.</p>
+			</statement>
+			<answer>
+			<p>
+			<me>\Phi_E = \frac{Q_{enc}}{\epsilon_0}</me>
+			<me>2EL^2 = \frac{\sigma_o L^2}{\epsilon_0}</me>
+			<me>E = \frac{\sigma_o}{2\epsilon_0}</me>
+			As discussed above, this electric field points upward above the sheet and downward below the sheet.
+			</p>
+			</answer>
+		</task>
+		
+</activity>
+
+<lemma xml:id="clar-gauss">
+<title>Where did the factor of 2 come from?</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>
+			When using Gauss's Law, you always have to evaluate the flux through the entire closed surface (otherwise the flux will not be related to the enclosed charge).  The sides of the Gaussian surface have no flux because they are perpendicular to <m>\vec{E}</m>, but both the top and the bottom contribute equally to the flux: the flux through one of these surfaces is <m>EL^2</m>, but the flux through <em>both of them</em> is <m>2EL^2</m>.  That factor of <m>2</m> gets divided over to the other side of the equation with everything else, so it ends up in the denominator!
+		</p>
+	</statement>
+</lemma>
+
+<p>If you want to watch a full walk-through of this solution, check out the video below.</p>
+		<identity xml:id="vid-gauss2">
+	<title>Using Gauss's Law</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="jG--bz8xC-o"><description>Using Gauss's Law</description></video>
+
+	</statement>
+</identity>
+
+
+<!--NO AI-->
+</section>
+

@@ -9,6 +9,8 @@
 	symmetric and that may be approximated by an appropriate symmetry.
 </p>
 
+
+
 <subsubsection>
 	<title>Common Geometric Symmetries</title>
 </subsubsection>
@@ -17,30 +19,30 @@
 	<li>
 		<p>
 			<alert>Planar Symmetry:</alert> flipping from one side of a plane to another (for example, going from left to right) 
-			does not result in a change to the system.
+			does not result in a change to the system.  For example, the <xref ref="spread-out-charge"/> has both up-down and left-right planar symmetry about the center of the wire.
 		</p>
 	</li>
 	<li>
 		<p>
-			<alert>Cylindrical Symmetry:</alert>  rotation about a central axis does not result in a change to the system.
+			<alert>Cylindrical Symmetry:</alert> rotation about a central axis does not result in a change to the system.  For example, the <xref ref="fig_rot-ring-i"/> has cylindrical symmetry about the center of the ring.
 		</p>
 	</li>
 	<li>
 		<p>
-			<alert>Spherical Symmetry:</alert> any rotation in three-dimensional space does not result in a change to the system.
+			<alert>Spherical Symmetry:</alert> any rotation in three-dimensional space does not result in a change to the system.  The concentric spheres in the <xref ref="surface_area_sphere"/> have spherical symmetry.
 		</p>
 	</li>
 </ol>
 
-<note>
+<subsubsection>
 	<title>Antisymmetry</title>
-	<p>
-		In physics, <term>antisymmetry</term> can be as interesting or important as symmetry.  
+</subsubsection>
+
+<p>
+		<term>Antisymmetry</term>, where flipping over an axis results in an exactly negative value, can be as interesting or important as symmetry.  
 		In antisymmetric planar geometry, for example, everything on the left side of the plane will be the negative of the corresponding 
 		point on the right side of the plane.
 	</p>
-	
-</note>
 
 <subsubsection>
 		<title>Activities</title>

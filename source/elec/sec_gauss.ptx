@@ -24,14 +24,15 @@
 			<p>
 				
 			</p>
-			<p>The net electric flux through any <em>closed</em> surface is equal to the charge enclosed by that surface divided by <m>\epsilon_0</m>: <me>\mathit{\Phi}_E = \frac{Q_{enc}}{\epsilon_0}</me><me>\oint_{S} \vec{E}\cdot d\vec{A} = \frac{Q_{enc}}{\epsilon_0}</me></p>
+			<p>The net electric flux through any <em>closed</em> surface is proportional to the charge enclosed by that surface: <me>\mathit{\Phi}_E = \frac{Q_{enc}}{\epsilon_0}</me><me>\unicode{x222F}_{S} \vec{E}\cdot d\vec{A} = \frac{Q_{enc}}{\epsilon_0}</me></p>
+				<p>
+		The closed circle on the integral symbol indicates that this is an integral over a closed surface.  The symbol <m>\epsilon_0</m> is the <xref ref="notation-permittivity"/> and is related to the electrostatic constant <m>k</m>.
+	</p>
 		</statement>
 	</principle>
 	
-	<!--Alternate code for the integral \unicode{x222F} -->
-	<p>
-		The symbol in the definition above, <m>\oint_{S}</m>, is the same as a surface integral, but the closed circle indicates that this is an integral over a closed surface. 
-	</p>
+	<!--Alternate code for the integral  -->
+	
 	<p>
 		Gauss's Law is extremely useful when your charge distribution has just the right symmetry. To effectively use Gauss's Law, we need:
 		<ol>
@@ -49,12 +50,41 @@
 		When the electric field and area vector are parallel, this will maximize, and simplify, the dot product in the integral. When the electric field is uniform along the surface, the magnitude of the electric field can then be pulled out of the integral since it no longer depends on where on the area of your surface you are looking. This is what makes Gauss's Law powerful when calculating the magnitude of an electric field.
 	</p>
 	<p>
-		To use Gauss's Law, you will need to define a surface, also called a Gaussian surface, that adequately matches the symmetry of your charge distribution. Interestingly, the flux through a surface does not depend on your choice of surface, because ultimately your flux through any surface is equal to <m>\frac{Q_{enc}}{\epsilon_0}</m>, but your surface choice will change, or potentially complicate, your calculations if you are directly calculating the flux through a surface.
+		To use Gauss's Law, you typically need to choose a <q>Gaussian surface</q> that adequately matches the symmetry of your charge distribution. Interestingly, the flux through a surface does not depend on the shape of the surface, because ultimately the flux through any surface is equal to <m>\frac{Q_{enc}}{\epsilon_0}</m>, but differently shaped surfaces will change, or potentially complicate, your calculations if you are directly calculating the flux through a surface.
 	</p>
+
+	<subsubsection><title>Example Derivation: Point Charge</title></subsubsection>
+<p>
+		A straightforward application of Gauss's Law is to confirm that the electric field created by a single point charge <m>q</m> located at the origin is 
+		
+		<me>\vec{E} = \frac{1}{4\pi\epsilon_o}\frac{q}{r^2}\hat{r}</me>
+
+		Since the point charge is located the origin and the electric field points directly outward from the charge, the system exhibits spherical symmetry: that is, the electric field only depends on the distance <m>r</m>.  As a result, a sphere of radius <m>r</m> is a natural choice for the Gaussian surface.
+
+		The total charge enclosed by this surface is exactly <m>q</m>, so all that is left to calculate is the total flux.  Writing the flux integral in spherical coordinates gives:
+
+		<me>\Phi_E = \unicode{x222F}_{S} \vec{E}\cdot d\vec{A} = \int_0^{2\pi}\int_0^\pi \left(E_r \hat{r}\right)\cdot \left(r^2\sin\theta d\theta d\phi \hat{r}\right)</me>
+
+		Here <m>E_r</m> represents the magnitude of the electric field's radial component (the other components of the electric field are zero).
+
+		Resolving the dot product and then performing the integral gives:
+
+		<me>\Phi_E = \int_0^{2\pi}\int_0^\pi E_r r^2\sin\theta d\theta d\phi = 4\pi r^2 E_r</me>
+
+		Last of all, relating this to the charge via Gauss's Law results in the correct magnitude of the electric field!
+
+		<me>E_r = \frac{q}{4\pi\epsilon_0 r^2}</me>
+
+		</p>
 
 	<subsubsection>
 		<title>Activities</title>
-		<figure xml:id="x_fig_gauss-rank">
+		
+		<investigation>
+      <title>Four Cases</title>
+      <p></p>
+			<p>Rank the four cases below by the net electric flux through the shown Gaussian surface from greatest to least. Explain your reasoning.</p>
+				<figure xml:id="x_fig_gauss-rank">
 			  <title>Gauss Rank Figure</title>
     		<caption>Several charge distributions and Gaussian surfaces. The circles represent spheres, and the square represents a cube. </caption>
     		<image source="GaussRank.png" width = "100%" >
@@ -63,10 +93,6 @@
 				</description>
 			</image>
 		</figure>
-		<investigation>
-      <title>Four Cases</title>
-      <p></p>
-			<p>Rank the four cases above by the net electric flux through the shown Gaussian surface from greatest to least. Explain your reasoning.</p>
 		</investigation>
 		<investigation>
       <title>Straight Wire</title>

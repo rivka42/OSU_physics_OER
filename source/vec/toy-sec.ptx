@@ -167,7 +167,7 @@
 	<claim>
 		<title>Claim</title>
 		<p>
-			This is a Claim.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+			This is a Notation (Claim).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
 		</p>
 	</claim>
 	<fact>

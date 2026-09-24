@@ -78,7 +78,7 @@
 			</p>
 
 			<figure xml:id="spread-out-charge">
-				<title>Charge on a wire.</title>
+				<title>Charge on a Wire Figure</title>
     			<caption>Four charges of charge <m>+q</m> are evenly distributed on a wire.</caption>
     			<image source="elec/spread-out-charge.png" width = "60%" >
 					<description>Four +q charges distributed uniformly along a horizontal line.</description>
