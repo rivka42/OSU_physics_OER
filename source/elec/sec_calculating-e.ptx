@@ -16,18 +16,16 @@
 	
 	<p><term>Add:</term> Last, once you have the infinitesimal <m>d\vec{E}</m>, you <em>add</em> together every <m>d\vec{E}</m> over the entire object: <me>\vec{E} = \int d\vec{E} = \int  k\frac{\lambda(x)dx}{r^2}\hat{r}</me></p>
 
+<!--
 	<subsubsection>
 		<title>Activities</title>
 
-		<activity>
-			<title>Chop-Multiply-Add</title>
-			<p>
 
-			</p>
-			<p>Recall the charge densities in <xref ref="chg-dens"/>.  Set up an integral to calculate the corresponding electric field for each case.  Make sure to choose a coordinate system that would help make calculations easier!</p>
-		</activity>
 
-		<!--
+		
+	</subsubsection>
+-->
+  <!--
 		<activity>
 			<title>Chop-Multiply-Add</title>
 			<p>
@@ -36,9 +34,6 @@
 			<p>Recall the charge densities in <xref ref="chg-dens"/>.  Set up an integral to calculate the corresponding electric field for each case.  Make sure to choose a coordinate system that would help make calculations easier!</p>
 		</activity>
 		-->
-	</subsubsection>
-
-  
 
 	
 <!--NO AI-->

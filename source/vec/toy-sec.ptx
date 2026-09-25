@@ -167,7 +167,7 @@
 	<claim>
 		<title>Claim</title>
 		<p>
-			This is a Notation (Claim).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+			This is a Claim (Claim).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
 		</p>
 	</claim>
 	<fact>
@@ -213,7 +213,7 @@
 	<hypothesis>
 		<title>Strategy</title>
 		<p>
-			This is a Strategy (Hypothesis).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+			This is a Notation (Hypothesis).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
 		</p>
 	</hypothesis>
 	<assumption>

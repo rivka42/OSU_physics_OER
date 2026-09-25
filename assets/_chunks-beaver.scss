@@ -35,6 +35,9 @@ $beaver-orange: #D73F09;
 
 // rounded box
 .claim:not(.dark-mode),
+.theorem:not(.dark-mode),
+.proposition:not(.dark-mode),
+.fact:not(.dark-mode),
 .lemma:not(.dark-mode),
 .assemblage-like:not(.dark-mode) {
   @include box-mixin.box($border-color: $background-moondust-half, $background-color: $background-moondust-half);
@@ -67,6 +70,7 @@ $beaver-orange: #D73F09;
       $background-color: $background-moondust-half,
     );
 }
+
 .corollary:not(.dark-mode),
 .identity:not(.dark-mode),
 .algorithm:not(.dark-mode) {

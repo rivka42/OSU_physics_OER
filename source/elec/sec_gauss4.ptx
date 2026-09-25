@@ -82,17 +82,15 @@
 		
 </activity>
 
-<lemma xml:id="clar-gauss">
-<title>Where did the factor of 2 come from?</title>
-	<statement>
+<assemblage xml:id="clar-gauss">
+<title>Clarification: Where did the factor of 2 come from?</title>
 		<p>
 			
 		</p>
 		<p>
 			When using Gauss's Law, you always have to evaluate the flux through the entire closed surface (otherwise the flux will not be related to the enclosed charge).  The sides of the Gaussian surface have no flux because they are perpendicular to <m>\vec{E}</m>, but both the top and the bottom contribute equally to the flux: the flux through one of these surfaces is <m>EL^2</m>, but the flux through <em>both of them</em> is <m>2EL^2</m>.  That factor of <m>2</m> gets divided over to the other side of the equation with everything else, so it ends up in the denominator!
 		</p>
-	</statement>
-</lemma>
+</assemblage>
 
 <p>If you want to watch a full walk-through of this solution, check out the video below.</p>
 		<identity xml:id="vid-gauss2">

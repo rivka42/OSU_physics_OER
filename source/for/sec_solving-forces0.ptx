@@ -53,8 +53,8 @@
 		This strategy is typically known as the <q>Forces</q> approach to solving problems, or <term>Force Analysis</term>.
 	</p>
 
-	<hypothesis xml:id="force-analysis">
-	<title>Force Analysis</title>
+	<assemblage xml:id="force-analysis">
+	<title>Strategy: Force Analysis</title>
 		<statement>
 	<ol>
 		<li>
@@ -84,7 +84,7 @@
 		</li>
 	</ol>
 		</statement>
-	</hypothesis>
+	</assemblage>
 
 <subsubsection>
 	<title>Practice Activities</title>

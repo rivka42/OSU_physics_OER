@@ -22,8 +22,8 @@
 	Approaching a context from an energy perspective follows a similar structure, but the goals are often different. 
 </p>
 
-<hypothesis xml:id="energy-analysis">
-	<title>Energy Analysis</title>
+<assemblage xml:id="energy-analysis">
+	<title>Strategy: Energy Analysis</title>
 	<statement>
 <p></p>
 <ol>
@@ -55,7 +55,7 @@
 </ol>
 		
 	</statement>
-</hypothesis>
+</assemblage>
 
 
 				<heuristic xml:id="sense_solve-multiple-ways">

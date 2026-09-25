@@ -39,7 +39,9 @@
 
 			</p>
 		    <p>A straight wire with one end at <m>x = -L</m> and the other end at <m>x = +L</m> has a total charge <m>+Q_o</m> distributed uniformly.  Find the electric field at a point on the <m>x</m>-axis a distance <m>a</m> from the center of the wire (where <m>a \gt L</m>).</p>
-		
+		<assemblage>
+		    <p><alert><!--REPLACE_TAG-->Tip:</alert> For your physical representation (part 1c), sketch a diagram of the wire and label at least one <m>dq</m> along with all relevant distances.</p>
+		</assemblage>
 		<assemblage>
 		    <p><alert><!--REPLACE_TAG-->Tip:</alert> For your symbolic sensemaking (part 3c), evaluate your answer in the special case that <m>a \gt\gt L</m>.</p>
 		</assemblage>

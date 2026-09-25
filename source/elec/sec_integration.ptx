@@ -88,14 +88,14 @@ In a course you took previously, you learned that the moment of inertia for a po
 
 			<ol> 
 			<li>
-			Explain why the integral <m>I = \int_{0 \text{ m}}^{1.2 \text{ m}} x^2 \lambda dx</m> will give the moment of inertia for your stick if you hold it at one end and swing it in a horizontal circle.
+			Explain why the integral <m>I = \int_{0 \text{ m}}^{1.2 \text{ m}} x^2 \lambda dx</m> will give the moment of inertia for a <m>1.2 \mathrm{~m}</m> long stick if you hold it at one end and swing it in a horizontal circle.
 						<hint>
 				<p>One way to think about an integral is as a tool for calculating a sum.  If you want to know how many apples are on a tree, one way is to divide the tree into ten sections, count the number of apples in each section, and then add them.  However, we often want to add up things that are hard to count.  An integral is like chopping up the tree into a <em>very large number</em> of sections that are <em>very small</em>, counting the number of apples in each section, and then adding them all up.  The <m>dx</m> in an integral represents the size of one of the sections, while the integrand (the rest of the symbols inside the integral symbol) tell you how much of the thing you are counting is in one of those sections, per unit length.  Importantly, each of the small sections might have a <em>different amount</em> of whatever you are counting.</p>
 			</hint>
 
 			</li>		
                          <li>
-			Your friend has a board that is the same length as your stick (1.2 m), but that has a linear mass density that is <em>not</em> uniform: <m>\lambda(x) = 0.8 \text{ kg/m} + 0.3 x \text{ kg/m^2}</m>.  What does the board look like (<em>i.e.,</em> how is the mass distributed)?
+			Your friend has a board that is the same length as your stick (1.2 m), but that has a linear mass density that is <em>not</em> uniform: <me>\lambda(x) = 0.8 \text{ kg/m} + 0.3 x \text{ kg/m^2}</me>  What does the board look like (<em>i.e.,</em> how is the mass distributed)?
 			</li>
 			</ol>
 			</p>

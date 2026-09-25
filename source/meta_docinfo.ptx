@@ -43,7 +43,7 @@
   <rename element="conjecture">Representation</rename>
   <!---->
 	<rename element="heuristic">Sensemaking Strategy</rename>
-  <rename element="hypothesis">Strategy</rename>
+  <rename element="hypothesis">Notation</rename>
 
 	<rename element="insight">Historical Note</rename>
 	<rename element="observation">Additional Detail</rename>
@@ -55,7 +55,7 @@
   <rename element="assemblage">Tip</rename>
 
   <rename element="lemma">Clarification</rename>
-  <rename element="claim">Notation</rename>
+
 
   <rename element="outcomes">Adapting Your Model</rename>
 
