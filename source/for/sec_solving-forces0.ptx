@@ -54,8 +54,8 @@
 	</p>
 
 	<assemblage xml:id="force-analysis">
-	<title>Strategy: Force Analysis</title>
-		<statement>
+	<title>Force Analysis</title>
+	<p>
 	<ol>
 		<li>
 			<p>
@@ -83,7 +83,7 @@
 			</p>
 		</li>
 	</ol>
-		</statement>
+	</p>
 	</assemblage>
 
 <subsubsection>
