@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_using-potential" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Using Electric Potential</title>
+	
+<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section were designed to be implemented in a classroom, after students have completed:
+	</p>
+	<ul>
+		<li>
+			<p>
+				<xref ref="sec_energy-review"/>
+			</p>
+		</li>
+		<li>
+			<p>
+				<xref ref="sec_electric-potential"/>
+			</p>
+		</li>
+		<li>
+			<p>
+				<xref ref="sec_potential-pc"/>
+			</p>
+		</li>
+	</ul>
+  </assemblage>
+
+  <subsubsection>
+	<title>Activities</title>
+	
+  </subsubsection>
+
+
+
+	<activity xml:id="class_old-tv">
+		<title>The Old TV</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			Old TVs worked by sending electrons from the back of the TV to the front of the TV.  The electric potential difference between the front and the back of the TV was <m>\Delta V = 25,000 \mathrm{~V}</m>.
+		</p>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Make a side-view sketch of the inside of the TV.  Label each end with the corresponding value of the electric potential.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Determine the change in electric potential energy (<m>\Delta U_E</m>) for a single electron.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Determine the speed of an electron when it reaches the screen.
+				</p>
+			</statement>
+		</task>
+		
+	</activity>
+
+	<activity xml:id="class_charge-launcher-3">
+		<title>Charge Launcher III</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+		Recall the device described in <xref ref="class_charge-launcher-1"/>.
+		</p>
+
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Find the electric potential difference <m>\Delta V</m> between the middle of the tube and the top of the tube.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Sketch a graph of the electric potential <m>\Delta V</m> vs. height <m>y</m> in the tube.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Use the additional information from <xref ref="class_charge-launcher-2"/>.
+				</p>
+				<p>
+					For each of the following types of energies, determine if they are positive, negative, or zero as the heavy ball moves upward in the launcher: <m>\Delta K</m>, <m>\Delta U_g</m>, and <m>\Delta U_E</m>.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					How fast is the ball moving at the top of the tube?
+				</p>
+			</statement>
+		</task>
+
+		
+	</activity>
+
+
+	
+<!--NO AI-->
+</section>
+

@@ -26,26 +26,62 @@
 			<p>
 				
 			</p>
-			<p>An equipotential graph or diagram shows lines in space where the electric potential is constant, given some electric field or charge distribution. </p>
+			<p>An equipotential graph uses contour lines to show the electric potential.</p>
+				<ul>
+					<li>
+						<p>
+							<alert>The potential is constant along a line:</alert> Each line corresponds to a single value of the potential.
+						</p>
+					</li>
+					<li>
+						<p>
+							<alert>Adjacent lines are separated by the same voltage:</alert> The separation between adjacent lines can be any number of volts, but it must be the same for the entire graph.
+						</p>
+					</li>
+					<li>
+						<p>
+							<alert>Equipotentials are three-dimensional:</alert> The electric potential is a scalar field of all three spatial dimensions.  Equipotential surfaces can be hard to draw, so it is common to represent cross-sections as equipotential lines in two dimensions.
+						</p>
+					</li>
+					<li>
+						<p>
+							<alert>The electric field points perpendicular to the equipotentials:</alert> The magnitude of the electric field can be estimated by looking at the local density of the equipotential lines.
+						</p>
+					</li>
+				</ul>
+				<figure xml:id="fig_EQgraph0">
+			  <title>Example Equipotential Graph</title>
+			<caption><alert>Example:</alert> Five equipotential lines for a positive point charge located at the origin.</caption>
+			<image source="EQgraph0.png" width = "100%" ><description>An xy contour graph showing 5 concentric circles, labeled from outside to inside: 18 V, 27 V, 36 V, 45 V, 54 V.</description></image>
+		</figure>
 		</statement>
 	</conjecture>
 
 	<subsubsection>
 		<title>Activities</title>
-		<figure xml:id="eq">
+		<investigation>
+      <title>Moving through Equipotentials</title>
+	  <introduction>
+      <p></p>
+			<p>Consider the equipotential graph shown below.</p>
+				<figure xml:id="eq">
 			  <title>Equipotential Graph</title>
 			<caption>An equipotential graph in a region of space. The numbers indicate the value of the electric potential for the corresponding line. </caption>
-			<image source="elec/eq2.png" width = "90%" ><description>An equipotential graph in a region of space. The graph shows a region of space, x vs. y, and 10 equipotential lines.</description></image>
+			<image source="EQgraph1.png" width = "100%" ><description>An equipotential graph in a region of space. The graph shows a region of space, x vs. y, and 12 equipotential lines.</description></image>
 		</figure>
-		<investigation>
-      <title>Electric Potential</title>
-      <p></p>
-			<p>Suppose you were to stand at the bottom-middle of the diagram above and walk directly upward. Describe how the electric potential changes as you walk.  Explain your reasoning.</p>
-		</investigation>
-		<investigation>
-      <title>Electric Field</title>
-      <p></p>
-			<p>As you walk from bottom to top, do you think the magnitude of the electric field <m>|\vec{E}|</m> increases, decreases or stays the same?  Explain your reasoning.</p>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Suppose you are initially located at <m>x = 0</m> and <m>y = -1 \mathrm{~m}</m>. Describe how the electric potential changes as you walk in the positive <m>y</m>-direction toward the top of the graph.  Explain your reasoning.
+				</p>
+			</statement>
+		</task>
+      <task>
+	  <statement>
+			<p>Describe how the magnitude of the electric field <m>|\vec{E}|</m> changes as you walk in the positive <m>y</m>-direction toward the top of the graph.  Explain your reasoning.</p>
+		</statement>
+		</task>
 		</investigation>
 	</subsubsection>
 	

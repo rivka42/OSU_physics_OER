@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_energy-review" xmlns:xi="http://www.w3.org/2001/XInclude">
-  	<title>Review: Conservation of Energy</title>
+  	<title>Objects and Energy</title>
 	
 	<subsubsection>
-		<title>Activities: Review of Conservation of Energy</title>
+		<title>Activities: Energy Analysis</title>
 		<investigation>
-      <title>Mechanical Energy</title>
+      <title>Warm-up: Mechanical Energy</title>
       <p></p>
 		<statement>
 			<p>
@@ -15,11 +15,11 @@
 		<p>When is the total mechanical energy of a system conserved? Describe how you know.</p>
 		</statement>
 		<answer>
-		<p>Recall the <xref ref="p_work-energy"/> theorem. If the <alert>net work</alert> done by external forces on an object is zero, then total mechanical energy (kinetic and potential) is conserved.</p>
+		<p>Recall the <xref ref="p_work-energy"/> theorem. If the <alert>net work</alert> done by external forces on an object is zero, then total mechanical energy (kinetic and potential) is conserved.  As tempting as it can be to say that energy is always conserved, the conservation of energy is highly dependent on your choice of system.</p>
 		</answer>
 		</investigation>
 		<investigation>
-      <title>Two Experiments</title>
+      <title>Two Apples</title>
 
 		<statement>
 			<p>
@@ -27,8 +27,8 @@
 			</p>
 			<p>Consider the two experiments described below.  In each case, consider the system consisting of the apple and the Earth.</p>
 			
-			<p>Experiment 1: You are initially holding an apple at rest a distance <m>h</m> above the ground, and you lower the apple and place it at rest on the ground.</p>
-			<p>Experiment 2: You are initially holding an apple at rest a distance <m>h</m> above the ground, and you drop the apple so that it is moving at speed <m>v_f</m> right before it hits the ground.</p>
+			<p><alert>Experiment 1:</alert> You are initially holding an apple at rest a distance <m>h</m> above the ground, and you lower the apple and place it at rest on the ground.</p>
+			<p><alert>Experiment 2:</alert> You are initially holding an apple at rest a distance <m>h</m> above the ground, and you drop the apple so that it is moving at speed <m>v_f</m> right before it hits the ground.</p>
 			
 			<p>Which of the following statements is true about work and energy for these two experiments?</p>
 			

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_potential-pc" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>Electric Potential of a Point Charge</title>
+	
+	
+    <corollary xml:id="vid-elec-v-pc">
+	<title>Potential Difference for a Point Charge</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="b-WvRdtB3U8"><description>Electric Potential Difference for a Point Charge</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
+	
+	
+
+	<definition>
+		<title>Electric Potential for a Point Charge</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>The electric potential a distance <m>r</m> a point charge <m>q</m> can be written as <me>V = k \frac{q}{r}</me>
+				The reference point is chosen so that the electric potential is 0 when <m>r \rightarrow \infty</m>.
+				</p>
+		</statement>
+	</definition>
+
+	<subsubsection>
+		<title>Activities</title>
+		<activity>
+      <title>Two Charges</title>
+      <p></p>
+			<p>Two point charges with charge <m>+q</m> are separated by a distance <m>d</m>. What is the change in electric potential energy if you move one of the charges towards the other a distance of <m>d/2</m>?</p>
+			<solution>
+				<p>As one particle is moved from <m>r = d</m> to <m>r = d/2</m>, the electric potential difference at the new location is given by <me>\Delta V = \frac{kq}{r_f} - \frac{kq}{r_i} = \frac{kq}{d/2} - \frac{kq}{d} = \frac{kq}{d}</me>.</p>
+				<p>The change in electric potential energy is given by <me>\Delta U_E = q \Delta V</me>.</p>
+				<p>Plugging in what was found for our electric potential difference, we find that the change in electric potential energy for the system of two point charges is <me>\Delta U_E = \frac{kq^2}{d}</me></p>
+				<p>Does this make sense? We know that two like charges want to repel. Here we have two oppositely charged particles that want to push each other away. If we push one charge closer to the other, the magnitude of the electric force is going to get larger. So it requires more energy to push that charge inwards, towards the other charge. We should expect that the potential energy is larger as we move these two charges closer to each other.</p>
+			</solution>
+		</activity>
+	</subsubsection>
+	
+<!--NO AI-->
+</section>
+

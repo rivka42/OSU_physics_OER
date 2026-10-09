@@ -24,12 +24,15 @@
 	<!--PREPARE SECTIONS-->
 	<xi:include href="./elec/sec_energy-review.ptx" />
 	<xi:include href="./elec/sec_electric-potential.ptx" />
+	<xi:include href="./elec/sec_potential-pc.ptx" />
+	<xi:include href="./elec/sec_using-potential.ptx" />
 	<xi:include href="./elec/sec_calculating-potential.ptx" />
 
     <!--PRACTICE SECTIONS-->
 	<xi:include href="./elec/sec_elec-energ-practice.ptx" />
 
     <!--CHALLENGE SECTIONS-->
+	<xi:include href="./elec/sec_wireV.ptx" />
 	<xi:include href="./elec/sec_elec-energ-challenge.ptx" />
 
 

@@ -28,7 +28,7 @@
 			<p>
 				
 			</p>
-			<p>The <term>electric potential difference</term> can be calculated using the equation <me>\Delta V = - \int_{r_i}^{r_f} \vec{E} \cdot d\vec{r}</me>. </p>
+			<p>The <term>electric potential difference</term> can be calculated from a known electric field using the equation <me>\Delta V = - \int_{r_i}^{r_f} \vec{E} \cdot d\vec{r}</me>. </p>
 		</statement>
 	</principle>
 
@@ -51,21 +51,21 @@
 		</statement>
 	</definition>
 
-	<assemblage xml:id="shortcuts-dr">
+	<hypothesis xml:id="shortcuts-dr">
 		<title>Shortcuts for <m>\vec{dr}</m></title>
 
 			<p>
 				  The simplest paths can be described as along a single direction: for example, if the path is only in the <m>y</m>-direction, <m>\vec{dr} = dy \hat{y}</m>, while if the path is only in the <m>z</m>-direction then <m>\vec{dr} = dz \hat{z}</m>.
 			</p>
-		</assemblage>
+		</hypothesis>
 
-	<note>
+	<assemblage>
 		<title>Path Independence</title>
 		<p>
 			The electric field is an example of a conservative vector field.  One consequence of this is that the line integral for finding <m>\Delta V</m> is <term>path independent</term>.  Since the value of the line integral does not depend on the path, you can always choose the path that makes evaluating the integral as easy as possible.
 		</p>
 		
-	</note>
+	</assemblage>
 	
 
 	<subsubsection>

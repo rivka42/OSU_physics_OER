@@ -26,10 +26,9 @@
 			</p>
 			<p>A charge diagram shows a simple picture of an object with small <m>+</m> and <m>-</m> labels indicating where charge is present, what type of charge is present, and where the charge density is greatest and smallest.
 			</p>
-			<p><alert>Example:</alert> a wire with dense positive charge on the left, low density charge in the middle, and very dense negative charge on the right.</p>
 				<figure xml:id="chg-diagram">
 				<title>Example Charge Diagram</title>
-				<caption>An example charge diagram.</caption>
+				<caption><alert>Example:</alert> a wire with dense positive charge on the left, low density charge in the middle, and very dense negative charge on the right.</caption>
 				<image source="ChargeDiagram.png" width = "50%" >
 					<description>Many + and - signs representing charges distributed nonuniformly.</description>
 				</image>

@@ -17,21 +17,7 @@
 	</statement>
   </corollary>
 
-  <subsubsection><title>Key Ideas</title></subsubsection>
-	<p>Just like a massive object will store gravitational potential energy, charged objects can store <term>electric potential energy</term></p>
-	<definition xml:id="def-electric_potential_energy">
-		<title>Electric Potential Energy</title>
-		<statement>
-			<p>
-				
-			</p>
-			<p>The change in <term>electric potential energy</term> is defined as <me>\Delta U_E = q_{\mathrm{test}}\Delta V</me>.</p>
-		</statement>
-	</definition>
-	
-	<p>This definition of potential energy intentionally mirrors the definition for electric force <m>\vec{F}^E = q_{\mathrm{test}}\vec{E}</m>.  The new quantity <m>\Delta V</m> is known as the electric potential difference and is based on a new scalar field <m>V</m>, known as the electric potential, which, like the electric field, is created by the presence of other electric charges.  The electric potential difference, which has units of volts (V), is also sometimes called voltage.</p>
-	
-	<corollary xml:id="vid-elec-v">
+  	<corollary xml:id="vid-elec-v">
 	<title>Electric Potential Difference</title>
 	
 	<statement>
@@ -44,30 +30,60 @@
 	</statement>
   </corollary>
 
-	<p>A charged object will experience a potential difference as it moves through, or changes locations in, an electric potential scalar field. If a test charge is near another charged particle, the test charge will experience an electric potential difference due to that point charge.</p>
-	
-	<corollary xml:id="vid-elec-v-pc">
-	<title>Potential Difference for a Point Charge</title>
-	
-	<statement>
-		<p>
-			
-		</p>
-
-		<video youtube="b-WvRdtB3U8"><description>Electric Potential Difference for a Point Charge</description></video>
-
-	</statement>
-  </corollary>
-
-	<definition>
-		<title>Electric Potential for a Point Charge</title>
+  <subsubsection><title>Key Ideas</title></subsubsection>
+	<p>Just like massive objects store gravitational potential energy, charged objects store <term>electric potential energy.</term></p>
+	<definition xml:id="def-electric_potential_energy">
+		<title>Electric Potential Energy</title>
 		<statement>
 			<p>
 				
 			</p>
-			<p>The electric potential created by a single point charge <m>q</m> a distance <m>r</m> from that point charge can be written as <me>V = k \frac{q}{r}</me></p>
+			<p>The change in <term>electric potential energy</term> when a test charge <m>q_{\text{test}}</m> moves through an electric potential difference <m>\Delta V</m> is written: <me>\Delta U_E = q_{\mathrm{test}}\Delta V</me>
+				</p>
 		</statement>
 	</definition>
+
+	<p>This definition of potential energy intentionally mirrors the definition of electric force <m>\vec{F}^E = q_{\mathrm{test}}\vec{E}</m>.  The new quantity <m>\Delta V</m> is known as the electric potential difference and is based on a new scalar field <m>V</m>, known as the electric potential, which, like the electric field, is created by the presence of other electric charges.  <!--A charged object will experience a potential difference as it moves through, or changes locations in, an electric potential scalar field.--></p>
+
+	<definition xml:id="def_epd">
+	<title>
+	Electric Potential Difference
+	</title>
+		<statement>
+		
+			<p>
+			
+			</p>
+			
+			<p>
+			The <term> electric potential (difference)</term> is a <em> scalar field </em> that influences the energy of a system with charged objects.
+			</p>
+			<ul>
+				<li>
+					<p>
+						<alert>The electric potential is a scalar.</alert>  It can be positive or negative, and is measured in volts (V).
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>The electric potential difference is sometimes called voltage.</alert>  Any voltage is referring to an electric potential difference.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>The electric potential has a value at every point in space.</alert>  The value can be different at different points in space.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>The electric potential is measured relative to somewhere.</alert>  The electric potential, like energy, is only meaningfully expressed as a difference between two points.  It is typical to choose a reference location where the potential is zero and then measure the electric potential relative to that point.
+					</p>
+				</li>
+			</ul>
+		</statement>
+</definition>
+	
+	
 
 	<subsubsection>
 		<title>Activities</title>
@@ -77,17 +93,15 @@
 			<p>Express the units of the electric potential (volts) in terms of other units with which you are familiar.</p>
 		</activity>
 		<activity>
-      <title>Two Charges</title>
-      <p></p>
-			<p>Two point charges with charge <m>+q</m> are separated by a distance <m>d</m>. What is the change in electric potential energy if you move one of the charges towards the other a distance of <m>d/2</m>?</p>
-			<solution>
-				<p>As one particle is moved from <m>r = d</m> to <m>r = d/2</m>, the electric potential difference at the new location is given by <me>\Delta V = \frac{kq}{r_f} - \frac{kq}{r_i} = \frac{kq}{d/2} - \frac{kq}{d} = \frac{kq}{d}</me>.</p>
-				<p>The change in electric potential energy is given by <me>\Delta U_E = q \Delta V</me>.</p>
-				<p>Plugging in what was found for our electric potential difference, we find that the change in electric potential energy for the system of two point charges is <me>\Delta U_E = \frac{kq^2}{d}</me></p>
-				<p>Does this make sense? We know that two like charges want to repel. Here we have two oppositely charged particles that want to push each other away. If we push one charge closer to the other, the magnitude of the electric force is going to get larger. So it requires more energy to push that charge inwards, towards the other charge. We should expect that the potential energy is larger as we move these two charges closer to each other.</p>
-			</solution>
+			<title>Sensemaking: Numbers</title>
+			<p>
+				
+			</p>
+			<p>
+				An alternative unit for energy is the electron-volt (eV): the amount of potential energy change experienced by one electron moving through an electric potential difference of <m>1 \mathrm{~V}</m>.  Use the definition of the <xref ref="def-electric_potential_energy"/> to determine the number of Joules in an electron-volt.
+			</p>
 		</activity>
-	</subsubsection>
+		</subsubsection>
 	
 <!--NO AI-->
 </section>

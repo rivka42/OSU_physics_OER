@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_wireV" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Application: Charged Wire Potential</title>
+
+	<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section were designed to be implemented in a 50-minute interactive classroom, after students have completed the rest of the chapter, especially:
+	</p>
+	<ul>
+		<li>
+			<p>
+				<xref ref="sec_using-potential"/>
+			</p>
+		</li>
+		<li>
+			<p>
+				<xref ref="sec_calculating-potential"/>
+			</p>
+		</li>
+	</ul>
+  </assemblage>
+
+  <subsubsection>
+	<title>Activities</title>
+	
+  </subsubsection>
+
+<activity xml:id="class_wireV1">
+		<title>Warmup Ranking</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			Consider the three charge distributions below.
+		</p>
+		<figure xml:id="fig_wireV1">
+		<title>Wire Figure</title>
+    	<caption>Three charge distributions.</caption>
+    		<image source="wireV1.png" width = "80%" >
+          <description>Case A: point P a distance y above a point charge 2q.  Case B: point P a distance y above a pair of point charges 1 separated horizontally by d.  Case C: point P a distance y above a wire with charge 2q and length d.</description>
+        </image>
+    </figure>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					<alert>Predict:</alert> Rank the three cases by the value of the electric potential at point P from greatest to least.  Explain how you determined your answer.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Determine the value of the electric potential at point P in case A and case B.
+				</p>
+			</statement>
+		</task>
+	</activity>
+
+	<activity xml:id="class_wireV2">
+		<title>Potential of the Wire</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			Set up an integral to find the value of the electric potential at point C using our strategy for dealing with continuous charges:
+		</p>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					<alert>Chop</alert> the wire into <m>dq</m> pieces. Identify <m>r</m>.
+
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					<alert>Multiply</alert> to find the <m>dV</m> created by each piece.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					<alert>Add</alert> to find the total potential.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					<alert>Challenge:</alert> Set up an integral to find the electric potential a distance <m>z</m> above a rectangular plate (width <m>2a</m> and length <m>2b</m> centered on the origin) with surface charge density <m>+\sigma</m>.
+				</p>
+			</statement>
+			<solution>
+				<p>
+					<alert>Chop:</alert>
+					<me>\sigma = \frac{dq}{dA}</me>
+					<me>dq = \sigma dA = \sigma dx dy</me>
+				</p>
+				<p>
+					<alert>Multiply:</alert>
+					<me>dV = \frac{kdq}{r} = \frac{k\sigma dx dy}{\sqrt{x^2 + y^2 + z^2}}</me>
+				</p>
+				<p>
+					<alert>Add:</alert>
+					<me>V = \int dV = \int_{-b}^b \int_{-a}^a \frac{k\sigma dx dy}{\sqrt{x^2 + y^2 + z^2}}</me>
+				</p>
+			</solution>
+		</task>
+	</activity>
+
+	<!--
+
+	<activity xml:id="class_">
+		<title>Generator</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			
+		</p>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					
+				</p>
+			</statement>
+		</task>
+	</activity>
+
+	<activity xml:id="class_">
+		<title>Generator</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			
+		</p>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					
+				</p>
+			</statement>
+		</task>
+	</activity>
+
+	-->
+	
+<!--NO AI-->
+</section>
+

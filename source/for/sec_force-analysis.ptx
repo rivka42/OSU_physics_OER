@@ -4,22 +4,129 @@
   <title>Force Analysis for Interacting Systems</title>
 	
       
-  <!--
-	<exercises>
-	<title>Activities</title>
-      <video youtube="zTqmp750d2E"><description>Dr. Paws is pushed across the floor.</description></video>
-			<exercise>
-			<title>A*R*C*S: Uh-Oh Dr. Paws</title>
-			<statement>
-			  <p>In the video, a footstool is pushed across the floor so that Dr. Paws and the footstool speed up together.  What is the maximum magnitude of the force the person could exert on the footstool before Dr. Paws begins sliding?</p>
-				</statement>
-				<hint>
-				<p>What kind of friction acts on Dr. Paws before she begins to slide?</p>
-				</hint>
-			</exercise>
-		</exercises>
+<project xml:id="class_uhoh-dog">
+	<title>Uh-Oh Dr. Paws</title>
+<introduction>
+	<video xml:id="for_vb-dog-on-stool" youtube="zTqmp750d2E"><description>Dr. Paws is pushed across the floor.</description></video>
+    <p>
+		The instructor pushes a footstool (mass <m>m_1</m>) across the floor with a constant force so that the footstool speeds up.  
+		Dr. Paws (a dog with mass <m>m_2</m>) is sitting on the footstool.  
+		The coefficient of static friction between the dog and footstool is <m>\mu</m> (assume no friction with the ground).
+    </p>
+
+	<figure xml:id="fig_uhoh-dog">
+			<title>Dog on Footstool Figure</title>
+		  <caption>A simplified sketch of a dog on a footstool.</caption>
+      <image source="DogFootstool.png" width = "15%">
+			<description>A golden dog on top of a regtangular footstool.</description>
+			</image>
+    </figure>
+
+	<p>
+		Determine how much force the instructor can exert on the footstool before the dog begins sliding.
+	</p>
+
+		</introduction>
 		
--->
+
+
+	<task>
+
+	<title>Analyze and Represent</title>
+		<statement>
+			<p>
+				In the example that follows, describe why the assumptions are reasonable, identify all Action-Reaction (Newton's 3rd Law) Pairs, 
+				and identify and fix the problems with the free-body diagrams.
+			</p>
+			<p>
+				<ol marker="a">
+					<li>
+						<p>
+							<alert>List quantities.</alert>
+						</p>
+						<p>
+							Mass of the footstool: <m>m_1 = 10 \mathrm{~kg}</m>
+						</p>
+						<p>
+							Mass of the dog: <m>m_2 = 30 \mathrm{~kg}</m>
+						</p>
+						<p>
+							Coefficient of static friction: <m>\mu = 0.4</m>
+						</p>
+						<p>
+							Instructor force: <m>F_i = ?</m>
+						</p>
+					</li>
+					<li>
+						<p>
+							<alert>Identify assumptions.</alert>  
+						</p>
+						<p>
+							Near-earth: <m>g = 10 \mathrm{~m/s^2}</m>; particle-model; neglect air-resistance; no friction with the ground.
+						</p>
+					</li>
+					<li>
+						<p>
+							<alert>Represent the situation physically.</alert>
+						</p>
+					</li>
+				</ol>
+	
+				<figure xml:id="fig_uhoh-fbds">
+			<title>Dog and Footstool FBDs</title>
+			 <caption>Two free-body diagrams.</caption>
+			<image source="uhoh-fbds.png" width = "80%">
+				<description>Dog: FNDS pointing up, FGDE pointing down, and FSFDS pointing to the right.  Footstool: FNSG pointing up, FSFSD pointing to the left, FNSP pointing to the right, FNSD pointing down, FGSE pointing down.</description></image>
+	  </figure>	
+	
+				</p>
+		</statement>
+	</task>
+	<task>
+		<title>Sensemake</title>
+		<statement>
+		<p>
+			You have three friends who each calculate a different equation for the maximum allowable force the instructor can apply: 
+			<me>
+				F_{SP}^N = \mu \frac{𝑚_1}{𝑚_1 + 𝑚_2}g
+			</me>
+			<me>
+				F_{SP}^N = \mu\left( 𝑚_2 - 𝑚_1 \right)g
+			</me>
+			<me>
+				F_{SP}^N = \mu \frac{𝑚_1 𝑚_2}{(𝑚_1 + 𝑚_2}g
+			</me>
+			
+			Use a sensemaking strategy to give a reason why each expression is <alert>incorrect</alert>.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<title>Calculate</title>
+		<statement>
+		<p>
+			<ol marker="a">
+				<li>
+					<p>
+						Represent physics principles that will help you solve for the tension and the acceleration.
+					</p>
+				</li>
+				<li>
+					<p>
+						Determine a symbolic equation for each unknown quantity in terms of known variables.
+					</p>
+				</li>
+				<li>
+					<p>
+						Plug numbers into your symbolic answer.
+					</p>
+				</li>
+			</ol>
+			</p>
+		</statement>
+		</task>
+	
+	</project>
 	
 <!--NO AI-->
 </section>
