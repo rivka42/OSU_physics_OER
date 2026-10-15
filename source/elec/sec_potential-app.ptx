@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_potential-app" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>Applications of Electric Potential</title>
+
+	<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section were designed to be implemented in an interactive studio classroom, after students have completed <xref ref="sec_reps-potential"/> and its prerequisite sections.  The activities take about 90 minutes.
+	</p>
+  </assemblage>
+
+<subsubsection>
+	<title>Activities</title>
+	
+  </subsubsection>
+
+<activity>
+	<title>Equipotential Surfaces</title>
+	<p>
+	
+	</p>
+	<p>
+		This activity uses a plastic surface, like the one in the figure, to represent the electric potential between two charged plates, one positive and one negative.  A <m>1 \mathrm{~cm}</m> height difference corresponds to an electric potential difference of <m>1 \mathrm{~V}</m>.
+	</p>
+	<ol marker="A.">
+		<li>
+			<p>
+				Rank the three marked points by the value of the electric potential from greatest to least.  Explain your reasoning.
+			</p>
+		</li>
+		<li>
+			<p>
+				Find three different points on the surface that are separated by equal (non-zero!) changes in potential.
+			</p>
+						  <ol marker="1.">
+							<li>
+							  <p>
+								Identify (and mark) all the points with the same value of potential as your three points.
+							  </p>
+							</li>
+			
+							<li>
+							  <p>
+								What patterns do you notice?
+							  </p>
+							</li>
+						  </ol>
+		</li>
+		<li>
+			<p>
+				Align your surface with a contour map.  How are you making this alignment?  Where is the surface a good approximation of the potential?  Where is the approximation less good?
+			</p>
+		</li>
+		<li>
+			<p>
+				Sketch a graph of the potential <m>V</m> vs. distance from the negative plate <m>x</m>.
+			</p>
+			<p>
+						  <ol marker="1.">
+							<li>
+							  <p>
+								Describe the relationship between potential and distance from the negative plate.
+							  </p>
+							</li>
+			
+							<li>
+							  <p>
+								Propose an equation to describe the electric potential as a function of the distance, <m>x</m>, from the negative plate. Where did choose for the location of <m>V = 0</m>?
+							  </p>
+							</li>
+			
+							<li>
+							  <p>
+								What do you think the slope of your graph of <m>V</m> vs. <m>x</m> represents?
+							  </p>
+							</li>
+						  </ol>
+						</p>
+		</li>
+	</ol>
+</activity>
+
+<!--
+	<activity xml:id="class_charged-sphere">
+	<title>Charged Sphere</title>
+	
+	
+	<introduction>
+		<p>
+			
+		</p>
+		<p>
+			You want to determine the electric field everywhere in space due to a uniformly charged sphere with charge density <m>\rho</m> and radius <m>R</m>.
+		</p>
+	</introduction>
+	<task>
+		<statement>
+			<p>
+				Use Gauss's Law to determine the electric field when <m>r \gt R</m>.
+			</p>
+			<ol>
+				<li>
+					<p>
+						Draw an appropriate Gaussian surface.
+					</p>
+				</li>
+				<li>
+					<p>
+						Determine the charge enclosed.
+					</p>
+				</li>
+				<li>
+					<p>			
+						Determine the flux. 
+					</p>
+				</li>
+				<li>
+					<p>
+						Apply Gauss's Law to find the electric field.
+					</p>
+				</li>
+			</ol>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Use Gauss's Law to determine the electric field when <m>r \lt R</m>.
+			</p>
+			<ol>
+				<li>
+					<p>
+						Draw an appropriate Gaussian surface.
+					</p>
+				</li>
+				<li>
+					<p>
+						Determine the charge enclosed.
+					</p>
+				</li>
+				<li>
+					<p>			
+						Determine the flux. 
+					</p>
+				</li>
+				<li>
+					<p>
+						Apply Gauss's Law to find the electric field.
+					</p>
+				</li>
+			</ol>
+		</statement>
+	</task>
+	</activity>
+
+	-->
+
+<!--NO AI-->
+</section>
+

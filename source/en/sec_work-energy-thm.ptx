@@ -19,7 +19,7 @@
   <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<principle xml:id="p_work-energy">
-	<title>The Work-Energy Theorem</title>
+	<title>Work-Energy Theorem</title>
 	<statement>
 		<p></p>
 	  <p>The net work done by external forces on an object or system is equal to the change in total energy of that system: <me>W_{net,external} = \Delta E</me></p>

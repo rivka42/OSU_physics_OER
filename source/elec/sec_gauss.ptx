@@ -57,7 +57,7 @@
 <p>
 		A straightforward application of Gauss's Law is to confirm that the electric field created by a single point charge <m>q</m> located at the origin is 
 		
-		<me>\vec{E} = \frac{1}{4\pi\epsilon_o}\frac{q}{r^2}\hat{r}</me>
+		<me>\vec{E} = \frac{1}{4\pi\epsilon_0}\frac{q}{r^2}\hat{r}</me>
 
 		Since the point charge is located the origin and the electric field points directly outward from the charge, the system exhibits spherical symmetry: that is, the electric field only depends on the distance <m>r</m>.  As a result, a sphere of radius <m>r</m> is a natural choice for the Gaussian surface.
 

@@ -14,7 +14,7 @@
 	-->
 	
 	<investigation xml:id="study_elec-09">
-		<title>Flux Practice</title>
+		<title>Charges and Flux</title>
 		<introduction>
 			<figure xml:id="x_point-charges-flux">
 				<title>Flux Figure</title>
@@ -58,7 +58,7 @@
 	</investigation>
 
 	<investigation xml:id="apply_elec-07">
-		<title>Flux</title>
+		<title>Flux Cube</title>
 		<introduction>
 			<figure xml:id="x_cube-gauss">
 				<title>Gaussian Cube Figure</title>
@@ -93,12 +93,19 @@
 
 	<subsubsection>
 		<title>Metacognitive Reflection</title>
-		<statement>
-			<p>
+		<activity>
+			<title>Summarizing Symmetry</title>
+			
+			<statement>
+				<p>
+
+		</p>
+		<p>
 				A major theme of this unit was determining how and when symmetry can help make your calculations easier. Write a short paragraph summarizing symmetry and how it can be useful when calculating the electric field. Which activities did you complete this week that you want to remember?
 			</p>
-		</statement>
-	</subsubsection>
+			</statement>
+		</activity>
+		</subsubsection>
   
 <!--NO AI-->
 </section>

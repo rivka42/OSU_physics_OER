@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_cap-energy" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>Energy in Capacitors</title>
+		
+    
+	<p>As you have seen previously, a capacitor consists of two spatially separated conductors, typically called <q>plates</q>, in which charge <m>Q</m> has been moved from one plate to the other.  In practice, moving this charge requires that work be done on the charges to move them across the electric potential difference between the plates.  If the capacitor plates have reached <xref ref="a_electrostatic-eq"/>, the charges will not be moving, so the <xref ref="p_work-energy"/> suggests this work must add <alert>potential energy</alert> to the capacitor.</p>
+
+	<remark>
+		<title>Potential Energy for a Capacitor</title>
+		<p>
+			Since the total charge is assembled on the capacitor one point charge at a time, you can use the Chop-Multiply-Add strategy to sum the contribution to the total potential energy made by each point charge.
+		</p>
+		<p>
+			<alert>Chop:</alert> Each point charge that moves from one plate to the other can be represented simply as <m>dq</m>.
+		</p>
+		<p>
+			<alert>Multiply:</alert> The potential energy gained by the point charge as it moves is <m>dU = \Delta V(q) dq</m>, where <m>\Delta V(q)</m> is the potential difference between the capacitor plates, here written as a function of the total charge already on each plate.  Note that <m>\Delta V(q)</m> should <em>increase</em> as more and more charge is moved.  The definition of <xref ref="capacitance"/> allows this to be rewritten <m>dU = \frac{q}{C} dq</m>.
+		</p>
+		<p>
+			<alert>Add:</alert> Summing from an initial charge of 0 to a final charge <m>Q</m> gives <me>U = \int dU = \int_0^Q \frac{q}{C} dq = \frac{1}{2}\frac{Q^2}{C}</me>
+			Reusing the definition of capacitance allows this to be rewritten in various forms depending on the known quantities.
+		</p>
+	</remark>
+				
+	<definition xml:id="def_energy-capacitor">
+	<title>Potential Energy Stored in a Capacitor</title>
+	
+	
+		<statement>
+			<p>
+				
+			</p>
+			<p>
+				The electric potential energy stored in a capacitor is <me>U_{\text{capacitor}} = \frac{1}{2}\frac{Q^2}{C} = \frac{1}{2}C(\Delta V)^2 = \frac{1}{2}Q(\Delta V)</me>
+			</p>
+		</statement>
+	</definition>
+
+	
+	
+<!--NO AI-->
+</section>
+

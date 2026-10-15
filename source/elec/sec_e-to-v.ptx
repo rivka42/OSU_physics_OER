@@ -23,7 +23,7 @@
 	</p>
 	
 	<principle xml:id="e_to_v">
-		<title>Determining Electric Potential Difference from Electric Field</title>
+		<title>Determining the Electric Potential Difference from the Electric Field</title>
 		<statement>
 			<p>
 				
@@ -73,7 +73,7 @@
 		<activity>
       <title>Sensemaking</title>
       <p></p>
-			<p>If you know the electric field and you want to determine the electric potential difference, you can use the above equation. There is a negative sign in front of the integral in the above equation. What do you think this negative sign means physically?</p>
+			<p>There is a negative sign in front of the integral in the above equation for <m>\Delta V</m>. What do you think this negative sign means physically?</p>
 		</activity>
 	</subsubsection>
 

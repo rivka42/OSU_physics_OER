@@ -18,7 +18,7 @@
 
   <subsubsection><title>Key Ideas</title></subsubsection>
 	
-	<p>Similar to contour or topographical maps, equipotential graphs are extremely useful to see where the electric potential is constant throughout some region of space. Typically, equipotential lines will be drawn with the same difference in potential between two adjacent lines.</p>	
+	<p>Similar to contour or topographical maps, equipotential graphs used curved lines to illustrate the value of the electric potential in space.</p>	
 				
 	<conjecture xml:id="rep_eq-graphs">
 		<title>Equipotential Graphs</title>
@@ -30,22 +30,22 @@
 				<ul>
 					<li>
 						<p>
-							<alert>The potential is constant along a line:</alert> Each line corresponds to a single value of the potential.
+							<alert>The potential is constant along a line.</alert> Each line corresponds to a single value of the potential.
 						</p>
 					</li>
 					<li>
 						<p>
-							<alert>Adjacent lines are separated by the same voltage:</alert> The separation between adjacent lines can be any number of volts, but it must be the same for the entire graph.
+							<alert>Adjacent lines are separated by the same voltage.</alert> The separation between adjacent lines can be any number of volts, but it must be the same for the entire graph.
 						</p>
 					</li>
 					<li>
 						<p>
-							<alert>Equipotentials are three-dimensional:</alert> The electric potential is a scalar field of all three spatial dimensions.  Equipotential surfaces can be hard to draw, so it is common to represent cross-sections as equipotential lines in two dimensions.
+							<alert>Equipotentials are three-dimensional.</alert> The electric potential is a scalar field of all three spatial dimensions.  Equipotential surfaces can be hard to draw, so it is common to represent cross-sections as equipotential lines in two dimensions.
 						</p>
 					</li>
 					<li>
 						<p>
-							<alert>The electric field points perpendicular to the equipotentials:</alert> The magnitude of the electric field can be estimated by looking at the local density of the equipotential lines.
+							<alert>The electric field points perpendicular to the equipotentials.</alert> The magnitude of the electric field can be estimated by looking at the local density of the equipotential lines.
 						</p>
 					</li>
 				</ul>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_reps-potential" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Representations of Potential</title>
+	
+<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section were designed to be implemented in a classroom, after students have completed:
+	</p>
+	<ul>
+		<li>
+			<p>
+				<xref ref="sec_eq-graphs"/>
+			</p>
+		</li>
+		<li>
+			<p>
+				<xref ref="sec_e-to-v"/>
+			</p>
+		</li>
+		<li>
+			<p>
+				<xref ref="sec_v-to-e"/>
+			</p>
+		</li>
+	</ul>
+  </assemblage>
+
+  <subsubsection>
+	<title>Activities</title>
+	
+  </subsubsection>
+
+
+
+	<activity xml:id="class_eq1">
+		<title>Warm-up</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			Consider the equipotentials below.
+		</p>
+		<figure xml:id="fig_class-eq1">
+			  <title>Simple Equipotential Graph</title>
+			<caption>Equipotential lines.</caption>
+			<image source="EQgraph0.png" width = "100%" ><description>An equipotential graph measuring 10 m from top to bottom.  A horizontal line at -25 V near the bottom separates lines below that curve down as they move to the right and lines above that curve upward as they move to the right.  The topmost line in the upper left corner is at +15 V.  Point A lies on the line just below the +15 V line near the left edge, while point B lies two lines above the -25 V line near the right edge.</description></image>
+		</figure>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Draw a vector at each point to indicate the electric field.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					How can you tell the direction?
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Which point represents a larger <m>\vec{E}</m>?
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Estimate the magnitude of <m>\vec{E}</m> at each point.
+				</p>
+			</statement>
+		</task>
+		
+	</activity>
+
+	<activity xml:id="class_eq-plate">
+		<title>Potential for the Infinite Plate</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			The electric field due to the infinite plate with charge density <m>\sigma</m> shown in the figure below has uniform magnitude and points perpendicular to the plate: 
+			<me>\vec{E} = \frac{\sigma}{2\epsilon_0}\hat{z}</me>
+		</p>
+		<figure xml:id="fig_class-eq-plate">
+			  <title>Plate Diagram</title>
+			<caption>An infinitely large charged plate.</caption>
+			<image source="Charged-Plate.png" width = "40%" ><description>A plate represented by a vertical line on the left, with point A and D a distance z1 to the right (with D above A) and points B and C a distance z2 to the right, with C above B.</description></image>
+		</figure>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Draw an electric field vector map.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Use an integral to find <m>\Delta V</m> between points A and B.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Use an integral to find <m>\Delta V</m> between points B and C.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Draw equipotential lines (at least five!).
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					What happens to the potential if you travel the path: <me>A \rightarrow B \rightarrow C \rightarrow D \rightarrow A</me>
+
+				</p>
+			</statement>
+		</task>
+		
+	</activity>
+
+	<activity xml:id="class_eq2">
+		<title>Equipotentials</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+		Now consider the equipotentials below
+		</p>
+		<figure xml:id="fig_class-eq2">
+			  <title>Simple Equipotential Graph</title>
+			<caption>Equipotential lines.</caption>
+			<image source="DipoleContours.png" width = "100%" ><description>An equipotential graph with x from -3 m to +3 m on the horizontal and y from -3 m to +3 m on the vertical.  A 0 V line runs vertically down the center, separating rounded, near-oval potentials on either side, positive up to 20 V on the left, negative down to -20 V on the right.</description></image>
+		</figure>
+
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Rank the points by the value of the potential.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Draw a vector at each point to indicate the electric field.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Rank the points by the magnitude of the electric field.
+				</p>
+				
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Sketch a charge diagram.
+				</p>
+			</statement>
+		</task>
+		
+	</activity>
+
+
+	
+<!--NO AI-->
+</section>
+

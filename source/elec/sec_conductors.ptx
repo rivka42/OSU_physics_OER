@@ -4,25 +4,25 @@
   	<title>Conductors</title>
 
 	<activity>
-		<title>Warm-Up Activity</title>
+		<title>Warm-Up</title>
 		<introduction>
 		<p>
 			
 		</p>
-		<p>The diagram shows a large positive charge next to a conductor. A conductor is a material (typically metal) that has a lot of free charges that can move around in response to external fields. The conductor in the figure is neutral (the net charge is zero).</p>
+		<p>The diagram shows a large positive charge next to an electrical conductor.  A conductor is a material that has a lot of free charges that can move around in response to external fields: most metals are good electrical conductors.  The conductor in the figure is neutral, so its <em>net charge</em> is zero.</p>
 
 		<figure xml:id="conductor-img">
 			  <title>Conductor Figure</title>
-			<caption>A large positive charge to the left of a square conductor.</caption>
-			<image source="Conductor.png" width = "50%" ><description>A long rod is positively charged and is held next to a circular conductor.</description></image>
+			<caption>A large positive charge to the left of a conductor.</caption>
+			<image source="Conductor.png" width = "50%" ><description>A long rod is positively charged and is held next to a conductor represented as a square.</description></image>
 		</figure>
 	</introduction>
 		<task>
 			
-			<p>Describe how you would expect the charges in the conductor to distribute themselves in the presence of the large positive charge.</p>
+			<p><alert>Predict</alert> how you expect the charges in the conductor to distribute themselves in the presence of the large positive charge.  Make a charge diagram showing your prediction.</p>
 		</task>
 		<task>
-			<p>Together, the large positive charge and the charges in the conductor will create a net electric field everywhere in space.  Predict the direction of this net electric field at the center of the square conductor.</p>
+			<p>Together, the large positive charge and the charges in the conductor will create a net electric field everywhere in space.  Predict the direction of this net electric field at the <em>center</em> of the conductor.</p>
 		</task>
 		<task>
 			<p>Click on <url href="https://www.youtube.com/watch?v=WqvImbn9GG4" visual="this link"/> to view a video demonstrating what happens in case like the one described above.</p>
@@ -45,31 +45,20 @@
 	</statement>
   </corollary>
 
-  <subsubsection><title>Key Ideas</title></subsubsection>
-	
-	<p>Conductors are extremely useful objects that interact in interesting ways with an external electric field. </p>
-	
-	<definition>
-		<title>Conductors</title>
-		<statement>
-			<p>
-				
-			</p>
-			<p>A <term>conductor</term> is an object that possesses free electric charges that move in response to an external electric field in such a way that the electric field everywhere inside the conductor is zero.</p>
-		</statement>
-	</definition>
-	
-	<activity>
-	<title>Conductor in an Electric Field</title>
-	<p>
-		
-	</p>
-		<p>Consider the charged conductor shown below.</p>
+  	<activity>
+	<title>Sensemaking Check</title>
+	<introduction>
+		<p>
+			
+		</p>
+				<p>Consider the charge diagram below of a conductor in an external electric field.</p>
 				<figure xml:id="conductor-img2">
 			  <title>Charged Conductor Figure</title>
 			<caption>A charged conductor and an external electric field.</caption>
-			<image source="ConductorCharged.png" width = "50%" ><description>A long rod is positively charged and is held next to a circular conductor.</description></image>
+			<image source="ConductorCharged.png" width = "75%" ><description>A circular gray conductor in an upward pointing electric field.  Positive charges line the top of the conductor and negative charges line the bottom.  Points A and B are separated vertically inside the circle.</description></image>
 		</figure>
+	</introduction>
+
 		<task>
 			<p>What direction is the net electric field at each point inside the conductor?  Explain your reasoning.</p>
 		</task>
@@ -77,8 +66,6 @@
 			<p>Do you think the electric potential difference between points A and B is positive, negative, or zero?  Explain your reasoning.</p>
 		</task>
 	</activity>
-
-	<p>Conductors have many interesting properties, which are summarized in the video below.</p>
 
 	<corollary xml:id="vid-conductors-rules">
 	<title>Rules for Conductors</title>
@@ -92,6 +79,60 @@
 
 	</statement>
   </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
+	
+	<!--<p>Electrical conductors are extremely useful objects that interact in interesting ways with external electric fields.</p>-->
+
+		<definition>
+		<title>Electrical Conductor</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>An <term>electrical conductor</term> is an object that possesses free electric charges that can move in response to external electric fields.  When the conductor is in <xref ref="a_electrostatic-eq"/> it has the following properties:</p>
+				<ul>
+					<li>
+						<p>
+							<alert>Inside a conductor, <m>\vec{E} = 0</m>.</alert>  This is true for <em>every point</em> in the interior of the conductor.
+						</p>
+					</li>
+					<li>
+						<p>
+							<alert>The conductor is an equipotential surface.</alert>  For any two points inside the conductor, <m>\Delta V</m> must be equal to zero.
+						</p>
+					</li>
+					<li>
+						<p>
+							<alert>The external electric field is perpendicular to the surface.</alert>  This is true locally for the entire surface, but once you get some distance from the surface, the electric field can point in other directions.
+						</p>
+					</li>
+					<li>
+						<p>
+							<alert>All surplus charge exists at the surface.</alert>  All points inside the conductor, not at the surface, will have a net charge equal to zero.
+						</p>
+					</li>
+					<li>
+						<p>
+							<alert>Charge density is largest near corners.</alert>  As a result of this, the magnitude of the electric field will also be largest near corners.  The sharper the corner, the larger the charge density and the field.
+						</p>
+					</li>
+				</ul>
+		</statement>
+	</definition>
+
+	<assumption xml:id="a_electrostatic-eq">
+	<title>Electrostatic Equilibrium</title>
+		<p>
+			
+		</p>
+		<p>A conductor is in electrostatic equilibrium when no charges within the conductor are moving, and usually occurs very quickly after an external electric field is applied to the conductor.  If there is an <em>internal electric field</em>, the conductor is <alert>not</alert> in electrostatic equilibrium.</p>
+			
+</assumption>
+	
+
+
+	
 
 	<references>
 		<biblio xml:id="ref_faraday_cage_mit">

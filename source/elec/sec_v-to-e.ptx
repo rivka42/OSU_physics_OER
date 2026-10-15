@@ -6,7 +6,7 @@
 		<activity>
       <title>Warm-Up</title>
       <p></p>
-			<p>Given the equation you learned about in the previous section, <xref ref="e_to_v"/>, suppose you instead knew the electric potential (<m>V</m>), and you wanted to figure out the electric field (<m>\vec{E}</m>). What mathematical operation could you perform on <m>V</m> to get <m>\vec{E}</m>?</p>
+			<p>Starting with what you learned about <xref ref="e_to_v"/>: suppose you instead knew the electric potential <m>V</m> and you want to figure out the electric field <m>\vec{E}</m>. What mathematical operation could you perform on <m>V</m> to get <m>\vec{E}</m>?</p>
 		</activity>
 		
     <corollary xml:id="vid-v-to-e">
@@ -27,7 +27,7 @@
 	<p>Now you have seen how we can go back and forth between <m>V</m> and <m>\vec{E}</m>. To find <m>V</m> from <m>\vec{E}</m>, you can take a derivative!</p>
 	
 	<definition>
-		<title>Electric Field: <m>\vec{E}</m> from V</title>
+		<title>Determining the Electric Field from the Electric Potential</title>
 		<statement>
 			<p>
 				
@@ -44,6 +44,15 @@
 				  <me>\vec{\mathit{E}} = -\vec{\nabla}\mathit{V} = - \frac{\partial V}{\partial x}\hat{x} - \frac{\partial V}{\partial y}\hat{y} - \frac{\partial V}{\partial z}\hat{z}</me>
 			</p>
 		</hypothesis>
+
+		<subsubsection>
+		<title>Activities</title>
+		<activity>
+      <title>Electric Field Estimate</title>
+      <p></p>
+			<p>Consider the <xref ref="fig_EQgraph0"/>.  Use the equation above to estimate a numerical value for the magnitude of the electric field at position <m>\vec{r} \approx (0.5 \mathrm{~m}) \hat{x}</m>.</p> 
+		</activity>
+	</subsubsection>
 
 <!--NO AI-->
 </section>

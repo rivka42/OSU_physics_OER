@@ -59,7 +59,7 @@
 		</statement>
 		<answer>
 			<p>
-				No. Gauss's Law tells us that the net electric flux through a surface is equal to the charge enclosed (divided by <m>\epsilon_o</m>). To use Gauss's Law, you need to take advanage of the symmetry of the charge distribution. If a Gaussian surface is drawn around both charges, the charge enclosed is zero, so the net flux is zero. There is not a useable symmetry for the dipole.
+				No. Gauss's Law tells us that the net electric flux through a surface is equal to the charge enclosed (divided by <m>\epsilon_0</m>). To use Gauss's Law, you need to take advanage of the symmetry of the charge distribution. If a Gaussian surface is drawn around both charges, the charge enclosed is zero, so the net flux is zero. There is not a useable symmetry for the dipole.
 			</p>
 		</answer>
 	</exploration>
