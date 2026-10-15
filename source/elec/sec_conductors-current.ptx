@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_conductors-current" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>Conductors and Current</title>
+<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section were designed to be implemented in a 50-minute interactive classroom, after students have completed the rest of the chapter, especially:
+	</p>
+	<ul>
+		<li>
+			<p>
+				<xref ref="sec_potential-app"/>
+			</p>
+		</li>
+		<li>
+			<p>
+				<xref ref="sec_conductors"/>
+			</p>
+		</li>
+		<li>
+			<p>
+				<xref ref="sec_electric-current"/>
+			</p>
+		</li>
+	</ul>
+  </assemblage>
+	<activity>
+		<title>Warm-Up</title>
+		<statement>
+		<p>
+			
+		</p>
+		<p>Suppose you place a positive charge in a cavity inside the conductor below.  Sketch a charge diagram for the conductor.</p>
+
+		<figure xml:id="conductor2">
+			  <title>Conductor Figure</title>
+			<caption>A positive charge within a cavity in a conductor.</caption>
+			<image source="Conductor2.png" width = "50%" ><description>A square conductor with a small square cavity in the bottom right.  A positive point charge lies within the cavity.</description></image>
+		</figure>
+	</statement>
+		
+	</activity>
+		
+   
+	
+<!--NO AI-->
+</section>
+

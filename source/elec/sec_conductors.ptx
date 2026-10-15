@@ -94,7 +94,7 @@
 				<ul>
 					<li>
 						<p>
-							<alert>Inside a conductor, <m>\vec{E} = 0</m>.</alert>  This is true for <em>every point</em> in the interior of the conductor.
+							<alert>Inside a conductor <m>\vec{E} = 0</m>.</alert>  This is true for <em>every point</em> in the interior of the conductor.
 						</p>
 					</li>
 					<li>

@@ -23,15 +23,18 @@
 	<xi:include href="./elec/sec_e-to-v.ptx" />
 	<xi:include href="./elec/sec_v-to-e.ptx" />
 	<xi:include href="./elec/sec_reps-potential.ptx" />
-	<xi:include href="./elec/sec_conductors.ptx" />
+
+    <!--PRACTICE SECTIONS-->
 	<xi:include href="./elec/sec_potential-app.ptx" />
 	<xi:include href="./elec/sec_capacitors.ptx" />
 	<xi:include href="./elec/sec_cap-energy.ptx" />
+	<xi:include href="./elec/sec_conductors.ptx" />
+	<xi:include href="./elec/sec_electric-current.ptx" />
 
-    <!--PRACTICE SECTIONS-->
 	<xi:include href="./elec/sec_eq-practice.ptx" />
 
     <!--CHALLENGE SECTIONS-->
+	<xi:include href="./elec/sec_conductors-current.ptx" />
 	<xi:include href="./elec/sec_eq-challenge.ptx" />
 
 

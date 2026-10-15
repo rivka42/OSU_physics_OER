@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_electric-current" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Electric Current</title>
+
+	
+	<!--
+	<corollary xml:id="vid-current">
+	<title>Electric Current</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="LquookvLyh8"><description>Introducing electric current.</description></video>
+
+	</statement>
+  </corollary>
+  -->
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
+			
+	<definition>
+		<title>Electric Current</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p><term>Electric Current</term> is the flow of electric charge through space.
+			</p>
+			<ul>
+				<li>
+					<p>
+						<alert>Current is a time rate of change.</alert>  It tells you the rate at which positive charge flows past a given point per unit time: <m>I = \frac{dq}{dt}</m>
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Current is opposite for negative charges.</alert>  The two currents in the figure below have the same direction, even though the charges are moving in opposite directions, because the charges have opposite signs
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Current is measured in amps.</alert>  Amps are an abbreviation for amperes (A).
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Most current flows through electrical conductors.</alert>  When current is flowing, a conductor is <alert>not</alert> in <xref ref="a_electrostatic-eq"/>.
+					</p>
+				</li>
+			</ul>
+			<figure xml:id="fig_current">
+			  <title>Current Example Figure</title>
+			<caption><alert>Example:</alert> Two rightward currents.</caption>
+			<image source="Current1.png" width = "50%" ><description>A row of positive charges moving to the right and a row of negative charges moving to the left.</description></image>
+		</figure>
+		</statement>
+	</definition>
+
+
+	<subsubsection>
+		<title>Activities</title>
+		<activity>
+			<title>Sensemaking: Units</title>
+			<statement>
+			<p>
+
+			</p>
+			  <p>What are the units of electric current in terms of other units you have encountered?</p>
+				</statement>
+				<answer>
+					<p>
+						C/s
+					</p>
+				</answer>
+		</activity>
+		<activity>
+			<title>Sensemaking: Numbers</title>
+			<statement>
+			<p>
+
+			</p>
+			  <p>Handheld calculators often use small solar cells to supply the energy required to complete the calculations needed to complete your next physics exam. The current needed to run your calculator can be as small as <m>0.30 \mathrm{~mA}</m>. How long would it take for <m>1.00 \mathrm{~C}</m> of charge to flow from the solar cells?</p>
+				</statement>
+		</activity>
+		<activity>
+			<title>Changing Current</title>
+			<statement>
+			<p>
+
+			</p>
+			  <p>Consider the positive wire in the <xref ref="fig_current"/> above.  Suppose that the charges on the left had a <em>larger</em> speed than the charges on the right.  How would the picture change over time?</p>
+				</statement>
+		</activity>
+	</subsubsection>
+
+<references>
+
+		<biblio>
+			<p>
+				The Sensemaking: Numbers activity adapted from University Physics Volume 2. <url href="https://openstax.org/books/university-physics-volume-2/pages/9-1-electrical-current">OpenStax</url>.
+			</p>
+		</biblio>
+	</references>
+	
+<!--NO AI-->
+</section>
+

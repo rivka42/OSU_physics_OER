@@ -20,27 +20,15 @@
 				Two infinite wires are located parallel to the y-axis. One wire has uniform charge density <m>+\lambda</m> and is located at <m>x = +x_o</m>. The other wire has uniform charge density <m>-\lambda</m> and is located at <m>x = -x_o</m>. The electric potential in the <m>xy</m>-plane for this system is given by: <me>
 					V(x, y) = 2k \lambda \ln{|x + x_o |} - 2k \lambda \ln{|x-x_o |} = 2k \lambda \ln{| \frac{x + x_o }{x - x_o} |}
 				</me>
+				Calculate the electric field at every point in the <m>xy</m>-plane.
 			</p>
-			<p>
-				Complete the following tasks as part of your ARCS solution:
-				<ol>
-					<li>
-						<p>
-							Physical representation: Create an accurate equipotential graph in the <m>xy</m>-plane and the corresponding electric field vector map.
-						</p>
-					</li>
-					<li>
-						<p>
-							Calculate: Find the electric field at every point in the <m>xy</m>-plane.
-						</p>
-					</li>
-					<li>
-						<p>
-							Sensemaking: Show that your electric field is what you expect from the superposition of two infinite line charges.
-						</p>
-					</li>
-				</ol>
-			</p>
+
+			<assemblage>
+				<p><alert><!--REPLACE_TAG-->Tip:</alert> For your physical representation (part 1c), create an accurate equipotential graph in the <m>xy</m>-plane and the corresponding electric field vector map.</p>
+			</assemblage>
+			<assemblage>
+				<p><alert><!--REPLACE_TAG-->Tip:</alert> For your symbolic sensemaking (part 3c), show that your electric field is what you expect from the superposition of two infinite line charges.</p>
+			</assemblage>
 		</statement>
 	</project>
 
@@ -48,16 +36,16 @@
 		<title>Equipotential Graph II</title>
 		<statement><p></p>
 			<figure xml:id="fig_equipot-2">
-				<caption>Equipotential graph in the xy-plane.</caption>
-				<image source="elec/equipotential-graph-2.png" width = "75%" >
+				<caption>Equipotential graph in the <m>xy</m>-plane.</caption>
+				<image source="elec/equipotential-graph-2.png" width = "100%" >
 					<description>An equipotential map with many concentric circles at the top and many ellipses at the bottom.  A, B, and C lie on the same nearly circular contour near the top, while C, D, and E lie in a straight line from top to bottom. </description>
 				</image>
 			</figure>
 			<p>
-				This problem is a modified Explanation Task with several specific prompts. Above is a graph of the equipotentials due to some unknown distribution of charges. The boxed numbers represent the values of the potential.
+				This problem is a modified Explanation Task with several specific prompts. Above is a graph of the equipotentials due to some unknown distribution of charges, with <m>x</m> and <m>y</m> measured in meters. The boxed numbers represent the values of the potential in volts.
 			</p>
 		
-			<ol>
+			<ol marker="1.">
 				<li>
 					<p>
 						Sketch vectors at the indicated points that represent the electric field <m>\vec{E}</m>. Both the direction and the magnitude of your vectors should be qualitatively correct. Describe how you determined your answers.
@@ -70,14 +58,14 @@
 				</li>
 				<li>
 					<p>
-						Sketch a charge diagram, using + and - to indicate the locations where you expect there to be positive and negative charges, respectively. Justify your answers.
+						Sketch a charge diagram, using <m>+</m> and <m>-</m> to indicate the locations where you expect there to be positive and negative charges, respectively. Justify your answers.
 					</p>
 				</li>
 				<li>
 					<p>
 						Imagine that you are a charged particle moving along the vertical line that passes through points C, D, and E (the <m>y</m>-axis).
 					</p>
-					<ol>
+					<ol marker="a.">
 						<li>
 							<p>
 								Sketch a graph of the electric potential <m>V</m> as a function of <m>y</m>.
