@@ -17,19 +17,26 @@
 
 <activity>
 	<title>Equipotential Surfaces</title>
-	<p>
+	<introduction>
+		<p>
 	
 	</p>
 	<p>
 		This activity uses a plastic surface, like the one in the figure, to represent the electric potential between two charged plates, one positive and one negative.  A <m>1 \mathrm{~cm}</m> height difference corresponds to an electric potential difference of <m>1 \mathrm{~V}</m>.
 	</p>
-	<ol marker="A.">
-		<li>
+	<figure xml:id="EQ-Surface">
+			  <title>Equipotential Surfaces Figure</title>
+			<caption>A 3D plastic surface.</caption>
+			<image source="YellowGravityAboveContours.jpg" width = "40%" ><description>A yellow plastic surface with a blue, green, and red point marked.</description></image>
+		</figure>
+	</introduction>
+	
+	<task>
 			<p>
 				Rank the three marked points by the value of the electric potential from greatest to least.  Explain your reasoning.
 			</p>
-		</li>
-		<li>
+		</task>
+		<task>
 			<p>
 				Find three different points on the surface that are separated by equal (non-zero!) changes in potential.
 			</p>
@@ -46,13 +53,13 @@
 							  </p>
 							</li>
 						  </ol>
-		</li>
-		<li>
+		</task>
+		<task>
 			<p>
 				Align your surface with a contour map.  How are you making this alignment?  Where is the surface a good approximation of the potential?  Where is the approximation less good?
 			</p>
-		</li>
-		<li>
+		</task>
+		<task>
 			<p>
 				Sketch a graph of the potential <m>V</m> vs. distance from the negative plate <m>x</m>.
 			</p>
@@ -77,13 +84,12 @@
 							</li>
 						  </ol>
 						</p>
-		</li>
-	</ol>
+		</task>
 </activity>
 
-<!--
-	<activity xml:id="class_charged-sphere">
-	<title>Charged Sphere</title>
+
+	<activity xml:id="class_pp-cap">
+	<title>Parallel-plate Capacitor</title>
 	
 	
 	<introduction>
@@ -91,70 +97,249 @@
 			
 		</p>
 		<p>
-			You want to determine the electric field everywhere in space due to a uniformly charged sphere with charge density <m>\rho</m> and radius <m>R</m>.
+			The electric field inside a parallel plate capacitor is uniform with magnitude <m>|E| = \frac{\sigma}{\epsilon_0} = \frac{Q}{\epsilon_0 A}</m>, where <m>Q</m> is the total charge on the positive plate, <m>A</m> is the area of each plate, and <m>d</m> is the distance between the plates.
 		</p>
 	</introduction>
 	<task>
 		<statement>
 			<p>
-				Use Gauss's Law to determine the electric field when <m>r \gt R</m>.
+				Draw and label a figure of the capacitor with both a charge diagram and an electric field vector map.
 			</p>
-			<ol>
-				<li>
-					<p>
-						Draw an appropriate Gaussian surface.
-					</p>
-				</li>
-				<li>
-					<p>
-						Determine the charge enclosed.
-					</p>
-				</li>
-				<li>
-					<p>			
-						Determine the flux. 
-					</p>
-				</li>
-				<li>
-					<p>
-						Apply Gauss's Law to find the electric field.
-					</p>
-				</li>
-			</ol>
 		</statement>
 	</task>
 	<task>
 		<statement>
 			<p>
-				Use Gauss's Law to determine the electric field when <m>r \lt R</m>.
+				Determine <m>\Delta V</m> between the two plates in terms of the given variables.
 			</p>
-			<ol>
-				<li>
-					<p>
-						Draw an appropriate Gaussian surface.
-					</p>
-				</li>
-				<li>
-					<p>
-						Determine the charge enclosed.
-					</p>
-				</li>
-				<li>
-					<p>			
-						Determine the flux. 
-					</p>
-				</li>
-				<li>
-					<p>
-						Apply Gauss's Law to find the electric field.
-					</p>
-				</li>
-			</ol>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				How is <m>\Delta V</m> related to <m>Q</m>?  Sketch a graph with <m>Q</m> on the vertical axis and <m>\Delta V</m> on the horizontal axis showing the relationship between them.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>Calculate the slope of your graph in terms of the given variables.
+			</p>
+		</statement>
+		<solution>
+			<p>
+				This slope is known as the capacitance.  Capacitance can be calculated as <m>C = Q/\Delta V</m> and represents the amount of charge needed on each plate per volt of potential difference between the plates.  Capacitance is a constant that is a characteristic of a given capacitor and is measured in farads (F).
+			</p>
+		</solution>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Consider a change to the setup of the capacitor: the area of the capacitor plates increases, while the total charge on each plate and the distance between the plates remain the same.
+			</p>
+						  <ol>
+							<li>
+							  <p>
+								Sketch a figure for the new capacitor.
+								How does the charge diagram part compare to your original figure?
+								How does the electric field compare?
+							  </p>
+							</li>
+			
+							<li>
+							  <p>
+								How does <m>\Delta V</m> between the two plates compare to the original situation?
+								Give an answer based on an equation and give an explanation based on the
+								physical situation.
+							  </p>
+							</li>
+			
+							<li>
+							  <p>
+								How does <m>C</m> compare to the original situation?
+								Give an answer based on an equation and give an explanation based on
+								physical reasoning.
+							  </p>
+							</li>
+						  </ol>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Consider a different change to the setup of the original capacitor: the distance between the capacitor plates increases, while the total charge on each plate and the area of the plates remain the same.
+			</p>
+			
+						  <ol>
+							<li>
+							  <p>
+								Sketch a figure for the new capacitor.
+								How does the charge diagram part compare to your original figure?
+								How does the electric field compare?
+							  </p>
+							</li>
+			
+							<li>
+							  <p>
+								How does <m>\Delta V</m> between the two plates compare to the original situation?
+								Give an answer based on an equation and give an explanation based on the
+								physical situation.
+							  </p>
+							</li>
+			
+							<li>
+							  <p>
+								How does <m>C</m> compare to the original situation?
+								Give an answer based on an equation and give an explanation based on
+								physical reasoning.
+							  </p>
+							</li>
+						  </ol>
+						
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Check your answers using the following steps.
+			</p>
+			
+						  <ol>
+							<li>
+							  <p>
+								Use the <q>Capacitance</q> tab in the <url href="https://beav.es/capacitors">simulation</url>.
+							  </p>
+							</li>
+			
+							<li>
+							  <p>
+								Use the battery to give the capacitor some initial charge, then
+								disconnect the battery from the capacitor.
+								Why do you think disconnecting the battery from the capacitor will hold
+								the charge constant?
+							  </p>
+							</li>
+			
+							<li>
+							  <p>
+								Adjust <m>A</m> and <m>d</m> for the capacitor and observe the changes.
+								Check to see if your observations are consistent with your previous
+								answers.
+							  </p>
+							</li>
+			
+							<li>
+							  <p>
+								Connect the capacitor to the battery again.
+								Adjust <m>A</m> and <m>d</m> for the capacitor and observe the changes.
+								What is held constant when you adjust <m>A</m> and <m>d</m>?
+								How are the changes similar to what happened when the capacitor was
+								disconnected from the battery?
+								How are the changes different?
+							  </p>
+							</li>
+						  </ol>
+						
 		</statement>
 	</task>
 	</activity>
 
-	-->
+	<activity>
+		<title>Uniformly Charged Ring</title>
+		<introduction>
+			<p>
+				
+			</p>
+			<p>
+				A uniformly charged ring with total charge <m>-q_o</m> and radius <m>R</m> is located in the <m>xy</m>-plane.  You previously found the electric potential a distance <m>z</m> above the center of the ring: <m>V(z)=-\frac{kq_o}{\sqrt{R^2+z^2}}</m>.
+			</p>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Draw and label a charge diagram of the ring that includes the <m>z</m>-axis.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Sketch and label a graph of the given electric potential vs. position <m>z</m>.  You may use a graphing calculator to help construct the shape of your graph.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>Predict how the electric field changes as you move in the <m>z</m>-direction, starting at the middle of the ring.  Explain your reasoning.
+
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Use a derivative to calculate an expression for the electric field along the <m>z</m>-axis.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Sketch and label a graph of the <m>z</m>-component of the electric field vs. position.  Use the graph to add electric field vectors to your diagram from part A.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Make sense of your answers using the following:
+				</p>
+				
+								  <ol>
+									<li>
+									  <p>
+										Explicitly check the units of the potential and the electric field.
+									  </p>
+									</li>
+				
+									<li>
+									  <p>
+										What direction do you expect the electric field to point when <m>z \gt 0</m>?
+										When <m>z \lt 0</m>?
+										Check that your equations match this expectation.
+									  </p>
+									</li>
+				
+									<li>
+									  <p>
+										What do you expect for the value of the potential at <m>z = 0</m>?
+										What about the electric field?
+										Check that your equations match this expectation.
+									  </p>
+									</li>
+				
+									<li>
+									  <p>
+										What do you expect for the functional form of the potential as <m>z</m> becomes
+										much larger than <m>R</m>?
+										What about the electric field?
+										Check that your equations match this expectation.
+									  </p>
+									</li>
+				
+									<li>
+									  <p>
+										Challenge: calculate the value of <m>z</m> at which the magnitude of the
+										electric field is maximal.
+									  </p>
+									</li>
+								  </ol>
+								
+			</statement>
+		</task>
+	</activity>
+
+	
 
 <!--NO AI-->
 </section>

@@ -25,6 +25,7 @@
 		</li>
 	</ul>
   </assemblage>
+
 	<activity>
 		<title>Warm-Up</title>
 		<statement>
@@ -42,7 +43,104 @@
 		
 	</activity>
 		
-   
+   <activity>
+	<title>Inside a Capacitor I</title>
+	<introduction>
+		<p>
+			
+		</p>
+		<p>
+			The capacitor shown below is made out of two parallel conducting plates.  Initially, <m>V = 0</m> at point A and <m>V = 9 \mathrm{~V}</m> at point B.
+		</p>
+		<figure xml:id="Capacitor-Current">
+			  <title>Capacitor Figure 1</title>
+			<caption>A capacitor made of two conducting plates.</caption>
+			<image source="Capacitor-Current.png" width = "50%" ><description>A horizontal rectangle with point A on the left and D on the right below a second horizontal rectangle with point B on the left and C on the right.</description></image>
+		</figure>
+	</introduction>
+	<task>
+		<statement>
+			<p>
+				Are the conducting plates in electrostatic equilibrium?
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Sketch a charge diagram for the capacitor.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Sketch the electric field inside the capacitor.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Determine the potential at each point.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Describe all changes in the electric potential as you travel around the path <m>A \rightarrow B \rightarrow C \rightarrow D \rightarrow A</m>.
+			</p>
+		</statement>
+	</task>
+	
+   </activity>
+
+   <activity>
+	<title>Inside a Capacitor II</title>
+	<introduction>
+		<p>
+			
+		</p>
+		<p>
+			Suppose you connect the two plates of the capacitor with a third conductor between points A and B, as in the figure below.
+		</p>
+		<figure xml:id="Capacitor-Current3">
+			  <title>Capacitor Figure 3</title>
+			<caption>A capacitor made of two conducting plates, with a third conductor.</caption>
+			<image source="Capacitor-Current3.png" width = "50%" ><description>A horizontal rectangle with point A on the left and D on the right below a second horizontal rectangle with point B on the left and C on the right.  The upper rectangle has positive charge distributed horizontally and the lower rectangle has negative charge distributed horizontally.  A uniform downward electric field occupies the space between the rectangles.  A vertical rectangle connects points B and A.</description></image>
+		</figure>
+	</introduction>
+	<task>
+		<statement>
+			<p>
+				Are the conducting plates in electrostatic equilibrium?
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Describe what you expect to happen physically to the charges (you may want to draw multiple charge diagrams showing the situation over time).
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Give a mechanistic explanation for your expectation based on the electric field or the electric potential.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				As before, describe all changes in the electric potential as you travel around the path <m>A \rightarrow B \rightarrow C \rightarrow D \rightarrow A</m>.
+			</p>
+		</statement>
+	</task>
+	
+   </activity>
 	
 <!--NO AI-->
 </section>

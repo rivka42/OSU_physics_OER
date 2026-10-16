@@ -33,7 +33,7 @@
 	</project>
 
 	<investigation>
-		<title>Equipotential Graph II</title>
+		<title>Exploring an Equipotential Graph</title>
 		<statement><p></p>
 			<figure xml:id="fig_equipot-2">
 				<caption>Equipotential graph in the <m>xy</m>-plane.</caption>
@@ -45,7 +45,7 @@
 				This problem is a modified Explanation Task with several specific prompts. Above is a graph of the equipotentials due to some unknown distribution of charges, with <m>x</m> and <m>y</m> measured in meters. The boxed numbers represent the values of the potential in volts.
 			</p>
 		
-			<ol marker="1.">
+			<ol marker="a.">
 				<li>
 					<p>
 						Sketch vectors at the indicated points that represent the electric field <m>\vec{E}</m>. Both the direction and the magnitude of your vectors should be qualitatively correct. Describe how you determined your answers.
@@ -65,7 +65,7 @@
 					<p>
 						Imagine that you are a charged particle moving along the vertical line that passes through points C, D, and E (the <m>y</m>-axis).
 					</p>
-					<ol marker="a.">
+					<ol marker="i.">
 						<li>
 							<p>
 								Sketch a graph of the electric potential <m>V</m> as a function of <m>y</m>.
