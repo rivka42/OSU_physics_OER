@@ -17,7 +17,7 @@
 		<title>Flux Through a Rectangle</title>
 		<statement><p></p>
 			<p>
-				A rectangular surface measures <m>2.0 \mathrm{~m}</m> by <m>4.0 \mathrm{~m}</m> and lies in the xy-plane. Find the electric flux through the surface if the E-field is given by: <m>\vec{E} = (2.0 \hat{x} - 3.0 \hat{z}) \frac{\mathrm{N}}{\mathrm{C}}</m>
+				A rectangular surface measures <m>2.0 \mathrm{~m}</m> by <m>4.0 \mathrm{~m}</m> and lies in the <m>xy</m>-plane. Find the electric flux through the surface if the E-field is given by: <m>\vec{E} = (2.0 \hat{x} - 3.0 \hat{z}) \frac{\mathrm{N}}{\mathrm{C}}</m>
 			</p>
 		</statement>
 		<answer>
@@ -82,7 +82,7 @@
 		<title>Net Electric Flux</title>
 		<statement><p></p>
 			<p>
-				A point charge of  10 <m>\mu</m>C is at an unspecified location inside a cube of side 2 cm. Find the net electric flux though the surfaces of the cube.
+				A point charge of  10 <m>\mu</m>C is at an unspecified location inside a cube of side <m>2 \mathrm{~cm}</m>. Find the net electric flux though the surfaces of the cube.
 			</p>
 		</statement>
 		<answer>

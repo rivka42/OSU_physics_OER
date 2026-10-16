@@ -34,7 +34,7 @@
 			<title>Electric Potential of a Wire I</title>
 			<statement>
 				<figure xml:id="fig_charged-wire-1">
-					<caption>A charged wire lies along the y-axis centered on the origin.</caption>
+					<caption>A charged wire lies along the <m>y</m>-axis centered on the origin.</caption>
 					<image source="elec/charged-wire-1.png" width = "35%" >
 					<description>
 					A vertical wire with length L centered on the origin.  Point A lies along the horizontal x axis a distance L from the center of the wire.  Point B lies along the vertical y axis a distance L from the center of the wire.
@@ -82,7 +82,7 @@
 		<title>Electric Potential of a Wire II</title>
 		<statement>
 			<figure xml:id="fig_charged-wire">
-				<caption>A charged wire lies along the y-axis centered on the origin.</caption>
+				<caption>A charged wire lies along the <m>y</m>-axis centered on the origin.</caption>
 				<image source="elec/charged-wire-1.png" width = "35%" >
 					<description>
 					A vertical wire with length L centered on the origin.  Point A lies along the horizontal x axis a distance L from the center of the wire.  Point B lies along the vertical y axis a distance L from the center of the wire.
@@ -99,7 +99,7 @@
 		<title>Moving Charges II</title>
 		<statement><p></p>
 			<p>
-				Two identical negative point charges (<m>-Qo</m>) are fixed in place at <m>x = +L</m> and <m>x = -L</m>. A small positive point charge (<m>+q_i</m>) with mass <m>m</m> is at the origin, moving in the negative y-direction with speed <m>v</m>.
+				Two identical negative point charges (<m>-Qo</m>) are fixed in place at <m>x = +L</m> and <m>x = -L</m>. A small positive point charge (<m>+q_i</m>) with mass <m>m</m> is at the origin, moving in the negative <m>y</m>-direction with speed <m>v</m>.
 			</p>
 			<p>
 				What is the farthest distance along the <m>y</m>-axis that the small positive point charge will travel before it turns around?
@@ -112,7 +112,7 @@
 		</hint>
 		<hint>
 			<p>
-				Evaluate your answer when the initial speed <m>v</m> increases. This one can be tricky—make sure you check that your answer matches what you expect to happen!
+				Evaluate your answer when the initial speed <m>v</m> increases. This one can be tricky: make sure you check that your answer matches what you expect to happen!
 			</p>
 		</hint>
 	</project>
@@ -127,7 +127,7 @@
 			<title>Electric Potential Comparison</title>
 			<statement><p></p>
 				<p>
-					The electric potential at a location 1 m from a certain charged particle is 4 times the potential at a location 1 m from a different particle. How do the particles' charges compare? (These are two separate trials; assume that only one particle is present for each trial.)
+					The electric potential at a location <m>1 \mathrm{~m}</m> from a certain charged particle is 4 times the potential at a location <m>1 \mathrm{~m}</m> from a different particle. How do the particles' charges compare? (These are two separate trials; assume that only one particle is present for each trial.)
 				</p>
 			</statement>
 			<answer>
@@ -141,7 +141,7 @@
 			<title>Moving Electron</title>
 			<statement><p></p>
 				<p>
-					An electron moves through a potential difference of -5.0 V. A second particle with twice the negative charge moves between the same two points.
+					An electron moves through a potential difference of <m>-5.0 \mathrm{~V}</m>. A second particle with twice the negative charge moves between the same two points.
 				</p>
 				<ol>
 					<li>
@@ -151,19 +151,19 @@
 					</li>
 					<li>
 						<p>
-							What change in electric potential energy does the second particle experience? (Note: The units used here are eV which are electron-volts. 1 electron-volt is the energy gained/lost by an electron when it goes through a potential difference of 1 volt.
+							What change in electric potential energy does the second particle experience? Note: The units used here are eV which are electron-volts. 1 electron-volt is the energy gained/lost by an electron when it goes through a potential difference of 1 volt.
 						</p>
 					</li>
 				</ol>
 			</statement>
 			<answer>
 				<p>
-					-5.0 V
+					<m>-5.0 \mathrm{~V}</m>
 				</p>
 			</answer>
 			<answer>
 				<p>
-					10.0 eV
+					<m>10.0 \mathrm{~eV}</m>
 				</p>
 			</answer>
 		</exploration>
@@ -172,7 +172,7 @@
 			<title>Electric Potential due to Two Point Charges</title>
 			<statement><p></p>
 				<p>
-					Consider two point charges of equal value, <m>+(7/3) \times 10^{-9}</m> C, located along the x-axis. One charge is placed at x = -3.00 m, the other at x = 3.00 m.
+					Consider two point charges of equal value, <m>+(7/3) \times 10^{-9} \mathrm{~C}</m>, located along the <m>x</m>-axis. One charge is placed at <m>x = -3.00 \mathrm{~m}</m>, the other at <m>x = 3.00 \mathrm{~m}</m>.
 				</p>
 				<ol>
 					<li>
@@ -203,7 +203,7 @@
 			<title>Release the Electron</title>
 			<statement><p></p>
 				<p>
-					An electron is initially at rest at a location where the electric potential is -4 V.  When released from rest, the electron accelerates, passing through a location where the electric potential is 2 V.  What is the speed of the electron when it passes through that second location?  
+					An electron is initially at rest at a location where the electric potential is <m>-4 \mathrm{~V}</m>.  When released from rest, the electron accelerates, passing through a location where the electric potential is <m>2 \mathrm{~V}</m>.  What is the speed of the electron when it passes through that second location?  
 				</p>
 			</statement>
 			<answer>
@@ -312,12 +312,12 @@
 			<title>Potential Difference</title>
 			<statement><p></p>
 				<p>
-					An electron is placed in an external electric potential field.  Through what change in potential must this electron go in order to (starting from rest) reach a speed of 0.10 c, where c is the speed of light?
+					An electron is placed in an external electric potential field.  Through what change in potential must this electron go in order to (starting from rest) reach a speed of <m>0.10 c</m>, where <m>c</m> is the speed of light?
 				</p>
 			</statement>
 			<answer>
 				<p>
-					2560 V
+					<m>2560 \mathrm{~V}</m>
 				</p>
 			</answer>
 		</exploration>
@@ -326,12 +326,12 @@
 			<title>Closest Approach</title>
 			<statement><p></p>
 				<p>
-					Consider a proton at the origin of a coordinate system, fixed in place (not able to move at all).  Now consider a second proton, free to move, that is launched directly at the first proton at a speed of 42 m/s from a distance very, very far away.  What is the closest the second proton gets to the first proton? 
+					Consider a proton at the origin of a coordinate system, fixed in place (not able to move at all).  Now consider a second proton, free to move, that is launched directly at the first proton at a speed of <m>42 \mathrm{~m/s}</m> from a distance very, very far away.  What is the closest the second proton gets to the first proton? 
 				</p>
 			</statement>
 			<answer>
 				<p>
-					156 <m>\mu</m>m
+					<m>156 \mathrm{~\mu m}</m>
 				</p>
 			</answer>
 		</exploration>

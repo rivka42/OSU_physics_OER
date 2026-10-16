@@ -20,7 +20,7 @@
 			<title>Equipotential Graph I</title>
 			<statement><p></p>
 				<figure xml:id="fig_equipot-1">
-					<caption>Equipotential graph in the xy-plane.</caption>
+					<caption>Equipotential graph in the <m>xy</m>-plane.</caption>
 					<image source="elec/equipotential-graph-1.png" width = "75%" >
 						<description>An equipotential graph with several ovals progressing to a peanut shape in the middle.  Point P lies at the top of an oval, point Q lies to the right on the same oval, and point R lies to the right on the next oval out.</description>
 					</image>
@@ -48,7 +48,7 @@
 			<title>Capacitor in an Air Conditioner</title>
 			<statement><p></p>
 				<p>
-					A large capacitor in an air conditioner is typically connected to the potential difference provided to your house (120 V). Although capacitors like this are usually cylindrical, model this one as a parallel plate capacitor with square plates separated by 2.0 mm. If you want your capacitor to store 0.25 J of energy, what is the area of the capacitor plates? How feasible do you think this answer is?
+					A large capacitor in an air conditioner is typically connected to the potential difference provided to your house (<m>120 \mathrm{~V}</m>). Although capacitors like this are usually cylindrical, model this one as a parallel plate capacitor with square plates separated by <m>2.0 \mathrm{~mm}</m>. If you want your capacitor to store <m>0.25 \mathrm{~J}</m> of energy, what is the area of the capacitor plates? How feasible do you think this answer is?
 				</p>
 			</statement>
 		</project>
@@ -57,7 +57,7 @@
 		<title>Capacitance and Charge</title>
 		<statement><p></p>
 			<p>
-				Two parallel 3.0-cm-diameter flat aluminum electrodes are spaced 0.50 mm apart. The electrodes are connected to a 50 V battery. Find the capacitance and the magnitude of the charge on each electrode.
+				Two parallel <m>3.0 \mathrm{~cm}</m> diameter flat aluminum electrodes are spaced <m>0.50 \mathrm{~mm}</m> apart. The electrodes are connected to a <m>50 \mathrm{~V}</m> battery. Find the capacitance and the magnitude of the charge on each electrode.
 			</p>
 		</statement>
 	</project>
@@ -72,7 +72,7 @@
 		<title>Equipotential Graph</title>
 		<statement><p></p>
 			<p>
-				The figure below shows a map of equipotential lines. The potential values for lines a, b, and c are 10 V, 20 V and 30 V respectively. If you release an electron on equipotential line b, which direction will it move?
+				The figure below shows a map of equipotential lines. The potential values for lines a, b, and c are <m>10 \mathrm{~V}</m>, <m>20 \mathrm{~V}</m>, and <m>30 \mathrm{~V}</m> respectively. If you release an electron on equipotential line b, which direction will it move?
 			</p>
 			<figure xml:id="bs-eq-graph-1">
 				<title>Equipotential Lines</title>
@@ -249,7 +249,7 @@
 		<title>Building Hydrogen</title>
 		<statement><p></p>
 			<p>
-				To form a hydrogen atom, a proton is fixed at a point and an electron is brought from far away to a distance of <m>0.529 \times 10^{-10} \ \mathrm{m}</m>, the average distance between proton and electron in a hydrogen atom. How much work is done?
+				To form a hydrogen atom, a proton is fixed at a point and an electron is brought from far away to a distance of <m>0.529 \times 10^{-10} \mathrm{~m}</m>, the average distance between proton and electron in a hydrogen atom. How much work is done?
 			</p>
 		</statement>
 		<answer>
