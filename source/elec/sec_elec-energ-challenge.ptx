@@ -17,7 +17,7 @@
 		<title>Electric Potential of a Wire</title>
 		<statement>
 			<figure xml:id="fig_charged-wire-2">
-				<caption>A charged wire lies along the y-axis with one end starting at the origin.</caption>
+				<caption>A charged wire lies along the <m>y</m>-axis with one end starting at the origin.</caption>
 				<image source="elec/charged-wire-2.png" width = "35%" >
 					<description>
 					A vertical wire with length L with its bottom at the origin.  Point B lies along the horizontal x axis a distance L from the bottom of the wire.  Point A lies a distance L vertically above point B.  

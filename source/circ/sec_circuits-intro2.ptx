@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_circuit-intro2" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Circuits</title>
+
+	<outcomes xml:id="adapting-model-circuits">
+	<title>Electric Circuits</title>
+	<ul>
+		<li>
+		<p>You will now apply what you have learned about electric fields and electric potential to the broadly applicable study of <alert>electric circuits</alert>.</p>
+	</li>
+</ul>
+</outcomes>
+	
+	<subsubsection>
+		<title>Activities</title>
+		<activity>
+      <title>Warm-up: Everyday Circuits</title>
+      <p></p>
+			  <p>Write down at least one thing you already know about electric circuits from your previous coursework and/or your everyday experiences.</p>
+		</activity>
+	</subsubsection>
+
+	<definition>
+		<title>Circuit</title>
+		<statement>
+			<p>A <term>circuit</term> is a continuous path of electrical conductors.</p>
+			<ul>
+				<li>
+					<p>
+						<alert>A circuit is made of circuit elements.</alert>  Any object that is electrically conductive can be a circuit element.  Common elements include wires, batteries, light bulbs, resistors, capacitors, and switches.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Current can flow through a complete circuit.</alert>  A circuit is only complete if there is at least one continuous path of electrical conductors and circuit elements that starts and ends at the same location.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Every circuit element has a voltage across it.</alert>  The voltage is measured from one side of the element to the other and is usually represented as <m>\Delta V_{\text{element}}</m> or sometimes even just <m>V_{\text{element}}</m>.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Every circuit element has a current through it.</alert>  The current is measured as the amount of charge passing through the element per unit time and is usually represented as <m>I_{\text{element}}</m>.
+					</p>
+				</li>
+			</ul>
+
+			<figure xml:id="precircuit">
+			  <title>Circuit Figure</title>
+			<caption><alert>Example:</alert> A simple circuit consisting of three unknown circuit elements (A, B, and C)</caption>
+			<image source="circ/PreCircuit.png" width = "50%" ><description>A diagram of a complete circuit consisting of a square marked with three boxes (A, B, and C) on the left, upper, and right sides, respectively. A small dot below box A is marked as a starting point.</description></image>
+		</figure>
+		</statement>
+	</definition>
+
+	
+	<conjecture xml:id="rep_circuit-diagrams">
+		<title>Circuit Diagrams</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>
+				A <term>circuit diagram</term> is a simplified representation of a real circuit.
+			</p>
+			<ul>
+				<li>
+					<p>
+						<alert>Each element is given a simple icon.</alert>  The most common items are collected in the figure below.
+					</p>
+					<figure xml:id="CD_First">
+			  <title>Example Circuit Diagram</title>
+			<caption><alert>Example</alert> circuit elements in circuit diagram notation.</caption>
+			<image source="CD_First.png" width = "100%" ><description>Five circuit elements, from left to right: a wire (a straight line), a battery (two horizontal lines of different length), a light bulb (a circle around an ellipse), a junction (a horizontal line meeting a vertical line at the middle), and a switch (a diagonal line opposite an open circle).</description></image>
+		</figure>
+				</li>
+				<li>
+					<p>
+						<alert>Circuit diagrams show electrical connections.</alert>  The physical arrangement of the circuit elements does not matter: only how they are electrically connected.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Ideal wires are represented with straight lines.</alert>  Circuit elements connected by ideal wires are assumed to be electrically connected.
+					</p>
+				</li>
+				
+			</ul>
+
+					
+		</statement>
+	</conjecture>
+	
+	
+	<activity xml:id="going-around-a-circuit">
+      <title>Going around a Circuit</title>
+	  <introduction>
+		<p>
+			
+		</p>
+		<p>Imagine that you are a tiny positive charge, initially located at the dot in the <xref ref="precircuit"/> above.  You begin moving clockwise through the circuit. As you pass through element A, you measure that the voltage increases by <m>\Delta V_A = 5 \mathrm{~V}</m> and you measure a current of <m>I_A = 0.7 \mathrm{~A}</m>. As you pass through element B, you measure that the voltage decreases by <m>\Delta V_B = -3 \mathrm{~V}</m>.</p>
+	  </introduction>
+	  <task>
+		<statement>
+			<p>
+				How do you think the voltage will change as you pass through element C?  Explain your reasoning.
+			</p>
+		</statement>
+	  </task>
+	  <task>
+		<statement>
+			<p>
+				What do you think is the current through element B? Through element C?  Explain your reasoning.
+			</p>
+		</statement>
+	  </task>			
+		</activity>
+
+				
+
+
+<!--NO AI-->
+</section>
+

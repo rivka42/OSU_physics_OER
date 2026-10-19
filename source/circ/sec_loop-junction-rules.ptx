@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_loop-junction-rules" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>The Loop and Junction Rules</title>
+		
+	<corollary xml:id="vid-loop-rule">
+	<title>The Loop Rule</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="cw1TurDRc24"><description>Describing the voltage loop rule for circuits.</description></video>
+
+	</statement>
+  </corollary>
+
+  <corollary xml:id="vid-junction-rule">
+	<title>The Junction Rule</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="tbAY1Szovxk"><description>The junction rule for electric circuits.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
+		
+
+	<principle xml:id="loop-rule">
+		<title>The Loop Rule</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>The <term>Loop Rule</term> requires that the voltages around a <em>complete loop</em> add to zero: <me>\sum V = 0</me>
+				</p>
+
+			<p>When writing equations involving circuits, it is common to write the voltage across a circuit element as <m>V</m> rather than <m>\Delta V</m>; however, <m>V</m> still represents a <em>potential difference</em>.</p>
+
+			<p>
+				The Loop Rule is a consequence of the <xref ref="path-independence-electric"/> of <m>\Delta V</m>.
+			</p>
+
+		</statement>
+	</principle>
+	<!--
+	<p>Recall the definition of <xref ref="def-electric_potential_energy"/>. The Loop Rule is based on conservation of energy. In a closed loop, the energy supplied by the battery is transformed between circuit elements, and not into or out of the system. To ensure that energy is conserved, the voltage differences around closed loops must sum to zero.</p>
+	-->
+	
+	<principle xml:id="junction-rule">
+		<title>The Junction Rule</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>The <term>Junction Rule</term> requires that the sum of the incoming currents at any junction must equal the sum of the outgoing currents: <me>\sum I_{\mathrm{in}} = \sum I_{\mathrm{out}}</me>
+			</p>
+			<p>
+				In any part of a circuit with no junctions, the current is <em>equal</em>.
+			</p>
+			<p>
+				The Junction Rule is a consequence of conservation of charge in each part of a circuit.
+			</p>
+		</statement>
+	</principle>
+
+	<insight>
+	<title>Kirchoff's Laws</title>
+	<p>
+		<xref ref="loop-rule"/> and <xref ref="junction-rule"/> form the basis for analyzing all circuits.  Together, the two rules are sometimes known as Kirchhoff's Laws after the German physicist and mathematician Gustav Kirchhoff.
+	</p>
+	</insight>
+	
+<subsubsection><title>Activities</title></subsubsection>
+		
+		<activity>
+      <title>Using the Loop Rule</title>
+	  <statement>
+      <p></p>
+			<p>Recall the <xref ref="going-around-a-circuit"/> activity from the previous section. Apply the loop rule and the junction rule to that circuit. How do your answers compare with what you now know about the loop rule and the junction rule?</p>
+				</statement>
+				<answer>
+					<p>
+						The voltages must add to zero, so you need another voltage decrease across element C of <m>\Delta V_C = - d \mathrm{~V}</m>
+					</p>
+					<p>
+						There are no junctions in this circuit, so the current in all three circuit elements will be equal: <me>I_B = I_C = 0.7 \mathrm{~A}</me>
+					</p>
+				</answer>
+		</activity>
+		<activity>
+      <title>Negative Current</title>
+      <p></p>
+			<p>One of your friends builds a circuit and measures a negative current through one of the light bulbs in their circuit. What do you think the negative means for current?</p>
+		</activity>
+		<activity>
+      <title>Combining Currents</title>
+      <p></p>
+			<p>Shown below is part of a circuit where two wires combine into one wire.</p>
+			<figure xml:id="current1">
+			  <title>Junction Circuit Diagram</title>
+				<caption>Two wires meet at a junction.</caption>
+				<image source="circ/current1.png" width = "50%" ><description>Two wires meet at a junction, connected to a single third wire.</description></image>
+			</figure>
+			<p>Which of the following describes the current in the third wire? Explain your reasoning.</p>
+			<ol type = "a">
+				<li><p><m>I_3 = I_1 + I_2</m></p></li>
+				<li><p><m>I_3 = I_1 \times I_2</m></p></li>
+				<li><p><m>I_3 = I_1 - I_2</m></p></li>
+				<li><p><m>\frac{1}{I_3} = \frac{1}{I_1} + \frac{1}{I_2}</m></p></li>
+				<li><p><m>I_3 = </m> the bigger of <m>I_1</m> and <m>I_2</m></p></li>
+				<li><p>I can't figure out <m>I_3</m></p></li>
+			</ol>
+		</activity>
+	
+<!--NO AI-->
+</section>
+

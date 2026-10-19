@@ -3,14 +3,21 @@
 <section xml:id="sec_circuit-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>Circuits</title>
 
-  	<p>You will now study one of the primary applications of electricity: electric circuits.</p>
+	<outcomes xml:id="adapting-model-circuits">
+	<title>Electric Circuits</title>
+	<ul>
+		<li>
+		<p>You will now apply what you have learned about electric fields and electric potential to the broadly applicable study of <alert>electric circuits</alert>.</p>
+	</li>
+</ul>
+</outcomes>
 	
 	<subsubsection>
 		<title>Activities</title>
 		<activity>
-      <title>Everyday Circuits</title>
+      <title>Warm-up: Everyday Circuits</title>
       <p></p>
-			  <p>Write down a few things you already know about electric circuits from your previous coursework and/or your everyday experiences.</p>
+			  <p>Write down at least one thing you already know about electric circuits from your previous coursework and/or your everyday experiences.</p>
 		</activity>
 	</subsubsection>
 	

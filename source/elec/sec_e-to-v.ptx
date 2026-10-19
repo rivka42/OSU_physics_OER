@@ -59,7 +59,7 @@
 			</p>
 		</hypothesis>
 
-	<assemblage>
+	<assemblage xml:id="path-independence-electric">
 		<title>Path Independence</title>
 		<p>
 			The electric field is an example of a conservative vector field.  One consequence of this is that the line integral for finding <m>\Delta V</m> is <term>path independent</term>.  Since the value of the line integral does not depend on the path, you can always choose the path that makes evaluating the integral as easy as possible.

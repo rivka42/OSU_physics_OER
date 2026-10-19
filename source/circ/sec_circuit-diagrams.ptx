@@ -9,19 +9,43 @@
 			<p>
 				
 			</p>
-			<p>A circuit diagram is a simplified representation of a real circuit where each element is given a simple icon connected by straight lines corresponding to ideal wires.  Common circuit elements are shown in the figure below.</p>
+			<p>
+				A <term>circuit diagram</term> is a simplified representation of a real circuit.
+			</p>
+			<ul>
+				<li>
+					<p>
+						<alert>Each element is given a simple icon.</alert>  The most common items are collected in the figure below.
+					</p>
+					<figure xml:id="CD_First">
+			  <title>Example Circuit Diagram</title>
+			<caption><alert>Example</alert> circuit elements in circuit diagram notation.</caption>
+			<image source="CD_First.png" width = "100%" ><description>Five circuit elements, from left to right: a wire (a straight line), a battery (two horizontal lines of different length), a light bulb (a circle around an ellipse), a junction (a horizontal line meeting a vertical line at the middle), and a switch (a diagonal line opposite an open circle).</description></image>
+		</figure>
+				</li>
+				<li>
+					<p>
+						<alert>Circuit diagrams show electrical connections.</alert>  The physical arrangement of the circuit elements does not matter: only how they are electrically connected.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Ideal wires are represented with straight lines.</alert>  Circuit elements connected by ideal wires are assumed to be electrically connected.
+					</p>
+				</li>
+				
+			</ul>
+
+					
 		</statement>
 	</conjecture>
 	
-	<figure xml:id="CD_First">
-			  <title>Example Circuit Diagram</title>
-			<caption>Example circuit elements in circuit diagram notation.</caption>
-			<image source="CD_First.png" width = "100%" ><description>Five circuit elements, from left to right: a wire (a straight line), a battery (two horizontal lines of different length), a light bulb (a circle around an ellipse), a junction (a horizontal line meeting a vertical line at the middle), and a switch (a diagonal line opposite an open circle).</description></image>
-		</figure>
 
+	<!--
 	<p>
 		When discussing circuits, we will use the symbols above to represent different circuit elements. As we explore more circuit elements throughout the upcoming chapters, we will add more representations to our circuit diagram list.
 	</p>
+	-->
 
 <!--NO AI-->
 </section>

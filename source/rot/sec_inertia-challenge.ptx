@@ -64,7 +64,7 @@
 				
 			</p>
 			<p>
-				You have now learned several ways to calculate moments of inertia: looking it up in a table, using the Parallel Axis Theorem, and using Chop-Multiply-Add to construct and integral directly.  When do you think each of these three methods is the <em>best</em> method to choose?  Give an example of an activity you have done highlighting the best use of each method.
+				You have now learned several ways to calculate moments of inertia: looking it up in a table, using the Parallel Axis Theorem, and using Chop-Multiply-Add to construct an integral directly.  When do you think each of these three methods is the <em>best</em> method to choose?  Give an example of an activity you have done highlighting the best use of each method.
 			</p>
 		</activity>
 

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_voltage-batteries" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>Ideal Wires and Batteries</title>
+
+	<corollary xml:id="vid-voltage">
+	<title>Voltage</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="zpsPTBHeFT4"><description>Introduction to voltage.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
+	
+	<p>The word <term>voltage</term> refers to the electric potential difference across an element within a circuit.  Most elements in a circuit are connected to each other by ideal wires.</p>
+	
+	<assumption xml:id="a_wire">
+	<title>Ideal Wires</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>An <term>ideal wire</term> has no effective resistance to the flow of current, and the voltage across it is always equal to zero.  Metal objects that are very good conductors (such as copper) make good ideal wires.</p>
+	</statement>
+</assumption>
+
+<p>Most circuits include at least one battery as a source of voltage.  You will typically assume batteries are <em>ideal</em>.</p>
+	
+	<assumption xml:id="a_battery">
+	<title>Ideal Batteries</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>When you assume a battery is ideal, the voltage across it is always constant: it does not change no matter what circuit you connect it to or how you connect it.</p>
+	</statement>
+</assumption>
+	
+		
+		
+
+<!--NO AI-->
+</section>
+
+
+
+
+
+
+
