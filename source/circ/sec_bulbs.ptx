@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_bulbs" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Incandescent Light Bulbs</title>
+	
+<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section were designed to be implemented in a classroom, after students have completed:
+	</p>
+	<ul>
+		<li>
+			<p>
+				<xref ref="sec_circuits-intro2"/>
+			</p>
+		</li>
+		<li>
+			<p>
+				<xref ref="sec_loop-junction-rules"/>
+			</p>
+		</li>
+		<li>
+			<p>
+				<xref ref="sec_voltage-batteries"/>
+			</p>
+		</li>
+		<li>
+			<p>
+				<xref ref="sec_voltage-diagrams2"/>
+			</p>
+		</li>
+	</ul>
+  </assemblage>
+
+  <subsubsection>
+	<title>Activities</title>
+	
+  </subsubsection>
+
+
+
+	<activity xml:id="class_circuits-warmup">
+		<title>Warm-up</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			Consider the circuit shown below.
+		</p>
+		<figure xml:id="circuits-warmup">
+			  <title>Basic Circuit Diagram</title>
+			<caption>A stylized circuit diagram.</caption>
+			<image source="circuit2.png" width = "50%" ><description>A stylized circuit diagram with a battery on the left and a small blue rectangle and a long orange rectangle on the right.</description></image>
+		</figure>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Is the circuit below complete?
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+Sketch a charge diagram and an electric field vector map.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Will current flow?  Explain why or why not.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Draw a voltage diagram for the circuit.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Use the Loop Rule to write an equation relating <m>V_bat</m>, <m>V_blue</m>, and <m>V_orange</m>.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Use the Junction Rule to write an equation relating <m>I_bat</m>, <m>I_blue</m>, and <m>I_orange</m>.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					How would things change if you opened a switch, as in the figure below?
+				</p>
+				<figure xml:id="circuits-warmup2">
+			  <title>Basic Circuit Diagram</title>
+			<caption>A stylized circuit diagram with a switch.</caption>
+			<image source="circuit3.png" width = "50%" ><description>A stylized circuit diagram with a battery on the left and a small blue rectangle and a long orange rectangle on the right.  There is an open switch on the top branch.</description></image>
+		</figure>
+			</statement>
+		</task>
+		
+	</activity>
+
+	<conjecture xml:id="rep_PHET-Circuits">
+		<title>Circuits PhET Simulation</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>The <url href="https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_all.html">PhET Simulation</url> for electric circuits is a powerful tool for investigating circuit behavior.  Follow the steps below whenever you load the simulation</p>
+			<ul>
+				<li>
+					<p>
+						In the Lab tab, start by unchecking the box that says <q>Show Current</q>.
+					</p>
+				</li>
+				<li>
+					<p>
+						Click on the Advanced button on the right and check the box that says <q>Add Real Bulbs</q>.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Always predict before you build a circuit!</alert>
+					</p>
+				</li>
+			</ul>
+		
+		</statement>
+	</conjecture>
+
+	<activity xml:id="class_light-bulbs">
+		<title>Light Bulbs</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			When you make the circuit shown below, you will see that the light bulb glows.
+		</p>
+		<figure xml:id="f_bulbs1">
+			  <title>Light Bulbs Circuit Diagram</title>
+			<caption>A stylized and circuit diagram of a basic circuit.</caption>
+			<image source="bulb-circuit1.png" width = "30%" ><description>Above: a stylized circuit diagram with a battery on the left and a light bulb on the right.  Below, a corresponding circuit diagram.</description></image>
+		</figure>
+
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Why do you think the light bulb glows?  Give a mechanistic answer based on electric fields.
+				</p>
+			</statement>
+			<solution>
+				<p>
+					Current is flowing through the bulb due to the electric field produced by the voltage provided by the battery.  The charged particles collide with atoms, increasing the temperature of the metal in the light bulb.  <url href="https://www.youtube.com/shorts/MlBcQtP7ZVE">Hot things glow!</url>
+				</p>
+			</solution>
+		</task>
+		<task>
+			<statement>
+				<p>
+					What do you think will happen to the light bulb if a battery is added to the circuit?
+				</p>
+				<figure xml:id="f_bulbs2">
+			  <title>Light Bulbs Circuit Diagram</title>
+			<caption>Two circuit diagrams.</caption>
+			<image source="bulb-circuit2.png" width = "30%" ><description>Above: a circuit diagram with one bulb and one battery.  Below: a circuit diagram with one bulb and two batteries.</description></image>
+		</figure>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					What if there are two batteries and two light bulbs?
+				</p>
+				<figure xml:id="f_bulbs3">
+			  <title>Light Bulbs Circuit Diagram</title>
+			<caption>Three circuit diagrams.</caption>
+			<image source="bulb-circuit3.png" width = "30%" ><description>Above: a circuit diagram with one bulb and one battery.  Middle: a circuit diagram with one bulb and two batteries.  Below: a circuit diagram with two bulbs and two batteries.</description></image>
+		</figure>
+			</statement>
+			<solution>
+				<p>
+					Your observations suggest a rule: for an incandescent light bulb, the voltage across the bulb is related to the brightness of the bulb.
+				</p>
+			</solution>
+		</task>
+		<task>
+			<statement>
+				<p>
+					What if there are two bulbs but only one battery?  Are there any bulbs that you know have the same current?  How do you know?
+				</p>
+				<figure xml:id="f_bulbs4">
+			  <title>Light Bulbs Circuit Diagram</title>
+			<caption>Four circuit diagrams.</caption>
+			<image source="bulb-circuit4.png" width = "60%" ><description>Above: a circuit diagram with one bulb and one battery.  Middle: a circuit diagram with one bulb and two batteries.  Below: a circuit diagram with two bulbs and two batteries.  Below left: a circuit diagram with one battery and two bulbs.</description></image>
+		</figure>
+			</statement>
+			<solution>
+				<p>
+					Your observations suggest another rule: for an incandescent light bulb, the current through the bulb is related to the brightness of the bulb.  This rule agrees with the power dissipated in a circuit element.
+				</p>
+				<p>
+					You can also stipulate the following: identical light bulbs with the same voltage also have the same current and therefore the same brightness.
+				</p>
+				<p>
+					Another important observation: the current through a battery is <alert>not fixed</alert>!  It depends on what is in the circuit.  This suggests thinking about the light bulbs as providing some obstacle to the flow of current in the circuit.
+
+				</p>
+			</solution>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Which of the circuits you have considered do you think provides a greater obstacle to the flow of current?
+				</p>
+			</statement>
+			<solution>
+				<p>
+					The word you will use to describe this obstacle to the flow of current is resistance.
+				</p>
+				<p>
+					<alert>Observation:</alert> adding light bulbs in series increases the resistance of the circuit.
+				</p>
+			</solution>
+		</task>
+		<task>
+			<statement>
+				<p>
+					How does the voltage of each light bulb compare?  What does that tell you about the current through each light bulb?  What can you say about the resistance of each circuit?
+				</p>
+				<figure xml:id="f_bulbs6">
+			  <title>Light Bulbs Circuit Diagram</title>
+			<caption>Three circuit diagrams.</caption>
+			<image source="bulb-circuit6.png" width = "60%" ><description>Above: a circuit diagram with one bulb and one battery.  Middle: a circuit diagram with two bulbs and one battery.  Below: a circuit diagram with one battery and two bulbs, each on its own vertical branch.</description></image>
+		</figure>
+			</statement>
+			<solution>
+				<p>
+					<alert>Observation:</alert> adding light bulbs in parallel decreases the resistance of the circuit.
+				</p>
+			</solution>
+		</task>
+	</activity>
+
+<assumption xml:id="a_bulb">
+	<title>Incandescent Light Bulb</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>An <term>incandescent light bulb</term> heats up when current passes through it, causing its metal filament to glow.  The filament is most commonly made from tungsten.</p>
+			<ul>
+				<li>
+					<p>
+						The voltage across a bulb is related to brightness.
+					</p>
+				</li>
+				<li>
+					<p>
+						The current through a bulb is related to brightness.
+					</p>
+				</li>
+				<li>
+					<p>
+						Adding light bulbs in series increases resistance.
+					</p>
+				</li>
+				<li>
+					<p>
+						Adding light bulbs in parallel decreases resistance.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Identical light bulbs do not have to have the same resistance.</alert>
+					</p>
+				</li>
+			</ul>
+	</statement>
+	<figure xml:id="CD_Bulb">
+			  <title>Bulb Diagram</title>
+			<caption>Two representations of a light bulb: a picture on the left and a circuit diagram on the right.</caption>
+			<image source="CD_Bulb.png" width = "50%" ><description>Two representations of a wire: a real bulb on the left and a stylized circle on the right.</description></image>
+		</figure>
+</assumption>
+	
+<!--NO AI-->
+</section>
+

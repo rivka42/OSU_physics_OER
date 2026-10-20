@@ -1,34 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec_linear-resistors" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="sec_ohm" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>Linear Resistors</title>
 			
-	<video youtube="74gJG1ct6Vc"><description>Introducing Ohm's Law.</description></video>
-
-	<definition>
-		<title>Ohm's Law</title>
-		<statement>
-			<p><term>Ohm's Law</term> relates the voltage across a resistor to the current flowing through that resistor by a quantity known as resistance: <me>V = IR</me></p>
-		</statement>
-	</definition>
+	<corollary xml:id="vid-ohm">
+	<title>Ohm's Law</title>
 	
-		<assumption>
-		<title>Linear Resistors</title>
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="74gJG1ct6Vc"><description>Introducing Ohm's Law.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
+	
+	<assumption>
+		<title>Linear Resistor</title>
 		<statement>
-			<p>A <term>linear resistor</term> or Ohmic resistor is one that has a resistance <m>R</m> that is constant (it is the same no matter what current is flowing through it).</p>
+			<p>
+				
+			</p>
+			<p>A <term>linear resistor</term> or Ohmic resistor has a resistance <m>R</m> that is <alert>constant</alert> (it is the same no matter what current is flowing through it).</p>
+			<ul>
+				<li>
+					<p>
+						<alert>The resistance can be calculated from material properties.</alert>  A resistor with length <m>L</m>, cross-sectional area <m>A</m>, and resistitivty <m>\rho</m> has resistance <me>R = \rho \frac{L}{A}</me>
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Resistivity depends on temperature.</alert>  In general, an object will only be a good linear resistor in a regime where its temperature is not changing substantially.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Current flows through a resistor from high voltage to low voltage.</alert>  This is also true for nonlinear resistors, but it is <alert>not necessarily true</alert> for elements like batteries.
+					</p>
+				</li>
+			</ul>
+		<figure xml:id="CD_R">
+		<title>Ohmic Resistor Diagram</title>
+		<caption>The circuit diagram representation for a linear resistor.</caption>
+		<image source="CD_R.png" width = "10%" ><description>A jagged line representing a linear resistor.</description></image>
+	</figure>
 		</statement>
 	</assumption>
+
+	<principle>
+		<title>Ohm's Law</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>
+				<term>Ohm's Law</term> relates the voltage <m>V</m> across a circuit element to the current <m>I</m> flowing through that element: <me>V = IR</me>
+			</p>
+			<p>
+				<alert><m>R</m> is the resistance of the circuit element.</alert>  For a linear resistor, the resistance is constant.  For nonlinear resistors like light bulbs, the resistance will be a non-constant function of <m>I</m>.
+			</p>
+		</statement>
+	</principle>
+
 	
-		<exercises>
-		<title>Activities</title>
-				<exercise>
-				<title>Sensemaking: Units</title>
-				<statement>
-			<p>What are the units of resistance in terms of other units you have used?</p>
-			</statement>
-			<answer><p>V/A</p></answer>
-		</exercise>
-		</exercises>
+	<subsubsection>
+	<title>Activities</title>
+	<p>Shown below is a circuit with three resistors.</p>
+			<figure xml:id="circuit1">
+			  <title>Circuit Diagram</title>
+				<caption>A circuit diagram consisting of a battery and three resistors. Resistors 1 and 2 are in series, and are both in parallel with Resistor 3.</caption>
+				<image source="circ/circuit-0.png" width = "50%" ><description>A circuit diagram consisting of a battery and three resistors. Resistors 1 and 2 are in series, and are both in parallel with Resistor 3.</description></image>
+			</figure>
+		<investigation>
+      <title>Current Prediction</title>
+      <p></p>
+			
+			<p>Assume that <m>R_1 \gt R_2</m>. Predict whether the current through resistor 2 is greater than, less than, or equal to the current through resistor 1. Explain your answer.</p>
+		</investigation>
+		<investigation>
+      <title>Voltage Prediction</title>
+      <p></p>
+			<p>Predict whether the voltage across resistor 2 is greater than, less than, or equal to the voltage across resistor 1. Explain your answer.</p>
+		</investigation>
+		
+	</subsubsection>
 	
 <!--NO AI-->
 </section>

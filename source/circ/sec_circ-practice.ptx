@@ -17,7 +17,7 @@
 		<title>Explanation Practice</title>
 		
 		<investigation>
-			<title>Circuit</title>
+			<title>Circuit I</title>
 			<statement><p></p>
 				<figure xml:id="fig-circuit_1">
 					<caption>Circuit diagram. The top and bottom circuits are identical, apart from an extra wire connecting around lightbulb C in the bottom diagram.</caption>
@@ -55,6 +55,161 @@
 			</statement>
 		</investigation>
 
+			<investigation>
+		<title>Circuit II</title>
+		<statement><p></p>
+			<figure xml:id="fig-circuit_2">
+				<caption>Circuit diagram.</caption>
+				<image source="circ/circuit-2.png" width = "40%" >
+				<description>A circuit diagram with a battery on the left.  On the right, a branch with bulb A in series with a parallel network of bulbs B and C, in series with bulb D.</description></image>
+			</figure>
+			<p>
+				The circuit above shows four identical bulbs connected to an ideal battery. The switch is initially closed.
+			</p>
+			<ol>
+				<li>
+					<p>
+						Rank the bulbs according to brightness, in order from brightest to dimmest. If two bulbs have the same brightness, indicate that explicitly.
+					</p>
+				</li>
+				<li>
+					<p>
+						When the switch is opened, will bulb A get brighter, get dimmer, or remain the same brightness?
+					</p>
+				</li>
+				<li>
+					<p>
+						When the switch is opened, will bulb B get brighter, get dimmer, or remain the same brightness?
+					</p>
+				</li>
+			</ol>
+		</statement>
+	</investigation>
+
+	<investigation>
+		<title>Circuit III</title>
+		<statement><p></p>
+			<figure xml:id="fig-circuit_8">
+				<caption>Circuit diagram.</caption>
+				<image source="circ/circuit-8.png" width = "40%" >
+				<description>A circuit with a battery in series with a parallel network consisting of resistor A and a series network of D and B and C in parallel, all in series with E.</description></image>
+			</figure>
+			<p>
+				The circuit above includes five identical linear resistors with resistance 5 <m>\Omega</m>. The battery provides 32 V.
+			</p>
+			<p>
+				Identify the resistor(s) with the lowest current and determine this amount of current. Show your work and describe your problem-solving process.
+			</p>
+		
+		<assemblage>
+			<p>
+				<alert><!--REPLACE_TAG-->Tip:</alert> Create a voltge diagram for each branch of this circuit.
+			</p>
+		</assemblage>
+	</statement>
+	</investigation>
+
+	<investigation>
+			<title>Circuit IV</title>
+			<statement><p></p>
+				<figure xml:id="fig-circuit_4">
+					<caption>Circuit diagram.</caption>
+					<image source="circ/circuit-4.png" width = "40%" >
+					<description>A circuit diagram with three vertical branches, from left to right: a battery, bulb 11, and bulbs 12 and another battery in series.</description></image>
+				</figure>
+				<p>
+					Recall the circuit from class, reproduced above. Suppose batteries A and B are not identical. 
+				</p>
+				<ol>
+					<li>
+						<p>
+							Suppose that the absolute value of the potential difference across battery B were reduced, but battery A is unchanged.
+						</p>
+						<ol>
+							<li>
+								<p>
+									When the switch is closed, would bulb 12 light?
+								</p>
+							</li>
+							<li>
+								<p>
+									When the switch is closed, would bulb 11 be brighter than, dimmer than, or as bright as it was in class?
+								</p>
+							</li>
+						</ol>
+					</li>
+					<li>
+						<p>
+							Suppose instead that the absolute value of the potential difference across battery A were reduced, but battery B were unchanged (the same as it was in class). 
+						</p>
+						<ol>
+							<li>
+								<p>
+									When the switch is closed, would bulb 12 light?
+								</p>
+							</li>
+							<li>
+								<p>
+									When the switch is closed, would bulb 11 be brighter than, dimmer than, or as bright as it was in class?
+								</p>
+							</li>
+						</ol>
+					</li>
+				</ol>
+			</statement>
+		</investigation>
+
+		<investigation>
+			<title>Circuit V</title>
+			<statement><p></p>
+				<figure xml:id="fig-circuit_5">
+					<caption>Circuit diagram.</caption>
+					<image source="bb-circuit5.png" width = "40%" >
+					<description>A circuit diagram with three vertical branches, from left to right: battery A, bulb C, and bulb D and battery B in series.  Point 1 lies above bulb 1, point 2 between bulb 2 and battery D, and point 3 below bulb 1.</description></image>
+				</figure>
+				<p>
+					Consider the circuit shown above, which is a variant of the circuit from class. All bulbs are identical, and all batteries are ideal and identical. (Note that the orientation of battery B has changed.)
+				</p>
+				<ol>
+					<li>
+						<p>
+							Draw arrows to indicate the current through each circuit element.
+						</p>
+					</li>
+					<li>
+						<p>
+							Sketch appropriate voltage diagrams for this circuit.
+						</p>
+					</li>
+					<li>
+						<p>
+							Compare the brightness of the light bulbs.
+						</p>
+					</li>
+					<li>
+						<p>
+							Use your diagrams to rank the voltages across all bulbs and batteries.
+						</p>
+					</li>
+					<li>
+						<p>
+							Rank the currents through all circuit elements.
+						</p>
+					</li>
+					<li>
+						<p>
+							Suppose that bulb C were removed, leaving a gap in the circuit. Would this cause bulb D to change brightness?
+						</p>
+					</li>
+					<li>
+						<p>
+							Suppose that battery A were removed, leaving a gap in the circuit. Would this cause either bulb to change brightness?
+						</p>
+					</li>
+				</ol>
+			</statement>
+		</investigation>
+
 		
 	</subsubsection>
 
@@ -65,7 +220,7 @@
 			<title>Current</title>
 			<statement><p></p>
 				<p>
-					The total amount of charge that has entered a wire at time t is given by: <me>
+					The total amount of charge that has entered a wire at time <m>t</m> is given by: <me>
 						Q(t) = Q_o (1 - e^{t/\tau})
 					</me>
 					Find an expression for the current in the wire at time <m>t</m>.
@@ -83,12 +238,12 @@
 			<title>Lightning Bolt</title>
 			<statement><p></p>
 				<p>
-					A large lightning bolt had a 20,000-A current and moved 30.0 C of charge.  What was its duration? 
+					A large lightning bolt had a <m>20,000 \mathrm{~A}</m> current and moved <m>30.0 \mathrm{~C}</m> of charge.  What was its duration? 
 				</p>
 			</statement>
 			<answer>
 				<p>
-					1.50 ms
+					<m>1.50 \mathrm{~ms}</m>
 				</p>
 			</answer>
 		</exploration>
@@ -97,7 +252,7 @@
 			<title>How many electrons?</title>
 			<statement><p></p>
 				<p>
-					How many electrons flow through a point in a wire in 3.00 s if there is a constant current of I = 4.00 A?
+					How many electrons flow through a point in a wire in <m>3.00 \mathrm{~s}</m> if there is a constant current of <m>I = 4.00 \mathrm{~A}</m>?
 				</p>
 			</statement>
 			<answer>
@@ -116,7 +271,7 @@
 			</statement>
 			<answer>
 				<p>
-					0.431 A
+					<m>0.431 \mathrm{~A}</m>
 				</p>
 			</answer>
 		</exploration>
@@ -157,7 +312,7 @@
 			</statement>
 			<answer>
 				<p>
-					<m>1000 \ \Omega</m>
+					<m>1000 \mathrm{~\Omega}</m>
 				</p>
 			</answer>
 		</exploration>
@@ -178,7 +333,7 @@
 	
 		<figure xml:id="bs-circuit-11">
 			<title>Circuit Diagram</title>
-			<caption>Circuit diagram.</caption>
+			<caption>A circuit diagram.</caption>
 			<image source="circ/circuit-11.png" width = "50%" >
 			<description>A circuit diagram with a battery, R1, and R2 in series.</description></image>
 		</figure>
@@ -187,7 +342,7 @@
 			<title>Circuit Quantities</title>
 			<statement><p></p>
 				<p>
-					Consider the circuit above. The voltage drops across resistors 1 and 2 are 3 V and 4 V respectively.
+					Consider the circuit above. The voltage drops across resistors 1 and 2 are <m>3 \mathrm{~V}</m> and <m>4 \mathrm{~V}</m> respectively.
 				</p>
 				<ol>
 					<li>
@@ -197,7 +352,7 @@
 					</li>
 					<li>
 						<p>
-							If the current through resistor 2 is 1.75 A, what is the current through resistor 1?
+							If the current through resistor 2 is <m>1.75 \mathrm{~A}</m>, what is the current through resistor 1?
 						</p>
 					</li>
 					<li>
@@ -209,24 +364,24 @@
 			</statement>
 			<answer>
 				<p>
-					7 V
+					<m>7 \mathrm{~V}</m>
 				</p>
 			</answer>
 			<answer>
 				<p>
-					1.75 A
+					<m>1.75 \mathrm{~A}</m>
 				</p>
 			</answer>
 			<answer>
 				<p>
-					1.71 <m>\Omega</m>
+					<m>1.71 \mathrm{~\Omega}</m>
 				</p>
 			</answer>
 		</exploration>
 
 		<figure xml:id="bs-circuit-12">
 			<title>Circuit Diagram</title>
-			<caption>Circuit diagram.</caption>
+			<caption>A circuit diagram.</caption>
 			<image source="circ/circuit-12.png" width = "50%" >
 			<description>A circuit diagram with a battery on the left, a downward branch with 25 Ohms, a rightward branch with 15 Ohms, another downward branch with 15 Ohms, and a final leftward branch with 20 Ohms.</description></image>
 		</figure>
@@ -252,12 +407,12 @@
 			</statement>
 			<answer>
 				<p>
-					The most current flows through the 20 <m>\Omega</m> resistor.
+					The most current flows through the <m>20 \mathrm{~\Omega}</m> resistor.
 				</p>
 			</answer>
 			<answer>
 				<p>
-					The least amount of current flows through each of the 15 <m>\Omega</m> resistor.
+					The least amount of current flows through each of the <m>15 \mathrm{~\Omega}</m> resistor.
 				</p>
 			</answer>
 		</exploration>
@@ -278,7 +433,7 @@
 
 		<figure xml:id="bs-circuit-13">
 			<title>Circuit Diagram</title>
-			<caption>Circuit diagram.</caption>
+			<caption>A circuit diagram.</caption>
 			<image source="circ/circuit-13.png" width = "50%" >
 			<description>A 12 V battery connected to a 15 Ohm resistor, a parallel network of two five Ohm resistors, and an eight Ohm resistor.</description></image>
 		</figure>
@@ -324,19 +479,19 @@
 			</answer>
 			<answer>
 				<p>
-					1.18 V
+					<m>1.18 \mathrm{~V}</m>
 				</p>
 			</answer>
 			<answer>
 				<p>
-					0.235 A
+					<m>0.235 \mathrm{~A}</m>
 				</p>
 			</answer>
 		</exploration>
 
 		<figure xml:id="bs-circuit-14">
 			<title>Circuit Diagram</title>
-			<caption>Circuit diagram.</caption>
+			<caption>A circuit diagram.</caption>
 			<image source="circ/circuit-14.png" width = "50%" >
 			<description>A circuit diagram with three vertical branches, from left to right: VA, R3, VB.  The upward horizontal wires contain, from left to right, R1 and R2.</description></image>
 		</figure>
@@ -353,14 +508,14 @@
 			</statement>
 			<answer>
 				<p>
-					0.947 A
+					<m>0.947 \mathrm{~A}</m>
 				</p>
 			</answer>
 		</exploration>
 
 		<figure xml:id="bs-circuit-segment">
 			<title>Circuit Segment</title>
-			<caption>Circuit segment.</caption>
+			<caption>A circuit segment.</caption>
 			<image source="circ/circuit-segment.png" width = "50%" >
 			<description>A vertical portion of a circuit diagram: four parallel resistors of 4, 4, 2, and 4 Ohms, followed by another two parallel resistors of 4 and 2 Ohms.</description></image>
 		</figure>
@@ -374,7 +529,7 @@
 			</statement>
 			<answer>
 				<p>
-					2 <m>\Omega</m>
+					<m>2 \mathrm{~\Omega}</m>
 				</p>
 			</answer>
 		</exploration>
@@ -449,39 +604,39 @@
 					</li>
 					<li>
 						<p>
-							If another 5 <m>\Omega</m> resistor were connected in parallel with <m>R_2</m> and <m>R_3</m>, would the overall resistance of the circuit increase, decrease, or stay the same?  
+							If another <m>5 \mathrm{~\Omega}</m> resistor were connected in parallel with <m>R_2</m> and <m>R_3</m>, would the overall resistance of the circuit increase, decrease, or stay the same?  
 						</p>
 					</li>
 					<li>
 						<p>
-							If another 5 <m>\Omega</m> resistor were connected in parallel with <m>R_2</m> and <m>R_3</m>, would the voltage difference across the battery increase, decrease, or stay the same? 
+							If another <m>5 \mathrm{~\Omega}</m> resistor were connected in parallel with <m>R_2</m> and <m>R_3</m>, would the voltage difference across the battery increase, decrease, or stay the same? 
 						</p>
 					</li>
 					<li>
 						<p>
-							If another 5 <m>\Omega</m> resistor were connected in parallel with <m>R_2</m> and <m>R_3</m>, would the current drawn from the battery increase, decrease, or stay the same? 
+							If another <m>5 \mathrm{~\Omega}</m> resistor were connected in parallel with <m>R_2</m> and <m>R_3</m>, would the current drawn from the battery increase, decrease, or stay the same? 
 						</p>
 					</li>
 					<li>
 						<p>
-							If another 5 <m>\Omega</m> resistor were connected in parallel with <m>R_2</m> and <m>R_3</m>, would the power dissipated by <m>R_4</m> increase, decrease, or stay the same? 
+							If another <m>5 \mathrm{~\Omega}</m> resistor were connected in parallel with <m>R_2</m> and <m>R_3</m>, would the power dissipated by <m>R_4</m> increase, decrease, or stay the same? 
 						</p>
 					</li>
 				</ol>
 			</statement>
 			<answer>
 				<p>
-					25.5 <m>\Omega</m>
+					<m>25.5 \mathrm{~\Omega}</m>
 				</p>
 			</answer>
 			<answer>
 				<p>
-					0.471 A
+					<m>0.471 \mathrm{~A}</m>
 				</p>
 			</answer>
 			<answer>
 				<p>
-					3.76 V
+					<m>3.76 \mathrm{~V}</m>
 				</p>
 			</answer>
 			<answer>
@@ -524,12 +679,12 @@
 			<title>Smallest and Largest Resistances</title>
 			<statement><p></p>
 				<p>
-					What are the largest and smallest resistances you can obtain by connecting a 36.0 <m>\Omega</m>, a 50.0 <m>\Omega</m>, and a 700 <m>\Omega</m> resistor together?
+					What are the largest and smallest resistances you can obtain by connecting a <m>36.0 \mathrm{~\Omega}</m>, a <m>50.0 \mathrm{~\Omega}</m>, and a <m>700 \mathrm{~\Omega}</m> resistor together?
 				</p>
 			</statement>
 			<answer>
 				<p>
-					Largest: 786 <m>\Omega</m>, Smallest: 20.32 <m>\Omega</m>
+					Largest: <m>786 \mathrm{~\Omega}</m>, Smallest: <m>20.32 \mathrm{~\Omega}</m>
 				</p>
 			</answer>
 		</exploration>

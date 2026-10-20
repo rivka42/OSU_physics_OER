@@ -47,7 +47,7 @@
 		<figure xml:id="BatteryInside">
 			  <title>Battery Diagram</title>
 			<caption><alert>Example:</alert> simplified charge diagram and electric field vectors for a battery (left) connected in a complete circuit to a conducting wire (right).  The charges in the battery represent ions that have moved as a result of a chemical reaction occurring inside the battery; the charges on the wire result from electrons moving in response to the voltage provided by the battery.  The resulting electric field inside the conducting wire forces current to move.</caption>
-			<image source="BatteryInside.png" width = "100%" ><description>A circuit diagram with a stylized representation of a battery on the left and a conducting wire on the right.  The battery has positive charges along its top and negative charges along its bottom, with downward vectors representing the electric field inside.  The conducting wire has charges along its side, with downward vectors representing the electric field inside.</description></image>
+			<image source="BatteryInside.png" width = "50%" ><description>A circuit diagram with a stylized representation of a battery on the left and a conducting wire on the right.  The battery has positive charges along its top and negative charges along its bottom, with downward vectors representing the electric field inside.  The conducting wire has charges along its side, with downward vectors representing the electric field inside.</description></image>
 		</figure>
 	</statement>
 	</definition>
@@ -58,7 +58,7 @@
 		<p>
 			
 		</p>
-		<p>An <term>ideal battery</term> has a constant voltage that does not change in time and is not dependent on what the battery is connected to.</p>
+		<p>An <term>ideal battery</term> has a constant voltage that does not change in time and is not dependent on what the battery is connected to.  The voltage is higher at the positive end of the battery.</p>
 	</statement>
 	<figure xml:id="CD_Battery">
 			  <title>Battery Diagram</title>
@@ -81,6 +81,42 @@
 			<image source="CD_Wire.png" width = "50%" ><description>Two representations of a wire: a red laboratory wire on the left and a straight line on the right.</description></image>
 		</figure>
 </assumption>
+
+<subsubsection>
+	<title>Activities</title>
+	<activity>
+		<title>Properties of Ideal Batteries and Wires</title>
+		<p>
+			
+		</p>
+		<p>
+			Which of the following statements are true?
+		</p>
+		<ul>
+			<li>
+				<p>
+					When the battery is in a complete circuit, it is in electrostatic equilibrium
+				</p>
+			</li>
+			<li>
+				<p>
+					The positive terminal of the battery is at a higher voltage than the negative terminal of the battery
+				</p>
+			</li>
+			<li>
+				<p>
+					The negative terminal of the battery always has a voltage equal to zero
+				</p>
+			</li>
+			<li>
+				<p>
+					The voltage across an ideal wire is equal to zero
+				</p>
+			</li>
+		</ul>
+	</activity>
+	
+	</subsubsection>
 
 		
 		

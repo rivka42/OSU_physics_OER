@@ -30,22 +30,28 @@
 	<xi:include href="./circ/sec_voltage-batteries.ptx" />
 	<xi:include href="./circ/sec_voltage-diagrams2.ptx" />
 
-	<!--
-	<xi:include href="./circ/sec_circuit-diagrams.ptx" />
-	-->
+	<xi:include href="./circ/sec_bulbs.ptx" />
 
     <!--PRACTICE SECTIONS-->
-	<!--
+	<xi:include href="./circ/sec_circuit-loops.ptx" />
+
 	<xi:include href="./circ/sec_resistance.ptx" />
-	<xi:include href="./circ/sec_ohm.ptx" />
-	<xi:include href="./circ/sec_adding-resistors.ptx" />
+	<xi:include href="./circ/sec_linear-resistors.ptx" />
 	<xi:include href="./circ/sec_power-in-circuits.ptx" />
-	-->
+	<xi:include href="./circ/sec_adding-resistors.ptx" />
+	<xi:include href="./circ/sec_capacitors-in-circuits.ptx" />
 
 	<xi:include href="./circ/sec_circ-practice.ptx" />
 
     <!--CHALLENGE SECTIONS-->
+	<xi:include href="./circ/sec_circuit-analysis.ptx" />
 	<xi:include href="./circ/sec_circ-challenge.ptx" />
+
+	<!--
+	
+	<xi:include href="./circ/sec_RC-circuits.ptx" />
+	
+	-->
 
 
 
@@ -57,16 +63,16 @@
 	<xi:include href="./circ/old/sec_voltage-diagrams.ptx" />
 	<xi:include href="./circ/old/sec_current.ptx" />
 	<xi:include href="./circ/old/sec_junction-rule.ptx" />
-	<xi:include href="./circ/sec_circuit-diagrams.ptx" />
+	<xi:include href="./circ/old/sec_circuit-diagrams.ptx" />
 
-	<xi:include href="./circ/sec_resistance.ptx" />
-	<xi:include href="./circ/sec_ohm.ptx" />
-	<xi:include href="./circ/sec_adding-resistors.ptx" />
-	<xi:include href="./circ/sec_power-in-circuits.ptx" />
-	<xi:include href="./circ/sec_circ-practice.ptx" />
+	<xi:include href="./circ/old/sec_resistance.ptx" />
+	<xi:include href="./circ/old/sec_ohm.ptx" />
+	<xi:include href="./circ/old/sec_adding-resistors.ptx" />
+	<xi:include href="./circ/old/sec_power-in-circuits.ptx" />
+	<xi:include href="./circ/old/sec_circ-practice.ptx" />
 
 
-	<xi:include href="./circ/sec_circ-challenge.ptx" />
+	<xi:include href="./circ/old/sec_circ-challenge.ptx" />
 	-->
 
 </chapter>

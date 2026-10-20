@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_resistance" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Resistance</title>
+			
+	<corollary xml:id="vid-resistance">
+	<title>Resistance</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="biz9jOu8Dm0"><description>Introducing resistance in circuits.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
+	
+	<definition>
+		<title>Resistance</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>Circuit elements present obstacle to the flow of electric current known as <term>resistance</term>.</p>
+			<ul>
+				<li>
+					<p>
+						<alert>Resistance is defined as a ratio:</alert> the voltage per unit of current <m>R = \frac{V}{I}</m>.  Resistance is measured in units of ohms (<m>\Omega</m>).
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Every circuit element has resistance.</alert>  A common assumption is that certain circuit elements, such as ideal wires and ideal batteries, have zero resistance.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Resistance depends on material properties.</alert>  The size and shape of a circuit element, the material it is made of, and physical properties like temperature all impact the resistance.
+					</p>
+				</li>
+			</ul>
+		</statement>
+	</definition>
+
+
+	<subsubsection>
+		<title>Activities</title>
+		</subsubsection>
+	<activity>
+			<title>Sensemaking: Units</title>
+			<statement>
+				<p>
+					
+				</p>
+				<p>What are the units of resistance in terms of other units you have used?</p>
+			</statement>
+			<answer><p>V/A</p></answer>
+		</activity>
+	<activity>
+		<title>Sensemaking: Covariation</title>
+		<p>
+			
+		</p>
+		<p>
+			You already know that adding circuit elements in series tends to increase resistance, while adding circuit elements in parallel tends to decrease resistance.  Use the definition of resistance to justify the following claim:
+		</p>
+		<p>
+			<q>When two objects with different resistances are connected to a battery, the current through the object with a higher resistance will be lower.</q>
+		</p>
+	</activity>
+
+
+<!--NO AI-->
+</section>
+

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_power-in-circuits" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Power in Circuits</title>
+
+			
+	<corollary xml:id="vid-power-circuits">
+	<title>Power in Circuits</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="wvTHDLrHhKw"><description>Introducing power in circuits.</description></video>
+
+	</statement>
+  </corollary>
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
+
+	<p>Energy is transferred from chemical potential energy stored within the battery to the charges that move around the circuit. As the charges travel around the circuit, they lose energy through resistors. Since there are a lot of charges moving in a circuit, it is often useful to talk about the power delivered to resistance elements:</p>
+	
+	
+	<definition>
+		<title>Power</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>The <term>Power</term> dissipated in a circuit element is the current <m>I</m> flowing through the resistor multiplied by the voltage <m>V</m>: <me>P = IV</me> </p>
+				<p>
+					If you know the resistance of the circuit element, this expression may be rewritten as follows: <me>P = I^2R = \frac{V^2}{R}</me>
+				</p>
+		</statement>
+	</definition>
+
+	<subsubsection>
+		<title>Activities</title>
+		<activity>
+      <title>Sensemaking</title>
+      <p></p>
+			<p>Use some of your sensemaking techniques on the power equation. What are the units? Why might this equation be useful?</p>
+		</activity>
+		<activity>
+      <title>Power to Energy</title>
+      <p></p>
+			<p>How can you use the power to determine the total amount of energy delivered to the resistor?</p>
+		</activity>
+		<activity>
+      <title>Light Bulbs</title>
+      <p></p>
+			<p>Old incandescent light bulbs are usually rated to provide <m>60 \mathrm{~W}</m> of power. When you plug it into the wall at <m>120 \mathrm{~V}</m> the light bulb will light up. What do you think is the resistance of the light bulb when it is plugged in (in Ohms)?</p> 
+		</activity>
+	</subsubsection>
+<!--NO AI-->
+</section>
+

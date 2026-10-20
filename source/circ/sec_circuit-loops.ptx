@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_circuit-loops" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Circuit Loops</title>
+	
+<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section were designed to be implemented in a 2-hour interactive studio classroom, after students have completed <xref ref="sec_bulbs"/> and its prerequisite sections.
+	</p>
+  </assemblage>
+
+  <p>
+	Start by using the <xref ref="rep_PHET-Circuits"/>.  You may also want to recall the behavior of an <xref ref="a_bulb"/>.
+  </p>
+
+  <subsubsection>
+	<title>Activities</title>
+	
+  </subsubsection>
+
+<activity xml:id="class_more-bulbs">
+		<title>Combinations of Light Bulbs</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			Predict how bulbs A and B will change in brightness when we close the switch!
+		</p>
+		<figure xml:id="f_bulbs7">
+			  <title>Light Bulbs Circuit Diagram</title>
+			<caption>A circuit diagram.</caption>
+			<image source="bulb-circuit7.png" width = "40%" ><description>A circuit diagram with one battery.  Bulb A is above bulb B, and a parallel branch with an open switch and bulb C is connected across bulb B.</description></image>
+		</figure>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Identify any bulbs that are in series or in parallel.  Sketch voltage diagrams for each branch in both circuits.  Rank all six bulbs by brightness.
+				</p>
+				<figure xml:id="f_bulbs8">
+			  <title>Light Bulbs Circuit Diagram</title>
+			<caption>Two circuit diagrams.</caption>
+			<image source="bulb-circuit7.png" width = "40%" ><description>Above: A circuit diagram with one battery.  Bulb A is above bulb B, and a parallel branch with an open switch and bulb C is connected across bulb B.  Below: another circuit diagram with one battery.  Bulb D and E are in series along one parallel branch, and bulb F is on its own along another parallel branch.</description></image>
+		</figure>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Consider the circuits below one at a time.  For each new circuit, use voltage diagrams to predict how the brightness of each bulb compares to the bulbs in the previous circuits.  After you make your predictions, use the simulation to check your predictions!  Modify your diagrams based on your observations, if necessary
+				</p>
+				<figure xml:id="f_bulbs9">
+			  <title>Light Bulbs Circuit Diagram</title>
+			<caption>Six circuit diagrams.</caption>
+			<image source="bulb-circuit9.png" width = "100%" ><description>Circuit 1: one battery and bulb 1.  Circuit 2: two batteries and bulb 2.  Circuit 3: two batteries in opposite orientations and bulb 3.  Circuit 4: two upright batteries and one inverted battery and bulb 4.  Circuit 5: an inverted battery, then bulb 5, then 3 upright batteries.  Circuit 6: on the left, bulb 6 between two upright batteries; on the right, bulb 7 between two oppositely oriented batteries.</description></image>
+		</figure>
+			</statement>
+		</task>
+	</activity>
+
+	<activity xml:id="class_even-morebulbs">
+		<title>Complicated Loops</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			Predict whether the brightness of the light bulb will increase, decrease, or remain the same when the switch is closed.
+		</p>
+		<figure xml:id="f_bbulbs1">
+			  <title>Light Bulbs Circuit Diagram</title>
+			<caption>A circuit diagram.</caption>
+			<image source="bb-circuit1.png" width = "50%" ><description>A circuit diagram with three vertical parallel branches.  The outer branches have upright batteries and the middle branch has a light bulb.  A switch lies between the bulb and the right battery.</description></image>
+		</figure>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Why do you think the upper circuit behaves the way it does?  How does the current through each battery change?
+				</p>
+				<figure xml:id="f_bbulbs2">
+			  <title>Light Bulbs Circuit Diagram</title>
+			<caption>Two circuit diagrams.</caption>
+			<image source="bb-circuit2.png" width = "50%" ><description>Two circuit diagrams with three vertical parallel branches.  Top: The outer branches have upright batteries and the middle branch has a light bulb; a switch lies between the bulb and the right battery.  Bottom: The left branch has an upright battery, the right branch has an upright battery and a light bulb, and the middle branch has a light bulb; a switch lies between the middle and right branches.</description></image>
+		</figure>
+				<p>
+					Predict what will happen to each light bulb in the bottom circuit when you close the switch.
+				</p>
+				<p>
+					Construct this circuit in the simulation and check your predictions.
+				</p>
+				<p>
+					If you have not already done so, draw voltage diagrams for this circuit.  Make sure your diagrams agree with your observations!
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+				When the switch is closed:
+				</p>
+				<ol marker="A.">
+					<li>
+						<p>
+							Predict the relative brightness of the three light bulbs.  Explain.
+						</p>
+					</li>
+					<li>
+						<p>
+							Construct this circuit in the simulation and check your predictions.
+						</p>
+					</li>
+					<li>
+						<p>
+							If you have not already done so, draw voltage diagrams for this circuit.  Make sure your diagrams agree with your observations!
+						</p>
+					</li>
+				</ol>
+				<figure xml:id="f_bbulbs3">
+			  <title>Light Bulbs Circuit Diagram</title>
+			<caption>A circuit diagram.</caption>
+			<image source="bb-circuit3.png" width = "50%" ><description>A circuit diagram with three vertical parallel branches.  The outer branches each have an upright battery and a light bulb and the middle branch has a light bulb.  A switch lies between the middle and right branches.</description></image>
+		</figure>
+			<p>
+				When you open the switch:
+			</p>
+			<ol marker="A.">
+					<li>
+						<p>
+							Predict how (if at all) the brightness of each light bulb will change.  Explain.
+						</p>
+					</li>
+					<li>
+						<p>
+							Construct this circuit in the simulation and check your predictions.
+						</p>
+					</li>
+					<li>
+						<p>
+							If you have not already done so, draw voltage diagrams for this circuit.  Make sure your diagrams agree with your observations!
+						</p>
+					</li>
+				</ol>
+				<p>
+					Propose a modification to one of the circuits you have explored today.  Make a prediction and then test it out using the simulation!
+				</p>
+			
+			</statement>
+		</task>
+
+	</activity>
+
+	<!--
+	<activity xml:id="class_complicated-circuit">
+		<title>A Complicated Circuit</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			For the circuit at right, our objective is to find the current through each of the three linear resistors.
+		</p>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Start by choosing a direction for the current through each resistor and labeling it on the circuit diagram.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					What do you think will happen if you accidentally choose the wrong direction?
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+				Write an equation relating the different currents you have drawn.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Next, choose at least two loops and write down an equation expressing the Voltage Loop Law for those loops.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					How do you know whether to make the voltage across a resistor positive or negative?
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Solve your equations for each current!
+				</p>
+			</statement>
+		</task>
+	</activity>
+	-->
+
+	
+<!--NO AI-->
+</section>
+

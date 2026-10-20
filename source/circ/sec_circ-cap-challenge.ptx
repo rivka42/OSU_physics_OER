@@ -13,42 +13,9 @@
 	<m> \mathrm{~}</m>
 	-->
 
-	<investigation>
-		<title>Circuit 1</title>
-		<statement><p></p>
-			<figure xml:id="fig-circuit_7">
-			<caption>Circuit diagram.</caption>
-			<image source="circ/circuit-7.png" width = "40%" >
-			<description>Above: A circuit diagram with three vertical branches, from left to right: three batteries, bulbs A and B in series, and bulb C in series with a parallel network of bulb D and bulbs E and F in series.  Below: the same diagram where bulb A has been replaced by another battery, oriented positive up.</description></image>
-		</figure>
-			<p>
-				Bulb A in the top circuit above is replaced by a battery, as shown in the bottom circuit above. Does the brightness of light bulbs B and C increase, decrease, or remain the same? Please include separate claims and reasoning for each bulb.
-			</p>
-		</statement>	
-	</investigation>
+
 	
-	<investigation>
-		<title>Circuit 2</title>
-		<statement><p></p>
-			<figure xml:id="fig-circuit_8">
-				<caption>Circuit diagram.</caption>
-				<image source="circ/circuit-8.png" width = "40%" >
-				<description>A circuit with a battery in series with a parallel network consisting of resistor A and a series network of D and B and C in parallel, all in series with E.</description></image>
-			</figure>
-			<p>
-				The circuit above includes five identical linear resistors with resistance 5 <m>\Omega</m>. The battery provides 32 V.
-			</p>
-			<p>
-				Identify the resistor(s) with the lowest current and determine this amount of current. Show your work and describe your problem-solving process.
-			</p>
-		
-		<assemblage>
-			<p>
-				<alert><!--REPLACE_TAG-->Tip:</alert> Create a voltge diagram for each branch of this circuit.
-			</p>
-		</assemblage>
-	</statement>
-	</investigation>
+	
 	
 	<investigation>
 		<title>Create a Circuit</title>
