@@ -81,11 +81,11 @@
 		<xi:include href="./ch-n_26_electric-circuits.ptx" />
 		<!--<xi:include href="./1oldch/ch-n_26_circuits-intro.ptx" /> -->
 		<!-- <xi:include href="./1oldch/ch-n_26_circuits-resistors.ptx" /> -->
-		<!--<xi:include href="./ch-n_27_circuits-capacitors.ptx" /> -->
+		<!--<xi:include href="./1oldch/ch-n_27_circuits-capacitors.ptx" /> -->
 		
-		<xi:include href="./ch-n_28_magnetism.ptx" />
-		<xi:include href="./ch-n_29_b-from-current.ptx" />
-		<xi:include href="./ch-n_30_faraday.ptx" />
+		<xi:include href="./ch-n_27_magnetism.ptx" />
+		<!-- <xi:include href="./1oldch/ch-n_29_b-from-current.ptx" /> -->
+		<xi:include href="./ch-n_28_faraday.ptx" />
 
 
 		<!--<xi:include href="./ch_09_electricity.ptx" />

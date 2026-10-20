@@ -30,6 +30,7 @@
 	<xi:include href="./mag/sec_magnetic-force.ptx" />
 	<xi:include href="./mag/sec_lorentz-force.ptx" />
 	<xi:include href="./mag/sec_magnetic-dipole.ptx" />
+	<xi:include href="./mag/sec_ampere.ptx" />
 
     <!--PRACTICE SECTIONS-->
 	<xi:include href="./mag/sec_mag-practice.ptx" />

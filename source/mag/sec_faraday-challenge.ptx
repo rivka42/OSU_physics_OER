@@ -13,6 +13,45 @@
 	<m> \mathrm{~}</m>
 	-->
 
+	<project>
+			<title>Magnetic Flux</title>
+			<statement><p></p>
+				<p>
+					What is the magnetic flux through an equilateral triangle with side <m>60 \mathrm{~cm},</m> long, whose plane makes a 60 degree angle with a uniform magnetic field of <m>0.33 \mathrm{~T}</m>?
+				</p>
+			</statement>
+			<!--
+			<answer>
+				<p>
+					0.056 Wb
+				</p>
+			</answer>
+			-->
+		</project>
+
+	<project>
+		<title>Solenoid</title>
+		<statement><p></p>
+			<p>
+				Consider the magnetic field created by an infinitely long solenoid with radius <m>R</m> and <m>n</m> coils per unit length carrying a steady clockwise current <m>I</m>. Starting from the assumption that the magnetic field everywhere in space must point in either the positive or negative <m>z</m>-direction (parallel to the axis of the solenoid), use Ampere's Law to determine the magnitude and direction of this magnetic field.
+			</p>
+		</statement>
+		<hint>
+			<p>
+				You will need to choose Amperian Loops thoughtfully, and you may need more than one!
+			</p>
+		</hint>
+	</project>
+
+	<subsubsection>
+		<title>Metacognitive Reflection</title>
+		<statement><p></p>
+			<p>
+				Write a short paragraph discussing how a changing magnetic field can result in an induced current. As part of your description, highlight specific activities you completed this week.
+			</p>
+		</statement>
+	</subsubsection>
+
 	<investigation>
 		<title>The Moving Wire Loop</title>
 		<statement><p></p>

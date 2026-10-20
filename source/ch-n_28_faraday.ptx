@@ -17,7 +17,8 @@
 	</objectives>
 
 	<!--INTRODUCTORY SECTIONS-->
-	
+	<xi:include href="./mag/sec_magnetic-flux.ptx" />
+	<xi:include href="./mag/sec_induced-current.ptx" />
 
 	<!--PREPARE SECTIONS-->
 	<xi:include href="./mag/sec_faraday.ptx" />
