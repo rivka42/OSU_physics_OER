@@ -8,11 +8,9 @@
 			<p>
 				
 			</p>
-			<p>Pretend you are a little positive charge starting at the bottom left corner of the circuit from the end of the video. Sketch the voltage you experience as a function of time as you travel once around the circuit. Explain your reasoning behind your sketch.  You will refer to this sketch in the upcoming sections.</p>
+			<p>Pretend you are a little positive charge starting at the bottom left corner of the circuit from the end of the video. Sketch the voltage you experience as a function of time as you travel once around the circuit. Explain your reasoning behind your sketch.</p>
 		</activity>
-	
-	<p>In a previous section, in <xref ref="x_voltage-sketch"/>, you made a sketch of voltage as a function of time for a charge moving around a circuit.  The video below provides a more formal representation for this idea.</p>
-			
+		
 	<corollary xml:id="vid-voltage-diagrams">
 	<title>Voltage Diagrams</title>
 	
@@ -27,22 +25,6 @@
 </corollary>
 
 	<subsubsection><title>Key Ideas</title></subsubsection>
-		
-	<p>Voltage diagrams are very useful representations to draw when analyzing circuits. They can be as useful as free-body diagrams!</p>
-
-	<figure xml:id="fig-voltage_diagram">
-		<title>Voltage Diagram Example</title>
-		<caption>A basic circuit along and its associated voltage diagram. Two points, A and B, are defined between circuit elements. Voltage increases moving clockwise from point A to point B, then decreases by the same amount from B to A.</caption>
-		<image source="circ/voltage-diagram.png" width = "100%" >
-		<description>Left: a battery and a circuit element connected by wires labeled A and B.  Right: A graph of voltage, with 0 at point A, +Vbat at point B.</description></image>
-	</figure>
-
-	<p>
-		When drawing voltage diagrams, define locations between circuit elements to help guide your graph. Let's look at the figure above to understand how a voltage diagram is drawn. In the circuit above, there are two defined points, A and B. Starting at element A moving clockwise, the voltage starts at zero, gains <m>V_{bat}</m> across the battery between points A and B, then loses the same amount of voltage across the orange circuit element between points B and A, returning to zero voltage at point A. The voltage diagram to the right shows this.
-	</p>
-	<p>
-		Typically, voltage diagrams will start at zero voltage, and are often drawn starting at the defined location just before a voltage source, like a battery, as is shown in the diagram above. It does not matter which point on the circuit you start at. For example, in the circuit above, you could start at zero voltage at point B, lose voltage between points B and A travelling clockwise, then gain voltage across the battery between points A and B, bringing you back to zero voltage when you reach point B.
-	</p>
 
 	<conjecture xml:id="rep_voltage-diagrams">
 		<title>Voltage Diagrams</title>
@@ -50,7 +32,35 @@
 			<p>
 				
 			</p>
-			<p>A voltage diagram shows how the voltage changes throughout a circuit. Typically, a voltage diagram starts at zero and will utilize an arrow to show how the voltage is increasing or decreasing across certain elements.<xref ref="loop-rule"/> is often used in tandem with voltage diagrams.</p>
+			<p>A <term>voltage diagram</term> shows how the voltage changes throughout a circuit.</p>
+			<ul>
+				<li>
+					<p>
+						<alert>A vertical arrow represents the voltage across a circuit element.</alert>  The length of the arrow represents the size of the change, and the direction of the arrow represents whether the voltage increases or decreases.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>The diagram starts at some reference point.</alert>  A common reference is the bottom left corner, often at the negative terminal of a battery.  You may typically choose this voltage to be zero.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>The voltages around a complete loop sum to zero.</alert>  The voltage diagram should end at the same reference point as it began, and the voltage at this final point should be the same as the initial voltage, according to <xref ref="loop-rule"/>.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>The voltage diagram shows one complete loop.</alert>  If a circuit has multiple loops, it may need multiple voltage diagrams!
+					</p>
+				</li>
+			</ul>
+		<figure xml:id="fig-voltage_diagram">
+		<title>Voltage Diagram Example</title>
+		<caption>A basic circuit and its associated voltage diagram. Two points, A and B, are defined between circuit elements. Voltage increases moving clockwise from point A to point B, then decreases by the same amount from B to A.</caption>
+		<image source="circ/voltage-diagram.png" width = "100%" >
+		<description>Left: a battery and a circuit element connected by wires labeled A and B.  Right: A graph of voltage, with 0 at point A, +Vbat at point B.</description></image>
+		</figure>
 		</statement>
 	</conjecture>
 	

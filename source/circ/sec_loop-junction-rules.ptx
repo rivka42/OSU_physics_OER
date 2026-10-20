@@ -41,10 +41,10 @@
 			<p>The <term>Loop Rule</term> requires that the voltages around a <em>complete loop</em> add to zero: <me>\sum V = 0</me>
 				</p>
 
-			<p>When writing equations involving circuits, it is common to write the voltage across a circuit element as <m>V</m> rather than <m>\Delta V</m>; however, <m>V</m> still represents a <em>potential difference</em>.</p>
+			<p>It is common to write the voltage across a circuit element as <m>V</m> rather than <m>\Delta V</m>; however, <m>V</m> still represents a <em>potential difference</em>.</p>
 
 			<p>
-				The Loop Rule is a consequence of the <xref ref="path-independence-electric"/> of <m>\Delta V</m>.
+				The Loop Rule is a consequence of the <xref ref="path-independence-electric"/> of <m>\Delta V</m>.  You will see in the chapter on <xref ref="ch_faraday"/> how to approach the case where <m>\Delta V</m> is not path independent.
 			</p>
 
 		</statement>
@@ -65,7 +65,7 @@
 				In any part of a circuit with no junctions, the current is <em>equal</em>.
 			</p>
 			<p>
-				The Junction Rule is a consequence of conservation of charge in each part of a circuit.
+				The Junction Rule is a consequence of conservation of charge in each part of a circuit.  At any point where the junction rule does not hold, there would be an accumulation of charge, which would naturally give rise to additional electric fiels that would undo that accumulation of charge.
 			</p>
 		</statement>
 	</principle>
@@ -80,14 +80,14 @@
 <subsubsection><title>Activities</title></subsubsection>
 		
 		<activity>
-      <title>Using the Loop Rule</title>
+      <title>Using the Loop and Junction Rules</title>
 	  <statement>
       <p></p>
 			<p>Recall the <xref ref="going-around-a-circuit"/> activity from the previous section. Apply the loop rule and the junction rule to that circuit. How do your answers compare with what you now know about the loop rule and the junction rule?</p>
 				</statement>
 				<answer>
 					<p>
-						The voltages must add to zero, so you need another voltage decrease across element C of <m>\Delta V_C = - d \mathrm{~V}</m>
+						The voltages must add to zero, so you need another voltage decrease across element C of <me>\Delta V_C = - 2 \mathrm{~V}</me>
 					</p>
 					<p>
 						There are no junctions in this circuit, so the current in all three circuit elements will be equal: <me>I_B = I_C = 0.7 \mathrm{~A}</me>
@@ -115,7 +115,7 @@
 				<li><p><m>I_3 = I_1 - I_2</m></p></li>
 				<li><p><m>\frac{1}{I_3} = \frac{1}{I_1} + \frac{1}{I_2}</m></p></li>
 				<li><p><m>I_3 = </m> the bigger of <m>I_1</m> and <m>I_2</m></p></li>
-				<li><p>I can't figure out <m>I_3</m></p></li>
+				<!--<li><p>I can't figure out <m>I_3</m></p></li>-->
 			</ol>
 		</activity>
 	

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_voltage-batteries" xmlns:xi="http://www.w3.org/2001/XInclude">
-  	<title>Ideal Wires and Batteries</title>
+  	<title>Ideal Batteries and Wires</title>
 
 	<corollary xml:id="vid-voltage">
 	<title>Voltage</title>
@@ -18,30 +18,70 @@
 
   <subsubsection><title>Key Ideas</title></subsubsection>
 	
-	<p>The word <term>voltage</term> refers to the electric potential difference across an element within a circuit.  Most elements in a circuit are connected to each other by ideal wires.</p>
+	<p>Essential to analyzing circuits is to have a model for the <alert>voltage</alert> across each possible circuit element, starting with ideal batteries and ideal wires.</p>
+
+	<definition xml:id="def_battery">
+	<title>Battery</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>A <term>battery</term> is a circuit element that provides a source of voltage.</p>
+		<ul>
+			<li>
+				<p>
+					<alert>There is a voltage difference between the terminals of a battery.</alert>  The <m>+</m> terminal of the battery is at a higher voltage than the <m>-</m> terminal.<!--  This voltage difference is sometimes known as an <em>electromotive force</em> (emf).-->
+				</p>
+			</li>
+			<li>
+				<p>
+					<alert>A battery stores chemical potential energy.</alert>  When the battery is part of a complete circuit, the chemical energy is converted to electric potential energy by separating charged ions in a chemical solution.
+				</p>
+			</li>
+			<li>
+				<p>
+					<alert>The separated ions create an electric field.</alert>  When the battery is part of a complete circuit, an electric field exists in both the battery and in the conductors that make up the circuit.  These conductors are thus <alert>not in electrostatic equilibrium</alert>.
+				</p>
+			</li>
+		</ul>
+		<figure xml:id="BatteryInside">
+			  <title>Battery Diagram</title>
+			<caption><alert>Example:</alert> simplified charge diagram and electric field vectors for a battery (left) connected in a complete circuit to a conducting wire (right).  The charges in the battery represent ions that have moved as a result of a chemical reaction occurring inside the battery; the charges on the wire result from electrons moving in response to the voltage provided by the battery.  The resulting electric field inside the conducting wire forces current to move.</caption>
+			<image source="BatteryInside.png" width = "100%" ><description>A circuit diagram with a stylized representation of a battery on the left and a conducting wire on the right.  The battery has positive charges along its top and negative charges along its bottom, with downward vectors representing the electric field inside.  The conducting wire has charges along its side, with downward vectors representing the electric field inside.</description></image>
+		</figure>
+	</statement>
+	</definition>
+
+	<assumption xml:id="a_battery">
+	<title>Ideal Battery</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>An <term>ideal battery</term> has a constant voltage that does not change in time and is not dependent on what the battery is connected to.</p>
+	</statement>
+	<figure xml:id="CD_Battery">
+			  <title>Battery Diagram</title>
+			<caption>Two representations of a battery: a picture on the left and a circuit diagram on the right.</caption>
+			<image source="CD_Battery.png" width = "50%" ><description>Two representations of a battery: a picture of a battery on the left and a circuit diagram with a long line parallel to a short line on the right.</description></image>
+		</figure>
+	</assumption>
 	
 	<assumption xml:id="a_wire">
-	<title>Ideal Wires</title>
+	<title>Ideal Wire</title>
 	<statement>
 		<p>
 			
 		</p>
-		<p>An <term>ideal wire</term> has no effective resistance to the flow of current, and the voltage across it is always equal to zero.  Metal objects that are very good conductors (such as copper) make good ideal wires.</p>
+		<p>An <term>ideal wire</term> has no effective resistance to the flow of current, and the voltage across it is always equal to zero.  Metal objects that are good electrical conductors (such as copper) make good ideal wires.</p>
 	</statement>
+	<figure xml:id="CD_Wire">
+			  <title>Wire Diagram</title>
+			<caption>Two representations of a wire: a picture on the left and a circuit diagram on the right.</caption>
+			<image source="CD_Wire.png" width = "50%" ><description>Two representations of a wire: a red laboratory wire on the left and a straight line on the right.</description></image>
+		</figure>
 </assumption>
 
-<p>Most circuits include at least one battery as a source of voltage.  You will typically assume batteries are <em>ideal</em>.</p>
-	
-	<assumption xml:id="a_battery">
-	<title>Ideal Batteries</title>
-	<statement>
-		<p>
-			
-		</p>
-		<p>When you assume a battery is ideal, the voltage across it is always constant: it does not change no matter what circuit you connect it to or how you connect it.</p>
-	</statement>
-</assumption>
-	
 		
 		
 

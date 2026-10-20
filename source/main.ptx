@@ -78,8 +78,9 @@
 		<xi:include href="./ch-n_24_elec-energy-poten.ptx" />
 		<xi:include href="./ch-n_25_equipotential-surf.ptx" />
 
-		<xi:include href="./ch-n_26_circuits-intro.ptx" />
-		<!-- <xi:include href="./ch-n_26_circuits-resistors.ptx" /> -->
+		<xi:include href="./ch-n_26_electric-circuits.ptx" />
+		<!--<xi:include href="./1oldch/ch-n_26_circuits-intro.ptx" /> -->
+		<!-- <xi:include href="./1oldch/ch-n_26_circuits-resistors.ptx" /> -->
 		<xi:include href="./ch-n_27_circuits-capacitors.ptx" />
 		
 		<xi:include href="./ch-n_28_magnetism.ptx" />

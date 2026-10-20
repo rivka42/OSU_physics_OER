@@ -3,7 +3,7 @@
 <chapter xml:id="ch_circuits-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Electric Circuits</title>
 	<introduction>
-    <p> In this chapter you will learn about the fundamentals of circuits.</p>
+    <p> In this chapter you will learn about basic electric circuits.</p>
 	
 	</introduction>
 		
@@ -35,10 +35,13 @@
 	-->
 
     <!--PRACTICE SECTIONS-->
+	<!--
 	<xi:include href="./circ/sec_resistance.ptx" />
 	<xi:include href="./circ/sec_ohm.ptx" />
 	<xi:include href="./circ/sec_adding-resistors.ptx" />
 	<xi:include href="./circ/sec_power-in-circuits.ptx" />
+	-->
+
 	<xi:include href="./circ/sec_circ-practice.ptx" />
 
     <!--CHALLENGE SECTIONS-->

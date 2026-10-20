@@ -43,6 +43,16 @@
 		</statement>
 	</definition>
 
+	<assumption xml:id="a_conservative">
+	<title>The Electric Field Is Conservative</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>Defining a potential energy requires that the underlying force be <alert>conservative</alert>: that is, the change in potential energy must be independent of an object's path as it moves from one point to another.  The electric field is conservative as long as it is created by a static charge distribution.  Later, in the chapter on <xref ref="ch_faraday"/>, you will see an example of an electric field caused by changing magnetic fields that is nonconservative.</p>
+	</statement>
+</assumption>
+
 	<p>This definition of potential energy intentionally mirrors the definition of electric force <m>\vec{F}^E = q_{\mathrm{test}}\vec{E}</m>.  The new quantity <m>\Delta V</m> is known as the electric potential difference and is based on a new scalar field <m>V</m>, known as the electric potential, which, like the electric field, is created by the presence of other electric charges.  <!--A charged object will experience a potential difference as it moves through, or changes locations in, an electric potential scalar field.--></p>
 
 	<definition xml:id="def_epd">

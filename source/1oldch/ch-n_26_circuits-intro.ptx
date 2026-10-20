@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<chapter xml:id="ch_circuits-intro" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Circuits: Introduction</title>
+	<introduction>
+    <p> In this chapter you will learn about the fundamentals of circuits.</p>
+	
+	</introduction>
+		
+    <objectives>
+      
+      <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
+		<ol>
+			<li><p>Identify the conditions for current to flow through circuit components.</p></li>
+			<li><p>Relate current to the flow of electric charge per unit time.</p></li>
+			<li><p>Draw and label basic and advanced circuit diagrams.</p></li>
+			<li><p>Treat batteries as sources of constant voltage rather than constant current.</p></li>
+			<li><p>Determine the amount of current flowing through a circuit with one or more resistors and a single battery, both quantitatively and qualitatively.</p></li>
+			<li><p>Determine the amount of current flowing through a circuit with one or more resistors and more than one battery, both quantitatively and qualitatively.</p></li>
+			<li><p>Determine the equivalent resistance of a circuit.</p></li>
+			<li><p>Determine the power and/or energy used by a resistor.</p></li>
+		</ol>
+	</objectives>
+
+	<!--INTRODUCTORY SECTIONS-->
+	<xi:include href="./circ/sec_circuits-intro2.ptx" />
+
+	<!--PREPARE SECTIONS-->
+	<xi:include href="./circ/sec_loop-junction-rules.ptx" />
+	<xi:include href="./circ/sec_voltage-batteries.ptx" />
+	<xi:include href="./circ/sec_voltage-diagrams2.ptx" />
+
+	<!--
+	<xi:include href="./circ/sec_circuit-diagrams.ptx" />
+	-->
+
+    <!--PRACTICE SECTIONS-->
+	<xi:include href="./circ/sec_resistance.ptx" />
+	<xi:include href="./circ/sec_ohm.ptx" />
+	<xi:include href="./circ/sec_adding-resistors.ptx" />
+	<xi:include href="./circ/sec_power-in-circuits.ptx" />
+	<xi:include href="./circ/sec_circ-practice.ptx" />
+
+    <!--CHALLENGE SECTIONS-->
+	<xi:include href="./circ/sec_circ-challenge.ptx" />
+
+
+
+	<!--ORIGINAL SEQUENCE-->
+	<!--
+	<xi:include href="./circ/old/sec_circuits-intro.ptx" />
+	<xi:include href="./circ/old/sec_voltage.ptx" />
+	<xi:include href="./circ/old/sec_loop-rule.ptx" />
+	<xi:include href="./circ/old/sec_voltage-diagrams.ptx" />
+	<xi:include href="./circ/old/sec_current.ptx" />
+	<xi:include href="./circ/old/sec_junction-rule.ptx" />
+	<xi:include href="./circ/sec_circuit-diagrams.ptx" />
+
+	<xi:include href="./circ/sec_resistance.ptx" />
+	<xi:include href="./circ/sec_ohm.ptx" />
+	<xi:include href="./circ/sec_adding-resistors.ptx" />
+	<xi:include href="./circ/sec_power-in-circuits.ptx" />
+	<xi:include href="./circ/sec_circ-practice.ptx" />
+
+
+	<xi:include href="./circ/sec_circ-challenge.ptx" />
+	-->
+
+</chapter>
+
+
+
+
+
+
+
+

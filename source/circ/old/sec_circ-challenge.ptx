@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_circ-challenge" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Challenge - Circuits: Intro</title>
+	
+	<!--
+	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
+	If you want an Explain activity, use the <investigation> tag.
+		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
+	If you want a Calculate activity, use the <exploration> tag.
+	
+	<m># \mathrm{~}</m>
+	<m> \mathrm{~}</m>
+	-->
+	<investigation>
+		<title>Circuit I</title>
+		<statement><p></p>
+			<figure xml:id="fig-circuit_2">
+				<caption>Circuit diagram.</caption>
+				<image source="circ/circuit-2.png" width = "40%" >
+				<description>A circuit diagram with a battery on the left.  On the right, a branch with bulb A in series with a parallel network of bulbs B and C, in series with bulb D.</description></image>
+			</figure>
+			<p>
+				The circuit above shows four identical bulbs connected to an ideal battery. The switch is initially closed.
+			</p>
+			<ol>
+				<li>
+					<p>
+						Rank the bulbs according to brightness, in order from brightest to dimmest. If two bulbs have the same brightness, indicate that explicitly.
+					</p>
+				</li>
+				<li>
+					<p>
+						When the switch is opened, will bulb A get brighter, get dimmer, or remain the same brightness?
+					</p>
+				</li>
+				<li>
+					<p>
+						When the switch is opened, will bulb B get brighter, get dimmer, or remain the same brightness?
+					</p>
+				</li>
+			</ol>
+		</statement>
+	</investigation>
+
+	<investigation>
+		<title>Circuit II</title>
+		<statement><p></p>
+			<figure xml:id="fig-circuit_3">
+				<caption>Circuit diagram.</caption>
+				<image source="circ/circuit-3.png" width = "40%" >
+				<description>A circuit diagram with three batteries in series on the left.  The first vertical branch contains bulbs A and B in series.  The next vertical branch contains bulb C in series with a parallel network of bulb D and bulbs E and F in series.</description></image>
+			</figure>
+			<p>
+				Rank the light bulbs shown above according to brightness. If any bulb does not light, or if you do not have enough information, state so explicitly. 
+			</p>
+			<p>
+				In particular, explain your reasoning for how you ranked each of the following pairs of bulbs:
+			</p>
+			<ol>
+				<li>
+					<p>
+						A &amp; B
+					</p>
+				</li>
+				<li>
+					<p>
+						A &amp; C
+					</p>
+				</li>
+				<li>
+					<p>
+						A &amp; D
+					</p>
+				</li>
+			</ol>
+		
+		<assemblage>
+			<p>
+				<alert><!--REPLACE_TAG-->Tip:</alert> Use voltage diagrams to help your reasoning.
+			</p>
+		</assemblage>
+	</statement>
+	</investigation>
+
+	<subsubsection>
+		<title>Metacognitive Reflection</title>
+		<statement><p></p>
+			<p>
+				We came up with a model for circuits this week, based on the brightness of a lightbulb. Restate the model here in your own words, and explain why you cannot use Ohm's law for real lightbulbs.
+			</p>
+		</statement>
+	</subsubsection>
+	
+<!--NO AI-->
+</section>
