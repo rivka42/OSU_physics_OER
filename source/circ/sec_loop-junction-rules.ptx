@@ -3,7 +3,7 @@
 <section xml:id="sec_loop-junction-rules" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>The Loop and Junction Rules</title>
 		
-	<corollary xml:id="vid-loop-rule">
+	<corollary xml:id="vid-loop-junction-rules">
 	<title>The Loop Rule</title>
 	
 	<statement>
@@ -11,23 +11,12 @@
 			
 		</p>
 
-		<video youtube="cw1TurDRc24"><description>Describing the voltage loop rule for circuits.</description></video>
+		<video youtube="SeKkKG2WQH4"><description>Describing the voltage loop rule and current junction rules for circuits.</description></video>
 
 	</statement>
   </corollary>
 
-  <corollary xml:id="vid-junction-rule">
-	<title>The Junction Rule</title>
-	
-	<statement>
-		<p>
-			
-		</p>
 
-		<video youtube="tbAY1Szovxk"><description>The junction rule for electric circuits.</description></video>
-
-	</statement>
-  </corollary>
 
   <subsubsection><title>Key Ideas</title></subsubsection>
 		

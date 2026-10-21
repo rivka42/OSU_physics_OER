@@ -27,7 +27,7 @@
 			
 		</p>
 
-		<video youtube="cw1TurDRc24"><description>Introducing electric circuits.</description></video>
+		<video youtube="PxVLDZpSjWk"><description>Introducing electric circuits.</description></video>
 
 	</statement>
   </corollary>
@@ -76,7 +76,7 @@
 
 			<figure xml:id="precircuit">
 			  <title>Circuit Figure</title>
-			<caption><alert>Example:</alert> A simple circuit consisting of three unknown circuit elements (A, B, and C)</caption>
+			<caption><alert>Example:</alert> A simple circuit consisting of three unknown circuit elements (A, B, and C).</caption>
 			<image source="circ/PreCircuit.png" width = "50%" ><description>A diagram of a complete circuit consisting of a square marked with three boxes (A, B, and C) on the left, upper, and right sides, respectively. A small dot below box A is marked as a starting point.</description></image>
 		</figure>
 		</statement>
@@ -123,7 +123,7 @@
 					<figure xml:id="CD_First">
 			  <title>Circuit Elements Diagram</title>
 			<caption><alert>Example</alert> circuit elements in circuit diagram notation.</caption>
-			<image source="CD_All.png" width = "100%" ><description>Five circuit elements, from left to right: a wire (a straight line), a battery (two horizontal lines of different length), a light bulb (a circle around an ellipse), a junction (a horizontal line meeting a vertical line at the middle), and a switch (a diagonal line opposite an open circle).</description></image>
+			<image source="CD_All.png" width = "100%" ><description>Seven circuit elements, from left to right: a wire (a straight line), a battery (two horizontal lines of different length), a light bulb (a circle around an ellipse), a junction (a horizontal line meeting a vertical line at the middle), a switch (a diagonal line opposite an open circle), a resistor (a jagged line), and a capacitor (two parallel lines of equal length).</description></image>
 		</figure>
 				</li>
 				<li>
