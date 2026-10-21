@@ -45,7 +45,7 @@
 		<figure xml:id="CD_R">
 		<title>Ohmic Resistor Diagram</title>
 		<caption>The circuit diagram representation for a linear resistor.</caption>
-		<image source="CD_R.png" width = "10%" ><description>A jagged line representing a linear resistor.</description></image>
+		<image source="CD_R.png" width = "40%" ><description>A jagged line representing a linear resistor.</description></image>
 	</figure>
 		</statement>
 	</assumption>
