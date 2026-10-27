@@ -13,7 +13,7 @@
 			<p>
 				
 			</p>
-			<p>The <term>magnetic field</term> created by an electric charge <m>q</m> moving with velocity <m>\vec{v}</m> is given by <me>\vec{B} = \frac{\mu_0}{4\pi}\frac{q\vec{v} \times \hat{r}}{r^2}</me></p>
+			<p>The <term>magnetic field</term> created by an electric charge <m>q</m> moving with velocity <m>\vec{v}</m> is given by <me>\vec{B} = \frac{\mu_0}{4\pi}\frac{q\vec{v} \times \hat{r}}{r^2}</me>  This relationship is sometimes known as the Biot-Savart Law.</p>
 			<ul>
 				<li>
 					<p>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 
 <chapter xml:id="ch_faraday" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Faraday's Law</title>
+  <title>Magnetic Induction</title>
 	<introduction>
-    <p> In this chapter you will learn about Faraday's Law.</p>
+    <p> In this chapter you will learn about magnetic induction.</p>
 	
 	</introduction>
 		
@@ -18,12 +18,12 @@
 
 	<!--INTRODUCTORY SECTIONS-->
 	<xi:include href="./mag/sec_magnetic-dipole.ptx" />
+	<xi:include href="./mag/sec_torque-dipole.ptx" />
 	<xi:include href="./mag/sec_magnetic-flux.ptx" />
 	<xi:include href="./mag/sec_induced-current.ptx" />
 
 	<!--PREPARE SECTIONS-->
 	<xi:include href="./mag/sec_faraday.ptx" />
-	<xi:include href="./mag/sec_mag-summary.ptx" />
 
 
     <!--PRACTICE SECTIONS-->
@@ -32,6 +32,9 @@
     <!--CHALLENGE SECTIONS-->
 	<xi:include href="./mag/sec_faraday-challenge.ptx" />
 
+<!--
+	<xi:include href="./mag/sec_mag-summary.ptx" />
+-->
 
 </chapter>
 

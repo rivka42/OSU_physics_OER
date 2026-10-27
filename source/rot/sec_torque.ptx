@@ -14,7 +14,7 @@
 	
 	<p>When any force acts on a rigid object, it also acts a torque on that object.  The torque depends both on the force itself and on where the force acts relative to some axis.  This means that the torque depends on your choice of axis!  The force itself is unchanged no matter what torque it acts.</p>
 	
-		<definition>
+		<definition xml:id="def_torque">
 	<title>Torque</title>
 	<statement><p></p>
 		<p>The <term>torque</term> exerted by a force <m>\vec{F}</m> acting on a rigid body about a given axis is <m>\vec{\tau} = \vec{r} \times \vec{F}</m>, where <m>\vec{r}</m> is the perpendicular vector from the axis to the point of contact of the force.</p>

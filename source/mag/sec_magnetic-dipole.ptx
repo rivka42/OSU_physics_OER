@@ -5,12 +5,17 @@
 
 		<activity>
       <title>Warm-up Activity</title>
-      <p></p><p>Shown below are two bar magnets. Describe how they will interact with one another. What will happen to their motion?</p> </activity>
+      <p></p>
+		
+		<p>Shown below are two bar magnets.  Predict how they will interact with one another.  What will happen to their motion?</p> 
+
 		<figure xml:id="bar_magnets">
 			<title>Bar Magnets Figure</title>
 			<caption>Two bar magnets sit side by side, with their south poles facing each other.</caption>
-			<image source="mag/bars.png" width = "70%" ><description>Two bar magnets sit side by side, with their south poles facing each other.</description></image>
+			<image source="mag/bars.png" width = "50%" ><description>Two bar magnets sit side by side, with their south poles facing each other.</description></image>
 		</figure>
+		</activity>
+		
 		
     <corollary xml:id="vid-magnetic-dipole">
 	<title>Magnetic Dipole Moment</title>
@@ -26,8 +31,7 @@
   </corollary>
 
   <subsubsection><title>Key Ideas</title></subsubsection>
-	
-	<p>Bar magnets have a physical property called the magnetic dipole moment.</p>
+
 	
 	<definition>
 		<title>Magnetic Dipole Moment</title>
@@ -35,31 +39,103 @@
 			<p>
 				
 			</p>
-			<p>The <term>magnetic dipole moment</term>, <m>\vec{\mu}</m>, points from the south to the north pole inside a bar magnet.</p>
+			<p>The <term>magnetic dipole moment</term>, symbolized by <m>\vec{\mu}</m>, represents the strength and orientation of objects like permanent magnets.</p>
+
+				<ul>
+					<li>
+						<p>
+							The dipole moment is a physical property of the permanent magnet.
+						</p>
+					</li>
+					<li>
+						<p>
+							The dipole moment points from the south to the north pole inside the permanent magnet.
+						</p>
+					</li>
+					<li>
+						<p>
+							The magnitude of the dipole moment is related to the strength of the magnet.
+						</p>
+					</li>
+					<li>
+						<p>
+							A permanent magnet with a dipole moment will create a magnetic field such as the one shown in the figure below.
+						</p>
+					</li>
+				</ul>
+				<figure xml:id="fig_mag-field-lines">
+			<title>Magnetic Field Lines Figure</title>
+    		<caption><alert>Example:</alert> Magnetic field lines created by a permanent magnet.</caption>
+    		<image source="MagneticDipoleLines.jpg" width = "60%" ><description>A bar magnet with a north and south pole. The field lines come out of the north pole and curve out and around to the south pole.</description></image>
+				
+		</figure>
+
 		</statement>
 	</definition>
+
+	<assumption xml:id="a_current-loop">
+	<title>Magnetic Moment for a Current Loop</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>
+			Current loops also behave as if they were permanent magnets!
+		</p>
+		<p>
+			A loop with area <m>A</m> carrying current <m>I</m> may be approximated as having a magnetic dipole moment <me>\mu = IA</me>
+		</p>
+		<p>
+			The direction of the dipole moment is the same as the direction of the magnetic field at the center of the loop, which can be found using a right hand rule: curl your fingers in the direction of the current, and your right thumb will point in the direction of <m>\vec{\mu}</m>.
+		</p>
+	</statement>
+</assumption>
 	
-	<p>The magnetic field around a simple magnetic dipole has the form shown below.</p>
-	
-	<figure xml:id="fig_mag-field-lines">
-			<title>Magnetic Field Lines Figure</title>
-    		<caption>Magnetic Field Lines of a bar magnet.</caption>
-    		<image source="MagneticDipoleLines.jpg" width = "60%" ></image>
-				<shortdescription>A bar magnet with a north and south pole. The field lines come out of the north pole and curve out and around to the south pole.</shortdescription>
-		</figure>
 	
 	<subsubsection>
 		<title>Activities</title>
+		
+		<activity>
+      <title>Current Loop and Bar Magnet</title>
+	  <statement>
+      <p></p>
+		<p>The figure below shows a bar magnet and a loop with current that is running clockwise when viewed from above.</p>
+		<figure xml:id="loop_magnet0">
+			<title>Loop Figure</title>
+				<caption>A bar magnet and a current loop.</caption>
+				<image source="mag/loop0.png" width = "50%" ><description>A bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</description></image>
+			</figure>
+		<p>What direction is the net force on the bar magnet?</p>
+			</statement>
+			<solution>
+				<p>
+					Anything with a magnetic moment both creates a magnetic field and experiences magnetic forces!  Modeling the loop as a bar magnet gives the picture below, which suggests a downward force on the bar magnet (the bar magnet's north pole is attracted to the <q>south pole</q> of the current loop).
+				</p>
+				<figure xml:id="loop_magnet1">
+			<title>Loop Figure</title>
+				<caption>A bar magnet and a current loop modeled as a bar magnet.</caption>
+				<image source="mag/loop1.png" width = "50%" ><description>A bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</description></image>
+			</figure>
+			</solution>
+		</activity>
+
+		<activity xml:id="x_bar-magnet">
+      <title>Current Loop and Tilted Bar Magnet</title>
+	  <statement>
+      <p></p>
 		<p>The figure below shows a bar magnet and a loop with current that is running clockwise when viewed from above.</p>
 		<figure xml:id="loop_magnet">
 			<title>Loop Figure</title>
-				<caption>A bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</caption>
-				<image source="mag/loop.png" width = "70%" ><description>A bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</description></image>
+				<caption>A tilted bar magnet and a current loop.</caption>
+				<image source="mag/loop.png" width = "50%" ><description>A tilted bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</description></image>
 			</figure>
-		<activity>
-      <title>Bar Magnet</title>
-      <p></p>
-		<p>Describe what you expect to happen to the bar magnet and the loop as time progresses.</p>
+		<p>Predict what you expect to happen to the bar magnet and the loop as time progresses.</p>
+			</statement>
+			<hint>
+				<p>
+					How would you expect the bar magnet to <em>rotate</em>?
+				</p>
+			</hint>
 		</activity>
 	</subsubsection>
 

@@ -3,7 +3,7 @@
 <section xml:id="sec_magnetic-flux" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Magnetic Flux</title>
 
-	<p>Just as you learned about electric flux in <xref ref="sec_flux"/>, magnetic flux can be calculated in the same way.</p>
+	<p>The definition you saw for <xref ref="def_flux"/> can be extended to define a new quantity called <em>magnetic flux</em>.</p>
 		
 		<!--
     <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
@@ -16,17 +16,62 @@
 				
 			</p>
 			<p><term>Magnetic flux</term> is a measure of how much magnetic field is passing perpendicularly through a surface: <me>\mathit{\Phi}_{B} = \iint \vec{B}\cdot d\vec{A}</me></p>
+			<p>The double-integral sign indicates that the integral is over a two-dimensional surface, and the limits of integration must be chosen so that they cover the entirety of the desired surface.  The differential area vector <m>d\vec{A}</m> represents an infinitesimal piece of the total surface.</p>
 		</statement>
 	</definition>
 
-<!--
-	<subsubsection>
+<subsubsection>
 		<title>Activities</title>
+		
 		<activity>
-			<p>TEXT</p>
+      <title>Flux through a Book</title>
+	  <introduction>
+      <p></p>
+			<p>Suppose you have a region of space where the magnetic field is uniform and points entirely in the <m>y</m>-direction with magnitude <m>B_1</m>.</p>
+				</introduction>
+				<task>
+					<statement>
+						<p>
+							Make a quick sketch of the magnetic field, including <m>x</m>-, <m>y</m>-, and <m>z</m>-axes.
+						</p>
+					</statement>
+				</task>
+				<task>
+					<statement>
+						<p>
+							Add the following two surfaces to your sketch:
+						</p>
+						<ul>
+							<li>
+								<p>
+									<alert>Surface 1:</alert> A circle with radius <m>R</m> in the <m>xy</m>-plane.
+								</p>
+							</li>
+							<li>
+								<p>
+									<alert>Surface 2:</alert> A circle with radius <m>R</m> in the <m>xz</m>-plane.
+								</p>
+							</li>
+							</ul>
+					</statement>
+				</task>
+				<task>
+					<statement>
+						<p>
+							Sketch an area vector for each surface.
+						</p>
+					</statement>
+				</task>
+				<task>
+					<statement>
+						<p>
+							Use your chosen area vectors and the given magnetic field to calculate the magnetic flux through each surface.
+						</p>
+					</statement>
+				</task>
 		</activity>
+		
 	</subsubsection>
--->
 
 <!--NO AI-->
 </section>

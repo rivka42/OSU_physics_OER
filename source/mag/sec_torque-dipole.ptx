@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_torque-dipole" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>Torque on a Dipole</title>
+
+	<p>
+		Previously, you considered the interaction between a <xref ref="x_bar-magnet"/>.  In this example, the bar magnet will end up <em>rotating</em> as a result of the magnetic field created by the current loop.  The concepts of <xref ref="def_torque"/> and potential energy, which you have studied previously, can be used to help explain this interaction.
+	</p>
+	
+	<definition>
+		<title>Torque on a Magnetic Dipole Moment</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>The torque on an object with a magnetic dipole moment <m>\vec{\mu}</m> due to a magnetic field <m>\vec{B}</m> is given by <me>\vec{\tau} = \vec{\mu} \times \vec{B}</me></p>
+		</statement>
+	</definition>
+
+	<definition>
+		<title>Potential Energy for a Magnetic Dipole Moment</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>A system consisting of an object with a magnetic dipole moment <m>\vec{\mu}</m> in a magnetic field <m>\vec{B}</m> has potential energy given by <me>\vec{U} = - \vec{\mu} \cdot \vec{B}</me></p>
+		</statement>
+	</definition>
+	
+	
+	<subsubsection>
+		<title>Activities</title>
+		
+		<activity>
+      <title>Rotating Magnet</title>
+	  <statement>
+      <p></p>
+		<p>Consider the bar magnet shown below.</p>
+		<figure xml:id="bar_magnet0">
+			<title>Bar Magnet Figure</title>
+				<caption>A bar magnet.</caption>
+				<image source="bar-magnet0.png" width = "50%" ><description>A bar magnet with N at the top and S at the bottom.</description></image>
+			</figure>
+		<p>Suppose you want the magnet to begin rotating counterclockwise.  What direction should you put the magnetic field to achieve this effect?</p>
+			</statement>
+		</activity>
+
+	</subsubsection>
+
+
+<!--NO AI-->
+</section>
+

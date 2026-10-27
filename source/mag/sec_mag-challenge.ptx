@@ -12,18 +12,19 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
+
 	<investigation>
 		<title>Zero Magnetic Field</title>
 		<statement><p></p>
-			<figure xml:id="fig-current_graph">
-				<caption>Grid showing locations of two current carrying wires.</caption>
-				<image source="mag/current-graph.png" width = "40%" ></image>
+			<figure xml:id="fig_mag-wires1">
+				<caption>Two current carrying wires.</caption>
+				<image source="Mag-Wires1.png" width = "50%" ></image>
 			</figure>
 			<p>
-				Shown above is a cross-sectional view of two long straight wires that are parallel to one another.  One wire carries a current <m>i_o</m> out of the page; the other carries an equal current <m>i_o</m> into the page.
+				The two wires shown in the figure above carry identical currents <m>I_1</m>, one into the page and one out of the page.  Each wire is positioned a distance <m>d</m> from the origin at an angle of <m>45^o</m> down from the positive <m>y</m>-axis.
 			</p>
 			<p>
-				Suppose a third wire (carrying the same current <m>i_o</m> out of the page) is placed such that the magnetic field at point <m>P</m> has zero magnitude.  Determine the location of the third wire.
+				You want to position a third wire, carrying current <m>I_1</m> out of the page, in such a way that the net magnetic field at the origin is equal to zero.  Give a complete explanation that determines the location of this third wire.
 			</p>
 		</statement>
 	</investigation>
@@ -37,7 +38,7 @@
 				<image source="mag/half-cylinder-current.png" width = "40%" ></image>
 			</figure>
 			<p>
-				A very long half-cylinder of radius <m>R</m> (see picture above) carries a total current <m>I</m> uniformly distributed across the circumference.  Determine the magnetic field along the central axis of the cylinder.
+				A very long half-cylinder of radius <m>R</m> (see picture above) carries a total current <m>I</m> uniformly distributed across the circumference.  Calculate the magnetic field along the central axis of the cylinder.
 			</p>
 		</statement>
 	</project>

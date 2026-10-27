@@ -35,11 +35,8 @@
           
         </p>
 				<p>A <term>magnetic induction table</term> is a representation that helps you organize and keep track of the various quantities needed for Faraday's Law.  An example table from the video is reproduced below.</p>
-			</statement>
-		</conjecture>
-		
-		<table>
-  <title>Example Magnetic Induction Table</title>
+          <table>
+  <title><alert>Example</alert> Magnetic Induction Table</title>
   <tabular halign="center">
     <row header="yes" bottom="minor" >
       <cell>Quantity</cell>
@@ -48,7 +45,7 @@
     </row>
     <row>
       <cell><m>\vec{A}</m></cell>
-      <cell>Out</cell>
+      <cell>out</cell>
       <cell><m>xy</m></cell>
     </row>
     <row>
@@ -79,6 +76,10 @@
   </tabular>
 
 </table>
+			</statement>
+		</conjecture>
+		
+		
 
 	<subsubsection>
 		<title>Activities</title>

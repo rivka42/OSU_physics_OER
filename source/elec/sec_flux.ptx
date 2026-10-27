@@ -30,7 +30,7 @@
 
   <subsubsection><title>Key Ideas</title></subsubsection>
 
-	<definition>
+	<definition xml:id="def_flux">
 		<title>Electric Flux</title>
 		<statement>
 			<p>
