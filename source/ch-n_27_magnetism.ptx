@@ -27,15 +27,21 @@
 	<xi:include href="./mag/sec_magnetic-field.ptx" />
 	<xi:include href="./mag/sec_biot-savart.ptx" />
 	<xi:include href="./mag/sec_calculating-b.ptx" />
-	<xi:include href="./mag/sec_magnetic-force.ptx" />
-	<xi:include href="./mag/sec_lorentz-force.ptx" />
-	<xi:include href="./mag/sec_magnetic-dipole.ptx" />
-	<xi:include href="./mag/sec_ampere.ptx" />
+	<xi:include href="./mag/sec_using-b.ptx" />
+
 
     <!--PRACTICE SECTIONS-->
+	<xi:include href="./mag/sec_magnetic-force.ptx" />
+	<xi:include href="./mag/sec_lorentz-force.ptx" />
+	<xi:include href="./mag/sec_using-b-forces.ptx" />
+
+	<xi:include href="./mag/sec_ampere.ptx" />
+
 	<xi:include href="./mag/sec_mag-practice.ptx" />
+	
 
     <!--CHALLENGE SECTIONS-->
+	<xi:include href="./mag/sec_ampere2.ptx" />
 	<xi:include href="./mag/sec_mag-challenge.ptx" />
 
 

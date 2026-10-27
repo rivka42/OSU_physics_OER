@@ -1,37 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_biot-savart" xmlns:xi="http://www.w3.org/2001/XInclude">
-  	<title>The Biot-Savart Law</title>
+  	<title>Magnetic Field: Point Charge</title>
 		
 		<!--NEED VIDEO
     <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 		-->
 	
 	<definition>
-		<title>Magnetic field for a moving electric charge</title>
+		<title>Magnetic Field Created by a Charge</title>
 		<statement>
 			<p>
 				
 			</p>
-			<p>The <term>magnetic field</term> created by a moving electric charge is given by <me>\vec{B} = \frac{\mu_o}{4\pi}\frac{q\vec{v} \times \hat{r}}{r^2}</me> where <m>\vec{v}</m> is the velocity of the moving charge and <m>\vec{r}</m> is the distance from the moving charge to the position where you are determining the magnetic field.</p>
+			<p>The <term>magnetic field</term> created by an electric charge <m>q</m> moving with velocity <m>\vec{v}</m> is given by <me>\vec{B} = \frac{\mu_0}{4\pi}\frac{q\vec{v} \times \hat{r}}{r^2}</me></p>
+			<ul>
+				<li>
+					<p>
+						<m>\mu_0 = 4\pi \times 10^{-7} \mathrm{~\frac{Tm}{A}}</m>
+					</p>
+				</li>
+				<li>
+					<p>
+						The symbol <m> \times </m> denotes <xref ref="def_cross_product"/>.
+					</p>
+				</li>
+				<li>
+					<p>
+						<m>r</m> is the distance from the moving charge to the position where yo uare determining the magnetic field.
+					</p>
+				</li>
+				<li>
+					<p>
+						<m> \hat{r} </m> is a <xref ref="def_unit-vectors"/> that points radially away from the charge.  Note that this <alert>also</alert> depends on where you are in space!
+					</p>
+				</li>
+			</ul>
 		</statement>
 	</definition>
-	
+	<!--
 	<p>
 		A moving charged particle creates a magnetic field, given by the equation above. The magnetic field has units of Teslas (T): <me>
 			\mathrm{T} = \frac{N}{Am}
 		</me>
 		The Biot-Savart Law is a vector equation, and we can find the direction of the magnetic field produced by a moving charged particle by using the right hand rule.
 	</p>
+	-->
 	
 	<activity>
 		<title>Moving Proton</title>
 		<introduction>
-		<p>The figure below shows a proton moving to the right with speed <m>v = 10^3</m> m/s.  The three labeled points all lie 2 m away from the proton at the instant shown.</p>
+		<p></p>
+		<p>The figure below shows a proton moving to the right with speed <m>v = 10^3 \mathrm{~m/s}</m>.  The three labeled points all lie <m>2 \mathrm{~m}</m> away from the proton at the instant shown.</p>
 <figure xml:id="x_fig_mag-charge">
 			<title>Moving Proton Figure</title>
     		<caption>Several points around a moving proton.</caption>
-    		<image source="MagCharge.png" width = "70%" ></image>
+    		<image source="MagCharge.png" width = "50%" ></image>
 		</figure>
 	</introduction>
 		<task>
@@ -61,8 +85,8 @@
 			<answer>
 <ol>
 		<li><m>B = 0 \text{ T}</m></li>
-	  <li><m>B = \frac{\mu_o qv}{4\pi r^2} = 4 \times 10^{-24}</m> T</li>
-		<li><m>B = \frac{\mu_o qv}{4\pi r^2}\frac{\sqrt{2}}{2} = 2.8 \times 10^{-24}</m> T</li>
+	  <li><m>B = \frac{\mu_0 qv}{4\pi r^2} = 4 \times 10^{-24}</m> T</li>
+		<li><m>B = \frac{\mu_0 qv}{4\pi r^2}\frac{\sqrt{2}}{2} = 2.8 \times 10^{-24}</m> T</li>
 		</ol>
 			</answer>
 		</task>

@@ -47,11 +47,6 @@
 	<xi:include href="./circ/sec_circuit-analysis.ptx" />
 	<xi:include href="./circ/sec_circ-challenge.ptx" />
 
-	<!--
-	
-	<xi:include href="./circ/sec_RC-circuits.ptx" />
-	
-	-->
 
 
 

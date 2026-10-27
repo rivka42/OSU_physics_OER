@@ -21,7 +21,7 @@
 In a previous section you learned about the dot product as one way to multiply vectors.  Another way to multiply vectors is the <em>cross product</em>, named because you will use <m>\times</m> to represent the multiplication. Unlike the dot product, the cross product of two vectors is a <alert>vector</alert>, not a scalar.
 </p>
 
-<definition >
+<definition xml:id="def_cross_product">
 <title>The Cross Product</title>
 <statement>
 	<p></p>

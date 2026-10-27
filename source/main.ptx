@@ -84,6 +84,12 @@
 		<xi:include href="./ch-n_27_magnetism.ptx" />
 
 		<xi:include href="./ch-n_28_faraday.ptx" />
+		
+		<xi:include href="./ch-n_29_adv-circuits.ptx" />
+		
+		<!--
+		<xi:include href="./ch-n_30_em.ptx" />
+		-->
 
 		<!--<xi:include href="./1oldch/ch-n_26_circuits-intro.ptx" /> -->
 		<!-- <xi:include href="./1oldch/ch-n_26_circuits-resistors.ptx" /> -->

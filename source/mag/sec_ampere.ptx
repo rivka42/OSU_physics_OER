@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_ampere" xmlns:xi="http://www.w3.org/2001/XInclude">
-  	<title>Ampere's Law</title>
+  	<title>Ampère's Law</title>
 		
     <corollary xml:id="vid-ampere">
-	<title>Ampere's Law</title>
+	<title>Ampère's Law</title>
 	
 	<statement>
 		<p>
@@ -19,18 +19,35 @@
   <subsubsection><title>Key Ideas</title></subsubsection>
 	
 	<definition>
-		<title>Ampere's Law</title>
+		<title>Ampère's Law</title>
 		<statement>
 			<p>
 				
 			</p>
-			<p><term>Ampere's Law</term> relates the net magnetic field around a closed curve to the current passing through the region bounded by the curve: <me>\bigcirc \!\!\!\!\!\!\!\!\int_S \vec{B}\cdot d\vec{s} = \mu_o I_{enclosed}</me></p>
+			<p><term>Ampère's Law</term> relates the net magnetic field around a closed curve to the current passing through the region bounded by the curve: <me>\oint_S \vec{B}\cdot d\vec{l} = \mu_0 I_{enclosed}</me></p>
+				<p>
+					This is a line integral, like the integral used when you are <xref ref="e_to_v"/>. The circle over the integral symbol indicates that this is an integral over a <em>closed path</em>.
+				</p>
 		</statement>
 	</definition>
 
-	<p>
-		The integral in the definition above is a line integral. The circle over the integral symbol indicates that this is an integral over a closed path. Ampere's Law is useful when you are able to identify a symmetry of your current distribution.
+<p>
+		Ampère's Law (like Gauss's Law) is extremely useful when your current distribution has just the right symmetry. To effectively use Ampère's Law, you need:
+		<ol>
+			<li>
+				<p>
+					the magnetic field to be parallel or perpendicular to the path <m>d\vec{l}</m>
+				</p>
+			</li>
+			<li>
+				<p>
+					the magnetic field to be uniform along the path
+				</p>
+			</li>
+		</ol>
+		These conditions will simplify the dot product and the integral, allowing the magnitude of the magnetic field to be pulled out of the integral.
 	</p>
+
 	
 	<subsubsection>
 		<title>Activities</title>

@@ -36,7 +36,7 @@
 			<ul>
 				<li>
 					<p>
-						<m> k \approx 9 \times 10^{9} \frac{\mathrm{Nm^2}}{\mathrm{C^2}}</m> is the electrostatic constant, a fundamental constant.
+						<m> k \approx 9 \times 10^{9} \frac{\mathrm{Nm^2}}{\mathrm{C^2}}</m> is the electrostatic constant, a fundamental constant of the universe.
 					</p>
 				</li>
 				<li>
@@ -87,7 +87,7 @@ Every electric charge generates an electric field. The term <em>source charge</e
 		Permittivity of Free Space
 		</title>
 	<p> 
-In the equation above, the electric field is written in terms of the <alert> electrostatic constant</alert>, <m> k \approx 9 \times 10^9 \frac{\mathrm{Nm^2}}{\mathrm{C^2}}</m>. In other contexts, this constant is written as <m>k = \frac{1}{ 4 \pi \epsilon_0}</m>, where <m> \epsilon_{0} = 8.85 \times 10^{-12} \frac{\mathrm{C^2}}{\mathrm{Nm^2}}</m> is a fundamental constant known as the permittivity of free spsace.
+In the equation above, the electric field is written in terms of the <alert> electrostatic constant</alert>, <m> k \approx 9 \times 10^9 \frac{\mathrm{Nm^2}}{\mathrm{C^2}}</m>. In other contexts, this constant is written as <m>k = \frac{1}{ 4 \pi \epsilon_0}</m>, where <m> \epsilon_{0} = 8.85 \times 10^{-12} \frac{\mathrm{C^2}}{\mathrm{Nm^2}}</m> is a fundamental constant of the universe known as the permittivity of free space.
 </p>
 <p>
 The constant <m> \epsilon_{0} </m> (pronounced <q>epsilon naught</q>) is a constant of proportionality that scales how the magnitude of the electric field is related to charge and distance in a <em> vacuum </em>.  If there is other matter around that charge, for example air or wood or water, that matter can affect how the electric field is <em> permitted </em> to exist, and thus the permittivity constant will be different. 

@@ -4,7 +4,7 @@
   	<title>What Is Magnetism?</title>
 
 		<activity>
-      <title>Warm-up Activity</title>
+      <title>Warm-up</title>
       <p></p>
 			<p>Write down something you know about magnets or magnetism, and how you know it. Where do you use magnets in your everyday life?</p>
 		</activity>
@@ -23,10 +23,9 @@
 
 	</statement>
   </corollary>
-
-  <subsubsection><title>Key Ideas</title></subsubsection>
 	
-	<p>Magnets interact in lots of interesting ways with different types of materials. We will discuss mainly permanent magnets and ferromagnetic objects.</p>
+	
+	<p>Magnets interact in many interesting ways with different types of materials.  Key materials that exhibit prominent magnetic effects are permanent magnets and ferromagnetic materials.</p>
 	
 	<definition>
 		<title>Permanent magnets</title>
@@ -34,17 +33,17 @@
 			<p>
 				
 			</p>
-			<p><term>Permanent magnets</term> are objects that have both attractive and repulsive interactions with each other. These objects have a ``north" and a ``south" pole that react to each other in different ways. Like poles repel and opposite poles attract.</p>
+			<p><term>Permanent magnets</term> are objects that have both attractive and repulsive interactions with each other. These objects have a <q>north</q> and a <q>south</q> pole that react to each other in different ways. Like poles repel and opposite poles attract.</p>
 		</statement>
 	</definition>
 
 	<definition>
-		<title>Ferromagnetic magnets</title>
+		<title>Ferromagnetic materials</title>
 		<statement>
 			<p>
 				
 			</p>
-			<p><term>Ferromagnetic</term> materials (like iron, cobalt, and nickel) tend to be attracted to permanent magnets<fn>ferromagmetic materials can become permanent magnets through a process known as magnetization</fn>.</p>
+			<p><term>Ferromagnetic</term> materials (like iron, cobalt, and nickel) tend to be attracted to permanent magnets.  Ferromagmetic materials can become permanent magnets through a process known as magnetization.</p>
 		</statement>
 	</definition>
 	
@@ -62,6 +61,41 @@
 	</statement>
   </corollary>
 
+    <subsubsection><title>Key Ideas</title></subsubsection>
+
+  <definition>
+	<title>
+	Magnetic Field
+	</title>
+		<statement>
+		
+			<p>
+			
+			</p>
+			
+			<p>
+			The <term> magnetic field </term> is a <em> vector field </em> that governs magnetic interactions.
+			</p>
+			<ul>
+				<li>
+					<p>
+						<alert>The magnetic field is a vector.</alert>  Like other vectors, it has a magnitude and a direction.  Magnetic fields are measured in units of tesla (T).
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>The magnetic field has a value at every point in space.</alert>  Either the magnitude or the direction (or both) can be different at different points in space.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Magnetic fields can be observed with a compass.</alert>  The north end of a compass needle will point in the direction of the magnetic field.
+					</p>
+				</li>
+			</ul>
+		</statement>
+</definition>
+
 	<subsubsection>
 		<title>Activities</title>
 		<p>The experiments below will help answer some of the model questions posed in the video above.</p>
@@ -72,7 +106,7 @@
 			<p></p><p>Make a prediction about what you think happens if you cut a magnet in half.  Then watch the following video in the answer to check your prediction.</p>
 </statement>
 <answer>
-	<url href="https://www.youtube.com/watch?v=q0d_SS-0Puk"></url>
+	<url href="https://www.youtube.com/watch?v=q0d_SS-0Puk">What happens when you cut a magnet in half?</url>
 			</answer>
 		</activity>
 		<activity>
@@ -82,7 +116,7 @@
 			<p></p><p>Make a prediction about what you think happens if you bring a magnet near a grape.  Then watch the following video in the answer to check your prediction.</p>
 </statement>
 <answer>
-			<url href="https://www.youtube.com/watch?v=-zOzEvHmaK8"></url>
+			<url href="https://www.youtube.com/watch?v=-zOzEvHmaK8">What happens if you put a strong magnet near a grape?</url>
 			</answer>
 		</activity>
 	</subsubsection>
@@ -91,10 +125,10 @@
 
 	<references>
         <biblio xml:id="ref_magnet_cut">
-            <p>"Magnetism: Cutting a magnet in half" <em>YouTube</em>, uploaded by QM Oxford, February, 18, 2019, https://www.youtube.com/watch?v=q0d_SS-0Puk&amp;t=331s&amp;ab_channel=QMOxford</p>
+            <p><q>Magnetism: Cutting a magnet in half</q> <em>YouTube</em>, uploaded by QM Oxford, February, 18, 2019, https://www.youtube.com/watch?v=q0d_SS-0Puk&amp;t=331s&amp;ab_channel=QMOxford</p>
         </biblio>
 				<biblio xml:id="ref_magnet_grapes">
-            <p>"magnetic grapes" <em>YouTube</em>, uploaded by Mark Lorch, March 24, 2012, https://www.youtube.com/watch?v=-zOzEvHmaK8</p>
+            <p><q>Magnetic grapes</q> <em>YouTube</em>, uploaded by Mark Lorch, March 24, 2012, https://www.youtube.com/watch?v=-zOzEvHmaK8</p>
         </biblio>
     </references>
 

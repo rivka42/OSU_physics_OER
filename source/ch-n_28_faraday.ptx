@@ -17,14 +17,12 @@
 	</objectives>
 
 	<!--INTRODUCTORY SECTIONS-->
+	<xi:include href="./mag/sec_magnetic-dipole.ptx" />
 	<xi:include href="./mag/sec_magnetic-flux.ptx" />
 	<xi:include href="./mag/sec_induced-current.ptx" />
 
 	<!--PREPARE SECTIONS-->
 	<xi:include href="./mag/sec_faraday.ptx" />
-	<xi:include href="./mag/sec_inductors.ptx" />
-	<xi:include href="./mag/sec_lc-circuits.ptx" />
-	<xi:include href="./mag/sec_lr-circuits.ptx" />
 	<xi:include href="./mag/sec_mag-summary.ptx" />
 
 

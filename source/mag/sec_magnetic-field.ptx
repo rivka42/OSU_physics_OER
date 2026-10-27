@@ -1,8 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_magnetic-field" xmlns:xi="http://www.w3.org/2001/XInclude">
-  	<title>Magnetic Fields</title>
-		<p>You may wish to review the <xref ref="sec_cross-product"/>, especially this video: <xref ref="vec_vb-cross"/>.</p>
+  	<title>Magnetic Field: Wire</title>
+
+		<p>Review the video briefing on <xref ref="vec_vb-cross"/>.</p>
+
+			<exercise>
+				<title>Cross Product Practice</title>
+				<introduction>
+					<p>
+						
+					</p>
+					<p>Consider the three vectors shown below.</p>
+				     <figure xml:id="vec_x-cross-product2">
+		<title>Cross Product Figure</title>
+    	<caption></caption>
+    		<image source="CrossProductVectors2.png" width = "50%" >
+				<description>v1 points up and to the left, v2 points down and to the left, v3 points out of the page</description>
+			</image>
+    </figure>
+				</introduction>
+				<task>
+		<statement>
+		<p>Indicate the direction of the cross product <m>\vec{v}_2 \times \vec{v}_1</m>.</p>
+		</statement>
+		<hint>
+			<p>
+				Recall the <xref ref="rep_rhr"/> and remember that the order of the vectors matters!
+			</p>
+		</hint>
+		<answer>
+		<p>Into the screen!</p>
+		</answer>
+	</task>
+				<task>
+		<statement>
+		<p>Indicate the direction of the cross product <m>\vec{v}_3 \times \vec{v}_1</m>.</p>
+		</statement>
+		<answer>
+		<p>Down and to the left, roughly in the direction of <m>\vec{v}_2</m>.</p>
+		</answer>
+	</task>
+			</exercise>
 		
 		<!--NEED VIDEO
     <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
@@ -11,17 +50,46 @@
 	<p>As with electric fields, magnetic fields exist everywhere in space.  Many things can create magnetic fields, including electric currents.</p>
 
 	<definition>
-		<title>Magnetic field for a long, straight current</title>
+		<title>Magnetic Field Created by a Current</title>
 		<statement>
 			<p>
 				
 			</p>
-			<p>The <term>magnetic field</term> a distance <m>s</m> from a long, straight current is given by <me>\vec{B} = \frac{\mu_o}{2\pi}\frac{\vec{I} \times \hat{s}}{s}</me> where <m>\mu_o = 4\pi \times 10^{-7}</m> Tm/A is a universal constant known as the permeability of free space.</p>
+			<p>The <term>magnetic field</term> created by a long, straight wire carrying constant current <m>\vec{I}</m> a distance <m>s</m> away is given by <me>\vec{B} = \frac{\mu_0}{2\pi}\frac{\vec{I} \times \hat{s}}{s}</me></p>
+				<ul>
+				<li>
+					<p>
+						<m>\mu_0 = 4\pi \times 10^{-7} \mathrm{~\frac{Tm}{A}}</m> is a fundamental constant of the universe known as the permeability of free space.
+					</p>
+				</li>
+				<li>
+					<p>
+						The symbol <m> \times </m> denotes <xref ref="def_cross_product"/>.
+					</p>
+				</li>
+				<li>
+					<p>
+						The direction of <m>\vec{I}</m> is the direction of positive charge flow.
+					</p>
+				</li>
+				<li>
+					<p>
+						<m> \hat{s} </m> is a <xref ref="def_unit-vectors"/> that points radially away from the wire, perpendicular to the current.  Note that this <alert>also</alert> depends on where you are in space!
+					</p>
+				</li>
+			</ul>
+			<figure xml:id="fig_mag-wire">
+			<title>Long Wire Figure</title>
+    		<caption>A test point near a long, current-carrying wire.  The direction of the magnetic field at the marked point is <alert>out of the screen</alert>.</caption>
+    		<image source="LongWire.png" width = "100%" ><description>A straight line with a rightward arrow representing a current.  A distance s above the wire is a marked point.</description></image>
+		</figure>
 		</statement>
 	</definition>	
 	
 	<subsubsection>
 		<title>Activities</title>
+
+		
 
 		<activity xml:id="x_magnetic-field">
 			<title>Magnetic Field of a Wire</title>
@@ -30,11 +98,12 @@
 				
 			</p>
 			
-		<p>The wire shown below carries current <m>I</m> out of the screen.  The circle represents a distance <m>R</m> away from the wire.</p>
+		<p>The wire shown below carries current <m>I</m> out of the screen (directly at you!).  The gray circle represents a distance <m>R</m> away from the wire.</p>
+
 				<figure xml:id="x_fig_mag">
 			<title>Wire Figure</title>
-    		<caption>A wire surrounded by four marked test points.</caption>
-    		<image source="MagWire.png" width = "50%" ></image>
+    		<caption>A wire surrounded by four marked points.</caption>
+    		<image source="MagWire.png" width = "50%" ><description>A gray circle with four marked points (top, left, right, and bottom).  At the center is a circle with a dot representing a current directed out of the screen.</description></image>
 		</figure>
 	</introduction>
 		<task>
@@ -49,7 +118,7 @@
 							<figure xml:id="x_fig_mag-sol">
 			<title>Wire Figure</title>
     		<caption>The magnetic field around a long straight wire.</caption>
-    		<image source="MagWire-sol.png" width = "50%" ></image>
+    		<image source="MagWire-sol.png" width = "50%" ><description>A gray circle with four marked points (top, left, right, and bottom).  At the center is a circle with a dot representing a current directed out of the screen.  At each marked point is a vector that points in a straight line tangent to the circle in a counterclockwise direction.</description></image>
 		</figure>
 			</answer>
 		</task>
@@ -62,7 +131,7 @@
 			<p>Calculate the magnitude of the magnetic field at each of the marked points.</p>
 			</statement>
 			<answer>
-			<me>B = \frac{\mu_o I}{2\pi s}</me>
+			<me>B = \frac{\mu_0 I}{2\pi R}</me>
 			</answer>
 		</task>
 						<task>
@@ -74,7 +143,7 @@
 			<p>How does the strength of the magnetic field change as you get farther away from the wire?  Explain your reasoning.</p>
 			</statement>
 			<answer>
-			<p>Since <m>s</m> is in the denominator, as <m>s</m> increases the magnetic field strength will decrease!</p>
+			<p>Since <m>R</m> is in the denominator, as <m>s</m> increases the magnetic field strength will decrease!</p>
 			</answer>
 		</task>
 						<task>
@@ -89,13 +158,13 @@
 			<figure xml:id="x_fig_mag-full">
 			<title>Magnetic Wire Figure</title>
     		<caption>A magnetic field vector map for a long straight wire.  The field points in a counter-clockwise direction and gets smaller as you get farther from the wire.</caption>
-    		<image source="MagWire-full.png" width = "100%" ></image>
+    		<image source="MagWire-full.png" width = "100%" ><description>Two gray circles centered on a circle with a dot representing a current directed out of the screen.  On each circle are eight vectors that each point in a straight line tangent to the circle in a counterclockwise direction.  The vectors on the bigger circle have a smaller length.</description></image>
 		</figure>
 		<figure xml:id="x_fig_mag-full2">
 			<title>Magnetic Wire Figure</title>
     		<caption>Some magnetic field lines of a long straight wire. The direction of <m>\vec{B}</m> can be found with a form of the right-hand rule.</caption>
-    		<image source="MagneticFieldWire.jpg" width = "100%" ></image>
-				<description>This figure demonstrates the right-hand rule. The wire is held with the right hand so that the thumb points along the current. The fingers wrap around the wire in the same sense as the magnetic field.</description>
+    		<image source="MagneticFieldWire.jpg" width = "100%" ><description>This figure demonstrates the right-hand rule. The wire is held with the right hand so that the thumb points along the current. The fingers wrap around the wire in the same sense as the magnetic field.</description></image>
+				
 		</figure>
 			</answer>
 		</task>	
@@ -104,7 +173,7 @@
 	
 		<references>
         <biblio xml:id="ref_magneticfieldwire">
-            <p>"Magnetic Field Wire" <em>OpenStax</em>, https://openstax.org/books/university-physics-volume-2/pages/12-2-magnetic-field-due-to-a-thin-straight-wire</p>
+            <p><q>Magnetic Field Wire</q> <em>OpenStax</em>, https://openstax.org/books/university-physics-volume-2/pages/12-2-magnetic-field-due-to-a-thin-straight-wire</p>
         </biblio>
     </references>
 		

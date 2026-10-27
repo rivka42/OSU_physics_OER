@@ -23,6 +23,21 @@
 	<subsubsection>
 		<title>Activities</title>
 		<activity>
+			<title>Sensemaking: Units</title>
+			<statement>
+			<p>
+
+			</p>
+			  <p>Use the equation above to write tesla (the units of magnetic field) in terms of other familiar units</p>
+				</statement>
+				<answer>
+					<p>
+						<m>\mathrm{\frac{Ns}{Cm}}</m> or <m>\mathrm{\frac{N}{Am}}</m>
+					</p>
+				</answer>
+		</activity>
+
+		<activity>
 		<title>Magnetic Force from a Wire</title>
 		<introduction>
 		<p>

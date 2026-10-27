@@ -31,14 +31,12 @@
 		</statement>
 	</principle>
 	
-	<!--Alternate code for the integral  -->
-	
 	<p>
-		Gauss's Law is extremely useful when your charge distribution has just the right symmetry. To effectively use Gauss's Law, we need:
+		Gauss's Law is extremely useful when your charge distribution has just the right symmetry. To effectively use Gauss's Law, you need:
 		<ol>
 			<li>
 				<p>
-					the electric field to be parallel to the area vector, <m>d\vec{A}</m>
+					the electric field to be parallel or perpendicular to the area vector <m>d\vec{A}</m>
 				</p>
 			</li>
 			<li>
@@ -47,7 +45,7 @@
 				</p>
 			</li>
 		</ol>
-		When the electric field and area vector are parallel, this will maximize, and simplify, the dot product in the integral. When the electric field is uniform along the surface, the magnitude of the electric field can then be pulled out of the integral since it no longer depends on where on the area of your surface you are looking. This is what makes Gauss's Law powerful when calculating the magnitude of an electric field.
+		When the electric field and area vector are parallel, this will simplify the dot product in the integral. When the electric field is uniform along the surface, the magnitude of the electric field can then be pulled out of the integral since it no longer depends on where on the area of your surface you are looking. This is what makes Gauss's Law powerful when calculating the magnitude of an electric field.
 	</p>
 	<p>
 		To use Gauss's Law, you typically need to choose a <q>Gaussian surface</q> that adequately matches the symmetry of your charge distribution. Interestingly, the flux through a surface does not depend on the shape of the surface, because ultimately the flux through any surface is equal to <m>\frac{Q_{enc}}{\epsilon_0}</m>, but differently shaped surfaces will change, or potentially complicate, your calculations if you are directly calculating the flux through a surface.

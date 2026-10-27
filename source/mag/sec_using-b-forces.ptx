@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_using-b-forces" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>Using Magnetic Forces</title>
+
+	<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section were designed to be implemented in an interactive studio classroom, after students have completed <xref ref="sec_using-b"/> and its prerequisite sections.  Start by completing the activities in <xref ref="sec_magnetic-force"/>, then introduce the Lorentz force as in <xref ref="sec_lornetz-force"/>.  Those activities, plus the ones below, take about two hours.
+	</p>
+  </assemblage>
+
+<subsubsection>
+	<title>Activities</title>
+	
+  </subsubsection>
+
+<activity>
+	<title>Force on a Circuit</title>
+	<introduction>
+		<p>
+	
+	</p>
+	<p>
+		The square circuit at right is in a region with a uniform magnetic field.
+	</p>
+	</introduction>
+	
+	<task>
+			<p>
+				Determine the current through each side of the square circuit.
+			</p>
+		</task>
+		<task>
+			<p>
+				Determine the direction of the magnetic force on each side of the square circuit.
+			</p>
+		</task>
+		<task>
+			<p>
+				Does the magnetic field exert a net nonzero magnetic force on the loop?  If so, what direction is the net force?
+			</p>
+		</task>
+		<task>
+			<p>
+				Does the magnetic field exert a net nonzero magnetic torque on the loop?  If so, what direction would you expect the loop to rotate (starting from rest)?
+			</p>
+		</task>
+</activity>
+
+
+
+<!--NO AI-->
+</section>
+

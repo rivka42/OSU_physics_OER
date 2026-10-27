@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_ampere2" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>Application: Current Sheet</title>
+
+	<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section were designed to be implemented in a 1-hour interactive classroom, after students have completed the rest of the chapter:
+	</p>
+  </assemblage>
+
+	<activity>
+	<title>Ampère's Law Practice - The Sheet of Current</title>
+	<introduction>
+		<p></p>
+	<p>Imagine a very long conducting sheet carrying current out of the screen.</p>
+		<figure xml:id="fig_sheet-ampere1">
+			<title>Current Sheet Figure</title>
+				<caption>A conducting sheet.</caption>
+				<image source="Ampere1.png" width = "10%" ><description>A vertical collection of currents pointing out of the screen.</description></image>
+			</figure>
+	</introduction>
+		<task>
+		<statement>
+			<p>Predict the direction of the magnetic field both to the right and to the left of the sheet.</p>
+			</statement>
+		</task>
+				<task>
+		<statement>
+			<p>How do you think the magnitude of the magnetic field changes as you move up and down?</p>
+			</statement>
+		</task>
+				<task>
+		<statement>
+			<p>
+			Can you think of a good Amperian Loop?</p>
+			</statement>
+			<solution>
+				<p>
+					The magnetic field will not change as you move up and down. Due to superposition, the magnetic field will point parallel to the sheet. Upward on the right, and downwards on the left. Shown in purple arrows.
+				</p>
+				<p>
+					A good Amperian loop is a square! On the sides, the magnetic field is parallel or anti-parallel, and on the top and bottom, the field is perpendicular to the loop. The loop is shown in blue.
+				</p>
+				<figure xml:id="fig_sheet-ampere2">
+			<title>Current Sheet Figure</title>
+				<caption>A conducting sheet with an Amperean Loop.</caption>
+				<image source="Ampere2.png" width = "40%" ><description>A vertical collection of currents pointing out of the screen.  Purple arrows designate the magnetic field: upward on the right side of the sheet, downward on the left side of the sheet.  A blue rectangle with counterclockwise arrows indicates a loop.</description></image>
+			</figure>
+			</solution>
+		</task>
+				<task>
+		<statement>
+			<p>Suppose the number of wires per unit length is <m>n</m> and each wire carries current <m>I</m> out of the screen.  Determine the total current encircled by the loop shown in the <xref ref="fig_sheet-ampere2"/> in terms of <m>n</m>, <m>I</m>, and the vertical length <m>L</m> of the loop.</p>
+			</statement>
+			</task>
+				<task>
+		<statement>
+			<p>Find the line integral of the magnetic field along each side of this loop.</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Use Ampère's Law to solve for the magnetic field!
+				</p>
+			</statement>
+		</task>
+		
+</activity>
+
+
+
+<!--NO AI-->
+</section>
+
