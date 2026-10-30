@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_em-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Practice - Electromagnetism</title>
+	
+	<!--
+	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
+	If you want an Explain activity, use the <investigation> tag.
+		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
+	If you want a Calculate activity, use the <exploration> tag.
+	
+	<m># \mathrm{~}</m>
+	<m> \mathrm{~}</m>
+	-->
+	<subsubsection>
+		<title>Explanation Practice</title>
+
+		</subsubsection>
+
+	<subsubsection>
+		<title>A*R*C*S Practice</title>
+
+		
+	</subsubsection>
+		
+	<subsubsection>
+		<title>Numerical Practice</title>
+  
+		
+	</subsubsection>
+
+<!--
+	<references>
+		<biblio xml:id="ref_boxsand-mag">
+			<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
+		</biblio>
+	</references>
+	-->
+	
+<!--NO AI-->
+</section>
+

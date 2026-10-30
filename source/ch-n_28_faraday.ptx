@@ -23,6 +23,7 @@
 	<xi:include href="./mag/sec_induced-current.ptx" />
 
 	<!--PREPARE SECTIONS-->
+	<xi:include href="./mag/sec_current-loops.ptx" />
 	<xi:include href="./mag/sec_faraday.ptx" />
 
 

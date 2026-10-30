@@ -80,7 +80,7 @@
 			
 		</p>
 		<p>
-			Current loops also behave as if they were permanent magnets!
+			Current loops also behave as if they are permanent magnets!
 		</p>
 		<p>
 			A loop with area <m>A</m> carrying current <m>I</m> may be approximated as having a magnetic dipole moment <me>\mu = IA</me>
@@ -88,6 +88,12 @@
 		<p>
 			The direction of the dipole moment is the same as the direction of the magnetic field at the center of the loop, which can be found using a right hand rule: curl your fingers in the direction of the current, and your right thumb will point in the direction of <m>\vec{\mu}</m>.
 		</p>
+		<figure xml:id="fig_loop-bar">
+			<title>Current Loop Figure</title>
+    		<caption><alert>Example:</alert> A loop carrying current counterclocwise when viewed from the top right.  The magnetic dipole moment of the loop and its north and south poles are represented in gray.</caption>
+    		<image source="loop-bar.png" width = "50%" ><description>A tilted loop carrying current I when viewed from the top right.  The magnetic dipole moment points up and to the right inside an imaginary bar magnet with its north pole in the upper right and its south pole in the lower left.</description></image>
+				
+		</figure>
 	</statement>
 </assumption>
 	
@@ -105,7 +111,7 @@
 				<caption>A bar magnet and a current loop.</caption>
 				<image source="mag/loop0.png" width = "50%" ><description>A bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</description></image>
 			</figure>
-		<p>What direction is the net force on the bar magnet?</p>
+		<p>What direction is the magnetic dipole moment of the current loop?  What direction is the net force on the bar magnet?</p>
 			</statement>
 			<solution>
 				<p>

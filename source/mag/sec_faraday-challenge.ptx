@@ -13,171 +13,6 @@
 	<m> \mathrm{~}</m>
 	-->
 
-	<project>
-			<title>Magnetic Flux</title>
-			<statement><p></p>
-				<p>
-					What is the magnetic flux through an equilateral triangle with side <m>60 \mathrm{~cm},</m> long, whose plane makes a 60 degree angle with a uniform magnetic field of <m>0.33 \mathrm{~T}</m>?
-				</p>
-			</statement>
-			<!--
-			<answer>
-				<p>
-					0.056 Wb
-				</p>
-			</answer>
-			-->
-		</project>
-
-	<project>
-		<title>Solenoid</title>
-		<statement><p></p>
-			<p>
-				Consider the magnetic field created by an infinitely long solenoid with radius <m>R</m> and <m>n</m> coils per unit length carrying a steady clockwise current <m>I</m>. Starting from the assumption that the magnetic field everywhere in space must point in either the positive or negative <m>z</m>-direction (parallel to the axis of the solenoid), use Ampere's Law to determine the magnitude and direction of this magnetic field.
-			</p>
-		</statement>
-		<hint>
-			<p>
-				You will need to choose Amperian Loops thoughtfully, and you may need more than one!
-			</p>
-		</hint>
-	</project>
-
-	<subsubsection>
-		<title>Metacognitive Reflection</title>
-		<statement><p></p>
-			<p>
-				Write a short paragraph discussing how a changing magnetic field can result in an induced current. As part of your description, highlight specific activities you completed this week.
-			</p>
-		</statement>
-	</subsubsection>
-
-	<investigation>
-		<title>The Moving Wire Loop</title>
-		<statement><p></p>
-			<p>
-				The square wire loop below is located below a long straight wire carrying current <m>I_w</m>.  Each side of the circuit has length <m>l</m>.
-			</p>
-			<figure xml:id="fig-moving-loop">
-				<caption>A square wire loop moving upward toward a wire.</caption>
-				<image source="Moving-Loop.png" width = "40%" ></image>
-			</figure>
-			<p>
-				Make a magnetic induction table for each of the following cases:
-			</p>
-			<ol marker="A:">
-				<li>
-					<p>
-						The loop is moving upward with constant speed <m>v</m>. Choose an area vector into the page.
-					</p>
-				</li>
-				<li>
-					<p>
-						Repeat case A, but choose the area vector to be in the opposite direction.
-					</p>
-				</li>
-				<li>
-					<p>
-						Repeat case A, but now the loop is moving downward with constant speed <m>v</m>.
-					</p>
-				</li>
-				<li>
-					<p>
-						Repeat case A, but now the loop is moving to the left with constant speed <m>v</m>.
-					</p>
-				</li>
-				<li>
-					<p>
-						Repeat case A, but now the loop is stationary and the long straight wire is moving upward with constant speed <m>v</m>.
-					</p>
-				</li>
-			</ol>
-			<table>
-  <title>Blank Magnetic Induction Table</title>
-  <tabular halign="center">
-    <row header="yes" bottom="minor" >
-      <cell>Quantity</cell>
-      <cell>Case A</cell>
-	  <cell>Case B</cell>
-	  <cell>Case C</cell>
-	  <cell>Case D</cell>
-	  <cell>Case E</cell>
-    </row>
-    <row>
-      <cell><m>\vec{A}</m></cell>
-      <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-    </row>
-    <row>
-      <cell><m>\vec{B}</m></cell>
-      <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-    </row>
-    <row>
-      <cell><m>\Phi_B</m></cell>
-      <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-    </row>
-    <row>
-      <cell><m>\frac{d\Phi_B}{dt}</m></cell>
-      <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-
-    </row>
-    <row>
-      <cell><m>V_{ind}</m></cell>
-      <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-
-    </row>
-		    <row>
-      <cell><m>I_{ind}</m></cell>
-      <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-
-    </row>
-		    <row>
-      <cell><m>\vec{\mu}_{ind}</m></cell>
-      <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-	  <cell></cell>
-
-    </row>
-  </tabular>
-
-</table>
-		</statement>
-	</investigation>
-	
-	<project>
-		<title>Charging your Phone</title>
-		<statement><p></p>
-			<p>
-				You have a circular coil of radius 25 cm with 200 turns and resistance 5 <m>\Omega</m> that you would like to use to generate some power for charging your phone. You look up and see that 9 m above you is a long, straight power line that you estimate has a maximum current of 700 A alternating at 50 Hz. Estimate the maximum current through your coil.
-			</p>
-		</statement>
-	</project>
-
 	<investigation>
 		<title>Square Loop</title>
 		<statement><p></p>
@@ -195,6 +30,30 @@
 		</statement>
 		
 	</investigation>
+
+
+
+		<project>
+		<title>Charging your Phone</title>
+		<statement><p></p>
+			<p>
+				You have a circular coil of radius 25 cm with 200 turns and resistance 5 <m>\Omega</m> that you would like to use to generate some power for charging your phone. You look up and see that 9 m above you is a long, straight power line that you estimate has a maximum current of 700 A alternating at 50 Hz. Estimate the maximum current through your coil.
+			</p>
+		</statement>
+	</project>
+
+	
+
+	<subsubsection>
+		<title>Metacognitive Reflection</title>
+		<statement><p></p>
+			<p>
+				Write a short paragraph discussing how a changing magnetic field can result in an induced current. As part of your description, highlight specific activities you completed this week.
+			</p>
+		</statement>
+	</subsubsection>
+
+	
 
 <!--NO AI-->
 </section>

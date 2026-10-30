@@ -12,8 +12,57 @@
 
 <subsubsection>
 	<title>Activities</title>
-	
   </subsubsection>
+
+<activity>
+	<title>Warmup: Bar Magnet</title>
+	<introduction>
+		<p>
+	
+	</p>
+	<p>
+		Get a bar magnet and place it on a large whiteboard or piece of paper.
+	</p>
+	</introduction>
+	
+	<task>
+			<p>
+				Use a compass to explore the region near the bar magnet.  Use your observations to develop a rule about which direction the compass points.
+			</p>
+		</task>
+		<task>
+			<p>
+				Sketch  vectors  at  several  different  points  (at  least  10)  to  represent the magnetic field near the bar magnet.  You should be able to explain how you used the compass to construct your sketches. 
+			</p>
+		</task>
+		<task>
+			<p>
+				Open this <url href="beav.es/magnets">simulation</url> and play with it for a few minutes. 
+			</p>
+		</task>
+		<task>
+			<p>
+				Does the compass always point directly at one of a magnets poles?
+			</p>
+		</task>
+		<task>
+			<statement>
+				<p>
+				How does the magnetic field of the current loop compare to the magnetic field of the bar magnet?
+				</p>
+			</statement>
+		</task>
+</activity>
+
+<activity>
+	<title>Large Hadron Collider</title>
+	<p>
+		
+	</p>
+	<p>
+		The Large Hadron Collider accelerates protons close to the speed of light.  In order to keep these protons on a circular path, with a circumference of <m>27 \mathrm{~km}</m>, what is the required magnetic field strength?  Compare this to the actual magnetic fields used in the LHC.
+	</p>
+</activity>
 
 <activity>
 	<title>Force on a Circuit</title>
@@ -22,8 +71,13 @@
 	
 	</p>
 	<p>
-		The square circuit at right is in a region with a uniform magnetic field.
+		The square circuit below is in a region with a uniform magnetic field.
 	</p>
+	<figure xml:id="fig_b-circuit">
+			<title>Loop Figure</title>
+				<caption>A simple circuit in a magnetic field.</caption>
+				<image source="B-Circuit.png" width = "50%" ><description>A simple circuit with a battery and a resistor is in a region with magnetic field pointing to the right.</description></image>
+			</figure>
 	</introduction>
 	
 	<task>

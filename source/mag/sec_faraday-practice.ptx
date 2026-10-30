@@ -13,44 +13,147 @@
 	<m> \mathrm{~}</m>
 	-->
 
+	<project>
+			<title>Magnetic Flux</title>
+			<statement><p></p>
+				<p>
+					What is the magnetic flux through an equilateral triangle with side <m>60 \mathrm{~cm},</m> long, whose plane makes a 60 degree angle with a uniform magnetic field of <m>0.33 \mathrm{~T}</m>?
+				</p>
+			</statement>
+			<!--
+			<answer>
+				<p>
+					0.056 Wb
+				</p>
+			</answer>
+			-->
+		</project>
+
 	<investigation>
-		<title>Circuit II</title>
+		<title>The Moving Wire Loop</title>
 		<statement><p></p>
-			<figure xml:id="fig-circuit_10">
-				<caption>Circuit diagram.</caption>
-				<image source="mag/circuit-10.png" width = "40%" ></image>
+			<p>
+				The square wire loop below is located below a long straight wire carrying current <m>I_w</m>.  Each side of the circuit has length <m>l</m>.
+			</p>
+			<figure xml:id="fig-moving-loop">
+				<caption>A square wire loop moving upward toward a wire.</caption>
+				<image source="Moving-Loop.png" width = "40%" ></image>
 			</figure>
 			<p>
-				Shown below is a circuit with an ideal battery, a linear resistor, and an ideal inductor. This circuit has been connected for a very long time (with the switch open), and you measure the current through the inductor to be <m>I_A</m>. At time <m>t_1</m>, you close the switch. You then wait a long time and measure the current through the inductor to be <m>I_B</m>. Is <m>I_B</m> greater than, less than, or equal to <m>I_A</m>?
+				Make a magnetic induction table for each of the following cases:
 			</p>
+			<ol marker="A:">
+				<li>
+					<p>
+						The loop is moving upward with constant speed <m>v</m>. Choose an area vector into the page.
+					</p>
+				</li>
+				<li>
+					<p>
+						Repeat case A, but choose the area vector to be in the opposite direction.
+					</p>
+				</li>
+				<li>
+					<p>
+						Repeat case A, but now the loop is moving downward with constant speed <m>v</m>.
+					</p>
+				</li>
+				<li>
+					<p>
+						Repeat case A, but now the loop is moving to the left with constant speed <m>v</m>.
+					</p>
+				</li>
+				<li>
+					<p>
+						Repeat case A, but now the loop is stationary and the long straight wire is moving upward with constant speed <m>v</m>.
+					</p>
+				</li>
+			</ol>
+			<table>
+  <title>Blank Magnetic Induction Table</title>
+  <tabular halign="center">
+    <row header="yes" bottom="minor" >
+      <cell>Quantity</cell>
+      <cell>Case A</cell>
+	  <cell>Case B</cell>
+	  <cell>Case C</cell>
+	  <cell>Case D</cell>
+	  <cell>Case E</cell>
+    </row>
+    <row>
+      <cell><m>\vec{A}</m></cell>
+      <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+    </row>
+    <row>
+      <cell><m>\vec{B}</m></cell>
+      <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+    </row>
+    <row>
+      <cell><m>\Phi_B</m></cell>
+      <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+    </row>
+    <row>
+      <cell><m>\frac{d\Phi_B}{dt}</m></cell>
+      <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+
+    </row>
+    <row>
+      <cell><m>V_{ind}</m></cell>
+      <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+
+    </row>
+		    <row>
+      <cell><m>I_{ind}</m></cell>
+      <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+
+    </row>
+		    <row>
+      <cell><m>\vec{\mu}_{ind}</m></cell>
+      <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+	  <cell></cell>
+
+    </row>
+  </tabular>
+
+</table>
 		</statement>
-		
 	</investigation>
 
-	<subsubsection>
-		<title>Metacognitive Reflection</title>
-		<statement><p></p>
-			<p>
-				Inductors and capacitors can both act as a voltage source in circuits. Compare and contrast inductors and capacitors. When can both elements act as a voltage source? As part of your comparison, include important equations for both circuit elements.
-			</p>
-		</statement>
-	</subsubsection>
+
+
+
 
 	<subsubsection>
 		<title>A*R*C*S Practice</title>
 
-		<project>
-			<title>Circuit I</title>
-			<statement><p></p>
-				<figure xml:id="fig-circuit_9">
-					<caption>Circuit diagram.</caption>
-					<image source="mag/circuit-9.png" width = "40%" ></image>
-				</figure>
-				<p>
-					The switch in the circuit above has been closed for a very long time. At the instant you flip the switch to the right, what is the current through the inductor? At the same instant, what is the absolute value of the voltage across the inductor?
-				</p>
-			</statement>
-		</project>
+
 
 		<project>
 			<title>Square Loop in a Magnetic Field</title>

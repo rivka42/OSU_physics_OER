@@ -13,6 +13,33 @@
 	<m> \mathrm{~}</m>
 	-->
 
+		<project>
+			<title>Circuit I</title>
+			<statement><p></p>
+				<figure xml:id="fig-circuit_9">
+					<caption>Circuit diagram.</caption>
+					<image source="mag/circuit-9.png" width = "40%" ></image>
+				</figure>
+				<p>
+					The switch in the circuit above has been closed for a very long time. At the instant you flip the switch to the right, what is the current through the inductor? At the same instant, what is the absolute value of the voltage across the inductor?
+				</p>
+			</statement>
+		</project>
+
+		<investigation>
+		<title>Circuit II</title>
+		<statement><p></p>
+			<figure xml:id="fig-circuit_10">
+				<caption>Circuit diagram.</caption>
+				<image source="mag/circuit-10.png" width = "40%" ></image>
+			</figure>
+			<p>
+				Shown below is a circuit with an ideal battery, a linear resistor, and an ideal inductor. This circuit has been connected for a very long time (with the switch open), and you measure the current through the inductor to be <m>I_A</m>. At time <m>t_1</m>, you close the switch. You then wait a long time and measure the current through the inductor to be <m>I_B</m>. Is <m>I_B</m> greater than, less than, or equal to <m>I_A</m>?
+			</p>
+		</statement>
+		
+	</investigation>
+
 	
   <!--
 	<references>

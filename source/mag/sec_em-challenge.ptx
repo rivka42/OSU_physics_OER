@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_em-challenge" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Challenge - Electromagnetism</title>
+	
+	<!--
+	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
+	If you want an Explain activity, use the <investigation> tag.
+		Use this text for qualitative comparisons: <em>greater than</em>, <em>less than</em>, or <em>equal to</em>
+	If you want a Calculate activity, use the <exploration> tag.
+	
+	<m># \mathrm{~}</m>
+	<m> \mathrm{~}</m>
+	-->
+
+
+
+	<subsubsection>
+		<title>Metacognitive Reflection</title>
+		<activity>
+		<title>Electromagnetism</title>
+		
+		
+					<statement><p></p>
+			<p>
+				
+			</p>
+		</statement>
+		</activity>
+
+	</subsubsection>
+
+<!--NO AI-->
+</section>

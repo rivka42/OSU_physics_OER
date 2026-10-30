@@ -32,6 +32,22 @@
 	
   </subsubsection>
 
+<activity>
+	<title>Warmup</title>
+
+		<p>
+	
+	</p>
+	<p>
+		The two wires shown carry the same current <m>I</m>.  Indicate the direction of the magnetic field at each marked point.
+	</p>
+	<figure xml:id="fig_b-wires1">
+			<title>Wires Figure</title>
+				<caption>Two wires.</caption>
+				<image source="B-Circuit.png" width = "50%" ><description>Two wires carry current upward.  Three points are distributed horizontally, one to the left of both wires, one to the right of both wires, and one in the middle.</description></image>
+			</figure>
+</activity>
+
 
 
 	<activity xml:id="class_current-loop">
@@ -73,7 +89,7 @@
 					<alert>Add:</alert> <m>\vec{B} = \int d\vec{B} = \frac{\mu_0}{2}\frac{I}{R}(-\hat{z})</m>
 				</p>
 				<definition>
-		<title>Magnetic Field Created by a Current</title>
+		<title>Magnetic Field Created by a Current Loop</title>
 		<statement>
 			<p>
 				
@@ -81,22 +97,64 @@
 			<p>The magnitude of the magnetic field created by a circular loop of radius <m>R</m> carrying current <m>I</m> at its center is <me>\vec{B} = \frac{\mu_0}{2}\frac{NI}{R}</me>
 				Here <m>N</m> is the number of coils in the loop: <m>N = 1</m> for a single loop.
 				</p>
-<!--
-			<figure xml:id="fig_mag-wire">
-			<title>Long Wire Figure</title>
-    		<caption>A test point near a long, current-carrying wire.  The direction of the magnetic field at the marked point is <alert>out of the screen</alert>.</caption>
-    		<image source="LongWire.png" width = "100%" ><description>A straight line with a rightward arrow representing a current.  A distance s above the wire is a marked point.</description></image>
+
+			<figure xml:id="fig_mag-loop">
+			<title>Current Loop Figure</title>
+    		<caption>The magnetic field created by a current loop.</caption>
+    		<image source="LongWire.png" width = "100%" ><description>Figure shows the magnetic field lines of a circular current loop. One field line follows the axis of the loop. Very close to the wire, the field lines are almost circular, like the lines of a long straight wire.</description></image>
 		</figure>
-		-->
+		
 		</statement>
 	</definition>	
 			</solution>
 		</task>
 	</activity>
 
-	
+	<activity xml:id="class_wire-segment">
+		<title>The Wire Segment</title>
+		<introduction>
+			<p>
+			
+		</p>
+		<p>
+			A wire segment of length <m>L</m> carries current <m>I</m> to the right.  What is the magnetic field above the center of the wire?
+		</p>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Sketch a diagram of the wire.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					<alert>Chop</alert> the wire up into pieces with current <m>\vec{I}dx</m>.  Sketch at least one piece on your diagram.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					<alert>Multiply</alert> using the Biot-Savart Law to find the magnetic field created by the small piece of the wire.  Sketch this <m>\vec{dB}</m> on your diagram.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					<alert>Add</alert> the <m>\vec{dB}</m> pieces using an integral to find the net magnetic field!
+				</p>
+			</statement>
+		</task>
+	</activity>
 
-
+<references>
+		<biblio xml:id="ref_loop-b">
+            <p>Current Loop Figure from <url href="https://openstax.org/books/university-physics-volume-2/pages/12-4-magnetic-field-of-a-current-loop">Open Stax</url></p>
+        </biblio>
+    </references>
 	
 <!--NO AI-->
 </section>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_current-loops" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>Current Loops</title>
+
+	<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section were designed to be implemented in an interactive studio classroom, after students have completed the previous sections in the chapter.  They take about two hours.
+	</p>
+  </assemblage>
+
+<subsubsection>
+	<title>Activities</title>
+  </subsubsection>
+
+<activity>
+	<title>Magnetic Dipoles</title>
+	<introduction>
+		<p>
+	
+	</p>
+	<p>
+		For each of the current loops shown below:
+	</p>
+	<figure xml:id="fig_3loops">
+			<title>Three Loops Figure</title>
+				<caption>Three current loops.</caption>
+				<image source="loop-magnets.png" width = "50%" ><description>Three current loops, from top to bottom: clockwise when viewed from above, counterclockwise when viewed from above, clockwise when viewed from the right.</description></image>
+			</figure>
+	</introduction>
+	
+	<task>
+			<p>
+				Use the right-hand rule to determine the magnetic dipole moment of the loop.
+			</p>
+		</task>
+		<task>
+			<p>
+				Sketch and label a small bar magnet that would have the same magnetic dipole moment as the loop.
+			</p>
+		</task>
+</activity>
+
+<activity>
+	<title>Dipole Energy</title>
+	<p>
+		
+	</p>
+	<p>
+		Rank the configurations below from smallest to largest potential energy.  Check that your ranking makes sense by figuring out what the magnet is likely to do in each situation.
+	</p>
+	<figure xml:id="fig_4loops">
+			<title>Four Loops Figure</title>
+				<caption>Four magnet configuration.</caption>
+				<image source="loop-magnets.png" width = "80%" ><description>Four bar magnets, each above a loop carrying clockwise current when viewed from above.  From left to right: Case A has the north end of the bar magnet down, Case B has the south end down, case C has the north end to the left, case D has the north end to the right.</description></image>
+			</figure>
+</activity>
+
+<activity>
+	<title>Flux Loops</title>
+	<p>
+		
+	</p>
+	<p>
+		A square loop (side length <m>s</m>) in the plane of the screen is in a region of magnetic field.  Find the magnetic flux through the loop if:
+		<ol>
+			<li>
+				<p>
+					The magnetic field is a uniform <m>B_o</m> and points into the screen.
+				</p>
+			</li>
+			<li>
+				<p>
+					The magnetic field is a uniform <m>B_o</m> and points to the right.
+				</p>
+			</li>
+			<li>
+				<p>
+					The magnetic field points into the screen and increases linearly from <m>0</m> along the left edge to <m>B_o</m> along the right edge.
+				</p>
+			</li>
+		</ol>
+	</p>
+
+</activity>
+
+<activity>
+	<title>The Pickup Coil</title>
+	<introduction>
+		<p>
+	
+	</p>
+	<p>
+		Run this <url href="beav.es/pickup-coil">simulation</url>.  Go to the Pickup Coil tab.
+	</p>
+	</introduction>
+	
+	<task>
+			<p>
+				Play with the simulation for a few minutes.  Record a list of observations.
+			</p>
+		</task>
+		<task>
+			<p>
+				How many different kinds of changes can you make that will cause the light bulb to light up?
+			</p>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Consider the statement: <q>While the magnetic flux through the loop changes, there is current induced in the loop.</q>  What evidence is there to support this statement?  Can you find any evidence to refute the statement?  Can you find any evidence that suggests the statement is incomplete?
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					 Identify what properties the induced current in the loop depends on.  Justify your answers with evidence from the simulation.
+				</p>
+			</statement>
+		</task>
+</activity>
+
+<activity>
+	<title>Force on a Circuit</title>
+	<introduction>
+		<p>
+	
+	</p>
+	<p>
+		The square circuit below is in a region with a uniform magnetic field.
+	</p>
+
+	</introduction>
+	
+	<task>
+			<p>
+				Determine the current through each side of the square circuit.
+			</p>
+		</task>
+		<task>
+			<p>
+				Determine the direction of the magnetic force on each side of the square circuit.
+			</p>
+		</task>
+		<task>
+			<p>
+				Does the magnetic field exert a net nonzero magnetic force on the loop?  If so, what direction is the net force?
+			</p>
+		</task>
+		<task>
+			<p>
+				Does the magnetic field exert a net nonzero magnetic torque on the loop?  If so, what direction would you expect the loop to rotate (starting from rest)?
+			</p>
+		</task>
+</activity>
+
+
+
+<!--NO AI-->
+</section>
+

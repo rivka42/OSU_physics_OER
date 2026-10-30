@@ -43,6 +43,11 @@
 			</figure>
 		<p>Suppose you want the magnet to begin rotating counterclockwise.  What direction should you put the magnetic field to achieve this effect?</p>
 			</statement>
+			<hint>
+				<p>
+					Remember that you would need a net torque out of the screen for the magnet to start rotating counterclockwise!
+				</p>
+			</hint>
 		</activity>
 
 	</subsubsection>
