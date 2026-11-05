@@ -13,15 +13,42 @@
 			<p>
 				
 			</p>
-			<p>An <term>inductor</term> is a wire coil<fn>commonly referred to as a solenoid</fn> used as a circuit element. The voltage across an inductor is given by <me>V_{inductor} = -L \frac{dI}{dt}</me>. Here, <m>L</m> is the inductance and it is measured in Henries (H). Inductors can also store energy given by <m>U_L = \frac{1}{2} L I^2</m>.</p>
+			<p>An <term>inductor</term> is a circuit element that provides a voltage given by <me>V_{inductor} = L \frac{dI}{dt}</me></p>
+			<ul>
+				<li>
+					<p>
+						<alert>The sign of the voltage can be found using <xref ref="p_lenz"/>.</alert>  The induced voltage always opposes the change in flux through the inductor.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert><m>L</m> is the inductance:</alert> a physical property measured in henries (H).  It depends on the size and shape of the inductor.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Any circuit element can have an inductance.</alert>  Inductance tends to be most significant for wire coils and solenoids.
+					</p>
+				</li>
+			</ul>
+			<figure xml:id="x_fig_CD-L">
+			<title>Inductor Circuit Diagram</title>
+    		<caption>The circuit diagram representation for an inductor.</caption>
+    		<image source="CD_L.png" width = "40%"><description>Left: a picture of a solenoid.  Right: a curling line representing an inductor in a circuit.</description></image>
+		</figure>
 		</statement>
 	</definition>
+
+	<definition xml:id="def_energy-inductor">
+	<title>Potential Energy Stored in an Inductor</title>
 	
-	<figure xml:id="x_fig_CD-L">
-			<title>Inductor Circuit Diagram</title>
-    		<caption>The sumbol for an inductor in a circuit diagram.</caption>
-    		<image source="CD_L.png" width = "10%" ></image>
-		</figure>
+	
+		<statement>
+			<p>
+			</p>
+			<p> The potential energy stored in an inductor is given by <me>U_{\text{inductor}} = \frac{1}{2} L I^2</me></p>
+		</statement>
+	</definition>
 	
 	<!--
 	<subsubsection>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_lenz" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>Lenz's Law</title>
+
+    <corollary xml:id="vid-lenz">
+	<title>Lenz's Law</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="8LV-H9LZN8I"><description>Introducing Lenz's Law.</description></video>
+
+	</statement>
+  </corollary>
+
+<principle xml:id="p_lenz">
+	<title>Lenz's Law</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>
+			You have now seen some examples of <xref ref="mag_induction"/>, in which a current is induced in a conducting loop by a changing magnetic flux.
+		</p>
+		<p>
+			An induced current creates a magnetic field that <alert>always opposes</alert> the change in magnetic flux.
+			<me>I_{\text{induced}} \propto - \frac{\partial \Phi_B}{\partial t}</me>
+		</p>
+		<figure xml:id="fig_InducedI">
+			<title>Induced Current Figure</title>
+    		<caption><alert>Example:</alert> induced current.</caption>
+    		<image source="InducedI.png" width = "70%" ><description>A circular wire centered on a cross representing a magnetic field directed into the screen.  A counterclockwise current flows through the wire.</description></image>
+		</figure>
+	</statement>
+</principle>
+
+<conjecture xml:id="rep_mag-induction-table-qual">
+<title>Magnetic Induction Table</title>
+<statement>
+        <p>
+          
+        </p>
+		<p>
+			A <term>magnetic induction table</term> is a representation that helps you organize and keep track of the various quantities related to magnetic induction.  An example table for the situation in the <xref ref="fig_InducedI"/> is shown below.  In the example, a magnetic field points into the screen with increasing magnitude.
+        </p>
+
+<table>
+  <title><alert>Example:</alert> Magnetic Induction Table</title>
+  <tabular halign="center">
+    <row header="yes" bottom="minor" >
+      <cell>Quantity</cell>
+      <cell>Direction or Sign</cell>
+    </row>
+    <row>
+      <cell><m>\vec{A}</m></cell>
+      <cell>in</cell>
+    </row>
+    <row>
+      <cell><m>\vec{B}</m></cell>
+      <cell>in</cell>
+    </row>
+    <row>
+      <cell><m>\Phi_B</m></cell>
+      <cell><m>+</m></cell>
+    </row>
+    <row>
+      <cell><m>\frac{d\Phi_B}{dt}</m></cell>
+      <cell><m>+</m></cell>
+    </row>
+	<row>
+      <cell><m>I_{ind}</m></cell>
+      <cell>ccw</cell>
+    </row>
+		<row>
+      <cell><m>\vec{\mu}_{ind}</m></cell>
+      <cell>out</cell>
+    </row>
+  </tabular>
+</table>
+
+</statement>
+</conjecture>
+
+<subsubsection>
+		<title>Activities</title>
+    <activity>
+      <title>Cause of Induction</title>
+      <p>
+        
+      </p>
+      <p>
+        In the example above, what force do you think is causing the charges that make up the current to move?
+      </p>
+    </activity>
+    <activity>
+      <title>Moving Current Loop</title>
+      <introduction>
+      <p>
+        
+      </p>
+      		<p>The current-carrying wire below is being pulled downward, away from the square metal loop.</p>
+		<figure xml:id="x_fig_wire-and-loop">
+			<title>Wire and Loop Figure</title>
+    		<caption>A long wire carrying current to the right below a wire loop.</caption>
+    		<image source="WireAndLoop.png" width = "70%" ><description>A long wire carrying current to the right below a square wire loop.</description></image>
+		</figure>
+  </introduction>
+		<task>  
+			<p>As the wire is moving, is the induced current around the loop clockwise, counterclockwise, or zero?  Create a magnetic induction table to explain your reasoning.</p>
+		</task>
+				<task>
+			<p>Describe a different experiment you could do with the setup in the figure that would result in an induced current in the loop. What direction will the current in the loop be for your experiment, and why?</p>
+		</task>
+  </activity>
+	</subsubsection>
+
+		
+
+
+<!--NO AI-->
+</section>
+

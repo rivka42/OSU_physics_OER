@@ -2,20 +2,23 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="12.550531in"
    height="7.1784916in"
    viewBox="0 0 318.78348 182.3337"
    version="1.1"
    id="svg8"
    sodipodi:docname="MovingLoop.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   inkscape:export-filename="MovingLoop.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <marker
@@ -117,8 +120,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="535.52958"
-     inkscape:cy="471.14912"
+     inkscape:cx="534.87577"
+     inkscape:cy="471.23616"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -126,12 +129,15 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-width="2880"
+     inkscape:window-height="1514"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     units="in" />
+     units="in"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -140,7 +146,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -149,24 +155,24 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(324.5231,-54.420057)">
-    <g
-       id="g936"
-       transform="matrix(3.6728943,0,0,3.6728943,456.10342,-217.34915)">
-      <ellipse
-         ry="24.472515"
-         rx="11.777213"
-         cy="98.814728"
-         cx="-200.41093"
-         id="path911"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69802302;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <ellipse
-         ry="21.011395"
-         rx="8.8130026"
-         cy="98.814728"
-         cx="-200.41093"
-         id="path911-4"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.74566692;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
+    <ellipse
+       ry="90.086426"
+       rx="30.659817"
+       cy="145.5869"
+       cx="-249.01234"
+       id="path911"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.16084;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <ellipse
+       ry="90.086426"
+       rx="30.659817"
+       cy="145.5869"
+       cx="-256.96875"
+       id="path911-0"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.16084;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path911-0-4"
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:2.16084;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -256.96842,55.500611 a 30.659817,90.086426 0 0 0 -30.66015,90.086489 30.659817,90.086426 0 0 0 30.66015,90.08598 30.659817,90.086426 0 0 0 3.97805,-0.80874 30.659817,90.086426 0 0 1 -26.68158,-89.27724 30.659817,90.086426 0 0 1 26.72499,-89.301007 30.659817,90.086426 0 0 0 -4.02146,-0.785482 z" />
     <g
        id="g943"
        transform="matrix(5.8906929,0,0,5.8906929,701.91501,-745.87043)">
@@ -174,9 +180,9 @@
          id="text4626"
          y="153.74992"
          x="-142.63237"
-         style="font-size:4.93888855px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.26458332"
+         style="font-size:4.93889px;line-height:1.25;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
          xml:space="preserve"><tspan
-           style="font-size:7.05555534px;stroke-width:0.26458332"
+           style="font-size:7.05556px;stroke-width:0.264583"
            y="153.74992"
            x="-142.63237"
            id="tspan4624"

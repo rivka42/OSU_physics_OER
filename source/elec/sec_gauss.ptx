@@ -24,7 +24,7 @@
 			<p>
 				
 			</p>
-			<p>The net electric flux through any <em>closed</em> surface is proportional to the charge enclosed by that surface: <me>\mathit{\Phi}_E = \frac{Q_{enc}}{\epsilon_0}</me><me>\unicode{x222F}_{S} \vec{E}\cdot d\vec{A} = \frac{Q_{enc}}{\epsilon_0}</me></p>
+			<p>The net electric flux through any <em>closed</em> surface is proportional to the charge enclosed by that surface: <me>\Phi_E = \frac{Q_{enc}}{\epsilon_0}</me><me>\unicode{x222F}_{S} \vec{E}\cdot d\vec{A} = \frac{Q_{enc}}{\epsilon_0}</me></p>
 				<p>
 		The closed circle on the integral symbol indicates that this is an integral over a closed surface.  The symbol <m>\epsilon_0</m> is the <xref ref="notation-permittivity"/> and is related to the electrostatic constant <m>k</m>.
 	</p>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_rc-charge" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Charging a Capacitor</title>
+	
+					<activity>
+						<title>Predictions</title>
+						<introduction>
+							<p>
+								
+							</p>
+							<p>The circuit below contains a battery, a resistor, a switch, and a capacitor. The capacitor is initially uncharged and the voltage of the battery is <m>V</m>.</p>
+					
+					<figure xml:id="RC1">
+			  <title>Light Bulb and Capacitor Circuit Diagram</title>
+			<caption>A circuit diagram with both a resistor and a capacitor.</caption>
+			<image source="circ/RC-circuit.png" width = "50%" ><description>A circuit diagram with a battery, open switch, resistor, and capacitor.</description></image>
+		</figure>
+						</introduction>
+						<task>
+							<statement>
+								<p>Just after the switch is closed: what is the absolute value of the voltage across the capacitor?  Explain your reasoning.</p>
+							</statement>
+						</task>
+						<task>
+							<statement>
+								<p>
+									A long time after the switch is closed: what is the absolute value of the voltage across the capacitor?  Explain your reasoning.
+								</p>
+							</statement>
+						</task>
+						<task>
+							<statement>
+								<p>
+									Sketch a graph predicting the <em>current</em> through the circuit as a function of time, starting at <m>t = 0</m>.  Comment on the value of the current in the limit as <m>t \rightarrow \infty</m>.
+								</p>
+							</statement>
+						</task>
+						<task>
+							<statement>
+								<p>
+									How does this circuit seem different from when the capacitor discharged instead?  How is it similar?
+								</p>
+							</statement>
+						</task>
+						<task>
+							<statement>
+								<p>
+									Try building this circuit in the <q>RLC</q> tab of the <url href="https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_all.html">Circuits PhET</url> simulation to check your predictions.  You can use the current chart feature on the left to view a graph of the current.
+								</p>
+							</statement>
+						</task>
+					</activity>
+					
+					
+	
+
+
+<!--NO AI-->
+</section>
+

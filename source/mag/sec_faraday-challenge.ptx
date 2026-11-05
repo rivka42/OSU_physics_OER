@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_faraday-challenge" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Challenge - Faraday's Law</title>
+  <title>Challenge - Magnetic Induction</title>
 	
 	<!--
 	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
@@ -13,19 +13,20 @@
 	<m> \mathrm{~}</m>
 	-->
 
-	<investigation>
-		<title>Square Loop</title>
+
+<investigation>
+		<title>Expanding Loop</title>
 		<statement><p></p>
 			
 			<p>
-				A square wire loop with resistance <m>R</m> is located in a region of uniform magnetic field <m>B</m>.  Each side of the circuit has length <m>l</m> and the loop is rotating counterclockwise about a vertical axis (when viewed from above) with constant angular speed <m>\omega</m>.  (The axis of rotation is shown as a dashed line.)  The figure shows the loop at <m>t = 0</m>.
+				The figure below shows a circular wire loop in a region with a uniform outward magnetic field.  Suppose the loop has a radius that is <em>increasing</em> in time!
 			</p>
-			<figure xml:id="fig-loop-field">
-				<caption>A square wire loop in a uniform magnetic field.</caption>
-				<image source="Loop-Field.png" width = "30%" ></image>
+			<figure xml:id="fig-loop-expand">
+				<caption>A circular wire loop in a uniform magnetic field.</caption>
+				<image source="Loop-Expand.png" width = "50%" ><description>A circular loop in a region with outward magnetic field.</description></image>
 			</figure>
 			<p>
-				Explain how the magnetic flux and the induced current change over time.  As part of your explanation, sketch two graphs, one of the magnetic flux vs. time and one of the induced current vs. time, and describe how flux and current are related using your graphs.
+				Determine the direction of the current induced in the loop using both Lenz's Law and the Lorentz Force law.
 			</p>
 		</statement>
 		
@@ -34,10 +35,12 @@
 
 
 		<project>
-		<title>Charging your Phone</title>
+		<title>Charging a Phone</title>
 		<statement><p></p>
 			<p>
-				You have a circular coil of radius 25 cm with 200 turns and resistance 5 <m>\Omega</m> that you would like to use to generate some power for charging your phone. You look up and see that 9 m above you is a long, straight power line that you estimate has a maximum current of 700 A alternating at 50 Hz. Estimate the maximum current through your coil.
+				You have a circular coil of radius <m>25 \mathrm{~cm}</m> with <m>200 \mathrm{~turns}</m> and resistance <m>5 \mathrm{~\Omega}</m> that you would like to use to generate some power for charging your phone. You look up and see that <m>9 \mathrm{~m}</m> above you is a long, straight power line that has a current with frequency <m>f = 50 \mathrm{~Hz}</m> given by:
+				<me>I(t) = \left(700 \mathrm{~A}\right) \sin\left( 2\pi ft\right)</me>
+				Estimate the maximum value of the current through your coil.
 			</p>
 		</statement>
 	</project>
@@ -46,11 +49,16 @@
 
 	<subsubsection>
 		<title>Metacognitive Reflection</title>
+		<activity>
+		<title>Induced Current</title>
 		<statement><p></p>
 			<p>
 				Write a short paragraph discussing how a changing magnetic field can result in an induced current. As part of your description, highlight specific activities you completed this week.
 			</p>
 		</statement>
+			
+		</activity>
+		
 	</subsubsection>
 
 	

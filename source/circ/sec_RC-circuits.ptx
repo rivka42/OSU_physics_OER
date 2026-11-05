@@ -1,35 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_rc-circuits" xmlns:xi="http://www.w3.org/2001/XInclude">
-	<title>RC Charging Circuits</title>
+	<title>RC Circuits</title>
 	
-	<subsubsection>
-					<title>Activities</title>
-					<activity>
-      <title>Derivative Warm-up</title>
-      <p></p>
-					<p>What is the derivative of the function <m>f(t) = Ae^{-\omega t}</m> with respect to <m>t</m>?</p>
-					</activity>
-					<p>The circuit below contains a battery, a resistor, a switch, and a capacitor. The capacitor is initially uncharged and the voltage of the battery is <m>V</m>.</p>
-					
-					<figure xml:id="RC1">
-			  <title>Light Bulb and Capacitor Circuit Diagram</title>
-			<caption>A circuit diagram with both a light bulb and a capacitor.</caption>
-			<image source="circ/RC-circuit.png" width = "50%" ><description>A circuit diagram with a battery, open switch, light bulb, and capacitor.</description></image>
-		</figure>
-		
-					<activity>
-      <title>Prediction 1</title>
-      <p></p>
-					<p>Just after the switch is closed: what is the absolute value of the potential difference across the capacitor?  Explain your reasoning.</p>
-					</activity>
-					
-										<activity>
-      <title>Prediction 2</title>
-      <p></p>
-					<p>A long time after the switch is closed: what is the absolute value of the potential difference across the capacitor?  Explain your reasoning.</p>
-					</activity>
-					
+			
 	<corollary xml:id="vid-charging-capacitor">
 	<title>Charging Capacitor</title>
 	
@@ -52,7 +26,6 @@
       <p></p>
 			<p>Given the result above, sketch a graph of the current through the resistor when the capacitor is charging.  Describe how the graph would change if you were to increase the resistance of the circuit. Give a physical explanation for why you observe this change.</p>
 		</activity>
-	</subsubsection>
 
 <!--NO AI-->
 </section>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 
-<chapter xml:id="ch_faraday" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Faraday's Law</title>
+<chapter xml:id="ch_em" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Electromagnetism</title>
 	<introduction>
-    <p> In this chapter you will learn about Faraday's Law.</p>
+    <p> In this chapter you will learn about electromagnetism.</p>
 	
 	</introduction>
 		
@@ -11,8 +11,7 @@
       
       <introduction><p>After successful completion of this chapter, you will be able to:</p></introduction>
 		<ol>
-			<li><p>Use Faraday's Law to find the induced voltage due to changing magnetic fields.</p></li>
-			<li><p>Describe the behavior of simple LC and LR circuits qualitatively and quantitatively.</p></li>
+			<li><p>Use Maxwell's Equations.</p></li>
 		</ol>
 	</objectives>
 

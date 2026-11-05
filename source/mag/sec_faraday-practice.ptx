@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_faraday-practice" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Practice - Faraday's Law</title>
+  <title>Practice - Magnetic Induction</title>
 	
 	<!--
 	If you want an A*R*C*S (Analyze-Represent-Calculate-Sensemake) activity, use the <project> tag.
@@ -17,7 +17,7 @@
 			<title>Magnetic Flux</title>
 			<statement><p></p>
 				<p>
-					What is the magnetic flux through an equilateral triangle with side <m>60 \mathrm{~cm},</m> long, whose plane makes a 60 degree angle with a uniform magnetic field of <m>0.33 \mathrm{~T}</m>?
+					What is the magnetic flux through an equilateral triangle with side <m>60 \mathrm{~cm}</m> long, whose plane makes a 60 degree angle with a uniform magnetic field of <m>0.33 \mathrm{~T}</m>?
 				</p>
 			</statement>
 			<!--
@@ -28,6 +28,8 @@
 			</answer>
 			-->
 		</project>
+
+				
 
 	<investigation>
 		<title>The Moving Wire Loop</title>
@@ -114,7 +116,7 @@
 
     </row>
     <row>
-      <cell><m>V_{ind}</m></cell>
+      <cell><m>\mathcal{E}</m></cell>
       <cell></cell>
 	  <cell></cell>
 	  <cell></cell>
@@ -159,7 +161,7 @@
 			<title>Square Loop in a Magnetic Field</title>
 			<statement><p></p>
 				<p>
-					A square loop of wire with side length 6 cm and resistance 0.4 <m>\Omega</m> is in a uniform magnetic field <m>B = -0.008t^2</m> (in Tesla) that points in the <m>z</m>-direction (through the loop). Determine the current induced in the loop as a function of time (both magnitude and direction).
+					A square loop of wire with side length <m>6 \mathrm{~cm}</m> and resistance <m>0.4 \mathrm{~\Omega}</m> is in a uniform magnetic field <m>B = -0.008t^2</m> (in Tesla) that points in the <m>z</m>-direction (through the loop). Determine the current induced in the loop as a function of time (both magnitude and direction).
 				</p>
 			</statement>
 		</project>
@@ -175,12 +177,12 @@
 			<title>Induced Current</title>
 			<statement><p></p>
 				<p>
-					A single conducting loop of wire has an area of <m>7.40 \times 10^{-2} \ \mathrm{m}^2</m> and a resistance of 110 <m>\Omega</m>. Perpendicular to the plane of the loop is a magnetic field of strength 0.280 T. At what rate (in T/s) must this field change if the induced current in the loop is to be 0.32 A?
+					A single conducting loop of wire has an area of <m>7.40 \times 10^{-2} \ \mathrm{m}^2</m> and a resistance of <m>110 \mathrm{~\Omega}</m>. Perpendicular to the plane of the loop is a magnetic field of strength <m>0.280 \mathrm{~T}</m>. At what rate (in T/s) must this field change if the induced current in the loop is to be <m>0.32 \mathrm{~}A</m>?
 				</p>
 			</statement>
 			<answer>
 				<p>
-					476 T/s
+					<m>476 \mathrm{~T/s}</m>
 				</p>
 			</answer>
 		</exploration>

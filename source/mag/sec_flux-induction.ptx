@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_flux-induction" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>Flux and Induction</title>
+
+	<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section and the previous section (<xref ref="sec_current-loops"/>) were designed to be implemented in an interactive studio classroom, after students have completed the previous sections in the chapter.  They take about two hours.
+	</p>
+  </assemblage>
+
+<subsubsection>
+	<title>Activities</title>
+  </subsubsection>
+
+<activity>
+	<title>Flux Loops</title>
+	<p>
+		
+	</p>
+	<p>
+		A square loop (side length <m>s</m>) in the plane of the screen is in a region of magnetic field.  Find the magnetic flux through the loop if:
+		<ol>
+			<li>
+				<p>
+					The magnetic field is a uniform <m>B_o</m> and points into the screen.
+				</p>
+			</li>
+			<li>
+				<p>
+					The magnetic field is a uniform <m>B_o</m> and points to the right.
+				</p>
+			</li>
+			<li>
+				<p>
+					The magnetic field points into the screen and increases linearly from <m>0</m> along the left edge to <m>B_o</m> along the right edge.
+				</p>
+			</li>
+		</ol>
+	</p>
+
+</activity>
+
+<activity>
+	<title>The Pickup Coil</title>
+	<introduction>
+		<p>
+	
+	</p>
+	<p>
+		Run this <url href="beav.es/pickup-coil">simulation</url>.  Go to the Pickup Coil tab.
+	</p>
+	</introduction>
+	
+	<task>
+			<p>
+				Play with the simulation for a few minutes.  Record a list of observations.
+			</p>
+		</task>
+		<task>
+			<p>
+				How many different kinds of changes can you make that will cause the light bulb to light up?
+			</p>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Consider the statement: <q>While the magnetic flux through the loop changes, there is current induced in the loop.</q>  What evidence is there to support this statement?  Can you find any evidence to refute the statement?  Can you find any evidence that suggests the statement is incomplete?
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					 Identify what properties the induced current in the loop depends on.  Justify your answers with evidence from the simulation.
+				</p>
+			</statement>
+		</task>
+</activity>
+
+<activity>
+	<title>Force on a Circuit</title>
+	<introduction>
+		<p>
+	
+	</p>
+	<p>
+		The figure below shows a small, square conducting loop with side length <m>s</m> being pushed to the right at constant speed <m>v</m> toward a region of uniform magnetic field <m>B</m> pointing outward.
+	</p>
+
+	<figure xml:id="fig_loop-push">
+			<title>Loop Push Figure</title>
+				<caption>A square loop moving into a magnetic field.</caption>
+				<image source="Loop-Push.png" width = "60%" ><description>Left: a square loop moving to the right at speed v.  Right: a region of uniform magnetic field pointing out of the screen.</description></image>
+			</figure>
+
+	</introduction>
+	
+	<task>
+			<p>
+				Choose an area vector for the wire loop.  Use the right-hand rule to determine whether a clockwise current in the loop is positive or negative.
+			</p>
+		</task>
+		<task>
+			<p>
+				Consider a positive charge located somewhere in the wire.  Will this positive charge experience a magnetic force?  If so, what direction?
+			</p>
+		</task>
+		<task>
+			<p>
+				Predict whether or not the force you identified above will be able to drive a current through the loop during each of the following intervals:
+			</p>
+			<ol marker="A.">
+				<li>
+					<p>
+						As the loop is entering the field.
+					</p>
+				</li>
+				<li>
+					<p>
+						While the loop is entirely within the field.
+					</p>
+				</li>
+				<li>
+					<p>
+						As the loop is exiting the field.
+					</p>
+				</li>
+			</ol>
+		</task>
+		<task>
+			<p>
+				Sketch and label a graph of the magnetic flux <m>\Phi_B</m> as a function of time.
+			</p>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Sketch and label a graph of the current through the loop as a function of time.
+				</p>
+			</statement>
+		</task>
+</activity>
+
+<definition xml:id="mag_induction">
+	<title>Magnetic Induction</title>
+	<statement>
+		<p>
+			
+		</p>
+		<p>
+			A changing magnetic flux through a conducting loop will <alert>induce</alert> a current!
+		</p>
+		<p>
+			<me>I_{\text{induced}} \propto - \frac{\partial \Phi_B}{\partial t}</me>
+		</p>
+	</statement>
+</definition>
+
+
+
+<!--NO AI-->
+</section>
+

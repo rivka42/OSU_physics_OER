@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_rc-discharge" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Discharging a Capacitor</title>
+	
+		<activity>
+      	<title>Warm-up</title>
+	  	<introduction>
+      			<p></p>
+				<p>The circuit below contains a capacitor, an open switch, and a light bulb.  The capacitor has known capacitance <m>C_1</m>, charge <m>+Q</m> on the top plate, and charge <m>-Q</m> on the bottom plate, as shown in the figure.</p>
+					
+				<figure xml:id="RC0">
+			  	<title>Capacitor Discharge Figure</title>
+				<caption>A circuit diagram with both a light bulb and a capacitor.</caption>
+				<image source="RC-d.png" width = "50%" ><description>A circuit diagram with a charged capacitor on the left (positive on top), an open switch, and a light bulb on the right.</description></image>
+				</figure>
+	  	</introduction>
+		<task>
+			<statement>
+				<p>
+					Use the definition of <xref ref="def_capacitance"/> to write an equation for the voltage across the capacitor.
+				</p>
+			</statement>
+			<answer>
+				<p>
+					See the definition of the <xref ref="a_capacitance"/>.
+				</p>
+			</answer>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Suppose the switch is closed at <m>t = 0</m>.  For an instant immediately after the switch is closed, sketch a voltage diagram for the circuit.  How does the voltage across the light bulb compare to the voltage across the capacitor?
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Give a qualitative description of what you think will happen to the following two quantities as time moves forward: (1) the charge on the capacitor and (2) the brightness of the light bulb.  Support your answers with a mechanistic explanation.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Sketch a graph predicting the <em>current</em> through the circuit as a function of time, starting at <m>t = 0</m>.  Comment on the value of the current in the limit as <m>t \rightarrow \infty</m>.
+				</p>
+			</statement>
+		</task>
+		</activity>
+					
+		
+
+				
+	<corollary xml:id="vid-discharging-capacitor">
+	<title>Discharging Capacitor</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="EuU7Me6dvzg"><description>Analyzing a discharging capacitor.</description></video>
+
+	</statement>
+  </corollary>
+  
+
+  <subsubsection><title>Key Ideas</title></subsubsection>
+	
+	<p>When a capacitor with initial charge <m>Q_0</m> and capacitance <m>C</m> is connected to a resistor with resistance <m>R</m>, the charge on the capacitor as a function of time is given by <me>Q(t) = Q_0 e^{-t/RC}</me></p>
+			
+  		<subsubsection>
+		<title>Activities</title>
+		<activity>
+      <title>Capacitor Behavior</title>
+      <p></p>
+			<p>Provide a physical argument to justify the generalized statement below about capacitors.</p>
+			<assumption xml:id="a_capacitor-continuity">
+		<title>Capacitor Continuity</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>
+				The voltage across an ideal capacitor in a circuit should be continuous, but the current through an ideal capacitor does not have to be continuous.
+			</p>
+			
+		</statement>
+	</assumption>
+		</activity>
+		<activity>
+      <title>Exploring RC Circuits</title>
+	  <introduction>
+		<p>
+			
+		</p>
+		<p>
+			Consider a discharging capacitor for the following questions.
+		</p>
+	  </introduction>
+	  <task>
+		<statement>
+			<p>Sketch a graph of the voltage across the discharging capacitor as a function of time.</p>
+		</statement>
+	  </task>
+	  <task>
+			<p>Determine the units of the quantity <m>RC</m>.  Describe how the graph you made would change if you were to <em>increase</em> this quantity.  Use your answers to give a brief physical interpretation for it (that is, what <em>kind</em> of quantity is it, and what is it trying to tell you about the behavior of the circuit?).</p>
+	  </task>
+		<task>
+			<p>Calculate an expression for the current through the resistor as a function of time.</p>
+		</task>
+		<task>
+			<p>Sketch a graph of the current through the resistor as a function of time.  Make sense of this graph given your answers to the previous activities.</p>
+		</task>
+	</subsubsection>
+
+<!--NO AI-->
+</section>
+

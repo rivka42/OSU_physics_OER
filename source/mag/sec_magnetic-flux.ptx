@@ -15,7 +15,7 @@
 			<p>
 				
 			</p>
-			<p><term>Magnetic flux</term> is a measure of how much magnetic field is passing perpendicularly through a surface: <me>\mathit{\Phi}_{B} = \iint \vec{B}\cdot d\vec{A}</me></p>
+			<p><term>Magnetic flux</term> is a measure of how much magnetic field is passing perpendicularly through a surface: <me>\Phi_{B} = \iint \vec{B}\cdot d\vec{A}</me></p>
 			<p>The double-integral sign indicates that the integral is over a two-dimensional surface, and the limits of integration must be chosen so that they cover the entirety of the desired surface.  The differential area vector <m>d\vec{A}</m> represents an infinitesimal piece of the total surface.</p>
 		</statement>
 	</definition>

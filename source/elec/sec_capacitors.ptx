@@ -44,7 +44,7 @@
 	
 	<p>A capacitor is made up of two conductors separated by an insulator.</p>
 	
-	<definition xml:id="capacitance">
+	<definition xml:id="def_capacitance">
 		<title>Capacitance</title>
 		<statement>
 			<p>

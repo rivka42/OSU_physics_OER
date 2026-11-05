@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_mag-induction" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>Magnetic Induction</title>
+
+	<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section were designed to be implemented in a 1-hour interactive classroom, after students have completed the rest of the chapter:
+	</p>
+  </assemblage>
+
+	<activity>
+	<title>The Falling Loop</title>
+		<p></p>
+	<p>The square wire loop shown is falling downward.  At the instant shown, it has just reached the bottom of a region with outward magnetic field.  Fill out a magnetic induction table to determine the induced current.
+</p>
+		<figure xml:id="fig_loop-fall">
+			<title>Loop Fall</title>
+				<caption>A loop falling out of a magnetic field.</caption>
+				<image source="Loop-Fall.png" width = "40%" ><description>An outward magnetic field with a square current loop moving down with speed v.  The bottom of the loop coincides with the bottom of the magnetic field.</description></image>
+			</figure>
+		
+</activity>
+
+<activity>
+	<title>The Falling Magnet</title>
+	<introduction>
+		<p></p>
+	<p>Drop a permanent magnet through a copper tube.
+</p>
+	</introduction>
+		<task>
+		<statement>
+			<p>
+				Start by assuming you orient the magnet with the north end down.  Draw a clear picture of the magnet in the tube. Identify at least one loop around the tube to help answer the next questions.
+			</p>
+			</statement>
+		</task>
+				<task>
+		<statement>
+			<p>Create an induction table to find the direction of: (1) the induced current in the loop and (2) the force on the magnet due to the induced current.</p>
+			</statement>
+		</task>
+				<task>
+		<statement>
+			<p>
+			How would your answer differ if the south end were down?</p>
+			</statement>
+			
+		</task>
+		
+</activity>
+
+
+	<activity>
+		<title>Rotating Loop</title>
+		<statement><p></p>
+			
+			<p>
+				A square wire loop with resistance <m>R</m> is located in a region of uniform magnetic field <m>B</m>.  Each side of the circuit has length <m>l</m> and the loop is rotating counterclockwise about a vertical axis (when viewed from above) with constant angular speed <m>\omega</m>.  (The axis of rotation is shown as a dashed line.)  The figure shows the loop at <m>t = 0</m>.
+			</p>
+			<figure xml:id="fig-loop-field">
+				<caption>A square wire loop in a uniform magnetic field.</caption>
+				<image source="Loop-Field.png" width = "30%" ><description>A square wire loop in an outward magnetic field.  The square has side length l and a vertical dashed line through its center.</description></image>
+			</figure>
+			<p>
+				Explain how the magnetic flux and the induced current change over time.  As part of your explanation, sketch two graphs, one of the magnetic flux vs. time and one of the induced current vs. time, and describe how flux and current are related using your graphs.
+			</p>
+		</statement>
+		
+	</activity>
+
+<!--NO AI-->
+</section>
+

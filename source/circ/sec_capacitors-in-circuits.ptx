@@ -36,14 +36,14 @@
 
   <subsubsection><title>Key Ideas</title></subsubsection>
 
-	<assumption>
+	<assumption xml:id="a_capacitance">
 		<title>Capacitor Voltage</title>
 		<statement>
 			<p>
 				
 			</p>
-			<p>The definition of capacitance <m>C</m> can be rewritten to establish the voltage across a capacitor with charge <m>Q</m> on its positive plate.
-			<me>V = CQ</me>
+			<p>The definition of <xref ref="def_capacitance"/> <m>C</m> can be rewritten to establish the voltage across a capacitor with charge <m>Q</m> on its positive plate.
+			<me>V = \frac{Q}{C}</me>
 			</p>
 			<p>
 				The voltage in a capacitor is higher on the side with positive charge.
@@ -51,7 +51,7 @@
 		<figure xml:id="CD_C">
 			  <title>Capacitor Circuit Diagram</title>
 			<caption>The circuit diagram representation for a capacitor.</caption>
-			<image source="CD_C.png" width = "40%" ><description>Two parallel lines of equal length representing a capacitor.</description></image>
+			<image source="CD_C.png" width = "40%" ><description>Left: a picture of a capacitor.  Right: Two parallel lines of equal length representing a capacitor.</description></image>
 		</figure>
 		</statement>
 	</assumption>

@@ -24,6 +24,8 @@
 
 	<!--PREPARE SECTIONS-->
 	<xi:include href="./mag/sec_current-loops.ptx" />
+	<xi:include href="./mag/sec_flux-induction.ptx" />
+	<xi:include href="./mag/sec_lenz.ptx" />
 	<xi:include href="./mag/sec_faraday.ptx" />
 
 
@@ -31,6 +33,7 @@
 	<xi:include href="./mag/sec_faraday-practice.ptx" />
 
     <!--CHALLENGE SECTIONS-->
+	<xi:include href="./mag/sec_mag-induction.ptx" />
 	<xi:include href="./mag/sec_faraday-challenge.ptx" />
 
 <!--

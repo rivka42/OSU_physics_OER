@@ -5,7 +5,7 @@
 
 		<p>Review the video briefing on <xref ref="vec_vb-cross"/>.</p>
 
-			<exercise>
+			<activity>
 				<title>Cross Product Practice</title>
 				<introduction>
 					<p>
@@ -41,7 +41,7 @@
 		<p>Down and to the left, roughly in the direction of <m>\vec{v}_2</m>.</p>
 		</answer>
 	</task>
-			</exercise>
+</activity>
 		
 		<!--NEED VIDEO
     <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
