@@ -10,18 +10,7 @@
 	</p>
   </assemblage>
 
-	<activity>
-	<title>The Falling Loop</title>
-		<p></p>
-	<p>The square wire loop shown is falling downward.  At the instant shown, it has just reached the bottom of a region with outward magnetic field.  Fill out a magnetic induction table to determine the induced current.
-</p>
-		<figure xml:id="fig_loop-fall">
-			<title>Loop Fall</title>
-				<caption>A loop falling out of a magnetic field.</caption>
-				<image source="Loop-Fall.png" width = "40%" ><description>An outward magnetic field with a square current loop moving down with speed v.  The bottom of the loop coincides with the bottom of the magnetic field.</description></image>
-			</figure>
-		
-</activity>
+
 
 <activity>
 	<title>The Falling Magnet</title>

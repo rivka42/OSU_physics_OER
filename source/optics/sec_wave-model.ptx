@@ -19,24 +19,32 @@
     -->
 
 
-    <exercises>
+    <subsubsection>
+      <title>Activities</title>
+      <activity>
         <title>Wave Model Simulation</title>
-        <p>Spend some time playing with the <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html">light interference simulation</url>. Click on the <alert><q>Interference</q></alert> tab, and on the right hand side, choose the laser pointer option.  (You will revisit the other tabs in this simulation in future sections.)  Make a list of your observations as you are playing with the simulation, then use your observations to answer the following questions.
+        <introduction>
+          <p>
+            
+          </p>
+          <p>Spend some time playing with the <url href="https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html">light interference simulation</url>. Click on the <alert><q>Interference</q></alert> tab, and on the right hand side, choose the laser pointer option.  (You will revisit the other tabs in this simulation in future sections.)  Make a list of your observations as you are playing with the simulation, then use your observations to answer the following questions.
         </p>
-        <exercise>
+        </introduction>
+        <task>
         <p>When you look at the screen, how would you describe the pattern of light and dark spots that you observe?  Why do you think this pattern appears?</p>
-        </exercise>
-        <exercise>
+        </task>
+        <task>
         <p>What happens on the screen if you separate the lasers as far as possible?</p>
-        </exercise>
-        <exercise>
+        </task>
+        <task>
         <p>What happens on the screen if you bring the lasers as close together as possible?</p>
-        </exercise>
-        <exercise>
+        </task>
+        <task>
         <p>What happens on the screen when you change the frequency?</p>
-        </exercise>
+        </task>
+        </activity>
         
-    </exercises>
+    </subsubsection>
 		
     <subsubsection>
       <title>Conclusion: Light Can Be wavelike</title>

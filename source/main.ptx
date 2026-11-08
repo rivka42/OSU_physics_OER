@@ -43,7 +43,7 @@
 		This is the new structure, which has smaller chapters
 		-->
 
-	
+	<!---->
 		<xi:include href="./ch-n_01_vectors.ptx" />
     	<xi:include href="./ch-n_02_motion.ptx" />
 		<xi:include href="./ch-n_03_lom.ptx" />
@@ -55,16 +55,12 @@
 		<xi:include href="./ch-n_09_momentum.ptx" />
 		<xi:include href="./ch-n_10_modeling.ptx" />
 
-		<!--<xi:include href="./ch-interlude.ptx" />-->
-
 		<xi:include href="./ch-n_11_optics.ptx" />
 
 		<xi:include href="./ch-n_12_rotational.ptx" />
 		<xi:include href="./ch-n_13_torque.ptx" />
 		<xi:include href="./ch-n_14_inertia.ptx" />
 		<xi:include href="./ch-n_15_rot-el.ptx" />
-
-		<!--alttext: Need to do 16, 18-20, and 28-30-->
 
 		<xi:include href="./ch-n_16_oscillate.ptx" />
 		<xi:include href="./ch-n_17_waves.ptx" />
@@ -82,14 +78,13 @@
 
 		
 		<xi:include href="./ch-n_27_magnetism.ptx" />
-
 		<xi:include href="./ch-n_28_faraday.ptx" />
-		
 		<xi:include href="./ch-n_29_adv-circuits.ptx" />
-		
-		
 		<xi:include href="./ch-n_30_em.ptx" />
-		
+
+		<!--alttext: Need to do 16, 18-20, and 28-30-->
+
+				<!--<xi:include href="./ch-interlude.ptx" />-->
 
 		<!--<xi:include href="./1oldch/ch-n_26_circuits-intro.ptx" /> -->
 		<!-- <xi:include href="./1oldch/ch-n_26_circuits-resistors.ptx" /> -->
