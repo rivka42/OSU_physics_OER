@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 
-<chapter xml:id="ch_adv-circuits" xmlns:xi="http://www.w3.org/2001/XInclude">
+<chapter xml:id="ch_dynamic-circuits" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Dynamic Circuits</title>
 	<introduction>
     <p> In this chapter you will learn about circuits with current that changes in time.</p>
@@ -18,20 +18,21 @@
 	<!--INTRODUCTORY SECTIONS-->
 	<xi:include href="./circ/sec_RC-discharge.ptx" />
 	<xi:include href="./circ/sec_RC-charge.ptx" />
-	<xi:include href="./circ/sec_RC-circuits.ptx" />
-		<xi:include href="./mag/sec_inductors.ptx" />
-	<xi:include href="./mag/sec_lc-circuits.ptx" />
-	<xi:include href="./mag/sec_lr-circuits.ptx" />
 
 	<!--PREPARE SECTIONS-->
-
+	<xi:include href="./circ/sec_RC-circuits.ptx" />
+	<xi:include href="./mag/sec_inductors.ptx" />
 
 
     <!--PRACTICE SECTIONS-->
-	<xi:include href="./circ/sec_adv-circ-practice.ptx" />
+	<xi:include href="./mag/sec_lc-circuits.ptx" />
+	<xi:include href="./mag/sec_lr-circuits.ptx" />
+	<xi:include href="./circ/sec_using-dynamic-circuits.ptx" />
+	<xi:include href="./circ/sec_dyn-circ-practice.ptx" />
 
     <!--CHALLENGE SECTIONS-->
-	<xi:include href="./circ/sec_adv-circ-challenge.ptx" />
+	<xi:include href="./circ/sec_lrc.ptx" />
+	<xi:include href="./circ/sec_dyn-circ-challenge.ptx" />
 
 
 </chapter>

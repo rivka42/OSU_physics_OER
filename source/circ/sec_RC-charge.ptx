@@ -14,7 +14,7 @@
 					<figure xml:id="RC1">
 			  <title>Light Bulb and Capacitor Circuit Diagram</title>
 			<caption>A circuit diagram with both a resistor and a capacitor.</caption>
-			<image source="circ/RC-circuit.png" width = "50%" ><description>A circuit diagram with a battery, open switch, resistor, and capacitor.</description></image>
+			<image source="RC-circuit.png" width = "50%" ><description>A circuit diagram with a battery, open switch, resistor, and capacitor.</description></image>
 		</figure>
 						</introduction>
 						<task>
@@ -51,8 +51,43 @@
 							</statement>
 						</task>
 					</activity>
+
+						<corollary xml:id="vid-charging-capacitor">
+	<title>Charging Capacitor</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="EuU7Me6dvzg"><description>How to figure out the charge on a charging capacitor.</description></video>
+
+	</statement>
+  </corollary>
 					
-					
+	<subsubsection><title>Derivation: Charging Capacitor</title></subsubsection>
+
+
+	<p>
+		As with the discharging capacitor, you can use the <xref ref="loop-rule"/> to relate the voltages across the different circuit elements: 
+		<me>V_{bat} + V_C + V_R = 0</me>
+		<me>V - I(t)R - \frac{Q(t)}{C} = 0</me>
+		You can now leverage that the current through the resistor <m>I(t)</m> is the rate of change at which charge <m>Q(t)</m> is <em>increasing</em> on the positive plate, giving <m>I(t) = \frac{dQ(t)}{dt}</m>
+		<me>V - \frac{Q(t)}{C} = R\frac{dQ(t)}{dt}</me>
+		<me>\frac{dQ(t)}{dt} = \frac{V}{R} - \frac{Q(t)}{RC}</me>
+		You can solve this differential equation to find the charge on the capacitor as a function of time:
+		<me>Q(t) = CV \left(1 - e^{-t/RC}\right)</me>
+	</p>
+
+	<activity>
+		<title>Charging and Discharging</title>
+		<p>
+			
+		</p>
+		<p>
+			What similarities do you see between the <alert>charging capacitor</alert> and the <alert>discharging capacitor</alert>?  What differences do you see?
+		</p>
+	</activity>
 	
 
 

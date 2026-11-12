@@ -7,17 +7,17 @@
     <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
 -->
 	
-	<definition>
+	<definition xml:id="def_inductor">
 		<title>Inductor</title>
 		<statement>
 			<p>
 				
 			</p>
-			<p>An <term>inductor</term> is a circuit element that provides a voltage given by <me>V_{inductor} = L \frac{dI}{dt}</me></p>
+			<p>An <term>inductor</term> is a circuit element that provides a voltage given by <me>V_{\text{inductor}} = -L \frac{dI}{dt}</me></p>
 			<ul>
 				<li>
 					<p>
-						<alert>The sign of the voltage can be found using <xref ref="p_lenz"/>.</alert>  The induced voltage always opposes the change in flux through the inductor.
+						<alert>The sign of the voltage can be found using <xref ref="p_lenz"/>.</alert>  The induced voltage always opposes the change in flux through the inductor (this is denoted by the minus sign in the equation above).
 					</p>
 				</li>
 				<li>
@@ -50,16 +50,66 @@
 		</statement>
 	</definition>
 	
-	<!--
+	
 	<subsubsection>
 		<title>Activities</title>
 		<activity>
-      <title>TITLE</title>
+      <title>Sensemaking: Direction</title>
+	  <introduction>
+		<p></p>
+			<p>Consider the inductor shown in the <xref ref="x_fig_CD-L"/> above.  Suppose at some instant in time the current is flowing downward and increasing in magnitude.  Use an area vector for the inductor that points upward.</p>
+	  </introduction>
+      <task>
+	  <statement>
+		<p>
+			Use the right-hand rule to determine whether the current is <em>positive</em> or <em>negative</em> for the given area vector.
+		</p>
+	  </statement>
+	  <answer>
+		<p>
+			Positive!
+		</p>
+	  </answer>
+	  </task>
+	  <task>
+		<statement>
+			<p>
+				Use the right-hand rule to determine whether the <alert>change</alert> in the current is <em>positive</em> or <em>negative</em> for the given area vector.
+			</p>
+		</statement>
+		<answer>
+			<p>
+				The current is increasing, so the change is in the same direction as the current, which is positive!
+			</p>
+		</answer>
+	  </task>
+	  <task>
+		<statement>
+			<p>
+				Use <xref ref="p_lenz"/> and a <xref ref="rep_mag-induction-table-qual"/> to determine whether the induced voltage is <em>positive</em> or <em>negative</em>, and show that this matches the voltage equation in the definition of the <xref ref="def_inductor"/>.
+			</p>
+		</statement>
+	  </task>
+	  </activity>
+	  <activity>
+      <title>Inductor Behavior</title>
       <p></p>
-			<p>TEXT</p>
+			<p>Provide a physical argument to justify the generalized statement below about inductors.</p>
+			<assumption xml:id="a_inductor-continuity">
+		<title>Inductor Continuity</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>
+				The current through an ideal inductor in a circuit should be continuous, but the voltage across an ideal inductor does not have to be continuous.
+			</p>
+			
+		</statement>
+	</assumption>
 		</activity>
 	</subsubsection>
--->
+
   
 
 	

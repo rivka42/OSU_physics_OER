@@ -3,29 +3,7 @@
 <section xml:id="sec_rc-circuits" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>RC Circuits</title>
 	
-			
-	<corollary xml:id="vid-charging-capacitor">
-	<title>Charging Capacitor</title>
-	
-	<statement>
-		<p>
-			
-		</p>
 
-		<video youtube="EuU7Me6dvzg"><description>How to figure out the charge on a charging capacitor.</description></video>
-
-	</statement>
-  </corollary>
-
-  <subsubsection><title>Key Ideas</title></subsubsection>
-	
-	<p>When the capacitor is charging, the current through the resistor as a function of time is given by <me>I(t) = \frac{V_{bat}}{R}e^{-t/RC}</me></p>
-			
-		<activity>
-      <title>Represent</title>
-      <p></p>
-			<p>Given the result above, sketch a graph of the current through the resistor when the capacitor is charging.  Describe how the graph would change if you were to increase the resistance of the circuit. Give a physical explanation for why you observe this change.</p>
-		</activity>
 
 <!--NO AI-->
 </section>

@@ -7,7 +7,7 @@
       	<title>Warm-up</title>
 	  	<introduction>
       			<p></p>
-				<p>The circuit below contains a capacitor, an open switch, and a light bulb.  The capacitor has known capacitance <m>C_1</m>, charge <m>+Q</m> on the top plate, and charge <m>-Q</m> on the bottom plate, as shown in the figure.</p>
+				<p>The circuit below contains a capacitor, an open switch, and a light bulb.  The capacitor has known capacitance <m>C</m>, charge <m>+Q_o</m> on the top plate, and charge <m>-Q_o</m> on the bottom plate, as shown in the figure.</p>
 					
 				<figure xml:id="RC0">
 			  	<title>Capacitor Discharge Figure</title>
@@ -52,7 +52,7 @@
 					
 		
 
-				
+		<!--		
 	<corollary xml:id="vid-discharging-capacitor">
 	<title>Discharging Capacitor</title>
 	
@@ -65,12 +65,37 @@
 
 	</statement>
   </corollary>
+  -->
   
 
-  <subsubsection><title>Key Ideas</title></subsubsection>
+  <subsubsection><title>Derivation: Discharging Capacitor</title></subsubsection>
+
+	<p>
+		Consider now a circuit like the one above in which the light bulb is replaced with a <xref ref="a_resistor"/> with resistance <m>R</m>.  Such a circuit is often termed an <term>RC-circuit</term>.
+	</p>
+
+	<figure xml:id="RC0-1">
+			  	<title>Capacitor Discharge Figure 2</title>
+				<caption>A circuit diagram with both a resistor and a capacitor.</caption>
+				<image source="RC-d2.png" width = "50%" ><description>A circuit diagram with a charged capacitor on the left (positive on top), an open switch, and a resistor on the right.</description></image>
+	</figure>
+
+	<p>
+		You can use the <xref ref="loop-rule"/> to relate the voltages across the different circuit elements: 
+		<me>V_C + V_R = 0</me>
+		<me>\frac{Q(t)}{C} - I(t)R = 0</me>
+		<me>\frac{Q(t)}{C} = I(t)R</me>
+		You can now leverage that the current through the resistor <m>I(t)</m> is the rate of change at which charge <m>Q(t)</m> is <em>decreasing</em> on the positive plate, giving <m>I(t) = -\frac{dQ(t)}{dt}</m>
+		<me>\frac{Q(t)}{C} = -R\frac{dQ(t)}{dt}</me>
+		<me>\frac{dQ(t)}{dt} = -\frac{Q(t)}{RC}</me>
+		You can solve this differential equation using separation of variables to find the charge on the capacitor as a function of time:
+		<me>\frac{dQ}{Q} = -\frac{dt}{RC}</me>
+		<me>\int_{Q_o}^{Q(t)} \frac{dQ}{Q} = -\int_0^t \frac{dt'}{RC}</me>
+		<me>\ln{\frac{Q(t)}{Q_o}} = -\frac{t}{RC}</me>
+		<me>Q(t) = Q_o e^{-t/RC}</me>
+	</p>
 	
-	<p>When a capacitor with initial charge <m>Q_0</m> and capacitance <m>C</m> is connected to a resistor with resistance <m>R</m>, the charge on the capacitor as a function of time is given by <me>Q(t) = Q_0 e^{-t/RC}</me></p>
-			
+		
   		<subsubsection>
 		<title>Activities</title>
 		<activity>

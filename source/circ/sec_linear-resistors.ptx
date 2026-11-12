@@ -18,7 +18,7 @@
 
   <subsubsection><title>Key Ideas</title></subsubsection>
 	
-	<assumption>
+	<assumption xml:id="a_resistor">
 		<title>Linear Resistor</title>
 		<statement>
 			<p>
