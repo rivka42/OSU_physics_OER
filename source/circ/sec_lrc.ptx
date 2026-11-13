@@ -1,14 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_lrc" xmlns:xi="http://www.w3.org/2001/XInclude">
-  	<title>LRC Circuits</title>
-
-	<assemblage component="implementation">
-  <title>Implementation Notes</title>
-  <p>
-	The activities in this section were designed to be implemented in a 1-hour interactive classroom, after students have completed the rest of the chapter:
+  	<title>Circuits and Harmonic Motion</title>
+	<p>
+				A circuit with an inductor and a capacitor, as in the <xref ref="x_fig_LC"/>, is analogous to a simple harmonic oscillator such as the one in the <xref ref="mass_spring"/>.  The exercise below will help you extend this analogy to circuits that also include a resistor.
 	</p>
-  </assemblage>
+
+	<activity>
+		<title>Harmonic Motion Analogy</title>
+		<introduction>
+			<p>
+				
+			</p>
+			<p>
+				A circuit with a capacitor, a resistor, and an inductor such as the one in the figure below can be modeled using <xref ref="sec_damped"/>.
+				
+			</p>
+			<figure xml:id="RLC1">
+			  	<title>LRC Circuit Figure 1</title>
+				<caption>A circuit diagram with a resistor, a capacitor, and an inductor.</caption>
+				<image source="LRC1.png" width = "50%" ><description>A circuit diagram with a charged capacitor on the left (positive on top), an open switch, and a resistor and an inductor on the right.</description></image>
+			</figure>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					A situation exhibiting damped harmonic motion typically has three features: an inertial mass, a restoring force, and a dissipative force.  An example of damped motion is the block on a spring subject to a drag force shown in the <xref ref="mass_spring_damp"/>.
+				</p>
+				<p>
+					Which parts of the circuit above do you think correspond to each part of the damped harmonic motion?
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Sketch a prediction of the current through the circuit as a function of time after the switch is closed.  Use the loop rule to justify your prediction.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Use a graphing calculator to graph the equation of motion for <xref ref="assumption-damped"/> to check your prediction.
+				</p>
+			</statement>
+		</task>
+		<task>
+			<statement>
+				<p>
+					How do you think the behavior of the circuit would change if you included a <alert>battery</alert> in addition to an inductor, a resistor, and a capacitor?  Can you think of a feature of a block on a spring that would be analogous to adding a battery?
+				</p>
+			</statement>
+		</task>
+	</activity>
+
+	
+	
+
+	
 
 
 <!--

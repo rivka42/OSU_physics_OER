@@ -22,6 +22,19 @@
 		</statement>
 	</investigation>
 
+	<project>
+		<title>Capacitor-Battery-Switch</title>
+		<statement><p></p>
+			<p>
+				The switch shown has been set to the left in the circuit above for a long time (the two batteries are identical). You then flip the switch to the right. Immediately after you flip the switch, what is the current through the circuit?
+			</p>
+				<figure xml:id="fig-circuit_6">
+    	<caption>Circuit diagram.</caption>
+    	<image source="circ/circuit-6.png" width = "40%" ></image>
+	</figure>
+		</statement>
+	</project>
+
 
 
 

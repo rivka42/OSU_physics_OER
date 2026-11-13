@@ -45,7 +45,10 @@ The <alert>damping constant </alert>, <m>b</m>, depends on the shape of the obje
 
 		<me> \omega_{d} = \sqrt{\frac{k}{m} - \frac{b^2}{4m^2}}</me>
 
-		Note that <m>\omega_{d}</m> is only valid when <m>\frac{k}{m} \gt \frac{b^2}{4m^2}</m>.<fn>When this condition is met, the solution above is valid and the system is called <q>underdamped</q>.  When this condition is not met, the solution will take on a different functional form.</fn>
+		Note that <m>\omega_{d}</m> is only valid when <m>\frac{k}{m} \gt \frac{b^2}{4m^2}</m>.
+    </p>
+    <p>
+      When this condition is met, the solution above is valid and the system is called <q>underdamped</q>.  When this condition is not met, the solution will take on a different functional form.
 
     </p>
   </statement>
