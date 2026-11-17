@@ -11,55 +11,125 @@
   </assemblage>
 
 
-<!--
+
 <activity>
-	<title>The Falling Magnet</title>
+	<title>Extending the Analogy</title>
 	<introduction>
 		<p></p>
-	<p>Drop a permanent magnet through a copper tube.
-</p>
+	<p>
+		The two situations shown below can be modeled using the same mathematics!
+	</p>
+	<figure xml:id="fig_LRC2">
+					<caption>An LRC circuit diagram with a voltage source.</caption>
+					<image source="LRC2.png" width = "80%" ><description>A circuit with a battery, an open switch, a resistor, an inductor, and a capacitor in series.</description></image>
+				</figure>
+	<figure xml:id="fig_LRC-block">
+					<caption>A block on a spring with drag and pushing forces.</caption>
+					<image source="BlockSpring1.png" width = "80%" ><description>A block is connected to a spring, subject to a drag force and a pushing force.</description></image>
+				</figure>
 	</introduction>
-		<task>
+	<task>
 		<statement>
 			<p>
-				Start by assuming you orient the magnet with the north end down.  Draw a clear picture of the magnet in the tube. Identify at least one loop around the tube to help answer the next questions.
+		Identify the aspect of the block-spring-drag system that corresponds to each circuit element.
+	</p>
+		</statement>
+		<solution>
+		<p>
+		The two situations can be analogized by writing parallel equations using the Law of Motion for the block on a spring and the Loop Rule for the LRC circuit:
+		<me>F - kx - bv - ma = 0</me>
+		<me>F - kx - b\frac{dx}{dt} - m\frac{d^2x}{dt^2} = 0</me>
+		<me>V - \frac{Q}{C} - IR - L\frac{dI}{dt} = 0</me>
+		<me>V - \frac{Q}{C} - R\frac{dQ}{dt} - L\frac{d^2Q}{dt^2} = 0</me>
+		Identifying term by term gives the resistor is dissipative (like drag), the inductor resists change (like mass/inertia), the capacitor stores energy (like the spring) and the battery provides voltage (like a pushing force).
+		<me>b \rightarrow R</me>
+		<me>m \rightarrow L</me>
+		<me>k \rightarrow \frac{1}{C}</me>
+		<me>F \rightarrow V</me>
+	</p>
+	</solution>	
+	</task>
+	<task>
+		<statement>
+			<p>
+				Supposing that the spring begins at equilibrium, the block begins at rest, and you push with a <alert>constant force</alert>, describe the resulting motion of the block.  How could you push differently to achieve different motion?
 			</p>
-			</statement>
-		</task>
-				<task>
-		<statement>
-			<p>Create an induction table to find the direction of: (1) the induced current in the loop and (2) the force on the magnet due to the induced current.</p>
-			</statement>
-		</task>
-				<task>
+		</statement>
+		<solution>
+			<p>
+				Interestingly, the constant pushing force makes very little difference to the analysis (it is equivalent to shifting the origin), so the position as a function of time is described by <xref ref="assumption-damped"/>.
+			</p>
+			<p>
+				Replacing each quantity in the equations above with the circuits analogy gives the following:
+			</p>
+			<assumption xml:id="assumption-lrc">
+  <title>LRC Circuit</title>
+    <statement>
+    <p>
+    </p>
+    <p>
+      The charge on a capacitor in an LRC circuit is given by
+
+	  <me> Q(t) = Q_{\text{max}} e^{-Rt/2L} \cos{(\omega_{LRC} t + \phi_o)}</me>
+      
+		The oscillation frequency is given by the following expression.
+
+		<me> \omega_{LRC} = \sqrt{\frac{1}{LC} - \frac{R^2}{4L^2}}</me>
+
+		Note that <m>\omega_{LRC}</m> is only valid when <m>\frac{1}{LC} \gt \frac{R^2}{4L^2}</m>.
+    </p>
+    <p>
+		The current may be found by taking a derivative, though it is convenient to rewrite it in terms of a different phase angle:
+		<me> I(t) = I_{\text{max}} \cos{(\omega_{LRC} t + \phi_I)}</me>
+    </p>
+  </statement>
+</assumption>
+		</solution>
+	</task>
+	<task>
 		<statement>
 			<p>
-			How would your answer differ if the south end were down?</p>
-			</statement>
-			
-		</task>
-		
+				What happens if you <q>push</q> with a non-constant voltage: an alternating voltage?  Predict whether the shape of the graph is more likely to look like the <xref ref="damped_pos"/> or the <xref ref="HM_position"/>.  Why?
+			</p>
+		</statement>
+		<solution>
+			<p>
+				After some time, the driving voltage wins, giving a simpler functional form for the current:
+				<me>I(t) \rightarrow I_{max}\cos\left(\omega t - \phi\right)</me>
+			</p>
+		</solution>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Try building this circuit in the <q>RLC</q> tab of the <url href="https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_all.html">Circuits PhET simulation</url> to check your predictions.  Good numbers to try are given below.
+				<me>V_o = 25 \mathrm{~V}</me>
+				<me>R 3 \mathrm{~\Omega}</me>
+				<me>L = 5 \mathrm{~H}</me>
+				<me>C = 0.1 \mathrm{~F}</me>
+				<me>f = 0.5 \mathrm{~Hz}</me>
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				What could you do to the circuit at this point to get <alert>more current</alert>?  Try to come up with as many different ways as you can.  Check your answers using the <url href="https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_all.html">Circuits PhET simulation</url>.
+			</p>
+		</statement>
+		<solution>
+			<p>
+				An obvious change to try is decreasing the resistance.  However, you can also adjust the inductance, the capacitance, or the frequency.  A good thing to try in the simulation is slowly lowering the inductance from <m>5 \mathrm{~H}</m> to <m>1 \mathrm{~H}</m> and then finally to <m>0.1 \mathrm{~H}</m>.  The maximum current will increase then decrease, an example of resonance!  You can find the frequency at which the current is maximized using the equation below:
+				<me>I_{max} = \frac{V_o}{\sqrt{R^2 + \left( \omega L - \frac{1}{\omega C} \right)^2}}</me>
+			</p>
+		</solution>
+	</task>
 </activity>
 
 
-	<activity>
-		<title>Rotating Loop</title>
-		<statement><p></p>
-			
-			<p>
-				A square wire loop with resistance <m>R</m> is located in a region of uniform magnetic field <m>B</m>.  Each side of the circuit has length <m>l</m> and the loop is rotating counterclockwise about a vertical axis (when viewed from above) with constant angular speed <m>\omega</m>.  (The axis of rotation is shown as a dashed line.)  The figure shows the loop at <m>t = 0</m>.
-			</p>
-			<figure xml:id="fig-loop-field">
-				<caption>A square wire loop in a uniform magnetic field.</caption>
-				<image source="Loop-Field.png" width = "30%" ><description>A square wire loop in an outward magnetic field.  The square has side length l and a vertical dashed line through its center.</description></image>
-			</figure>
-			<p>
-				Explain how the magnetic flux and the induced current change over time.  As part of your explanation, sketch two graphs, one of the magnetic flux vs. time and one of the induced current vs. time, and describe how flux and current are related using your graphs.
-			</p>
-		</statement>
-		
-	</activity>
-	-->
+
+	
+	
 
 <!--NO AI-->
 </section>

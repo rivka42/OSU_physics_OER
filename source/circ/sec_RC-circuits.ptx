@@ -3,7 +3,87 @@
 <section xml:id="sec_rc-circuits" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>RC Circuits</title>
 	
+	<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section are designed to be implemented in an interactive classroom, after students have completed the previous sections in the chapter.  Along with the activities in <xref ref="sec_lr-circuits"/>, they take about 50 minutes.
+	</p>
+  </assemblage>
 
+<activity>
+	<title>Making Sense of RC Circuits</title>
+	<statement>
+		<p></p>
+	<p>
+		As you saw in <xref ref="sec_rc-charge"/>, the charge and current for the <xref ref="RC1"/> are given by:
+		<me>Q(t) = CV \left(1 - e^{-t/RC}\right)</me>
+		<me>I(t) = \frac{dQ}{dt} = \frac{V}{R} e^{-t/RC}</me>
+	</p>
+	<p>
+		Make sense of the capacitor charging equations in at least two different ways
+	</p>
+	</statement>
+	<hint>
+		<p>
+			Good sensemaking techniques to try:
+		</p>
+		<ul>
+			<li>
+				<p>
+					What happens as <m>t \rightarrow \infty</m>?
+				</p>
+			</li>
+			<li>
+				<p>
+					Give a physical interpretation for the quantity <m>RC</m>.
+				</p>
+			</li>
+			<li>
+				<p>
+					What happens as the voltage of the battery increases?
+				</p>
+			</li>
+			<li>
+				<p>
+					Graph the charge and current as functions of time.
+				</p>
+			</li>
+		</ul>
+	</hint>
+		
+</activity>
+
+<activity>
+	<title>Parallel Capacitor Circuit</title>
+	<introduction>
+		<p></p>
+	<p>Consider two identical linear resistors <m>R</m> connected to a battery <m>V</m>.  The switch is closed at <m>t = 0</m>.
+</p>
+<figure xml:id="fig_RC-parallel">
+				<caption>An RC circuit with an extra resistor.</caption>
+				<image source="RC-parallel.png" width = "50%" ><description>A circuit diagram with a battery on the left, an open switch on the top, and on the right is a resistor that is in series with a parallel network of a capacitor and another resistor.</description></image>
+			</figure>
+	</introduction>
+		<task>
+		<statement>
+			<p>
+				Sketch a voltage diagram just after the switch is closed.
+			</p>
+			</statement>
+		</task>
+				<task>
+		<statement>
+			<p>What is the current through each resistor at this instant?</p>
+			</statement>
+		</task>
+				<task>
+		<statement>
+			<p>
+			As <m>t \rightarrow \infty</m>, the capacitor will reach an equilibrium charge.  Sketch a voltage diagram at such an instant.  What is the current through each resistor now?</p>
+			</statement>
+		</task>
+		
+</activity>
 
 <!--NO AI-->
 </section>

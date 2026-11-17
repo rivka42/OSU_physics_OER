@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_lr-circuits" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>LR Circuits</title>
+				
+	<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section are designed to be implemented in an interactive classroom alongside the activities in <xref ref="sec_rc-circuits"/>.
+	</p>
+  </assemblage>
+
+  <activity>
+	<title>Exploring LR Circuits</title>
+	<introduction>
+		<p></p>
+	<p>
+		The circuit below contains a battery, a resistor, and an inductor.  The switch closes at <m>t = 0</m>.
+	</p>
+		<figure xml:id="x_fig_RL">
+			<title>LR Circuit Diagram</title>
+    		<caption>A circuit with a battery, a resistor, and an inductor.</caption>
+    		<image source="LR-circuit1.png" width = "60%" ><description>A circuit diagram with a battery, open switch, resistor, and inductor in series.</description></image>
+		</figure>
+	</introduction>
+	<task>
+	<statement>
+		<p>
+			Is the initial current clockwise, counterclockwise, or zero?
+		</p>
+	</statement>
+	<solution>
+		<p>
+			<xref ref="a_inductor-continuity"/> requires that the current be continuous, and it is zero right before the switch is closed, so it must be zero right after the switch is closed.
+		</p>
+	</solution>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Describe how the current changes in time using a physical argument.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Identify the largest current that flows through the circuit in terms of the given variables.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Sketch a graph of the current as a function of time.
+			</p>
+		</statement>
+	</task>
+</activity>
+
+	<subsubsection><title>Derivation: <q>Charging</q> Inductor</title></subsubsection>
+
+
+	<p>
+		Similar to an RC circuit, you can use the <xref ref="loop-rule"/> to relate the voltages across the different circuit elements: 
+		<me>V_{bat} + V_R + V_L = 0</me>
+		<me>V - I(t)R - L\frac{dI}{dt} = 0</me>
+		This differential equation is directly analogous to the RC-charging circuit, with a solution given by:
+		<me>I(t) = \frac{V}{R} \left(1 - e^{-tR/L}\right)</me>
+	</p>
+
+<activity>
+	<title>Making Sense of LR Circuits</title>
+	<statement>
+		<p></p>
+	
+	<p>
+		Make sense of the inductor <q>charging</q> equations in at least two different ways
+	</p>
+	</statement>
+	<hint>
+		<p>
+			Good sensemaking techniques to try:
+		</p>
+		<ul>
+			<li>
+				<p>
+					What happens as <m>t \rightarrow \infty</m>?
+				</p>
+			</li>
+			<li>
+				<p>
+					Give a physical interpretation for the quantity <m>\frac{L}{R}</m>.
+				</p>
+			</li>
+			<li>
+				<p>
+					What happens as the voltage of the battery increases?
+				</p>
+			</li>
+			<li>
+				<p>
+					Graph the current as a function of time.
+				</p>
+			</li>
+		</ul>
+	</hint>
+		
+</activity>
+
+<activity>
+	<title>LR Switch Circuit</title>
+	<introduction>
+		<p></p>
+	<p>
+		The circuit from before now contains a switch allowing the inductor to be disconnected from the battery.  Assume the switch has been flipped <em>up</em> for a long time.
+	</p>
+		<figure xml:id="x_fig_RL2">
+			<title>LR Circuit Diagram</title>
+    		<caption>A switched LR circuit.</caption>
+    		<image source="LR-circuit2.png" width = "60%" ><description>A circuit diagram with a battery, open switch, resistor, and inductor in series.  A switch has been added, allowing a new branch with no battery (just an ideal wire) to replace the branch with the battery.</description></image>
+		</figure>
+	<p>
+		After you flip the switch <em>down</em>:
+	</p>
+	</introduction>
+	<task>
+	<statement>
+		<p>
+			How does the current through the inductor compare to the current just before the switch is flipped?
+		</p>
+	</statement>
+	<solution>
+		<p>
+			<xref ref="a_inductor-continuity"/> requires that the current be continuous, so it is still exactly the same as it was: <m>I = \frac{V}{R}</m>.
+		</p>
+	</solution>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Describe how the current changes in time using a physical argument.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Identify the current as <m>t \rightarrow \infty</m>.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Sketch a graph of the current as a function of time.
+			</p>
+		</statement>
+	</task>
+</activity>
+
+
+  
+
+	
+<!--NO AI-->
+</section>
+

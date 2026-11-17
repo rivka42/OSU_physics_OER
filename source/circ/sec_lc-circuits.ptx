@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_lc-circuits" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>LC Circuits</title>
+
+	<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section are designed to be implemented in an interactive studio classroom, after students have completed <xref ref="sec_RC-circuits"/>, <xref ref="sec_LR-circuits"/>, and their prerequisite sections.  Together with the activity in <xref ref="sec_using-dynamic-circuits"/>, they take about two hours.
+	</p>
+  </assemblage>
+		
+		<p>Recall that the voltage across an inductor is given by <me>V_{inductor} = -L \frac{dI}{dt}</me></p>
+		
+
+		<activity>
+	<title>Exploring LR and RC Circuits</title>
+	<introduction>
+		<p></p>
+	<p>
+		The circuit below contains a battery connected to two branches: one with a resistor and a capacitor, the other with a resistor and an inductor.  The switch closes at <m>t = 0</m>.
+	</p>
+		<figure xml:id="x_fig_RL-RC">
+			<title>LR and RC Circuit Diagram</title>
+    		<caption>A circuit with a battery, a resistor, and an inductor.</caption>
+    		<image source="LR-RC.png" width = "60%" ><description>A circuit diagram with a battery, an open switch, and two parallel branches: on the left a resistor and capacitor in series, on the right a resistor and inductor in series.</description></image>
+		</figure>
+	</introduction>
+	<task>
+	<statement>
+		<p>
+			Describe how the current changes in each branch using a physical argument.  Make sure that the capacitor and inductor continuity conditions are met!  Sketch graphs that agree with your answers.
+		</p>
+	</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Suppose each branch has the same time constant.  Write an equation relating <m>L</m> and <m>C</m>, assuming the resistors are identical.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				What would happen if the time constants were different?
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Sketch a graph of the current as a function of time.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Try building this circuit in the <q>RLC</q> tab of the <url href="https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_all.html">Circuits PhET simulation</url> to check your predictions.
+			</p>
+		</statement>
+	</task>
+</activity>
+
+<activity>
+	<title>LC Circuits</title>
+	<introduction>
+		<p></p>
+	<p>
+		The circuit contains a capacitor <m>C</m> with initial charge <m>Q_o</m> and an inductor <m>L</m>.  The switch closes at <m>t = 0</m>.
+	</p>
+		<figure xml:id="x_fig_LC">
+			<title>LC Circuit Diagram</title>
+    		<caption>A circuit with a capacitor and an inductor.</caption>
+    		<image source="LC-circui2.png" width = "60%" ><description>A circuit diagram with an initially charged capacitor (positive on top), a switch, and an inductor.</description></image>
+		</figure>
+	</introduction>
+	<task>
+	<statement>
+		<p>
+			At each of the following instants, determine the sign of (1) the voltage across each element and (2) the current through each element.
+			<ol marker="a.">
+				<li>
+					<p>
+						Just before the switch is closed.
+					</p>
+				</li>
+				<li>
+					<p>
+						Just after the switch is closed.
+					</p>
+				</li>
+				<li>
+					<p>
+						At the first moment the charge on the capacitor is zero.
+					</p>
+				</li>
+				<li>
+					<p>
+						At the moment when the upper plate of the capacitor has the most negative charge.
+					</p>
+				</li>
+			</ol>
+		</p>
+	</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Sketch a graph of the current through the circuit consistent with your answers above.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Try building this circuit in the <q>RLC</q> tab of the <url href="https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_all.html">Circuits PhET simulation</url> to check your predictions.
+			</p>
+		</statement>
+	</task>
+</activity>
+
+
+  	<subsubsection><title>Derivation: LC Circuit</title></subsubsection>
+
+    <corollary xml:id="vid-lc-circuits">
+	<title>LC Circuits</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="EZmh2TOI-WI"><description>A description of LC circuits.</description></video>
+
+	</statement>
+  </corollary>
+
+	<p>
+		You can use the <xref ref="loop-rule"/> to relate the voltages across the different circuit elements: 
+		<me>V_C + V_L = 0</me>
+		<me>\frac{Q}{C} + L\frac{dI}{dt} = 0</me>
+		<me>Q(t) = -LC\frac{d^2Q}{dt^2}</me>
+		The charge on the capacitor therefore fits the model for <xref ref="assumption-shm"/>!
+		<me>I(t) = \frac{V}{R} \left(1 - e^{-tR/L}\right)</me>
+	</p>
+
+<activity>
+	<title>LC Harmonics</title>
+	<introduction>
+		<p></p>
+	<p>
+		Using the simple harmonic motion model:
+	</p>
+	</introduction>
+	<task>
+	<statement>
+		<p>
+			Write an equation for the angular frequency.
+		</p>
+	</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Calculate the current as a function of time.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Graph the current as a function of time.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Resolve any inconsistencies between your graph and your previous answers.
+			</p>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Make sense of your graph by considering how it would change if you made changes to each of these three quantities: <m>C</m>, <m>L</m>, <m>Q_o</m>.
+			</p>
+		</statement>
+	</task>
+</activity>
+			
+<activity>
+	<title>Harmonic Motion Analogy</title>
+	<introduction>
+		<p></p>
+	<p>
+		The following two systems are both examples of simple harmonic motion: <xref ref="mass_spring"/> and <xref ref="x_fig_LC"/>
+	</p>
+	</introduction>
+	<task>
+	<statement>
+		<p>
+			Write the Law of Motion for the block on a spring and represent it as the differential equation for simple harmonic motion
+		</p>
+	</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				Use the block on a spring as an analogy for the LC circuit:
+			</p>
+			<ul>
+				<li>
+					<p>
+						What feature of the block on a spring is the capacitance analogous to?
+					</p>
+				</li>
+				<li>
+					<p>
+						What feature of the block on a spring is the inductance analogous to?
+					</p>
+				</li>
+			</ul>
+		</statement>
+	</task>
+	<task>
+		<statement>
+			<p>
+				For each system, explicitly identify any important assumptions you are making.
+			</p>
+		</statement>
+	</task>
+</activity>
+	
+
+
+
+  
+
+	
+<!--NO AI-->
+</section>
+

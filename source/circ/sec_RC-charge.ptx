@@ -12,7 +12,7 @@
 							<p>The circuit below contains a battery, a resistor, a switch, and a capacitor. The capacitor is initially uncharged and the voltage of the battery is <m>V</m>.</p>
 					
 					<figure xml:id="RC1">
-			  <title>Light Bulb and Capacitor Circuit Diagram</title>
+			  <title>RC Circuit Diagram</title>
 			<caption>A circuit diagram with both a resistor and a capacitor.</caption>
 			<image source="RC-circuit.png" width = "50%" ><description>A circuit diagram with a battery, open switch, resistor, and capacitor.</description></image>
 		</figure>
@@ -77,6 +77,7 @@
 		<me>\frac{dQ(t)}{dt} = \frac{V}{R} - \frac{Q(t)}{RC}</me>
 		You can solve this differential equation to find the charge on the capacitor as a function of time:
 		<me>Q(t) = CV \left(1 - e^{-t/RC}\right)</me>
+		<me>I(t) = \frac{dQ}{dt} = \frac{V}{R} e^{-t/RC}</me>
 	</p>
 
 	<activity>
