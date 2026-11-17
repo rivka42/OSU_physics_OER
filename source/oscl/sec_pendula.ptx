@@ -10,7 +10,7 @@
 			 <figure xml:id="fig_pendulum">
 <title>Pendulum Figure</title>
     	<caption>A simple pendulum.</caption>
-    		<image source="pendulum.png" width = "15%" ></image>
+    		<image source="pendulum.png" width = "15%" ><description>A simple pendulum shown as a small circle at the end of the string of length L, displaced from vertical by an angle theta-i.</description></image>
     </figure>
 			
 		<subsubsection>
@@ -27,7 +27,7 @@
 			<figure xml:id="pendulumFBD">
 <title>Pendulum Free-body Diagram</title>
     	<caption>A free-body diagram for a simple pendulum.</caption>
-    		<image source="pendulumFBD.png" width = "15%" ></image>
+    		<image source="pendulumFBD.png" width = "15%" ><description>A free-body diagram for the pendulum, showing a downward Fg and a tension force FT that is up and to the left.</description></image>
     </figure>
 		</solution>
 		</task>
@@ -108,7 +108,7 @@ The string has length <m> L </m> and the mass is initially pulled out an angle <
 <figure xml:id="pendulum">
 <title>Simple Pendulum Figure</title>
     	<caption>A pictorial representation of a simple pendulum and an accompanying free-body diagram.</caption>
-    		<image source="oscillate/pend_FBD.png" width = "100%" ></image>
+    		<image source="oscillate/pend_FBD.png" width = "100%" ><description>Left: A simple pendulum shown as a small circle with mass m at the end of the string of length L, displaced from vertical by an angle theta.  Right: A free-body diagram for the pendulum, showing a downward Fg and a tension force FT that is up and to the left.  The net force is shown as the sum of the two forces, down and to the left.</description></image>
     </figure>
 
 <p>

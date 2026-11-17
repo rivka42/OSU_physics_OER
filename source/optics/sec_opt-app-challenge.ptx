@@ -31,7 +31,7 @@
 			<figure>
 			<title>Mask with Two Slits</title>
             <caption>A mask with two slits.</caption>
-            <image source="Masks.png" width = "75%"><description></description></image>
+            <image source="Masks.png" width = "75%"><description>A horizontal mask with two slits, each width s/4, separated by distance s.</description></image>
           </figure>
 		</statement>
 	</project>

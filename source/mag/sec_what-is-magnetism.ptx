@@ -99,15 +99,34 @@
 	<subsubsection>
 		<title>Activities</title>
 		<p>The experiments below will help answer some of the model questions posed in the video above.</p>
-		<activity>
+		<activity xml:id="x_cutting-magnet">
       <title>Cutting a Magnet in Half</title>
       
 		<statement>
 			<p></p><p>Make a prediction about what you think happens if you cut a magnet in half.  Then watch the following video in the answer to check your prediction.</p>
-</statement>
-<answer>
-	<url href="https://www.youtube.com/watch?v=q0d_SS-0Puk">What happens when you cut a magnet in half?</url>
-			</answer>
+		</statement>
+		<answer>
+			<url href="https://www.youtube.com/watch?v=q0d_SS-0Puk">What happens when you cut a magnet in half?</url>
+		</answer>
+		<solution>
+			<p>
+				The results of this empirical consequence can be summarized by a magnetic version of <xref ref="p_gauss"/>!
+			</p>
+			<principle xml:id="p_gauss-m">
+		<title>Gauss's Law for Magnetism</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>The net magnetic flux through any <em>closed</em> surface is zero: 
+				<me>\Phi_B = 0</me>
+				<me>\unicode{x222F}_{S} \vec{B}\cdot d\vec{A} = 0</me></p>
+				<p>
+		The closed circle on the integral symbol indicates that this is an integral over a closed surface.  This law asserts that there are no magnetic monopoles, and thus no magnetic fields created by them.  A consequence of this law is that magnetic fields <alert>never</alert> point directly away from or directly toward a source, as with the <xref ref="fig_source-E"/>.
+	</p>
+		</statement>
+	</principle>
+		</solution>
 		</activity>
 		<activity>
       <title>Magnetic Grapes</title>

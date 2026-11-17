@@ -18,16 +18,21 @@
 
   <subsubsection><title>Key Ideas</title></subsubsection>
 	
-	<principle>
+	<principle xml:id="p_gauss">
 		<title>Gauss's Law</title>
 		<statement>
 			<p>
 				
 			</p>
-			<p>The net electric flux through any <em>closed</em> surface is proportional to the charge enclosed by that surface: <me>\Phi_E = \frac{Q_{enc}}{\epsilon_0}</me><me>\unicode{x222F}_{S} \vec{E}\cdot d\vec{A} = \frac{Q_{enc}}{\epsilon_0}</me></p>
-				<p>
-		The closed circle on the integral symbol indicates that this is an integral over a closed surface.  The symbol <m>\epsilon_0</m> is the <xref ref="notation-permittivity"/> and is related to the electrostatic constant <m>k</m>.
-	</p>
+			<p>The net electric flux through any <em>closed</em> surface is proportional to the charge enclosed by that surface: 
+			<me>\Phi_E = \frac{Q_{enc}}{\epsilon_0}</me>
+			<me>\unicode{x222F}_{S} \vec{E}\cdot d\vec{A} = \frac{Q_{enc}}{\epsilon_0}</me></p>
+			<p>
+				The closed circle on the integral symbol indicates that this is an integral over a closed surface.  The symbol <m>\epsilon_0</m> is the <xref ref="notation-permittivity"/> and is related to the electrostatic constant <m>k</m>.
+			</p>
+			<p>
+				Gauss's Law governs how electric charges create electric fields.  All other rules about the creation of electric fields by electric charges, such as the <xref ref="point_charge"/>, ultimately come from Gauss's Law.  These electric fields are source-like: they point directly away from or directly toward electric charge, as shown in the <xref ref="fig_source-E"/>.
+			</p>
 		</statement>
 	</principle>
 	

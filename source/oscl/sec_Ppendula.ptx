@@ -9,7 +9,7 @@ A pendulum does not need to be a simple mass on a string. In fact, many objects 
     <figure xml:id="Ppendulum">
 <title>Rigid-body Pendulum Figure</title>
     	<caption>A rigid-body pendulum.</caption>
-    		<image source="oscillate/Ppend2.png" width = "75%" ></image>
+    		<image source="oscillate/Ppend2.png" width = "75%" ><description>A physical pendulum represented as a long rectangle with mass M, displaced from vertical by an angle theta.  The center of mass is at the middle of the rectangle a distance L from the pivot point, and Fg acts downward on the center of mass.</description></image>
     </figure>
     
 <p>

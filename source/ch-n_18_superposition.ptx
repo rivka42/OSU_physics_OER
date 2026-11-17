@@ -24,7 +24,7 @@
 </objectives>
 
     <!--INTRODUCTORY SECTIONS-->
-
+    
 
 		<!--PREPARE SECTIONS-->
     <xi:include href="./wave/sec_superposition_waves.ptx" />

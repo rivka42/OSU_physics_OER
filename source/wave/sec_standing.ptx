@@ -42,7 +42,7 @@
 	    <figure xml:id="standing-pos">
 			  <title>Standing Waves Figure</title>
     	<caption>The superposition of two traveling waves creating a standing wave.</caption>
-    		<image source="wave/standing-pos.gif" width = "75%" ></image>
+    		<image source="wave/standing-pos.gif" width = "75%" ><description>A short video showing standing wave superposition.  Top: a rightward wave.  Middle: a leftward wave.  Bottom: superposition of the two waves.</description></image>
     </figure>
 		
 		<p>The term standing wave is used because, rather than traveling from side to side, the wave appears to stand in place, with some locations remaining always fixed (these are known as <term>nodes</term>) and other locations oscillating strongly (these are known as <term>anti-nodes</term>).</p>

@@ -47,7 +47,7 @@ Since electric fields are vector fields, electric field lines never cross. If th
   </p>
   
   <figure xml:id="e_field_pos">
-		<title>Electric field of a positive point charge</title>
+		<title>Electric Field Lines for a Positive Point Charge</title>
     	<caption>
 	A visualization of the electric field of a positive point charge.
 	</caption>
@@ -57,7 +57,7 @@ Since electric fields are vector fields, electric field lines never cross. If th
 </figure>
 
  <figure xml:id="e_field_neg">
-		<title>Electric field of a negative point charge</title>
+		<title>Electric Field Lines for a Negative Point Charge</title>
     	<caption>
 	A visualization of the electric field of a negative point charge.
 	</caption>

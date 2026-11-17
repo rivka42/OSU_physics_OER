@@ -41,8 +41,6 @@
     <xi:include href="./oscl/sec_kinematicsHM.ptx" /> 
     <xi:include href="./oscl/sec_energyHM.ptx" /> 
     <xi:include href="./oscl/sec_circularHM.ptx" /> 
-
-		
     
     <!--PRACTICE SECTIONS-->
     <xi:include href="./oscl/sec_smallA.ptx" />

@@ -30,7 +30,7 @@
 		<figure xml:id="damped_hw">
 		<title>Damped Spring Motion Graph</title>
     	<caption>The position as a function of time for an oscillator.</caption>
-    		<image source="oscillate/DampedHW.png" width = "100%" ></image>
+    		<image source="oscillate/DampedHW.png" width = "100%" ><description>A graph of y in cm vs. t in s.  The graph starts at -6 and oscillates with decaying amplitude.  At t = 5 s, the graph has returned to a local minimum at about y = -4.</description></image>
     </figure>
 </introduction>
 <task>

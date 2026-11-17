@@ -48,6 +48,9 @@
             </p>
           </li>
         </ul>
+        <p>
+          Faraday's Law governs how <em>changing magnetic fields</em> create electric fields.  This is a different way of making electric fields than the presence of stationary charges (as in Gauss's Law), and it makes electric fields that circulate rather than pointing to or from a source.
+        </p>
         <figure xml:id="fig_InducedE">
 			<title>Induced Electric Field Figure</title>
     		<caption><alert>Example:</alert> vector map for the induced electric field created by a changing magnetic field.</caption>

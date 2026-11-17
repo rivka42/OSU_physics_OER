@@ -119,7 +119,7 @@
                 <figure xml:id="fig_intensity-graph-interference">
 			<title>2-Slit Interference Intensity Pattern</title>
         <caption>Intensity graph for two extremely narrow slits.</caption>
-        <image source="2SI-Intensity.png"><description></description></image>
+        <image source="2SI-Intensity.png"><description>A graph of I vs. y.  The graph oscillates between zero and a positive maximum, with a central max at y = 0.</description></image>
     </figure>
 			</statement>
 		</conjecture>

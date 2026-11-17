@@ -16,9 +16,11 @@
 	</objectives>
 
 	<!--INTRODUCTORY SECTIONS-->
-
+	<xi:include href="./mag/sec_electrodynamics.ptx" />
 
 	<!--PREPARE SECTIONS-->
+	<xi:include href="./mag/sec_displacement-current.ptx" />
+	<xi:include href="./mag/sec_maxwell.ptx" />
 
 
 

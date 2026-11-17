@@ -15,7 +15,9 @@
 			<p>
 				
 			</p>
-			<p>The <term>Lorentz Force</term> is defined as the sum of the electric and magnetic forces on a charge <me>\vec{F} = q\vec{E} + q\vec{v}\times\vec{B}</me></p> 
+			<p>The <term>Lorentz Force</term> is defined as the sum of the electric and magnetic forces on a charge 
+				<me>\vec{F} = q\vec{E} + q\vec{v}\times\vec{B}</me>
+			</p> 
 			<!-- include l * (I x B) ?-->
 		</statement>
 	</definition>

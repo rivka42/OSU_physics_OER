@@ -106,10 +106,23 @@ The constant <m> \epsilon_{0} </m> (pronounced <q>epsilon naught</q>) is a const
 	<title>Activities</title>
 	<activity>
 		<title>Electric Field Vector Maps</title>
+		<statement>
 			<p>
 			
 			</p>
 			<p>Recall <xref ref="x_graphing-r-hat"/>, in which you made a 2D-map of a vector field.  The vector field you mapped is proportional to <m>\hat{r}</m>! Map this vector field and describe how this vector field changes (or stays the same) at different points in space.  What do you think the map would look like if you could make it three-dimensional?</p>
+		</statement>
+		<answer>
+			<figure xml:id="fig_source-E">
+		<title>Electric Field Vector Map for a Positive Point Charge</title>
+    	<caption>
+		A visualization of the electric field of a positive point charge.
+		</caption>
+    		<image source="SourceE.png" width = "60%" >
+				<description>Electric field vectors pointing outward in all directions from a positive charge.</description>
+			</image>
+</figure>
+		</answer>
 		</activity>
 		
 		

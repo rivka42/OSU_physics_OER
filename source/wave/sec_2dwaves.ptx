@@ -55,7 +55,7 @@
 				  <figure xml:id="two-d-waves">
 			  <title>Overlapping Circular Waves Figure</title>
 		 <caption>Two overlapping circular waves.</caption>
-		<image source="2Source-3.png" width = "100%"></image>
+		<image source="2Source-3.png" width = "100%"><description>Two overlapping series of concentric circles.  The centers of the circles are separated by three wavelengths.</description></image>
   </figure>
 	
 				<activity>

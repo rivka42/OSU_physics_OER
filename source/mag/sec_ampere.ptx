@@ -18,16 +18,20 @@
 
   <subsubsection><title>Key Ideas</title></subsubsection>
 	
-	<definition>
+	<definition xml:id="def_ampere">
 		<title>Ampère's Law</title>
 		<statement>
 			<p>
 				
 			</p>
-			<p><term>Ampère's Law</term> relates the magnetic field around a closed curve to the current passing through the region bounded by the curve: <me>\oint_S \vec{B}\cdot d\vec{l} = \mu_0 I_{enclosed}</me></p>
-				<p>
-					This is a line integral, like the integral for <xref ref="e_to_v"/>. The circle over the integral symbol indicates that this is an integral over a <em>closed path</em>: when this is true, the line integral is known as the <term>circulation</term> of the magnetic field.
-				</p>
+			<p><term>Ampère's Law</term> relates the magnetic field around a closed curve to the current passing through the region bounded by the curve: 
+			<me>\oint_S \vec{B}\cdot d\vec{l} = \mu_0 I_{enclosed}</me></p>
+			<p>
+				This is a line integral, like the integral for <xref ref="e_to_v"/>. The circle over the integral symbol indicates that this is an integral over a <em>closed path</em>: when this is true, the line integral is known as the <term>circulation</term> of the magnetic field.
+			</p>
+			<p>
+				Ampère's Law governs how <em>currents</em> (made of moving electric charges) create magnetic fields.  All other rules about the creation of magnetic fields by currents, such as the <xref ref="def_mag-current"/>, ultimately come from Ampère's Law.  Magnetic fields always circulate around the current, as shown in the <xref ref="x_fig_mag-full"/>.
+			</p>
 		</statement>
 	</definition>
 

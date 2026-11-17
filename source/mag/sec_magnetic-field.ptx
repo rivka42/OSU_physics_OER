@@ -49,7 +49,7 @@
 	
 	<p>As with electric fields, magnetic fields exist everywhere in space.  Many things can create magnetic fields, including electric currents.</p>
 
-	<definition>
+	<definition xml:id="def_mag-current">
 		<title>Magnetic Field Created by a Current</title>
 		<statement>
 			<p>
@@ -156,7 +156,7 @@
 			</statement>
 			<answer>
 			<figure xml:id="x_fig_mag-full">
-			<title>Magnetic Wire Figure</title>
+			<title>Magnetic Field Vector Map for a Current-carrying Wire</title>
     		<caption>A magnetic field vector map for a long straight wire.  The field points in a counter-clockwise direction and gets smaller as you get farther from the wire.</caption>
     		<image source="MagWire-full.png" width = "100%" ><description>Two gray circles centered on a circle with a dot representing a current directed out of the screen.  On each circle are eight vectors that each point in a straight line tangent to the circle in a counterclockwise direction.  The vectors on the bigger circle have a smaller length.</description></image>
 		</figure>

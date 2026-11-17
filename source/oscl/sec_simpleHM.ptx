@@ -75,7 +75,7 @@
 <figure xml:id="pendulum_gif">
  <title>Pendulum Figure</title>
      	<caption>A simple pendulum oscillates around its equilibrium position.</caption>
-    		<image source="oscillate/pendulum.gif" width = "50%" ></image>
+    		<image source="oscillate/pendulum.gif" width = "50%" ><description>A pendulum made of a small sphere at the end of a string swings back and forth.</description></image>
     </figure>
 
 <p>

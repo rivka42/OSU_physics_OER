@@ -20,7 +20,7 @@
     <figure xml:id="superP">
 			  <title>Pulse Superposition Figure</title>
     	<caption>The superposition of two wave pulses.</caption>
-    		<image source="wave/superP.gif" width = "75%" ></image>
+    		<image source="wave/superP.gif" width = "75%" ><description>Two curved wave pulses on a string: the left pulse, moving to the right, is taller than the right pulse, moving to the left.  The pulses move, meet in the middle, and continue in their original directions.</description></image>
     </figure>
 	</answer>
 	</activity>
@@ -61,7 +61,7 @@
     	<caption>
 	Two wave pulses moves toward each other.
 	</caption>
-    	<image source="WavePulse2.png" width = "75%" ></image>
+    	<image source="WavePulse2.png" width = "75%" ><description>Two wave pulses made of straight lines on a string on a gridded background: the left pulse, moving to the right, starts two boxes to the right and two boxes up, then one box to the right and two boxes down.  The right pulse is reversed.</description></image>
 </figure>	
 <activity>
 <statement>
@@ -74,7 +74,7 @@
     	<caption><p>
 	The two wave pulses overlap and add by superposition.  Note that the displacements add separately at every position, so in the outer regions, where one pulse has a displacement of zero, the spring matches the displacement of the other pulse<mdash/>only in the region where both pulses have nonzero displacement does the spring have a greater displacement!</p>
 	</caption>
-    	<image source="WavePulse2_sol.png" width = "75%" ></image>
+    	<image source="WavePulse2_sol.png" width = "75%" ><description>Two wave pulses meet at one instant in time: the left pulse starts two boxes to the right and two boxes up, then one box to the right and two boxes down.  The right pulse is reversed.  The superposition of the pulses is drawn: from left to right, it starts one box to the right and one box up, then one box to the right and three boxes up, then one box to the right and three boxes down, and finally one box to the right and one box down.</description></image>
 </figure>	
 </answer>
 </activity>
@@ -85,7 +85,7 @@
     	<caption>
 	Two wave pulses moves toward each other.
 	</caption>
-    	<image source="WavePulse3.png" width = "75%" ></image>
+    	<image source="WavePulse3.png" width = "75%" ><description>Two wave pulses made of straight lines on a string on a gridded background: the left pulse, moving to the right, starts two boxes to the right and two boxes down, then two boxes to the right and two boxes up.  The right pulse is upright and moves to the left.</description></image>
 </figure>	
 <activity>
 <statement>

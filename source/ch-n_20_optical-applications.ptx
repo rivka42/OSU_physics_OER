@@ -31,7 +31,7 @@
 
 
 	<!--INTRODUCTORY SECTIONS-->
-
+	<description></description>
 
 	<!--PREPARE SECTIONS-->
 	<xi:include href="./optics/sec_combined.ptx" />

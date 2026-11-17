@@ -21,7 +21,7 @@
 				<figure xml:id="overlapping-waves">
 			  <title>Overlapping Circular Waves Figure</title>
 		 <caption>Two overlapping circular waves.</caption>
-		<image source="2Source-4.png" width = "100%"></image>
+		<image source="2Source-4.png" width = "100%"><description>Two overlapping series of concentric circles.  Each series alternates between solid and dashed lines.  The centers of the circles are separated by two and a half wavelengths.</description></image>
   </figure>
 			</introduction>
 			<task>
@@ -52,7 +52,7 @@
 				<figure xml:id="overlapping-waves2">
 			  <title>Overlapping Circular Waves Figure 2</title>
 		 <caption>Two overlapping circular waves with several points marked.</caption>
-		<image source="2Source-5.png" width = "100%"></image>
+		<image source="2Source-5.png" width = "100%"><description>Two overlapping series of concentric circles.  Each series alternates between solid and dashed lines.  The centers of the circles are separated by two and a half wavelengths.  Point A is middle-top at the intersection of two crests.  Going to the right and somewhat down are point B at a crest-trough, point C at a trough-trough, point D at a crest-trough, point E at a crest-crest, and finally point F at a crest-trough along the horizontal line through the centers of the circles.</description></image>
   </figure>
 			</introduction>
 			<task>
@@ -77,7 +77,7 @@
 				<figure xml:id="overlapping-waves3">
 			  <title>Overlapping Circular Waves Figure 3</title>
 		 <caption>Two overlapping circular waves with interference lines marked.</caption>
-		<image source="2Source-6.png" width = "100%"></image>
+		<image source="2Source-6.png" width = "100%"><description>Two overlapping series of concentric circles.  Each series alternates between solid and dashed lines.  The centers of the circles are separated by two and a half wavelengths.  On top of the circles is an overlay of nodal lines in black and antinodal lines in orange, each of which has a hyperbolic shape connecting points of destructive and constructive interference, respectively.</description></image>
   </figure>
 
   
