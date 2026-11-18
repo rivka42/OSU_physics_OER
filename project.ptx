@@ -41,12 +41,14 @@
     <latex>latex</latex>
     <pdflatex>pdflatex</pdflatex>
     <xelatex>xelatex</xelatex>
-    <pdfsvg>pdf2svg</pdfsvg>
     <asy>asy</asy>
     <sage>sage</sage>
-    <pdfpng>convert</pdfpng>
     <pdfeps>pdftops</pdfeps>
     <node>node</node>
+    <!-- These have apparently been deprecated
     <liblouis>file2brl</liblouis>
+    <pdfsvg>pdf2svg</pdfsvg>
+    <pdfpng>convert</pdfpng>
+    -->
   </executables>
 </project>

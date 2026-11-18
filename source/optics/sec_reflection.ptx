@@ -36,7 +36,7 @@
         <title>The Law of Reflection</title>
         <statement>
             <p></p>
-          <p>For a ray of light incident on a flat mirror, the reflected angle <m>\theta_{r}</m> is equal to the incident angle <m>\theta_{i}</m>, both measured from the line normal to the surface: <me>\theta_{r} = \theta_{i}</me>
+          <p>For a ray of light incident on a flat mirror, the reflected angle <m>\theta_{r}</m> is equal to the incident angle <m>\theta_{i}</m>, both measured from the line normal to the surface: <md>\theta_{r} = \theta_{i}</md>
             <figure xml:id="reflection">
 			<title>Reflection Figure</title>
                 <caption>A diagram of the Law of Reflection.</caption>

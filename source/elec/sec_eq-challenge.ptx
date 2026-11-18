@@ -17,9 +17,9 @@
 		<title>Infinite Wires</title>
 		<statement><p></p>
 			<p>
-				Two infinite wires are located parallel to the y-axis. One wire has uniform charge density <m>+\lambda</m> and is located at <m>x = +x_o</m>. The other wire has uniform charge density <m>-\lambda</m> and is located at <m>x = -x_o</m>. The electric potential in the <m>xy</m>-plane for this system is given by: <me>
+				Two infinite wires are located parallel to the y-axis. One wire has uniform charge density <m>+\lambda</m> and is located at <m>x = +x_o</m>. The other wire has uniform charge density <m>-\lambda</m> and is located at <m>x = -x_o</m>. The electric potential in the <m>xy</m>-plane for this system is given by: <md>
 					V(x, y) = 2k \lambda \ln{|x + x_o |} - 2k \lambda \ln{|x-x_o |} = 2k \lambda \ln{| \frac{x + x_o }{x - x_o} |}
-				</me>
+				</md>
 				Calculate the electric field at every point in the <m>xy</m>-plane.
 			</p>
 

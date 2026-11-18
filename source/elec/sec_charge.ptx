@@ -48,7 +48,7 @@
 
     <li><alert>Charge is conserved</alert>. Charge can neither be created nor destroyed; it can only be transferred from one location in space to another, or from one object to another. <!--The net charge of the universe, or of any closed, isolated system is constant. This is referred to as the <alert>law of conservation of charge</alert>. --> </li>
 
-    <li><p><alert>Charge is quantized</alert>. Electric charge, which is measured in coulombs, occurs in discrete, integer multiples of the <em>fundamental unit of charge</em> <me>e \equiv 1.602 \times 10^{-19} \mathrm{~C}</me> <!--No free particle can have less charge than this. Therefore, the charge on any object must be an integer multiple of this amount.--> The charge on a single proton is <m> +e </m> and the charge on a single electron is <m> -e </m>. All macroscopic, charged objects have charge because electrons have either been added or taken away from them, resulting in a net positive or negative overall charge.</p></li>
+    <li><p><alert>Charge is quantized</alert>. Electric charge, which is measured in coulombs, occurs in discrete, integer multiples of the <em>fundamental unit of charge</em> <md>e \equiv 1.602 \times 10^{-19} \mathrm{~C}</md> <!--No free particle can have less charge than this. Therefore, the charge on any object must be an integer multiple of this amount.--> The charge on a single proton is <m> +e </m> and the charge on a single electron is <m> -e </m>. All macroscopic, charged objects have charge because electrons have either been added or taken away from them, resulting in a net positive or negative overall charge.</p></li>
       </ul>
 
       <table xml:id="charge-table">
@@ -64,13 +64,13 @@
     </row>
     <row>
       <cell>Electron</cell>
-      <cell><me>-1.602 \times 10^{-19}</me></cell>
-      <cell><me>9.11 \times 10^{-31}</me></cell>
+      <cell><md>-1.602 \times 10^{-19}</md></cell>
+      <cell><md>9.11 \times 10^{-31}</md></cell>
     </row>
     <row>
       <cell>Proton</cell>
-      <cell><me>+1.602 \times 10^{-19}</me></cell>
-      <cell><me>1.67 \times 10^{-27}</me></cell>
+      <cell><md>+1.602 \times 10^{-19}</md></cell>
+      <cell><md>1.67 \times 10^{-27}</md></cell>
     </row>
   </tabular>
 </table>

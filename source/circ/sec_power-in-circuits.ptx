@@ -28,9 +28,9 @@
 			<p>
 				
 			</p>
-			<p>The <term>Power</term> dissipated in a circuit element is the current <m>I</m> flowing through the resistor multiplied by the voltage <m>V</m>: <me>P = IV</me> </p>
+			<p>The <term>Power</term> dissipated in a circuit element is the current <m>I</m> flowing through the resistor multiplied by the voltage <m>V</m>: <md>P = IV</md> </p>
 				<p>
-					If you know the resistance of the circuit element, this expression may be rewritten as follows: <me>P = I^2R = \frac{V^2}{R}</me>
+					If you know the resistance of the circuit element, this expression may be rewritten as follows: <md>P = I^2R = \frac{V^2}{R}</md>
 				</p>
 		</statement>
 	</definition>

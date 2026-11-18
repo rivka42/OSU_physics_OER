@@ -18,7 +18,7 @@ An electric dipole is a system consisting of a positively charged particle and a
 			</p>
 			
 			<p>
-The electric dipole moment <me> |\vec{p}| = qd </me> is the vector that points from the negative charge to the positive charge and has magnitude <m> qd </m> which is the charge of the positive particle multiplied by the distance between the positive and negative charges.  
+The electric dipole moment <md> |\vec{p}| = qd </md> is the vector that points from the negative charge to the positive charge and has magnitude <m> qd </m> which is the charge of the positive particle multiplied by the distance between the positive and negative charges.  
 			</p>
 		</statement>
 </definition>
@@ -108,7 +108,7 @@ Considering the principle of superposition, if you are at a point on the positiv
 			<li>
 			Check the units of your expression to make sure it has the correct units of electric field. 
 			</li>
-			<li> Use an appropriate approximation technique to show that if <m> y \gg d </m> meaning that if the distance from the center of the dipole is much, much greater than the separation between the charges making up the dipole, the electric field can be represented mathematically as <me> \vec{E}(y) \approx \frac{1}{4 \pi \epsilon_0} \frac{2\vec{p}}{y^3}</me>
+			<li> Use an appropriate approximation technique to show that if <m> y \gg d </m> meaning that if the distance from the center of the dipole is much, much greater than the separation between the charges making up the dipole, the electric field can be represented mathematically as <md> \vec{E}(y) \approx \frac{1}{4 \pi \epsilon_0} \frac{2\vec{p}}{y^3}</md>
 			</li>
 			<li>
 			Describe a physical situation where making the approximation that <m> y \gg d </m> is reasonable. Note that, generally, if <m>y</m> is about three to four <em> orders of magnitude larger</em> than <m> d </m>, this approximation is a good approximation. 
@@ -146,7 +146,7 @@ Considering the principle of superposition, if you are at a point on the positiv
 			<li>
 			Check the units of your expression to make sure it has units of electric field. 
 			</li>
-			<li> Use an appropriate approximation technique to show that if <m> x \gg d </m> meaning that if the distance from the center of the dipole is much, much greater than the separation between the charges making up the dipole, the electric field can be represented mathematically as <me> \vec{E}(x) \approx -\frac{1}{4 \pi \epsilon_0} \frac{\vec{p}}{x^3}</me>
+			<li> Use an appropriate approximation technique to show that if <m> x \gg d </m> meaning that if the distance from the center of the dipole is much, much greater than the separation between the charges making up the dipole, the electric field can be represented mathematically as <md> \vec{E}(x) \approx -\frac{1}{4 \pi \epsilon_0} \frac{\vec{p}}{x^3}</md>
 			</li>
 			</ol>
 		</p>

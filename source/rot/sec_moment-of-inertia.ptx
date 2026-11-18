@@ -33,7 +33,7 @@
 	<definition>
 	<title>Moment of Inertia for Discrete Objects</title>
 	<statement><p></p>
-		<p>The <term>moment of inertia</term> of a rigid object is its capacity to resist changes to its angular motion.  For a set of discrete objects, it can be found as a weighted average of the distance from the axis of rotation squared: <me>I = \sum_{i} m_ir_i^2</me></p>
+		<p>The <term>moment of inertia</term> of a rigid object is its capacity to resist changes to its angular motion.  For a set of discrete objects, it can be found as a weighted average of the distance from the axis of rotation squared: <md>I = \sum_{i} m_ir_i^2</md></p>
 	</statement>
 </definition>
 
@@ -61,7 +61,7 @@
 				</statement>
 				<solution>
 					<p>
-						There are a couple ways you could do this. You could directly calculate the moment of inertia, if you knew something about what weights were on the barbell and where they were located. Then you could use <me>\Sigma_i m_i r_i^2 = m_1 r_1^2 + m_2 r_2^2</me>
+						There are a couple ways you could do this. You could directly calculate the moment of inertia, if you knew something about what weights were on the barbell and where they were located. Then you could use <md>\Sigma_i m_i r_i^2 = m_1 r_1^2 + m_2 r_2^2</md>
 						</p>
 				</solution>
 			</activity>

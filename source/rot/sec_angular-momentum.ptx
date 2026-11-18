@@ -16,7 +16,7 @@
 	<definition>
 	<title>Angular Momentum for a Rigid Object</title>
 	<statement><p></p>
-		<p>The <term>angular momentum</term> of a rigid object about a given axis is the product of the object's moment of inertia and angular velocity about that axis: <me>\vec{L} = I\vec{\omega}</me></p>
+		<p>The <term>angular momentum</term> of a rigid object about a given axis is the product of the object's moment of inertia and angular velocity about that axis: <md>\vec{L} = I\vec{\omega}</md></p>
 	</statement>
 </definition>
 
@@ -25,7 +25,7 @@
 	<definition>
 	<title>Angular Momentum for a Point Particle</title>
 	<statement><p></p>
-		<p>The <term>angular momentum</term> of a point particle about a given axis is the cross product between the object's position and its translational momentum: <me>\vec{L} = \vec{r} \times \vec{p}</me></p>
+		<p>The <term>angular momentum</term> of a point particle about a given axis is the cross product between the object's position and its translational momentum: <md>\vec{L} = \vec{r} \times \vec{p}</md></p>
 	</statement>
 </definition>
 

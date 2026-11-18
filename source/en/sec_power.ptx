@@ -22,7 +22,7 @@
 	<title>Power</title>
 	<statement>
 		<p></p>
-	<p>The time rate of change of energy is known as <term>power</term>: <me>P = \frac{dE}{dt}</me>  Power is measured in watts (W).</p>
+	<p>The time rate of change of energy is known as <term>power</term>: <md>P = \frac{dE}{dt}</md>  Power is measured in watts (W).</p>
 	</statement>
 	</definition>
 

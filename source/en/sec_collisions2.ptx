@@ -103,7 +103,7 @@
 	<task>
 		<statement>
 			<p>
-				The final speeds of the rocks are given by: <me>v_m=\frac{m-M}{m+M}v</me><me>v_M=\frac{2m}{m+M}v</me>
+				The final speeds of the rocks are given by: <md>v_m=\frac{m-M}{m+M}v</md><md>v_M=\frac{2m}{m+M}v</md>
 				Evaluate these expressions in the special cases you came up with previously.  Were your predictions correct?
 			</p>
 		</statement>

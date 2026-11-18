@@ -46,8 +46,8 @@
                 
             </p>
             <p>
-                A particle with mass has a wavelength <me>\lambda = \frac{h}{p}</me>  
-                Suppose that the this equation were also valid for a photon, which is massless and has energy given by <me>E = \frac{hc}{\lambda}</me>  
+                A particle with mass has a wavelength <md>\lambda = \frac{h}{p}</md>  
+                Suppose that the this equation were also valid for a photon, which is massless and has energy given by <md>E = \frac{hc}{\lambda}</md>  
             </p>
         </introduction>
             <task>
@@ -60,7 +60,7 @@
             <task>
                 <statement>
                     <p>
-                        The special theory of relativity expresses the following relationship between energy and momentum for all particles: <me>E^2 = (pc)^2 + (mc^2)^2</me>  
+                        The special theory of relativity expresses the following relationship between energy and momentum for all particles: <md>E^2 = (pc)^2 + (mc^2)^2</md>  
                         Show that this equation agrees with the relationship you found above for a massless photon.
                     </p>
                 </statement>

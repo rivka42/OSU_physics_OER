@@ -88,7 +88,7 @@
 		</p>
 		<p>
 			The electric field due to the infinite plate with charge density <m>\sigma</m> shown in the figure below has uniform magnitude and points perpendicular to the plate: 
-			<me>\vec{E} = \frac{\sigma}{2\epsilon_0}\hat{z}</me>
+			<md>\vec{E} = \frac{\sigma}{2\epsilon_0}\hat{z}</md>
 		</p>
 		<figure xml:id="fig_class-eq-plate">
 			  <title>Plate Diagram</title>
@@ -127,7 +127,7 @@
 		<task>
 			<statement>
 				<p>
-					What happens to the potential if you travel the path: <me>A \rightarrow B \rightarrow C \rightarrow D \rightarrow A</me>
+					What happens to the potential if you travel the path: <md>A \rightarrow B \rightarrow C \rightarrow D \rightarrow A</md>
 
 				</p>
 			</statement>

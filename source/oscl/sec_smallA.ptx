@@ -8,9 +8,9 @@
 <p>
 	Most functions can be expanded into an infinite sum of polynomials for the purpose of approximating them (his is called a series expansion).  The full series expansions for sine and cosine when the angle is close to <m>\theta = 0</m> are:
 
-<me> \sin(\theta) = \sum^\infty_{n=0} \frac{(-1)^n}{2n+1}\theta^{2n+1} = \theta - \frac{\theta^3}{3!}+\frac{\theta^5}{5!} -\frac{\theta^7}{7!}-....</me>
+<md> \sin(\theta) = \sum^\infty_{n=0} \frac{(-1)^n}{2n+1}\theta^{2n+1} = \theta - \frac{\theta^3}{3!}+\frac{\theta^5}{5!} -\frac{\theta^7}{7!}-....</md>
 
-<me> \cos(\theta) = \sum^\infty_{n=0} \frac{(-1)^n}{2n}\theta^{2n} = 1 - \frac{\theta^2}{2!}+\frac{\theta^4}{4!} -\frac{\theta^6}{6!}-....</me>
+<md> \cos(\theta) = \sum^\infty_{n=0} \frac{(-1)^n}{2n}\theta^{2n} = 1 - \frac{\theta^2}{2!}+\frac{\theta^4}{4!} -\frac{\theta^6}{6!}-....</md>
 
 Both expressions above are valid only when <m>\theta</m> is measured in radians.  The small-angle approximation considers only the first nontrivial term in the sum.
 </p>
@@ -22,10 +22,10 @@ Both expressions above are valid only when <m>\theta</m> is measured in radians.
 		</p>
 		<p>
 		 For sufficiently small angles, sine and cosine may be approximated as:
-<me> \sin(\theta) \approx \theta</me>
-<me> \cos(\theta) \approx 1 - \frac{\theta^2}{2!}</me>
+<md> \sin(\theta) \approx \theta</md>
+<md> \cos(\theta) \approx 1 - \frac{\theta^2}{2!}</md>
 		Similarly, tangent may be approximated as:
-		<me> \tan(\theta) \approx \theta</me>
+		<md> \tan(\theta) \approx \theta</md>
 		</p>
 	</statement>
 </assumption>
@@ -67,13 +67,13 @@ We should always take time to think about and determine the error associated wit
 		<answer>
 			<p>
 				Here are the answers for <m>\cos{30^o}</m>:
-				<me>
+				<md>
 					\cos{30^o} = \frac{\sqrt{3}}{2} \approx 0.866
-				</me>
-				<me>
+				</md>
+				<md>
 					\cos{30^o} \approx 1 - \frac{(\pi/6)^2}{2!} \approx 0.863
-				</me>
-				The percent difference is <me>\frac{0.863 - 0.866}{0.866} \approx -0.36\%</me>
+				</md>
+				The percent difference is <md>\frac{0.863 - 0.866}{0.866} \approx -0.36\%</md>
 				Here the negative indicates that the approximation is <em>smaller</em> than the true value of cosine.
 			</p>
 		</answer>

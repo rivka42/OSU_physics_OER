@@ -25,8 +25,8 @@
 				
 			</p>
 			<p>The net electric flux through any <em>closed</em> surface is proportional to the charge enclosed by that surface: 
-			<me>\Phi_E = \frac{Q_{enc}}{\epsilon_0}</me>
-			<me>\unicode{x222F}_{S} \vec{E}\cdot d\vec{A} = \frac{Q_{enc}}{\epsilon_0}</me></p>
+			<md>\Phi_E = \frac{Q_{enc}}{\epsilon_0}</md>
+			<md>\unicode{x222F}_{S} \vec{E}\cdot d\vec{A} = \frac{Q_{enc}}{\epsilon_0}</md></p>
 			<p>
 				The closed circle on the integral symbol indicates that this is an integral over a closed surface.  The symbol <m>\epsilon_0</m> is the <xref ref="notation-permittivity"/> and is related to the electrostatic constant <m>k</m>.
 			</p>
@@ -60,23 +60,23 @@
 <p>
 		A straightforward application of Gauss's Law is to confirm that the electric field created by a single point charge <m>q</m> located at the origin is 
 		
-		<me>\vec{E} = \frac{1}{4\pi\epsilon_0}\frac{q}{r^2}\hat{r}</me>
+		<md>\vec{E} = \frac{1}{4\pi\epsilon_0}\frac{q}{r^2}\hat{r}</md>
 
 		Since the point charge is located the origin and the electric field points directly outward from the charge, the system exhibits spherical symmetry: that is, the electric field only depends on the distance <m>r</m>.  As a result, a sphere of radius <m>r</m> is a natural choice for the Gaussian surface.
 
 		The total charge enclosed by this surface is exactly <m>q</m>, so all that is left to calculate is the total flux.  Writing the flux integral in spherical coordinates gives:
 
-		<me>\Phi_E = \unicode{x222F}_{S} \vec{E}\cdot d\vec{A} = \int_0^{2\pi}\int_0^\pi \left(E_r \hat{r}\right)\cdot \left(r^2\sin\theta d\theta d\phi \hat{r}\right)</me>
+		<md>\Phi_E = \unicode{x222F}_{S} \vec{E}\cdot d\vec{A} = \int_0^{2\pi}\int_0^\pi \left(E_r \hat{r}\right)\cdot \left(r^2\sin\theta d\theta d\phi \hat{r}\right)</md>
 
 		Here <m>E_r</m> represents the magnitude of the electric field's radial component (the other components of the electric field are zero).
 
 		Resolving the dot product and then performing the integral gives:
 
-		<me>\Phi_E = \int_0^{2\pi}\int_0^\pi E_r r^2\sin\theta d\theta d\phi = 4\pi r^2 E_r</me>
+		<md>\Phi_E = \int_0^{2\pi}\int_0^\pi E_r r^2\sin\theta d\theta d\phi = 4\pi r^2 E_r</md>
 
 		Last of all, relating this to the charge via Gauss's Law results in the correct magnitude of the electric field!
 
-		<me>E_r = \frac{q}{4\pi\epsilon_0 r^2}</me>
+		<md>E_r = \frac{q}{4\pi\epsilon_0 r^2}</md>
 
 		</p>
 

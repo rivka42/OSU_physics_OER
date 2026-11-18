@@ -21,7 +21,7 @@
 			<statement>
 			<p></p>
 			<p>Explain why the integral below will give the length of the meter stick.  Given this expression, where is the meter stick located?
-				<me>\int_{0}^{1 \mathrm{~m}} dx</me>
+				<md>\int_{0}^{1 \mathrm{~m}} dx</md>
 			</p>
 			</statement>
 			<solution>
@@ -50,11 +50,11 @@
 				<title>Multiply</title>
 				<statement>
 				<p></p>
-			<p>An infinitesimal piece of the meter stick <m>dx</m> and the corresponding mass of that piece <m>dm</m> are related by the linear mass density <m>\lambda</m>: <me>dm = \lambda dx</me>.  Calculate the density under the assumption that the density is uniform throughout the meter stick.</p>
+			<p>An infinitesimal piece of the meter stick <m>dx</m> and the corresponding mass of that piece <m>dm</m> are related by the linear mass density <m>\lambda</m>: <md>dm = \lambda dx</md>.  Calculate the density under the assumption that the density is uniform throughout the meter stick.</p>
 				</statement>
 				<solution>
 					<p>
-						 The linear mass density can be written as <m>\lambda=\frac{dm}{dx}</m>.  For a uniform mass density, this reduces to <m>\lambda = M_{total} / L_{total}</m>.  The density only reduces to the total mass over the total length when the density is uniform. So the linear mass density is: <me>\lambda = \frac{M_{total}}{L_{total}} = \frac{0.15 \mathrm{~kg}}{1 \mathrm{~m}} = 0.15 \mathrm{~kg/m}</me>
+						 The linear mass density can be written as <m>\lambda=\frac{dm}{dx}</m>.  For a uniform mass density, this reduces to <m>\lambda = M_{total} / L_{total}</m>.  The density only reduces to the total mass over the total length when the density is uniform. So the linear mass density is: <md>\lambda = \frac{M_{total}}{L_{total}} = \frac{0.15 \mathrm{~kg}}{1 \mathrm{~m}} = 0.15 \mathrm{~kg/m}</md>
 					</p>
 				</solution>
 			</task>
@@ -67,15 +67,15 @@
 						<solution>
 							<p>
 								You can determine the mass of the board by integrating both sides of <m>dm = \lambda dx</m>:
-								<me>
+								<md>
 									\int_{0}^{M} dm  = \int_{0}^{L} \lambda dx
-								</me>
-								<me>
+								</md>
+								<md>
 									M = \lambda L
-								</me>
-								<me>
+								</md>
+								<md>
 									M = (0.15 \mathrm{~kg/m})(1 \mathrm{~m}) = 0.15 \mathrm{~kg}
-								</me>
+								</md>
 								
 							</p>
 						</solution>
@@ -97,7 +97,7 @@
 		  <definition xml:id="def_center-of-mass2">
 	<title>Center of Mass for a Continuous Object</title>
 	<statement><p></p>
-		<p>The <term>center of mass</term> for a continuous system can be calculated as the average position of all parts of the object weighted by the mass at that position: <me>\vec{r}_{cm} = \frac{1}{M} \int \vec{r} dm</me></p>
+		<p>The <term>center of mass</term> for a continuous system can be calculated as the average position of all parts of the object weighted by the mass at that position: <md>\vec{r}_{cm} = \frac{1}{M} \int \vec{r} dm</md></p>
 	</statement>
 </definition>
 

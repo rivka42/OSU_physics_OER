@@ -55,7 +55,7 @@
 			<p>
 				
 			</p>
-			<p>The <term>magnetic field</term> created by a long, straight wire carrying constant current <m>\vec{I}</m> a distance <m>s</m> away is given by <me>\vec{B} = \frac{\mu_0}{2\pi}\frac{\vec{I} \times \hat{s}}{s}</me></p>
+			<p>The <term>magnetic field</term> created by a long, straight wire carrying constant current <m>\vec{I}</m> a distance <m>s</m> away is given by <md>\vec{B} = \frac{\mu_0}{2\pi}\frac{\vec{I} \times \hat{s}}{s}</md></p>
 				<ul>
 				<li>
 					<p>
@@ -131,7 +131,7 @@
 			<p>Calculate the magnitude of the magnetic field at each of the marked points.</p>
 			</statement>
 			<answer>
-			<me>B = \frac{\mu_0 I}{2\pi R}</me>
+			<md>B = \frac{\mu_0 I}{2\pi R}</md>
 			</answer>
 		</task>
 						<task>

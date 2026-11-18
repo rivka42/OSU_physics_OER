@@ -132,9 +132,9 @@
 				<description>Top, a 3D view of a rectangular slab, with a small cube representing the infinitesimal piece.  Bottom, an edge view of the yz-plane, showing the small cube at position r prime and the position r where the field is to be evaluated.</description>
 			</image>
     </figure>
-				<me>
+				<md>
 					\vec{E}(x,y,z) = k\rho\int_{-h}^h \int_{-b}^b \int_{-a}^a \frac{\left(x - x'\right)\hat{x} + \left(y - y'\right)\hat{y} + \left(z - z'\right)\hat{z}}{\left(\left(x - x'\right)^2 + \left(y - y'\right)^2 + \left(z - z'\right)^2\right)^{3/2}}dx'dy'dz'
-				</me>
+				</md>
 				
 				<p>
 					Calculating the electric field for any given charge distribution is in general non-trivial. This is why you try to apply any symmetry arguments before diving into the chop-multiply-add method.

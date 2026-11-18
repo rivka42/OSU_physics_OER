@@ -16,9 +16,9 @@
 		</p>
 		<p>
 			A sinusoidal wave with amplitude <m>y_{\mathrm{max}}</m>, wavelength <m>\lambda</m>, period <m>T</m>, and initial phase <m>\phi_i</m> can be written
-			<me> y(x,t) = y_{\mathrm{max}} \sin\left(\frac{2\pi}{\lambda}x \pm \frac{2\pi}{T}t + \phi_i\right)</me>
+			<md> y(x,t) = y_{\mathrm{max}} \sin\left(\frac{2\pi}{\lambda}x \pm \frac{2\pi}{T}t + \phi_i\right)</md>
 			Alternatively, the wave may be written in terms of the wavenumber <m>k = \frac{2\pi}{\lambda}</m> and the angular frequency <m>\omega = \frac{2\pi}{T}</m>:
-			<me> y(x,t) = y_{\mathrm{max}} \sin\left(kx \pm \omega t + \phi_i\right)</me>
+			<md> y(x,t) = y_{\mathrm{max}} \sin\left(kx \pm \omega t + \phi_i\right)</md>
 			The sign of the <m>\pm</m> determines the direction of travel: choosing <m>-</m> corresponds to a wave moving in the <alert>positive</alert> direction, while choosing <m>+</m> corresponds to a wave moving in the <alert>negative</alert> direction.
 		</p>
 	</statement>

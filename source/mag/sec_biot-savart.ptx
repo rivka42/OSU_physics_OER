@@ -13,7 +13,7 @@
 			<p>
 				
 			</p>
-			<p>The <term>magnetic field</term> created by an electric charge <m>q</m> moving with velocity <m>\vec{v}</m> is given by <me>\vec{B} = \frac{\mu_0}{4\pi}\frac{q\vec{v} \times \hat{r}}{r^2}</me>  This relationship is sometimes known as the Biot-Savart Law.</p>
+			<p>The <term>magnetic field</term> created by an electric charge <m>q</m> moving with velocity <m>\vec{v}</m> is given by <md>\vec{B} = \frac{\mu_0}{4\pi}\frac{q\vec{v} \times \hat{r}}{r^2}</md>  This relationship is sometimes known as the Biot-Savart Law.</p>
 			<ul>
 				<li>
 					<p>
@@ -40,9 +40,9 @@
 	</definition>
 	<!--
 	<p>
-		A moving charged particle creates a magnetic field, given by the equation above. The magnetic field has units of Teslas (T): <me>
+		A moving charged particle creates a magnetic field, given by the equation above. The magnetic field has units of Teslas (T): <md>
 			\mathrm{T} = \frac{N}{Am}
-		</me>
+		</md>
 		The Biot-Savart Law is a vector equation, and we can find the direction of the magnetic field produced by a moving charged particle by using the right hand rule.
 	</p>
 	-->

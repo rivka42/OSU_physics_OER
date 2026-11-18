@@ -30,7 +30,7 @@
 	</notation>
 	<statement>
 		<p></p>
-		<p>The <term>average acceleration</term> of an object is the object's change in velocity divided by the interval of time required to change the velocity: <me>\vec{a}_{ave} = \frac{\Delta \vec{v}}{\Delta t}</me></p>
+		<p>The <term>average acceleration</term> of an object is the object's change in velocity divided by the interval of time required to change the velocity: <md>\vec{a}_{ave} = \frac{\Delta \vec{v}}{\Delta t}</md></p>
 	</statement>
 </definition>
 
@@ -39,7 +39,7 @@
 	<statement>
 		<p></p>
 		<p>The <term>instantaneous acceleration</term> of an object is found by taking the limit as <m>\Delta t \Rightarrow 0</m>, resulting in infinitesimal changes in 
-			velocity and time: <me>\vec{a} = \frac{d \vec{v}}{d t}</me></p>
+			velocity and time: <md>\vec{a} = \frac{d \vec{v}}{d t}</md></p>
 	</statement>
 </definition>
 

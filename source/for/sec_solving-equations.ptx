@@ -24,7 +24,7 @@
 			<p>
 			Physics uses symbolic equations to represent quantitative models of the real world.  An example equation is shown below.
 			
-			<me>\Delta x = v_{x,ave}\Delta t</me>
+			<md>\Delta x = v_{x,ave}\Delta t</md>
 
 In this equation, t represents time, x represents the position of an object along the x-axis, and <m>v_{x,ave}</m> represents the average velocity of the object in the x-direction.  The symbol <m>\Delta</m> transforms both <m>x</m> and <m>t</m> to specify change in position and change in time, respectively. </p>
 
@@ -32,13 +32,13 @@ In this equation, t represents time, x represents the position of an object alon
 
 <p>Since <m>\Delta t</m> is multiplied by <m>v_{x,ave}</m> on the right hand side of the equation, you can divide both sides by <m>v_{x,ave}</m> to get <m>\Delta t</m> alone!
 
-			<me>\Delta x = v_{x,ave}\Delta t</me>
+			<md>\Delta x = v_{x,ave}\Delta t</md>
 			
-			<me>\frac{\Delta x}{v_{x,ave}} = \frac{v_{x,ave}\Delta t}{v_{x,ave}}</me>
+			<md>\frac{\Delta x}{v_{x,ave}} = \frac{v_{x,ave}\Delta t}{v_{x,ave}}</md>
 			
-			<me>\frac{\Delta x}{v_{x,ave}} = \Delta t</me>
+			<md>\frac{\Delta x}{v_{x,ave}} = \Delta t</md>
 			
-			<me>\Delta t = \frac{\Delta x}{v_{x,ave}}</me>
+			<md>\Delta t = \frac{\Delta x}{v_{x,ave}}</md>
 
 			</p>
 	
@@ -66,32 +66,32 @@ In this equation, t represents time, x represents the position of an object alon
 <title>Ideal Gas Manipulation</title>	
 			<p>
 			 From elementary chemistry, the pressure <m>p</m>, volume <m>V</m>, and temperature <m>T</m> of an ideal gas undergoing adiabatic expansion may be related by the following pair of equations, in which <m>n</m>, <m>R</m>, <m>\gamma</m>, and <m>\alpha</m> are positive constants:
-			<me>pV = nRT</me>
-			<me>pV^\gamma = \alpha</me>
+			<md>pV = nRT</md>
+			<md>pV^\gamma = \alpha</md>
 			
 Suppose you want to know the exact temperature of the gas at the end of the expansion.  There are only two equations and three unknowns, so it is necessary to specify a temperature: suppose you know the volume at the end of the expansion is <m>V_f</m>.  Since you want to know temperature, you want to solve one of the equations for the <em>other</em> unknown, pressure, then substitute that expression for pressuring into the other equation.  The second equation looks a little more complicated, so start there.
 
-			<me>pV^\gamma = \alpha</me>
+			<md>pV^\gamma = \alpha</md>
 			
-			<me>p = \frac{\alpha}{V^\gamma}</me>
+			<md>p = \frac{\alpha}{V^\gamma}</md>
 			
-			<me>pV = nRT</me>
+			<md>pV = nRT</md>
 			
-			<me>nRT = \frac{\alpha}{V^\gamma}V</me>
+			<md>nRT = \frac{\alpha}{V^\gamma}V</md>
 			
-			<me>nRT = \alpha V^{1 - \gamma}</me>
+			<md>nRT = \alpha V^{1 - \gamma}</md>
 			
-			<me>T = \frac{\alpha V^{1 - \gamma}}{nR}</me>
+			<md>T = \frac{\alpha V^{1 - \gamma}}{nR}</md>
 			
 			At this point, if you also want to know the pressure, take this expression for temperature and plug it back into one of the original equations!
 			
-			<me>pV = nRT</me>
+			<md>pV = nRT</md>
 			
-			<me>pV = nR\frac{\alpha V^{1 - \gamma}}{nR}</me>
+			<md>pV = nR\frac{\alpha V^{1 - \gamma}}{nR}</md>
 			
-			<me>pV = \alpha V^{1 - \gamma}</me>
+			<md>pV = \alpha V^{1 - \gamma}</md>
 			
-			<me>p = \alpha V^{- \gamma}</me>
+			<md>p = \alpha V^{- \gamma}</md>
 			
 			</p>
 	
@@ -212,8 +212,8 @@ Suppose you want to know the exact temperature of the gas at the end of the expa
 				</statement>
 							<answer>
 			<p>
-			<me>\text{1:}~ F^t - F^f = ma_1</me>
-			<me>\text{2:}~ - F^t - F^f = -ma_2</me>
+			<md>\text{1:}~ F^t - F^f = ma_1</md>
+			<md>\text{2:}~ - F^t - F^f = -ma_2</md>
 			</p>
 			</answer>
 			</task>

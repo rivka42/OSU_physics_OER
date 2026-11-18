@@ -43,7 +43,7 @@
 				
 			</p>
 			<p>The definition of <xref ref="def_capacitance"/> <m>C</m> can be rewritten to establish the voltage across a capacitor with charge <m>Q</m> on its positive plate.
-			<me>V = \frac{Q}{C}</me>
+			<md>V = \frac{Q}{C}</md>
 			</p>
 			<p>
 				The voltage in a capacitor is higher on the side with positive charge.
@@ -64,7 +64,7 @@
 			<p>
 				
 			</p>
-			<p>If <m>N</m> capacitors are in series, the equivalent capacitance is: <me>\frac{1}{C_{\mathrm{eq}}} = \sum_{i = 1}^{N} \frac{1}{C_i} = \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3} + \dots</me></p>
+			<p>If <m>N</m> capacitors are in series, the equivalent capacitance is: <md>\frac{1}{C_{\mathrm{eq}}} = \sum_{i = 1}^{N} \frac{1}{C_i} = \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3} + \dots</md></p>
 		</statement>
 	</definition>
 
@@ -74,7 +74,7 @@
 			<p>
 				
 			</p>
-			<p>If <m>N</m> capacitors are in parallel, the equivalent capacitance is: <me>C_{\mathrm{eq}} = \sum_{i = 1}^{N} C_i = C_1 + C_2 + C_3 + \dots</me></p>
+			<p>If <m>N</m> capacitors are in parallel, the equivalent capacitance is: <md>C_{\mathrm{eq}} = \sum_{i = 1}^{N} C_i = C_1 + C_2 + C_3 + \dots</md></p>
 		</statement>
 	</definition>
 	

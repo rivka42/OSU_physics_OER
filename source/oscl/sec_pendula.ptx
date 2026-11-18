@@ -52,9 +52,9 @@
 		<solution>
 			<p>
 				The tension force acts parallel to the string, so it acts a torque of zero on the pendulum.  Gravity, however, acts at an angle to the string, so the torque is: 
-				<me>
+				<md>
 					\tau = -mgL\sin\theta
-				</me>
+				</md>
 				where the negative sign indicates that the torque is clockwise.
 				
 			</p>
@@ -68,18 +68,18 @@
 		</statement>
 		<solution>
 			<p>
-				<me>
+				<md>
 					\tau_{net} = I\alpha
-				</me>
-				<me>
+				</md>
+				<md>
 					-mgL\sin\theta = mL^2\alpha
-				</me>
-				<me>
+				</md>
+				<md>
 					\alpha = -\frac{g}{L}\sin\theta
-				</me>
-				<me>
+				</md>
+				<md>
 					\frac{d^2}{dt^2}\theta = -\frac{g}{L}\sin\theta
-				</me>
+				</md>
 				
 			</p>
 		</solution>
@@ -117,7 +117,7 @@ Using torque analysis, first draw a pictorial representation of the situation an
 
  <p> Recall the Rotational Law of Motion
  
-  <me> \sum \tau = I\alpha </me>
+  <md> \sum \tau = I\alpha </md>
  
 The gravitational torque <m> \tau = -Lmg\sin\theta(t)</m> is the torque about the pivot point, <m>I=mL^2 </m> is the moment of inertia of a point mass about the pivot point and <m>\alpha= \frac{d^2}{dt^2}\theta(t)</m> is the angular acceleration of the pendulum mass. Putting this all together and simplifying:
 
@@ -166,10 +166,10 @@ This is the equation of motion for the pendulum in terms of the angular position
 		<solution>
 		<p> Applying the small-angle approximation <m> \sin\theta \approx \theta</m> leads to
 		
-		<me> \frac{d^2}{dt^2}\theta(t)=-\frac{g}{L} \theta(t)</me>
+		<md> \frac{d^2}{dt^2}\theta(t)=-\frac{g}{L} \theta(t)</md>
 from this and your model of <xref ref="assumption-shm"/>, the oscillation frequency is
 		
-		<me> \omega_p = \sqrt{\frac{g}{L}}</me>.
+		<md> \omega_p = \sqrt{\frac{g}{L}}</md>.
 		
 		</p>
 
@@ -181,11 +181,11 @@ from this and your model of <xref ref="assumption-shm"/>, the oscillation freque
 			</p>
 			<p>
 				The <term>angular frequency</term> for a point mass <m>m</m> attached to a massless string of length <m>L</m> is 
-				<me>
+				<md>
 					\omega_p = \sqrt{\frac{g}{L}}
-				</me>
+				</md>
 				
-				The equation of motion for the pendulum is given by <me> \theta(t) = \theta_{\text{max}} \cos(\omega_p t + \theta_i)</me>
+				The equation of motion for the pendulum is given by <md> \theta(t) = \theta_{\text{max}} \cos(\omega_p t + \theta_i)</md>
 			</p>
 		</statement>
 		</definition>

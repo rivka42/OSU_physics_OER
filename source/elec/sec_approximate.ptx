@@ -19,8 +19,8 @@ Effectively applying approximation techniques will be a valuable skill in this c
 			<p>
 			The <term>Taylor series</term> or Taylor expansion of a function <m> f(x) </m> is an infinite sum of powers of the function's derivatives where each term is a polynomial of degree <m> n</m>. If the function <m> f(x) </m> is a real or complex valued function that is infinitely differentiable at a real or complex value <m> x=a</m> then the function can be expanded as 
 			
-			<me> f(x) = f(a) + \frac{f'(a)}{1!}(x-a) + \frac{f''(a)}{2!}(x-a)^2 + ... = \Sigma_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!}(x-a)^n
-			</me>
+			<md> f(x) = f(a) + \frac{f'(a)}{1!}(x-a) + \frac{f''(a)}{2!}(x-a)^2 + ... = \Sigma_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!}(x-a)^n
+			</md>
 			
 where <m> n! </m> denotes the factorial of <m> n</m> and <m> f^{(n)}(a)</m> denotes the <m>n^{\text{th}}</m> derivative of the function <m> f(x) </m> evaluated at <m> x=a</m>. 
 			
@@ -40,7 +40,7 @@ where <m> n! </m> denotes the factorial of <m> n</m> and <m> f^{(n)}(a)</m> deno
 		</subsubsection>
 	<p> 
 A binomial is, as the word implies, two numbers added together and raised to a power. The binomial approximation is a useful mathematical tool for simplifying or approximating symbolic expressions that involve two quantities that are added together when one is much, much larger than the other. Suppose we have an expression where the quantity <m> x \ll 1</m>, and <m> x </m> is a dimensionless quantity, then we can perform a binomial expansion to expand the function in powers of the small quantity <m> x </m>. 
-	<me> (1+x)^n \approx 1+nx+ \frac{n(n-1)}{2}x^2+ ...</me> 
+	<md> (1+x)^n \approx 1+nx+ \frac{n(n-1)}{2}x^2+ ...</md> 
 	
 Here <m>nx</m> is called the first order term, and the term containing the <m>x^2</m> is called the second order term and so on. 
 
@@ -83,7 +83,7 @@ Here <m>nx</m> is called the first order term, and the term containing the <m>x^
 			<p>
 		
 			</p>
-			  <p>Consider the expression for the electric field on the <m>y</m>-axis of a coordinate system due to a set of two positive charges <me> \vec{E}(y) = \frac{q}{4 \pi \epsilon_0} \frac{2y}{(y^2 +(d/2)^2)^{3/2}} \hat{y}</me> 
+			  <p>Consider the expression for the electric field on the <m>y</m>-axis of a coordinate system due to a set of two positive charges <md> \vec{E}(y) = \frac{q}{4 \pi \epsilon_0} \frac{2y}{(y^2 +(d/2)^2)^{3/2}} \hat{y}</md> 
 			  where <m> d </m> is the separation between the charges. If we move very far away from the charges such that <m> y \gg d </m> we could expect to recover the electric field of a single point charge with charge <m> 2q</m>. 
 			  <ol>
 			  <li>
@@ -91,7 +91,7 @@ First factor the denominator by pulling the larger length out of the term in par
 			  </li>
 			  <li>
 Use an approximation to <em> first order </em> in the small dimensionless quantity to show that in the limit <m> y \gg d </m> the electric field becomes 
-			   <me> \vec{E}(y \gg d) = \frac{q}{4 \pi \epsilon_0} \frac{2}{y^2} \hat{y}</me> 
+			   <md> \vec{E}(y \gg d) = \frac{q}{4 \pi \epsilon_0} \frac{2}{y^2} \hat{y}</md> 
 Approximating to first order is sometimes referred to as <em> linearizing </em> the equation.  
 			   </li>
 			   </ol> 

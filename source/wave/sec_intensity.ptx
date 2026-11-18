@@ -25,8 +25,8 @@
 <p>Consider a transverse wave on a horizontal string. Any point along the string moves up and down as a wave passes through it. The average speed of a point on the string is related to the amplitude of the wave and also to how quickly the motion changes from up to down – thus the frequency.</p>
 
 <p>
-	<me> K = \frac{1}{2}mv^2</me>
-	<me> E \propto f^2 A^2</me>
+	<md> K = \frac{1}{2}mv^2</md>
+	<md> E \propto f^2 A^2</md>
 </p>
 
 <p>
@@ -39,13 +39,13 @@ The kinetic energy of the mass at that point depends on the square of the speed.
     <p>
       
     </p>
-	   <p>The <term>intensity</term> of a wave emanating from a point source is the power per unit area: <me>I = \frac{P}{\text{Area}}</me> where <m>P</m> is power and the area is the surface area of a sphere.</p>
+	   <p>The <term>intensity</term> of a wave emanating from a point source is the power per unit area: <md>I = \frac{P}{\text{Area}}</md> where <m>P</m> is power and the area is the surface area of a sphere.</p>
    </statement>
 </definition>
 
 <observation>
   <title>Spherical Wave Intensity</title>
-  <p>For a point source wave, emanating as a spherical wave front, the area is the surface area of a sphere. Intensity takes the form: <me>I = \frac{P}{4\pi r^2}</me>
+  <p>For a point source wave, emanating as a spherical wave front, the area is the surface area of a sphere. Intensity takes the form: <md>I = \frac{P}{4\pi r^2}</md>
 </p>
  <figure xml:id="surface_area_sphere">
  <title>Surface Area of a Sphere Figure</title>

@@ -11,39 +11,45 @@
 		<title>Electrodynamics Equations</title>
 		<p></p>
 	<sbsgroup widths="40% 40%" margins="5% 5%" valign="middle">
-		<sidebyside widths="100%">
+		<sidebyside widths="89% 1%">
 			<p>
 				<alert>How Fields Are Created</alert>
 			</p>
+			<p>
+				
+			</p>
 		</sidebyside>
 		<sidebyside>
 			<p>
-				<me>
+				<md>
 					\text{(i)~~} \unicode{x222F}_{S} \vec{E}\cdot d\vec{A} = \frac{Q_{enc}}{\epsilon_0}
-				</me>
+				</md>
 			</p>
 			<p>
-				<me>
+				<md>
 					\text{(ii)~~} \unicode{x222F}_{S} \vec{B}\cdot d\vec{A} = 0
-				</me>
+				</md>
 			</p>
 		</sidebyside>
 		<sidebyside>
 			<p>
-				<me>
+				<md>
 					\text{(iii)~~} \oint \vec{E} \cdot \vec{dl} = - \frac{\partial \Phi_B}{\partial t}
-				</me>
+				</md>
 			</p>
 			<p>
-				<me>
+				<md>
 					\text{(iv)~~} \oint_S \vec{B}\cdot d\vec{l} = \mu_0 I_{enclosed}
-				</me>
+				</md>
 			</p>
 		</sidebyside>
-		<sidebyside widths="100%">
+		<sidebyside widths="89% 1%">
 			<p>
 				<alert>How Fields Impact Charges</alert>
-				<me>\vec{F} = q\vec{E} + q\vec{v}\times\vec{B}</me>
+				<md>\vec{F} = q\vec{E} + q\vec{v}\times\vec{B}</md>
+			</p>
+			<p>
+				
 			</p>
 		</sidebyside>
 	</sbsgroup>

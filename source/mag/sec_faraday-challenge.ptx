@@ -39,7 +39,7 @@
 		<statement><p></p>
 			<p>
 				You have a circular coil of radius <m>25 \mathrm{~cm}</m> with <m>200 \mathrm{~turns}</m> and resistance <m>5 \mathrm{~\Omega}</m> that you would like to use to generate some power for charging your phone. You look up and see that <m>9 \mathrm{~m}</m> above you is a long, straight power line that has a current with frequency <m>f = 50 \mathrm{~Hz}</m> given by:
-				<me>I(t) = \left(700 \mathrm{~A}\right) \sin\left( 2\pi ft\right)</me>
+				<md>I(t) = \left(700 \mathrm{~A}\right) \sin\left( 2\pi ft\right)</md>
 				Estimate the maximum value of the current through your coil.
 			</p>
 		</statement>

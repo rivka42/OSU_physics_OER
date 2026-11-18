@@ -94,7 +94,7 @@
 			<p>
 				
 			</p>
-			<p>The magnitude of the magnetic field created by a circular loop of radius <m>R</m> carrying current <m>I</m> at its center is <me>\vec{B} = \frac{\mu_0}{2}\frac{NI}{R}</me>
+			<p>The magnitude of the magnetic field created by a circular loop of radius <m>R</m> carrying current <m>I</m> at its center is <md>\vec{B} = \frac{\mu_0}{2}\frac{NI}{R}</md>
 				Here <m>N</m> is the number of coils in the loop: <m>N = 1</m> for a single loop.
 				</p>
 

@@ -119,8 +119,8 @@
 				
 			</p>
 			<p>The net magnetic flux through any <em>closed</em> surface is zero: 
-				<me>\Phi_B = 0</me>
-				<me>\unicode{x222F}_{S} \vec{B}\cdot d\vec{A} = 0</me></p>
+				<md>\Phi_B = 0</md>
+				<md>\unicode{x222F}_{S} \vec{B}\cdot d\vec{A} = 0</md></p>
 				<p>
 		The closed circle on the integral symbol indicates that this is an integral over a closed surface.  This law asserts that there are no magnetic monopoles, and thus no magnetic fields created by them.  A consequence of this law is that magnetic fields <alert>never</alert> point directly away from or directly toward a source, as with the <xref ref="fig_source-E"/>.
 	</p>

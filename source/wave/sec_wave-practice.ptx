@@ -37,18 +37,18 @@
 				<li>
 					<p>
 						<alert>List quantities.</alert>  
-						<me>
+						<md>
 							v_{\text{max}} = 1.4 \mathrm{~m/s}
-						</me>
-						<me>
+						</md>
+						<md>
 							a_{\text{max}} = 270 \mathrm{~m/s^2}
-						</me>
-						<me>
+						</md>
+						<md>
 							f = ?
-						</me>					
-						<me>
+						</md>					
+						<md>
 							y_{\text{max}} = ?
-						</me>
+						</md>
 						
 						
 					</p>
@@ -89,8 +89,8 @@
 						Wave equation: <m>y(x,t) = y_{\text{max}}\cos{(2𝜋x/\lambda + \omega t + 𝜙)}</m>
 					</p>
 					<p>
-						<me>v_{\text{max}} = \omega y_{\text{max}}</me>
-						<me>a_{\text{max}} = \omega^2 y_{\text{max}}</me>
+						<md>v_{\text{max}} = \omega y_{\text{max}}</md>
+						<md>a_{\text{max}} = \omega^2 y_{\text{max}}</md>
 						
 						
 					</p>
@@ -99,20 +99,20 @@
 					<p>
 						<alert>Solve unknown(s) symbolically.</alert>  
 						You can solve for <m>\omega</m> using the relationships of the amplitudes: 
-						<me>\omega = \frac{a_{\text{max}}}{v_{\text{max}}}</me>
-						Then the frequency can be written as: <me>f = \frac{a_{\text{max}}}{2\pi v_{\text{max}}}</me>
-						Finally, the amplitude can be written as: <me>y_{\text{max}} = \frac{v_{\text{max}}}{\omega}</me>
-							<me>y_{\text{max}} = \frac{v_{\text{max}}^2}{a_{\text{max}}}</me>
+						<md>\omega = \frac{a_{\text{max}}}{v_{\text{max}}}</md>
+						Then the frequency can be written as: <md>f = \frac{a_{\text{max}}}{2\pi v_{\text{max}}}</md>
+						Finally, the amplitude can be written as: <md>y_{\text{max}} = \frac{v_{\text{max}}}{\omega}</md>
+							<md>y_{\text{max}} = \frac{v_{\text{max}}^2}{a_{\text{max}}}</md>
 
 
 					</p>
 				</li>
 				<li>
 					<p>
-						<me>f = 31 \mathrm{~Hz}</me>
-						<me>
+						<md>f = 31 \mathrm{~Hz}</md>
+						<md>
 							y_{\text{max}} = 7 \times 10^{-3} \mathrm{~m}
-						</me>
+						</md>
 						
 					</p>
 				</li>
@@ -126,8 +126,8 @@
 				<li>
 					<p>
 						<alert>Are the units correct?</alert>  
-						<me>\mathrm{1/s} = \frac{\mathrm{m/s^2}}{\mathrm{m/s}}</me>
-						<me>\mathrm{m} = \frac{\mathrm{m^2/s^2}}{\mathrm{m/s^2}}</me>
+						<md>\mathrm{1/s} = \frac{\mathrm{m/s^2}}{\mathrm{m/s}}</md>
+						<md>\mathrm{m} = \frac{\mathrm{m^2/s^2}}{\mathrm{m/s^2}}</md>
 						
 					</p>
 				</li>

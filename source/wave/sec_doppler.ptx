@@ -28,7 +28,7 @@
 	<title>Doppler Frequency Shift</title>
 	<statement>
 		<p></p>
-		<p>The frequency of a sound wave heard by a listener is not always the same as the frequency created by the emitter: <me>f_{\text{listener}} = f_{\text{emitter}}\frac{\nu_{\text{sound}} + v_{\text{listener}}}{\nu_{\text{sound}} - v_{\text{emitter}}}</me></p>
+		<p>The frequency of a sound wave heard by a listener is not always the same as the frequency created by the emitter: <md>f_{\text{listener}} = f_{\text{emitter}}\frac{\nu_{\text{sound}} + v_{\text{listener}}}{\nu_{\text{sound}} - v_{\text{emitter}}}</md></p>
 	</statement>
 </definition>
 

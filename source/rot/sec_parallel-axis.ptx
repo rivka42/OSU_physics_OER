@@ -8,7 +8,7 @@
 	<title>The Parallel Axis Theorem</title>
 	<statement>
 		<p></p>
-		<p>The moments of inertia about an axis parallel to an axis going through the center of mass is: <me>I = I_{CM} + md^2</me> where <m>d</m> is the perpendicular distance between the axes.</p>
+		<p>The moments of inertia about an axis parallel to an axis going through the center of mass is: <md>I = I_{CM} + md^2</md> where <m>d</m> is the perpendicular distance between the axes.</p>
 	</statement>
 </principle>
 

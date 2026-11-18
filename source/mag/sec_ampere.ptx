@@ -25,7 +25,7 @@
 				
 			</p>
 			<p><term>Ampère's Law</term> relates the magnetic field around a closed curve to the current passing through the region bounded by the curve: 
-			<me>\oint_S \vec{B}\cdot d\vec{l} = \mu_0 I_{enclosed}</me></p>
+			<md>\oint_S \vec{B}\cdot d\vec{l} = \mu_0 I_{enclosed}</md></p>
 			<p>
 				This is a line integral, like the integral for <xref ref="e_to_v"/>. The circle over the integral symbol indicates that this is an integral over a <em>closed path</em>: when this is true, the line integral is known as the <term>circulation</term> of the magnetic field.
 			</p>
@@ -56,19 +56,19 @@
 <p>
 		A straightforward application of Ampère's Law is to confirm that the magnetic field created by a very long wire carrying constant current <m>I</m> is
 		
-		<me>\vec{B} = \frac{\mu_0}{2\pi}\frac{\vec{I} \times \hat{s}}{s}</me>
+		<md>\vec{B} = \frac{\mu_0}{2\pi}\frac{\vec{I} \times \hat{s}}{s}</md>
 
 		The system exhibits cylindrical symmetry: that is, the magnetic field only depends on the distance <m>s</m> away from the axis where the wire lies, and it points only in the <m>\hat{\phi}</m> direction.  As a result, a circle of radius <m>s</m> is a natural choice for the Amperian loop.
 
 		The total current flowing through this loop is exactly <m>I</m>, so all that is left to calculate is the line integral:
 
-		<me>\oint_S \vec{B}\cdot d\vec{l} = \int_0^{2\pi} \left( B_\phi \hat{\phi} \right) \cdot \left( s d\phi \hat{\phi} \right) = B_\phi s \int_0^{2\pi}d\phi = 2\pi s B_\phi</me>
+		<md>\oint_S \vec{B}\cdot d\vec{l} = \int_0^{2\pi} \left( B_\phi \hat{\phi} \right) \cdot \left( s d\phi \hat{\phi} \right) = B_\phi s \int_0^{2\pi}d\phi = 2\pi s B_\phi</md>
 
 		Here <m>B_\phi</m> represents the magnitude of the magnetic field's circumferential component (the component that points <em>around</em> the wire).  The other components of the magnetic field are zero.
 
 		Relating this to the current via Ampère's Law results in the correct magnitude of the magnetic field!
 
-		<me>B_\phi = \frac{\mu_0 I}{2\pi s}</me>
+		<md>B_\phi = \frac{\mu_0 I}{2\pi s}</md>
 
 		</p>
 

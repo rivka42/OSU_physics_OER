@@ -13,7 +13,7 @@
 			<p>
 				
 			</p>
-			<p>The torque on an object with a magnetic dipole moment <m>\vec{\mu}</m> due to a magnetic field <m>\vec{B}</m> is given by <me>\vec{\tau} = \vec{\mu} \times \vec{B}</me></p>
+			<p>The torque on an object with a magnetic dipole moment <m>\vec{\mu}</m> due to a magnetic field <m>\vec{B}</m> is given by <md>\vec{\tau} = \vec{\mu} \times \vec{B}</md></p>
 		</statement>
 	</definition>
 
@@ -23,7 +23,7 @@
 			<p>
 				
 			</p>
-			<p>A system consisting of an object with a magnetic dipole moment <m>\vec{\mu}</m> in a magnetic field <m>\vec{B}</m> has potential energy given by <me>\vec{U} = - \vec{\mu} \cdot \vec{B}</me></p>
+			<p>A system consisting of an object with a magnetic dipole moment <m>\vec{\mu}</m> in a magnetic field <m>\vec{B}</m> has potential energy given by <md>\vec{U} = - \vec{\mu} \cdot \vec{B}</md></p>
 		</statement>
 	</definition>
 	

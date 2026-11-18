@@ -7,7 +7,7 @@ The general form for the position of a system undergoing simple harmonic motion 
 </p>
 
 <p> 
-<me xml:id="pos_HM">\vec{x}(t) = \vec{x}_o + x_{\text{max}} \cos \left(\frac{2\pi t}{T} + \phi_i\right)\hat{x}</me>
+<md>\vec{x}(t) = \vec{x}_o + x_{\text{max}} \cos \left(\frac{2\pi t}{T} + \phi_i\right)\hat{x}</md>
 </p>
 
 <p>
@@ -46,7 +46,7 @@ Here, the notation <m> \vec{x}(t)</m> indicates that the position <m>\vec{x}</m>
 			The <term>frequency</term> is the number of cycles completed during each second. Since period <m>T</m> represents the time it takes to complete one cycle, period and frequency have an inverse relationship. 
 		</p>
 		<p>
-<me> f = \frac{1}{T}</me>
+<md> f = \frac{1}{T}</md>
 </p>
 	</statement>
 </definition>
@@ -60,7 +60,7 @@ Here, the notation <m> \vec{x}(t)</m> indicates that the position <m>\vec{x}</m>
 	</p>
 	<p>
 Recall that a particle in uniform circular motion has an angular speed <m>\omega</m> related to the period of motion by 
-<me>\omega= \frac{2 \pi}{T}</me> 
+<md>\omega= \frac{2 \pi}{T}</md> 
 
 This relation holds true in simple harmonic motion. When describing oscillatory motion, <m> \omega </m> is called the <alert> angular frequency</alert> rather than angular velocity. The physical units of <m>\omega</m> are given in rad/s. Note that since radians are a dimensionless unit, often the rad is dropped for the SI units when <m>\omega</m> is used together with other quantities. Most of the symbolic work you will do when representing oscillations will be done in terms of the angular frequency <m>\omega</m>, rather than the ordinary frequency <m>f</m>. 
 </p>
@@ -100,7 +100,7 @@ The initial phase can be found by looking at where in its cycle the cosine funct
 		</statement>
 		<hint>
 			<p>
-				Try checking the units of equation <xref ref="pos_HM" text='type-global'></xref>.
+				Try checking the units of the equation of motion.
 			</p>
 		</hint>
 		<answer>
@@ -120,7 +120,7 @@ The initial phase can be found by looking at where in its cycle the cosine funct
 			
 		<p>You can write a relation between period <m>T</m>, frequency <m>f</m>, and angular frequency <m>\omega</m> as follows:</p>
 		
-		<me> \omega = 2 \pi f = \frac{2 \pi}{T} </me>
+		<md> \omega = 2 \pi f = \frac{2 \pi}{T} </md>
 		</answer>
 		</activity>
 

@@ -3,103 +3,30 @@
 <section xml:id="sec_displacement-current" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Displacement Current</title>
 
-	<p>
-		You have now studied nearly all of the fundamental ways in which electric and magnetic fields can be created, and how electric and magnetic fields impact the charges that make up the world.  Together, these equations, which are summarized below, constitute <alert>electrodynamics</alert>.
-	</p>
 
-	<sbsgroup widths="40% 40%" margins="5% 5%" valign="middle">
-		<sidebyside widths="100%">
-			<p>
-				<alert>How Fields Are Created</alert>
-			</p>
-		</sidebyside>
-		<sidebyside>
-			<p>
-				<me>
-					\text{(i)~~} \unicode{x222F}_{S} \vec{E}\cdot d\vec{A} = \frac{Q_{enc}}{\epsilon_0}
-				</me>
-			</p>
-			<p>
-				<me>
-					\text{(ii)~~} \unicode{x222F}_{S} \vec{B}\cdot d\vec{A} = 0
-				</me>
-			</p>
-		</sidebyside>
-		<sidebyside>
-			<p>
-				<me>
-					\text{(iii)~~} \oint \vec{E} \cdot \vec{dl} = - \frac{\partial \Phi_B}{\partial t}
-				</me>
-			</p>
-			<p>
-				<me>
-					\text{(iv)~~} \oint_S \vec{B}\cdot d\vec{l} = \mu_0 I_{enclosed}
-				</me>
-			</p>
-		</sidebyside>
-		<sidebyside widths="100%">
-			<p>
-				<alert>How Fields Impact Charges</alert>
-				<me>\vec{F} = q\vec{E} + q\vec{v}\times\vec{B}</me>
-			</p>
-		</sidebyside>
-	</sbsgroup>
 
-	<ol marker="(i)">
-		<li>
-			<p>
-				<alert>Gauss's Law</alert> governs how <em>electric charges</em> create electric fields.  All other rules about the creation of electric fields by electric charges, such as the <xref ref="point_charge"/>, ultimately come from Gauss's Law.  These electric fields are source-like: they point directly away from or directly toward electric charge, as shown in the <xref ref="e_field_pos"/>.
-			</p>
-		</li>
-		<li>
-			<p>
-				<alert>Gauss's Law for Magnetism</alert> asserts that there are no magnetic monopoles, and thus no magnetic fields created by them.  See <xref ref="x_cutting-magnet"/> for an illustration of this fact.  A consequence of this law is that magnetic fields <alert>never</alert> point directly away from or directly toward a source.
-			</p>
-		</li>
-		<li>
-			<p>
-				<alert>Faraday's Law</alert> governs how <em>changing magnetic fields</em> create electric fields.  This is a different way of making electric fields than the presence of stationary charges (as in Gauss's Law), and it makes electric fields that circulate rather than pointing to or from a source, as shown in the <xref ref="fig_InducedE"/>.
-			</p>
-		</li>
-		<li>
-			<p>
-				<alert>Ampère's Law</alert> governs how <em>currents</em> (made of moving electric charges) create magnetic fields.  All other rules about the creation of magnetic fields by currents, such as the <xref ref="def_mag-current"/>, ultimately come from Ampère's Law.  These magnetic fields always circulate around the current, as shown in the <xref ref="x_fig_mag-full"/>.
-			</p>
-		</li>
-	</ol>
 
-	<subsubsection>
-		<title>Activities</title>
-		<activity>
-      	<title>Electrodynamics Equations</title>
+
+
+
+	<definition xml:id="def_maxwell-ampere">
+		<title>Maxwell-Ampère Law</title>
 		<statement>
-			<p></p>
-			<p>Consider the four equations above that govern the creation of electric and magnetic fields.</p>
-			<ul>
-				<li>
-					<p>
-						How do you feel, personally, about the equations and what they are trying to say?
-					</p>
-				</li>
-				<li>
-					<p>
-						What symmetries or similarities do you see in these four equations?
-					</p>
-				</li>
-				<li>
-					<p>
-						Why do you think the equations are arranged as shown above?
-					</p>
-				</li>
-				<li>
-					<p>
-						Do you feel like there is anything missing from the equations?
-					</p>
-				</li>
-			</ul>
+			<p>
+				
+			</p>
+			<p>The <term>Ampère-Maxwell Law</term> combines Ampère's Law with Maxwell's correction to relate the magnetic field around a closed curve to both the current and the changing electric flux passing through the region bounded by the curve: 
+			<md>\oint_S \vec{B}\cdot d\vec{l} = \mu_0 I_{enclosed} + \mu_0 \epsilon_0 \frac{\partial \Phi_E}{\partial t}</md></p>
+			<p>
+				This is a line integral, like the integral for <xref ref="e_to_v"/>. The circle over the integral symbol indicates that this is an integral over a <em>closed path</em>: when this is true, the line integral is known as the <term>circulation</term> of the magnetic field.
+			</p>
+			<p>
+				The Ampère-Maxwell Law governs how both <em>currents</em> (made of moving electric charges) and <em>changing electric fields</em> create magnetic fields.  All other rules about the creation of magnetic fields, such as the <xref ref="def_mag-current"/>, ultimately come from this Law.  Magnetic fields always circulate around the current and the changing electric field, as shown in the <xref ref="x_fig_mag-full"/>.
+			</p>
 		</statement>
-		</activity>
-	</subsubsection>
+	</definition>
+
+
 	
 	
 <!--NO AI-->

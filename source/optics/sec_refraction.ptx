@@ -27,7 +27,7 @@
         <title>Index of Refraction</title>
         <statement>
             <p></p>
-            <p>The <term>Index of Refraction</term> tells you something about how much a light ray will bend when crossing the boundary from one medium to another.  It can be quantified as the speed of light in vacuum <m>c</m> divided by the speed of light in a given medium <m>v</m>: <me>n = c/v</me> </p>
+            <p>The <term>Index of Refraction</term> tells you something about how much a light ray will bend when crossing the boundary from one medium to another.  It can be quantified as the speed of light in vacuum <m>c</m> divided by the speed of light in a given medium <m>v</m>: <md>n = c/v</md> </p>
         </statement>
     </definition>
 
@@ -35,7 +35,7 @@
         <title>The Law of Refraction (Snell's Law)</title>
         <statement>
             <p></p>
-          <p>Light refracts (bends) when it enters into a different medium at some angle, <m>\theta_1</m>: <me>n_1 \mathrm{sin}(\theta_1) = n_2 \mathrm{sin}(\theta_2)</me>.
+          <p>Light refracts (bends) when it enters into a different medium at some angle, <m>\theta_1</m>: <md>n_1 \mathrm{sin}(\theta_1) = n_2 \mathrm{sin}(\theta_2)</md>.
             <figure xml:id="refraction">
             <title>Refraction Figure</title>
             <caption>A diagram of the Law of Refraction.</caption>

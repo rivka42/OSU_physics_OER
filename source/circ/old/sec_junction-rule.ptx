@@ -41,7 +41,7 @@
 	<principle>
 		<title>The Junction Rule</title>
 		<statement>
-			<p>The <term>Junction Rule</term> tells us that at a junction, the sum of the incoming currents must equal the sum of the outgoing currents: <me>\sum I_{\mathrm{in}} = \sum I_{\mathrm{out}}</me></p>
+			<p>The <term>Junction Rule</term> tells us that at a junction, the sum of the incoming currents must equal the sum of the outgoing currents: <md>\sum I_{\mathrm{in}} = \sum I_{\mathrm{out}}</md></p>
 		</statement>
 	</principle>
 	

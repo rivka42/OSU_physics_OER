@@ -25,9 +25,9 @@
 </statement>
 <answer>
 	<p>
-		<me>
+		<md>
 			\alpha=\frac{a_t}{R}
-		</me>
+		</md>
 		
 	</p>
 </answer>
@@ -124,21 +124,21 @@
 			<description>A correct free-body diagram for the unicycle.</description></image>
   </figure>
 			<p>
-				The Law of Motion says: <me>
+				The Law of Motion says: <md>
 					F^{sf} = (m + M)a
-				</me>
+				</md>
 				Both the wheel and the person are accelerating forward.
 			</p>
 			<p>
-				The Rotational Law of Motion says: <me>
+				The Rotational Law of Motion says: <md>
 					F_{WS}^N d - F^{sf} R = mR^2\frac{a}{R}
-				</me>
-				<me>
+				</md>
+				<md>
 					Mgd - R(m + M)a = mRa
-				</me>
-				<me>
+				</md>
+				<md>
 					d = \frac{(2m + M)}{M}\frac{a}{g}R
-				</me>
+				</md>
 			</p>
 			<p>
 				<alert>Covariational Reasoning:</alert> If the acceleration increases, the distance you lean forward must increases. If you want to accelerate more, the tires need to spin faster, which means a higher angular acceleration, which requires more torque. By leaning forward more, more torque is applied to the wheel.

@@ -44,27 +44,27 @@
 				There are only two forces acting on the ball: the gravitational force with magnitude <m>mg</m> and the tension force with unknown magnitude <m>F^T</m>.  The ball accelerates downward, so the net force should also point downward, leading to the conclusion that the gravitational force is larger than the tension force.
 			</p>
 			<p>
-				Using the Rotational Law of Motion for an axis passing through the place where the string is in contact with the ball: <me>
+				Using the Rotational Law of Motion for an axis passing through the place where the string is in contact with the ball: <md>
 					\vec{\tau}_{net} = I\vec{\alpha}
-				</me>
-				<me>
+				</md>
+				<md>
 					mgr = \frac{5}{3}mr^2\frac{a}{r}
-				</me>
-				<me>
+				</md>
+				<md>
 					a = \frac{3}{5}g
-				</me>
+				</md>
 				
 				Now using the regular Law of Motion (with negative, downward acceleration): 
-				<me>
+				<md>
 					F^T - mg = -ma
-				</me>
-				<me>
+				</md>
+				<md>
 					F^T = \frac{2}{5}mg
-				</me>
+				</md>
 				Plugging in the given numbers gives: 
-				<me>
+				<md>
 					F^T = 0.24 \mathrm{~N}
-				</me>
+				</md>
 				
 			</p>
 		</solution>

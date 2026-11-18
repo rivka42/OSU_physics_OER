@@ -72,9 +72,9 @@
 			</statement>
 			<answer>
 			<p>
-			<me>\Phi_E = \frac{Q_{enc}}{\epsilon_0}</me>
-			<me>2EL^2 = \frac{\sigma_o L^2}{\epsilon_0}</me>
-			<me>E = \frac{\sigma_o}{2\epsilon_0}</me>
+			<md>\Phi_E = \frac{Q_{enc}}{\epsilon_0}</md>
+			<md>2EL^2 = \frac{\sigma_o L^2}{\epsilon_0}</md>
+			<md>E = \frac{\sigma_o}{2\epsilon_0}</md>
 			As discussed above, this electric field points upward above the sheet and downward below the sheet.
 			</p>
 			</answer>

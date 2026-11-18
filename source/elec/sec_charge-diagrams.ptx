@@ -125,23 +125,23 @@
 						</li>
 						<li>
 							<p>
-								We must integrate the force! <me>
+								We must integrate the force! <md>
 									\vec{F} = q\vec{E}
-								</me>
-								<me>
+								</md>
+								<md>
 									d\vec{F} = \vec{E}dq
-								</me>
+								</md>
 								Using the linear charge density, we rewrite <m>dq</m>:
-								<me>
+								<md>
 									d\vec{F} = \vec{E} \lambda(x) dx
-								</me>
-								Integrating both sides of this expression: <me>
+								</md>
+								Integrating both sides of this expression: <md>
 									\vec{F} = \int \vec{E} \lambda(x) dx
-								</me>
+								</md>
 								Since the electric field does not change in the <m>x</m> direction, it can be pulled out of the integral:
-								<me>
+								<md>
 									\vec{F} = \vec{E} \int \lambda(x) dx
-								</me>
+								</md>
 								The integral of <m>\lambda(x)dx</m> gives you the total charge. It turns out, the electric force is the same, because the electric field is uniform and the total charge remained the same! 
 							</p>
 						</li>

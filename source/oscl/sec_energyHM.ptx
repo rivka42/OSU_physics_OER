@@ -10,7 +10,7 @@ You previously saw that position-dependent forces generally have associated pote
 <p>
 Recall that the change in potential energy can be calculated as the negative value of the work done by the interaction force, and work is the sum of the component of force that is in the same direction as the object's displacement vector as it moves from one position to the next,
 
-<me> \Delta U = -W_{int} = - \int_{r_0}^{r_f}\vec{F}(r) \cdot d\vec{r}</me>
+<md> \Delta U = -W_{int} = - \int_{r_0}^{r_f}\vec{F}(r) \cdot d\vec{r}</md>
 
 Here <m> \vec{r} </m> represents a position vector and <m> d\vec{r} </m> is an infinitesimal change in position. A conservative force is a force in which the work done when moving from some initial position to some final position is independent of the path the object takes in space. A condition for a force to be conservative is that an object returning to its starting position will do so with no loss of energy if the initial and final points are the same. All dissipative forces such as friction and air drag are considered <alert> non-conservative</alert> since they dissipate energy as the object moves through space.
 </p>
@@ -18,15 +18,15 @@ Here <m> \vec{r} </m> represents a position vector and <m> d\vec{r} </m> is an i
 <p>
 Recall the spring force, where the equilibrium position is located at <m> x = 0 </m>, 
 
-<me> \vec{F}(x) = -kx \hat{x}</me>
+<md> \vec{F}(x) = -kx \hat{x}</md>
 
 Plugging this into the work integral, the change in potential energy for the system
 
-<me> \Delta U = U(x) - U_0 = \frac{1}{2} k x^2 </me>
+<md> \Delta U = U(x) - U_0 = \frac{1}{2} k x^2 </md>
 
 You can always set the zero point of potential energy to <m> U_0 = 0</m>. The total mechanical energy of the spring system is the sum of kinetic and potential energies
 
-<me> E = K + U = \frac{1}{2} m v^2 + \frac{1}{2} k x^2</me>
+<md> E = K + U = \frac{1}{2} m v^2 + \frac{1}{2} k x^2</md>
 
 This holds as long as you assume no dissipative forces act on the system. </p>
 
@@ -39,15 +39,15 @@ This holds as long as you assume no dissipative forces act on the system. </p>
 <p>
 There are some special cases to consider. As the system oscillates, kinetic and potential energy are exchanged. When <m> x = \pm x_{\text{max}} </m> (see <xref ref="energySHM"></xref>), the system only has potential energy
 
-<me> U(x) =  \frac{1}{2} k x_{\text{max}}^2 </me>
+<md> U(x) =  \frac{1}{2} k x_{\text{max}}^2 </md>
 
 As the system passes through the equilibrium position <m> x = 0 </m> and the speed is maximal <m> v = v_{max}</m> (see <xref ref="sec_graphTrig"></xref>), the system only has kinetic energy,
 
-<me> K = \frac{1}{2} m v_{max}^2</me>
+<md> K = \frac{1}{2} m v_{max}^2</md>
 
 Conservation of energy allows you to write the total energy of the system in multiple ways.  
 
-<me> E = \frac{1}{2} m v^2 + \frac{1}{2} k x^2 = \frac{1}{2} k x_{\text{max}}^2 =  \frac{1}{2} m v_{max}^2 </me>
+<md> E = \frac{1}{2} m v^2 + \frac{1}{2} k x^2 = \frac{1}{2} k x_{\text{max}}^2 =  \frac{1}{2} m v_{max}^2 </md>
 
 The first term accounts for positions between <m> x=0 </m> and <m> x=\pm x_{\text{max}}</m>. The last two expression represent the energy at <m> x=\pm x_{\text{max}}</m> and <m> x = 0 </m> respectively. These relations are very useful for analyzing spring systems using an energy approach. 
 </p>

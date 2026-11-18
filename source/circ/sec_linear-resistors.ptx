@@ -28,7 +28,7 @@
 			<ul>
 				<li>
 					<p>
-						<alert>The resistance can be calculated from material properties.</alert>  A resistor with length <m>L</m>, cross-sectional area <m>A</m>, and resistitivty <m>\rho</m> has resistance <me>R = \rho \frac{L}{A}</me>
+						<alert>The resistance can be calculated from material properties.</alert>  A resistor with length <m>L</m>, cross-sectional area <m>A</m>, and resistitivty <m>\rho</m> has resistance <md>R = \rho \frac{L}{A}</md>
 					</p>
 				</li>
 				<li>
@@ -57,7 +57,7 @@
 				
 			</p>
 			<p>
-				<term>Ohm's Law</term> relates the voltage <m>V</m> across a circuit element to the current <m>I</m> flowing through that element: <me>V = IR</me>
+				<term>Ohm's Law</term> relates the voltage <m>V</m> across a circuit element to the current <m>I</m> flowing through that element: <md>V = IR</md>
 			</p>
 			<p>
 				<alert><m>R</m> is the resistance of the circuit element.</alert>  For a linear resistor, the resistance is constant.  For nonlinear resistors like light bulbs, the resistance will be a non-constant function of <m>I</m>.

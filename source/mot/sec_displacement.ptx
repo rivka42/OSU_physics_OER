@@ -97,19 +97,19 @@ Sometimes, subscripts might even be combined: <m>r_{x3i}</m> for the <m>x</m>-co
 				</p>
 				<p>
 					<alert>Find unknown symbolically:</alert> If you have everything written out in the Principles, this step is often just plugging in the quantities you know and doing a little algebra.  Remember, you want to keep your work symbolic as long as possible!
-					<me>
+					<md>
 						\Delta \vec{r} = \vec{r}_f - \vec{r}
-					</me>
-					<me>
+					</md>
+					<md>
 						\Delta \vec{r} = d \hat{x} - L \hat{y}
-					</me>
+					</md>
 					
 				</p>
 				<p>
 					<alert>Plug in numbers:</alert> This step is usually very straightforward: you already have an answer in terms of symbols you know the numerical value for, so all you have to do is plug them in!
-					<me>
+					<md>
 						\Delta \vec{r} = 50 \hat{x} - 125 \hat{y}~(\mathrm{m})
-					</me>
+					</md>
 				</p>
 			</example>
 

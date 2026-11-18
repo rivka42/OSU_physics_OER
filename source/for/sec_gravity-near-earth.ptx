@@ -27,7 +27,7 @@
 		<p>
 			
 		</p>
-		<p>The gravitational field due to the Earth near the surface of the Earth is uniform: <me>\vec{g} = -g \hat{y}</me> where <m>g = 9.81 \mathrm{~m/s}^2 \approx 10 \mathrm{~m/s}^2</m>.</p>
+		<p>The gravitational field due to the Earth near the surface of the Earth is uniform: <md>\vec{g} = -g \hat{y}</md> where <m>g = 9.81 \mathrm{~m/s}^2 \approx 10 \mathrm{~m/s}^2</m>.</p>
 	</statement>
 </assumption>
 		
@@ -42,7 +42,7 @@
 			  <p>How does this assumption hold up to the <xref ref="fig_assumptions"></xref>?</p>
 				</statement>
 				<answer>
-					<p>It certainly looks useful, since the magnitude <m>g</m> looks like a much easier expression than <me>\frac{GM_B}{r^2}</me>  Most of the physics you will think about takes place near the surface of the Earth, so it is going to be reasonable much of the time.  The most obvious limitation is how far you are from the surface of the Earth, which will limit how accurate the approximation is.  Additionally, if you are near the surface of an object other than Earth, the gravitational field would still be uniform, but you would need to calculate the magnitude of the field for that object.</p>
+					<p>It certainly looks useful, since the magnitude <m>g</m> looks like a much easier expression than <md>\frac{GM_B}{r^2}</md>  Most of the physics you will think about takes place near the surface of the Earth, so it is going to be reasonable much of the time.  The most obvious limitation is how far you are from the surface of the Earth, which will limit how accurate the approximation is.  Additionally, if you are near the surface of an object other than Earth, the gravitational field would still be uniform, but you would need to calculate the magnitude of the field for that object.</p>
 				</answer>
 			</activity>
 			<activity xml:id="x_gravity-directions">

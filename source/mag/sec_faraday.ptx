@@ -25,7 +25,7 @@
         
       </p>
 			<p><term>Faraday's Law</term> relates the induced electric field around a closed loop to the change in the magnetic flux through that loop:
-        <me> \oint \vec{E} \cdot \vec{dl} = - \frac{\partial \Phi_B}{\partial t}</me></p>
+        <md> \oint \vec{E} \cdot \vec{dl} = - \frac{\partial \Phi_B}{\partial t}</md></p>
         <ul>
           <li>
             <p>

@@ -34,7 +34,7 @@
 		<p>
 			
 		</p>
-	<p>The <term>gravitational force</term> on a system with mass <m>m_A</m> in the presence of a gravitational field <m>\vec{g}_B</m> is: <me>\vec{F}^{G}_{AB} = m_A\vec{g}_B</me></p>
+	<p>The <term>gravitational force</term> on a system with mass <m>m_A</m> in the presence of a gravitational field <m>\vec{g}_B</m> is: <md>\vec{F}^{G}_{AB} = m_A\vec{g}_B</md></p>
 	</statement>
 	</definition>
 	

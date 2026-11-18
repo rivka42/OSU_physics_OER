@@ -9,15 +9,15 @@ You can formalize the process for the block on a spring into a <em> physical mod
 
 <p> Consider a general position function <m>s(t)</m> and an <alert> equation of motion</alert> which can be written in the form:
 
-<me xml:id="HM_model"> \frac{d^2}{dt^2} s(t) = -C s(t)</me>
+<md> \frac{d^2}{dt^2} s(t) = -C s(t)</md>
 
 where <m> C</m> can be any collection of constants. If you can write the equation of motion in this form, then you can immediately determine the angular frequency and period of the oscillation:
 
-<me xml:id="HM_model2"> \omega = \sqrt{C} = \frac{2 \pi}{T}</me>
+<md> \omega = \sqrt{C} = \frac{2 \pi}{T}</md>
 
 Additionally, the function that <m> solves </m> the differential equation will always be a position function that oscillates in time about <m>s = 0</m>:
 
-<me> s(t) = s_{\text{max}} \cos( \omega t + \phi_i)</me>
+<md> s(t) = s_{\text{max}} \cos( \omega t + \phi_i)</md>
 
 Where <m>s_{\text{max}}</m> and <m> \phi_i</m> are determined from the initial conditions of the oscillator. 
 </p>
@@ -32,11 +32,11 @@ Where <m>s_{\text{max}}</m> and <m> \phi_i</m> are determined from the initial c
     </p>
     <p>
       Any object or system described by an equation of motion satisfying:
-      <me> \frac{d^2}{dt^2} s(t) = -\omega^2 s(t)</me>
+      <md> \frac{d^2}{dt^2} s(t) = -\omega^2 s(t)</md>
       can be represented using <term>simple harmonic motion</term> as 
-      <me>
+      <md>
         s(t) = s_{\text{max}} \cos( \omega t + \phi_i)
-      </me>
+      </md>
       
     </p>
   </statement>

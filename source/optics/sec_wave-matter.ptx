@@ -107,7 +107,7 @@
                 
             </p>
             <p>
-                When you treat a massive particle as wavelike, the wavelength (typically known as the de Broglie wavelength) is given by <me>\lambda = \frac{h}{p}</me> where <m>p</m> is the magnitude of the particle's momentum and <m>h = 6.626 \times 10^{-34} \mathrm{~Js}</m> is Planck's constant.
+                When you treat a massive particle as wavelike, the wavelength (typically known as the de Broglie wavelength) is given by <md>\lambda = \frac{h}{p}</md> where <m>p</m> is the magnitude of the particle's momentum and <m>h = 6.626 \times 10^{-34} \mathrm{~Js}</m> is Planck's constant.
             </p>
         </statement>
       </definition>

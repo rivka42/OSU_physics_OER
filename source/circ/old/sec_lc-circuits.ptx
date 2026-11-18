@@ -3,7 +3,7 @@
 <section xml:id="sec_lc-circuits" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>LC Circuits</title>
 		
-		<p>Recall that the voltage across an inductor is given by <me>V_{inductor} = -L \frac{dI}{dt}</me></p>
+		<p>Recall that the voltage across an inductor is given by <md>V_{inductor} = -L \frac{dI}{dt}</md></p>
 		
 		
 	<subsubsection>

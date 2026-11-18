@@ -175,7 +175,7 @@ Physics uses the word dimensions to refer to the class of unit for a quantity.  
 			  <p>Your friend has developed a new engine that creates carbon dioxide gas.  
 				Your friend shows you an equation they created relating the volume of gas created (<m>V</m>) to the width of the engine (<m>w</m>), 
 				the amount of time the engine has been running (<m>\Delta t</m>), and the mass of a single molecule of carbon dioxide (<m>M</m>): 
-				<me>V = k\frac{w^2\Delta t}{M}</me>  
+				<md>V = k\frac{w^2\Delta t}{M}</md>  
 				Use what you know about the other symbols in the problem to determine the units of <m>k</m>.</p>
 				</statement>
 				<answer>

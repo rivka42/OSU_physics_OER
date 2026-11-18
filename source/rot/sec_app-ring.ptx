@@ -10,10 +10,10 @@
 		<p></p>
 		    <p>
 				Mars has two moons, Phobos and Deimos, which have the following orbital properties:
-				<me>R_p = 9 \times 10^6 \mathrm{~m}</me>
-				<me>R_d = 20 \times 10^6 \mathrm{~m}</me>
-				<me>M_p = 11 \times 10^15 \mathrm{~kg}</me>
-				<me>M_d = 2 \times 10^15 \mathrm{~kg}</me>
+				<md>R_p = 9 \times 10^6 \mathrm{~m}</md>
+				<md>R_d = 20 \times 10^6 \mathrm{~m}</md>
+				<md>M_p = 11 \times 10^15 \mathrm{~kg}</md>
+				<md>M_d = 2 \times 10^15 \mathrm{~kg}</md>
 			</p>
 			<ol>
 				<li>
@@ -53,9 +53,9 @@ Find the moment of inertia for the system consisting of the two moons about an a
 	<task>
 		<statement>
 			<p>
-				Explain why the mass density can be given by: <me>
+				Explain why the mass density can be given by: <md>
 					\sigma = \frac{m}{\pi(r_o^2 - r_i^2)}
-				</me>
+				</md>
 				
 			</p>
 		</statement>

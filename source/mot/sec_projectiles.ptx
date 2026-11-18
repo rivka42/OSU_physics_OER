@@ -63,15 +63,15 @@
 </statement>
 <solution>
 	<p>
-		<me>
+		<md>
 			t = \frac{v}{g}\sin\theta \pm \sqrt{\frac{v^2}{g^2}\sin^2\theta + 2\frac{h}{g}}
-		</me>
-		<me>
+		</md>
+		<md>
 			x = vt\cos\theta
-		</me>
-		<me>
+		</md>
+		<md>
 			v_f = \sqrt{v^2 + 2gh}
-		</me>
+		</md>
 	</p>
 </solution>
 

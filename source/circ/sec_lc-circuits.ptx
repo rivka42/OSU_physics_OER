@@ -10,7 +10,7 @@
 	</p>
   </assemblage>
 		
-		<p>Recall that the voltage across an inductor is given by <me>V_{inductor} = -L \frac{dI}{dt}</me></p>
+		<p>Recall that the voltage across an inductor is given by <md>V_{inductor} = -L \frac{dI}{dt}</md></p>
 		
 
 		<activity>
@@ -139,11 +139,11 @@
 
 	<p>
 		You can use the <xref ref="loop-rule"/> to relate the voltages across the different circuit elements: 
-		<me>V_C + V_L = 0</me>
-		<me>\frac{Q}{C} + L\frac{dI}{dt} = 0</me>
-		<me>Q(t) = -LC\frac{d^2Q}{dt^2}</me>
+		<md>V_C + V_L = 0</md>
+		<md>\frac{Q}{C} + L\frac{dI}{dt} = 0</md>
+		<md>Q(t) = -LC\frac{d^2Q}{dt^2}</md>
 		The charge on the capacitor therefore fits the model for <xref ref="assumption-shm"/>!
-		<me>I(t) = \frac{V}{R} \left(1 - e^{-tR/L}\right)</me>
+		<md>I(t) = \frac{V}{R} \left(1 - e^{-tR/L}\right)</md>
 	</p>
 
 <activity>

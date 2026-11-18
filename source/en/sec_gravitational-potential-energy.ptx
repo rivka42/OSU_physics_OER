@@ -22,7 +22,7 @@
 	<title>Gravitational Potential Energy (General)</title>
 	<statement>
 		<p></p>
-	<p>For a system with a small massive object (mass <m>m</m>) and a large massive object (mass <m>M</m>), the <term>gravitational potential energy</term> is <me>U_{grav} = -\frac{GmM}{r}</me> where <m>r</m> is the distance between the centers of the two objects.</p>
+	<p>For a system with a small massive object (mass <m>m</m>) and a large massive object (mass <m>M</m>), the <term>gravitational potential energy</term> is <md>U_{grav} = -\frac{GmM}{r}</md> where <m>r</m> is the distance between the centers of the two objects.</p>
 	
 	<p><term>Assumption 1:</term> The mass of the large object must be distributed spherically.</p>
 	

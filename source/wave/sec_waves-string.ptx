@@ -50,11 +50,11 @@ Do you think the speed of the wave depends on the frequency that you oscillate t
 <p>
 Consider a stretched string of length <m> L </m> and mass <m> m </m> with tension <m> T_s </m>, and <alert> linear density </alert> <m> \mu_s</m> where 
 
-<me> \mu_s = \frac{m}{L}</me>
+<md> \mu_s = \frac{m}{L}</md>
 
 is the mass-to-length ratio of the string. The wave speed <m> v </m>
 
-<me> v_{\text{string}} = \sqrt{\frac{T_s}{\mu_s}} </me>
+<md> v_{\text{string}} = \sqrt{\frac{T_s}{\mu_s}} </md>
 
 depends on the tension that serves as a restoring force for the medium and the linear density of the string.  Interestingly, the wave speed does not depend on the frequency of the wave!
 </p>
@@ -114,7 +114,7 @@ Explicitly check the units of <m> v_{\text{string}} </m> to confirm its relation
 <answer>
 <p>
 
-<me> m/s = \sqrt{N/(kg/m)} = \sqrt{\frac{(kg*m/s^2)}{(kg/m)}}=\sqrt{\frac{m^2}{s^2}} = m/s </me>
+<md> m/s = \sqrt{N/(kg/m)} = \sqrt{\frac{(kg*m/s^2)}{(kg/m)}}=\sqrt{\frac{m^2}{s^2}} = m/s </md>
 
 Indeed, the units are consistent. 
 </p>

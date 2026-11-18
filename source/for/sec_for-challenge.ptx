@@ -123,12 +123,12 @@
 	<answer>
 	<p>
 		
-		<me>
+		<md>
 			F_R^T = \frac{mg\cos\theta}{\cos\alpha\sin\theta + \sin\alpha\cos\theta}
-		</me>
-		<me>
+		</md>
+		<md>
 			F_L^T = \frac{mg\cos\alpha}{\cos\alpha\sin\theta + \sin\alpha\cos\theta}
-		</me>
+		</md>
 		<!--Compare these equations to the equations you found in a previous assignment <xref ref="psa_lom-01"/>.  
 		Explain any similarities and differences between the equations for the two activities.-->
 	</p>

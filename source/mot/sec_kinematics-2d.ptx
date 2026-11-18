@@ -41,17 +41,17 @@
 			<answer>
 				<p>
 					Starting with the <m>x</m>-direction position equation:
-					<me>
+					<md>
 						v_{ix} = \frac{d}{T}
-					</me>
+					</md>
 					Then using the <m>y</m>-direction position equation:
-					<me>
+					<md>
 						v_{iy} = \frac{1}{2}gT
-					</me>
+					</md>
 					And putting it all together:
-					<me>
+					<md>
 						\vec{v}_{i} = \frac{d}{T}\hat{x} + \frac{1}{2}gT\hat{y}
-					</me>
+					</md>
 					
 					
 				</p>

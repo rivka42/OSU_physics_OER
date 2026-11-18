@@ -26,7 +26,7 @@
 	<title>Average Velocity</title>
 	<statement>
 		<p></p>
-		<p>The <term>average velocity</term> of an object is the object's displacement divided by the interval of time required to move through that displacement: <me>\vec{v}_{ave} = \frac{\Delta \vec{r}}{\Delta t}</me></p>
+		<p>The <term>average velocity</term> of an object is the object's displacement divided by the interval of time required to move through that displacement: <md>\vec{v}_{ave} = \frac{\Delta \vec{r}}{\Delta t}</md></p>
 	</statement>
 </definition>
 
@@ -122,7 +122,7 @@ In fact, most of physics is concerned with predicting what will happen to a syst
 	<statement>
 		<p></p>
 		<p>The <term>instantaneous velocity</term> of an object is found by taking the limit as <m>\Delta t \rightarrow 0</m>, resulting in infinitesimal changes in 
-			position and time: <me>\vec{v} = \frac{d \vec{r}}{d t}</me></p>
+			position and time: <md>\vec{v} = \frac{d \vec{r}}{d t}</md></p>
 	</statement>
 </definition>
 

@@ -30,7 +30,7 @@
         <title>Two-Source Path Length Difference</title>
         <statement>
             <p></p>
-            <p>For a screen that is far away from two sources of light, the <term>path length difference</term> can be approximated as <me>\Delta D = d \sin \theta</me>  where <m>d</m> is the distance between slits and <m>\theta</m> is the angle between the center line and the path to a spot on the screen.</p>
+            <p>For a screen that is far away from two sources of light, the <term>path length difference</term> can be approximated as <md>\Delta D = d \sin \theta</md>  where <m>d</m> is the distance between slits and <m>\theta</m> is the angle between the center line and the path to a spot on the screen.</p>
         </statement>
     </assumption>
 		
@@ -56,9 +56,9 @@
             </statement>
             <answer>
                 <p>
-                    <me>
+                    <md>
                         d \sin \theta = m\lambda
-                    </me>
+                    </md>
                     
                 </p>
             </answer>
@@ -75,9 +75,9 @@
             </statement>
             <answer>
                 <p>
-                    <me>
+                    <md>
                         d \sin \theta = \left( m + \frac{1}{2} \right)\lambda
-                    </me>
+                    </md>
                     
                 </p>
             </answer>
@@ -90,13 +90,13 @@
                         </statement>
                         <answer>
                             <p>
-                                <me>
+                                <md>
                                     \sin\theta \approx \theta \approx \tan\theta = \frac{y}{L}
-                                </me>
+                                </md>
                                 Plugging this into the maximum constructive interference expression above gives:
-                                <me>
+                                <md>
                                     d \frac{y}{L} = m\lambda
-                                </me>
+                                </md>
                                 
                             </p>
                         </answer>
@@ -105,9 +105,9 @@
 
                         <p>
                             The process above will allow you to find locations where the light exhibits maximum intensity (bright spots) and zero intensity (dark spots).  It is also possible to determine that the intensity at <em>any</em> given point on the screen under the approximations described above is
-                            <me>
+                            <md>
                                 I(y) = I_0 \cos^2{\left(\frac{\pi d}{L\lambda}y\right)}
-                            </me>
+                            </md>
                             where <m>I_0</m> is the intensity of one of the point sources.
                         </p>
 

@@ -27,7 +27,7 @@
 		</p>
 		<p>
 			An induced current creates a magnetic field that <alert>always opposes</alert> the change in magnetic flux.
-			<me>I_{\text{induced}} \propto - \frac{\partial \Phi_B}{\partial t}</me>
+			<md>I_{\text{induced}} \propto - \frac{\partial \Phi_B}{\partial t}</md>
 		</p>
 		<figure xml:id="fig_InducedI">
 			<title>Induced Current Figure</title>

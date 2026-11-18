@@ -91,7 +91,7 @@
 		<p></p>
 		    <p>You are riding your bicycle along a busy street.  You are stopped at a stoplight that turns green at <m>t = 0</m>, 
 				after which your digital speedometer measures your velocity until you have to stop at the next stoplight as a 
-				function of time to be <me>\vec{v}(t)=V\left[ 1-\left(\frac{t}{T}-1\right)^4 \right] \hat{y}</me></p>
+				function of time to be <md>\vec{v}(t)=V\left[ 1-\left(\frac{t}{T}-1\right)^4 \right] \hat{y}</md></p>
 				<p>Determine the distance between the stoplights.</p>
 				<assemblage>
 		    <p><alert><!--REPLACE_TAG-->Tip:</alert> For the physical representation (part 1c), draw graphs of position, velocity, and acceleration vs. time, paying careful attention to the domain of your graphs.</p>

@@ -102,15 +102,15 @@
 		</p>
 		<p>
 			The oscillation <term>frequency</term> is the number of cycles completed during a given time interval, and is thus related to the period by
-			<me>
+			<md>
 				f = \frac{2\pi}{T}
-			</me>
+			</md>
 
 			Frequency is measured in cycles per second, or Hertz (Hz).  The <term>angular frequency</term> is instead the number of radians completed during a given time interval, and is given by
 			
-			<me>
+			<md>
 				\omega = 2\pi f = \frac{2\pi}{T}
-			</me>
+			</md>
 
 			Angular frequency is measured in radians per second.
 		</p>

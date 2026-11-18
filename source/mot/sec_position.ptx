@@ -46,7 +46,7 @@ You may be familiar with Cartesian coordinates already: <m>x</m> along the horiz
 
 </definition>
 
-<p>As with any vector, position can be written either by giving a magnitude and a direction, or by writing it in terms of components using unit vectors: <me>\vec{r}= r_x\hat{x} + r_y \hat{y}</me>  A graphical representation of such a vector is shown below.</p>
+<p>As with any vector, position can be written either by giving a magnitude and a direction, or by writing it in terms of components using unit vectors: <md>\vec{r}= r_x\hat{x} + r_y \hat{y}</md>  A graphical representation of such a vector is shown below.</p>
 
 	<definition xml:id="def_unit-vectors">
 <title>Unit Vector</title>
@@ -119,16 +119,16 @@ Symbols like <m>\hat{x}</m> and <m>\hat{y}</m> are special vectors called <em>un
 		</statement>
 		<answer>
 		<p>
-		<me>r_x = r\cos\theta</me>
-		<me>r_y = r\sin\theta</me>
+		<md>r_x = r\cos\theta</md>
+		<md>r_y = r\sin\theta</md>
 		</p>
 		<p>
 			Let the other angle in the triangle be called <m>\alpha</m>.  Since <m>\alpha</m> is the complementary angle to <m>\theta</m> (the two angles add up to <m>90^o</m>), 
 			the adjacent and opposite sides of the triangle have been reversed, and thus the corresponding trig functions will be reversed.
 		</p>
 		<p>
-		<me>r_x = r\sin\alpha</me>
-		<me>r_y = r\cos\alpha</me>
+		<md>r_x = r\sin\alpha</md>
+		<md>r_y = r\cos\alpha</md>
 		</p>
 		</answer>
 	</exploration>

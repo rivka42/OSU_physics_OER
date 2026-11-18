@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_em-waves" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>Electromagnetic Waves</title>
+
+
+
+
+
+
+
+	<assumption xml:id="a_plane-waves">
+		<title>Electromagnetic Plane Wave</title>
+		<statement>
+			<p>
+				
+			</p>
+			<p>
+				An <alert>electromagnetic plane wave</alert> is a sinusoidal traveling wave describing changes in the electric and magnetic fields.  The example wave below is traveling in the positive <m>x</m>-direction.
+				<md>
+					\vec{E}(x, y, z, t) = \left( E_o \hat{x} \right) \cos\left(\frac{2\pi}{\lambda}z - 2\pi ft + \phi_i\right)
+				</md>
+				<md>
+					\vec{B}(x, y, z, t) = \left( B_o \hat{y} \right) \cos\left(\frac{2\pi}{\lambda}z - 2\pi ft + \phi_i\right)
+				</md>
+			</p>
+			<ul>
+				<li>
+					<p>
+						<alert>Electromagnetic waves are transverse.</alert>  Both the direction of the electric field and the direction of the magnetic field are perpendicular to the direction of travel.  The electric and magnetic fields are also mutually perpendicular.  The wave always travels in a direction given by <m>\vec{E} \times \vec{B}</m>.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Plane waves are formed from uniform planes.</alert>  For example, <m>\vec{E}</m> and <m>\vec{B}</m> in the equations above do not depend on <m>x</m> or <m>y</m>, so the fields are <em>the same</em> throughout any plane of constant <m>z</m>.
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>Electromagnetic waves travel at the speed of light.</alert>  In a vacuum, <m>c = \frac{1}{\sqrt{\mu_0\epsilon_0}} \approx 3 \times 10^8 \mathrm{~m/s}</m>.  As with other waves, the frequency and wavelength are related by the wave speed using: <m>c = f\lambda</m>.  
+					</p>
+				</li>
+				<li>
+					<p>
+						<alert>The electric and magnetic fields are tied together.</alert>  The wave cannot exist without both.  The fields are <em>in phase</em> with each other, and their magnitudes are related by <m>B_o = E_o/c</m>.
+					</p>
+				</li>
+			</ul>
+		</statement>
+	</assumption>
+
+
+	
+	
+<!--NO AI-->
+</section>
+

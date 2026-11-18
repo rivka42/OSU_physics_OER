@@ -16,8 +16,8 @@
 		<p></p>
 	<p>
 		As you saw in <xref ref="sec_rc-charge"/>, the charge and current for the <xref ref="RC1"/> are given by:
-		<me>Q(t) = CV \left(1 - e^{-t/RC}\right)</me>
-		<me>I(t) = \frac{dQ}{dt} = \frac{V}{R} e^{-t/RC}</me>
+		<md>Q(t) = CV \left(1 - e^{-t/RC}\right)</md>
+		<md>I(t) = \frac{dQ}{dt} = \frac{V}{R} e^{-t/RC}</md>
 	</p>
 	<p>
 		Make sense of the capacitor charging equations in at least two different ways

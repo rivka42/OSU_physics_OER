@@ -46,11 +46,11 @@
 			<p>
 a) We are looking for the focal length of the eye given object and image locations.
 
-<me>d_o = +25 \mathrm~{cm}</me> (positive because the object is real)
+<md>d_o = +25 \mathrm~{cm}</md> (positive because the object is real)
 
-<me>d_i = +2.4 \mathrm{~cm}</me> (positive because the image is real, or no light would reach the cells in the back of your eye that can detect light)
+<md>d_i = +2.4 \mathrm{~cm}</md> (positive because the image is real, or no light would reach the cells in the back of your eye that can detect light)
 
-<me>f = ?</me>
+<md>f = ?</md>
 
 b) There are a lot of assumptions that go into modeling the eye like this (probably more than we mention here).  Most importantly, we are treating the eye as a thin, spherical lens, and ignoring the curvature at the back of the eye.  This means that we are ignoring any spherical aberration.
 			</p>
@@ -68,21 +68,21 @@ c) Shown in the figure is a diagram of an eye with two of the principal rays tra
 
 <p>2 - Calculate</p>
 <p>
-a) Because we are treating the eye like a thin lens, we can use the thin lens equation: <me>\frac{1}{d_o} + \frac{1}{d_i} = \frac{1}{f}</me>
+a) Because we are treating the eye like a thin lens, we can use the thin lens equation: <md>\frac{1}{d_o} + \frac{1}{d_i} = \frac{1}{f}</md>
 
 b) We just need to get a common denominator!
 
-<me>f = \frac{d_od_i}{d_o + d_i}</me> 
+<md>f = \frac{d_od_i}{d_o + d_i}</md> 
 
 c)
 
-<me>f = \frac{25*2.4}{25+2.4} = +2.18 \mathrm{~cm}</me>
+<md>f = \frac{25*2.4}{25+2.4} = +2.18 \mathrm{~cm}</md>
 </p>
 <p>
 3 - Sensemake
 </p>
 <p>
-a) The units of a focal length should be cm (meters is too big for the eye).  The symbolic expression has only quantities with units of length (cm), but it has two of them multiplied together in the numerator and only one factor of cm in the denominator because the quantities are added.  <me>\frac{cm*cm}{cm} = cm</me>
+a) The units of a focal length should be cm (meters is too big for the eye).  The symbolic expression has only quantities with units of length (cm), but it has two of them multiplied together in the numerator and only one factor of cm in the denominator because the quantities are added.  <md>\frac{cm*cm}{cm} = cm</md>
 
 
 

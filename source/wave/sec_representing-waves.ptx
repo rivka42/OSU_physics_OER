@@ -46,7 +46,7 @@
 <p>
 When you have a history graph, a quantity of note is the <alert>period</alert> <m>T</m>: the time it takes to complete one full oscillation.  As in simple harmonic motion, the period is related to the frequency by 
 
-<me> T = \frac{1}{f} = \frac{2\pi}{\omega}</me>
+<md> T = \frac{1}{f} = \frac{2\pi}{\omega}</md>
 
 Another quantity of note is the amplitude: the maximum displacement away from equilibrium of a particle in the medium. 
 </p> 
@@ -106,11 +106,11 @@ Now, the quantity of note is the <em>distance</em> spanned from one crest of the
 		<p>
 Recall from simple harmonic motion the relationship between angular frequency, frequency, and period,
 
-<me> \omega = 2 \pi f = \frac{2 \pi}{T} </me> 
+<md> \omega = 2 \pi f = \frac{2 \pi}{T} </md> 
 
 Time is the physical quantity described by angular frequency, frequency, and period. There is an analogous spatial relationship between wavelength and a quantity called the <alert>wavenumber</alert> <m>k</m>:
 
-<me> k = \frac{2 \pi}{\lambda} </me>
+<md> k = \frac{2 \pi}{\lambda} </md>
 
 The wavenumber represents the spatial frequency of a wave over a unit distance, and is measured in radians per meter.
 </p>
@@ -125,11 +125,11 @@ The wavenumber represents the spatial frequency of a wave over a unit distance, 
   <p>
 	A traveling wave propagates away from its source at a particular speed called the <alert> wave speed</alert>.  Since both the period <m>T</m> and the wavelength <m>\lambda</m> correspond to a single cycle of a wave, they may be combined as follows:
 	
-	<me> v = \mathrm{\frac{distance}{time}} = \frac{\lambda}{T} = \lambda f</me> 
+	<md> v = \mathrm{\frac{distance}{time}} = \frac{\lambda}{T} = \lambda f</md> 
 	
 	However, it is worth noting that wave speed is <alert>not determined</alert> by the frequency of the wavelength.  Instead, for mechanical waves, <alert> wave speed is a property of the medium's elasticity!</alert>  Combining this with knowledge of the <alert>frequency of the oscillating source</alert> allows you to determine the wavelength:
 
-<me> \lambda = \frac{v}{f} = \frac{\text{medium}}{\text{source}} </me>
+<md> \lambda = \frac{v}{f} = \frac{\text{medium}}{\text{source}} </md>
   </p>
 
 	<principle xml:id="law_wave-speed">
@@ -142,13 +142,13 @@ The wavenumber represents the spatial frequency of a wave over a unit distance, 
 		
 	Wave speed, wavelength, and frequency are related as follows:
 
-<me> \lambda = \frac{v}{f}</me>
+<md> \lambda = \frac{v}{f}</md>
 
-<me> v = \lambda f</me>
+<md> v = \lambda f</md>
 
 	In some cases, it is useful to represent <m>v</m> in terms of <m>k</m> and <m>\omega</m>
 
-	<me> v = \frac{\omega}{k}</me>
+	<md> v = \frac{\omega}{k}</md>
 </p>
 	</statement>
 	</principle>

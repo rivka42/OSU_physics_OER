@@ -21,8 +21,7 @@
 	<!--PREPARE SECTIONS-->
 	<xi:include href="./mag/sec_displacement-current.ptx" />
 	<xi:include href="./mag/sec_maxwell.ptx" />
-
-
+	<xi:include href="./mag/sec_em-waves.ptx" />
 
     <!--PRACTICE SECTIONS-->
 	<xi:include href="./mag/sec_em-practice.ptx" />

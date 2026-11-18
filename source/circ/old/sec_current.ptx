@@ -36,7 +36,7 @@
 			<p>
 				
 			</p>
-			<p><term>Electric Current</term> is the flow of electric charge and has units of Amps (<m>\mathrm{C}/\mathrm{s}</m>). It is defined as the rate of positive charge flowing past a given point in a circuit per unit time: <me>I = \frac{dq}{dt}</me></p>
+			<p><term>Electric Current</term> is the flow of electric charge and has units of Amps (<m>\mathrm{C}/\mathrm{s}</m>). It is defined as the rate of positive charge flowing past a given point in a circuit per unit time: <md>I = \frac{dq}{dt}</md></p>
 		</statement>
 	</definition>
 

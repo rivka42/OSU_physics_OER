@@ -13,7 +13,7 @@
 			<p>
 				
 			</p>
-			<p>An <term>inductor</term> is a circuit element that provides a voltage given by <me>V_{\text{inductor}} = -L \frac{dI}{dt}</me></p>
+			<p>An <term>inductor</term> is a circuit element that provides a voltage given by <md>V_{\text{inductor}} = -L \frac{dI}{dt}</md></p>
 			<ul>
 				<li>
 					<p>
@@ -46,7 +46,7 @@
 		<statement>
 			<p>
 			</p>
-			<p> The potential energy stored in an inductor is given by <me>U_{\text{inductor}} = \frac{1}{2} L I^2</me></p>
+			<p> The potential energy stored in an inductor is given by <md>U_{\text{inductor}} = \frac{1}{2} L I^2</md></p>
 		</statement>
 	</definition>
 	

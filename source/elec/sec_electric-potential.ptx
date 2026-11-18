@@ -38,7 +38,7 @@
 			<p>
 				
 			</p>
-			<p>The change in <term>electric potential energy</term> when a test charge <m>q_{\text{test}}</m> moves through an electric potential difference <m>\Delta V</m> is written: <me>\Delta U_E = q_{\mathrm{test}}\Delta V</me>
+			<p>The change in <term>electric potential energy</term> when a test charge <m>q_{\text{test}}</m> moves through an electric potential difference <m>\Delta V</m> is written: <md>\Delta U_E = q_{\mathrm{test}}\Delta V</md>
 				</p>
 		</statement>
 	</definition>

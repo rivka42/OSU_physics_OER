@@ -22,7 +22,7 @@
 	<title>Spring Potential Energy</title>
 	<statement>
 		<p></p>
-	<p>The potential energy for an ideal spring is <me>U_{spring} = \frac{1}{2}kx^2</me> where <m>x</m> is the 
+	<p>The potential energy for an ideal spring is <md>U_{spring} = \frac{1}{2}kx^2</md> where <m>x</m> is the 
 		displacement of the spring from its equilibrium position. </p>
 	</statement>
 	</definition>

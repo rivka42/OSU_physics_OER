@@ -87,15 +87,15 @@
 		<statement>
 		<p>
 			You have three friends who each calculate a different equation for the maximum allowable force the instructor can apply: 
-			<me>
+			<md>
 				F_{SP}^N = \mu \frac{𝑚_1}{𝑚_1 + 𝑚_2}g
-			</me>
-			<me>
+			</md>
+			<md>
 				F_{SP}^N = \mu\left( 𝑚_2 - 𝑚_1 \right)g
-			</me>
-			<me>
+			</md>
+			<md>
 				F_{SP}^N = \mu \frac{𝑚_1 𝑚_2}{(𝑚_1 + 𝑚_2}g
-			</me>
+			</md>
 			
 			Use a sensemaking strategy to give a reason why each expression is <alert>incorrect</alert>.
 			</p>

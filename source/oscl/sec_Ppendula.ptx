@@ -15,19 +15,19 @@ A pendulum does not need to be a simple mass on a string. In fact, many objects 
 <p>
 Use a torque analysis and your model of simple harmonic motion to analyze the system.  The gravitational torque is 
 
- <me> \tau = -LMg\sin\theta(t) = I \alpha</me> 
+ <md> \tau = -LMg\sin\theta(t) = I \alpha</md> 
  
 Recall that the gravitational force acts at the center of mass of a rigid-body. Here, the distance from the pivot to the center of mass is <m>L</m>. Apply the small-angle approximation, 
 
-<me> \sin\theta(t) \approx \theta(t)</me>
+<md> \sin\theta(t) \approx \theta(t)</md>
 
 Note that this analysis will only provide an accurate predictive model when the angle <m> \theta(t)</m> is small. From this you can determine the equation of motion for the system
 
-<men xml:id="PpendulumE"> \frac{d^2}{dt^2}\theta(t)=-\frac{MgL}{I} \theta(t)</men>
+<md> \frac{d^2}{dt^2}\theta(t)=-\frac{MgL}{I} \theta(t)</md>
 
 The equation of motion is in the <xref ref="assumption-shm"></xref> Model and so you can directly determine the oscillation frequency and period of the system.
 
- <men xml:id="PpendulumE2"> \omega=\sqrt{\frac{MgL}{I}}= \frac{2 \pi}{T}</men>
+ <md> \omega=\sqrt{\frac{MgL}{I}}= \frac{2 \pi}{T}</md>
  
 This equation is general for any rigid-body object so long as you specify the moment of inertia and properly determine the distance from the pivot to the center of mass. 
 </p>

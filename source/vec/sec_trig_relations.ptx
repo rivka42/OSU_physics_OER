@@ -49,9 +49,9 @@ Recall that the sides of a right triangle can be related to the angle using the 
 Consider the sine of angle <m> \theta</m> and its relationship to the sides of the triangle
 </p>
 
-<me>
+<md>
 \sin \theta = \frac{\mathrm{opposite}}{\mathrm{hypotenuse}} = \frac{r_y}{r}
-</me>	
+</md>	
 
 <p>
 Suppose you are given the magnitude and direction angle and you would like to find the components of the vector. You can solve the above equation for the <m>y</m>-component of the position vector <m> \vec{r} </m>  using the above relationship where <m> r_y = r\sin\theta</m>. In this case, the <m>y</m>-component is the magnitude of the vector multiplied by the sine of the angle. 
@@ -61,9 +61,9 @@ Suppose you are given the magnitude and direction angle and you would like to fi
 Now, consider the cosine of angle <m> \theta</m> and its relationship to the sides of the triangle
 </p>
 
-<me>
+<md>
 \cos \theta = \frac{\mathrm{adjacent}}{\mathrm{hypotenuse}} = \frac{r_x}{r}
-</me>	
+</md>	
 
 <p>
 To find the <m>x</m>-component of the position vector <m>\vec{r} </m> you can use the above relationship where <m> r_x = r\cos\theta</m>. 
@@ -73,17 +73,17 @@ To find the <m>x</m>-component of the position vector <m>\vec{r} </m> you can us
 The third relationship allows you to determine the <alert>direction angle</alert> <m>\theta</m> of the position vector using its components. 
 </p>
 
-<me>
+<md>
 tan \theta = \frac{\mathrm{opposite}}{\mathrm{adjacent}} = \frac{r_y}{r_x}  \rightarrow \theta = \tan^{-1}(\frac{r_y}{r_x})
-</me>	
+</md>	
 
 <p>
 Note that vectors are intimately related to right triangle trigonometry. In fact, geometrically the magnitude of a vector is simply the hypotenuse, which can be determined using the familiar Pythagorean theorem.
 </p>
 
-<me>
+<md>
 r = |\vec{r}| = \sqrt{r_x^2 + r_y^2}
-</me>	
+</md>	
 
 
 			<subsubsection xml:id="x_trig-rel">

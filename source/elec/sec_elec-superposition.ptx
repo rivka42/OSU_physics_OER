@@ -84,9 +84,9 @@ Student C: <q>I don't think it matters: as long as three of us are pushing, our 
 		</p>
 		<p>
 			A charge wire has one end at <m>x = 0</m> and the other end at <m>x = L</m>.  You measure the charge density to be the following:
-			<me>
+			<md>
 				\lambda(x) = \frac{q_o}{L^2}x
-			</me>
+			</md>
 			
 
 		</p>

@@ -53,11 +53,11 @@
         <solution>
             <p>
                 Each red photon has
-                <me>E_{red} = \frac{hc}{\lambda} = \frac{6.626 \times 10^{-34}\mathrm{~Js} \times 3 \times 10^8 \mathrm{~m/s}}{6.5 \times 10^{-7} \mathrm{~m}} \approx 3 \times 10^{-19} \mathrm{~J}</me>
+                <md>E_{red} = \frac{hc}{\lambda} = \frac{6.626 \times 10^{-34}\mathrm{~Js} \times 3 \times 10^8 \mathrm{~m/s}}{6.5 \times 10^{-7} \mathrm{~m}} \approx 3 \times 10^{-19} \mathrm{~J}</md>
                 In order to get up to the total energy in an apple, it looks like you need
-                <me>
+                <md>
                     \frac{4 \times 10^6 \mathrm{~J}}{3 \times 10^{-19} \mathrm{~J}} \approx 1.3 \times 10^{25} \mathrm{~photons!}
-                </me>
+                </md>
             </p>
         </solution>
         </activity>

@@ -65,9 +65,9 @@
 			<title>Current</title>
 			<statement><p></p>
 				<p>
-					The total amount of charge that has entered a wire at time t is given by: <me>
+					The total amount of charge that has entered a wire at time t is given by: <md>
 						Q(t) = Q_o (1 - e^{t/\tau})
-					</me>
+					</md>
 					Find an expression for the current in the wire at time <m>t</m>.
 				</p>
 			</statement>

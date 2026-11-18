@@ -153,7 +153,7 @@
 			A changing magnetic flux through a conducting loop will <alert>induce</alert> a current!
 		</p>
 		<p>
-			<me>I_{\text{induced}} \propto - \frac{\partial \Phi_B}{\partial t}</me>
+			<md>I_{\text{induced}} \propto - \frac{\partial \Phi_B}{\partial t}</md>
 		</p>
 	</statement>
 </definition>

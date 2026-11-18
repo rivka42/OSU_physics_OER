@@ -14,7 +14,7 @@
 	  <definition>
 	<title>Moment of Inertia for Continuous Objects</title>
 	<statement><p></p>
-		<p>The <term>moment of inertia</term> of a rigid object is its capacity to resist changes to its angular motion.  For a continuous system, it can be found as a weighted average of the distance from the axis of rotation squared: <me>I = \int r^2 dm</me></p>
+		<p>The <term>moment of inertia</term> of a rigid object is its capacity to resist changes to its angular motion.  For a continuous system, it can be found as a weighted average of the distance from the axis of rotation squared: <md>I = \int r^2 dm</md></p>
 	</statement>
 </definition>
 	
@@ -29,7 +29,7 @@
 	
 	<p><term>Multiply:</term> Once you know the mass of each small piece <m>dm</m>, you <em>multiply</em> to find the moment of inertia of that small piece is: <m>dI = r^2dm = r^2 \rho dV</m>.  Here <m>r</m> is the straight-line (perpendicular) distance from the axis of rotation to the location of <m>dm</m>.  It can be highly useful to draw a diagram of the shape, including an example <m>dm</m>, and label <m>r</m> so that it can be easily written in terms of your chosen coordinates.</p>
 	
-		<p><term>Add:</term> Last, once you have the infinitesimal <m>dI</m>, you <em>add</em> together every <m>dI</m> over the entire object: <me>\int dI = \int r^2 dm</me></p>
+		<p><term>Add:</term> Last, once you have the infinitesimal <m>dI</m>, you <em>add</em> together every <m>dI</m> over the entire object: <md>\int dI = \int r^2 dm</md></p>
 	
 		<note xml:id="note_density">
 	<title>Density</title>

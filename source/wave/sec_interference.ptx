@@ -5,11 +5,11 @@
 	
 	<p>Recall that a sinusoidal wave traveling in the positive <m>x</m>-direction can be written:
 	
-	<me> y(x,t) = y_{\mathrm{max}} \sin\left(\frac{2\pi}{\lambda}x - \frac{2\pi}{T}t + \phi_i \right)</me>
+	<md> y(x,t) = y_{\mathrm{max}} \sin\left(\frac{2\pi}{\lambda}x - \frac{2\pi}{T}t + \phi_i \right)</md>
 	
 	Using the relations <m> \omega = \frac{2\pi}{T}</m> and <m> k = \frac{2 \pi}{\lambda} </m>, you can rewrite this equation in the more compact form:
 	
-	<me> y(x,t) = y_{\mathrm{max}} \sin\left(kx - \omega t + \phi_i \right)</me>
+	<md> y(x,t) = y_{\mathrm{max}} \sin\left(kx - \omega t + \phi_i \right)</md>
 	
 	The video below uses this form to help determine two different superpositions of traveling waves.
 	
@@ -28,7 +28,7 @@
 	<statement>
 		<p></p>
 		<p>The <term>phase difference</term> (or the <term>relative phase</term>) between two sinusoidal waves, <m>\Delta \phi = \phi_2 - \phi_1</m>, describes the difference in where two waves are in their cycles.</p>
-		<p>If you consider two similar waves (with the same frequency and wavelength) at the same position and time, the phase difference is equal to the difference in the initial phase of the two waves <me>\Delta \phi_i = \phi_{i,2} - \phi_{i,1}</me></p>
+		<p>If you consider two similar waves (with the same frequency and wavelength) at the same position and time, the phase difference is equal to the difference in the initial phase of the two waves <md>\Delta \phi_i = \phi_{i,2} - \phi_{i,1}</md></p>
 	</statement>
 </definition>
 	
@@ -36,7 +36,7 @@
 	<title>Two Waves Activity</title>
 	<introduction>
 		<p></p>
-	<p>Consider the two waves written below: <me>y_1(x,t) = y_m \sin{(kx - \omega t)}</me> <me>y_2(x,t) = y_m \sin{(kx - \omega t + \pi/2)}</me></p>
+	<p>Consider the two waves written below: <md>y_1(x,t) = y_m \sin{(kx - \omega t)}</md> <md>y_2(x,t) = y_m \sin{(kx - \omega t + \pi/2)}</md></p>
 	</introduction>
 			<task>
 			  <p>Sketch a graph of each wave at <m>t = 0</m> showing at least two full wavelengths.</p>
@@ -68,7 +68,7 @@
 	<title>Maximum Constructive Interference</title>
 	<statement>
 		<p></p>
-		<p>Two similar waves undergo <term>maximum constructive interference</term> if their relative phase is an integer multiple of <m>2\pi</m> such as <me>\Delta \phi = 0, \pm 2\pi, \pm 4\pi, ...</me>  In maximum constructive interference, the resulting superposition of the waves is a new wave with twice the amplitude.</p>
+		<p>Two similar waves undergo <term>maximum constructive interference</term> if their relative phase is an integer multiple of <m>2\pi</m> such as <md>\Delta \phi = 0, \pm 2\pi, \pm 4\pi, ...</md>  In maximum constructive interference, the resulting superposition of the waves is a new wave with twice the amplitude.</p>
 	</statement>
 </definition>
 
@@ -76,7 +76,7 @@
 	<title>Complete Destructive Interference</title>
 	<statement>
 		<p></p>
-		<p>Two similar waves undergo <term>complete destructive interference</term> if their relative phase is an odd integer multiple of <m>\pi</m> such as <me>\Delta \phi = \pm \pi, \pm 3\pi, ...</me>  In complete destructive interference, the resulting superposition of the waves has a displacement of <m>0</m> at all instants in time.</p>
+		<p>Two similar waves undergo <term>complete destructive interference</term> if their relative phase is an odd integer multiple of <m>\pi</m> such as <md>\Delta \phi = \pm \pi, \pm 3\pi, ...</md>  In complete destructive interference, the resulting superposition of the waves has a displacement of <m>0</m> at all instants in time.</p>
 	</statement>
 </definition>
 

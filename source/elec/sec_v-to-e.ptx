@@ -32,7 +32,7 @@
 			<p>
 				
 			</p>
-			<p>The <term>electric field</term> can be directly calculated given a known electric potential using the equation <me>\vec{\mathit{E}} = -\vec{\nabla}\mathit{V}</me></p>
+			<p>The <term>electric field</term> can be directly calculated given a known electric potential using the equation <md>\vec{\mathit{E}} = -\vec{\nabla}\mathit{V}</md></p>
 		</statement>
 	</definition>
 
@@ -41,7 +41,7 @@
 
 			<p>
 				  In Cartesian coordinates, the gradient can be represented in terms of partial derivatives as:
-				  <me>\vec{\mathit{E}} = -\vec{\nabla}\mathit{V} = - \frac{\partial V}{\partial x}\hat{x} - \frac{\partial V}{\partial y}\hat{y} - \frac{\partial V}{\partial z}\hat{z}</me>
+				  <md>\vec{\mathit{E}} = -\vec{\nabla}\mathit{V} = - \frac{\partial V}{\partial x}\hat{x} - \frac{\partial V}{\partial y}\hat{y} - \frac{\partial V}{\partial z}\hat{z}</md>
 			</p>
 		</hypothesis>
 

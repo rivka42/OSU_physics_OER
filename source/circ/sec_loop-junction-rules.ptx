@@ -27,7 +27,7 @@
 			<p>
 				
 			</p>
-			<p>The <term>Loop Rule</term> requires that the voltages around a <em>complete loop</em> add to zero: <me>\sum V = 0</me>
+			<p>The <term>Loop Rule</term> requires that the voltages around a <em>complete loop</em> add to zero: <md>\sum V = 0</md>
 				</p>
 
 			<p>It is common to write the voltage across a circuit element as <m>V</m> rather than <m>\Delta V</m>; however, <m>V</m> still represents a <em>potential difference</em>.</p>
@@ -48,7 +48,7 @@
 			<p>
 				
 			</p>
-			<p>The <term>Junction Rule</term> requires that the sum of the incoming currents at any junction must equal the sum of the outgoing currents: <me>\sum I_{\mathrm{in}} = \sum I_{\mathrm{out}}</me>
+			<p>The <term>Junction Rule</term> requires that the sum of the incoming currents at any junction must equal the sum of the outgoing currents: <md>\sum I_{\mathrm{in}} = \sum I_{\mathrm{out}}</md>
 			</p>
 			<p>
 				In any part of a circuit with no junctions, the current is <em>equal</em>.
@@ -76,10 +76,10 @@
 				</statement>
 				<answer>
 					<p>
-						The voltages must add to zero, so you need another voltage decrease across element C of <me>\Delta V_C = - 2 \mathrm{~V}</me>
+						The voltages must add to zero, so you need another voltage decrease across element C of <md>\Delta V_C = - 2 \mathrm{~V}</md>
 					</p>
 					<p>
-						There are no junctions in this circuit, so the current in all three circuit elements will be equal: <me>I_B = I_C = 0.7 \mathrm{~A}</me>
+						There are no junctions in this circuit, so the current in all three circuit elements will be equal: <md>I_B = I_C = 0.7 \mathrm{~A}</md>
 					</p>
 				</answer>
 		</activity>

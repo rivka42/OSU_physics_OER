@@ -25,7 +25,7 @@
 			<p>
 				
 			</p>
-			<p>The <term>Loop Rule</term> says that the voltages around a complete loop add to zero. The Loop Rule is often written as: <me>\sum V = 0</me>  Note that when writing equations involving circuits, it is customary to write the voltage across a circuit element as <m>V</m> rather than <m>\Delta V</m>; however, <m>V</m> still fundamentally represents a <em>potential difference</em>.</p>
+			<p>The <term>Loop Rule</term> says that the voltages around a complete loop add to zero. The Loop Rule is often written as: <md>\sum V = 0</md>  Note that when writing equations involving circuits, it is customary to write the voltage across a circuit element as <m>V</m> rather than <m>\Delta V</m>; however, <m>V</m> still fundamentally represents a <em>potential difference</em>.</p>
 		</statement>
 	</principle>
 	

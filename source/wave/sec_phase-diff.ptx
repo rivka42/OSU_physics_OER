@@ -18,7 +18,7 @@ The phase difference between two waves that gives rise to interference can be du
 <li> The path length difference, <m>\Delta D</m>: the difference in distances traveled by the two waves from their source to the point of interference.</li>
 </ol>
 The phase difference due to a path length difference can be calculated as
-<me>\Delta \phi = 2\pi\frac{\Delta D}{\lambda}</me>
+<md>\Delta \phi = 2\pi\frac{\Delta D}{\lambda}</md>
 Often, the initial (natural) phase difference is 0, in which case interference will be entirely due to the path length difference.
 </p>
 
@@ -26,9 +26,9 @@ Often, the initial (natural) phase difference is 0, in which case interference w
 	<title>Maximum Constructive Interference</title>
 	<statement>
 		<p></p>
-		<p>If the initial phase difference between two waves is zero, maximum constructive interference occurs at locations in space where the path length difference is an integer multiple of the wavelength <me>\Delta D = 0, \pm \lambda, \pm 2\lambda, ...</me>
+		<p>If the initial phase difference between two waves is zero, maximum constructive interference occurs at locations in space where the path length difference is an integer multiple of the wavelength <md>\Delta D = 0, \pm \lambda, \pm 2\lambda, ...</md>
 		which is frequently simplified to, for integer <m>m</m>:
-			<me>\Delta D = m \lambda</me>
+			<md>\Delta D = m \lambda</md>
 		
 		</p>
 	</statement>
@@ -38,9 +38,9 @@ Often, the initial (natural) phase difference is 0, in which case interference w
 	<title>Complete Destructive Interference</title>
 	<statement>
 		<p></p>
-		<p>If the initial phase difference between two waves is zero, complete destructive interference occurs at locations in space where the path length difference is a half-integer multiple of the wavelength <me>\Delta D = \pm \lambda/2, \pm 3\lambda/2, ...</me>
+		<p>If the initial phase difference between two waves is zero, complete destructive interference occurs at locations in space where the path length difference is a half-integer multiple of the wavelength <md>\Delta D = \pm \lambda/2, \pm 3\lambda/2, ...</md>
 		which is frequently simplified to, for integer <m>m</m>:
-			<me>\Delta D = (m + \frac{1}{2}) \lambda</me>
+			<md>\Delta D = (m + \frac{1}{2}) \lambda</md>
 		</p>
 	</statement>
 </principle>
@@ -97,33 +97,33 @@ Often, the initial (natural) phase difference is 0, in which case interference w
 			  <ol>
 				<li>
 					<p>
-						<me>
+						<md>
 							1.25 \mathrm{~m}
-						</me>
+						</md>
 						
 					</p>
 				</li>
 				<li>
 					<p>
-						<me>
+						<md>
 							0.75 \mathrm{~m}
-						</me>
+						</md>
 						
 					</p>
 				</li>
 				<li>
 					<p>
-						<me>
+						<md>
 							0.6 \mathrm{~m}
-						</me>
+						</md>
 						
 					</p>
 				</li>
 				<li>
 					<p>
-						<me>
+						<md>
 							0.3 \mathrm{~m}
-						</me>
+						</md>
 						
 					</p>
 				</li>

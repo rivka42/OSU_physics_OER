@@ -83,7 +83,7 @@
 			Current loops also behave as if they are permanent magnets!
 		</p>
 		<p>
-			A loop with area <m>A</m> carrying current <m>I</m> may be approximated as having a magnetic dipole moment <me>\mu = IA</me>
+			A loop with area <m>A</m> carrying current <m>I</m> may be approximated as having a magnetic dipole moment <md>\mu = IA</md>
 		</p>
 		<p>
 			The direction of the dipole moment is the same as the direction of the magnetic field at the center of the loop, which can be found using a right hand rule: curl your fingers in the direction of the current, and your right thumb will point in the direction of <m>\vec{\mu}</m>.

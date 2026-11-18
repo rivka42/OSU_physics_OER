@@ -47,11 +47,11 @@
 			</p>
 			<p>
 				The <term>angular frequency</term> for a block of mass <m>m</m> attached to a massless spring with constant <m>k</m> is 
-				<me>
+				<md>
 					\omega_s = \sqrt{\frac{k}{m}}
-				</me>
+				</md>
 				
-				The equation of motion for the block is given by <me> x(t) = x_{\text{max}} \cos(\omega_s t + \phi_i)</me>
+				The equation of motion for the block is given by <md> x(t) = x_{\text{max}} \cos(\omega_s t + \phi_i)</md>
 			</p>
 		</statement>
 	</definition>
@@ -75,39 +75,39 @@ The spring has equilibrium length <m>x_0</m> and is initially stretched and then
 <p>
 If you place the origin of our coordinate system at equilibrium, the simplified spring force is a restoring force given by Hooke's law:
 
-<me> \vec{F}(x) = -kx \hat{x}</me>
+<md> \vec{F}(x) = -kx \hat{x}</md>
 
 The negative sign tells you that the force always points in the opposite direction as the displacement.  Applying the Law of Motion to the system and setting the force equal to the spring force
 
-<men xml:id="Hookes"> ma_x = -kx </men>
+<md> ma_x = -kx </md>
 
 Using the relationship between position and acceleration<fn>acceleration is the second derivative of position with respect to time</fn> 
  
-<me> a_x(t) = \frac{d}{dt} v_x(t) = \frac{d^2}{dt^2}x(t) </me>
+<md> a_x(t) = \frac{d}{dt} v_x(t) = \frac{d^2}{dt^2}x(t) </md>
 
-and equation <xref ref="Hookes" text='type-global'></xref> can be written in terms of position only
+and the preceding equation can be written in terms of position only
 
-<men xml:id="EOM"> \frac{d^2}{dt^2}x(t) = -\frac{k}{m} x(t)</men>
+<md> \frac{d^2}{dt^2}x(t) = -\frac{k}{m} x(t)</md>
 
-Equation <xref ref="EOM" text='type-global'></xref> is called the <alert>equation of motion</alert> for the mass on the spring. This is a second-order differential equation. Unlike algebraic functions whose solutions are numbers, solutions of differential equation are <em>functions</em>. This differential equation is one in which taking two derivatives of the function <m>x(t)</m> yields the original function multiplied by a negative constant. 
+This last equation is called the <alert>equation of motion</alert> for the mass on the spring. This is a second-order differential equation. Unlike algebraic functions whose solutions are numbers, solutions of differential equation are <em>functions</em>. This differential equation is one in which taking two derivatives of the function <m>x(t)</m> yields the original function multiplied by a negative constant. 
 </p>
 
 <p>
 Often you can guess the solutions to differential equations. Since you already know the motion will be oscillatory from everyday experience, the natural guess for this physical situation is a position function that is oscillatory in time. Consider the position function
 
-<me> x(t) = x_{\text{max}} \cos(\omega t + \phi_i)</me>
+<md> x(t) = x_{\text{max}} \cos(\omega t + \phi_i)</md>
 
 Taking two derivatives in time
 
-<me> \frac{d^2}{dt^2}x(t) = - \omega^2 x_{\text{max}} \cos(\omega t + \phi_i)</me>
+<md> \frac{d^2}{dt^2}x(t) = - \omega^2 x_{\text{max}} \cos(\omega t + \phi_i)</md>
 
 Plugging all this back into the equation of motion yields
 
-<me> - \omega^2 x_{\text{max}} \cos(\omega t + \phi_i) = -\frac{k}{m} x_{\text{max}} \cos(\omega t + \phi_i)</me>
+<md> - \omega^2 x_{\text{max}} \cos(\omega t + \phi_i) = -\frac{k}{m} x_{\text{max}} \cos(\omega t + \phi_i)</md>
 
 From this you can determine the oscillation frequency of the spring system. Note that a factor of the position function can be canceled from each side of the equation. From this you can determine the angular frequency of the oscillation. 
 
-<men> \omega_s = \sqrt{\frac{k}{m}}</men>
+<md> \omega_s = \sqrt{\frac{k}{m}}</md>
 
 Since the oscillation frequency depends solely on the physical characteristics of the system (the stiffness of the spring and the mass of the object attached to the spring), the more specific label <m>\omega_s</m> is appropriate.
 </p>
@@ -152,7 +152,7 @@ Since the oscillation frequency depends solely on the physical characteristics o
 		<answer>
 		<p>Using the relationship <m> \omega = \frac{2 \pi}{T}</m>, the period of oscillation for a mass on a spring is
 		
-		<me> T = 2 \pi \sqrt{\frac{m}{k}}</me>
+		<md> T = 2 \pi \sqrt{\frac{m}{k}}</md>
 		</p>
 		</answer>
 		</activity>

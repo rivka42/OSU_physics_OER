@@ -67,7 +67,7 @@
           </li>
           <li>
             <p>
-            Consider the following equation for the mass of one of the objects: <me>dm = \rho dV</me>.
+            Consider the following equation for the mass of one of the objects: <md>dm = \rho dV</md>.
             Why do you think <m>dm</m> is an appropriate symbol for the mass of this object?  Why is it important that there is a differential symbol <m>d</m> on both sides of the equation?
             </p>
           </li>

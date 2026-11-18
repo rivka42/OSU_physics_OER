@@ -50,8 +50,8 @@
 	<title>Momentum</title>
 	<statement>
 		<p></p>
-		<p>The <term>momentum</term> of a single object is defined as the mass of the object times its velocity: <me>\vec{p} = m\vec{v}</me>
-		For a system with multiple objects, the momenta of each object in the system can be summed: <me>\vec{p}_{system} = \Sigma \vec{p}_i = \vec{p}_1 + \vec{p}_2 + \vec{p}_3 + \dots</me></p>
+		<p>The <term>momentum</term> of a single object is defined as the mass of the object times its velocity: <md>\vec{p} = m\vec{v}</md>
+		For a system with multiple objects, the momenta of each object in the system can be summed: <md>\vec{p}_{system} = \Sigma \vec{p}_i = \vec{p}_1 + \vec{p}_2 + \vec{p}_3 + \dots</md></p>
 	</statement>
 </definition>
 

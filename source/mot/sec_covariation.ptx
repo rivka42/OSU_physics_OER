@@ -119,9 +119,9 @@ Determine the average acceleration of the tennis ball.	Do you think it would be 
 			</p>
 		</statement>
 		<answer>
-		    <p><me>
+		    <p><md>
 				a_{ave} = \frac{v_f + v_i}{t_2}
-			</me>
+			</md>
 			</p>
 		</answer>
 	</activity>

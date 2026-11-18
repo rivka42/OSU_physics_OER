@@ -37,15 +37,15 @@
 		<solution>
 		<p>
 		The two situations can be analogized by writing parallel equations using the Law of Motion for the block on a spring and the Loop Rule for the LRC circuit:
-		<me>F - kx - bv - ma = 0</me>
-		<me>F - kx - b\frac{dx}{dt} - m\frac{d^2x}{dt^2} = 0</me>
-		<me>V - \frac{Q}{C} - IR - L\frac{dI}{dt} = 0</me>
-		<me>V - \frac{Q}{C} - R\frac{dQ}{dt} - L\frac{d^2Q}{dt^2} = 0</me>
+		<md>F - kx - bv - ma = 0</md>
+		<md>F - kx - b\frac{dx}{dt} - m\frac{d^2x}{dt^2} = 0</md>
+		<md>V - \frac{Q}{C} - IR - L\frac{dI}{dt} = 0</md>
+		<md>V - \frac{Q}{C} - R\frac{dQ}{dt} - L\frac{d^2Q}{dt^2} = 0</md>
 		Identifying term by term gives the resistor is dissipative (like drag), the inductor resists change (like mass/inertia), the capacitor stores energy (like the spring) and the battery provides voltage (like a pushing force).
-		<me>b \rightarrow R</me>
-		<me>m \rightarrow L</me>
-		<me>k \rightarrow \frac{1}{C}</me>
-		<me>F \rightarrow V</me>
+		<md>b \rightarrow R</md>
+		<md>m \rightarrow L</md>
+		<md>k \rightarrow \frac{1}{C}</md>
+		<md>F \rightarrow V</md>
 	</p>
 	</solution>	
 	</task>
@@ -70,17 +70,17 @@
     <p>
       The charge on a capacitor in an LRC circuit is given by
 
-	  <me> Q(t) = Q_{\text{max}} e^{-Rt/2L} \cos{(\omega_{LRC} t + \phi_o)}</me>
+	  <md> Q(t) = Q_{\text{max}} e^{-Rt/2L} \cos{(\omega_{LRC} t + \phi_o)}</md>
       
 		The oscillation frequency is given by the following expression.
 
-		<me> \omega_{LRC} = \sqrt{\frac{1}{LC} - \frac{R^2}{4L^2}}</me>
+		<md> \omega_{LRC} = \sqrt{\frac{1}{LC} - \frac{R^2}{4L^2}}</md>
 
 		Note that <m>\omega_{LRC}</m> is only valid when <m>\frac{1}{LC} \gt \frac{R^2}{4L^2}</m>.
     </p>
     <p>
 		The current may be found by taking a derivative, though it is convenient to rewrite it in terms of a different phase angle:
-		<me> I(t) = I_{\text{max}} \cos{(\omega_{LRC} t + \phi_I)}</me>
+		<md> I(t) = I_{\text{max}} \cos{(\omega_{LRC} t + \phi_I)}</md>
     </p>
   </statement>
 </assumption>
@@ -95,7 +95,7 @@
 		<solution>
 			<p>
 				After some time, the driving voltage wins, giving a simpler functional form for the current:
-				<me>I(t) \rightarrow I_{max}\cos\left(\omega t - \phi\right)</me>
+				<md>I(t) \rightarrow I_{max}\cos\left(\omega t - \phi\right)</md>
 			</p>
 		</solution>
 	</task>
@@ -103,11 +103,11 @@
 		<statement>
 			<p>
 				Try building this circuit in the <q>RLC</q> tab of the <url href="https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_all.html">Circuits PhET simulation</url> to check your predictions.  Good numbers to try are given below.
-				<me>V_o = 25 \mathrm{~V}</me>
-				<me>R 3 \mathrm{~\Omega}</me>
-				<me>L = 5 \mathrm{~H}</me>
-				<me>C = 0.1 \mathrm{~F}</me>
-				<me>f = 0.5 \mathrm{~Hz}</me>
+				<md>V_o = 25 \mathrm{~V}</md>
+				<md>R 3 \mathrm{~\Omega}</md>
+				<md>L = 5 \mathrm{~H}</md>
+				<md>C = 0.1 \mathrm{~F}</md>
+				<md>f = 0.5 \mathrm{~Hz}</md>
 			</p>
 		</statement>
 	</task>
@@ -120,7 +120,7 @@
 		<solution>
 			<p>
 				An obvious change to try is decreasing the resistance.  However, you can also adjust the inductance, the capacitance, or the frequency.  A good thing to try in the simulation is slowly lowering the inductance from <m>5 \mathrm{~H}</m> to <m>1 \mathrm{~H}</m> and then finally to <m>0.1 \mathrm{~H}</m>.  The maximum current will increase then decrease, an example of resonance!  You can find the frequency at which the current is maximized using the equation below:
-				<me>I_{max} = \frac{V_o}{\sqrt{R^2 + \left( \omega L - \frac{1}{\omega C} \right)^2}}</me>
+				<md>I_{max} = \frac{V_o}{\sqrt{R^2 + \left( \omega L - \frac{1}{\omega C} \right)^2}}</md>
 			</p>
 		</solution>
 	</task>

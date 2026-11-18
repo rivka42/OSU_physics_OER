@@ -117,16 +117,16 @@
 			<solution>
 				<p>
 					<alert>Chop:</alert>
-					<me>\sigma = \frac{dq}{dA}</me>
-					<me>dq = \sigma dA = \sigma dx dy</me>
+					<md>\sigma = \frac{dq}{dA}</md>
+					<md>dq = \sigma dA = \sigma dx dy</md>
 				</p>
 				<p>
 					<alert>Multiply:</alert>
-					<me>dV = \frac{kdq}{r} = \frac{k\sigma dx dy}{\sqrt{x^2 + y^2 + z^2}}</me>
+					<md>dV = \frac{kdq}{r} = \frac{k\sigma dx dy}{\sqrt{x^2 + y^2 + z^2}}</md>
 				</p>
 				<p>
 					<alert>Add:</alert>
-					<me>V = \int dV = \int_{-b}^b \int_{-a}^a \frac{k\sigma dx dy}{\sqrt{x^2 + y^2 + z^2}}</me>
+					<md>V = \int dV = \int_{-b}^b \int_{-a}^a \frac{k\sigma dx dy}{\sqrt{x^2 + y^2 + z^2}}</md>
 				</p>
 			</solution>
 		</task>

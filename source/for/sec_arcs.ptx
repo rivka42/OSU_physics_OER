@@ -187,19 +187,19 @@
 					<p>
 						<alert>Solve unknown(s) symbolically.</alert>  
 						Start by setting the two areas equal and relating the perimeters 
-						<me>A_{square} = A_{rectangle}</me>
-						<me>s^2 = lw</me>
-						<me>P_{rectangle} = 2P_{square}</me>
-						<me>2l + 2w = 8s</me>
+						<md>A_{square} = A_{rectangle}</md>
+						<md>s^2 = lw</md>
+						<md>P_{rectangle} = 2P_{square}</md>
+						<md>2l + 2w = 8s</md>
 						Combine these expressions algebraically by solving the first equation for <m>w</m> 
 						and plugging it into the second equation:
-						<me>w = s^2/l</me>
-						<me>2l + 2s^2/l = 8s</me>
-						<me>s^2 - 4sl + l^2 = 0</me>		
+						<md>w = s^2/l</md>
+						<md>2l + 2s^2/l = 8s</md>
+						<md>s^2 - 4sl + l^2 = 0</md>		
 						Use the quadratic formula to solve this last equation for <m>s</m>, then square <m>s</m> 
 						to get the area of the square!
-						<me>s = \frac{4l \pm \sqrt{16l^2 - 4l^2}}{2} = \left(2 \pm \sqrt{3}\right)l</me>
-						<me>A = s^2 = \left(7 \pm 4\sqrt{3}\right)l^2</me>
+						<md>s = \frac{4l \pm \sqrt{16l^2 - 4l^2}}{2} = \left(2 \pm \sqrt{3}\right)l</md>
+						<md>A = s^2 = \left(7 \pm 4\sqrt{3}\right)l^2</md>
 
 					</p>
 				</li>
@@ -250,7 +250,7 @@
 							and see what your answer is.  The most special value of <m>l</m> is <m>l = 0</m>, 
 							which corresponds to no park at all!  
 							In this case, the area of the park should of course be 0, 
-							which is what your symbolic answer says as well: <me>A = s^2 = \left(7 \pm 4\sqrt{3}\right) 0^2 = 0 </me>
+							which is what your symbolic answer says as well: <md>A = s^2 = \left(7 \pm 4\sqrt{3}\right) 0^2 = 0 </md>
 
 					</p>
 				</li>

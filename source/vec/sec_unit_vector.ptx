@@ -35,13 +35,13 @@ positive <m>y</m>-direction and positive <m>z</m>-direction (these are often cal
 Since <m> \hat{x} </m>, <m> \hat{y} </m> and <m> \hat{z} </m> are mutually perpendicular unit vectors, their dot products are:
 </p>
 
-<me>
+<md>
 \hat{x} \cdot \hat{x} = \hat{y} \cdot \hat{y} = \hat{z} \cdot \hat{z} = 1
-</me>	
+</md>	
 
-<me>
+<md>
 \hat{x} \cdot \hat{y} = \hat{x} \cdot \hat{z} = \hat{y} \cdot \hat{z} = 0
-</me>		
+</md>		
 
 <note>
 	<title>Unit Vector Notation</title>

@@ -7,17 +7,17 @@
 Representing vectors as arrows is a good way to get a geometric understanding and also for creating a good physics diagram of a physical situation you are interested in understanding. However, if you want to quantify the physics, you need to work algebraically within a particular coordinate system. Consider the vector <m>\vec{A}</m> written in terms of components and the unit vectors <m> \hat{x} </m>, <m> \hat{y} </m>, and <m> \hat{z} </m>
 </p>
 
-<me>
+<md>
 \vec{A} = A_x\hat{x}+A_y\hat{y}+A_z\hat{z}
-</me>
+</md>
     
  <p>
 Now you can <em>algebraically</em> compute the vector operations you learned previously!  For example, to multiply a vector by a scalar algebraically, you multiply each component by the scalar separately.
  </p>
  
- <me>
+ <md>
  b\vec{A} = (bA_x)\hat{x} + (bA_y)\hat{y} + (bA_z)\hat{z}
- </me>
+ </md>
 
 <axiom>
  <title> Vector Addition and Subtraction</title>

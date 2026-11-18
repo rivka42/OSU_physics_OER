@@ -69,12 +69,12 @@
 				<li>
 					<p>
 						Knowns and Unknowns
-            <me>m_T = 1100 \mathrm{~kg}</me>
-            <me>m_c = 980 \mathrm{~kg}</me>
-            <me>\mu_k = 0.8</me>
-            <me>\Delta r_{slide} = 15 \mathrm{~m}</me>
-            <me>v_{ci} = ?</me>
-            <me>v_{Ti} = ?</me>
+            <md>m_T = 1100 \mathrm{~kg}</md>
+            <md>m_c = 980 \mathrm{~kg}</md>
+            <md>\mu_k = 0.8</md>
+            <md>\Delta r_{slide} = 15 \mathrm{~m}</md>
+            <md>v_{ci} = ?</md>
+            <md>v_{Ti} = ?</md>
 					</p>
 				</li>
 				<li>
@@ -119,17 +119,17 @@ the vehicles before the collision.
       </statement>
       <solution>
         <p>
-          Net force in the x-direction: <me>F_{net,x} = - \mu_k F^N = -(m_T + m_c) a_x </me>
+          Net force in the x-direction: <md>F_{net,x} = - \mu_k F^N = -(m_T + m_c) a_x </md>
 
-        Net force in y-direction: <me>F^N = F^g = (m_T + m_c)g</me>
+        Net force in y-direction: <md>F^N = F^g = (m_T + m_c)g</md>
 
-        Solve for the acceleration: <me>a_x = - \mu_k g</me>
+        Solve for the acceleration: <md>a_x = - \mu_k g</md>
 
-        Use constant acceleration equations: <me>v_i = \sqrt{2\mu_k g \Delta r}</me>
+        Use constant acceleration equations: <md>v_i = \sqrt{2\mu_k g \Delta r}</md>
 
         Now use conservation of momentum, first in the x and then in the y direction: 
-        <me>v_{ci} = \frac{m_T + m_c}{m_c}\mu_k g\cos\theta \approx 28.48 \mathrm{~m/s}</me>
-        <me>v_{Ti} = \frac{m_T + m_c}{m_T}\mu_k g\sin\theta \approx 14.65 \mathrm{~m/s}</me>
+        <md>v_{ci} = \frac{m_T + m_c}{m_c}\mu_k g\cos\theta \approx 28.48 \mathrm{~m/s}</md>
+        <md>v_{Ti} = \frac{m_T + m_c}{m_T}\mu_k g\sin\theta \approx 14.65 \mathrm{~m/s}</md>
         From this, your friend's truck was indeed under the <m>20 \mathrm{~m/s}</m> speed limit
 
         </p>

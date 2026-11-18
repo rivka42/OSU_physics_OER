@@ -31,7 +31,7 @@
 <p>
 Coulomb's law describes the electric force between two stationary <em> point charges </em> interacting through the electric field. The force is directly proportional to the product of the two charges and inversely proportional to the square of the distance between the two charges
 
-<me> \vec{F}_E(r) = q\vec{E}= k \frac{qQ}{r^2} \hat{r}	</me> 
+<md> \vec{F}_E(r) = q\vec{E}= k \frac{qQ}{r^2} \hat{r}	</md> 
 
 where <m>\hat{r}</m> is a unit vector that points from point charge to the other, <m>r</m> is the separation distance between the two charges, and <m> k </m> is the electrostatic constant. <m>Q</m> and <m>q</m> denote that the two charges can have different amounts of charge. 
 </p>
@@ -50,8 +50,8 @@ where <m>\hat{r}</m> is a unit vector that points from point charge to the other
       <p> 
 		Compare the Universal Law of Gravity to Coulomb's Law:
 		
-		<me> \vec{F}_G(r) = m\vec{g} = -G \frac{mM}{r^2} \hat{r}	 </me> 
-		<me> \vec{F}_E(r) = q\vec{E}= k \frac{qQ}{r^2} \hat{r}	</me> 
+		<md> \vec{F}_G(r) = m\vec{g} = -G \frac{mM}{r^2} \hat{r}	 </md> 
+		<md> \vec{F}_E(r) = q\vec{E}= k \frac{qQ}{r^2} \hat{r}	</md> 
 <ul>
 <li>
 Both laws define <alert> force</alert>: one between point masses, the other between point charges.

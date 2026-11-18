@@ -74,7 +74,7 @@
         <title>Magnification</title>
         <p>
             <p></p>
-            <term>Magnification</term> is defined to be the height ratio between the height of an image to the height of an object: <me>M = \frac{h_i}{h_o} = -\frac{d_i}{d_o} </me>.
+            <term>Magnification</term> is defined to be the height ratio between the height of an image to the height of an object: <md>M = \frac{h_i}{h_o} = -\frac{d_i}{d_o} </md>.
         </p>
     </definition>
 

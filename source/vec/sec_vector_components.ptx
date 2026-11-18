@@ -25,9 +25,9 @@ Consider a <alert>position</alert> vector <m>\vec{r}</m> shown in the two-dimens
 You can write <m> \vec{r}</m> in terms of its <em>components</em> in the <m>x</m>- and <m>y</m>-directions using unit vectors.
 </p>
 
-<me>
+<md>
 \vec{r} = r_x \hat{x} + r_y\hat{y} 
-</me>	
+</md>	
 
 <p>
 The scalar quantities <m> r_x</m> and <m> r_y </m> are called the <alert>components</alert> of <m> \vec{r}</m>. When multiplied by the unit vectors <m> \hat{x}</m> and  <m> \hat{y}</m> they form a vector quantity. The scalar quantities <m> r_x</m> and <m> r_y </m> tell us how far we must move in the <m>x</m>- and <m>y</m>-direction to be at position <m> \vec{r}</m>.
@@ -41,9 +41,9 @@ The scalar quantities <m> r_x</m> and <m> r_y </m> are called the <alert>compo
 The magnitude, <m>r</m>, of vector <m> \vec{r}</m>  (magnitudes will be written without the vector arrows overhead) is the hypotenuse of a right triangle with legs of length <m> r_x</m> and <m> r_y </m>.
 </p>
 
-<me>
+<md>
 r = \sqrt{r_x^2 + r_y^2}
-</me>	
+</md>	
 
 <p>
 Magnitudes are also sometimes written symbolically using bars <m> |\vec{r}|</m> around the vector. Both representations are equivalent. 	

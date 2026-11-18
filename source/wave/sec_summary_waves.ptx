@@ -10,7 +10,7 @@
 	<definition>
 	<title>ADDME</title>
 	<statement>
-		<p>The <term>angular momentum</term> of a rigid object about a given axis is the product of the object's moment of inertia and angular velocity about that axis: <me>\vec{L} = I\vec{\omega}</me></p>
+		<p>The <term>angular momentum</term> of a rigid object about a given axis is the product of the object's moment of inertia and angular velocity about that axis: <md>\vec{L} = I\vec{\omega}</md></p>
 	</statement>
 </definition>
 

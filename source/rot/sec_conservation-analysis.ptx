@@ -8,7 +8,7 @@
 	<principle xml:id="p_angular-impulse-momentum">
 	<title>Conservation of Angular Momentum (The Angular Impulse-Momentum Theorem)</title>
 	<statement><p></p>
-	  <p>The net angular impulse delivered to a system is equal to the change in angular momentum for that system: <me>\vec{\tau}_{net}\Delta t = \Delta \vec{L}</me></p>
+	  <p>The net angular impulse delivered to a system is equal to the change in angular momentum for that system: <md>\vec{\tau}_{net}\Delta t = \Delta \vec{L}</md></p>
 	</statement>
 	</principle>
 

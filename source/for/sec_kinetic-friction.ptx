@@ -27,7 +27,7 @@
 		<p>
 			
 		</p>
-		<p>The magnitude of any <term>kinetic friction</term> force is related to the corresponding normal force<me>|\vec{F}^{kf}_{12}| = \mu_k |\vec{F}^{N}_{12}|</me>  The kinetic friction will act in a direction that opposes the relative motion of the objects involved.</p>
+		<p>The magnitude of any <term>kinetic friction</term> force is related to the corresponding normal force<md>|\vec{F}^{kf}_{12}| = \mu_k |\vec{F}^{N}_{12}|</md>  The kinetic friction will act in a direction that opposes the relative motion of the objects involved.</p>
 	</statement>
 </definition>
 

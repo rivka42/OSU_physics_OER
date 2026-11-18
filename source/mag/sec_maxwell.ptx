@@ -11,39 +11,45 @@
 		<title>Electromagnetism (Maxwell's Equations)</title>
 		<p></p>
 		<sbsgroup widths="40% 40%" margins="5% 5%" valign="middle">
-		<sidebyside widths="100%">
+		<sidebyside widths="89% 1%">
 			<p>
 				<alert>How Fields Are Created</alert>
 			</p>
+			<p>
+				
+			</p>
 		</sidebyside>
 		<sidebyside>
 			<p>
-				<me>
+				<md>
 					\text{(i)~~} \unicode{x222F}_{S} \vec{E}\cdot d\vec{A} = \frac{Q_{enc}}{\epsilon_0}
-				</me>
+				</md>
 			</p>
 			<p>
-				<me>
+				<md>
 					\text{(ii)~~} \unicode{x222F}_{S} \vec{B}\cdot d\vec{A} = 0
-				</me>
+				</md>
 			</p>
 		</sidebyside>
 		<sidebyside>
 			<p>
-				<me>
+				<md>
 					\text{(iii)~~} \oint \vec{E} \cdot \vec{dl} = - \frac{\partial \Phi_B}{\partial t}
-				</me>
+				</md>
 			</p>
 			<p>
-				<me>
+				<md>
 					\text{(iv)~~} \oint_S \vec{B}\cdot d\vec{l} = \mu_0 I_{enclosed} + \mu_0 \epsilon_0 \frac{\partial \Phi_E}{\partial t}
-				</me>
+				</md>
 			</p>
 		</sidebyside>
-		<sidebyside widths="100%">
+		<sidebyside widths="89% 1%">
 			<p>
 				<alert>How Fields Impact Charges</alert>
-				<me>\vec{F} = q\vec{E} + q\vec{v}\times\vec{B}</me>
+				<md>\vec{F} = q\vec{E} + q\vec{v}\times\vec{B}</md>
+			</p>
+			<p>
+				
 			</p>
 		</sidebyside>
 	</sbsgroup>
@@ -66,7 +72,7 @@
 		</li>
 		<li>
 			<p>
-				<alert>The Ampère-Maxwell Law</alert> governs how both <em>currents</em> (made of moving electric charges) and <em>changing electric fields</em> create magnetic fields.  All other rules about the creation of magnetic fields, such as the <xref ref="def_mag-current"/>, ultimately come from this Law.  Magnetic fields always circulate around the current, as shown in the <xref ref="x_fig_mag-full"/>.
+				<alert>The Ampère-Maxwell Law</alert> governs how both <em>currents</em> (made of moving electric charges) and <em>changing electric fields</em> create magnetic fields.  All other rules about the creation of magnetic fields, such as the <xref ref="def_mag-current"/>, ultimately come from this Law.  Magnetic fields always circulate around the current and the changing electric field, as shown in the <xref ref="x_fig_mag-full"/>.
 			</p>
 		</li>
 	</ol>

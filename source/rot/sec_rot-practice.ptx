@@ -58,24 +58,24 @@
 				<li>
 					<p>
 						<alert>List quantities.</alert>  
-						<me>
+						<md>
 							R = 120 \mathrm{~m}
-						</me>
-						<me>
+						</md>
+						<md>
 							a_t = 1.5 \mathrm{~m/s^2}
-						</me>
-						<me>
+						</md>
+						<md>
 							|a| = 3 \mathrm{~m/s^2}
-						</me>
-						<me>
+						</md>
+						<md>
 							\omega_i = 0
-						</me>
-						<me>
+						</md>
+						<md>
 							\omega_f = ?
-						</me>						
-						<me>
+						</md>						
+						<md>
 							\Delta\theta = ?
-						</me>
+						</md>
 						
 						
 					</p>
@@ -108,21 +108,21 @@
 				<li>
 					<p>
 						<alert>Represent principles symbolically.</alert>
-						<me>
+						<md>
 							a_c = R\omega^2
-						</me>
-						<me>
+						</md>
+						<md>
 							a_t = R\alpha
-						</me>
+						</md>
 						
 						Since the angular acceleration is constant: 
-						<me>
+						<md>
 							\omega_f^2 = \omega_i^2 + 2\alpha\Delta\theta
-						</me>
+						</md>
 						Lastly, the magnitude of the acceleration vector is:
-						<me>
+						<md>
 							|a| = \sqrt{a_t^2 + a_c^2}
-						</me>
+						</md>
 						
 						
 					</p>
@@ -132,28 +132,28 @@
 						<alert>Solve unknown(s) symbolically.</alert>  
 						The tangential acceleration is known and constant, so the centripetal acceleration at the end is the thing you want to know.
 
-						<me>
+						<md>
 							a^2 = a_t^2 + a_c^2 = a_t^2 + R^2\omega_f^4
-						</me>
-						<me>
+						</md>
+						<md>
 							a^2 = a_t^2 + R^2(2\alpha\Delta\theta)^2
-						</me>
-						<me>
+						</md>
+						<md>
 							a^2 = a_t^2 + 4R^2\alpha^2(\Delta\theta)^2
-						</me>
-						<me>
+						</md>
+						<md>
 							(\Delta\theta)^2 = \frac{a^2 - a_t^2}{4R^2\alpha^2}
-						</me>
-						<me>
+						</md>
+						<md>
 							\Delta\theta = \sqrt{\frac{a^2 - a_t^2}{4a_t^2}}
-						</me>
+						</md>
 
 					</p>
 				</li>
 				<li>
-					<me>
+					<md>
 							\Delta\theta = 0.866 \mathrm{~rad}
-						</me>
+						</md>
 				</li>
 			</ol>
 			</p>
@@ -165,12 +165,12 @@
 				<li>
 					<p>
 						<alert>Are the units correct?</alert>  
-						<me>
+						<md>
 							\Delta\theta = \sqrt{\frac{a^2 - a_t^2}{4a_t^2}}
-						</me>
-						<me>
+						</md>
+						<md>
 							\mathrm{rad} = \sqrt{\frac{\mathrm{m^2/s^4}}{\mathrm{m^2/s^4}}} = \mathrm{unitless}
-						</me>
+						</md>
 						Radians are unitless, so this checks out!
 						
 					</p>

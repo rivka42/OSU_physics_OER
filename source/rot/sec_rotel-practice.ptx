@@ -20,8 +20,8 @@
 		</statement>
 		<solution>
 			<p>
-				For this system, angular momentum is conserved since there will be no torque that acts on the system. This means the initial angular momentum equals the final angular momentum: <m>L_i = L_f</m>.  You can use the moment of inertia of a solid uniform sphere, and relate the angular speed to the period of the rotation: <me>\frac{2}{5} M_s R_s ^2 (\frac{2\pi}{T_s}) = \frac{2}{5} M_s R_n ^2 (\frac{2\pi}{T_n})</me>
-				Solving for the new time: <me>T_n = T_s \frac{R_n^2}{R_s^2} = (28 \ \mathrm{~days})\frac{(3.5\times10^3)^2}{(7\times10^5)^2} = 0.0007 \ \mathrm{~days} = 60.5 \mathrm{~s}</me>
+				For this system, angular momentum is conserved since there will be no torque that acts on the system. This means the initial angular momentum equals the final angular momentum: <m>L_i = L_f</m>.  You can use the moment of inertia of a solid uniform sphere, and relate the angular speed to the period of the rotation: <md>\frac{2}{5} M_s R_s ^2 (\frac{2\pi}{T_s}) = \frac{2}{5} M_s R_n ^2 (\frac{2\pi}{T_n})</md>
+				Solving for the new time: <md>T_n = T_s \frac{R_n^2}{R_s^2} = (28 \ \mathrm{~days})\frac{(3.5\times10^3)^2}{(7\times10^5)^2} = 0.0007 \ \mathrm{~days} = 60.5 \mathrm{~s}</md>
 			</p>
 		</solution>
 	</project>

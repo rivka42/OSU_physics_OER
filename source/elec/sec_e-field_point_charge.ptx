@@ -31,7 +31,7 @@
 			</p>
 			
 			<p>
-			The electric field at position <m>\vec{r}</m> due to a point charge located at the origin is <me> \vec{E}(r) = k \frac {q_{\text{source}}}{r^2} \hat{r}</me></p> 
+			The electric field at position <m>\vec{r}</m> due to a point charge located at the origin is <md> \vec{E}(r) = k \frac {q_{\text{source}}}{r^2} \hat{r}</md></p> 
 			
 			<ul>
 				<li>

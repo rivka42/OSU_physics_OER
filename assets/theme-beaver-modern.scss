@@ -16,9 +16,10 @@ $background-color-dark: #23241f !default;
 // components and layout
 @use 'parts-beaver';
 @use 'chunks-beaver';
-@use 'components/pretext' with (
-  $navbar-breakpoint: parts-beaver.$navbar-breakpoint,
-);
+@use 'components/pretext';
+// @use 'components/pretext' with (
+//  $navbar-breakpoint: parts-beaver.$navbar-breakpoint,
+// );
 
 // ---------------------------------------------
 // fonts and colors

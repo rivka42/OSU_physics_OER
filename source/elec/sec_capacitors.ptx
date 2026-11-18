@@ -50,7 +50,7 @@
 			<p>
 				
 			</p>
-			<p>The <term>capacitance</term> of a capacitor is defined as <me>C = Q / \Delta V</me> and is dependent on the geometry of the capacitor. The units of capacitance are in farads (F). </p>
+			<p>The <term>capacitance</term> of a capacitor is defined as <md>C = Q / \Delta V</md> and is dependent on the geometry of the capacitor. The units of capacitance are in farads (F). </p>
 		</statement>
 	</definition>
 

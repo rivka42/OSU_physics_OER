@@ -25,7 +25,7 @@
 	<title>Net force</title>
 	<statement>
 		<p></p>
-	<p>The <term>net force</term> on an object or system is equal to the (vector) sum of all forces acting on it: <me>\vec{F}_{net} = \sum_i \vec{F}_i = \vec{F}_1 + \vec{F}_2 + \vec{F}_3 + \dots</me>.</p>
+	<p>The <term>net force</term> on an object or system is equal to the (vector) sum of all forces acting on it: <md>\vec{F}_{net} = \sum_i \vec{F}_i = \vec{F}_1 + \vec{F}_2 + \vec{F}_3 + \dots</md>.</p>
 	<p></p>
 		</statement>
 	</definition>
@@ -37,7 +37,7 @@
 	<title>The Law of Motion</title>
 	<statement>
 		<p></p>
-	<p>The net force on an object or system is equivalent to the product of the object's mass and its acceleration: <me>\vec{F}_{net} = m\vec{a}</me>.</p>
+	<p>The net force on an object or system is equivalent to the product of the object's mass and its acceleration: <md>\vec{F}_{net} = m\vec{a}</md>.</p>
 	<p></p>
 		</statement>
 	</principle>

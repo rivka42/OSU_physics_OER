@@ -63,10 +63,10 @@
 
 	<p>
 		Similar to an RC circuit, you can use the <xref ref="loop-rule"/> to relate the voltages across the different circuit elements: 
-		<me>V_{bat} + V_R + V_L = 0</me>
-		<me>V - I(t)R - L\frac{dI}{dt} = 0</me>
+		<md>V_{bat} + V_R + V_L = 0</md>
+		<md>V - I(t)R - L\frac{dI}{dt} = 0</md>
 		This differential equation is directly analogous to the RC-charging circuit, with a solution given by:
-		<me>I(t) = \frac{V}{R} \left(1 - e^{-tR/L}\right)</me>
+		<md>I(t) = \frac{V}{R} \left(1 - e^{-tR/L}\right)</md>
 	</p>
 
 <activity>

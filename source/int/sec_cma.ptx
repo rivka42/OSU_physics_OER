@@ -31,9 +31,9 @@
       <p>
       This second equation is <em>always true</em>, provided the pieces are infinitesimal: practically speaking, the pieces need to be small enough that <m>\lambda</m> is effectively constant.  Starting from the infinitesimal equation, the total mass may be found by integrating both sides over the entire object:
 
-      <me>
+      <md>
         m_{\text{total}} = \int dm = \int_0^L \lambda(x)dx
-      </me>
+      </md>
       
       The structure of this process can be broken into three steps:
       </p>
@@ -60,9 +60,9 @@
 	<p><term>Multiply:</term> You can then multiply the force acting on the object by the displacement to get the infinitesimal amount of work done along only that step <m>dW = \vec{F} \cdot \vec{dr}</m>.</p>
 	
 		<p><term>Add:</term> Last, you <em>add</em> up all the infinitesimal works with an integral along the entire path, resulting in the expression below!
-    <me>
+    <md>
       W = \int_{\vec{r}_i}^{\vec{r}_f} \vec{F} \cdot \vec{dr}
-    </me>
+    </md>
     
     </p>
 	

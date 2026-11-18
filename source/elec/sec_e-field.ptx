@@ -63,7 +63,7 @@
 			</p>
 
 			<p>
-			The <term>electric force</term> on a point-like object (often called a test charge) is the product of the object's charge and the electric field at the location of the object: <me>\vec{F}^E = q_{\text{test}} \vec{E}</me>
+			The <term>electric force</term> on a point-like object (often called a test charge) is the product of the object's charge and the electric field at the location of the object: <md>\vec{F}^E = q_{\text{test}} \vec{E}</md>
 			</p>
 		</statement>
 	</definition>
@@ -71,7 +71,7 @@
 	<assemblage xml:id="assemblage-gravity2">
       <title>Analogy with Gravity</title>
       <p>
-        Like the gravitational force, the electric force is a non-contact force, as opposed to a contact force. The electric and gravitational fields are responsible for the force between charges and masses, respectively.  In fact, the mathematical structure of the forces are directly analogous: <me>\vec{F}^E = q_{\text{test}} \vec{E}</me><me>\vec{F}^g = m_{\text{test}} \vec{g}</me>
+        Like the gravitational force, the electric force is a non-contact force, as opposed to a contact force. The electric and gravitational fields are responsible for the force between charges and masses, respectively.  In fact, the mathematical structure of the forces are directly analogous: <md>\vec{F}^E = q_{\text{test}} \vec{E}</md><md>\vec{F}^g = m_{\text{test}} \vec{g}</md>
       </p>
     </assemblage>
 	
