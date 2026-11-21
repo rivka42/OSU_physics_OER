@@ -27,8 +27,8 @@
 		
 	</p>
 <p>Watch the two short videos demonstrating some basic wave behavior below.</p>
-<video youtube="g49mahYeNgc"><description>Transverse waves.</description></video>
-<video youtube="cV0aaiG_Jy8"><description>Longitudinal waves.</description></video>	
+<video youtube="g49mahYeNgc"><description><p>Transverse waves.</p></description></video>
+<video youtube="cV0aaiG_Jy8"><description><p>Longitudinal waves.</p></description></video>	
 <p>Make a list of observations about each video.  Try to find both similarities and differences between the two kinds of waves.</p>
 </statement>
 </activity>
@@ -40,7 +40,7 @@
 <corollary xml:id="vid-waves">
 	<title>Waves</title>
 	<statement><p></p>
-		<video youtube="YBq2YvzK9MU"><description>Introducing waves.</description></video>
+		<video youtube="YBq2YvzK9MU"><description><p>Introducing waves.</p></description></video>
 	</statement>
   </corollary>
 		
@@ -113,7 +113,7 @@ In a <alert>transverse wave</alert>, the displacement of the medium is <em>perpe
 <title>Longitudinal Wave Figure</title>
     	<caption>A wave pulse that displaces particles in the string perpendicular to the direction of that the wave travels.</caption>
     		<image source="wave/stringpulse.gif" width = "75%" >
-				<description>A bell-shaped wave pulse moves from left to right on a string.</description>
+				<description><p>A bell-shaped wave pulse moves from left to right on a string.</p></description>
 			</image>
     </figure>
 </definition>
@@ -134,7 +134,7 @@ In a <alert> longitudinal wave </alert>, the displacement of the medium is <em>p
 
     	<caption>A longitudinal wave passes through a medium. A single particle is highlighted in red to show the difference between motion of the wave and motion of particles in the medium. </caption>
     		<image source="wave/DR_wave2.gif" width = "100%" >
-				<description>A microscopic representation of air as scattered dots demonstrates a longitudinal sound wave moving from left to right.  Two molecules are colored red to demonstrate that they move in the same direction as the wave (left-right).</description>
+				<description><p>A microscopic representation of air as scattered dots demonstrates a longitudinal sound wave moving from left to right.  Two molecules are colored red to demonstrate that they move in the same direction as the wave (left-right).</p></description>
 			</image>
     </figure>
 <!--Don't need both figures-->
@@ -145,7 +145,7 @@ In a <alert> longitudinal wave </alert>, the displacement of the medium is <em>p
 
     	<caption>A wave pulse that displaces particles in the fluid parallel to the direction of that the wave travels.</caption>
     		<image source="wave/wavepulse.gif" width = "75%" >
-				<description>A microscopic representation of air as scattered dots demonstrates a longitudinal sound wave moving from left to right.</description>
+				<description><p>A microscopic representation of air as scattered dots demonstrates a longitudinal sound wave moving from left to right.</p></description>
 			</image>
     </figure>
 	-->		
@@ -154,7 +154,7 @@ In a <alert> longitudinal wave </alert>, the displacement of the medium is <em>p
 		
 <!-- REMOVED TO SAVE SPACE
 
-<video youtube="iY5zhbtKLO8"><description>A water wave passing under a lily.  Droplets on the lily oscillate as the wave passes.</description></video>
+<video youtube="iY5zhbtKLO8"><description><p>A water wave passing under a lily.  Droplets on the lily oscillate as the wave passes.</p></description></video>
     <figure xml:id="lily_wave">
     	<caption>A water wave passing under a lily.  Droplets on the lily oscillate as the wave passes. </caption>
     		<video source="wave/lily_wave.mp4" width = "100%" ></video>

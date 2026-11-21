@@ -35,7 +35,7 @@
 			
 		</p>
 
-		<video youtube="8lcFW_AyXmg"><description>An introduction to capacitors.</description></video>
+		<video youtube="8lcFW_AyXmg"><description><p>An introduction to capacitors.</p></description></video>
 
 	</statement>
   </corollary>
@@ -81,7 +81,7 @@
 			<figure xml:id="fig_PPCapacitor">
 			  <title>Parallel Plate Capacitor Figure</title>
 			<caption>Charge diagram and electric field for a parallel plate capacitor.</caption>
-			<image source="PPCapacitor.png" width = "40%" ><description>A vertical plate of negative charge on the left at z = 0, a vertical plate of positive charge on the right at z= d, with a uniform leftward electric field in between.</description></image>
+			<image source="PPCapacitor.png" width = "40%" ><description><p>A vertical plate of negative charge on the left at z = 0, a vertical plate of positive charge on the right at z= d, with a uniform leftward electric field in between.</p></description></image>
 		</figure>
 	</statement>
 </assumption>

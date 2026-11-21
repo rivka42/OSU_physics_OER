@@ -22,11 +22,11 @@
 <figure xml:id="mot_car-1">
 		 <caption>Representations of a car moving at constant speed (top), with increasing speed (middle), and with decreasing speed (bottom).</caption>
 		<image source="motion graph constant speed.png" width = "75%">
-			<description>To be filled.</description></image>
+			<description><p>To be filled.</p></description></image>
 					<image source="motion graph speeding up.png" width = "75%">
-			<description>To be filled.</description></image>
+			<description><p>To be filled.</p></description></image>
 					<image source="motion graph slowing down.png" width = "75%">
-			<description>To be filled.</description></image>
+			<description><p>To be filled.</p></description></image>
   </figure>	
 	
 	<note>
@@ -51,7 +51,7 @@
 			<figure xml:id="mot_skydiver">
 		 <caption>A graph of position vs. time for a skydiver</caption>
 		<image source="skydiver_x.png" width = "75%">
-			<description>To be filled.</description></image>
+			<description><p>To be filled.</p></description></image>
   </figure>	
 		</exercises>
 

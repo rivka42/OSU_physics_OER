@@ -24,25 +24,25 @@
     <figure>
 			<title>Hydrogen Spectrum</title>
             <caption>Visible lines in the hydrogen emission spectrum.</caption>
-            <image source="spectrum-H.png" width = "100%"><description>On a black background, four vertical lines, from left to right: violet, blue, cyan, red.</description></image>
+            <image source="spectrum-H.png" width = "100%"><description><p>On a black background, four vertical lines, from left to right: violet, blue, cyan, red.</p></description></image>
     </figure>
 
     <figure>
 			<title>Helium Spectrum</title>
             <caption>Simulated emission spectrum of neutral Helium (He I) based on data from the National Institute of Standards and Technology Atomic Spectra Database (NIST ASD)</caption>
-            <image source="spectrum-He.png" width = "100%"><description>On a black background, many colored vertical lines, each corresponding to a spectral line.</description></image>
+            <image source="spectrum-He.png" width = "100%"><description><p>On a black background, many colored vertical lines, each corresponding to a spectral line.</p></description></image>
     </figure>
 
     <figure>
 			<title>Sodium Spectrum</title>
             <caption>Simulated emission spectrum of neutral Sodium (Na I) based on data from the National Institute of Standards and Technology Atomic Spectra Database (NIST ASD).</caption>
-            <image source="spectrum-Na.png" width = "100%"><description>On a black background, many colored vertical lines, each corresponding to a spectral line.</description></image>
+            <image source="spectrum-Na.png" width = "100%"><description><p>On a black background, many colored vertical lines, each corresponding to a spectral line.</p></description></image>
     </figure>
 
     <figure>
 			<title>Incandescent Spectrum</title>
             <caption>Spectral power distribution of a 25 W incandescent light bulb, measured at the Department of Photonics Engineering at the Technical University of Denmark. With a calibrated Instrument systems CAS - 140 Array spectrometer. Spectral colors added as sRGB values for monochromatic light scaled with the the luminosity function.</caption>
-            <image source="spectrum-bulb.png" width = "100%"><description>A graph showing, from left to right, the purple to red visible spectrum of an incandescent bulb.</description></image>
+            <image source="spectrum-bulb.png" width = "100%"><description><p>A graph showing, from left to right, the purple to red visible spectrum of an incandescent bulb.</p></description></image>
     </figure>
 
     <subsubsection>
@@ -69,7 +69,7 @@
             <figure>
 			<title>Solar Spectrum</title>
             <caption>Spectrum of light emitted by the Sun.</caption>
-            <image source="spectrum-sun.png" width = "100%"><description>A graph showing, from left to right, the purple to red spectrum of the sun.</description></image>
+            <image source="spectrum-sun.png" width = "100%"><description><p>A graph showing, from left to right, the purple to red spectrum of the sun.</p></description></image>
     </figure>
             <p>
                 What features does this have in common with the various light sources you have already looked at?

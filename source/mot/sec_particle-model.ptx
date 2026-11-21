@@ -15,7 +15,7 @@
 			
 		</p>
 
-		<video youtube="XHKygCac7tg"><description>Introducing the particle model, an example of an assumption in physics.</description></video>
+		<video youtube="XHKygCac7tg"><description><p>Introducing the particle model, an example of an assumption in physics.</p></description></video>
 
 	</statement>
   </corollary>
@@ -31,7 +31,7 @@ In physics, you will often decide to make assumptions or idealizations.  When yo
 	  <title>Assumptions Steps</title>
 		 <caption>Questions to ask when you make an assumption.</caption>
 		<image source="AssumptionsSteps.png" width = "75%">
-			<description>Assumptions and Idealizations. 1 Is the assumption useful for the context?  2 Is the assumption reasonable for the context?  3 Are there any limitations for the context?</description></image>
+			<description><p>Assumptions and Idealizations. 1 Is the assumption useful for the context?  2 Is the assumption reasonable for the context?  3 Are there any limitations for the context?</p></description></image>
   </figure>	
 
    <p>
@@ -48,7 +48,7 @@ To begin to investigate motion, you will make a <em>simplifying assumption</em> 
 		<p>
 			
 		</p>
-		<p>When you assume that a system can be treated as a <term>point particle</term>, you treat it as only undergoing <alert>translational motion</alert> (motion without rotation).  Under this assumption, you treat all the mass of the system as existing at the object's center of mass<fn>center of mass is a property you will study in <xref ref="sec_center-of-mass"/></fn>.</p>
+		<p>When you assume that a system can be treated as a <term>point particle</term>, you treat it as only undergoing <alert>translational motion</alert> (motion without rotation).  Under this assumption, you treat all the mass of the system as existing at the object's center of mass. <!--<fn>center of mass is a property you will study in <xref ref="sec_center-of-mass"/></fn>--></p>
 	</statement>
 </assumption>
 

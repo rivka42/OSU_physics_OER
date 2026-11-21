@@ -26,7 +26,7 @@
 			<title>Blocks Figure</title>
 		 <caption>Two blocks moving together.</caption>
 		<image source="Supported_Block.png" width = "80%">
-			<description></description></image>
+			<description><p></p></description></image>
   </figure>
 				<p>Sketch a free-body diagram for each block and rank the magnitudes of all the <em>vertical</em> 
 					forces acting on the two blocks.</p>
@@ -63,7 +63,7 @@
 			<title>Wedges Figure</title>
 				<caption>Two wedges pushed by a hand.</caption>
 			   	<image source="Wedges.png" width = "60%">
-				<description></description></image>
+				<description><p></p></description></image>
 		 	</figure>
 		</statement>
 		<hint>
@@ -85,7 +85,7 @@
 			<title>Tilted Ramp Figure</title>
 				<caption>Two blocks, connected by a rope on a tilted ramp.</caption>
 			   	<image source="tiltedramp.png" width = "50%">
-				<description>Block 1 is on a ramp tilted downward at angle theta.  A rope runs and to the right, over a pulley, and connects to block 2, which sits on a flat table.</description></image>
+				<description><p>Block 1 is on a ramp tilted downward at angle theta.  A rope runs and to the right, over a pulley, and connects to block 2, which sits on a flat table.</p></description></image>
 		 	</figure>
 			<assemblage>
 		    <p><alert><!--REPLACE_TAG-->Tip:</alert> As part of your symbolic sensemaking (part 3c), evaluate your answer in at least one special case, 

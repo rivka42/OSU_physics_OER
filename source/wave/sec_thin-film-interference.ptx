@@ -11,7 +11,7 @@
     <figure xml:id="bubble">
 			<title>Bubble with Reflection</title>
 		<caption>A bubble exhibiting thin-film interference.</caption>
-        <image source="Bubble.png" width = "50%" ><description>A picture of a bubble in which colorful reflections can be seen.</description></image>
+        <image source="Bubble.png" width = "50%" ><description><p>A picture of a bubble in which colorful reflections can be seen.</p></description></image>
     </figure>
 
     <subsubsection>
@@ -31,9 +31,9 @@
 			<title>Thin-film Figure</title>
 		<caption>Thin-film interference.</caption>
 		<!--
-        <description>An incident ray on a material of a different index of refraction results in a reflected ray (ray 2) and a transmitted, or refracted, ray (ray 3). Ray 3 is then reflected off the lower boundary (ray 4) and transmitted through the next material (ray 6). Ray 4 is transmitted (and refracted) back through the upper boundary, resulting in ray 5. Rays 2 and 5 are what your eye sees.</description>
+        <description><p>An incident ray on a material of a different index of refraction results in a reflected ray (ray 2) and a transmitted, or refracted, ray (ray 3). Ray 3 is then reflected off the lower boundary (ray 4) and transmitted through the next material (ray 6). Ray 4 is transmitted (and refracted) back through the upper boundary, resulting in ray 5. Rays 2 and 5 are what your eye sees.</p></description>
 				-->
-        <image source="optics/openstax-thin-film.png" width = "40%" ><description>Three substances separated by horizontal interfaces from top to bottom: n1, n2, n3.  A light ray (1) enters from top left.  When it hits the first interface, some light reflects (2) up and to the right, while some refracts (3).  When this light hits the second interface, again some refracts (6) while some reflects (4), traveling back up to the first interface, where it refracts (5), moving up parallel to ray 2 toward an eye.</description></image>
+        <image source="optics/openstax-thin-film.png" width = "40%" ><description><p>Three substances separated by horizontal interfaces from top to bottom: n1, n2, n3.  A light ray (1) enters from top left.  When it hits the first interface, some light reflects (2) up and to the right, while some refracts (3).  When this light hits the second interface, again some refracts (6) while some reflects (4), traveling back up to the first interface, where it refracts (5), moving up parallel to ray 2 toward an eye.</p></description></image>
     </figure>
 
     <p>When light is incident on a boundary where the index of refraction is changing, some of the light is reflected and some is transmitted. Here light ray (1) is the original light beam incident on the top interface. It splits into a reflected ray (2) and a transmitted ray (3). At the bottom interface, the transmitted ray then splits into another reflected ray (4) and transmitted ray (6). Lastly, ray 4 interacts again with the top surface and some of it is transmitted (5). There are more reflections and transmissions, but the first two are the most dominant due to the intensity decreasing at every interface. Now light rays (2) and (5), which can be seen by an eye in the original medium, interfere with each other. They are coherent since they originated from the same source and there is a path length difference <m>(\Delta D)</m> between the two.</p>

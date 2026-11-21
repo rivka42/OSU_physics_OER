@@ -11,7 +11,7 @@
 			
 		</p>
 
-		<video youtube="6frqYEcoLiE"><description>An introduction to equipotential graphs.</description></video>
+		<video youtube="6frqYEcoLiE"><description><p>An introduction to equipotential graphs.</p></description></video>
 
 	</statement>
   </corollary>
@@ -52,7 +52,7 @@
 				<figure xml:id="fig_EQgraph0">
 			  <title>Example Equipotential Graph</title>
 			<caption><alert>Example:</alert> Five equipotential lines for a positive point charge located at the origin.</caption>
-			<image source="EQgraph0.png" width = "100%" ><description>An xy contour graph showing 5 concentric circles, labeled from outside to inside: 18 V, 27 V, 36 V, 45 V, 54 V.</description></image>
+			<image source="EQgraph0.png" width = "100%" ><description><p>An xy contour graph showing 5 concentric circles, labeled from outside to inside: 18 V, 27 V, 36 V, 45 V, 54 V.</p></description></image>
 		</figure>
 		</statement>
 	</conjecture>
@@ -67,7 +67,7 @@
 				<figure xml:id="eq">
 			  <title>Equipotential Graph</title>
 			<caption>An equipotential graph in a region of space. The numbers indicate the value of the electric potential for the corresponding line. </caption>
-			<image source="EQgraph1.png" width = "100%" ><description>An equipotential graph in a region of space. The graph shows a region of space, x vs. y, and 12 equipotential lines.</description></image>
+			<image source="EQgraph1.png" width = "100%" ><description><p>An equipotential graph in a region of space. The graph shows a region of space, x vs. y, and 12 equipotential lines.</p></description></image>
 		</figure>
 		</introduction>
 		<task>

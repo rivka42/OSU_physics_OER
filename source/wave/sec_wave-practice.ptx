@@ -69,7 +69,7 @@
 		<title>Wave Amplitude Solution</title>
 		 <caption>A sinusoidal wave with the instants of maximum velocity and acceleration shown.</caption>
 		<image source="wave-sol.png" width = "60%">
-			<description>A sinusoidal wave y(t) vs t, with a_max labeled at one peak and v_max labeled at one zero.</description></image>
+			<description><p>A sinusoidal wave y(t) vs t, with a_max labeled at one peak and v_max labeled at one zero.</p></description></image>
   </figure>	
 
 			</p>

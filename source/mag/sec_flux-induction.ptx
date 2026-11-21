@@ -92,7 +92,7 @@
 	<figure xml:id="fig_loop-push">
 			<title>Loop Push Figure</title>
 				<caption>A square loop moving into a magnetic field.</caption>
-				<image source="Loop-Push.png" width = "60%" ><description>Left: a square loop moving to the right at speed v.  Right: a region of uniform magnetic field pointing out of the screen.</description></image>
+				<image source="Loop-Push.png" width = "60%" ><description><p>Left: a square loop moving to the right at speed v.  Right: a region of uniform magnetic field pointing out of the screen.</p></description></image>
 			</figure>
 
 	</introduction>

@@ -34,7 +34,7 @@
 	<corollary xml:id="vid-block-spring">
 	<title>Block on a Spring</title>
 	<statement><p></p>
-		<video youtube="zQI_gprkg1M"><description>Introducing simple harmonic motion using the block on a spring.</description></video>
+		<video youtube="zQI_gprkg1M"><description><p>Introducing simple harmonic motion using the block on a spring.</p></description></video>
 	</statement>
   </corollary>
   <subsubsection><title>Key Ideas</title></subsubsection>
@@ -69,7 +69,7 @@ The spring has equilibrium length <m>x_0</m> and is initially stretched and then
  <figure xml:id="mass_spring">
 <title>Block on a Spring Figure</title>
     	<caption>A mass on a spring.</caption>
-    		<image source="oscillate/mass_spring.png" width = "100%" ><description>A block m sits on a horizontal table, its left side connected to a spring k which is connected to the wall on the other side.  The equilibrium position of the spring is x0, the current position of the block is x, and both xmax and -xmax are labeled.</description></image>
+    		<image source="oscillate/mass_spring.png" width = "100%" ><description><p>A block m sits on a horizontal table, its left side connected to a spring k which is connected to the wall on the other side.  The equilibrium position of the spring is x0, the current position of the block is x, and both xmax and -xmax are labeled.</p></description></image>
     </figure>
 
 <p>

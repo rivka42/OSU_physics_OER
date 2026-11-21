@@ -51,7 +51,7 @@
 		<figure xml:id="circuits-warmup">
 			  <title>Basic Circuit Diagram</title>
 			<caption>A stylized circuit diagram.</caption>
-			<image source="circuit2.png" width = "50%" ><description>A stylized circuit diagram with a battery on the left and a small blue rectangle and a long orange rectangle on the right.</description></image>
+			<image source="circuit2.png" width = "50%" ><description><p>A stylized circuit diagram with a battery on the left and a small blue rectangle and a long orange rectangle on the right.</p></description></image>
 		</figure>
 		</introduction>
 		<task>
@@ -104,7 +104,7 @@ Sketch a charge diagram and an electric field vector map.
 				<figure xml:id="circuits-warmup2">
 			  <title>Basic Circuit Diagram</title>
 			<caption>A stylized circuit diagram with a switch.</caption>
-			<image source="circuit3.png" width = "50%" ><description>A stylized circuit diagram with a battery on the left and a small blue rectangle and a long orange rectangle on the right.  There is an open switch on the top branch.</description></image>
+			<image source="circuit3.png" width = "50%" ><description><p>A stylized circuit diagram with a battery on the left and a small blue rectangle and a long orange rectangle on the right.  There is an open switch on the top branch.</p></description></image>
 		</figure>
 			</statement>
 		</task>
@@ -151,7 +151,7 @@ Sketch a charge diagram and an electric field vector map.
 		<figure xml:id="f_bulbs1">
 			  <title>Light Bulbs Circuit Diagram</title>
 			<caption>A stylized and circuit diagram of a basic circuit.</caption>
-			<image source="bulb-circuit1.png" width = "30%" ><description>Above: a stylized circuit diagram with a battery on the left and a light bulb on the right.  Below, a corresponding circuit diagram.</description></image>
+			<image source="bulb-circuit1.png" width = "30%" ><description><p>Above: a stylized circuit diagram with a battery on the left and a light bulb on the right.  Below, a corresponding circuit diagram.</p></description></image>
 		</figure>
 
 		</introduction>
@@ -175,7 +175,7 @@ Sketch a charge diagram and an electric field vector map.
 				<figure xml:id="f_bulbs2">
 			  <title>Light Bulbs Circuit Diagram</title>
 			<caption>Two circuit diagrams.</caption>
-			<image source="bulb-circuit2.png" width = "30%" ><description>Above: a circuit diagram with one bulb and one battery.  Below: a circuit diagram with one bulb and two batteries.</description></image>
+			<image source="bulb-circuit2.png" width = "30%" ><description><p>Above: a circuit diagram with one bulb and one battery.  Below: a circuit diagram with one bulb and two batteries.</p></description></image>
 		</figure>
 			</statement>
 		</task>
@@ -187,7 +187,7 @@ Sketch a charge diagram and an electric field vector map.
 				<figure xml:id="f_bulbs3">
 			  <title>Light Bulbs Circuit Diagram</title>
 			<caption>Three circuit diagrams.</caption>
-			<image source="bulb-circuit3.png" width = "30%" ><description>Above: a circuit diagram with one bulb and one battery.  Middle: a circuit diagram with one bulb and two batteries.  Below: a circuit diagram with two bulbs and two batteries.</description></image>
+			<image source="bulb-circuit3.png" width = "30%" ><description><p>Above: a circuit diagram with one bulb and one battery.  Middle: a circuit diagram with one bulb and two batteries.  Below: a circuit diagram with two bulbs and two batteries.</p></description></image>
 		</figure>
 			</statement>
 			<solution>
@@ -204,7 +204,7 @@ Sketch a charge diagram and an electric field vector map.
 				<figure xml:id="f_bulbs4">
 			  <title>Light Bulbs Circuit Diagram</title>
 			<caption>Four circuit diagrams.</caption>
-			<image source="bulb-circuit4.png" width = "60%" ><description>Above: a circuit diagram with one bulb and one battery.  Middle: a circuit diagram with one bulb and two batteries.  Below: a circuit diagram with two bulbs and two batteries.  Below left: a circuit diagram with one battery and two bulbs.</description></image>
+			<image source="bulb-circuit4.png" width = "60%" ><description><p>Above: a circuit diagram with one bulb and one battery.  Middle: a circuit diagram with one bulb and two batteries.  Below: a circuit diagram with two bulbs and two batteries.  Below left: a circuit diagram with one battery and two bulbs.</p></description></image>
 		</figure>
 			</statement>
 			<solution>
@@ -243,7 +243,7 @@ Sketch a charge diagram and an electric field vector map.
 				<figure xml:id="f_bulbs6">
 			  <title>Light Bulbs Circuit Diagram</title>
 			<caption>Three circuit diagrams.</caption>
-			<image source="bulb-circuit6.png" width = "60%" ><description>Above: a circuit diagram with one bulb and one battery.  Middle: a circuit diagram with two bulbs and one battery.  Below: a circuit diagram with one battery and two bulbs, each on its own vertical branch.</description></image>
+			<image source="bulb-circuit6.png" width = "60%" ><description><p>Above: a circuit diagram with one bulb and one battery.  Middle: a circuit diagram with two bulbs and one battery.  Below: a circuit diagram with one battery and two bulbs, each on its own vertical branch.</p></description></image>
 		</figure>
 			</statement>
 			<solution>
@@ -292,7 +292,7 @@ Sketch a charge diagram and an electric field vector map.
 	<figure xml:id="CD_Bulb">
 			  <title>Bulb Diagram</title>
 			<caption>Two representations of a light bulb: a picture on the left and a circuit diagram on the right.</caption>
-			<image source="CD_Bulb.png" width = "50%" ><description>Two representations of a wire: a real bulb on the left and a stylized circle on the right.</description></image>
+			<image source="CD_Bulb.png" width = "50%" ><description><p>Two representations of a wire: a real bulb on the left and a stylized circle on the right.</p></description></image>
 		</figure>
 </assumption>
 	

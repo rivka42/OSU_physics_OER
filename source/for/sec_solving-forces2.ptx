@@ -20,7 +20,7 @@
 			<title>Book Stack Figure</title>
 		  <caption>A stack of two books.</caption>
       <image source="BookStack.png" width = "35%">
-			<description>Book 2 (blue) on top of book 1 (orange) on a flat table.</description>
+			<description><p>Book 2 (blue) on top of book 1 (orange) on a flat table.</p></description>
 			</image>
 		</figure>
 	<p>
@@ -43,7 +43,7 @@
 		<title>Block Race Figure</title>
 	  <caption>Two Blocks connected to strings.</caption>
   <image source="BlocksRace.png" width = "100%">
-		<description>Left: Block A connected to a string which runs over a pulley to a hanging block with a 1 kg hanging mass with gravitational force of about 10 N.  Right: Block B connected to a string which runs over a pulley to a hand that acts a constant downward tension of about 10 N.</description>
+		<description><p>Left: Block A connected to a string which runs over a pulley to a hanging block with a 1 kg hanging mass with gravitational force of about 10 N.  Right: Block B connected to a string which runs over a pulley to a hand that acts a constant downward tension of about 10 N.</p></description>
 		</image>
 </figure>
 		</introduction>
@@ -73,7 +73,7 @@
 		<title>Pair of Blocks Figure</title>
 	  <caption>Two Blocks connected by a string over a pulley.</caption>
   <image source="BlockPulleyFriction.png" width = "60%">
-		<description>Block A connected to a string which runs over a pulley to a hanging block.</description>
+		<description><p>Block A connected to a string which runs over a pulley to a hanging block.</p></description>
 		</image>
 </figure>
 			<p>
@@ -97,7 +97,7 @@
 		<title>Pair of Pulleys Figure</title>
 	  <caption>Two Blocks connected by a string to two pulleys.</caption>
   <image source="BlockPulley2.png" width = "40%">
-		<description>Block A connected to a string which runs over two pulleys before being connected to the ceiling.  Block B is suspended from the second pulley.</description>
+		<description><p>Block A connected to a string which runs over two pulleys before being connected to the ceiling.  Block B is suspended from the second pulley.</p></description>
 		</image>
 </figure>
 			<p>

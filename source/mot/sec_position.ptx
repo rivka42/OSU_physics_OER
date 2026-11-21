@@ -6,7 +6,7 @@
   <corollary xml:id="vid-position">
 	<title>Position</title>
 	<statement><p></p>
-		<video youtube="iJoZIbjRrYA"><description>Defining position.</description></video>
+		<video youtube="iJoZIbjRrYA"><description><p>Defining position.</p></description></video>
 	</statement>
   </corollary>
 
@@ -33,7 +33,7 @@
 		<figure xml:id="def_Cartesian">
 		 <caption>A set of Cartesian coordinates.</caption>
 		<image source="Cartesian.png" width = "25%">
-			<description>A standard Cartesian coordinate system: a horizontal line with arrows on both ends, labeled x, and a vertical line with arrows on both ends, labeled y.</description></image>
+			<description><p>A standard Cartesian coordinate system: a horizontal line with arrows on both ends, labeled x, and a vertical line with arrows on both ends, labeled y.</p></description></image>
   </figure>
 			</statement>
 			
@@ -73,7 +73,7 @@ Symbols like <m>\hat{x}</m> and <m>\hat{y}</m> are special vectors called <em>un
   <figure xml:id="mot_position-vector">
 		 <caption>A two-dimensional position vector.</caption>
 		<image source="2D position vector with angle.png" width = "50%">
-			<description>On an xy axis, an arrow pointing up and to the right, labeled with magnitude r and angle theta.</description></image>
+			<description><p>On an xy axis, an arrow pointing up and to the right, labeled with magnitude r and angle theta.</p></description></image>
   </figure>
 	
 
@@ -102,7 +102,7 @@ Symbols like <m>\hat{x}</m> and <m>\hat{y}</m> are special vectors called <em>un
 <example>
 <title>Vector Decomposition</title>
       <video youtube="VZm6mxu2xlk">
-        <description>MIT Vector Decomposition into components.</description>
+        <description><p>MIT Vector Decomposition into components.</p></description>
       </video>
 
 </example>

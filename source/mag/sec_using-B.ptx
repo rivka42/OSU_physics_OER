@@ -44,7 +44,7 @@
 	<figure xml:id="fig_b-wires1">
 			<title>Wires Figure</title>
 				<caption>Two wires.</caption>
-				<image source="B-Circuit.png" width = "50%" ><description>Two wires carry current upward.  Three points are distributed horizontally, one to the left of both wires, one to the right of both wires, and one in the middle.</description></image>
+				<image source="B-Circuit.png" width = "50%" ><description><p>Two wires carry current upward.  Three points are distributed horizontally, one to the left of both wires, one to the right of both wires, and one in the middle.</p></description></image>
 			</figure>
 </activity>
 
@@ -101,7 +101,7 @@
 			<figure xml:id="fig_mag-loop">
 			<title>Current Loop Figure</title>
     		<caption>The magnetic field created by a current loop.</caption>
-    		<image source="LongWire.png" width = "100%" ><description>Figure shows the magnetic field lines of a circular current loop. One field line follows the axis of the loop. Very close to the wire, the field lines are almost circular, like the lines of a long straight wire.</description></image>
+    		<image source="LongWire.png" width = "100%" ><description><p>Figure shows the magnetic field lines of a circular current loop. One field line follows the axis of the loop. Very close to the wire, the field lines are almost circular, like the lines of a long straight wire.</p></description></image>
 		</figure>
 		
 		</statement>

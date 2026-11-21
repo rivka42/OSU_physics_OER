@@ -11,7 +11,7 @@
 			
 		</p>
 
-		<video youtube="Kn4wcsWCXgY"><description>Defining acceleration.</description></video>
+		<video youtube="Kn4wcsWCXgY"><description><p>Defining acceleration.</p></description></video>
 
 	</statement>
   </corollary>
@@ -26,7 +26,7 @@
 	<title>Average Acceleration</title>
 	<notation>
 		<usage><m>\vec{a}_{ave} = \frac{\Delta \vec{v}}{\Delta t}</m></usage>
-	  <description>The <term>average acceleration</term> of an object is the object's change in velocity divided by the interval of time required to change the velocity.</description>
+	  <description><p>The <term>average acceleration</term> of an object is the object's change in velocity divided by the interval of time required to change the velocity.</p></description>
 	</notation>
 	<statement>
 		<p></p>
@@ -98,7 +98,7 @@
 		 <caption>A subway train in Sao Paulo, Brazil, accelerates opposite to the motion as it comes into a station. It is accelerating in a direction opposite to its direction of motion. 
 			(Credit: modification of work by Yusuke Kawasaki)</caption>
   <image source="openstax_train.jpg" width = "50%">
-	<description>Picture shows a subway train coming into a station.</description>
+	<description><p>Picture shows a subway train coming into a station.</p></description>
   </image>
   </figure>
 </note>

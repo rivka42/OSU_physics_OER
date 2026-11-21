@@ -29,7 +29,7 @@
 			
 		</p>
 
-		<video youtube="jlTt8b-2ZQc"><description>Setting up capacitors in series and parallel circuits.</description></video>
+		<video youtube="jlTt8b-2ZQc"><description><p>Setting up capacitors in series and parallel circuits.</p></description></video>
 
 	</statement>
   </corollary>
@@ -51,7 +51,7 @@
 		<figure xml:id="CD_C">
 			  <title>Capacitor Circuit Diagram</title>
 			<caption>The circuit diagram representation for a capacitor.</caption>
-			<image source="CD_C.png" width = "40%" ><description>Left: a picture of a capacitor.  Right: Two parallel lines of equal length representing a capacitor.</description></image>
+			<image source="CD_C.png" width = "40%" ><description><p>Left: a picture of a capacitor.  Right: Two parallel lines of equal length representing a capacitor.</p></description></image>
 		</figure>
 		</statement>
 	</assumption>

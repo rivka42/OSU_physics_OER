@@ -7,7 +7,7 @@
 <project xml:id="class_uhoh-dog">
 	<title>Uh-Oh Dr. Paws</title>
 <introduction>
-	<video xml:id="for_vb-dog-on-stool" youtube="zTqmp750d2E"><description>Dr. Paws is pushed across the floor.</description></video>
+	<video xml:id="for_vb-dog-on-stool" youtube="zTqmp750d2E"><description><p>Dr. Paws is pushed across the floor.</p></description></video>
     <p>
 		The instructor pushes a footstool (mass <m>m_1</m>) across the floor with a constant force so that the footstool speeds up.  
 		Dr. Paws (a dog with mass <m>m_2</m>) is sitting on the footstool.  
@@ -18,7 +18,7 @@
 			<title>Dog on Footstool Figure</title>
 		  <caption>A simplified sketch of a dog on a footstool.</caption>
       <image source="DogFootstool.png" width = "15%">
-			<description>A golden dog on top of a regtangular footstool.</description>
+			<description><p>A golden dog on top of a regtangular footstool.</p></description>
 			</image>
     </figure>
 
@@ -76,7 +76,7 @@
 			<title>Dog and Footstool FBDs</title>
 			 <caption>Two free-body diagrams.</caption>
 			<image source="uhoh-fbds.png" width = "80%">
-				<description>Dog: FNDS pointing up, FGDE pointing down, and FSFDS pointing to the right.  Footstool: FNSG pointing up, FSFSD pointing to the left, FNSP pointing to the right, FNSD pointing down, FGSE pointing down.</description></image>
+				<description><p>Dog: FNDS pointing up, FGDE pointing down, and FSFDS pointing to the right.  Footstool: FNSG pointing up, FSFSD pointing to the left, FNSP pointing to the right, FNSD pointing down, FGSE pointing down.</p></description></image>
 	  </figure>	
 	
 				</p>

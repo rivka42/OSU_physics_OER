@@ -33,7 +33,7 @@
 	A representation of a 2D wave where each solid line represents a wave crest.
 	</caption>
     	<image source="Doppler.png" width = "50%" >
-			<description>Five increasingly larger concentric circles.</description>
+			<description><p>Five increasingly larger concentric circles.</p></description>
 		</image>
 </figure>
       </answer>
@@ -100,7 +100,7 @@
 	A representation of a 2D wave where each solid line represents a wave crest.
 	</caption>
     	<image source="Doppler2.png" width = "50%" >
-			<description>Five increasingly larger circles, their centers moving to the left.</description>
+			<description><p>Five increasingly larger circles, their centers moving to the left.</p></description>
 		</image>
 </figure>
 <ol>

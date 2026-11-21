@@ -46,7 +46,7 @@
 		<figure xml:id="fig_class-eq1">
 			  <title>Simple Equipotential Graph</title>
 			<caption>Equipotential lines.</caption>
-			<image source="EQgraph0.png" width = "100%" ><description>An equipotential graph measuring 10 m from top to bottom.  A horizontal line at -25 V near the bottom separates lines below that curve down as they move to the right and lines above that curve upward as they move to the right.  The topmost line in the upper left corner is at +15 V.  Point A lies on the line just below the +15 V line near the left edge, while point B lies two lines above the -25 V line near the right edge.</description></image>
+			<image source="EQgraph0.png" width = "100%" ><description><p>An equipotential graph measuring 10 m from top to bottom.  A horizontal line at -25 V near the bottom separates lines below that curve down as they move to the right and lines above that curve upward as they move to the right.  The topmost line in the upper left corner is at +15 V.  Point A lies on the line just below the +15 V line near the left edge, while point B lies two lines above the -25 V line near the right edge.</p></description></image>
 		</figure>
 		</introduction>
 		<task>
@@ -93,7 +93,7 @@
 		<figure xml:id="fig_class-eq-plate">
 			  <title>Plate Diagram</title>
 			<caption>An infinitely large charged plate.</caption>
-			<image source="Charged-Plate.png" width = "40%" ><description>A plate represented by a vertical line on the left, with point A and D a distance z1 to the right (with D above A) and points B and C a distance z2 to the right, with C above B.</description></image>
+			<image source="Charged-Plate.png" width = "40%" ><description><p>A plate represented by a vertical line on the left, with point A and D a distance z1 to the right (with D above A) and points B and C a distance z2 to the right, with C above B.</p></description></image>
 		</figure>
 		</introduction>
 		<task>
@@ -147,7 +147,7 @@
 		<figure xml:id="fig_class-eq2">
 			  <title>Simple Equipotential Graph</title>
 			<caption>Equipotential lines.</caption>
-			<image source="DipoleContours.png" width = "100%" ><description>An equipotential graph with x from -3 m to +3 m on the horizontal and y from -3 m to +3 m on the vertical.  A 0 V line runs vertically down the center, separating rounded, near-oval potentials on either side, positive up to 20 V on the left, negative down to -20 V on the right.</description></image>
+			<image source="DipoleContours.png" width = "100%" ><description><p>An equipotential graph with x from -3 m to +3 m on the horizontal and y from -3 m to +3 m on the vertical.  A 0 V line runs vertically down the center, separating rounded, near-oval potentials on either side, positive up to 20 V on the left, negative down to -20 V on the right.</p></description></image>
 		</figure>
 
 		</introduction>

@@ -11,7 +11,7 @@
 			
 		</p>
 
-		<video youtube="QqhcN2C6SJA"><description>Introducing charge diagrams.</description></video>
+		<video youtube="QqhcN2C6SJA"><description><p>Introducing charge diagrams.</p></description></video>
 
 	</statement>
   </corollary>
@@ -30,7 +30,7 @@
 				<title>Example Charge Diagram</title>
 				<caption><alert>Example:</alert> a wire with dense positive charge on the left, low density charge in the middle, and very dense negative charge on the right.</caption>
 				<image source="ChargeDiagram.png" width = "50%" >
-					<description>Many + and - signs representing charges distributed nonuniformly.</description>
+					<description><p>Many + and - signs representing charges distributed nonuniformly.</p></description>
 				</image>
 			</figure>
 		</statement>
@@ -47,7 +47,7 @@
 				<title>Example Charge Diagram</title>
 				<caption>An example charge diagram.</caption>
 				<image source="Charged_disc.png" width = "50%" >
-					<description>A large red circle with many + signs representing charges distributed nonuniformly.</description>
+					<description><p>A large red circle with many + signs representing charges distributed nonuniformly.</p></description>
 				</image>
 			</figure>
 			<p>Shown above is a charge diagram for a disc.  Indicate the location with the greatest charge density.</p>
@@ -80,7 +80,7 @@
 				<title>Charge on a Wire Figure</title>
     			<caption>Four charges of charge <m>+q</m> are evenly distributed on a wire.</caption>
     			<image source="elec/spread-out-charge.png" width = "60%" >
-					<description>Four +q charges distributed uniformly along a horizontal line.</description>
+					<description><p>Four +q charges distributed uniformly along a horizontal line.</p></description>
 				</image>
     		</figure>
 			<ol>

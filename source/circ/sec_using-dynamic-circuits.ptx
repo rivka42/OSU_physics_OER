@@ -21,7 +21,7 @@
 			<statement><p></p>
 				<figure xml:id="fig-circuit_9">
 					<caption>Circuit diagram.</caption>
-					<image source="mag/circuit-9.png" width = "40%" ><description>A circuit with three vertical branches: a single upward battery (left), a resistor and an inductor (middle), and three upward batteries (right).  A switch allows the central branch to be connected to either the left (initial position) or right branches.</description></image>
+					<image source="mag/circuit-9.png" width = "40%" ><description><p>A circuit with three vertical branches: a single upward battery (left), a resistor and an inductor (middle), and three upward batteries (right).  A switch allows the central branch to be connected to either the left (initial position) or right branches.</p></description></image>
 				</figure>
 				<p>
 					The switch in the circuit above has been closed for a very long time. At the instant you flip the switch to the right, what is the current through the inductor? At the same instant, what is the absolute value of the voltage across the inductor?

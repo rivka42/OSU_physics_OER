@@ -11,7 +11,7 @@
 		<figure xml:id="x_fig_moving-loop">
 			<title>Loop and Magnet Figure</title>
     		<caption>A metal loop near a bar magnet.</caption>
-    		<image source="MovingLoop.png" width = "50%" ><description></description></image>
+    		<image source="MovingLoop.png" width = "50%" ><description><p></p></description></image>
 		</figure>
 	</introduction>
 		<task>
@@ -39,7 +39,7 @@
 			
 		</p>
 
-		<video youtube="txgpDd_bnqg"><description>An example of induced current.</description></video>
+		<video youtube="txgpDd_bnqg"><description><p>An example of induced current.</p></description></video>
 	</statement>
 </algorithm>
 	

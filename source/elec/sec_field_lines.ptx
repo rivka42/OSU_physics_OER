@@ -52,7 +52,7 @@ Since electric fields are vector fields, electric field lines never cross. If th
 	A visualization of the electric field of a positive point charge.
 	</caption>
     		<image source="elec/e_field_pos.png" width = "60%" >
-				<description>Field lines pointing outward in all directions from a positive charge.</description>
+				<description><p>Field lines pointing outward in all directions from a positive charge.</p></description>
 			</image>
 </figure>
 
@@ -61,10 +61,10 @@ Since electric fields are vector fields, electric field lines never cross. If th
     	<caption>
 	A visualization of the electric field of a negative point charge.
 	</caption>
-    		<image source="elec/e_field_neg.png" width = "60%" ><description>
+    		<image source="elec/e_field_neg.png" width = "60%" ><description><p>
 				Field lines pointing inward in all directions from a negative charge.
 				
-			</description></image>
+			</p></description></image>
 </figure>
 		</statement>
 	</conjecture>

@@ -2,18 +2,23 @@
 
 <section xml:id="sec_maxwell" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Maxwell's Equations</title>
-
+	<introduction>
+	
 	<p>
-		You have now studied <alert>all</alert> of the ways in which electric and magnetic fields can be created, and how electric and magnetic fields impact the charges that make up the world.  Together they are known as Maxwell's Equations and constitute all of <alert>electromagnetism</alert>.
+		You have now studied <alert>all</alert> of the ways in which electric and magnetic fields are created, and how they impact the charges that make up the world.  Together they are known as Maxwell's Equations and constitute all of <alert>electromagnetism</alert>.
 	</p>
+	</introduction>
+
+		<subsubsection>
+		<title>Key Ideas</title>
 
 	<principle xml:id="p_maxwell">
 		<title>Electromagnetism (Maxwell's Equations)</title>
 		<p></p>
-		<sbsgroup widths="40% 40%" margins="5% 5%" valign="middle">
-		<sidebyside widths="89% 1%">
+		<sbsgroup widths="30% 50%" margins="5% 5%" valign="middle">
+		<sidebyside widths="80% 10%">
 			<p>
-				<alert>How Fields Are Created</alert>
+				<md>\textbf{How Fields Are Created}</md>
 			</p>
 			<p>
 				
@@ -43,17 +48,17 @@
 				</md>
 			</p>
 		</sidebyside>
-		<sidebyside widths="89% 1%">
+		<sidebyside widths="80% 10%">
 			<p>
-				<alert>How Fields Impact Charges</alert>
-				<md>\vec{F} = q\vec{E} + q\vec{v}\times\vec{B}</md>
+				<md>\textbf{How Fields Impact Charges}</md>
+				<md>\text{(v)~~} \vec{F} = q\vec{E} + q\vec{v}\times\vec{B}</md>
 			</p>
 			<p>
 				
 			</p>
 		</sidebyside>
 	</sbsgroup>
-
+	<p>
 	<ol marker="(i)">
 		<li>
 			<p>
@@ -75,42 +80,26 @@
 				<alert>The Ampère-Maxwell Law</alert> governs how both <em>currents</em> (made of moving electric charges) and <em>changing electric fields</em> create magnetic fields.  All other rules about the creation of magnetic fields, such as the <xref ref="def_mag-current"/>, ultimately come from this Law.  Magnetic fields always circulate around the current and the changing electric field, as shown in the <xref ref="x_fig_mag-full"/>.
 			</p>
 		</li>
+		<li>
+			<p>
+				<alert>The Lorentz Force Law</alert> governs the force on an electric charge by the electric and magnetic fields.
+			</p>
+		</li>
 	</ol>
+	</p>
 
 	</principle>
-	
+</subsubsection>
 
 	
 
 	<subsubsection>
 		<title>Activities</title>
 		<activity>
-      	<title>Electrodynamics Equations</title>
+      	<title>Electromagnetism Equations</title>
 		<statement>
 			<p></p>
-			<p>Consider the four equations above that govern the creation of electric and magnetic fields.</p>
-			<ul>
-				<li>
-					<p>
-						How do you feel, personally, about the equations and what they are trying to say?
-					</p>
-				</li>
-				<li>
-					<p>
-						What symmetries or similarities do you see in these four equations?
-					</p>
-				</li>
-				<li>
-					<p>
-						Why do you think the equations are arranged as shown above?
-					</p>
-				</li>
-				<li>
-					<p>
-						Do you feel like there is anything missing from the equations?
-					</p>
-				</li>
-			</ul>
+			<p>Recall the set of questions you answered in <xref ref="x_electrodynamics"/>.  Have any of your answers changed?  How do you feel about this set of equations now?</p>
 		</statement>
 		</activity>
 	</subsubsection>

@@ -17,7 +17,7 @@
   <figure xml:id="mot_car-with-constant-v">
 		 <caption>A stroboscopic diagram of a car moving at constant speed.</caption>
 		<image source="car with constant velocity.png" width = "75%">
-			<description>Six pictures of a car arranged horizontally.  A blue arrow above each car points to the right.</description></image>
+			<description><p>Six pictures of a car arranged horizontally.  A blue arrow above each car points to the right.</p></description></image>
   </figure>
 	
 	<p>You can apply the particle model and represent the car as a point object, creating a motion diagram showing the position of the car at each instant of time and the corresponding displacement vectors.</p>
@@ -25,7 +25,7 @@
   <figure xml:id="mot_car-with-constant-v-diagram">
 		 <caption>A motion diagram of a car moving at constant speed.</caption>
 		<image source="motion diagram car constant velocity.png" width = "75%">
-			<description>Six horizontally spaced dots, each dot separated by a labeled arrow.</description></image>
+			<description><p>Six horizontally spaced dots, each dot separated by a labeled arrow.</p></description></image>
   </figure>	
 	
 	<p>Notice that the displacement vectors are equal in length when the car moves at constant speed.</p>
@@ -43,7 +43,7 @@
 		<figure xml:id="mot_MotionA">
 		  <caption>A strobe diagram.</caption>
       <image source="MotionA.png" width = "100%">
-			<description>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.</description>
+			<description><p>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.</p></description>
 			</image>
     </figure>
 			<exercise xml:id="x_practice-rep-vel">

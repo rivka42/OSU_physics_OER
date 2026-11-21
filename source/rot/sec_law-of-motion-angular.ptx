@@ -10,7 +10,7 @@
       <corollary xml:id="vid-N2LR">
 	<title>The Rotational Law of Motion</title>
 	<statement><p></p>
-		<video youtube="rLFcG0CLUxs">      <description>An introduction to the rotational law of motion.</description></video>
+		<video youtube="rLFcG0CLUxs">      <description><p>An introduction to the rotational law of motion.</p></description></video>
 	</statement>
   </corollary>
 
@@ -46,7 +46,7 @@
       <identity xml:id="vid-catapult-solution">
 	<title>Catapult Solution</title>
 	<statement><p></p>
-		<video youtube="ydVOtjiHm4w">      <description>Solution to the Catapult activity.</description></video>
+		<video youtube="ydVOtjiHm4w">      <description><p>Solution to the Catapult activity.</p></description></video>
 	</statement>
 </identity>			
 			</solution>

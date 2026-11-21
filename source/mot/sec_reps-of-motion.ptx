@@ -13,7 +13,7 @@
   <figure xml:id="mot_car-with-constant-v">
 		 <caption>A stroboscopic diagram of a car moving at constant speed.</caption>
 		<image source="car with constant velocity.png" width = "75%">
-			<description>Six pictures of a car arranged horizontally.  A blue arrow above each car points to the right.</description></image>
+			<description><p>Six pictures of a car arranged horizontally.  A blue arrow above each car points to the right.</p></description></image>
   </figure>
 	
 	<p>You can apply the particle model and represent the car as a point object, creating a motion diagram showing the position of the car at each instant of time and the corresponding displacement vectors.</p>
@@ -21,7 +21,7 @@
   <figure xml:id="mot_car-with-constant-v-diagram">
 		 <caption>A motion diagram of a car moving at constant speed.</caption>
 		<image source="motion diagram car constant velocity.png" width = "75%">
-			<description>Six horizontally spaced dots, each dot separated by a labeled arrow.</description></image>
+			<description><p>Six horizontally spaced dots, each dot separated by a labeled arrow.</p></description></image>
   </figure>	
 	
 	<p>Notice that the displacement vectors are equal in length when the car moves at constant speed.</p>
@@ -44,7 +44,7 @@
 		<figure xml:id="mot_Tortoise-slide">
 		  <caption>A tortoise at the top of a slide.</caption>
       <image source="Tortoise-slide.png" width = "70%">
-			<description>A tortoise at the top of a slide.</description>
+			<description><p>A tortoise at the top of a slide.</p></description>
 			</image>
     </figure>
 		</introduction>
@@ -89,7 +89,7 @@
 		<figure xml:id="mot_MotionRamp">
 		  <caption>A strobe diagram of a ball rolling up and then down a ramp.</caption>
       <image source="MotionRamp.png" width = "80%">
-			<description>Five icons of a ball rolling up a ramp, then repeated below moving down a ramp.</description>
+			<description><p>Five icons of a ball rolling up a ramp, then repeated below moving down a ramp.</p></description>
 			</image> 
     </figure>
 <p>
@@ -131,7 +131,7 @@
 		<figure xml:id="mot_MotionArray">
 		  <caption>Four strobe diagrams.</caption>
       <image source="MotionArray.png" width = "40%">
-			<description>Five dots separated by changing distances, repeated four times with different orientations.</description>
+			<description><p>Five dots separated by changing distances, repeated four times with different orientations.</p></description>
 			</image>
     </figure>
 <p>
@@ -164,7 +164,7 @@
 		<figure xml:id="mot_MotionCars">
 		  <caption>Two strobe diagrams.</caption>
       <image source="MotionCars.png" width = "100%">
-			<description>Six blue cars spaced evenly above six orange cars spaced unevenly.</description>
+			<description><p>Six blue cars spaced evenly above six orange cars spaced unevenly.</p></description>
 			</image>
     </figure>
 <p> 
@@ -201,7 +201,7 @@
 		<figure xml:id="mot_MotionB">
 		  <caption>A strobe diagram.</caption>
       <image source="MotionB.png" width = "100%">
-			<description>Nine icons of a ball rolling, first far apart, then close together, then far apart again.</description>
+			<description><p>Nine icons of a ball rolling, first far apart, then close together, then far apart again.</p></description>
 			</image>
     </figure>
 <p>
@@ -279,7 +279,7 @@
 	<figure xml:id="mot_MotionA">
 		  <caption>A strobe diagram.</caption>
       <image source="MotionA.png" width = "100%">
-			<description>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.</description>
+			<description><p>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.</p></description>
 			</image>
     </figure>
 		</introduction>
@@ -296,7 +296,7 @@
 				<figure xml:id="mot_MotionDiagramFilled">
 		  <caption>A motion diagram with velocity vectors (middle, blue) and acceleration vectors (bottom, red).</caption>
       		<image source="MotionDiagramFilled.png" width = "80%">
-			<description>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.  Blue vectors represent velocity and red vectors represent acceleration.</description>
+			<description><p>Seven dots distributed horizontally, closer together on the right side and on the left side than in the middle.  Blue vectors represent velocity and red vectors represent acceleration.</p></description>
 			</image>
     		</figure>
 				<p>

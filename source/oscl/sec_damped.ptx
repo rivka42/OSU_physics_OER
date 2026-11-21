@@ -12,7 +12,7 @@ The model for <xref ref="assumption-shm"/> does not include dissipative forces s
  
  
     	<caption>A mass on a spring including dissipative forces.</caption>
-    		<image source="oscillate/Damped_spring.gif" width = "15%" ><description>A block on a vertical spring bobs up and down, moving more and more slowly over time.</description></image>
+    		<image source="oscillate/Damped_spring.gif" width = "15%" ><description><p>A block on a vertical spring bobs up and down, moving more and more slowly over time.</p></description></image>
     </figure>
  
  <p>
@@ -28,7 +28,7 @@ The <alert>damping constant </alert>, <m>b</m>, depends on the shape of the obje
 
 
     	<caption>A mass on a spring including drag forces.</caption>
-    		<image source="oscillate/mass_spring_damp.png" width = "100%" ><description>A block m sits on a horizontal table, its left side connected to a spring k which is connected to the wall on the other side.  The equilibrium position of the spring is x0, the current position of the block is x, and both xmax and -xmax are labeled.  At the moment shown, the velocity is shown with a rightward arrow and the drag force is shown with a rightward arrow.</description></image>
+    		<image source="oscillate/mass_spring_damp.png" width = "100%" ><description><p>A block m sits on a horizontal table, its left side connected to a spring k which is connected to the wall on the other side.  The equilibrium position of the spring is x0, the current position of the block is x, and both xmax and -xmax are labeled.  At the moment shown, the velocity is shown with a rightward arrow and the drag force is shown with a rightward arrow.</p></description></image>
     </figure>
 
 <assumption xml:id="assumption-damped">
@@ -139,7 +139,7 @@ Note that <m>\omega_{d}</m> is only valid when <m>\frac{k}{m} \gt \frac{b^2}{4m^
 
 
     	<caption>The position as a function of time for the damped oscillator.</caption>
-    		<image source="oscillate/damped2.png" width = "100%" ><description>A graph of x(t) vs. t showing a decaying oscillation.  The graph starts at xmax, oscillating like a sine function but with decreasing amplitude.  An exponential graph forms an amplitude envelope for the decay.</description></image>
+    		<image source="oscillate/damped2.png" width = "100%" ><description><p>A graph of x(t) vs. t showing a decaying oscillation.  The graph starts at xmax, oscillating like a sine function but with decreasing amplitude.  An exponential graph forms an amplitude envelope for the decay.</p></description></image>
     </figure>
 		</answer>
 		</activity>

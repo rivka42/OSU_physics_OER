@@ -16,7 +16,7 @@
 		<title>Cross Product Figure</title>
     	<caption></caption>
     		<image source="CrossProductVectors2.png" width = "50%" >
-				<description>v1 points up and to the left, v2 points down and to the left, v3 points out of the page</description>
+				<description><p>v1 points up and to the left, v2 points down and to the left, v3 points out of the page</p></description>
 			</image>
     </figure>
 				</introduction>
@@ -44,7 +44,7 @@
 </activity>
 		
 		<!--NEED VIDEO
-    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+    <video youtube="qMJK_sjdUCw"><description><p>DESCRIPTION</p></description></video>
 		-->
 	
 	<p>As with electric fields, magnetic fields exist everywhere in space.  Many things can create magnetic fields, including electric currents.</p>
@@ -81,7 +81,7 @@
 			<figure xml:id="fig_mag-wire">
 			<title>Long Wire Figure</title>
     		<caption>A test point near a long, current-carrying wire.  The direction of the magnetic field at the marked point is <alert>out of the screen</alert>.</caption>
-    		<image source="LongWire.png" width = "100%" ><description>A straight line with a rightward arrow representing a current.  A distance s above the wire is a marked point.</description></image>
+    		<image source="LongWire.png" width = "100%" ><description><p>A straight line with a rightward arrow representing a current.  A distance s above the wire is a marked point.</p></description></image>
 		</figure>
 		</statement>
 	</definition>	
@@ -103,7 +103,7 @@
 				<figure xml:id="x_fig_mag">
 			<title>Wire Figure</title>
     		<caption>A wire surrounded by four marked points.</caption>
-    		<image source="MagWire.png" width = "50%" ><description>A gray circle with four marked points (top, left, right, and bottom).  At the center is a circle with a dot representing a current directed out of the screen.</description></image>
+    		<image source="MagWire.png" width = "50%" ><description><p>A gray circle with four marked points (top, left, right, and bottom).  At the center is a circle with a dot representing a current directed out of the screen.</p></description></image>
 		</figure>
 	</introduction>
 		<task>
@@ -118,7 +118,7 @@
 							<figure xml:id="x_fig_mag-sol">
 			<title>Wire Figure</title>
     		<caption>The magnetic field around a long straight wire.</caption>
-    		<image source="MagWire-sol.png" width = "50%" ><description>A gray circle with four marked points (top, left, right, and bottom).  At the center is a circle with a dot representing a current directed out of the screen.  At each marked point is a vector that points in a straight line tangent to the circle in a counterclockwise direction.</description></image>
+    		<image source="MagWire-sol.png" width = "50%" ><description><p>A gray circle with four marked points (top, left, right, and bottom).  At the center is a circle with a dot representing a current directed out of the screen.  At each marked point is a vector that points in a straight line tangent to the circle in a counterclockwise direction.</p></description></image>
 		</figure>
 			</answer>
 		</task>
@@ -158,12 +158,12 @@
 			<figure xml:id="x_fig_mag-full">
 			<title>Magnetic Field Vector Map for a Current-carrying Wire</title>
     		<caption>A magnetic field vector map for a long straight wire.  The field points in a counter-clockwise direction and gets smaller as you get farther from the wire.</caption>
-    		<image source="MagWire-full.png" width = "100%" ><description>Two gray circles centered on a circle with a dot representing a current directed out of the screen.  On each circle are eight vectors that each point in a straight line tangent to the circle in a counterclockwise direction.  The vectors on the bigger circle have a smaller length.</description></image>
+    		<image source="MagWire-full.png" width = "100%" ><description><p>Two gray circles centered on a circle with a dot representing a current directed out of the screen.  On each circle are eight vectors that each point in a straight line tangent to the circle in a counterclockwise direction.  The vectors on the bigger circle have a smaller length.</p></description></image>
 		</figure>
 		<figure xml:id="x_fig_mag-full2">
 			<title>Magnetic Wire Figure</title>
     		<caption>Some magnetic field lines of a long straight wire. The direction of <m>\vec{B}</m> can be found with a form of the right-hand rule.</caption>
-    		<image source="MagneticFieldWire.jpg" width = "100%" ><description>This figure demonstrates the right-hand rule. The wire is held with the right hand so that the thumb points along the current. The fingers wrap around the wire in the same sense as the magnetic field.</description></image>
+    		<image source="MagneticFieldWire.jpg" width = "100%" ><description><p>This figure demonstrates the right-hand rule. The wire is held with the right hand so that the thumb points along the current. The fingers wrap around the wire in the same sense as the magnetic field.</p></description></image>
 				
 		</figure>
 			</answer>

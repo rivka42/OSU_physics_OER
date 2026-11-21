@@ -32,7 +32,7 @@
 				<title>Vector Pairs Figure</title>
   				<caption>Two pairs of vectors.</caption>
 				<image source="Vector-Pairs.png" width = "25%">
-				<description>Two pairs of tail-to-tail arrows. The left pair has an acute angle and the right pair has an obtuse angle.</description>
+				<description><p>Two pairs of tail-to-tail arrows. The left pair has an acute angle and the right pair has an obtuse angle.</p></description>
 				</image>
  			</figure>
 		</statement>

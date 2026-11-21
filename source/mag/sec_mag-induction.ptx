@@ -51,7 +51,7 @@
 			</p>
 			<figure xml:id="fig-loop-field">
 				<caption>A square wire loop in a uniform magnetic field.</caption>
-				<image source="Loop-Field.png" width = "30%" ><description>A square wire loop in an outward magnetic field.  The square has side length l and a vertical dashed line through its center.</description></image>
+				<image source="Loop-Field.png" width = "30%" ><description><p>A square wire loop in an outward magnetic field.  The square has side length l and a vertical dashed line through its center.</p></description></image>
 			</figure>
 			<p>
 				Explain how the magnetic flux and the induced current change over time.  As part of your explanation, sketch two graphs, one of the magnetic flux vs. time and one of the induced current vs. time, and describe how flux and current are related using your graphs.

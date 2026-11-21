@@ -12,7 +12,7 @@
 			
 		</p>
 
-		<video youtube="Uc5fC3HN2eQ"><description>Defining displacement.</description></video>
+		<video youtube="Uc5fC3HN2eQ"><description><p>Defining displacement.</p></description></video>
 	</statement>
   </corollary>
 
@@ -46,7 +46,7 @@ Sometimes, subscripts might even be combined: <m>r_{x3i}</m> for the <m>x</m>-co
   <figure xml:id="mot_displacement-vector">
 		 <caption>A displacement vector.</caption>
 		<image source="displacement.png" width = "50%">
-			<description>On an xy axis, two arrows labeled r0 and rf point up and to the right, with a third vector labeled Delta r completing a triangle between them.</description></image>
+			<description><p>On an xy axis, two arrows labeled r0 and rf point up and to the right, with a third vector labeled Delta r completing a triangle between them.</p></description></image>
   </figure>	
   
 	<subsubsection>
@@ -81,9 +81,9 @@ Sometimes, subscripts might even be combined: <m>r_{x3i}</m> for the <m>x</m>-co
 		  <title>Calculation Steps</title>
 		 	<caption>Steps to follow when performing a calculation.</caption>
 			<image source="CalculationSteps.png" width = "85%">
-			<description>2. Calculating an Unknown Quantity.  2a. Represent principles - identify relevant concepts, laws, or definitions. 
+			<description><p>2. Calculating an Unknown Quantity.  2a. Represent principles - identify relevant concepts, laws, or definitions. 
 				2b. Find unknown(s) symbolically - without numbers, find any unknown(s) in terms of symbols representing known quantities.  
-				2c. Plug in numbers - plug numbers (with units) into your symbolic answer! </description></image>
+				2c. Plug in numbers - plug numbers (with units) into your symbolic answer! </p></description></image>
   			</figure>
 
 			<p>

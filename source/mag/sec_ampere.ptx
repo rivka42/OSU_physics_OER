@@ -11,7 +11,7 @@
 			
 		</p>
 
-		<video youtube="gqR1NwRBWiI"><description>Introducing Ampere's Law.</description></video>
+		<video youtube="gqR1NwRBWiI"><description><p>Introducing Ampere's Law.</p></description></video>
 
 	</statement>
   </corollary>
@@ -82,7 +82,7 @@
 			<figure xml:id="x_fig_ampere">
 			<title>Amperian Loop Figure</title>
 				<caption>Three cases are shown depicting an Amperian loop (dashed line) and different wires.</caption>
-				<image source="mag/Ampo.png" width = "100%" ><description>Three boxes sit side by side. The lefthand box is case A, where one wire sits inside a closed Amperian loop and another wire sits outside the loop. The middle box shows case B, where both wires sit outside the loop. The righthand box shows case C where both wires sit inside the loop.</description></image>
+				<image source="mag/Ampo.png" width = "100%" ><description><p>Three boxes sit side by side. The lefthand box is case A, where one wire sits inside a closed Amperian loop and another wire sits outside the loop. The middle box shows case B, where both wires sit outside the loop. The righthand box shows case C where both wires sit inside the loop.</p></description></image>
 			</figure>
 		</investigation>
 	</subsubsection>

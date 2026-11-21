@@ -3,11 +3,116 @@
 <section xml:id="sec_displacement-current" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Displacement Current</title>
 
+	<subsubsection>
+		<title>Revisiting Ampère's Law</title>
 
+		<p>
+			Recall <xref ref="def_ampere"/>, which relates the magnetic field around a closed loop to the current passing through the open surface bounded by the loop.
+		</p>
+		
+		<activity>
+			<title>Three Surfaces</title>
+			<introduction>
+				<p>
+					
+				</p>
+				<p>
+					The figure below shows a long, straight wire carrying current <m>I</m> to the right.  The dashed line represents an Amperean loop and the gray surface represents an open surface bounded by the loop.
+				</p>
+				<figure xml:id="fig_displacement1">
+				<title>Ampere-Current Diagram I</title>
+				<caption>An Amperean Loop and its corresponding surface.</caption>
+				<image source="Displacement1.png" width = "100%"><description><p>A wire carries current I to the right through a circular Amperean Loop and its corresponding circular shaded surface.</p></description></image>
+				</figure>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Determine the current passing through the surface.
+				</p>
+			</statement>
+			<solution>
+				<p>
+					The entire wire goes through the surface, so the total current is <m>I</m>!
+				</p>
+			</solution>
+		</task>
+		<task>
+			<statement>
+				<p>
+					The figure below shows the same wire and the same Amperean loop.  However, a different open surface has been drawn: a cylinder missing one of its endcaps.
+				</p>
+				<figure xml:id="fig_displacement2">
+				<title>Ampere-Current Diagram II</title>
+				<caption>An Amperean Loop and a different corresponding surface.</caption>
+				<image source="Displacement2.png" width = "100%"><description><p>A wire carries current I to the right through a circular Amperean Loop and a new shaded surface, this one a cylinder missing one endcap.</p></description></image>
+				</figure>
+				<p>
+					Explain why this surface is still an open surface and therefore a valid choice for the application of Ampère's Law.
+				</p>
+			</statement>
+			<solution>
+				<p>
+					The surface must be open for Ampère's Law to apply.  Another way to phrase this is that the surface cannot be closed.  Since one endcap of the surface is missing, the surface is not closed, and therefore is valid!
+				</p>
+			</solution>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Determine the current passing through the new surface.  Is it still in agreement with Ampère's Law?
+				</p>
+			</statement>
+			<solution>
+				<p>
+					The entire current still passes through the new surface: even though the endcap is missing, the current <m>I</m> eventually goes through the other side!
+				</p>
+			</solution>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Can you come up with any open surface (still bounded by the drawn loop) that <alert>does not</alert> have current <m>I</m> flowing through it?
+				</p>
+			</statement>
+			<solution>
+				<p>
+					For the situation shown, any surface bounded by the loop will have current <m>I</m>.  You can imagine the surface somewhat like a stretchy net: no matter how you twist the net, if you do not move the ring it will always have to encompass the current.
+				</p>
+			</solution>
+		</task>
+		<task>
+			<statement>
+				<p>
+					The figure below shows a similar wire that has been connected in a circuit to a parallel-plate capacitor.  As in the first figure, the dashed line represents an Amperean loop and the gray surface represents an open surface bounded by the loop. 
+				</p>
+				<figure xml:id="fig_displacement3">
+				<title>Ampere-Current Diagram III</title>
+				<caption>An Amperean Loop around a wire in a circuit with a capacitor.</caption>
+				<image source="Displacement3.png" width = "100%"><description><p>A wire carries current I to the right through a circular Amperean Loop and its corresponding circular shaded surface.  The wire continues to the right and reaches a capacitor.</p></description></image>
+				</figure>
+				<p>
+					Determine the current passing through the surface.
+				</p>
+			</statement>
+			<solution>
+				<p>
+					Once again, the entire current passes through, so the answer is <m>I</m>!
+				</p>
+			</solution>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Draw an open surface for the given Amperean loop through which the current <alert>does not</alert> flow.
+				</p>
+			</statement>
+		</task>
+		</activity>
 
-
-
-
+		<p>
+			The example above suggests that Ampère's Law is <em>incomplete</em>.  James Clerk Maxwell, a physicist working in the 1800s, discovered this inconsistency and proposed the correction to Ampère's Law below.
+		</p>
 
 	<definition xml:id="def_maxwell-ampere">
 		<title>Maxwell-Ampère Law</title>
@@ -25,6 +130,18 @@
 			</p>
 		</statement>
 	</definition>
+
+	<activity>
+		<title>Not a Current</title>
+		<p>
+			
+		</p>
+		<p>
+			The second term in the <xref ref="def_maxwell-ampere"/> looks suspiciously like another current.  In fact, Maxwell called the quantity <m>I_d = \epsilon_0 \frac{\partial \Phi_E}{\partial t}</m> the <alert>displacement current</alert>, even though no real charge is flowing to create it.  Give a justification for this name by showing that it has units of current, even though it is not one.
+		</p>
+	</activity>
+
+		</subsubsection>
 
 
 	

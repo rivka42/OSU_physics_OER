@@ -22,7 +22,7 @@
 				<figure xml:id="fig-circuit_1">
 					<caption>Circuit diagram. The top and bottom circuits are identical, apart from an extra wire connecting around lightbulb C in the bottom diagram.</caption>
 					<image source="circ/circuit-1.png" width = "40%" >
-					<description>Top: A circuit diagram with a battery on the left, bulbs A and D on the top, bulbs B and C on a branch extending downward from between A and D, and an extra wire extending downward past bulb D.  Below: An otherwise identical circuit diagram with an extra wire connecting the two ends of bulb C directly.</description></image>
+					<description><p>Top: A circuit diagram with a battery on the left, bulbs A and D on the top, bulbs B and C on a branch extending downward from between A and D, and an extra wire extending downward past bulb D.  Below: An otherwise identical circuit diagram with an extra wire connecting the two ends of bulb C directly.</p></description></image>
 				</figure>
 				<p>
 					The circuit shown on top in the image above has four identical light bulbs and an ideal battery.
@@ -61,7 +61,7 @@
 			<figure xml:id="fig-circuit_2">
 				<caption>Circuit diagram.</caption>
 				<image source="circ/circuit-2.png" width = "40%" >
-				<description>A circuit diagram with a battery on the left.  On the right, a branch with bulb A in series with a parallel network of bulbs B and C, in series with bulb D.</description></image>
+				<description><p>A circuit diagram with a battery on the left.  On the right, a branch with bulb A in series with a parallel network of bulbs B and C, in series with bulb D.</p></description></image>
 			</figure>
 			<p>
 				The circuit above shows four identical bulbs connected to an ideal battery. The switch is initially closed.
@@ -92,7 +92,7 @@
 			<figure xml:id="fig-circuit_8">
 				<caption>Circuit diagram.</caption>
 				<image source="circ/circuit-8.png" width = "40%" >
-				<description>A circuit with a battery in series with a parallel network consisting of resistor A and a series network of D and B and C in parallel, all in series with E.</description></image>
+				<description><p>A circuit with a battery in series with a parallel network consisting of resistor A and a series network of D and B and C in parallel, all in series with E.</p></description></image>
 			</figure>
 			<p>
 				The circuit above includes five identical linear resistors with resistance 5 <m>\Omega</m>. The battery provides 32 V.
@@ -115,7 +115,7 @@
 				<figure xml:id="fig-circuit_4">
 					<caption>Circuit diagram.</caption>
 					<image source="circ/circuit-4.png" width = "40%" >
-					<description>A circuit diagram with three vertical branches, from left to right: a battery, bulb 11, and bulbs 12 and another battery in series.</description></image>
+					<description><p>A circuit diagram with three vertical branches, from left to right: a battery, bulb 11, and bulbs 12 and another battery in series.</p></description></image>
 				</figure>
 				<p>
 					Recall the circuit from class, reproduced above. Suppose batteries A and B are not identical. 
@@ -165,7 +165,7 @@
 				<figure xml:id="fig-circuit_5">
 					<caption>Circuit diagram.</caption>
 					<image source="bb-circuit5.png" width = "40%" >
-					<description>A circuit diagram with three vertical branches, from left to right: battery A, bulb C, and bulb D and battery B in series.  Point 1 lies above bulb 1, point 2 between bulb 2 and battery D, and point 3 below bulb 1.</description></image>
+					<description><p>A circuit diagram with three vertical branches, from left to right: battery A, bulb C, and bulb D and battery B in series.  Point 1 lies above bulb 1, point 2 between bulb 2 and battery D, and point 3 below bulb 1.</p></description></image>
 				</figure>
 				<p>
 					Consider the circuit shown above, which is a variant of the circuit from class. All bulbs are identical, and all batteries are ideal and identical. (Note that the orientation of battery B has changed.)
@@ -280,7 +280,7 @@
 			<title>Junction</title>
 			<caption>Junction with three incoming current branches.</caption>
 			<image source="circ/junction.jpg" width = "50%" >
-			<description>Current I2 moving to the right, I1 moving down, and I3 moving to the left.</description></image>
+			<description><p>Current I2 moving to the right, I1 moving down, and I3 moving to the left.</p></description></image>
 		</figure>
 		<exploration>
 			<title>Junction</title>
@@ -300,7 +300,7 @@
 			<title>Current versus Voltage</title>
 			<caption>Current versus voltage graph.</caption>
 			<image source="circ/current-vs-voltage.png" width = "50%" >
-			<description>A graph of current vs voltage that starts at the origin and increases linearly.</description></image>
+			<description><p>A graph of current vs voltage that starts at the origin and increases linearly.</p></description></image>
 		</figure>
 
 		<exploration>
@@ -335,7 +335,7 @@
 			<title>Circuit Diagram</title>
 			<caption>A circuit diagram.</caption>
 			<image source="circ/circuit-11.png" width = "50%" >
-			<description>A circuit diagram with a battery, R1, and R2 in series.</description></image>
+			<description><p>A circuit diagram with a battery, R1, and R2 in series.</p></description></image>
 		</figure>
 
 		<exploration>
@@ -383,7 +383,7 @@
 			<title>Circuit Diagram</title>
 			<caption>A circuit diagram.</caption>
 			<image source="circ/circuit-12.png" width = "50%" >
-			<description>A circuit diagram with a battery on the left, a downward branch with 25 Ohms, a rightward branch with 15 Ohms, another downward branch with 15 Ohms, and a final leftward branch with 20 Ohms.</description></image>
+			<description><p>A circuit diagram with a battery on the left, a downward branch with 25 Ohms, a rightward branch with 15 Ohms, another downward branch with 15 Ohms, and a final leftward branch with 20 Ohms.</p></description></image>
 		</figure>
 
 		<exploration>
@@ -435,7 +435,7 @@
 			<title>Circuit Diagram</title>
 			<caption>A circuit diagram.</caption>
 			<image source="circ/circuit-13.png" width = "50%" >
-			<description>A 12 V battery connected to a 15 Ohm resistor, a parallel network of two five Ohm resistors, and an eight Ohm resistor.</description></image>
+			<description><p>A 12 V battery connected to a 15 Ohm resistor, a parallel network of two five Ohm resistors, and an eight Ohm resistor.</p></description></image>
 		</figure>
 
 		<exploration>
@@ -493,7 +493,7 @@
 			<title>Circuit Diagram</title>
 			<caption>A circuit diagram.</caption>
 			<image source="circ/circuit-14.png" width = "50%" >
-			<description>A circuit diagram with three vertical branches, from left to right: VA, R3, VB.  The upward horizontal wires contain, from left to right, R1 and R2.</description></image>
+			<description><p>A circuit diagram with three vertical branches, from left to right: VA, R3, VB.  The upward horizontal wires contain, from left to right, R1 and R2.</p></description></image>
 		</figure>
 
 		<exploration>
@@ -517,7 +517,7 @@
 			<title>Circuit Segment</title>
 			<caption>A circuit segment.</caption>
 			<image source="circ/circuit-segment.png" width = "50%" >
-			<description>A vertical portion of a circuit diagram: four parallel resistors of 4, 4, 2, and 4 Ohms, followed by another two parallel resistors of 4 and 2 Ohms.</description></image>
+			<description><p>A vertical portion of a circuit diagram: four parallel resistors of 4, 4, 2, and 4 Ohms, followed by another two parallel resistors of 4 and 2 Ohms.</p></description></image>
 		</figure>
 
 		<exploration>

@@ -6,7 +6,7 @@
         <corollary xml:id="vid-2si">
 	<title>Two-slit Interference</title>
 	<statement><p></p>
-		<video youtube="C0bcn8GAWs4"><description>Quantifying the interference of light incident on two small slits.</description></video>
+		<video youtube="C0bcn8GAWs4"><description><p>Quantifying the interference of light incident on two small slits.</p></description></video>
 	</statement>
   </corollary> 
              
@@ -19,7 +19,7 @@
         <figure>
 			<title>Double Slit Experiment Figure</title>
         <caption>Left: A diagram of the double slit experiment. The slits are separated from the screen by a distance of <m>L</m>, and the angle to the mth bright spot is denoted by <m>\theta_m</m>. The vertical distance to the mth bright spot is <m>y_m</m>. Right: A zoomed-in view of the double slits. The slits are separated by a distance <m>d</m>. Two different rays, <m>r_1</m> and <m>r_2</m> travel towards the screen at an angle <m>\theta</m>, making the path length difference between the two rays equal to <m>d \sin\theta</m>.</caption>
-        <image source="optics/slit-diagram.jpg"><description>On the left side, there is a diagram of the souble-slit experiment, with the slits sitting on the left a distance L away from a screen. A dashed line extends from the center of the slits to the screen at an angle theta sub m and hits a point y sub m on the screen on the right. A small circle covers the double-slit experiment on the right. On the right side, there is a zoomed-in picture of the double-slit set up inside a circle. Two slits sit at a distance d away from each other. A ray extends from each slit to the right side of the circle at an angle theta. The rays are labelled "r 1" and "r 2". Another line extends from the top slit to the bottom ray at an angle theta, indicating the path length difference.</description></image>
+        <image source="optics/slit-diagram.jpg"><description><p>On the left side, there is a diagram of the souble-slit experiment, with the slits sitting on the left a distance L away from a screen. A dashed line extends from the center of the slits to the screen at an angle theta sub m and hits a point y sub m on the screen on the right. A small circle covers the double-slit experiment on the right. On the right side, there is a zoomed-in picture of the double-slit set up inside a circle. Two slits sit at a distance d away from each other. A ray extends from each slit to the right side of the circle at an angle theta. The rays are labelled "r 1" and "r 2". Another line extends from the top slit to the bottom ray at an angle theta, indicating the path length difference.</p></description></image>
     </figure>
 
     <p>
@@ -119,7 +119,7 @@
                 <figure xml:id="fig_intensity-graph-interference">
 			<title>2-Slit Interference Intensity Pattern</title>
         <caption>Intensity graph for two extremely narrow slits.</caption>
-        <image source="2SI-Intensity.png"><description>A graph of I vs. y.  The graph oscillates between zero and a positive maximum, with a central max at y = 0.</description></image>
+        <image source="2SI-Intensity.png"><description><p>A graph of I vs. y.  The graph oscillates between zero and a positive maximum, with a central max at y = 0.</p></description></image>
     </figure>
 			</statement>
 		</conjecture>

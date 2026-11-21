@@ -26,7 +26,7 @@
 	<figure xml:id="fig_3loops">
 			<title>Three Loops Figure</title>
 				<caption>Three current loops.</caption>
-				<image source="loop-magnets.png" width = "30%" ><description>Three current loops, from top to bottom: clockwise when viewed from above, counterclockwise when viewed from above, clockwise when viewed from the right.</description></image>
+				<image source="loop-magnets.png" width = "30%" ><description><p>Three current loops, from top to bottom: clockwise when viewed from above, counterclockwise when viewed from above, clockwise when viewed from the right.</p></description></image>
 			</figure>
 	</introduction>
 	
@@ -53,7 +53,7 @@
 	<figure xml:id="fig_4loops">
 			<title>Four Loops Figure</title>
 				<caption>Four magnet configuration.</caption>
-				<image source="Four-Loops.png" width = "80%" ><description>Four bar magnets, each above a loop carrying clockwise current when viewed from above.  From left to right: Case A has the north end of the bar magnet down, Case B has the south end down, case C has the north end to the left, case D has the north end to the right.</description></image>
+				<image source="Four-Loops.png" width = "80%" ><description><p>Four bar magnets, each above a loop carrying clockwise current when viewed from above.  From left to right: Case A has the north end of the bar magnet down, Case B has the south end down, case C has the north end to the left, case D has the north end to the right.</p></description></image>
 			</figure>
 </activity>
 

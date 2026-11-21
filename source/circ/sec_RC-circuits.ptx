@@ -61,7 +61,7 @@
 </p>
 <figure xml:id="fig_RC-parallel">
 				<caption>An RC circuit with an extra resistor.</caption>
-				<image source="RC-parallel.png" width = "50%" ><description>A circuit diagram with a battery on the left, an open switch on the top, and on the right is a resistor that is in series with a parallel network of a capacitor and another resistor.</description></image>
+				<image source="RC-parallel.png" width = "50%" ><description><p>A circuit diagram with a battery on the left, an open switch on the top, and on the right is a resistor that is in series with a parallel network of a capacitor and another resistor.</p></description></image>
 			</figure>
 	</introduction>
 		<task>

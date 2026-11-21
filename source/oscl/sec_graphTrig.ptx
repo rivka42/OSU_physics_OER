@@ -17,7 +17,7 @@ Here, the notation <m> \vec{x}(t)</m> indicates that the position <m>\vec{x}</m>
 <figure xml:id="HM_position">
 <title>Simple Harmonic Motion Position Graph</title>
     	<caption>Position function of an object in Simple Harmonic Motion.</caption>
-    		<image source="oscillate/HM_position.png" width = "50%" ><description>A graph of x(t) vs. t showing an oscillating function between xmax and -xmax.  The period T is drawn from one peak to the next.</description></image>
+    		<image source="oscillate/HM_position.png" width = "50%" ><description><p>A graph of x(t) vs. t showing an oscillating function between xmax and -xmax.  The period T is drawn from one peak to the next.</p></description></image>
 </figure>
 
 

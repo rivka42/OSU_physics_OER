@@ -28,7 +28,7 @@
 		<title>Infinite Slab Figure</title>
     	<caption>Two views of a charged slab extending infinitely in the x- and y-directions.</caption>
     		<image source="Slab.png" width = "100%" >
-				<description>Left, a 3D view of a rectangular slab that occupies the entire xy-plane, extending through a z-height of 2h.  Right, an edge view of the yz-plane, showing a rectangular cross section of the slab, extending infinitely in the horizontal y direction and vertically from -h to h in the z direction.  Point A lies above the slab on the left, point B lies above the slab on the right, point C lies in the slab on the right, and point D lies in the slab on the left, the four points forming a rectangle.</description>
+				<description><p>Left, a 3D view of a rectangular slab that occupies the entire xy-plane, extending through a z-height of 2h.  Right, an edge view of the yz-plane, showing a rectangular cross section of the slab, extending infinitely in the horizontal y direction and vertically from -h to h in the z direction.  Point A lies above the slab on the left, point B lies above the slab on the right, point C lies in the slab on the right, and point D lies in the slab on the left, the four points forming a rectangle.</p></description>
 			</image>
     </figure>
 		</introduction>
@@ -97,7 +97,7 @@
 		<title>Finite Slab Figure</title>
     	<caption>Two views of a finite charged slab.</caption>
     		<image source="Slab2.png" width = "100%" >
-				<description>Left, a 3D view of a rectangular slab that has x-length 2a, y-width 2b, and z-height 2h.  Right, an edge view of the yz-plane, showing a rectangular cross section of the slab, extending horizontally in the y direction from -b to b and vertically from -h to h in the z direction.  Point A lies above the middle of the slab on the z-axis and point B lies horizontally to the right from point A.</description>
+				<description><p>Left, a 3D view of a rectangular slab that has x-length 2a, y-width 2b, and z-height 2h.  Right, an edge view of the yz-plane, showing a rectangular cross section of the slab, extending horizontally in the y direction from -b to b and vertically from -h to h in the z direction.  Point A lies above the middle of the slab on the z-axis and point B lies horizontally to the right from point A.</p></description>
 			</image>
     </figure>
 		</introduction>
@@ -129,7 +129,7 @@
 		<title>Slab Calculation Figure</title>
     	<caption>Two views of an infinitesimal chunk of a finite charged slab.</caption>
     		<image source="Slab3.png" width = "70%" >
-				<description>Top, a 3D view of a rectangular slab, with a small cube representing the infinitesimal piece.  Bottom, an edge view of the yz-plane, showing the small cube at position r prime and the position r where the field is to be evaluated.</description>
+				<description><p>Top, a 3D view of a rectangular slab, with a small cube representing the infinitesimal piece.  Bottom, an edge view of the yz-plane, showing the small cube at position r prime and the position r where the field is to be evaluated.</p></description>
 			</image>
     </figure>
 				<md>

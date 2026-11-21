@@ -21,7 +21,7 @@
 			<title>Candle and Mirrors Figure</title>
 			<caption>A candle and two mirrors.</caption>
 			<image source="ray-diagram.png" width = "50%">
-				<description>On the right, a vertical mirror with an eye located just above the mirror.  On the left, a second vertical mirror with a candle located just below the mirror.  The two mirrors are separated by a distance d, and the vertical distance from the candle to the eye is 2d.</description>
+				<description><p>On the right, a vertical mirror with an eye located just above the mirror.  On the left, a second vertical mirror with a candle located just below the mirror.  The two mirrors are separated by a distance d, and the vertical distance from the candle to the eye is 2d.</p></description>
 			</image>
 		</figure>
 		</statement>
@@ -62,7 +62,7 @@ c) Shown in the figure is a diagram of an eye with two of the principal rays tra
 			<title>Human Eye Figure</title>
 			<caption>A ray diagram for the eye.</caption>
 			<image source="4_3Eye.png" width = "75%">
-				<description></description>
+				<description><p></p></description>
 			</image>
 		</figure>
 

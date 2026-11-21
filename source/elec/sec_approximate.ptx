@@ -47,9 +47,9 @@ Here <m>nx</m> is called the first order term, and the term containing the <m>x^
  <figure xml:id="binomial_graph">
 		<title>Graphical representation of Binomial Approximation</title>
     	<caption>A visualization of the binomial <m>(1+x)^2</m> and it's binomial approximation to first order <m> (1+x)^2 \approx 2x </m>. </caption>
-    		<image source="elec/binomial_graph.png" width = "80%" ><description>
+    		<image source="elec/binomial_graph.png" width = "80%" ><description><p>
 				A graph of two functions, one curved (the true function) and the other a straight tangent line at the origin (the approximate function).
-			</description></image>
+			</p></description></image>
     </figure>
 
 	</p> 

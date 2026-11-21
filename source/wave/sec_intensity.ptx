@@ -17,7 +17,7 @@
 		<corollary xml:id="vid-intensity">
 	<title>Intensity</title>
 	<statement><p></p>
-		<video youtube="NsxLt_4tFIU"><description>Introducing intensity for waves</description></video>
+		<video youtube="NsxLt_4tFIU"><description><p>Introducing intensity for waves</p></description></video>
 	</statement>
   </corollary>
   <subsubsection><title>Key Ideas</title></subsubsection>
@@ -53,7 +53,7 @@ The kinetic energy of the mass at that point depends on the square of the speed.
         Energy from a point source decreases as the surface area of the sphere increases. 
         </caption>
 	<image source="wave/intensity_rsquared.jpg" width = "60%" >
-    <description>Two concentric spheres, the larger with twice the radius.  Two radii are drawn, with corresponding surface areas sketched for each sphere: the surface area of the larger sphere is four times bigger, represented with four panels of equal size.</description>
+    <description><p>Two concentric spheres, the larger with twice the radius.  Two radii are drawn, with corresponding surface areas sketched for each sphere: the surface area of the larger sphere is four times bigger, represented with four panels of equal size.</p></description>
   </image>
 </figure>
 <p>

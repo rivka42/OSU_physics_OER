@@ -40,7 +40,7 @@
 		<title>Wire Figure</title>
     	<caption>Three charge distributions.</caption>
     		<image source="wireV1.png" width = "80%" >
-          <description>Case A: point P a distance y above a point charge 2q.  Case B: point P a distance y above a pair of point charges 1 separated horizontally by d.  Case C: point P a distance y above a wire with charge 2q and length d.</description>
+          <description><p>Case A: point P a distance y above a point charge 2q.  Case B: point P a distance y above a pair of point charges 1 separated horizontally by d.  Case C: point P a distance y above a wire with charge 2q and length d.</p></description>
         </image>
     </figure>
 		</introduction>

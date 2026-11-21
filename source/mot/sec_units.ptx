@@ -52,7 +52,7 @@ Units for physical quantities can be divided into two categories: base units and
 <figure xml:id="fig_kilogram">
 		 <caption>An image of the kilogram standard held in Paris, France.</caption>
 		<image source="Le Grand K-1.png" width = "50%">
-			<description>A small cylindrical object inside a glass container.</description></image>
+			<description><p>A small cylindrical object inside a glass container.</p></description></image>
   </figure>	
 
 </insight>

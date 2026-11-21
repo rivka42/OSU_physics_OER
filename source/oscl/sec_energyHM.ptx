@@ -33,7 +33,7 @@ This holds as long as you assume no dissipative forces act on the system. </p>
 <figure xml:id="energySHM">
 <title>Simple Harmonic Motion Energy Graphs</title>
     	<caption>Energy functions of an object in Simple Harmonic Motion.</caption>
-    		<image source="oscillate/energySHM.png" width = "100%" ><description>Top: A block m sits on a horizontal table, its left side connected to a spring k which is connected to the wall on the other side.  The equilibrium position of the spring is x0, the current position of the block is x, and both xmax and -xmax are labeled.  Bottom: A corresponding energy graph showing the total energy (a horizontal line), the potential energy (an upward parabola), and the kinetic energy (a downward parabola) between -xmax and xmax.</description></image>
+    		<image source="oscillate/energySHM.png" width = "100%" ><description><p>Top: A block m sits on a horizontal table, its left side connected to a spring k which is connected to the wall on the other side.  The equilibrium position of the spring is x0, the current position of the block is x, and both xmax and -xmax are labeled.  Bottom: A corresponding energy graph showing the total energy (a horizontal line), the potential energy (an upward parabola), and the kinetic energy (a downward parabola) between -xmax and xmax.</p></description></image>
 </figure>
 
 <p>

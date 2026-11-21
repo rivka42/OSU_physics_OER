@@ -12,7 +12,7 @@
 				<figure xml:id="RC0">
 			  	<title>Capacitor Discharge Figure</title>
 				<caption>A circuit diagram with both a light bulb and a capacitor.</caption>
-				<image source="RC-d.png" width = "50%" ><description>A circuit diagram with a charged capacitor on the left (positive on top), an open switch, and a light bulb on the right.</description></image>
+				<image source="RC-d.png" width = "50%" ><description><p>A circuit diagram with a charged capacitor on the left (positive on top), an open switch, and a light bulb on the right.</p></description></image>
 				</figure>
 	  	</introduction>
 		<task>
@@ -61,7 +61,7 @@
 			
 		</p>
 
-		<video youtube="EuU7Me6dvzg"><description>Analyzing a discharging capacitor.</description></video>
+		<video youtube="EuU7Me6dvzg"><description><p>Analyzing a discharging capacitor.</p></description></video>
 
 	</statement>
   </corollary>
@@ -77,7 +77,7 @@
 	<figure xml:id="RC0-1">
 			  	<title>Capacitor Discharge Figure 2</title>
 				<caption>A circuit diagram with both a resistor and a capacitor.</caption>
-				<image source="RC-d2.png" width = "50%" ><description>A circuit diagram with a charged capacitor on the left (positive on top), an open switch, and a resistor on the right.</description></image>
+				<image source="RC-d2.png" width = "50%" ><description><p>A circuit diagram with a charged capacitor on the left (positive on top), an open switch, and a resistor on the right.</p></description></image>
 	</figure>
 
 	<p>

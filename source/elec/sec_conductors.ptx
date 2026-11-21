@@ -14,7 +14,7 @@
 		<figure xml:id="conductor-img">
 			  <title>Conductor Figure</title>
 			<caption>A large positive charge to the left of a conductor.</caption>
-			<image source="Conductor.png" width = "50%" ><description>A long rod is positively charged and is held next to a conductor represented as a square.</description></image>
+			<image source="Conductor.png" width = "50%" ><description><p>A long rod is positively charged and is held next to a conductor represented as a square.</p></description></image>
 		</figure>
 	</introduction>
 		<task>
@@ -40,7 +40,7 @@
 			
 		</p>
 
-		<video youtube="zOZivY-PfuQ"><description>An introduction to conductors.</description></video>
+		<video youtube="zOZivY-PfuQ"><description><p>An introduction to conductors.</p></description></video>
 
 	</statement>
   </corollary>
@@ -55,7 +55,7 @@
 				<figure xml:id="conductor-img2">
 			  <title>Charged Conductor Figure</title>
 			<caption>A charged conductor and an external electric field.</caption>
-			<image source="ConductorCharged.png" width = "75%" ><description>A circular gray conductor in an upward pointing electric field.  Positive charges line the top of the conductor and negative charges line the bottom.  Points A and B are separated vertically inside the circle.</description></image>
+			<image source="ConductorCharged.png" width = "75%" ><description><p>A circular gray conductor in an upward pointing electric field.  Positive charges line the top of the conductor and negative charges line the bottom.  Points A and B are separated vertically inside the circle.</p></description></image>
 		</figure>
 	</introduction>
 
@@ -75,7 +75,7 @@
 			
 		</p>
 
-		<video youtube="WrlwwYQ0GIA"><description>Rules for how electric conductors behave.</description></video>
+		<video youtube="WrlwwYQ0GIA"><description><p>Rules for how electric conductors behave.</p></description></video>
 
 	</statement>
   </corollary>

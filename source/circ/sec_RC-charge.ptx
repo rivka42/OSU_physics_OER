@@ -14,7 +14,7 @@
 					<figure xml:id="RC1">
 			  <title>RC Circuit Diagram</title>
 			<caption>A circuit diagram with both a resistor and a capacitor.</caption>
-			<image source="RC-circuit.png" width = "50%" ><description>A circuit diagram with a battery, open switch, resistor, and capacitor.</description></image>
+			<image source="RC-circuit.png" width = "50%" ><description><p>A circuit diagram with a battery, open switch, resistor, and capacitor.</p></description></image>
 		</figure>
 						</introduction>
 						<task>
@@ -60,7 +60,7 @@
 			
 		</p>
 
-		<video youtube="EuU7Me6dvzg"><description>How to figure out the charge on a charging capacitor.</description></video>
+		<video youtube="EuU7Me6dvzg"><description><p>How to figure out the charge on a charging capacitor.</p></description></video>
 
 	</statement>
   </corollary>

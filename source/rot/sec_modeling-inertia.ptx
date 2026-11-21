@@ -6,7 +6,7 @@
       <corollary xml:id="vid-calc-moment">
 	<title>Calculating Moment of Inertia</title>
 	<statement><p></p>
-		<video youtube="ersSAN7aFfw"><description>An example of calculating moment of inertia using integrals.</description></video>
+		<video youtube="ersSAN7aFfw"><description><p>An example of calculating moment of inertia using integrals.</p></description></video>
 	</statement>
   </corollary>
   <subsubsection><title>Key Ideas</title></subsubsection>

@@ -11,7 +11,7 @@
 			
 		</p>
 
-		<video youtube="74gJG1ct6Vc"><description>Introducing Ohm's Law.</description></video>
+		<video youtube="74gJG1ct6Vc"><description><p>Introducing Ohm's Law.</p></description></video>
 
 	</statement>
   </corollary>
@@ -45,7 +45,7 @@
 	<figure xml:id="CD_R">
 		<title>Ohmic Resistor Diagram</title>
 		<caption>The circuit diagram representation for an Ohmic resistor.</caption>
-		<image source="CD_R.png" width = "10%" ><description>A jagged line representing an Ohmic resistor.</description></image>
+		<image source="CD_R.png" width = "10%" ><description><p>A jagged line representing an Ohmic resistor.</p></description></image>
 	</figure>
 	
 	<subsubsection>

@@ -48,7 +48,7 @@
 		<title>Many Forces Figure</title>
     	<caption>Two objects being acted on by different forces.</caption>
     		<image source="many-forces.png" width = "100%" >
-          <description>Object A: two forces, magnitude F, one down and to the right, the other down and to the left.  Object B: four fources, magnitude F/2, evenly spaced between the angles described by the two forces on Object A.</description>
+          <description><p>Object A: two forces, magnitude F, one down and to the right, the other down and to the left.  Object B: four fources, magnitude F/2, evenly spaced between the angles described by the two forces on Object A.</p></description>
         </image>
     </figure>
 			</statement>
@@ -123,7 +123,7 @@ Student C: <q>I don't think it matters: as long as three of us are pushing, our 
 		<title>Two Charges Figure</title>
     	<caption>Two point charges.</caption>
     		<image source="Charges1.png" width = "50%" >
-          <description>Charge +q located a vertical distance L above charge +2q.</description>
+          <description><p>Charge +q located a vertical distance L above charge +2q.</p></description>
         </image>
     </figure>
 		</introduction>
@@ -152,7 +152,7 @@ Student C: <q>I don't think it matters: as long as three of us are pushing, our 
 		<title>Three Charges Figure</title>
     	<caption>Three point charges.</caption>
     		<image source="Charges2.png" width = "50%" >
-          <description>Charge +q located a distance L from two additional +q charges.</description>
+          <description><p>Charge +q located a distance L from two additional +q charges.</p></description>
         </image>
     </figure>
 	<p>
@@ -170,7 +170,7 @@ Student C: <q>I don't think it matters: as long as three of us are pushing, our 
 		<title>Three Charges Figure</title>
     	<caption>Three point charges.</caption>
     		<image source="Charges3.png" width = "50%" >
-          <description>Two +q charges separated horizontally below a third +q charge.</description>
+          <description><p>Two +q charges separated horizontally below a third +q charge.</p></description>
         </image>
     </figure>
 	<p>
@@ -188,7 +188,7 @@ Student C: <q>I don't think it matters: as long as three of us are pushing, our 
 		<title>Line of Charge Figure</title>
     	<caption>A line of charge.</caption>
     		<image source="Charges4.png" width = "50%" >
-          <description>Charge +q located a distance L from a line with +2q charge.</description>
+          <description><p>Charge +q located a distance L from a line with +2q charge.</p></description>
         </image>
     </figure>
 	<p>

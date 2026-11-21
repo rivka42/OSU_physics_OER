@@ -11,7 +11,7 @@
 			
 		</p>
 
-		<video youtube="ohX0ywFbPXY"><description>Introducing the cross product.</description></video>
+		<video youtube="ohX0ywFbPXY"><description><p>Introducing the cross product.</p></description></video>
 	</statement>
 </corollary>
 
@@ -34,7 +34,7 @@ and is given by the <xref ref="rep_rhr"/>.</p>
 		<title>Cross Product Figure</title>
     	<caption>A representation of vectors A and B and the angle between them illustrating the cross product for two vectors.</caption>
     		<image source="vectors/vec_dot_product.png" width = "25%" >
-				<description>Vector A up and to the right and vector B pointing to the right, with an angle theta between them.</description>
+				<description><p>Vector A up and to the right and vector B pointing to the right, with an angle theta between them.</p></description>
 			</image>
     </figure>
     
@@ -61,7 +61,7 @@ In the figure, <m> \theta</m> represents the angle between the two vectors when 
 			
 		</p>
 
-		<video youtube="7sCtIXsKo8s"><description>Introducing the right hand rule.</description></video>
+		<video youtube="7sCtIXsKo8s"><description><p>Introducing the right hand rule.</p></description></video>
 	</statement>
 </corollary>
 
@@ -73,7 +73,7 @@ In the figure, <m> \theta</m> represents the angle between the two vectors when 
 		<title>Right Hand Rule Figure</title>
     	<caption>One example of the right hand rule that can be used to find the direction of a cross product.</caption>
     		<image source="RHR.png" width = "25%" >
-				<description>A right hand making a fist with an upward thumb.  The vector A points forward from the hand, the vector B points perpendicular to the palm of the hand out of the screen, and the vector C points upward in the direction of the thumb.</description>
+				<description><p>A right hand making a fist with an upward thumb.  The vector A points forward from the hand, the vector B points perpendicular to the palm of the hand out of the screen, and the vector C points upward in the direction of the thumb.</p></description>
 			</image>
     </figure>
 			</statement>
@@ -96,7 +96,7 @@ The magnitude of the cross product is the magnitude of <m>\vec{B}</m> multiplied
 		<title>Vectors Figure</title>
     	<caption>The symbols for vectors that point out of the screen (above) and into the screen (below).</caption>
     		<image source="InAndOutVectors.png" width = "25%" >
-				<description>out of the screen: a circle with a dot.  into the screen: a circle with an x.</description>
+				<description><p>out of the screen: a circle with a dot.  into the screen: a circle with an x.</p></description>
 			</image>
     </figure>
 
@@ -125,7 +125,7 @@ The magnitude of the cross product is the magnitude of <m>\vec{B}</m> multiplied
 		<title>Cross Product Figure</title>
     	<caption></caption>
     		<image source="CrossProductVectors.png" width = "50%" >
-				<description>v1 points down and to the left, v2 points up and to the right, z points out of the page</description>
+				<description><p>v1 points down and to the left, v2 points up and to the right, z points out of the page</p></description>
 			</image>
     </figure>
 			</introduction>

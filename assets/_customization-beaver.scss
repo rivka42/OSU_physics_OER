@@ -8,7 +8,7 @@
 @use 'components/helpers/expandable';
 
 // underlines to headings
-@use 'components/elements/extras/heading-underlines';
+@use 'heading-underlines-beaver';
 
 // let math stretch out to fill space on right
 .displaymath {

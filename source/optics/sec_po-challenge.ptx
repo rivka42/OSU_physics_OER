@@ -35,7 +35,7 @@
 			<figure>
 			<title>Masks Homework Figure</title>
         <caption>Intensity Graph.</caption>
-        <image source="UnknownMask.png" width = "100%"><description>A graph of I vs. theta in radians.  The graph has a central max at theta = 0, then oscillates with the following pattern: down to zero, up to a local maximum, back down to zero, and then up to the global maximum again.  Theta = 0.1 is labeled at the location of the third zero (the first zero in the second cycle).</description></image>
+        <image source="UnknownMask.png" width = "100%"><description><p>A graph of I vs. theta in radians.  The graph has a central max at theta = 0, then oscillates with the following pattern: down to zero, up to a local maximum, back down to zero, and then up to the global maximum again.  Theta = 0.1 is labeled at the location of the third zero (the first zero in the second cycle).</p></description></image>
     </figure>
 		</investigation>
 

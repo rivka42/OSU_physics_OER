@@ -37,7 +37,7 @@ As the object passes through the equilibrium position located at <m> \vec{x} = 0
  <figure xml:id="HM_velocity">
 <title>Simple Harmonic Motion Position and Velocity Graphs</title>
     	<caption>The position and velocity as a function of time for an object in Simple Harmonic Motion. The graphs are aligned such that the time axes in both graphs correspond to the same point in time. </caption>
-    		<image source="oscillate/HM_velocity.png" width = "100%" ><description>Top: A graph of x(t) vs. t showing an oscillating function between xmax and -xmax.  Bottom: A graph of v(t) vs. t showing a different oscillating function between vmax and -vmax.  The graphs have the same period, but the position graph starts at a maximum and the velocity graph starts at 0 and is initially downward..</description></image>
+    		<image source="oscillate/HM_velocity.png" width = "100%" ><description><p>Top: A graph of x(t) vs. t showing an oscillating function between xmax and -xmax.  Bottom: A graph of v(t) vs. t showing a different oscillating function between vmax and -vmax.  The graphs have the same period, but the position graph starts at a maximum and the velocity graph starts at 0 and is initially downward..</p></description></image>
     </figure>
 				</solution>
 			</task>

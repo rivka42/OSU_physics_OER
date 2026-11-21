@@ -14,7 +14,7 @@
 			
 		</p>
 
-		<video youtube="OUbAGPoKYtE"><description>Introducing area vectors.</description></video>
+		<video youtube="OUbAGPoKYtE"><description><p>Introducing area vectors.</p></description></video>
 
 	</statement>
   </corollary>
@@ -32,7 +32,7 @@
 			<title>Area Vector</title>
 		<caption>An example area vector.</caption>
 		<image source="elec/area-vector.png" width = "25%" >
-				<description>A square with vector A pointing perpendicularly away.</description>
+				<description><p>A square with vector A pointing perpendicularly away.</p></description>
 			</image>
 	</figure>
 		</statement>
@@ -58,7 +58,7 @@
 		<figure xml:id="x_fig_book">
 			  <title>Book Figure</title>
     		<caption>A simple representation of a book.</caption>
-    		<image source="Book.png" width = "25%" ><description>A book with LIPA on the spine and Learning Introductory Physics with Activities on the cover.</description></image>
+    		<image source="Book.png" width = "25%" ><description><p>A book with LIPA on the spine and Learning Introductory Physics with Activities on the cover.</p></description></image>
 		</figure>
 			</introduction>
 			<task>
@@ -82,7 +82,7 @@
 		<figure xml:id="x_fig_book-sol">
 			  <title>Book Solution Figure</title>
     		<caption>A simple representation of a differential area vector.</caption>
-    		<image source="Book-Sol.png" width = "25%" ><description>A book with LIPA on the spine and Learning Introductory Physics with Activities on the cover.  On the cover is a small tilted square, aligned with the edges of the cover, with one side labeled dx and the other labeled dy.</description></image>
+    		<image source="Book-Sol.png" width = "25%" ><description><p>A book with LIPA on the spine and Learning Introductory Physics with Activities on the cover.  On the cover is a small tilted square, aligned with the edges of the cover, with one side labeled dx and the other labeled dy.</p></description></image>
 		</figure>
 	  </solution>
 	  </task>

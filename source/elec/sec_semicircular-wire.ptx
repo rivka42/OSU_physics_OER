@@ -143,7 +143,7 @@ Make sense of both the magnitude and the direction of your electric field.
 		<title>Semicircular Wire Figure</title>
     	<caption>A charged semicircular wire.</caption>
     		<image source="elec-semicircle.png" width = "80%" >
-          <description>A semicircle starting at the top and moving counterclockwise to the bottom.  dq is labeled near the bottom at an angle theta from the horizontal.</description>
+          <description><p>A semicircle starting at the top and moving counterclockwise to the bottom.  dq is labeled near the bottom at an angle theta from the horizontal.</p></description>
         </image>
     </figure>
 		</introduction>

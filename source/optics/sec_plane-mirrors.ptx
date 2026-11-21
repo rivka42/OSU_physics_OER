@@ -6,7 +6,7 @@
     <corollary xml:id="vid-plane-mirrors">
 	<title>Plane Mirrors</title>
 	<statement><p></p>
-		<video youtube="UMvR165aw5E"><description>How images are produced by plane mirrors.</description></video>
+		<video youtube="UMvR165aw5E"><description><p>How images are produced by plane mirrors.</p></description></video>
 	</statement>
   </corollary>
   <subsubsection><title>Key Ideas</title></subsubsection>
@@ -24,7 +24,7 @@
     <figure xml:id="plane_mirror">
 			<title>Flat Mirror Figure</title>
         <caption>Diagram of a flat (or plane) mirror. An object sits at a distance <m>d_o</m> from the mirror, and an image is produced at a distance <m>d_i</m> behind the mirror.</caption>
-        <image source="optics/plane_mirror.jpg" width = "90%" ><description>A green arrow, labelled as "object", sits a distance d sub o away from a plane mirror on the left side. Two rays extend from the tip of the arrow and hit the mirror: the first hits the mirror perpendicularly, and is reflected backwards along the same line. The second ray hits the mirror at some angle and is reflected back at that angle. Both reflected rays are extended as dashed lines behind the mirror and intersect. Another green arrow, labelled as "image", sits behind the mirror with the tip of the arrow pointing at the intersection point.</description></image>
+        <image source="optics/plane_mirror.jpg" width = "90%" ><description><p>A green arrow, labelled as "object", sits a distance d sub o away from a plane mirror on the left side. Two rays extend from the tip of the arrow and hit the mirror: the first hits the mirror perpendicularly, and is reflected backwards along the same line. The second ray hits the mirror at some angle and is reflected back at that angle. Both reflected rays are extended as dashed lines behind the mirror and intersect. Another green arrow, labelled as "image", sits behind the mirror with the tip of the arrow pointing at the intersection point.</p></description></image>
     </figure>
 
     <principle>
@@ -55,7 +55,7 @@
                 
                 <p>Watch this video about a <q>mirror illusion</q>.</p>
 
-                <video youtube="gNgSlGn59xA"><description>Mirror Illusion</description></video>
+                <video youtube="gNgSlGn59xA"><description><p>Mirror Illusion</p></description></video>
 
                 <p>Answer the following questions:</p>
                 <ol>

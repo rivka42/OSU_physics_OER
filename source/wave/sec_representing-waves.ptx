@@ -29,7 +29,7 @@
 	A graphical representation of a sinusoidal wave in time (holding space fixed).
 	</caption>
     	<image source="wave/snap_hist.png" width = "100%" >
-			<description>A history graph shows displacement of the medium in time at one point in space.  The displacement has amplitude A and period T measured from one crest to the next.</description>
+			<description><p>A history graph shows displacement of the medium in time at one point in space.  The displacement has amplitude A and period T measured from one crest to the next.</p></description>
 		</image>
 </figure>
 
@@ -67,7 +67,7 @@ Alternatively, you can graph the displacement of the medium over space at a sing
 	A graphical representation of a sinusoidal wave in space (holding time fixed).
 	</caption>
     	<image source="wave/snap_hist2.png" width = "100%" >
-			<description>A snapshot graph shows displacement of the medium in space at one point in time.  The displacement has amplitude A and wavelength lambda measured from one crest to the next.</description>
+			<description><p>A snapshot graph shows displacement of the medium in space at one point in time.  The displacement has amplitude A and wavelength lambda measured from one crest to the next.</p></description>
 		</image>
 </figure>
 

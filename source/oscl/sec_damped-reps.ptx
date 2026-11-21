@@ -20,7 +20,7 @@
 			<figure xml:id="fig_damped-ex0">
 <title>Choices</title>
     	<caption>Possible graphs for damped harmonic motion.</caption>
-    		<image source="damped-ex0.png" width = "100%" ><description>Four graphs of decaying oscillations.</description></image>
+    		<image source="damped-ex0.png" width = "100%" ><description><p>Four graphs of decaying oscillations.</p></description></image>
 </figure>
 </statement>
 		
@@ -37,7 +37,7 @@
 			<figure xml:id="fig_damped-ex">
 <title>Choices</title>
     	<caption>An example graph of damped harmonic motion.</caption>
-    		<image source="damped-ex.png" width = "100%" ><description>A graph of x in m vs. t in s.  The graph starts at x = 3 and moves with a decaying oscillationg.  At t = 2 the graph has returned to a local maximum at about x = 2.</description></image>
+    		<image source="damped-ex.png" width = "100%" ><description><p>A graph of x in m vs. t in s.  The graph starts at x = 3 and moves with a decaying oscillationg.  At t = 2 the graph has returned to a local maximum at about x = 2.</p></description></image>
 </figure>
 		</introduction>
 		<task>

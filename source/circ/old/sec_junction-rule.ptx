@@ -10,7 +10,7 @@
 			<figure xml:id="current1">
 			  <title>Junction Circuit Diagram</title>
 				<caption>Two wires meet at a junction.</caption>
-				<image source="circ/current1.png" width = "50%" ><description>Two wires meet at a junction, connected to a single third wire.</description></image>
+				<image source="circ/current1.png" width = "50%" ><description><p>Two wires meet at a junction, connected to a single third wire.</p></description></image>
 			</figure>
 			<p>Which of the following do you think describes the current in the third wire? Explain your reasoning.</p>
 			<ol type = "a">
@@ -31,7 +31,7 @@
 			
 		</p>
 
-		<video youtube="tbAY1Szovxk"><description>The junction rule for electric circuits.</description></video>
+		<video youtube="tbAY1Szovxk"><description><p>The junction rule for electric circuits.</p></description></video>
 
 	</statement>
   </corollary>

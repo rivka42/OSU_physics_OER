@@ -6,7 +6,7 @@
       <corollary xml:id="vid-ang-motion">
 	<title>Angular Motion</title>
 	<statement><p></p>
-		<video youtube="qMJK_sjdUCw"><description>Introducing angular motion.</description></video>
+		<video youtube="qMJK_sjdUCw"><description><p>Introducing angular motion.</p></description></video>
 	</statement>
   </corollary>
 

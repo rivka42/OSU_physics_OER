@@ -22,7 +22,7 @@
 		<title>Vector Sum Figure</title>
   <caption>Two vectors.</caption>
   <image source="Vector-Sum.png" width = "40%">
-  <description>On a standard xy-coordinate axis, the vector a points up and to the left at an angle of forty-five degrees, and the vector b points up and to the right at an angle of sixty degrees up from the x-axis.</description>
+  <description><p>On a standard xy-coordinate axis, the vector a points up and to the left at an angle of forty-five degrees, and the vector b points up and to the right at an angle of sixty degrees up from the x-axis.</p></description>
   </image>
  </figure>
 		    <p>Determine the magnitude of the vectors <m>\vec{c}</m> and <m>\vec{d}</m>?  What is the angle to each vector from the positive <m>x</m>-axis?</p>
@@ -47,7 +47,7 @@
 		<title>Vector Sum Figure</title>
   <caption>Two vectors.</caption>
   <image source="Vector-Sum2.png" width = "30%">
-  <description>On a standard xy-coordinate axis, the vector a points down and to the left at an angle of seventy-five degrees down from the negative x-axis, and the vector b points up and to the right at an angle of twenty degrees up from the x-axis.</description>
+  <description><p>On a standard xy-coordinate axis, the vector a points down and to the left at an angle of seventy-five degrees down from the negative x-axis, and the vector b points up and to the right at an angle of twenty degrees up from the x-axis.</p></description>
   </image>
  </figure>
 		    <p>Determine the magnitude of the vectors <m>\vec{c}</m> and <m>\vec{d}</m>?  What is the angle to each vector from the positive <m>x</m>-axis?</p>
@@ -91,7 +91,7 @@
 		<title>Vector Quadrangle Figure</title>
   <caption>Four points.</caption>
   <image source="Quadrangle.png" width = "50%">
-  <description>An irregular quadrilateral with point Q in the upper left, point P in the upper right, point S in the lower right, and point R in the lower left.</description>
+  <description><p>An irregular quadrilateral with point Q in the upper left, point P in the upper right, point S in the lower right, and point R in the lower left.</p></description>
   </image>
  </figure>
 <p>

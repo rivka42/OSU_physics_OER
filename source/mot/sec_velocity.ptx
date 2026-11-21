@@ -11,7 +11,7 @@
 			
 		</p>
 
-		<video youtube="I8uZpimzHzg"><description>Defining velocity and speed.</description></video>
+		<video youtube="I8uZpimzHzg"><description><p>Defining velocity and speed.</p></description></video>
 
 	</statement>
   </corollary>
@@ -86,7 +86,7 @@ In fact, most of physics is concerned with predicting what will happen to a syst
 					<algorithm>
      				<title>Finding Average Velocity</title>
 					<p></p>
-					<video youtube="dvGmHBzbvDQ"><description>An average velocity example.</description></video>
+					<video youtube="dvGmHBzbvDQ"><description><p>An average velocity example.</p></description></video>
 					</algorithm>
 				</solution>
 			</activity>
@@ -110,7 +110,7 @@ In fact, most of physics is concerned with predicting what will happen to a syst
 			
 		</p>
 
-		<video youtube="tzTCOBEkbgA"><description>An example of instantaneous velocity.</description></video>
+		<video youtube="tzTCOBEkbgA"><description><p>An example of instantaneous velocity.</p></description></video>
 
 	</statement>
   </corollary>

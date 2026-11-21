@@ -39,7 +39,7 @@
 		<figure xml:id="f_circuit5">
 			  <title>Circuit Diagram</title>
 			<caption>A circuit diagram.</caption>
-			<image source="circuit5.png" width = "40%" ><description>Two identical circuits with a battery, a light bulb, and mystery box.  The left box is 1 and the right box is 2.</description></image>
+			<image source="circuit5.png" width = "40%" ><description><p>Two identical circuits with a battery, a light bulb, and mystery box.  The left box is 1 and the right box is 2.</p></description></image>
 		</figure>
 		<p>
 			Compare all of the following:

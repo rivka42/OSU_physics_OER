@@ -77,7 +77,7 @@
 		<title>Charged Ball Figure</title>
     	<caption>A charged ball connected to a string.</caption>
     		<image source="Charged-Ball.png" width = "30%" >
-          <description>A vertical wall on the left with a string connected to the top, its other end connected to a ball at an angle of 53 degrees.</description>
+          <description><p>A vertical wall on the left with a string connected to the top, its other end connected to a ball at an angle of 53 degrees.</p></description>
         </image>
     </figure>
 		</introduction>
@@ -117,7 +117,7 @@ Sensemake: What do you expect to happen to q in the special case that <m>E = 0</
 		<title>Electric Field Vector Map Example</title>
     	<caption>A example electric field vector map with different values at different points on a grid.</caption>
     		<image source="Evectormap.png" width = "60%" >
-          <description>A map of arrows with a different arrow at every point on a grid.</description>
+          <description><p>A map of arrows with a different arrow at every point on a grid.</p></description>
         </image>
     </figure>
 		</introduction>

@@ -12,7 +12,7 @@
 		<figure xml:id="bar_magnets">
 			<title>Bar Magnets Figure</title>
 			<caption>Two bar magnets sit side by side, with their south poles facing each other.</caption>
-			<image source="mag/bars.png" width = "50%" ><description>Two bar magnets sit side by side, with their south poles facing each other.</description></image>
+			<image source="mag/bars.png" width = "50%" ><description><p>Two bar magnets sit side by side, with their south poles facing each other.</p></description></image>
 		</figure>
 		</activity>
 		
@@ -25,7 +25,7 @@
 			
 		</p>
 
-		<video youtube="wLXM_aQ25MM"><description>Introducing magnetic dipole moments.</description></video>
+		<video youtube="wLXM_aQ25MM"><description><p>Introducing magnetic dipole moments.</p></description></video>
 
 	</statement>
   </corollary>
@@ -66,7 +66,7 @@
 				<figure xml:id="fig_mag-field-lines">
 			<title>Magnetic Field Lines Figure</title>
     		<caption><alert>Example:</alert> Magnetic field lines created by a permanent magnet.</caption>
-    		<image source="MagneticDipoleLines.jpg" width = "60%" ><description>A bar magnet with a north and south pole. The field lines come out of the north pole and curve out and around to the south pole.</description></image>
+    		<image source="MagneticDipoleLines.jpg" width = "60%" ><description><p>A bar magnet with a north and south pole. The field lines come out of the north pole and curve out and around to the south pole.</p></description></image>
 				
 		</figure>
 
@@ -91,7 +91,7 @@
 		<figure xml:id="fig_loop-bar">
 			<title>Current Loop Figure</title>
     		<caption><alert>Example:</alert> A loop carrying current counterclocwise when viewed from the top right.  The magnetic dipole moment of the loop and its north and south poles are represented in gray.</caption>
-    		<image source="loop-bar.png" width = "50%" ><description>A tilted loop carrying current I when viewed from the top right.  The magnetic dipole moment points up and to the right inside an imaginary bar magnet with its north pole in the upper right and its south pole in the lower left.</description></image>
+    		<image source="loop-bar.png" width = "50%" ><description><p>A tilted loop carrying current I when viewed from the top right.  The magnetic dipole moment points up and to the right inside an imaginary bar magnet with its north pole in the upper right and its south pole in the lower left.</p></description></image>
 				
 		</figure>
 	</statement>
@@ -109,7 +109,7 @@
 		<figure xml:id="loop_magnet0">
 			<title>Loop Figure</title>
 				<caption>A bar magnet and a current loop.</caption>
-				<image source="mag/loop0.png" width = "50%" ><description>A bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</description></image>
+				<image source="mag/loop0.png" width = "50%" ><description><p>A bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</p></description></image>
 			</figure>
 		<p>What direction is the magnetic dipole moment of the current loop?  What direction is the net force on the bar magnet?</p>
 			</statement>
@@ -120,7 +120,7 @@
 				<figure xml:id="loop_magnet1">
 			<title>Loop Figure</title>
 				<caption>A bar magnet and a current loop modeled as a bar magnet.</caption>
-				<image source="mag/loop1.png" width = "50%" ><description>A bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</description></image>
+				<image source="mag/loop1.png" width = "50%" ><description><p>A bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</p></description></image>
 			</figure>
 			</solution>
 		</activity>
@@ -133,7 +133,7 @@
 		<figure xml:id="loop_magnet">
 			<title>Loop Figure</title>
 				<caption>A tilted bar magnet and a current loop.</caption>
-				<image source="mag/loop.png" width = "50%" ><description>A tilted bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</description></image>
+				<image source="mag/loop.png" width = "50%" ><description><p>A tilted bar magnet sits above a loop of current that is running clockwise when viewed from above. The north pole is closest to the loop of current.</p></description></image>
 			</figure>
 		<p>Predict what you expect to happen to the bar magnet and the loop as time progresses.</p>
 			</statement>

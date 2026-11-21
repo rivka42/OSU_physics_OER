@@ -34,9 +34,9 @@
 				<title>Charges in Surfaces</title>
 				<caption>Charges in Gaussian surfaces.</caption>
 				<image source="elec/chargesSurfaces.jpg" width = "35%" >
-					<description>
+					<description><p>
 					Several charges both positive and negative surrouned by boxes A, B, and C.
-				</description>
+				</p></description>
 				</image>
 			</figure>
 			<p>

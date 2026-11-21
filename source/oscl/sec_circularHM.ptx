@@ -32,7 +32,7 @@ As the particle moves in a circle, its projection onto the <m>x</m>-axis oscilla
 
 
     	<caption>Position function of an object in Simple Harmonic Motion.</caption>
-    		<image source="oscillate/circularHM.png" width = "100%" ><description></description></image>
+    		<image source="oscillate/circularHM.png" width = "100%" ><description><p></p></description></image>
 </figure>
 
 
@@ -68,7 +68,7 @@ Thus different values of the phase constant represent different starting points 
 	 
 	 
     	<caption>Circular motion is related to oscillatory motion.</caption>
-    		<image source="oscillate/circular_HM3.gif" width = "100%"  ><description></description></image>
+    		<image source="oscillate/circular_HM3.gif" width = "100%"  ><description><p></p></description></image>
     </figure>
 
 

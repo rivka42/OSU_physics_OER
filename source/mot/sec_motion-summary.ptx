@@ -37,7 +37,7 @@
 			<figure xml:id="mot_Marbles">
 		  <caption>A marble launched with three different possible initial velocities.</caption>
       <image source="Marbles.png" width = "50%">
-			<description>A dot representing a marble with three velocity vectors: v1 partly upward, v2 horizontally to the right, and v3 partly downward.</description>
+			<description><p>A dot representing a marble with three velocity vectors: v1 partly upward, v2 horizontally to the right, and v3 partly downward.</p></description>
 			</image>
     </figure>
 		</exercises>

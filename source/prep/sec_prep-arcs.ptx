@@ -52,7 +52,7 @@
 			<title>Reflect</title>
 			<statement>
 			  			<p>Watch the video below, then review your answers to the questions above and reflect on how your thinking has changed over the course of this activity.  Generalize your thinking to identify (1) what is important to include in a scientific explanation and (2) what is <alert>unnecessary</alert> to include, and why.</p>
-						<video youtube="yaPCpsORgtE"><description>Explaining how to use the universal model for gravitation to predict the masses of planets.</description></video>
+						<video youtube="yaPCpsORgtE"><description><p>Explaining how to use the universal model for gravitation to predict the masses of planets.</p></description></video>
 							</statement>
 			</task>
 			
@@ -73,7 +73,7 @@
 		<figure>
 			<caption>Two blocks, connected by a rope.</caption>
 			<image source="moving-blocks.png" width = "50%">
-				<description>m1 on a horizontal table, a horizontal distance L from a pulley, connected by a string over the pulley to m2, hanging vertically.</description>
+				<description><p>m1 on a horizontal table, a horizontal distance L from a pulley, connected by a string over the pulley to m2, hanging vertically.</p></description>
 			</image>
 		</figure>
 	</introduction>
@@ -100,7 +100,7 @@
 					<p>
 						<alert>Observe:</alert> Review what you wrote for the Analyze and Represent parts above, and compare it with the video below.
 					</p>
-					<video youtube="IT0LhMC0yKI"><description>Analyze and Represent part of the A*R*C*S problem solving strategy for the Moving Blocks problem.</description></video>
+					<video youtube="IT0LhMC0yKI"><description><p>Analyze and Represent part of the A*R*C*S problem solving strategy for the Moving Blocks problem.</p></description></video>
 				
 					<p>
 						 <alert>Reflect:</alert> Describe any similarities and differences. Were there any other assumptions you made? Are there other representations that might be helpful?
@@ -130,7 +130,7 @@
 					<p>
 						<alert>Observe:</alert> Review what you wrote for the Calculate parts above, and compare it with the video below.
 					</p>
-					<video youtube="rpP2utvWSvs"><description>Calculate part of the A*R*C*S problem solving strategy for the Moving Blocks problem.</description></video>
+					<video youtube="rpP2utvWSvs"><description><p>Calculate part of the A*R*C*S problem solving strategy for the Moving Blocks problem.</p></description></video>
 
 					<p>
 						 <alert>Reflect:</alert> There are many ways to solve this problem. Can you think of a way to perform this calculation that is different from the one in the video?  Do you think that way would be easier or harder?  What parts of the calculate portion did you find most difficult?
@@ -192,7 +192,7 @@
 					<p>
 						<alert>Observe:</alert> Review what you wrote for the Sensemake parts above, and compare it with the video below.
 					</p>
-					<video youtube="N30w_UkNclo"><description>Sensemake part of the A*R*C*S problem solving strategy for the Moving Blocks problem.</description></video>
+					<video youtube="N30w_UkNclo"><description><p>Sensemake part of the A*R*C*S problem solving strategy for the Moving Blocks problem.</p></description></video>
 					<p>
 						 <alert>Reflect:</alert> What other sensemaking strategies might you be able to use? Do you have any questions about sensemaking after completing this section?
 					</p>
@@ -237,7 +237,7 @@
 				<p>Use an integral to determine the area of the triangle shown below. What is the meaning of the infinitesimal in the integral you use?</p>
 				<figure xml:id="fig_math-rev1">
 					<image source="math-review1.png" width = "50%">
-						<description>A right triangle with h = 2 cm and w = 4 cm.</description>
+						<description><p>A right triangle with h = 2 cm and w = 4 cm.</p></description>
 					</image>
 				</figure>
 			</statement>
@@ -254,7 +254,7 @@
 				<p>Use an integral to determine the area of the shape shown below, where the curve is a parabola with its vertex at the lower left corner.</p>
 				<figure xml:id="fig_math-rev2">
 					<image source="math-review2.png" width = "50%">
-						<description>An upward curve connecting the two sides of a diagonal line, also with h = 2 cm and w = 4 cm.</description>
+						<description><p>An upward curve connecting the two sides of a diagonal line, also with h = 2 cm and w = 4 cm.</p></description>
 					</image>
 				</figure>
 			</statement>

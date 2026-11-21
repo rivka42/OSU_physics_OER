@@ -9,7 +9,7 @@
   <figure xml:id="waves_approach2">
 		 <caption>A wave pulse approaches a boundary between two strings in two different configurations.</caption>
 		<image source="MovingPulses2.png" width = "75%">
-		<description>Top: a vertical wave pulse on a thick string approaches a boundary with a thin string.  Bottom: a vertical wave pulse on a thin string approaches a boundary with a thick string.</description>
+		<description><p>Top: a vertical wave pulse on a thick string approaches a boundary with a thin string.  Bottom: a vertical wave pulse on a thin string approaches a boundary with a thick string.</p></description>
 			</image>
   </figure>
 
@@ -30,7 +30,7 @@
 			<caption>
 				A wave encountering a discontinuity from a high density to a low density.
 			</caption>
-			<image source="wave/hi_lo.gif" width = "75%" ><description>A vertical wave pulse on a thick string approaches a boundary with a thin string.  When it reaches the boundary, an upright reflected pulse and an upright transmitted pulse both move away from the boundary.</description></image>
+			<image source="wave/hi_lo.gif" width = "75%" ><description><p>A vertical wave pulse on a thick string approaches a boundary with a thin string.  When it reaches the boundary, an upright reflected pulse and an upright transmitted pulse both move away from the boundary.</p></description></image>
 			</figure>	
 
 			</answer>
@@ -45,7 +45,7 @@
     	<caption>
 	A wave encountering a discontinuity from a low density to a high density.
 	</caption>
-    	<image source="wave/lo_hi.gif" width = "75%" ><description>A vertical wave pulse on a thin string approaches a boundary with a thick string.  When it reaches the boundary, an inverted reflected pulse and an upright transmitted pulse both move away from the boundary.</description></image>
+    	<image source="wave/lo_hi.gif" width = "75%" ><description><p>A vertical wave pulse on a thin string approaches a boundary with a thick string.  When it reaches the boundary, an inverted reflected pulse and an upright transmitted pulse both move away from the boundary.</p></description></image>
 </figure>	
 
 

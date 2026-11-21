@@ -20,9 +20,9 @@
 				<title>Flux Figure</title>
 				<caption>Two points and an imaginary square loop.</caption>
 				<image source="point-charges-flux.png" width = "35%" >
-					<description>
+					<description><p>
 					Point A on the left, point B on the right, and a square loop between.
-				</description>
+				</p></description>
 				</image>
 			</figure>	
 			
@@ -66,9 +66,9 @@
 					Two point charges and a Gaussian cube.
 				</caption>
 				<image source="CubeGauss.png" width = "40%" >
-					<description>
+					<description><p>
 					A dashed square with +q at the middle, with another +q on the outside a distance L horizontally away from the charge in the middle of the square.
-				</description>
+				</p></description>
 				</image>
 			</figure>	
 			<p>

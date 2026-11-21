@@ -55,7 +55,7 @@
 		<title>Gaussian Cylinder Figure</title>
     	<caption>An infinite wire and a cylindrical Gaussian surface.</caption>
     		<image source="cylinder.png" width = "75%" >
-          <description>A long, straight vertical wire with charge density lambda and a coaxial Gaussian cylinder with height h, radius s, and point P at its right edge.</description>
+          <description><p>A long, straight vertical wire with charge density lambda and a coaxial Gaussian cylinder with height h, radius s, and point P at its right edge.</p></description>
         </image>
     </figure>
 		</introduction>

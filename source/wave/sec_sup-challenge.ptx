@@ -36,7 +36,7 @@
 <figure xml:id="wavepulse4">
     	<caption><p>A wave pulse moving to the right.</p>
 	</caption>
-    	<image source="WavePulse4.png" width = "75%" ><description>A wave pulse moving to the right on a string with a gridded background.  The pulse is a sawtooth consisting of straight lines: from its starting position, it goes two boxes to the right and one box down; then it goes two boxes to the right and two boxes up; finally it goes tow boxes to the right and one box down.</description></image>
+    	<image source="WavePulse4.png" width = "75%" ><description><p>A wave pulse moving to the right on a string with a gridded background.  The pulse is a sawtooth consisting of straight lines: from its starting position, it goes two boxes to the right and one box down; then it goes two boxes to the right and two boxes up; finally it goes tow boxes to the right and one box down.</p></description></image>
 </figure>
 
 		</statement>
@@ -55,7 +55,7 @@
 			<figure xml:id="speaker-separation">
     	<caption><p>Microphone locations around a pair of speakers.</p>
 	</caption>
-    	<image source="SpeakerSeparation.png" width = "55%" ><description>A small gray circle in the middle surrounded by a large circle.  Around the circle are small boxes and circles representing positions.  The top and bottom are squares, and the circles and squares alternate.  Near the top and bottom is a big gap between adjacent shapes, but near the left and right the gaps are small.</description></image>
+    	<image source="SpeakerSeparation.png" width = "55%" ><description><p>A small gray circle in the middle surrounded by a large circle.  Around the circle are small boxes and circles representing positions.  The top and bottom are squares, and the circles and squares alternate.  Near the top and bottom is a big gap between adjacent shapes, but near the left and right the gaps are small.</p></description></image>
 </figure>
 
 		</introduction>

@@ -18,7 +18,7 @@
       <corollary xml:id="vid-interference">
 	<title>Interference</title>
 	<statement><p></p>
-		<video youtube="8xHVotJfykk"><description>Introducing interference.</description></video>
+		<video youtube="8xHVotJfykk"><description><p>Introducing interference.</p></description></video>
 	</statement>
   </corollary>
   <subsubsection><title>Key Ideas</title></subsubsection>

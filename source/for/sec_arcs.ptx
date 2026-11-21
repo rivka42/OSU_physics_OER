@@ -29,11 +29,11 @@
 		  <title>Explanation Task Steps</title>
 		 <caption>Steps to follow when giving an explanation.</caption>
 		<image source="ExplanationSteps.png" width = "100%">
-			<description>Explanations in Physics.  
+			<description><p>Explanations in Physics.  
 			1. Principles - what fundamental physics concepts, laws, or definitions did you start with? 
 			2. Reasoning - explain all the reasoning steps to go from your principles to your conclusion.  
 			3. Conclusion - state your conclusion clearly.  
-			</description></image>
+			</p></description></image>
   </figure>	
 	
 	<investigation xml:id="ex_park-explanation">
@@ -55,7 +55,7 @@
 				<title>Two Parks Figure</title>
 				<caption>Two rectangles, one with greater length than the other.</caption>
 				<image source="park-area.png" width = "60%">
-				<description></description></image>
+				<description><p></p></description></image>
 			</figure>	
 			</li>	
 		     <li><em>Conclusion</em>: The width of park 2 is less than the width of park 1.</li>
@@ -122,7 +122,7 @@
   
 		 <caption>Steps to follow when you consider an A*R*C*S activity.</caption>
 		<image source="RealworldSteps.png" width = "100%">
-			<description></description></image>
+			<description><p></p></description></image>
   </figure>	
 	
 	<project xml:id="ex_park-arcs">
@@ -167,7 +167,7 @@
 		<title>Two Parks Figure</title>
 		 <caption>A rectangular park and a square park.</caption>
 		<image source="park-area-2.png" width = "60%">
-			<description></description></image>
+			<description><p></p></description></image>
   </figure>	
 
 			</p>

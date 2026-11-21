@@ -6,7 +6,7 @@
     <corollary xml:id="vid-reflection">
 	<title>Law of Reflection</title>
 	<statement><p></p>
-		<video youtube="zKOcySebSH0"><description>Introducing the Law of Reflection for light.</description></video>
+		<video youtube="zKOcySebSH0"><description><p>Introducing the Law of Reflection for light.</p></description></video>
 	</statement>
   </corollary>
   <subsubsection><title>Key Ideas</title></subsubsection>
@@ -40,7 +40,7 @@
             <figure xml:id="reflection">
 			<title>Reflection Figure</title>
                 <caption>A diagram of the Law of Reflection.</caption>
-                    <image source="optics/reflection.png" width = "90%" ><description>A transparent box sits in the center of the screen. A ray, labelled "Incident ray", hits the top of the box from the left side at an angle theta sub i and is reflected, labelled "Reflected ray", to the right side at an angle theta sub r. The Law of Reflection, theta sub i equals theta sub r, is annotated on the image.</description></image>
+                    <image source="optics/reflection.png" width = "90%" ><description><p>A transparent box sits in the center of the screen. A ray, labelled "Incident ray", hits the top of the box from the left side at an angle theta sub i and is reflected, labelled "Reflected ray", to the right side at an angle theta sub r. The Law of Reflection, theta sub i equals theta sub r, is annotated on the image.</p></description></image>
             </figure>
         </p>
         </statement>

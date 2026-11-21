@@ -13,7 +13,7 @@
 			
 		</p>
 
-		<video youtube="DbYsyQ1xpdQ"><description>Introducing electric field vector maps.</description></video>
+		<video youtube="DbYsyQ1xpdQ"><description><p>Introducing electric field vector maps.</p></description></video>
 
 	</statement>
   </corollary>
@@ -36,7 +36,7 @@ Electric fields exist in three dimensions of space around any charge or charge d
 		<title>Electric Field Vector Map Example</title>
     	<caption>A example electric field vector map with different values at different points on a grid.</caption>
     		<image source="Evectormap.png" width = "50%" >
-          <description>A map of arrows with a different arrow at every point on a grid.</description>
+          <description><p>A map of arrows with a different arrow at every point on a grid.</p></description>
         </image>
     </figure>
 		</statement>

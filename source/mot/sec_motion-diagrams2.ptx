@@ -63,7 +63,7 @@
 				<figure xml:id="mot_StrobeDiagram">
 		  <caption>A strobe diagram with position vectors.</caption>
       <image source="StrobeDiagram.png" width = "100%">
-			<description>Five dots distributed equally along a horizontal line.</description>
+			<description><p>Five dots distributed equally along a horizontal line.</p></description>
 			</image>
     </figure>
 				</answer>
@@ -118,7 +118,7 @@
 		<!--
 			<example>
 		<title>Dr. Paws on the Run</title>
-		<video youtube="_nO9GlsTdfU"><description>An example of a simple motion diagram being created.</description></video>
+		<video youtube="_nO9GlsTdfU"><description><p>An example of a simple motion diagram being created.</p></description></video>
 		</example>
 
 		-->

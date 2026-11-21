@@ -76,7 +76,7 @@
 	<figure xml:id="fig_b-circuit">
 			<title>Loop Figure</title>
 				<caption>A simple circuit in a magnetic field.</caption>
-				<image source="B-Circuit.png" width = "50%" ><description>A simple circuit with a battery and a resistor is in a region with magnetic field pointing to the right.</description></image>
+				<image source="B-Circuit.png" width = "50%" ><description><p>A simple circuit with a battery and a resistor is in a region with magnetic field pointing to the right.</p></description></image>
 			</figure>
 	</introduction>
 	

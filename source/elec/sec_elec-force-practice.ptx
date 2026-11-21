@@ -71,7 +71,7 @@
 					<title>Point Charges and Arc Figure</title>
 					<caption>A distribution of point charges.</caption>
 					<image source="point-charges-arc.png" width = "35%" >
-				<description>A point charge on the left and ten smaller point charges on the right, all distributed around an arc length with radius R.</description>
+				<description><p>A point charge on the left and ten smaller point charges on the right, all distributed around an arc length with radius R.</p></description>
 			</image>
 				</figure>
 				<p>In the figure above, the charge on the left is <m>+q_L</m> and the total charge on the right is <m>+q_R</m>.  The charges on the right are all identical and are spread out uniformly along an arc of radius <m>R</m>.  Is the magnitude of the net electric force on <m>+q_L</m> <em>greater than</em>, <em>less than</em>, or <em>equal to</em> <m>k\frac{q_L q_R}{R^2}</m>?
@@ -94,7 +94,7 @@
 			<title>Point Charges Figure</title>
 			<caption>Three point charges.</caption>
 			<image source="Charge_arc.png" width = "35%" >
-				<description>A point charge on the top and two smaller point charges below, each at the end of an arc length with radius R and separated by theta.</description>
+				<description><p>A point charge on the top and two smaller point charges below, each at the end of an arc length with radius R and separated by theta.</p></description>
 			</image>
 		</figure>
 		</statement>
@@ -118,7 +118,7 @@
 				<title>A dipole in an electric field. </title>
     			<caption>A dipole in an electric field. </caption>
     			<image source="elec/dipole_torque.png" width = "80%" >
-				<description>A dipole with positive up in a uniform electric field pointing to the right.</description>
+				<description><p>A dipole with positive up in a uniform electric field pointing to the right.</p></description>
 			</image>
 			</figure>
 			</statement>
@@ -142,7 +142,7 @@
 					<title>An electron Launched in a Capacitor</title>
 					<caption>An electron launched in a capacitor. </caption>
 					<image source="elec/electron_launch.png" width = "80%" >
-				<description>A positive plate below a negative plate, with a particle given an initial velocity away from the positive plate at an angle of 45 degrees, landing 4.0 cm away horizontally.</description>
+				<description><p>A positive plate below a negative plate, with a particle given an initial velocity away from the positive plate at an angle of 45 degrees, landing 4.0 cm away horizontally.</p></description>
 			</image>
 				</figure>
 			</statement>
@@ -183,7 +183,7 @@
 					<title>Point Charges on a Circle</title>
 					<caption>Two point charges on a circle of radius <m>R</m>.</caption>
 					<image source="elec/charge-on-circle.png" width = "35%" >
-				<description>q1 and q2 on a circle of radius R, q1 at the bottom and q2 to the right.</description>
+				<description><p>q1 and q2 on a circle of radius R, q1 at the bottom and q2 to the right.</p></description>
 			</image>
 				</figure>
 				<ol>
@@ -251,7 +251,7 @@
 					<title>Point Charges in a Square</title>
 					<caption>Multiple point charges within a square.</caption>
 					<image source="elec/charges-square.png" width = "35%" >
-				<description>qa, qb, qc, and qd at the corners of a square, and q in the middle.</description>
+				<description><p>qa, qb, qc, and qd at the corners of a square, and q in the middle.</p></description>
 			</image>
 				</figure>
 				<p>

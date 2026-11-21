@@ -11,7 +11,7 @@
 			
 		</p>
 
-		<video youtube="tIn6UMjLXTo"><description>Discussing the relationship between force and potential energy.</description></video>
+		<video youtube="tIn6UMjLXTo"><description><p>Discussing the relationship between force and potential energy.</p></description></video>
 
 	</statement>
   </corollary>
@@ -34,7 +34,7 @@
 			<title>Potential Energy Diagram</title>
 		 <caption>A potential energy diagram.</caption>
 		<image source="Uvsx.png" width = "50%">
-			<description>A graph of U vs. x that starts near 4 J, decreases to 1 J at x = 4 m and then rises to around 6 J.</description></image>
+			<description><p>A graph of U vs. x that starts near 4 J, decreases to 1 J at x = 4 m and then rises to around 6 J.</p></description></image>
   </figure>	
 </introduction>
 						<task>

@@ -13,7 +13,7 @@
 			
 		</p>
 
-		<video youtube="LquookvLyh8"><description>Introducing electric current.</description></video>
+		<video youtube="LquookvLyh8"><description><p>Introducing electric current.</p></description></video>
 
 	</statement>
   </corollary>
@@ -54,7 +54,7 @@
 			<figure xml:id="fig_current">
 			  <title>Current Example Figure</title>
 			<caption><alert>Example:</alert> Two rightward currents.</caption>
-			<image source="Current1.png" width = "50%" ><description>A row of positive charges moving to the right and a row of negative charges moving to the left.</description></image>
+			<image source="Current1.png" width = "50%" ><description><p>A row of positive charges moving to the right and a row of negative charges moving to the left.</p></description></image>
 		</figure>
 		</statement>
 	</definition>

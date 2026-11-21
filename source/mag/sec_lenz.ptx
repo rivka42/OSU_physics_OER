@@ -11,7 +11,7 @@
 			
 		</p>
 
-		<video youtube="xH2iQ8DqjQM"><description>Introducing Lenz's Law.</description></video>
+		<video youtube="xH2iQ8DqjQM"><description><p>Introducing Lenz's Law.</p></description></video>
 
 	</statement>
   </corollary>
@@ -32,7 +32,7 @@
 		<figure xml:id="fig_InducedI">
 			<title>Induced Current Figure</title>
     		<caption><alert>Example:</alert> induced current.</caption>
-    		<image source="InducedI.png" width = "70%" ><description>A circular wire centered on a cross representing a magnetic field directed into the screen.  A counterclockwise current flows through the wire.</description></image>
+    		<image source="InducedI.png" width = "70%" ><description><p>A circular wire centered on a cross representing a magnetic field directed into the screen.  A counterclockwise current flows through the wire.</p></description></image>
 		</figure>
 	</statement>
 </principle>
@@ -105,7 +105,7 @@
 		<figure xml:id="x_fig_wire-and-loop">
 			<title>Wire and Loop Figure</title>
     		<caption>A long wire carrying current to the right below a wire loop.</caption>
-    		<image source="WireAndLoop.png" width = "70%" ><description>A long wire carrying current to the right below a square wire loop.</description></image>
+    		<image source="WireAndLoop.png" width = "70%" ><description><p>A long wire carrying current to the right below a square wire loop.</p></description></image>
 		</figure>
   </introduction>
 		<task>  

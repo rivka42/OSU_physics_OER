@@ -45,7 +45,7 @@
 		<title>Wire Figure</title>
     	<caption>A charged wire.</caption>
     		<image source="elec-wire.png" width = "80%" >
-          <description>A horizontal wire of length L.  A point is labeled a distance y above the center.</description>
+          <description><p>A horizontal wire of length L.  A point is labeled a distance y above the center.</p></description>
         </image>
     </figure>
 		</introduction>

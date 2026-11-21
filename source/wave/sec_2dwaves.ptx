@@ -9,8 +9,8 @@
 			  <figure xml:id="two-d-wave">
 			  <title>Circular Wave Figure</title>
 		 <caption>A circular wave.</caption>
-		<image source="2Source-1.png" width = "100%"><description>A series of concentric circles.
-		</description></image>
+		<image source="2Source-1.png" width = "100%"><description><p>A series of concentric circles.
+		</p></description></image>
   </figure>
   <activity>
 	<title>Crests and Troughs</title>
@@ -29,8 +29,8 @@
 		<figure xml:id="two-d-wave2">
 			  <title>Circular Wave Figure</title>
 		 <caption>A circular wave.</caption>
-		<image source="2Source-2.png" width = "100%"><description>A series of concentric circles, alternating between solid and dotted.
-		</description></image>
+		<image source="2Source-2.png" width = "100%"><description><p>A series of concentric circles, alternating between solid and dotted.
+		</p></description></image>
   </figure>
 	</solution>
 	
@@ -55,7 +55,7 @@
 				  <figure xml:id="two-d-waves">
 			  <title>Overlapping Circular Waves Figure</title>
 		 <caption>Two overlapping circular waves.</caption>
-		<image source="2Source-3.png" width = "100%"><description>Two overlapping series of concentric circles.  The centers of the circles are separated by three wavelengths.</description></image>
+		<image source="2Source-3.png" width = "100%"><description><p>Two overlapping series of concentric circles.  The centers of the circles are separated by three wavelengths.</p></description></image>
   </figure>
 	
 				<activity>

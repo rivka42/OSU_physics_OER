@@ -110,7 +110,7 @@
 			<title>Groceries Free-body Diagram</title>
 		  <caption>A free-body diagram for a bag of groceries.</caption>
 	  <image source="GroceriesFBD.png" width = "40%">
-			<description>FNByou pointing up and FgBE pointing down on a free body diagram for system: bag moving upward at speed v with 0 acceleration.</description>
+			<description><p>FNByou pointing up and FgBE pointing down on a free body diagram for system: bag moving upward at speed v with 0 acceleration.</p></description>
 	  </image>
 	</figure>
 
@@ -265,7 +265,7 @@
      Watch the video briefing below on work.
     </p>
 		
-      <video xml:id="en_vb-work" youtube="ZN3597-5_NU"><description>Defining work.</description></video>
+      <video xml:id="en_vb-work" youtube="ZN3597-5_NU"><description><p>Defining work.</p></description></video>
     
 			<activity>
 			<title>Explore: Constant Forces</title>

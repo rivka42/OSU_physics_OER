@@ -6,7 +6,7 @@
       <corollary xml:id="vid-center-of-mass">
 	<title>Center of Mass</title>
 	<statement><p></p>
-		<video youtube="L_vCG4-Aqhw"><description>Defining center of mass.</description></video>
+		<video youtube="L_vCG4-Aqhw"><description><p>Defining center of mass.</p></description></video>
 	</statement>
   </corollary>
   <subsubsection><title>Key Ideas</title></subsubsection>
@@ -26,7 +26,7 @@
 			<title>Two Cubes Figure</title>
 		 <caption>Two adjacent cubes.</caption>
 		<image source="blocks-cm.jpg" width = "35%">
-			<description>A cube with side length 2L on the left next to a cube with side length L on the right, the centers of their faces touching.</description></image>
+			<description><p>A cube with side length 2L on the left next to a cube with side length L on the right, the centers of their faces touching.</p></description></image>
   </figure>
 				<activity xml:id="x_two-blocks">
 			<title>Calculate - Two Blocks</title>
@@ -43,7 +43,7 @@
 			<title>Ramp Figure</title>
 			<caption>A collection of identical blocks.</caption>
 			<image source="COM-Blocks.png" width = "50%">
-				<description>Eight stacks of blocks, in order from left to right: one, one, two, two, one, two, two, and two.</description>
+				<description><p>Eight stacks of blocks, in order from left to right: one, one, two, two, one, two, two, and two.</p></description>
 			</image>
 		</figure>
 				</statement>
@@ -54,7 +54,7 @@
 					<identity xml:id="vid-many-blocks-sol">
 	<title>Many Blocks Solution</title>
 	<statement><p></p>
-		<video youtube="Vg2iVEeu1Iw"><description>Center of Mass Solution.</description></video>
+		<video youtube="Vg2iVEeu1Iw"><description><p>Center of Mass Solution.</p></description></video>
 	</statement>
 </identity>
 				</solution>

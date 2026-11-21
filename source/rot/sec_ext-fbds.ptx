@@ -16,7 +16,7 @@
       <corollary xml:id="vid-extended-fbds">
 	<title>Extended Free-body Diagrams</title>
 	<statement><p></p>
-		<video youtube="WNeSIj9tWN4"><description>Introducing extended free-body diagrams.</description></video>
+		<video youtube="WNeSIj9tWN4"><description><p>Introducing extended free-body diagrams.</p></description></video>
 	</statement>
   </corollary>
 	<subsubsection><title>Key Ideas</title></subsubsection>
@@ -58,7 +58,7 @@
 			<figure xml:id="rot_catapult">
 			<title>Catapult Figure</title>
 		<image source="Catapult1.png" width = "75%">
-			<description>A round rock with mass m1 on the left edge and a square block with mass m2 on the right edge of a long, straight arm, balanced on a pivot point that is a small distance r2 from the right edge and a bigger distance r1 from the left edge.</description></image>
+			<description><p>A round rock with mass m1 on the left edge and a square block with mass m2 on the right edge of a long, straight arm, balanced on a pivot point that is a small distance r2 from the right edge and a bigger distance r1 from the left edge.</p></description></image>
   </figure>
 					<activity>
 					<title>Sensemaking Practice</title>

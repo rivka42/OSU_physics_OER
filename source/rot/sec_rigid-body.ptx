@@ -3,7 +3,7 @@
 <section xml:id="sec_rigid-body" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Rigid-body Model</title>
 		
-      <!-- <video youtube="Kn4wcsWCXgY"><description>Introducing extended free-body diagrams.</description></video> -->
+      <!-- <video youtube="Kn4wcsWCXgY"><description><p>Introducing extended free-body diagrams.</p></description></video> -->
 	
 	<p>In previous sections, you have mostly been using <xref ref="a_particle" text="title"></xref>, in which you treat objects as if all mass is located at a single location.  A principal feature of this assumption is that the objects do not rotate.  You will now relax this assumption to allow an object to rotate, but only if the entire object rotates with the same angular velocity.  Such an object is typically known as a rigid body.</p>
 	

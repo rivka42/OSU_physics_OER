@@ -54,7 +54,7 @@
                 <figure xml:id="fig_intensity-graph-combined">
 			<title>Combined Interference and Diffraction Intensity Pattern</title>
         <caption>Intensity graph for two non-infinitesimal slits.</caption>
-        <image source="Combined-Intensity.png"><description>A graph of I vs. y.  The graph oscillates between zero and maxima of different heights, with a central max at y = 0.</description></image>
+        <image source="Combined-Intensity.png"><description><p>A graph of I vs. y.  The graph oscillates between zero and maxima of different heights, with a central max at y = 0.</p></description></image>
     </figure>
             </activity>
     </subsubsection>

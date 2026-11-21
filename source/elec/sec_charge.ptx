@@ -11,7 +11,7 @@
 			
 		</p>
 
-		<video youtube="bjUpOgW6bho"><description>Introducing charge.</description></video>
+		<video youtube="bjUpOgW6bho"><description><p>Introducing charge.</p></description></video>
 
 	</statement>
   </corollary>
@@ -81,7 +81,7 @@
 		<title>Charges</title>
     	<caption>A simple representation of positive and negative charges.</caption>
     		<image source="elec/charges.png" width = "80%" >
-          <description>A positive charge (left) and a negative charge (right).</description>
+          <description><p>A positive charge (left) and a negative charge (right).</p></description>
         </image>
     </figure>
 

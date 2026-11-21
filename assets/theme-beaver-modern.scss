@@ -16,10 +16,10 @@ $background-color-dark: #23241f !default;
 // components and layout
 @use 'parts-beaver';
 @use 'chunks-beaver';
-@use 'components/pretext';
-// @use 'components/pretext' with (
-//  $navbar-breakpoint: parts-beaver.$navbar-breakpoint,
-// );
+// @use 'components/pretext';
+@use 'components/pretext-web' with (
+ $navbar-breakpoint: parts-beaver.$navbar-breakpoint,
+);
 
 // ---------------------------------------------
 // fonts and colors
@@ -107,8 +107,15 @@ $secondary-color: map.get(palette-dual.$colors, 'secondary-color');
     // --knowl-border-color: #D73F09;
 }
 
-// section>.heading {
-//     background: #D73F09;
+.subsection h2.heading {
+  border-bottom: 20px solid green;
+}
+
+// .subsection:not(.dark-mode) {
 //     color: #D73F09;
+// }
+
+// .subsubsection:not(.dark-mode) {
+//     color: #000000;
 // }
 

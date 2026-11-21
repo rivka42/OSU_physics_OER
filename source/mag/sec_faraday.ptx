@@ -11,7 +11,7 @@
 			
 		</p>
 
-		<video youtube="uaPfJPgCmuc"><description>Introducing Faraday's Law.</description></video>
+		<video youtube="uaPfJPgCmuc"><description><p>Introducing Faraday's Law.</p></description></video>
 
 	</statement>
   </corollary>
@@ -54,7 +54,7 @@
         <figure xml:id="fig_InducedE">
 			<title>Induced Electric Field Figure</title>
     		<caption><alert>Example:</alert> vector map for the induced electric field created by a changing magnetic field.</caption>
-    		<image source="InducedE.png" width = "50%" ><description>Two gray circles centered on a circle with a cross representing a magnetic field directed into the screen.  On each circle are eight vectors that each point in a straight line tangent to the circle in a counterclockwise direction, representing the counterclocwise electric field.  The vectors on the bigger circle have a smaller length.</description></image>
+    		<image source="InducedE.png" width = "50%" ><description><p>Two gray circles centered on a circle with a cross representing a magnetic field directed into the screen.  On each circle are eight vectors that each point in a straight line tangent to the circle in a counterclockwise direction, representing the counterclocwise electric field.  The vectors on the bigger circle have a smaller length.</p></description></image>
 		</figure>
 		</statement>
 	</definition>
@@ -181,7 +181,7 @@
 		<figure xml:id="fig_loop-fall">
 			<title>Loop Fall</title>
 				<caption>A loop falling out of a magnetic field.</caption>
-				<image source="Loop-Fall.png" width = "40%" ><description>An outward magnetic field with a square current loop moving down with speed v.  The bottom of the loop coincides with the bottom of the magnetic field.</description></image>
+				<image source="Loop-Fall.png" width = "40%" ><description><p>An outward magnetic field with a square current loop moving down with speed v.  The bottom of the loop coincides with the bottom of the magnetic field.</p></description></image>
 			</figure>
 		
 </activity>

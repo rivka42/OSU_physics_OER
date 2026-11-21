@@ -23,7 +23,7 @@
 		<figure xml:id="x_fig_RL-RC">
 			<title>LR and RC Circuit Diagram</title>
     		<caption>A circuit with a battery, a resistor, and an inductor.</caption>
-    		<image source="LR-RC.png" width = "60%" ><description>A circuit diagram with a battery, an open switch, and two parallel branches: on the left a resistor and capacitor in series, on the right a resistor and inductor in series.</description></image>
+    		<image source="LR-RC.png" width = "60%" ><description><p>A circuit diagram with a battery, an open switch, and two parallel branches: on the left a resistor and capacitor in series, on the right a resistor and inductor in series.</p></description></image>
 		</figure>
 	</introduction>
 	<task>
@@ -73,7 +73,7 @@
 		<figure xml:id="x_fig_LC">
 			<title>LC Circuit Diagram</title>
     		<caption>A circuit with a capacitor and an inductor.</caption>
-    		<image source="LC-circui2.png" width = "60%" ><description>A circuit diagram with an initially charged capacitor (positive on top), a switch, and an inductor.</description></image>
+    		<image source="LC-circui2.png" width = "60%" ><description><p>A circuit diagram with an initially charged capacitor (positive on top), a switch, and an inductor.</p></description></image>
 		</figure>
 	</introduction>
 	<task>
@@ -132,7 +132,7 @@
 			
 		</p>
 
-		<video youtube="EZmh2TOI-WI"><description>A description of LC circuits.</description></video>
+		<video youtube="EZmh2TOI-WI"><description><p>A description of LC circuits.</p></description></video>
 
 	</statement>
   </corollary>

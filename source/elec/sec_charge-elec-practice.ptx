@@ -151,7 +151,7 @@ Suppose that the lengths <m> r \gg d </m> as is usually the case for atomic dipo
 					<title>Charged Pendulum </title>
 					<caption>A charged pendulum. </caption>
 					<image source="elec/charge_pendulum.png" width = "80%" >
-						<description>Two charged pendulums of length L, each displaced by theta from equilibrium.</description>
+						<description><p>Two charged pendulums of length L, each displaced by theta from equilibrium.</p></description>
 					</image>
 				</figure>
 			</statement>
@@ -442,9 +442,9 @@ Suppose that the lengths <m> r \gg d </m> as is usually the case for atomic dipo
 			<figure xml:id="fig-charged-balls">
 				<title>Charged Balls</title>
 				<caption>Two charged balls attached to strings.</caption>
-				<image source="elec/charged-balls.jpg" width = "35%"><description>
+				<image source="elec/charged-balls.jpg" width = "35%"><description><p>
 					Two small balls are attached to threads which are in turn tied to the same point on the ceiling. The threads hang at an angle of 5.0 degrees to either side of the vertical. Each ball has a charge Q.
-				</description></image>
+				</p></description></image>
 			</figure>
 			<p>
 				Two small balls, each of mass <m>5.0 \mathrm{~g}</m>, are attached to silk threads <m>50 \mathrm{~cm}</m> long, which are in turn tied to the same point on the ceiling, as shown above. When the balls are given the same charge <m>Q</m>, the threads hang at <m>5.0^\circ</m> to the vertical. What is the magnitude of <m>Q</m>? What are the signs of the two charges?

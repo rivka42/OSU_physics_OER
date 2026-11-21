@@ -41,7 +41,7 @@
 			<title>Meter Stick Figure</title>
 			<caption>An infinitesimal piece of a meter stick.</caption>
 			<image source="COM-MS.png" width = "100%">
-				<description>A horizontal rectangle with a small mass dm labeled near the middle, a distance x from the left end with a width dx.</description>
+				<description><p>A horizontal rectangle with a small mass dm labeled near the middle, a distance x from the left end with a width dx.</p></description>
 			</image>
 		</figure>
 						</solution>
@@ -89,7 +89,7 @@
 		<corollary xml:id="vid-center-of-mass2">
 	<title>Center of Mass (Continuous)</title>
 	<statement><p></p>
-		<video youtube="PO310wQThaM"><description>Defining center of mass for continuous objects.</description></video>
+		<video youtube="PO310wQThaM"><description><p>Defining center of mass for continuous objects.</p></description></video>
 	</statement>
   </corollary>
   <subsubsection><title>Key Ideas</title></subsubsection>
@@ -101,7 +101,7 @@
 	</statement>
 </definition>
 
-  <!-- <video youtube="Vg2iVEeu1Iw"><description>Defining center of mass.</description></video>
+  <!-- <video youtube="Vg2iVEeu1Iw"><description><p>Defining center of mass.</p></description></video>
 	-->
 
 	

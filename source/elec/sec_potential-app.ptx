@@ -27,7 +27,7 @@
 	<figure xml:id="EQ-Surface">
 			  <title>Equipotential Surfaces Figure</title>
 			<caption>A 3D plastic surface.</caption>
-			<image source="YellowGravityAboveContours.jpg" width = "40%" ><description>A yellow plastic surface with a blue, green, and red point marked.</description></image>
+			<image source="YellowGravityAboveContours.jpg" width = "40%" ><description><p>A yellow plastic surface with a blue, green, and red point marked.</p></description></image>
 		</figure>
 	</introduction>
 	

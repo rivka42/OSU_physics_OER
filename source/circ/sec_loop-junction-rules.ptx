@@ -11,7 +11,7 @@
 			
 		</p>
 
-		<video youtube="SeKkKG2WQH4"><description>Describing the voltage loop rule and current junction rules for circuits.</description></video>
+		<video youtube="SeKkKG2WQH4"><description><p>Describing the voltage loop rule and current junction rules for circuits.</p></description></video>
 
 	</statement>
   </corollary>
@@ -95,7 +95,7 @@
 			<figure xml:id="current1">
 			  <title>Junction Circuit Diagram</title>
 				<caption>Two wires meet at a junction.</caption>
-				<image source="circ/current1.png" width = "50%" ><description>Two wires meet at a junction, connected to a single third wire.</description></image>
+				<image source="circ/current1.png" width = "50%" ><description><p>Two wires meet at a junction, connected to a single third wire.</p></description></image>
 			</figure>
 			<p>Which of the following describes the current in the third wire? Explain your reasoning.</p>
 			<ol type = "a">

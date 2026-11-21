@@ -4,7 +4,7 @@
 <!-- works.                                                        -->
 
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="meta_frontmatter">
-  <titlepage><titlepage-items></titlepage-items></titlepage>
+  
   <bibinfo>
     <author>
       <personname>Paul J. Emigh</personname>
@@ -27,13 +27,9 @@
       <institution>Oregon State University</institution>
     </author>
     <date><today/></date>
-  </bibinfo>
-
     <website>
-      <name><c>OSU Physics</c></name>
-      <url>https://physics.oregonstate.edu/</url>
+      <url href="https://physics.oregonstate.edu/"><c>OSU Physics</c></url>
     </website>
-
     <copyright>
       <!-- In addition to specifying the copyright holder, you should  -->
       <!-- include a license, such as the cc-by-sa license shown below -->
@@ -51,6 +47,13 @@
           CreativeCommons.org</url>
       </shortlicense>
     </copyright>
+  </bibinfo>
+
+  <titlepage><titlepage-items></titlepage-items></titlepage>
+
+    
+
+    
 
     <acknowledgement>
 
@@ -94,6 +97,8 @@
 	
 -->
 
+<!--
+
 <preface>
     <title>Student Guide</title>
     
@@ -111,7 +116,7 @@
 			
 		</p>
 
-		<video youtube="nz5rkCiBcso">      <description>A dog running to get a ball and returning.</description></video>
+		<video youtube="nz5rkCiBcso">      <title>A dog running to get a ball and returning.</title></video>
 
 	</statement>
   </corollary>
@@ -162,6 +167,8 @@ Extra information, notes, examples, historical insights, and so on are found in 
 </note>
 
     </preface>
+
+    -->
 
   <!-- You can have more than one preface. -->
 

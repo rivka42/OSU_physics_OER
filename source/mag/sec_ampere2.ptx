@@ -18,7 +18,7 @@
 		<figure xml:id="fig_sheet-ampere1">
 			<title>Current Sheet Figure</title>
 				<caption>A conducting sheet.</caption>
-				<image source="Ampere1.png" width = "10%" ><description>A vertical collection of currents pointing out of the screen.</description></image>
+				<image source="Ampere1.png" width = "10%" ><description><p>A vertical collection of currents pointing out of the screen.</p></description></image>
 			</figure>
 	</introduction>
 		<task>
@@ -46,7 +46,7 @@
 				<figure xml:id="fig_sheet-ampere2">
 			<title>Current Sheet Figure</title>
 				<caption>A conducting sheet with an Amperean Loop.</caption>
-				<image source="Ampere2.png" width = "40%" ><description>A vertical collection of currents pointing out of the screen.  Purple arrows designate the magnetic field: upward on the right side of the sheet, downward on the left side of the sheet.  A blue rectangle with counterclockwise arrows indicates a loop.</description></image>
+				<image source="Ampere2.png" width = "40%" ><description><p>A vertical collection of currents pointing out of the screen.  Purple arrows designate the magnetic field: upward on the right side of the sheet, downward on the left side of the sheet.  A blue rectangle with counterclockwise arrows indicates a loop.</p></description></image>
 			</figure>
 			</solution>
 		</task>

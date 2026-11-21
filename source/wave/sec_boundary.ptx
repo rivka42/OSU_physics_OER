@@ -41,14 +41,14 @@
     	<caption>
 	A wave reflecting from a fixed end.
 	</caption>
-    	<image source="wave/hard.gif" width = "50%" ><description>A wave pulse on a string moves to the right toward a fixed end, reflecting on the other side of the string back to the left.</description></image>
+    	<image source="wave/hard.gif" width = "50%" ><description><p>A wave pulse on a string moves to the right toward a fixed end, reflecting on the other side of the string back to the left.</p></description></image>
 </figure>	
 
 <figure xml:id="soft">
     	<caption>
 	A wave reflecting from a free end.
 	</caption>
-    	<image source="wave/soft.gif" width = "50%" ><description>A wave pulse on a string moves to the right toward a free end, reflecting on the same side of the string back to the left.</description></image>
+    	<image source="wave/soft.gif" width = "50%" ><description><p>A wave pulse on a string moves to the right toward a free end, reflecting on the same side of the string back to the left.</p></description></image>
 </figure>	
 				</answer>
 			</task>

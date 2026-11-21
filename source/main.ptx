@@ -7,6 +7,9 @@
 
 <!--     python -m pretext build web -g     --> 
 
+
+<!--     python -m pretext validate web -'-method server     -->
+
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
 
   <!-- we first include a file which contains the docinfo element: -->
@@ -45,7 +48,11 @@
 
 	<!---->
 		<xi:include href="./ch-n_01_vectors.ptx" />
+		
     	<xi:include href="./ch-n_02_motion.ptx" />
+
+
+
 		<xi:include href="./ch-n_03_lom.ptx" />
 		<xi:include href="./ch-n_04_forces.ptx" />
 		<xi:include href="./ch-n_05_systems.ptx" />
@@ -80,6 +87,8 @@
 		<xi:include href="./ch-n_28_faraday.ptx" />
 		<xi:include href="./ch-n_29_dynamic-circuits.ptx" />
 		<xi:include href="./ch-n_30_em.ptx" />
+
+		
 
 				<!--<xi:include href="./ch-interlude.ptx" />-->
 

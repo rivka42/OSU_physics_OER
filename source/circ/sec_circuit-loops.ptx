@@ -31,7 +31,7 @@
 		<figure xml:id="f_bulbs7">
 			  <title>Light Bulbs Circuit Diagram</title>
 			<caption>A circuit diagram.</caption>
-			<image source="bulb-circuit7.png" width = "40%" ><description>A circuit diagram with one battery.  Bulb A is above bulb B, and a parallel branch with an open switch and bulb C is connected across bulb B.</description></image>
+			<image source="bulb-circuit7.png" width = "40%" ><description><p>A circuit diagram with one battery.  Bulb A is above bulb B, and a parallel branch with an open switch and bulb C is connected across bulb B.</p></description></image>
 		</figure>
 		</introduction>
 		<task>
@@ -42,7 +42,7 @@
 				<figure xml:id="f_bulbs8">
 			  <title>Light Bulbs Circuit Diagram</title>
 			<caption>Two circuit diagrams.</caption>
-			<image source="bulb-circuit7.png" width = "40%" ><description>Above: A circuit diagram with one battery.  Bulb A is above bulb B, and a parallel branch with an open switch and bulb C is connected across bulb B.  Below: another circuit diagram with one battery.  Bulb D and E are in series along one parallel branch, and bulb F is on its own along another parallel branch.</description></image>
+			<image source="bulb-circuit7.png" width = "40%" ><description><p>Above: A circuit diagram with one battery.  Bulb A is above bulb B, and a parallel branch with an open switch and bulb C is connected across bulb B.  Below: another circuit diagram with one battery.  Bulb D and E are in series along one parallel branch, and bulb F is on its own along another parallel branch.</p></description></image>
 		</figure>
 			</statement>
 		</task>
@@ -54,7 +54,7 @@
 				<figure xml:id="f_bulbs9">
 			  <title>Light Bulbs Circuit Diagram</title>
 			<caption>Six circuit diagrams.</caption>
-			<image source="bulb-circuit9.png" width = "100%" ><description>Circuit 1: one battery and bulb 1.  Circuit 2: two batteries and bulb 2.  Circuit 3: two batteries in opposite orientations and bulb 3.  Circuit 4: two upright batteries and one inverted battery and bulb 4.  Circuit 5: an inverted battery, then bulb 5, then 3 upright batteries.  Circuit 6: on the left, bulb 6 between two upright batteries; on the right, bulb 7 between two oppositely oriented batteries.</description></image>
+			<image source="bulb-circuit9.png" width = "100%" ><description><p>Circuit 1: one battery and bulb 1.  Circuit 2: two batteries and bulb 2.  Circuit 3: two batteries in opposite orientations and bulb 3.  Circuit 4: two upright batteries and one inverted battery and bulb 4.  Circuit 5: an inverted battery, then bulb 5, then 3 upright batteries.  Circuit 6: on the left, bulb 6 between two upright batteries; on the right, bulb 7 between two oppositely oriented batteries.</p></description></image>
 		</figure>
 			</statement>
 		</task>
@@ -72,7 +72,7 @@
 		<figure xml:id="f_bbulbs1">
 			  <title>Light Bulbs Circuit Diagram</title>
 			<caption>A circuit diagram.</caption>
-			<image source="bb-circuit1.png" width = "50%" ><description>A circuit diagram with three vertical parallel branches.  The outer branches have upright batteries and the middle branch has a light bulb.  A switch lies between the bulb and the right battery.</description></image>
+			<image source="bb-circuit1.png" width = "50%" ><description><p>A circuit diagram with three vertical parallel branches.  The outer branches have upright batteries and the middle branch has a light bulb.  A switch lies between the bulb and the right battery.</p></description></image>
 		</figure>
 		</introduction>
 		<task>
@@ -83,7 +83,7 @@
 				<figure xml:id="f_bbulbs2">
 			  <title>Light Bulbs Circuit Diagram</title>
 			<caption>Two circuit diagrams.</caption>
-			<image source="bb-circuit2.png" width = "50%" ><description>Two circuit diagrams with three vertical parallel branches.  Top: The outer branches have upright batteries and the middle branch has a light bulb; a switch lies between the bulb and the right battery.  Bottom: The left branch has an upright battery, the right branch has an upright battery and a light bulb, and the middle branch has a light bulb; a switch lies between the middle and right branches.</description></image>
+			<image source="bb-circuit2.png" width = "50%" ><description><p>Two circuit diagrams with three vertical parallel branches.  Top: The outer branches have upright batteries and the middle branch has a light bulb; a switch lies between the bulb and the right battery.  Bottom: The left branch has an upright battery, the right branch has an upright battery and a light bulb, and the middle branch has a light bulb; a switch lies between the middle and right branches.</p></description></image>
 		</figure>
 				<p>
 					Predict what will happen to each light bulb in the bottom circuit when you close the switch.
@@ -121,7 +121,7 @@
 				<figure xml:id="f_bbulbs3">
 			  <title>Light Bulbs Circuit Diagram</title>
 			<caption>A circuit diagram.</caption>
-			<image source="bb-circuit3.png" width = "50%" ><description>A circuit diagram with three vertical parallel branches.  The outer branches each have an upright battery and a light bulb and the middle branch has a light bulb.  A switch lies between the middle and right branches.</description></image>
+			<image source="bb-circuit3.png" width = "50%" ><description><p>A circuit diagram with three vertical parallel branches.  The outer branches each have an upright battery and a light bulb and the middle branch has a light bulb.  A switch lies between the middle and right branches.</p></description></image>
 		</figure>
 			<p>
 				When you open the switch:

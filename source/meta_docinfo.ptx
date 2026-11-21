@@ -5,6 +5,8 @@
 <!--  settings.                                              -->
 <docinfo xmlns:xi="http://www.w3.org/2001/XInclude">
 
+<!--This used to be in project-->
+<directories external="../assets" data="../generated-assets"/>
 <!-- The next three lines are likely for mature projects only: -->
 
 <!-- <brandlogo url="" source="images/cover.png"/> -->
@@ -30,8 +32,10 @@
   \usetikzlibrary{decorations.markings} 
 </latex-image-preamble>
 
+<!-- Validation says text not allowed here
 \usepackage{fontspec}
-\setmainfont{Asana-Math} 
+\setmainfont{Asana-Math}
+-->
 
 <!-- It is possible to rename elements using the tags below -->
 <rename element="part">Unit</rename>
@@ -60,7 +64,10 @@
   <rename element="outcomes">Adapting Your Model</rename>
 
 <!-- Specify the default type of cross reference:           -->
-  <cross-references text="title" />
+ <defaults>
+<xrefs text="title" />
+ </defaults>
+  
   
 
 </docinfo>

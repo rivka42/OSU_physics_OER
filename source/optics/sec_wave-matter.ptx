@@ -24,7 +24,7 @@
                 <figure>
 			<title>Double-slit Interference of Electrons Figure</title>
             <caption>A beam of electrons incident on a mask with two narrow slits.</caption>
-            <image source="double-slit-electrons.png" width = "100%"><description>A beam of electrons (left) moves toward a vertical mask with two narrow slits, then to a vertical screen on the right.</description></image>
+            <image source="double-slit-electrons.png" width = "100%"><description><p>A beam of electrons (left) moves toward a vertical mask with two narrow slits, then to a vertical screen on the right.</p></description></image>
           </figure>
                 </introduction>
                 
@@ -41,7 +41,7 @@
                         <figure>
 			<title>Particle Behavior of Electrons Figure</title>
             <caption>Interference for a beam of electrons behaving like particles.</caption>
-            <image source="double-slit-electrons-particles.png" width = "100%"><description>A beam of electrons (left) moves toward a vertical mask with two narrow slits, then to a vertical screen on the right.  Two sharp dots appear on the screen.</description></image>
+            <image source="double-slit-electrons-particles.png" width = "100%"><description><p>A beam of electrons (left) moves toward a vertical mask with two narrow slits, then to a vertical screen on the right.  Two sharp dots appear on the screen.</p></description></image>
           </figure>
                     </answer>
                 </task>
@@ -58,7 +58,7 @@
                         <figure>
 			<title>Wave Behavior of Electrons Figure</title>
             <caption>Interference for a beam of electrons behaving like waves.</caption>
-            <image source="double-slit-electrons-waves.png" width = "100%"><description>A beam of electrons (left) moves toward a vertical mask with two narrow slits, then to a vertical screen on the right.  An interference pattern with several maxima appears on the screen.</description></image>
+            <image source="double-slit-electrons-waves.png" width = "100%"><description><p>A beam of electrons (left) moves toward a vertical mask with two narrow slits, then to a vertical screen on the right.  An interference pattern with several maxima appears on the screen.</p></description></image>
           </figure>
                     </answer>
                 </task>
@@ -77,7 +77,7 @@
             <figure>
 			<title>Double-slit Experiment Results</title>
             <caption>An interference pattern of single electrons.</caption>
-            <image source="2slit-electrons1.png" width = "75%"><description>Results of a double-slit-experiment performed by Dr. Tonomura showing the build-up of an interference pattern of single electrons. Numbers of electrons are 140000.</description></image>
+            <image source="2slit-electrons1.png" width = "75%"><description><p>Results of a double-slit-experiment performed by Dr. Tonomura showing the build-up of an interference pattern of single electrons. Numbers of electrons are 140000.</p></description></image>
           </figure>
 
           <p>
@@ -88,7 +88,7 @@
           <figure>
 			<title>Double-slit Experiment Results 2</title>
             <caption>Results of double slit electron experiment over time.</caption>
-            <image source="2slit-electrons2.png" width = "75%"><description>Results of a double-slit-experiment performed by Dr. Tonomura showing the build-up of an interference pattern of single electrons. Numbers of electrons are 11 (a), 200 (b), 6000 (c), 40000 (d), 140000 (e).</description></image>
+            <image source="2slit-electrons2.png" width = "75%"><description><p>Results of a double-slit-experiment performed by Dr. Tonomura showing the build-up of an interference pattern of single electrons. Numbers of electrons are 11 (a), 200 (b), 6000 (c), 40000 (d), 140000 (e).</p></description></image>
           </figure>
 
           <assumption xml:id="a_dual-model-particles">

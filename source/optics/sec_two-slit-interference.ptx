@@ -71,7 +71,7 @@
           <figure>
 			<title>Huygen's Principle Figure</title>
             <caption>A diagram of Huygen's Princple. As light travels through an opening, each point along a wave front can be understood as a source of waves.</caption>
-            <image source="optics/huygens.jpg" width = "75%"><description>A single slit of width a sits horizontally. A straight line sits inside the slit, parallel to the slits. Seven dots are evenly distributed across this line. Multiple concentric half circles extend outwards from each point, travelling upwards.</description></image>
+            <image source="optics/huygens.jpg" width = "75%"><description><p>A single slit of width a sits horizontally. A straight line sits inside the slit, parallel to the slits. Seven dots are evenly distributed across this line. Multiple concentric half circles extend outwards from each point, travelling upwards.</p></description></image>
           </figure>
         </statement>
       </assumption>
@@ -83,7 +83,7 @@
      <figure>
 			<title>Interference Figure</title>
         <caption>Interference pattern produced by light traveling through two adjacent slits. The central maxima is at a value of <m>m = 0</m>.</caption>
-        <image source="optics/double_slit.jpg"><description>A diagram showing the double-slit experiment and the interference pattern that is shown on the screen. Two slits sit on the right side. Plane waves hit the two slits from the left side. As they exist the slits, the wave front becomes spherical, and multiple concentric circles are shown to represent how the light wave behaves. The interference pattern has seven evenly distributed bright spots. The center is labelled m = 0, and the rest are labelled from m = 1 to m = 3 above and below the center.</description></image>
+        <image source="optics/double_slit.jpg"><description><p>A diagram showing the double-slit experiment and the interference pattern that is shown on the screen. Two slits sit on the right side. Plane waves hit the two slits from the left side. As they exist the slits, the wave front becomes spherical, and multiple concentric circles are shown to represent how the light wave behaves. The interference pattern has seven evenly distributed bright spots. The center is labelled m = 0, and the rest are labelled from m = 1 to m = 3 above and below the center.</p></description></image>
     </figure>
 
     

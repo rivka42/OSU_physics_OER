@@ -36,7 +36,7 @@
       <corollary xml:id="vid-reviewing-circular">
 	<title>Reviewing Circular Motion</title>
 	<statement><p></p>
-		<video youtube="0E8YGm-jm-U"><description>Reviewing circular motion.</description></video>
+		<video youtube="0E8YGm-jm-U"><description><p>Reviewing circular motion.</p></description></video>
 	</statement>
   </corollary>
 			
@@ -80,7 +80,7 @@
 		      <corollary xml:id="vid-precession">
 	<title>Precession</title>
 	<statement><p></p>
-		<video youtube="FrsVevd38VQ"><description>Introducing precession.</description></video>
+		<video youtube="FrsVevd38VQ"><description><p>Introducing precession.</p></description></video>
 	</statement>
   </corollary>
 

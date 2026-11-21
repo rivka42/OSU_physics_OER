@@ -37,7 +37,7 @@ The figure below shows a graphical representation of the small-angle approximati
 <figure xml:id="small-angle">
 <title>Small Angle Approximation for Sine Figure</title>
     	<caption>Graphical representation of the small-angle approximation for the <m>\sin\theta</m> function.</caption>
-    		<image source="oscillate/small_angle.jpg" width = "100%" ><description>A graph of sine theta with a graph of theta, with a blown up version showing how closely they coincide near the origin.</description></image>
+    		<image source="oscillate/small_angle.jpg" width = "100%" ><description><p>A graph of sine theta with a graph of theta, with a blown up version showing how closely they coincide near the origin.</p></description></image>
     </figure>
 		
 		

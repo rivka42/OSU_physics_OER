@@ -48,7 +48,7 @@
 			<title>Curved Road Figure</title>
 		 <caption>A car moving along a curved road.</caption>
 		<image source="CurvedPath.png" width = "20%">
-			<description>A top-view diagram of a road curving from the bottom of the screen to the top left.</description></image>
+			<description><p>A top-view diagram of a road curving from the bottom of the screen to the top left.</p></description></image>
   </figure>
 					<p>Choose an origin and coordinates and use them to sketch vectors you believe best represent the directions of the (a) instantaneous position, (b) instantaneous velocity, and (c) instantaneous acceleration of the car at the instant shown.  Explain how you predicted the direction of each vector.</p>
 					</activity>
@@ -66,7 +66,7 @@
       <corollary xml:id="vid-velocity-curved">
 	<title>Tangential Velocity</title>
 	<statement><p></p>
-		<video youtube="j7C4El5zBXs"><description>Velocity for motion along a curved path.</description></video>
+		<video youtube="j7C4El5zBXs"><description><p>Velocity for motion along a curved path.</p></description></video>
 	</statement>
   </corollary>
 
@@ -84,7 +84,7 @@
 	<figure xml:id="rot_centa">
 			<title>Curved Path Figure</title>
 		<image source="CurvedPathX1.png" width = "100%">
-			<description>Three cases, each showing a car moving clockwise around a curved path, with points A and B far apart, A and C closer together, and A and D very close together.</description></image>
+			<description><p>Three cases, each showing a car moving clockwise around a curved path, with points A and B far apart, A and C closer together, and A and D very close together.</p></description></image>
   </figure>
 		</introduction>
 		
@@ -103,7 +103,7 @@
       <corollary xml:id="vid-ca-dir">
 	<title>Centripetal Acceleration Direction</title>
 	<statement><p></p>
-		<video youtube="mPozBCmcb4w"><description>Determining the direction of centripetal acceleration.</description></video>
+		<video youtube="mPozBCmcb4w"><description><p>Determining the direction of centripetal acceleration.</p></description></video>
 	</statement>
   </corollary>
 			
@@ -115,7 +115,7 @@
 		<figure xml:id="rot_centb">
 			<title>Curved Path Figure</title>
 		<image source="CurvedPathX2.png" width = "75%">
-			<description>Three cases, each showing a car moving clockwise around a circular path of radius d.  Car A moves at constant speed v, Car B moves at constant speed 2v, and Car C moves at constant speed v around a circle of radius d/2.</description></image>
+			<description><p>Three cases, each showing a car moving clockwise around a circular path of radius d.  Car A moves at constant speed v, Car B moves at constant speed 2v, and Car C moves at constant speed v around a circle of radius d/2.</p></description></image>
   </figure>
 	</introduction>
 	
@@ -126,7 +126,7 @@
 								<figure xml:id="rot_centc">
 			<title>Curved Path Figure</title>
 					<image source="CurvedPathX3.png" width = "100%">
-			<description>Three cases, each showing a car moving clockwise around a circular path of radius r.  Car A moves at constant speed v, Car B moves at constant speed 2v, and Car C moves at constant speed v around a circle of radius r/2.</description></image>
+			<description><p>Three cases, each showing a car moving clockwise around a circular path of radius r.  Car A moves at constant speed v, Car B moves at constant speed 2v, and Car C moves at constant speed v around a circle of radius r/2.</p></description></image>
   </figure>
 			<task>
 			  <p>Sketch vectors for the instantaneous velocity for each point.</p>
@@ -143,7 +143,7 @@
 		      <corollary xml:id="vid-ca-mag">
 	<title>Centripetal Acceleration Magnitude</title>
 	<statement><p></p>
-		<video youtube="IdZoXXpjGpI"><description>Determining the magnitude of centripetal acceleration.</description></video>
+		<video youtube="IdZoXXpjGpI"><description><p>Determining the magnitude of centripetal acceleration.</p></description></video>
 	</statement>
   </corollary>
 	

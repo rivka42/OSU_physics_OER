@@ -13,7 +13,7 @@
 			
 		</p>
 
-		<video youtube="ZYcN0GEbOWA"><description>Introducing Coulomb's Law.</description></video>
+		<video youtube="ZYcN0GEbOWA"><description><p>Introducing Coulomb's Law.</p></description></video>
 
 	</statement>
   </corollary>
@@ -98,7 +98,7 @@ A consequence of these similarities is that many physical and mathematical tools
 			  <title>Three Charges Figure</title>
     		<caption>Three charges</caption>
     		<image source="three-charges.png" width = "70%" >
-				<description>Charge A (q) on the left, charge B (-q) in the middle, and charge C (2q) on the right, all separated by a distance d.</description>
+				<description><p>Charge A (q) on the left, charge B (-q) in the middle, and charge C (2q) on the right, all separated by a distance d.</p></description>
 			</image>
 		</figure>
 			</statement>
@@ -111,7 +111,7 @@ A consequence of these similarities is that many physical and mathematical tools
 			
 		</p>
 
-		<video youtube="XzjpnavhG14"><description>A solution to the Explanation: Three Charges activity.</description></video>
+		<video youtube="XzjpnavhG14"><description><p>A solution to the Explanation: Three Charges activity.</p></description></video>
 
 	</statement>
 </identity>

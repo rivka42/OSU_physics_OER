@@ -20,9 +20,9 @@
 			  <title>Infinite Sheet</title>
     		<caption>An infinitely charged sheet.</caption>
     		<image source="InfiniteSheet1.png" width = "70%" >
-				<description>
+				<description><p>
 					A representation of an infinite sheet as a parallelogram with a coordinate system on it, x to the right, y parallel to the other side of the parallelogram, and z perpendicular to the parallelogram.
-				</description>
+				</p></description>
 			</image>
 		</figure>
 			</answer>
@@ -51,9 +51,9 @@
 			  <title>Charged Sheet Figure</title>
     		<caption>An infinitely charged sheet with a Gaussian surface.</caption>
     		<image source="InfiniteSheet2.png" width = "70%" >
-				<description>
+				<description><p>
 					A representation of an infinite sheet as a parallelogram with a coordinate system on it, x to the right, y parallel to the other side of the parallelogram, and z perpendicular to the parallelogram.  Bottom left, a small cube with side length L, two sides shaded blue.
-				</description>
+				</p></description>
 			</image>
 		</figure>
 			</answer>
@@ -101,7 +101,7 @@
 			
 		</p>
 
-		<video youtube="jG--bz8xC-o"><description>Using Gauss's Law</description></video>
+		<video youtube="jG--bz8xC-o"><description><p>Using Gauss's Law</p></description></video>
 
 	</statement>
 </identity>

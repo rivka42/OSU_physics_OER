@@ -23,7 +23,7 @@
 			</p>
 			<figure xml:id="fig-loop-expand">
 				<caption>A circular wire loop in a uniform magnetic field.</caption>
-				<image source="Loop-Expand.png" width = "50%" ><description>A circular loop in a region with outward magnetic field.</description></image>
+				<image source="Loop-Expand.png" width = "50%" ><description><p>A circular loop in a region with outward magnetic field.</p></description></image>
 			</figure>
 			<p>
 				Determine the direction of the current induced in the loop using both Lenz's Law and the Lorentz Force law.

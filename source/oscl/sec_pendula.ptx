@@ -10,7 +10,7 @@
 			 <figure xml:id="fig_pendulum">
 <title>Pendulum Figure</title>
     	<caption>A simple pendulum.</caption>
-    		<image source="pendulum.png" width = "15%" ><description>A simple pendulum shown as a small circle at the end of the string of length L, displaced from vertical by an angle theta-i.</description></image>
+    		<image source="pendulum.png" width = "15%" ><description><p>A simple pendulum shown as a small circle at the end of the string of length L, displaced from vertical by an angle theta-i.</p></description></image>
     </figure>
 			
 		<subsubsection>
@@ -27,7 +27,7 @@
 			<figure xml:id="pendulumFBD">
 <title>Pendulum Free-body Diagram</title>
     	<caption>A free-body diagram for a simple pendulum.</caption>
-    		<image source="pendulumFBD.png" width = "15%" ><description>A free-body diagram for the pendulum, showing a downward Fg and a tension force FT that is up and to the left.</description></image>
+    		<image source="pendulumFBD.png" width = "15%" ><description><p>A free-body diagram for the pendulum, showing a downward Fg and a tension force FT that is up and to the left.</p></description></image>
     </figure>
 		</solution>
 		</task>
@@ -89,9 +89,9 @@
 
 		<!--
 		Old structure
-		<video youtube="F0zpSlY0u1E"><description>Introducing pendula.</description></video>
+		<video youtube="F0zpSlY0u1E"><description><p>Introducing pendula.</p></description></video>
 		<p>Follow the steps from the end of the video above to find an equation of motion for the simple pendulum.</p>
-		<video youtube="lWqItTPQ_po"><description>Describing the simple pendulum with simple harmonic motion.</description></video>
+		<video youtube="lWqItTPQ_po"><description><p>Describing the simple pendulum with simple harmonic motion.</p></description></video>
 
 		-->
 		
@@ -108,7 +108,7 @@ The string has length <m> L </m> and the mass is initially pulled out an angle <
 <figure xml:id="pendulum">
 <title>Simple Pendulum Figure</title>
     	<caption>A pictorial representation of a simple pendulum and an accompanying free-body diagram.</caption>
-    		<image source="oscillate/pend_FBD.png" width = "100%" ><description>Left: A simple pendulum shown as a small circle with mass m at the end of the string of length L, displaced from vertical by an angle theta.  Right: A free-body diagram for the pendulum, showing a downward Fg and a tension force FT that is up and to the left.  The net force is shown as the sum of the two forces, down and to the left.</description></image>
+    		<image source="oscillate/pend_FBD.png" width = "100%" ><description><p>Left: A simple pendulum shown as a small circle with mass m at the end of the string of length L, displaced from vertical by an angle theta.  Right: A free-body diagram for the pendulum, showing a downward Fg and a tension force FT that is up and to the left.  The net force is shown as the sum of the two forces, down and to the left.</p></description></image>
     </figure>
 
 <p>
@@ -121,10 +121,10 @@ Using torque analysis, first draw a pictorial representation of the situation an
  
 The gravitational torque <m> \tau = -Lmg\sin\theta(t)</m> is the torque about the pivot point, <m>I=mL^2 </m> is the moment of inertia of a point mass about the pivot point and <m>\alpha= \frac{d^2}{dt^2}\theta(t)</m> is the angular acceleration of the pendulum mass. Putting this all together and simplifying:
 
-<men xml:id="pendulumE">  mL^2 \frac{d^2}{dt^2}\theta(t) = -Lmg \sin\theta(t) </men>
+<md>  mL^2 \frac{d^2}{dt^2}\theta(t) = -Lmg \sin\theta(t) </md>
 
 
-<men xml:id="pendulumE2"> \frac{d^2}{dt^2}\theta(t)=-\frac{g}{L} \sin\theta(t) </men>
+<md> \frac{d^2}{dt^2}\theta(t)=-\frac{g}{L} \sin\theta(t) </md>
 
 This is the equation of motion for the pendulum in terms of the angular position as a function of time. 
 </p>
@@ -203,8 +203,8 @@ from this and your model of <xref ref="assumption-shm"/>, the oscillation freque
 
 <!-- 
 Other deprecated videos
-	<video youtube="X_WvF6Y5wYY"><description>Describing the small-angle approximation.</description></video>
-	<video youtube="t1StSWeYTO4"><description>Using the small-angle approximation for the simple pendulum.</description></video>
+	<video youtube="X_WvF6Y5wYY"><description><p>Describing the small-angle approximation.</p></description></video>
+	<video youtube="t1StSWeYTO4"><description><p>Using the small-angle approximation for the simple pendulum.</p></description></video>
 -->
 
 <references>

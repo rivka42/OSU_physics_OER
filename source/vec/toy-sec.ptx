@@ -7,16 +7,41 @@
 	<p>
 		This section has examples of all the pretext elements.
 	</p>
-</introduction> 
-
-<p> 
+	<p> 
 	This is what happens when you refer to another section.  <xref ref="tester"/>
 </p>
+</introduction>
+
+
+<subsection>
+	<title>Section Example</title>
+	
+
+<introduction>
+	<p>
+		
+	</p>
+	<p>
+		This is some text inside of the subsection.
+	</p>
+</introduction>
+
+
 		
 <subsubsection xml:id="subsec-Remark-like">
-	<title>Remark-like</title>
-	<subsubsection xml:id="subsubsec-">
-		<title>Subsubsection Example</title>
+	<title>Subsubsection Example</title>
+
+	<p>
+		This is some text inside of the subsubsection.
+	</p>
+
+	
+	<!--<title>Remark-like</title>-->
+
+	
+	<!--Suppressed for error control validation reasons
+	<subsubsection>
+		<title>Subsubsection inside a Subsubsection Example</title>
 		<remark>
 		<title>Remark</title>
 		<p>
@@ -24,6 +49,7 @@
 		</p>
 	</remark>
 	</subsubsection>
+	-->
 	
 	<convention>
 		<title>Convention</title>
@@ -131,9 +157,11 @@
 	<title>Theorem-like</title>
 	<theorem>
 		<title>Theorem</title>
+		<statement>
 		<p>
 			This is a Theorem.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
 		</p>
+	</statement>
 		<proof>
 			<p>
 				This is a proof inside a theorem.
@@ -188,39 +216,51 @@
 	<title>Axiom-like</title>
 	<axiom>
 		<title>Axiom</title>
-		<p>
-			This is an Axiom.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
-		</p>
+		<statement>
+			<p>
+				This is an Axiom.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+			</p>
+		</statement>
 	</axiom>
 	<conjecture>
 		<title>Representation</title>
-		<p>
-			This is a Representation (Conjecture).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
-		</p>
+		<statement>
+			<p>
+				This is a Representation (Conjecture).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+			</p>
+		</statement>
 	</conjecture>
 	<principle>
 		<title>Principle</title>
-		<p>
-			This is a Principle.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
-		</p>
+		<statement>
+			<p>
+				This is a Principle.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+			</p>
+		</statement>
 	</principle>
 	<heuristic>
 		<title>Sensemaking Strategy</title>
-		<p>
-			This is a Sensemaking Strategy (Heuristic).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
-		</p>
+		<statement>
+			<p>
+				This is a Sensemaking Strategy (Heuristic).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+			</p>
+		</statement>
 	</heuristic>
 	<hypothesis>
 		<title>Strategy</title>
-		<p>
-			This is a Notation (Hypothesis).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
-		</p>
+		<statement>
+			<p>
+				This is a Notation (Hypothesis).  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+			</p>
+		</statement>
 	</hypothesis>
 	<assumption>
 		<title>Assumption</title>
-		<p>
-			This is an Assumption.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
-		</p>
+		<statement>
+			<p>
+				This is an Assumption.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have proofs.
+			</p>
+		</statement>
 	</assumption>
 	
 </subsubsection>
@@ -229,9 +269,14 @@
 	<title>Definition-like</title>
 	<definition>
 		<title>Definition</title>
-		<p>
-			This is a Definition.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have hints, answers, and solutions.
-		</p>
+		<statement>
+			<p>
+				
+			</p>
+			<p>
+				This is a Definition.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.  You can have hints, answers, and solutions.
+			</p>
+		</statement>
 	</definition>
 </subsubsection>
 
@@ -291,6 +336,10 @@
 	</li>
 	</ol>
 	</objectives>
+	<p>
+		Outcomes also live here but were suppressed.
+	</p>
+	<!--
 	<outcomes>
 		<title>Outcomes</title>
 		<ol>
@@ -299,8 +348,9 @@
 			This is an Outcomes (Adapting Your Model).  Entries must be in a list.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
 		</p>
 	</li>
-</ol>
+	</ol>
 	</outcomes>
+	-->
 </subsubsection>
 
 <subsubsection xml:id="subsec-Other">
@@ -313,9 +363,9 @@
 	</assemblage>
 	<poem>
 		<title>Poem</title>
-		<p>
-			This is a Poem.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
-		</p>
+		<line>
+				This is a Poem.  Text can be <em>Em</em>, <alert>Alert</alert>, or <term>Term</term>.
+		</line>
 	</poem>
 	<exercise>
 		<title>Exercise</title>
@@ -324,6 +374,8 @@
 		</p>
 	</exercise>
 </subsubsection>
+
+</subsection>
 
 <!--NO AI-->
 </section>

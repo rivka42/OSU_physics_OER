@@ -21,11 +21,11 @@
 	</p>
 	<figure xml:id="fig_LRC2">
 					<caption>An LRC circuit diagram with a voltage source.</caption>
-					<image source="LRC2.png" width = "80%" ><description>A circuit with a battery, an open switch, a resistor, an inductor, and a capacitor in series.</description></image>
+					<image source="LRC2.png" width = "80%" ><description><p>A circuit with a battery, an open switch, a resistor, an inductor, and a capacitor in series.</p></description></image>
 				</figure>
 	<figure xml:id="fig_LRC-block">
 					<caption>A block on a spring with drag and pushing forces.</caption>
-					<image source="BlockSpring1.png" width = "80%" ><description>A block is connected to a spring, subject to a drag force and a pushing force.</description></image>
+					<image source="BlockSpring1.png" width = "80%" ><description><p>A block is connected to a spring, subject to a drag force and a pushing force.</p></description></image>
 				</figure>
 	</introduction>
 	<task>
@@ -104,7 +104,7 @@
 			<p>
 				Try building this circuit in the <q>RLC</q> tab of the <url href="https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_all.html">Circuits PhET simulation</url> to check your predictions.  Good numbers to try are given below.
 				<md>V_o = 25 \mathrm{~V}</md>
-				<md>R 3 \mathrm{~\Omega}</md>
+				<md>R = 3 \mathrm{~\Omega}</md>
 				<md>L = 5 \mathrm{~H}</md>
 				<md>C = 0.1 \mathrm{~F}</md>
 				<md>f = 0.5 \mathrm{~Hz}</md>

@@ -30,7 +30,7 @@
 <title>The Dot Product</title>
 <notation>
 		<usage><m>\vec{A} \cdot \vec{B} = AB \cos\theta</m></usage>
-	  <description>The dot product between two vectors represents the projection of one vector onto the other.</description>
+	  <description><p>The dot product between two vectors represents the projection of one vector onto the other.</p></description>
 	</notation>
 <statement>
 	<p>
@@ -45,7 +45,7 @@ where <m>\theta</m> is the angle between the vectors when placed tail-to-tail.</
 		<title>Dot Product Figure</title>
     	<caption>A representation of vectors A and B and the angle between them illustrating the dot product for two vectors.</caption>
     		<image source="vectors/vec_dot_product.png" width = "25%" >
-				<description>Vector A points up and to the right, tail-to-tail with vector B, which points to the right, with the angle theta between them.</description>
+				<description><p>Vector A points up and to the right, tail-to-tail with vector B, which points to the right, with the angle theta between them.</p></description>
 			</image>
     </figure>
     

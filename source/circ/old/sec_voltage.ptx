@@ -6,7 +6,7 @@
 		<figure xml:id="precircuit">
 			  <title>Circuit Figure</title>
 			<caption>A diagram of a complete circuit consisting of a square marked with three boxes (A, B, and C) on the left, upper, and right sides, respectively. A small dot below box A is marked as a starting point.</caption>
-			<image source="circ/PreCircuit.png" width = "50%" ><description>A diagram of a complete circuit consisting of a square marked with three boxes (A, B, and C) on the left, upper, and right sides, respectively. A small dot below box A is marked as a starting point.</description></image>
+			<image source="circ/PreCircuit.png" width = "50%" ><description><p>A diagram of a complete circuit consisting of a square marked with three boxes (A, B, and C) on the left, upper, and right sides, respectively. A small dot below box A is marked as a starting point.</p></description></image>
 		</figure>
 		<p>The image above shows a <term>complete circuit</term>: a continuous (unbroken) path of electrical conductors.</p>
 		<p>This circuit has three elements (lettered boxes) connected by wires (straight lines).  You do not know what each element is.</p>
@@ -25,7 +25,7 @@
 			
 		</p>
 
-		<video youtube="zpsPTBHeFT4"><description>Introduction to voltage.</description></video>
+		<video youtube="zpsPTBHeFT4"><description><p>Introduction to voltage.</p></description></video>
 
 	</statement>
   </corollary>

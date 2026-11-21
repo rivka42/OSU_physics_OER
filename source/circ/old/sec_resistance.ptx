@@ -11,7 +11,7 @@
 			
 		</p>
 
-		<video youtube="biz9jOu8Dm0"><description>Introducing resistance in circuits.</description></video>
+		<video youtube="biz9jOu8Dm0"><description><p>Introducing resistance in circuits.</p></description></video>
 
 	</statement>
   </corollary>
@@ -38,7 +38,7 @@
 			<figure xml:id="circuit1">
 			  <title>Circuit Diagram</title>
 				<caption>A circuit diagram consisting of a battery and three resistors. Resistors 1 and 2 are in series, and are both in parallel with Resistor 3.</caption>
-				<image source="circ/circuit-0.png" width = "50%" ><description>A circuit diagram consisting of a battery and three resistors. Resistors 1 and 2 are in series, and are both in parallel with Resistor 3.</description></image>
+				<image source="circ/circuit-0.png" width = "50%" ><description><p>A circuit diagram consisting of a battery and three resistors. Resistors 1 and 2 are in series, and are both in parallel with Resistor 3.</p></description></image>
 			</figure>
 		<investigation>
       <title>Current Prediction</title>

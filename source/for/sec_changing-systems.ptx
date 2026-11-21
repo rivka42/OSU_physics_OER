@@ -23,7 +23,7 @@
 			<title>Point of View Figure</title>
 			<caption></caption>
 			<image source="Lifting.png" width = "30%">
-				<description>A small green mentor with pointy ears sits on the back of an orange trainee.</description>
+				<description><p>A small green mentor with pointy ears sits on the back of an orange trainee.</p></description>
 			</image>
 		</figure>
 
@@ -112,7 +112,7 @@
 			  <figure xml:id="fig_rope-systems">
 			<caption>Two children on snowboards</caption>
 			<image source="rope-systems.png" width = "80%">
-				<description></description>
+				<description><p></p></description>
 			</image>
 		</figure>
 

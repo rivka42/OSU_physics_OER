@@ -13,7 +13,7 @@
 			<figure xml:id="rep_ref-frames">
 		 <caption>Two Cartesian reference frames, one moving to the right relative to the other.</caption>
 		<image source="Cartesian2.png" width = "70%">
-			<description>Two crossed axes with arrows on each end, the left one stationary and the right one moving with speed v to the right.</description></image>
+			<description><p>Two crossed axes with arrows on each end, the left one stationary and the right one moving with speed v to the right.</p></description></image>
   </figure>
 			</statement>
 </definition>
@@ -30,7 +30,7 @@
 			
 		</p>
 
-		<video youtube="sN-m5WkbMyI"><description>Introducing relative motion.</description></video>
+		<video youtube="sN-m5WkbMyI"><description><p>Introducing relative motion.</p></description></video>
 
 	</statement>
   </corollary>
@@ -54,7 +54,7 @@
 	<figure xml:id="mot_rel-mot-fig">
 		<caption>Motion in two different reference frames.</caption>
 	 <image source=".png"></image>
-		<description>{ADD ME}.</description>
+		<description><p>{ADD ME}.</p></description>
    </figure>
 	
 	-->
@@ -74,7 +74,7 @@
 			
 		</p>
 
-		<video youtube="BLuI118nhzc"><description>The Mythbusters test relative motion.</description></video>
+		<video youtube="BLuI118nhzc"><description><p>The Mythbusters test relative motion.</p></description></video>
 
 	</statement>
 </algorithm>

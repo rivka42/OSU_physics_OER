@@ -39,7 +39,7 @@
 		<figure xml:id="bar_magnet0">
 			<title>Bar Magnet Figure</title>
 				<caption>A bar magnet.</caption>
-				<image source="bar-magnet0.png" width = "50%" ><description>A bar magnet with N at the top and S at the bottom.</description></image>
+				<image source="bar-magnet0.png" width = "50%" ><description><p>A bar magnet with N at the top and S at the bottom.</p></description></image>
 			</figure>
 		<p>Suppose you want the magnet to begin rotating counterclockwise.  What direction should you put the magnetic field to achieve this effect?</p>
 			</statement>

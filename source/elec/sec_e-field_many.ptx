@@ -30,7 +30,7 @@ where <m> i </m> refers to the electric field from the <m>i^{\text{th}}</m> char
 		<title>Electric field of many charges</title>
     	<caption>A visualization of the electric field at a point in space due to multiple charges. </caption>
     		<image source="elec/Efield_many.png" width = "60%" >
-				<description>q1, 12, and q3, each with their own r-hat vector pointing toward point P, corresponding to three electric fields at point P.</description>
+				<description><p>q1, 12, and q3, each with their own r-hat vector pointing toward point P, corresponding to three electric fields at point P.</p></description>
 			</image>
     </figure>
 

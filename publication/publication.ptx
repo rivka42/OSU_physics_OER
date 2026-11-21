@@ -13,7 +13,7 @@
   <!-- stored or created.  Directories are relative to the main -->
   <!-- source PreTeXt file                                      -->
   <source>
-    <directories external="../assets" generated="../generated-assets"/>
+    
     <!--Choose whether to include the implementation or instructor notes-->
     <version include=""></version>
     <!--

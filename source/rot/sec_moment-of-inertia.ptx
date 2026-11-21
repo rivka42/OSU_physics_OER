@@ -11,7 +11,7 @@
 	<figure xml:id="rot_weights">
 			<title>Dog Weights Figure</title>
 		<image source="dog-weights.jpg" width = "75%">
-			<description>A golden retriever and two barbells, one with weights at the far ends and one with weights about halfway from the middle.</description></image>
+			<description><p>A golden retriever and two barbells, one with weights at the far ends and one with weights about halfway from the middle.</p></description></image>
   </figure>
 </introduction>
 			<task>
@@ -19,7 +19,7 @@
 			<p>Which weight, if either, do you think would be easier to twirl about its center. Explain why you think so.</p>
 				</statement>
 				<solution>
-						<video youtube="4aqlc_ygJPI"><description>An example of moment of inertia.</description></video>
+						<video youtube="4aqlc_ygJPI"><description><p>An example of moment of inertia.</p></description></video>
 				</solution>
 			</task>
 			

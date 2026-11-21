@@ -4,7 +4,7 @@
   	<title>Inductors</title>
 
 <!--		
-    <video youtube="qMJK_sjdUCw"><description>DESCRIPTION</description></video>
+    <video youtube="qMJK_sjdUCw"><description><p>DESCRIPTION</p></description></video>
 -->
 	
 	<definition xml:id="def_inductor">
@@ -34,7 +34,7 @@
 			<figure xml:id="x_fig_CD-L">
 			<title>Inductor Circuit Diagram</title>
     		<caption>The circuit diagram representation for an inductor.</caption>
-    		<image source="CD_L.png" width = "40%"><description>Left: a picture of a solenoid.  Right: a curling line representing an inductor in a circuit.</description></image>
+    		<image source="CD_L.png" width = "40%"><description><p>Left: a picture of a solenoid.  Right: a curling line representing an inductor in a circuit.</p></description></image>
 		</figure>
 		</statement>
 	</definition>

@@ -14,7 +14,7 @@
     <corollary xml:id="vid-ray-model">
 	<title>Ray Model</title>
 	<statement><p></p>
-		<video youtube="PEZG46lWKhQ"><description>Introducing the ray model for light.</description></video>
+		<video youtube="PEZG46lWKhQ"><description><p>Introducing the ray model for light.</p></description></video>
 	</statement>
   </corollary>
   <subsubsection><title>Key Ideas</title></subsubsection>
@@ -38,7 +38,7 @@
 			<title>Brick Figure</title>
 		 <caption>A ray diagram for a point source of light (such as a small light bulb or candle).  The orange dot represents the point source of light, and the arrows represent rays of light emanating in all directions.</caption>
 		<image source="point-source-ray-diagram.png" width = "50%">
-			<description>A small orange dot surrounded by eight outward pointing light rays going in all different directions.</description></image>
+			<description><p>A small orange dot surrounded by eight outward pointing light rays going in all different directions.</p></description></image>
   </figure>
 
                 
@@ -55,7 +55,7 @@
                 <p><figure xml:id="pinhole_camera">
 			<title>Pinhole Camera Figure</title>
                     <caption>A ray diagram of a pinhole camera. Light travels from the arrow to the back of the camera to create an image. </caption>
-                        <image source="optics/pinhole_camera.jpg" width = "90%" ><description>A green arrow, labelled as "Object", sits to the right of two screens.The screen closest to the object has a small hole in the center. Two rays travel from the head and tail of the arrow, through the hole, and end on the screen on the far left.</description></image>
+                        <image source="optics/pinhole_camera.jpg" width = "90%" ><description><p>A green arrow, labelled as "Object", sits to the right of two screens.The screen closest to the object has a small hole in the center. Two rays travel from the head and tail of the arrow, through the hole, and end on the screen on the far left.</p></description></image>
                 </figure></p>
                 <p>A pinhole camera, also called a camera obscura, is an optical phenomenon that occurs when light travels through a very small aperture. Using the figure above, where should you stand in order to see what is on the screen? What do you see on the screen? Find other examples of pinhole cameras online. What sort of observations can you make? Can you make a pinhole camera yourself?</p>
             </example>

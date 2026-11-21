@@ -16,7 +16,7 @@
     <corollary xml:id="vid-refraction">
 	<title>Law of Refraction</title>
 	<statement><p></p>
-		<video youtube="GYAAFz983jM"><description>Introducing the law of refraction.</description></video>
+		<video youtube="GYAAFz983jM"><description><p>Introducing the law of refraction.</p></description></video>
 	</statement>
   </corollary>
   <subsubsection><title>Key Ideas</title></subsubsection>
@@ -39,7 +39,7 @@
             <figure xml:id="refraction">
             <title>Refraction Figure</title>
             <caption>A diagram of the Law of Refraction.</caption>
-                <image source="optics/refraction.jpg" width = "90%" ><description>A blue box sits in the center of the diagram. A ray, labelled as "incident ray", extends from above the box and hits the top of the box at an angle theta sub 1. At that point, the ray is bent inside the box at an angle theta sub 2. This ray is labelled as "refracted ray". Outside of the box sits the label "n sub 1" and inside the box sits the label "n sub 2" to denote the indices of refraction of the two mediums.</description></image>
+                <image source="optics/refraction.jpg" width = "90%" ><description><p>A blue box sits in the center of the diagram. A ray, labelled as "incident ray", extends from above the box and hits the top of the box at an angle theta sub 1. At that point, the ray is bent inside the box at an angle theta sub 2. This ray is labelled as "refracted ray". Outside of the box sits the label "n sub 1" and inside the box sits the label "n sub 2" to denote the indices of refraction of the two mediums.</p></description></image>
         </figure></p>
         </statement>
     </principle>

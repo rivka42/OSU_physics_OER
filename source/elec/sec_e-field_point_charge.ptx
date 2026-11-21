@@ -13,7 +13,7 @@
 			
 		</p>
 
-		<video youtube="7R74AflPtso"><description>Introducing the electric field of a point charge.</description></video>
+		<video youtube="7R74AflPtso"><description><p>Introducing the electric field of a point charge.</p></description></video>
 
 	</statement>
   </corollary>
@@ -59,7 +59,7 @@
 		<title>Electric field of a single point charge</title>
     	<caption>A visualization of the symbols used to define the electric field of a single point charge. </caption>
     		<image source="elec/Efield_point.png" width = "60%" >
-				<description>A positive point charge a distance r from a point P, with the r-hat vector pointing from the charge to P and the electric field vector pointing in the same direction.</description>
+				<description><p>A positive point charge a distance r from a point P, with the r-hat vector pointing from the charge to P and the electric field vector pointing in the same direction.</p></description>
 			</image>
 </figure>
 			
@@ -119,7 +119,7 @@ The constant <m> \epsilon_{0} </m> (pronounced <q>epsilon naught</q>) is a const
 		A visualization of the electric field of a positive point charge.
 		</caption>
     		<image source="SourceE.png" width = "60%" >
-				<description>Electric field vectors pointing outward in all directions from a positive charge.</description>
+				<description><p>Electric field vectors pointing outward in all directions from a positive charge.</p></description>
 			</image>
 </figure>
 		</answer>

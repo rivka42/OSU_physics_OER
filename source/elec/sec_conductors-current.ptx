@@ -37,7 +37,7 @@
 		<figure xml:id="conductor2">
 			  <title>Conductor Figure</title>
 			<caption>A positive charge within a cavity in a conductor.</caption>
-			<image source="Conductor2.png" width = "50%" ><description>A square conductor with a small square cavity in the bottom right.  A positive point charge lies within the cavity.</description></image>
+			<image source="Conductor2.png" width = "50%" ><description><p>A square conductor with a small square cavity in the bottom right.  A positive point charge lies within the cavity.</p></description></image>
 		</figure>
 	</statement>
 		
@@ -55,7 +55,7 @@
 		<figure xml:id="Capacitor-Current">
 			  <title>Capacitor Figure 1</title>
 			<caption>A capacitor made of two conducting plates.</caption>
-			<image source="Capacitor-Current.png" width = "50%" ><description>A horizontal rectangle with point A on the left and D on the right below a second horizontal rectangle with point B on the left and C on the right.</description></image>
+			<image source="Capacitor-Current.png" width = "50%" ><description><p>A horizontal rectangle with point A on the left and D on the right below a second horizontal rectangle with point B on the left and C on the right.</p></description></image>
 		</figure>
 	</introduction>
 	<task>
@@ -108,7 +108,7 @@
 		<figure xml:id="Capacitor-Current3">
 			  <title>Capacitor Figure 3</title>
 			<caption>A capacitor made of two conducting plates, with a third conductor.</caption>
-			<image source="Capacitor-Current3.png" width = "50%" ><description>A horizontal rectangle with point A on the left and D on the right below a second horizontal rectangle with point B on the left and C on the right.  The upper rectangle has positive charge distributed horizontally and the lower rectangle has negative charge distributed horizontally.  A uniform downward electric field occupies the space between the rectangles.  A vertical rectangle connects points B and A.</description></image>
+			<image source="Capacitor-Current3.png" width = "50%" ><description><p>A horizontal rectangle with point A on the left and D on the right below a second horizontal rectangle with point B on the left and C on the right.  The upper rectangle has positive charge distributed horizontally and the lower rectangle has negative charge distributed horizontally.  A uniform downward electric field occupies the space between the rectangles.  A vertical rectangle connects points B and A.</p></description></image>
 		</figure>
 	</introduction>
 	<task>

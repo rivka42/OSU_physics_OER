@@ -38,7 +38,7 @@
 			<figure xml:id="fig_equipot-2">
 				<caption>Equipotential graph in the <m>xy</m>-plane.</caption>
 				<image source="elec/equipotential-graph-2.png" width = "100%" >
-					<description>An equipotential map with many concentric circles at the top and many ellipses at the bottom.  A, B, and C lie on the same nearly circular contour near the top, while C, D, and E lie in a straight line from top to bottom. </description>
+					<description><p>An equipotential map with many concentric circles at the top and many ellipses at the bottom.  A, B, and C lie on the same nearly circular contour near the top, while C, D, and E lie in a straight line from top to bottom. </p></description>
 				</image>
 			</figure>
 			<p>

@@ -20,7 +20,7 @@
 		<figure xml:id="x_fig_RL">
 			<title>LR Circuit Diagram</title>
     		<caption>A circuit with a battery, a resistor, and an inductor.</caption>
-    		<image source="LR-circuit1.png" width = "60%" ><description>A circuit diagram with a battery, open switch, resistor, and inductor in series.</description></image>
+    		<image source="LR-circuit1.png" width = "60%" ><description><p>A circuit diagram with a battery, open switch, resistor, and inductor in series.</p></description></image>
 		</figure>
 	</introduction>
 	<task>
@@ -118,7 +118,7 @@
 		<figure xml:id="x_fig_RL2">
 			<title>LR Circuit Diagram</title>
     		<caption>A switched LR circuit.</caption>
-    		<image source="LR-circuit2.png" width = "60%" ><description>A circuit diagram with a battery, open switch, resistor, and inductor in series.  A switch has been added, allowing a new branch with no battery (just an ideal wire) to replace the branch with the battery.</description></image>
+    		<image source="LR-circuit2.png" width = "60%" ><description><p>A circuit diagram with a battery, open switch, resistor, and inductor in series.  A switch has been added, allowing a new branch with no battery (just an ideal wire) to replace the branch with the battery.</p></description></image>
 		</figure>
 	<p>
 		After you flip the switch <em>down</em>:

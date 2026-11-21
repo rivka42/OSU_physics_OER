@@ -2,18 +2,23 @@
 
 <section xml:id="sec_electrodynamics" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Electrodynamics</title>
-
+	<introduction>
 	<p>
-		You have now studied nearly all of the fundamental ways in which electric and magnetic fields can be created, and how electric and magnetic fields impact the charges that make up the world.  Together, these equations, which are summarized below, constitute <alert>electrodynamics</alert>.
+		You have now studied nearly all of the fundamental ways in which electric and magnetic fields are created, and how they impact the charges that make up the world.  Together, these equations, which are summarized below, constitute <alert>electrodynamics</alert>.
 	</p>
+	</introduction>
+
+	<subsubsection>
+		<title>Key Ideas</title>
 
 	<principle xml:id="p_electrodynamics">
 		<title>Electrodynamics Equations</title>
+		<statement>
 		<p></p>
-	<sbsgroup widths="40% 40%" margins="5% 5%" valign="middle">
-		<sidebyside widths="89% 1%">
+	<sbsgroup widths="30% 50%" margins="5% 5%" valign="middle">
+		<sidebyside widths="80% 10%">
 			<p>
-				<alert>How Fields Are Created</alert>
+				<md>\textbf{How Fields Are Created}</md>
 			</p>
 			<p>
 				
@@ -43,17 +48,17 @@
 				</md>
 			</p>
 		</sidebyside>
-		<sidebyside widths="89% 1%">
+		<sidebyside widths="80% 10%">
 			<p>
-				<alert>How Fields Impact Charges</alert>
-				<md>\vec{F} = q\vec{E} + q\vec{v}\times\vec{B}</md>
+				<md>\textbf{How Fields Impact Charges}</md>
+				<md>\text{(v)~~} \vec{F} = q\vec{E} + q\vec{v}\times\vec{B}</md>
 			</p>
 			<p>
 				
 			</p>
 		</sidebyside>
 	</sbsgroup>
-
+	<p>
 	<ol marker="(i)">
 		<li>
 			<p>
@@ -75,16 +80,26 @@
 				<alert>Ampère's Law</alert> governs how <em>currents</em> (made of moving electric charges) create magnetic fields.  All other rules about the creation of magnetic fields by currents, such as the <xref ref="def_mag-current"/>, ultimately come from Ampère's Law.  Magnetic fields always circulate around the current, as shown in the <xref ref="x_fig_mag-full"/>.
 			</p>
 		</li>
+		<li>
+			<p>
+				<alert>The Lorentz Force Law</alert> governs the force on an electric charge by the electric and magnetic fields.
+			</p>
+		</li>
 	</ol>
+	</p>
+</statement>
 </principle>
+</subsubsection>
+
 
 	<subsubsection>
 		<title>Activities</title>
-		<activity>
+		<activity xml:id="x_electrodynamics">
       	<title>Electrodynamics Equations</title>
 		<statement>
 			<p></p>
-			<p>Consider the four equations above that govern the creation of electric and magnetic fields.</p>
+			<p>Answer the questions below about the four equations above that govern the creation of electric and magnetic fields.</p>
+			<p>
 			<ul>
 				<li>
 					<p>
@@ -107,6 +122,7 @@
 					</p>
 				</li>
 			</ul>
+			</p>
 		</statement>
 		</activity>
 	</subsubsection>

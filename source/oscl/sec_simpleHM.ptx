@@ -47,7 +47,7 @@
  <corollary xml:id="vid-oscillations">
 	<title>Oscillations</title>
 	<statement><p></p>
-		<video youtube="YBq2YvzK9MU"><description>Introducing oscillations.</description></video>
+		<video youtube="YBq2YvzK9MU"><description><p>Introducing oscillations.</p></description></video>
 	</statement>
   </corollary>
 
@@ -75,7 +75,7 @@
 <figure xml:id="pendulum_gif">
  <title>Pendulum Figure</title>
      	<caption>A simple pendulum oscillates around its equilibrium position.</caption>
-    		<image source="oscillate/pendulum.gif" width = "50%" ><description>A pendulum made of a small sphere at the end of a string swings back and forth.</description></image>
+    		<image source="oscillate/pendulum.gif" width = "50%" ><description><p>A pendulum made of a small sphere at the end of a string swings back and forth.</p></description></image>
     </figure>
 
 <p>

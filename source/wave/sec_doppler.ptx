@@ -12,12 +12,12 @@
 			</activity>
 		</subsubsection>
 
-		<video youtube="imoxDcn2Sgo"><description>A demonstration of the Doppler Effect.</description></video>
+		<video youtube="imoxDcn2Sgo"><description><p>A demonstration of the Doppler Effect.</p></description></video>
 		
       <corollary xml:id="vid-doppler">
 	<title>Doppler</title>
 	<statement><p></p>
-		<video youtube="W4DGHEMIqXk"><description>Introducing the Doppler Effect.</description></video>
+		<video youtube="W4DGHEMIqXk"><description><p>Introducing the Doppler Effect.</p></description></video>
 	</statement>
   </corollary>
   <subsubsection><title>Key Ideas</title></subsubsection>

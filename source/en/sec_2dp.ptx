@@ -90,7 +90,7 @@
 			<title>2D Collision Figure</title>
 		 <caption>Schematic of the collision.</caption>
 		<image source="2dcoll.png" width = "50%">
-			<description>Friend's truck velocity vector upward, other driver velocity vector to the right.  Skidmarks diagonally up and to the right 15 m.</description></image>
+			<description><p>Friend's truck velocity vector upward, other driver velocity vector to the right.  Skidmarks diagonally up and to the right 15 m.</p></description></image>
   </figure>
 				</li>
 			</ol>

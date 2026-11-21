@@ -3,6 +3,8 @@
 <section xml:id="sec_what-are-vectors" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Introduction to Vectors</title>
 
+  <introduction>
+
       <corollary xml:id="vid-vectors-scalars">
 	<title>Vectors vs. Scalars</title>
 	
@@ -12,16 +14,19 @@
 		</p>
 
 		<video youtube="5ucfHd8FWKw">
-        <description>MIT vectors vs. scalars.</description>
+        <title>MIT vectors vs. scalars.</title>
       </video>
 
 	  </statement>
   </corollary>
 
-    <subsubsection>
+</introduction>
+
+    <subsection>
 	<title>Key Ideas</title>
 	
-  </subsubsection>
+	
+
 			
 	<definition xml:id="def_vector">
 		<title>Vectors</title>
@@ -59,11 +64,13 @@ Suppose you have a vector <m>\vec{A}</m>. The  negative vector <m>-\vec{A}</m> h
     <figure xml:id="vec_neg_vec">
 		<title>Negative Vector Figure</title>
 	<caption>A representation of a vector and the negative of that vector as arrows.</caption>
-       	<image source="vectors/vec_neg_vec.png" width = "35%" ></image>
-		<description>
+       	<image source="vectors/vec_neg_vec.png" width = "35%" ><description><p>
 			The vector A points up and to the right; the vector negative A points down and to the left, with the same length.
-		</description>
+		</p></description></image>
+		
     </figure>
+
+	</subsection>
 
 	
 
@@ -87,7 +94,7 @@ Another, common example of a vector is <alert>velocity</alert>. Velocity is a qu
 </insight>
 -->
 
-		<subsubsection>
+		<subsection>
 		<title>Activities</title>
 		<activity xml:id="x_vectors-scalars">
 		<title>Explore Vectors and Scalars</title>
@@ -149,13 +156,22 @@ Another, common example of a vector is <alert>velocity</alert>. Velocity is a qu
 			</p>
 		</answer>
 		</activity>
-		</subsubsection>
+		</subsection>
 
 <references>
-<biblio xml:id="ref_mit-vectors1">
-<p>Vectors vs. Scalars by Dr. Michelle Tomasik from MIT 8.01 Classical Mechanics, Fall 2016, used under Creative Commons BY-NC-SA.</p>
+<biblio xml:id="ref_mit-vectors1" type="webpage">
+	<author>
+		<name>
+			<given>Michelle</given>
+			<family>Tomasik</family>
+		</name>
+	</author>
+	<title>Vectors vs. Scalars</title>
+	<event>MIT 8.01 Classical Mechanics, Fall 2016, used under Creative Commons BY-NC-SA</event>
 </biblio>
 </references>
+
+
 		
 <!--NO AI-->
 </section>
