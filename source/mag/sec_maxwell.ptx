@@ -7,6 +7,18 @@
 	<p>
 		You have now studied <alert>all</alert> of the ways in which electric and magnetic fields are created, and how they impact the charges that make up the world.  Together they are known as Maxwell's Equations and constitute all of <alert>electromagnetism</alert>.
 	</p>
+	<corollary xml:id="vid-maxwell">
+	<title>Electromagnetism (Maxwell's Equations)</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="fDbXBnqCHkU"><description><p>Summarizing the equations governing electromagnetism.</p></description></video>
+
+	</statement>
+  </corollary>
 	</introduction>
 
 		<subsubsection>
@@ -44,7 +56,7 @@
 			</p>
 			<p>
 				<md>
-					\text{(iv)~~} \oint_S \vec{B}\cdot d\vec{l} = \mu_0 I_{enclosed} + \mu_0 \epsilon_0 \frac{\partial \Phi_E}{\partial t}
+					\text{(iv)~~} \oint_S \vec{B}\cdot d\vec{l} = \mu_0 I_{enc} + \mu_0 \epsilon_0 \frac{\partial \Phi_E}{\partial t}
 				</md>
 			</p>
 		</sidebyside>

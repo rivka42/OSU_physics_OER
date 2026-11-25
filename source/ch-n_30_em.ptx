@@ -21,12 +21,17 @@
 	<!--PREPARE SECTIONS-->
 	<xi:include href="./mag/sec_displacement-current.ptx" />
 	<xi:include href="./mag/sec_maxwell.ptx" />
+
 	<xi:include href="./mag/sec_em-waves.ptx" />
+	<xi:include href="./mag/sec_em-waves-reps.ptx" />
+	<xi:include href="./mag/sec_polarization.ptx" />
 
     <!--PRACTICE SECTIONS-->
+	<xi:include href="./mag/sec_reference-frames.ptx" />
 	<xi:include href="./mag/sec_em-practice.ptx" />
 
     <!--CHALLENGE SECTIONS-->
+	<xi:include href="./mag/sec_rel-em.ptx" />
 	<xi:include href="./mag/sec_em-challenge.ptx" />
 
 

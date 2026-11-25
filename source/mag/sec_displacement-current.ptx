@@ -17,12 +17,12 @@
 					
 				</p>
 				<p>
-					The figure below shows a long, straight wire carrying current <m>I</m> to the right.  The dashed line represents an Amperean loop and the gray surface represents an open surface bounded by the loop.
+					The figure below shows a long, straight wire carrying current <m>I</m> to the right.  The dashed line represents an Amperian loop and the gray surface represents an open surface bounded by the loop.
 				</p>
 				<figure xml:id="fig_displacement1">
 				<title>Ampere-Current Diagram I</title>
-				<caption>An Amperean Loop and its corresponding surface.</caption>
-				<image source="Displacement1.png" width = "100%"><description><p>A wire carries current I to the right through a circular Amperean Loop and its corresponding circular shaded surface.</p></description></image>
+				<caption>An Amperian Loop and its corresponding surface.</caption>
+				<image source="Displacement1.png" width = "100%"><description><p>A wire carries current I to the right through a circular Amperian Loop and its corresponding circular shaded surface.</p></description></image>
 				</figure>
 		</introduction>
 		<task>
@@ -40,12 +40,12 @@
 		<task>
 			<statement>
 				<p>
-					The figure below shows the same wire and the same Amperean loop.  However, a different open surface has been drawn: a cylinder missing one of its endcaps.
+					The figure below shows the same wire and the same Amperian loop.  However, a different open surface has been drawn: a cylinder missing one of its endcaps.
 				</p>
 				<figure xml:id="fig_displacement2">
 				<title>Ampere-Current Diagram II</title>
-				<caption>An Amperean Loop and a different corresponding surface.</caption>
-				<image source="Displacement2.png" width = "100%"><description><p>A wire carries current I to the right through a circular Amperean Loop and a new shaded surface, this one a cylinder missing one endcap.</p></description></image>
+				<caption>An Amperian Loop and a different corresponding surface.</caption>
+				<image source="Displacement2.png" width = "100%"><description><p>A wire carries current I to the right through a circular Amperian Loop and a new shaded surface, this one a cylinder missing one endcap.</p></description></image>
 				</figure>
 				<p>
 					Explain why this surface is still an open surface and therefore a valid choice for the application of Ampère's Law.
@@ -84,12 +84,12 @@
 		<task>
 			<statement>
 				<p>
-					The figure below shows a similar wire that has been connected in a circuit to a parallel-plate capacitor.  As in the first figure, the dashed line represents an Amperean loop and the gray surface represents an open surface bounded by the loop. 
+					The figure below shows a similar wire that has been connected in a circuit to a parallel-plate capacitor.  As in the first figure, the dashed line represents an Amperian loop and the gray surface represents an open surface bounded by the loop. 
 				</p>
 				<figure xml:id="fig_displacement3">
 				<title>Ampere-Current Diagram III</title>
-				<caption>An Amperean Loop around a wire in a circuit with a capacitor.</caption>
-				<image source="Displacement3.png" width = "100%"><description><p>A wire carries current I to the right through a circular Amperean Loop and its corresponding circular shaded surface.  The wire continues to the right and reaches a capacitor.</p></description></image>
+				<caption>An Amperian Loop around a wire in a circuit with a capacitor.</caption>
+				<image source="Displacement3.png" width = "100%"><description><p>A wire carries current I to the right through a circular Amperian Loop and its corresponding circular shaded surface.  The wire continues to the right and reaches a capacitor.</p></description></image>
 				</figure>
 				<p>
 					Determine the current passing through the surface.
@@ -104,7 +104,7 @@
 		<task>
 			<statement>
 				<p>
-					Draw an open surface for the given Amperean loop through which the current <alert>does not</alert> flow.
+					Draw an open surface for the given Amperian loop through which the current <alert>does not</alert> flow.
 				</p>
 			</statement>
 		</task>
@@ -140,6 +140,19 @@
 			The second term in the <xref ref="def_maxwell-ampere"/> looks suspiciously like another current.  In fact, Maxwell called the quantity <m>I_d = \epsilon_0 \frac{\partial \Phi_E}{\partial t}</m> the <alert>displacement current</alert>, even though no real charge is flowing to create it.  Give a justification for this name by showing that it has units of current, even though it is not one.
 		</p>
 	</activity>
+
+	<corollary xml:id="vid-displacement-current">
+	<title>Displacement Current</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="uN5YEevT9VA"><description><p>Identifying displacement current.</p></description></video>
+
+	</statement>
+  </corollary>
 
 		</subsubsection>
 

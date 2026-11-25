@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_polarization" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>Polarization</title>
+
+	<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section and the previous section (<xref ref="sec_em-waves-reps"/>) were designed to be implemented in an interactive studio classroom, after students have completed the previous sections in the chapter.  They take about two hours.
+	</p>
+  </assemblage>
+
+  <subsubsection>
+	<title>Activities</title>
+
+<activity>
+	<title>Polarizers</title>
+	<introduction>
+		<p>
+	
+	</p>
+	<p>
+		A polarizer is a device that selectively blocks electromagnetic waves: only waves with an electric field in a single direction are able to pass through.
+	</p>
+
+	</introduction>
+	
+		<task>
+			<p>
+				Use a polarizer to inspect different sources of light in the room.
+			</p>
+			<p>
+				<ol>
+					<li>
+						<p>
+							How does what you see through the polarizer compare to what you can see without it?
+						</p>
+					</li>
+					<li>
+						<p>
+							Are there any sources of light that behave differently?  Check a variety of sources, including overhead lights and lights from different electronic screens
+						</p>
+					</li>
+				</ol>
+			</p>
+		</task>
+		<task>
+			<p>
+				Use two polarizers to inspect sources of light in the room.
+			</p>
+			<p>
+				<ol>
+					<li>
+						<p>
+							Make a list of your observations.
+						</p>
+					</li>
+					<li>
+						<p>
+							Arrange the polarizers so that no light is visible through them, and use your model for electromagnetic light to explain this observation.
+						</p>
+					</li>
+				</ol>
+			</p>
+		</task>
+		<task>
+			<p>
+				Use three polarizers to inspect sources of light in the room.  See if you can find a way to add a third polarizer to the two-polarizer setup in the previous question that will allow you to see something through the polarizers.  What do you think is happening?
+			</p>
+		</task>
+</activity>
+
+
+
+</subsubsection>
+
+	
+
+
+	
+	
+<!--NO AI-->
+</section>
+

@@ -85,7 +85,7 @@ Alternatively, you can graph the displacement of the medium over space at a sing
 Now, the quantity of note is the <em>distance</em> spanned from one crest of the wave to the next, or the <alert> wavelength </alert>, symbolized by <m> \lambda </m>.
 </p>
 
-<definition xml:id="def-wavelength">
+<definition xml:id="def_wavelength">
 	<title>Wavelength</title>
 	<statement>
 		<p>
@@ -97,7 +97,7 @@ Now, the quantity of note is the <em>distance</em> spanned from one crest of the
 	</statement>
 </definition>
 
-<definition xml:id="def-wavenumber">
+<definition xml:id="def_wavenumber">
 	<title>Wavenumber</title>
 	<statement>
 		<p>

@@ -48,7 +48,7 @@
 <title>Key Ideas</title>
 </subsubsection>
 
-<definition xml:id="def-wave">
+<definition xml:id="def_wave">
 	<title>Wave</title>
 	<statement>
 		<p>
@@ -56,6 +56,15 @@
 		</p>
 		<p>
 			A wave is a <alert>propagating disturbance from equilibrium.</alert>
+		</p>
+		<p>
+			The mathematics underlying wave behavior are governed by a differential equation known as the <alert>wave equation</alert>:
+			<md>
+					\frac{\partial^2 y}{\partial x^2} = \frac{1}{v^2} \frac{\partial^2 y}{\partial t^2}
+			</md>
+		</p>
+		<p>
+			In this equation, <m>x</m> is a spatial variable, <m>t</m> is time, <m>y</m> is a generalizable displacement, and <m>v</m> is the speed at which the wave propogates.
 		</p>
 	</statement>
   </definition>

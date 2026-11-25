@@ -12,18 +12,53 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
+		<subsubsection>
+		<title>Explanation Tasks</title>
+
+	<investigation>
+		<title>Plane Wave I</title>
+		<p>
+			
+		</p>
+		<p>
+			An electromagnetic plane wave with amplitude <m>\hat{y}</m> with wavelength <m>\lambda</m> is traveling through a vacuum in the positive <m>x</m>-direction.
+		</p>
+		<p>
+			Sketch and label a quantitatively accurate vector map showing both the electric and magnetic fields in the <m>xz</m>-plane at <m>t = 0</m>.  Indicate the direction of travel and the frequency.
+		</p>
+	</investigation>
+
+		</subsubsection>
 
 
+	<subsubsection>
+		<title>A*R*C*S Activities</title>
+	
+	<project>
+		<title>Plane Wave II</title>
+		<p>
+			
+		</p>
+		<p>
+			Consider the plane wave from the previous activity from the perspective of a different reference frame moving in the <m>+x</m>-direction at speed <m>v</m> relative to the original reference frame.
+		</p>
+		<p>
+			Find the electric and magnetic fields in the new reference frame.
+		</p>
+	</project>
+		
+</subsubsection>
 
 	<subsubsection>
 		<title>Metacognitive Reflection</title>
 		<activity>
-		<title>Electromagnetism</title>
+		<title>Inconsistencies</title>
 		
 		
-					<statement><p></p>
+			<statement>
+				<p></p>
 			<p>
-				
+				You have now observed multiple <em>inconsistencies</em> in physical laws, along with resolutions to these inconsistencies like the introduction of the displacement current or field transformations.  Briefly discuss the importance of identifying and resolving inconsistencies in science.
 			</p>
 		</statement>
 		</activity>

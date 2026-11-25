@@ -12,30 +12,66 @@
 	<m># \mathrm{~}</m>
 	<m> \mathrm{~}</m>
 	-->
-	<subsubsection>
-		<title>Explanation Practice</title>
-
-		</subsubsection>
-
-	<subsubsection>
-		<title>A*R*C*S Practice</title>
-
-		
-	</subsubsection>
 		
 	<subsubsection>
 		<title>Numerical Practice</title>
-  
+		<activity>
+			<title>Wave 1</title>
+			<p>
+				
+			</p>
+			<p>
+				The electric field of an electromagnetic wave traveling in vacuum is described by the following wave function:
+				<md>
+					\vec{E} = \left(5.00 \mathrm{~V/m}\right) \cos\left(kx - \left(6.00 \times 10^9 \mathrm{~1/s}\right)t + 0.40\right) \hat{y}
+				</md>
+			Here, <m>k</m> is the wavenumber, <m>x</m> is in m, and <m>t</m> is in s.  Find the following quantities:
+			<ol marker="a.">
+				<li>
+					<p>
+						amplitude
+					</p>
+				</li>
+				<li>
+					<p>
+						frequency
+					</p>
+				</li>
+				<li>
+					<p>
+						wavelength
+					</p>
+				</li>
+				<li>
+					<p>
+						the direction of travel
+					</p>
+				</li>
+				<li>
+					<p>
+						the associated magnetic field
+					</p>
+				</li>
+			</ol>
+			</p>
+		</activity>
+		<activity>
+			<title>Wave 2</title>
+			<p>
+				
+			</p>
+			<p>
+				A plane electromagnetic wave of frequency <m>20 \mathrm{~GHz}</m> moves in the positive <m>y</m>-axis direction such that its electric field is pointed along the <m>z</m>-axis. The amplitude of the electric field is <m>10 \mathrm{~V/m}</m>. The start of time is chosen so that at <m>t=0</m>, the electric field has a value  <m>10 \mathrm{~V/m}</m> at the origin. (a) Write the wave function that will describe the electric field wave. (b) Find the wave function that will describe the associated magnetic field wave.
+			</p>
+		</activity>
 		
 	</subsubsection>
 
-<!--
-	<references>
-		<biblio xml:id="ref_boxsand-mag">
-			<p>Practice activities provided by BoxSand: https://boxsand.physics.oregonstate.edu/welcome.</p>
-		</biblio>
-	</references>
-	-->
+<references>
+	<biblio xml:id="ref_openstax-em">
+	<p>Practice activities adapted from OpenStax: https://openstax.org/books/university-physics-volume-2/pages/16-problems.</p>
+	</biblio>
+</references>
 	
 <!--NO AI-->
 </section>

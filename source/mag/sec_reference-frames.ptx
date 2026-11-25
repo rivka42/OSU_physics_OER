@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_reference-frames" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>Changing Reference Frames</title>
+	<introduction>
+	
+	<p>
+		You previously learned in <xref ref="sec_relative-motion"/> that the laws of physics in one inertial reference frame should give the same physical predictions in all other intertial reference frames.  An inertial reference frame is one that is moving at <alert>constant speed</alert>.
+	</p>
+	</introduction>
+
+		
+
+	
+
+	<subsubsection>
+		<title>Activities</title>
+		<activity>
+      	<title>An Experiment with Fields</title>
+		<introduction>
+			<p>
+				
+			</p>
+			<p>
+				Suppose you have a laboratory located in an inertial reference frame (the lab frame).  In this frame, you have the ability to turn on uniform electric and magnetic fields of your choice.  Initially, you have the magnetic field in the negative <m>y</m>-direction (into the screen).  A positive test charge moves to the right with speed <m>v</m>.
+			</p>
+			<figure xml:id="fig_EM-Ref0">
+			<title>Reference Frames Figure 0</title>
+			<caption>A moving charge in a magnetic field.</caption>
+			<image source="EM-Ref0.png" width = "50%"><description><p>A 3D Cartesian coordinate system with z to the right, x upward, and y out of the page.  B points in the negative y direction and a +q charge is moving in the positive z direction with speed v.</p></description></image>
+			</figure>
+		</introduction>
+		<task>
+			<statement>
+				<p>
+					Determine the direction of the magnetic force on the test charge.
+				</p>
+			</statement>
+			<solution>
+				<p>
+					Using the <xref ref="def_lorentz-force"/> and the right hand rule, the magnetic force is upward, in the positive <m>x</m>-direction.
+				</p>
+			</solution>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Suppose you now turn on the electric field so that the <em>net force</em> on the charge were equal to zero.  Indicate the direction and magnitude of the electric field necessary.
+				</p>
+			</statement>
+			<solution>
+				<p>
+					The magnetic force is upward, so the electric force must be in the negative <m>x</m>-direction (downward), and the electric field will point in the same direction as the force for a positive charge.  The magnitude of the field would be <m>E = Bv</m>.
+				</p>
+				<figure xml:id="fig_EM-Ref1">
+			<title>Reference Frames Figure 1</title>
+			<caption>A moving charge in an electric and magnetic field.</caption>
+			<image source="EM-Ref1.png" width = "50%"><description><p>A 3D Cartesian coordinate system with z to the right, x upward, and y out of the page.  E points in the positive x direction, B points in the negative y direction, and a +q charge is moving in the positive z direction with speed v.</p></description></image>
+			</figure>
+			</solution>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Now consider the situation from the reference frame of the moving charge (the charge frame), continuing to assume a magnetic field in the negative <m>y</m>-direction (into the screen) and an electric field in the negative <m>x</m>-direction (downward).
+				</p>
+				<figure xml:id="fig_EM-Ref2">
+			<title>Reference Frames Figure 2</title>
+			<caption>A stationary charge in an electric and magnetic field.</caption>
+			<image source="EM-Ref2.png" width = "50%"><description><p>A 3D Cartesian coordinate system with z to the right, x upward, and y out of the page.  E points in the positive x direction, B points in the negative y direction, and a +q charge is stationary.</p></description></image>
+			</figure>
+			<p>
+				Determine the direction of the net force on the point charge in the charge frame.
+			</p>
+			</statement>
+			<solution>
+				<p>
+					The electric force is still downward, in the direction of the electric field for a positive charge, but since the charge is not moving in this reference frame, the magnetic force is now zero.
+				</p>
+			</solution>
+		</task>
+		<task>
+			<statement>
+				<p>
+					Based on your analysis above, the net force on the charge is <alert>different</alert> in the two reference frames, which is inconsistent with the laws of physics.  How do you think this inconsistency could be resolved?
+				</p>
+			</statement>
+			<solution>
+				<p>
+					If you believe the <xref ref="def_lorentz-force"/>, then the force due to the magnetic field must be zero.  This leaves only the electric field able to act a force, only you know from the lab frame that the net force must be zero!  This suggests that the electric field in the <em>charge frame</em> is <alert>different</alert> from the electric field in the <em>lab frame</em>.  In this particular example, since the force is zero, the electric field in the lab frame should also be zero!
+				</p>
+			</solution>
+		</task>
+		</activity>
+
+	<assumption xml:id="assumption-field-transformation">
+		<title>Galilean Field Transformation</title>
+		
+		
+		<statement>
+			<p></p>
+			<p>
+				When the electric and magnetic fields in inertial reference frame 1 are known, they <alert>transform</alert> into different electric and magnetic fields in inertial reference frame 2 that is moving with velocity <m>\vec{v}_{21}</m> relative to frame 1:
+				<md>
+					\vec{E}_2 = \vec{E}_1 + \vec{v}_{21} \times \vec{B}_1
+				</md>
+				<md>
+					\vec{B}_2 = \vec{B}_1 - \frac{1}{c^2} \vec{v}_{21} \times \vec{E}_1
+				</md>
+			</p>
+			<p>
+				These equations allow you to use known fields in frame 1 (<m>\vec{E}_1</m> and <m>\vec{B}_1</m>) to find transformed fields in frame 2 (<m>\vec{E}_2</m> and <m>\vec{B}_2</m>).  They are valid under the assumption that the relative speed is much less than the speed of light: <m>v \ll c</m>.
+			</p>
+		</statement>
+	</assumption>
+
+	</subsubsection>
+
+	
+	
+	
+<!--NO AI-->
+</section>
+

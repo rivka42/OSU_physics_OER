@@ -6,8 +6,9 @@
 <assemblage component="implementation">
   <title>Implementation Notes</title>
   <p>
-	The activities in this section were designed to be implemented in a classroom, after students have completed:
+	The activities in this section were designed to be implemented in a 50-minute classroom, after students have completed:
 	</p>
+	<p>
 	<ul>
 		<li>
 			<p>
@@ -25,6 +26,7 @@
 			</p>
 		</li>
 	</ul>
+	</p>
   </assemblage>
 
   <subsubsection>

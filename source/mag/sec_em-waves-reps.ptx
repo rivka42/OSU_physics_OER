@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_em-waves-reps" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>Representing Electromagnetic Waves</title>
+
+	<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section and the next section (<xref ref="sec_polarization"/>) were designed to be implemented in an interactive studio classroom, after students have completed the previous sections in the chapter.  They take about two hours.
+	</p>
+  </assemblage>
+
+	<p>
+		
+	</p>
+
+<subsubsection>
+	<title>Activities</title>
+
+
+<activity>
+	<title>Representing EM Plane Waves</title>
+	<introduction>
+		<p>
+	
+	</p>
+	<p>
+		You have previously seen the equations for an <xref ref="a_plane-waves"/>.
+	</p>
+
+	</introduction>
+	
+		<task>
+			<p>
+				On a whiteboard, make a vector map of the electric field between <m>z=0</m> and <m>z=2\lambda</m> at <m>t = 0</m>, <m>x = 0</m>, and <m>y = 0</m>.
+			</p>
+			<p>
+				<ol>
+					<li>
+						<p>
+							Label the amplitude and the wavelength on your map.
+						</p>
+					</li>
+					<li>
+						<p>
+							Demonstrate how the wave would evolve in time.
+						</p>
+					</li>
+					<li>
+						<p>
+							What would be different about a vector map of the magnetic field?  What would be the same?
+						</p>
+					</li>
+				</ol>
+			</p>
+		</task>
+		<task>
+			<p>
+				On a whiteboard, make a vector map of the electric field between <m>x=0</m> and <m>x=2\lambda</m> at <m>t = 0</m>, <m>y = 0</m>, and <m>z = 0</m>.
+			</p>
+			<p>
+				<ol>
+					<li>
+						<p>
+							Is it possible to label the wavelength on this map?
+						</p>
+					</li>
+					<li>
+						<p>
+							What would be different if you were to make a vector map between <m>y=0</m> and <m>y=2\lambda</m>?
+						</p>
+					</li>
+				</ol>
+			</p>
+		</task>
+</activity>
+
+<activity>
+	<title>Graphing EM Plane Waves</title>
+	<introduction>
+		<p>
+	
+	</p>
+	<p>
+		Observe the common <xref ref="fig_EMWave"/>.
+	</p>
+
+	</introduction>
+	
+		<task>
+			<p>
+				Do the vector maps you have created agree with this diagram?
+			</p>
+			<p>
+				<ol>
+					<li>
+						<p>
+							What features of a plane wave are hard to identify in this representation?
+						</p>
+					</li>
+					<li>
+						<p>
+							Confirm that this is a transverse wave moving in the direction given by <m>\vec{E} \times \vec{B}</m>.
+
+						</p>
+					</li>
+					<li>
+						<p>
+							Sketch another wave that moves in the same direction but that has an electric field perpendicular to the one in the figure.
+						</p>
+					</li>
+				</ol>
+			</p>
+		</task>
+		<task>
+			<p>
+				Sketch two electromagnetic plane waves with different wavelengths, one above the other.
+			</p>
+			<p>
+				<ol>
+					<li>
+						<p>
+							Write an equation relating wavelength and frequency.
+						</p>
+					</li>
+					<li>
+						<p>
+							What does this equation tell you about the behavior of your two waves as time evolves?
+						</p>
+					</li>
+				</ol>
+			</p>
+		</task>
+		<task>
+			<p>
+				Sketch two electromagnetic plane waves with different amplitudes, one above the other.  What would waves with different amplitudes look like at points not on the z-axis?
+			</p>
+		</task>
+</activity>
+
+<activity>
+	<title>Wave Detector</title>
+	<introduction>
+		<p>
+	
+	</p>
+	<p>
+		Shown below is a light bulb connected to straight wires that you would like to use to detect an electromagnetic wave.  Suppose it is placed to the right of a wave like the one in the <xref ref="fig_EMWave"/>.
+	</p>
+				<figure xml:id="fig_EMWave-bulb">
+				<title>Light Bulb Plane Wave Diagram</title>
+				<caption>A light bulb connected to straight wires.</caption>
+				<image source="Bulb-Antenna.png" width = "15%"><description><p>An angled light bulb with a wire coming off each end.</p></description></image>
+				</figure>
+
+	</introduction>
+	
+		<task>
+			<p>
+				Describe whether or not the force on the charges in the wire due to the passing wave will cause current to flow through the light bulb for each of the following:
+			</p>
+			<p>
+				<ol>
+					<li>
+						<p>
+							The wire is oriented parallel to the direction of travel.
+						</p>
+					</li>
+					<li>
+						<p>
+							The wire is oriented parallel to the electric field.
+						</p>
+					</li>
+					<li>
+						<p>
+							The wire is oriented parallel to the magnetic field.
+						</p>
+					</li>
+				</ol>
+			</p>
+		</task>
+		<task>
+			<p>
+				Which orientation of the wire is best?  What kind of current do you observe in this case?
+			</p>
+		</task>
+		<task>
+			<p>
+				Suppose you want to create a device that will detect electromagnetic waves even if you do not know the direction of travel or the direction of the fields: discuss the practical considerations of such a device.  Make a list of real-world devices that can measure electromagnetic waves.
+			</p>
+		</task>
+</activity>
+	
+  </subsubsection>
+	
+<!--NO AI-->
+</section>
+

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec_rel-em" xmlns:xi="http://www.w3.org/2001/XInclude">
+  	<title>Relativistic Electromagnetism</title>
+
+	<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section were designed to be implemented in a 1-hour interactive classroom, after students have completed the rest of the chapter.
+	</p>
+  </assemblage>
+
+
+
+<activity>
+	<title>Warm-up</title>
+	<statement>
+		<p></p>
+	<p>
+		The figure shows the same situation in two different inertial reference frames.
+	</p>
+	<figure xml:id="fig_EM-Ref3">
+			<title>Reference Frames Figure 3</title>
+			<caption>A charge and its field in two different reference frames.</caption>
+			<image source="EM-Ref3.png" width = "50%"><description><p>Above: a stationary point charge creates an electric field at a point a distance r above it.  Below: the same point charge, now moving to the left in a moving reference frame, also makes a magnetic field into the screen.</p></description></image>
+			</figure>
+	<p>
+		In each frame, write equations for the electric and magnetic fields at the marked point.
+	</p>
+</statement>
+</activity>
+
+<activity>
+	<title>Warm-up</title>
+	<statement>
+		<p></p>
+	<p>
+		The figure at right shows the same situation in two different inertial reference frames.
+	</p>
+	<figure xml:id="fig_EM-Ref4">
+			<title>Reference Frames Figure 4</title>
+			<caption>Two charges in two different reference frames.</caption>
+			<image source="EM-Ref4.png" width = "50%"><description><p>Above: two vertically separated point charges move with speed v to the right.  Below: the same point charges are now stationary in a frame that moves to the right.</p></description></image>
+			</figure>
+	<p>
+		In each frame, write equations for the electric and magnetic fields at the marked point.
+	</p>
+	<p>
+		Compare the magnitudes of the forces between the charges in the two reference frames.
+	</p>
+</statement>
+</activity>
+
+	
+	
+
+<!--NO AI-->
+</section>
+

@@ -45,7 +45,7 @@
 				</p>
 				<figure xml:id="fig_sheet-ampere2">
 			<title>Current Sheet Figure</title>
-				<caption>A conducting sheet with an Amperean Loop.</caption>
+				<caption>A conducting sheet with an Amperian Loop.</caption>
 				<image source="Ampere2.png" width = "40%" ><description><p>A vertical collection of currents pointing out of the screen.  Purple arrows designate the magnetic field: upward on the right side of the sheet, downward on the left side of the sheet.  A blue rectangle with counterclockwise arrows indicates a loop.</p></description></image>
 			</figure>
 			</solution>

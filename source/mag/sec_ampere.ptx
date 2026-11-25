@@ -25,7 +25,7 @@
 				
 			</p>
 			<p><term>Ampère's Law</term> relates the magnetic field around a closed curve to the current passing through the region bounded by the curve: 
-			<md>\oint_S \vec{B}\cdot d\vec{l} = \mu_0 I_{enclosed}</md></p>
+			<md>\oint_S \vec{B}\cdot d\vec{l} = \mu_0 I_{enc}</md></p>
 			<p>
 				This is a line integral, like the integral for <xref ref="e_to_v"/>. The circle over the integral symbol indicates that this is an integral over a <em>closed path</em>: when this is true, the line integral is known as the <term>circulation</term> of the magnetic field.
 			</p>

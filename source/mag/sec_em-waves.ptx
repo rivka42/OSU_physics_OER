@@ -3,11 +3,131 @@
 <section xml:id="sec_em-waves" xmlns:xi="http://www.w3.org/2001/XInclude">
   	<title>Electromagnetic Waves</title>
 
+	<assemblage component="implementation">
+  <title>Implementation Notes</title>
+  <p>
+	The activities in this section were designed to be implemented in a 50-minute classroom, after students have completed the previous sections in the chapter.
+	</p>
+  </assemblage>
 
+  <subsubsection>
+	<title>Activities</title>
+	
+	<activity>
+	<title>Electromagnetism in a Vacuum</title>
+	<introduction>
+		<p>
+	
+	</p>
+	<p>
+		Suppose you want to find out what sort of electric and magnetic fields could exist in a vacuum (no matter, no charges, no currents).
+	</p>
+	<p>
+		For the sake of argument, assume <m>E</m> points only in the <m>x</m>-direction and <m>B</m> points only in the <m>y</m>-direction, as in the figure below.  You want to know how <m>E</m> and <m>B</m> change in space and time!
+	</p>
 
+	<figure xml:id="fig_EMWave0">
+	<title>EM Vacuum Figure 0</title>
+	<caption>Ex and By.</caption>
+	<image source="EMWave0.png" width = "50%"><description><p>A 3D Cartesian coordinate system with z to the right, x upward, and y out of the page.  E points in the x direction and B points in the y direction.</p></description></image>
+	</figure>
 
-
-
+	</introduction>
+	
+		<task><statement>
+			<p>
+				Use Gauss's Law to argue that <m>E_{top} = E_{bottom}</m> for the cube in the figure below (assume it has side length <m>s</m>).
+			</p>
+			<figure xml:id="fig_EMWave1">
+			<title>EM Vacuum Figure 1</title>
+			<caption>A cube for using Gauss's Law.</caption>
+			<image source="EMWave1.png" width = "50%"><description><p>A 3D Cartesian coordinate system with z to the right, x upward, and y out of the page.  On a cubical surface, Etop points up at the top of the cube and Ebottom points up at the bottom of the cube.</p></description></image>
+			</figure>
+		</statement></task>
+		<task><statement>
+			<p>
+				Use Gauss's Law to argue that <m>B_{back} = B_{front}</m> for the cube in the figure below (assume it has side length <m>s</m>).
+			</p>
+			<figure xml:id="fig_EMWave2">
+			<title>EM Vacuum Figure 2</title>
+			<caption>A cube for using Gauss's Law.</caption>
+			<image source="EMWave2.png" width = "50%"><description><p>A 3D Cartesian coordinate system with z to the right, x upward, and y out of the page.  On a cubical surface, Bback points out at the back of the cube and Bfront points out at the front of the cube.</p></description></image>
+			</figure>
+		</statement>
+		<solution>
+			<p>
+				<md>
+					E_{right}s - E_{left}s = -s^2 \frac{\partial B}{\partial t}
+				</md>
+				<md>
+					\frac{E_{right} - E_{left}}{s} = - \frac{\partial B}{\partial t}
+				</md>
+				<md>
+					\frac{\partial E_x}{\partial z} = - \frac{\partial B_y}{\partial t}
+				</md>
+				The last step is made by assuming the size of the cube <m>s \rightarrow dz</m> is infinitesimal.
+			</p>
+		</solution>
+		</task>
+		<task><statement>
+			<p>
+				Use Faraday's Law to relate the electric fields to the magnetic field for the highlighted loop in the figure below (assume it has side length <m>s</m>).
+			</p>
+			<figure xml:id="fig_EMWave3">
+			<title>EM Vacuum Figure 3</title>
+			<caption>A cube for using Faraday's Law.</caption>
+			<image source="EMWave3.png" width = "50%"><description><p>A 3D Cartesian coordinate system with z to the right, x upward, and y out of the page.  The front face of a cubical surface is highlighted, with B pointing outward, Eleft pointing upward along the left edge, and Eright pointing downward along the right edge.</p></description></image>
+			</figure>
+		</statement>
+		<solution>
+			<p>
+				<md>
+					B_{left}s - B_{right}s = \mu_0 \epsilon_0 s^2 \frac{\partial E}{\partial t}
+				</md>
+				<md>
+					\frac{B_{left} - B_{right}}{s} = \mu_0 \epsilon_0 \frac{\partial E}{\partial t}
+				</md>
+				<md>
+					- \frac{\partial B_y}{\partial z} = \mu_0 \epsilon_0 \frac{\partial E_x}{\partial t}
+				</md>
+				The last step is made by assuming the size of the cube <m>s \rightarrow dz</m> is infinitesimal.
+			</p>
+		</solution>
+		</task>
+		<task><statement>
+			<p>
+				Use the Ampere-Maxwell Law to relate the magnetic fields to the electric field for the highlighted loop in the figure below (assume it has side length <m>s</m>).
+			</p>
+			<figure xml:id="fig_EMWave4">
+			<title>EM Vacuum Figure 4</title>
+			<caption>A cube for using the Ampère-Maxwell Law.</caption>
+			<image source="EMWave4.png" width = "50%"><description><p>A 3D Cartesian coordinate system with z to the right, x upward, and y out of the page.  The top face of a cubical surface is highlighted, with E pointing upward, Bleft pointing outward along the left edge, and Bright pointing outward along the right edge.</p></description></image>
+			</figure>
+		</statement></task>
+		<task><statement>
+			<p>
+				Combining the above results gives the following equation:
+				<md>
+					\frac{\partial^2 E_x}{\partial z^2} = \mu_0 \epsilon_0 \frac{\partial^2 E_x}{\partial t^2}
+				</md>
+				This is a <xref ref="def_wave"/> equation!  Use this to calculate the speed of an electromagnetic wave.
+			</p>
+		</statement>
+	<solution>
+		<p>
+			<md>
+				\epsilon_{0} = 8.85 \times 10^{-12} \frac{\mathrm{C^2}}{\mathrm{Nm^2}}
+			</md>
+			<md>
+				\mu_0 = 4\pi \times 10^{-7} \mathrm{~\frac{Tm}{A}}
+			</md>
+			<md>
+				c = \frac{1}{\sqrt{\mu_0\epsilon_0}} \approx 3 \times 10^8 \mathrm{~m/s}
+			</md>
+			
+		</p>
+	</solution></task>
+</activity>
 
 	<assumption xml:id="a_plane-waves">
 		<title>Electromagnetic Plane Wave</title>
@@ -16,7 +136,7 @@
 				
 			</p>
 			<p>
-				An <alert>electromagnetic plane wave</alert> is a sinusoidal traveling wave describing changes in the electric and magnetic fields.  The example wave below is traveling in the positive <m>x</m>-direction.
+				An <alert>electromagnetic plane wave</alert> is a sinusoidal traveling wave in which the electric and magnetic fields oscillate in time and space.  The example wave below is traveling in the positive <m>z</m>-direction.
 				<md>
 					\vec{E}(x, y, z, t) = \left( E_o \hat{x} \right) \cos\left(\frac{2\pi}{\lambda}z - 2\pi ft + \phi_i\right)
 				</md>
@@ -46,11 +166,24 @@
 					</p>
 				</li>
 			</ul>
+			<figure xml:id="fig_EMWave">
+				<title>Electromagnetic Plane Wave Diagram</title>
+				<caption>The plane wave solution of Maxwell's equations has the B field directly proportional to the <m>E</m> field at each point, with the relative directions shown.</caption>
+				<image source="EMWave.png" width = "100%"><description><p>Figure shows the positive x direction as the direction of propagation. The positive y direction is labeled electric field and the positive z direction is labeled magnetic field. A sine wave in the xy plane is labeled E. The electric field arrows have their bases on the x axis and their tips on wave E. Another sine wave labeled B is in the xz plane. The magnetic field arrows have their bases on the x axis and their tips on wave B. Waves E and B have the same wavelength and are in phase with each other.</p></description></image>
+				</figure>
 		</statement>
 	</assumption>
 
 
-	
+	<references>
+		<biblio>
+			<p>
+				EM Wave Figure from <url href="https://openstax.org/books/university-physics-volume-2/pages/16-2-plane-electromagnetic-waves">University Physics Volume 2</url>. OpenStax.
+			</p>
+		</biblio>
+	</references>
+
+</subsubsection>
 	
 <!--NO AI-->
 </section>

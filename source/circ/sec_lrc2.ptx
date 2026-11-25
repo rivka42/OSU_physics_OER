@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec_lrc2" xmlns:xi="http://www.w3.org/2001/XInclude">
-  	<title>LRC Circuits</title>
+  	<title>RLC Circuits</title>
 
 	<assemblage component="implementation">
   <title>Implementation Notes</title>
@@ -20,7 +20,7 @@
 		The two situations shown below can be modeled using the same mathematics!
 	</p>
 	<figure xml:id="fig_LRC2">
-					<caption>An LRC circuit diagram with a voltage source.</caption>
+					<caption>An RLC circuit diagram with a voltage source.</caption>
 					<image source="LRC2.png" width = "80%" ><description><p>A circuit with a battery, an open switch, a resistor, an inductor, and a capacitor in series.</p></description></image>
 				</figure>
 	<figure xml:id="fig_LRC-block">
@@ -36,7 +36,7 @@
 		</statement>
 		<solution>
 		<p>
-		The two situations can be analogized by writing parallel equations using the Law of Motion for the block on a spring and the Loop Rule for the LRC circuit:
+		The two situations can be analogized by writing parallel equations using the Law of Motion for the block on a spring and the Loop Rule for the RLC circuit:
 		<md>F - kx - bv - ma = 0</md>
 		<md>F - kx - b\frac{dx}{dt} - m\frac{d^2x}{dt^2} = 0</md>
 		<md>V - \frac{Q}{C} - IR - L\frac{dI}{dt} = 0</md>
@@ -63,24 +63,24 @@
 				Replacing each quantity in the equations above with the circuits analogy gives the following:
 			</p>
 			<assumption xml:id="assumption-lrc">
-  <title>LRC Circuit</title>
+  <title>RLC Circuit</title>
     <statement>
     <p>
     </p>
     <p>
-      The charge on a capacitor in an LRC circuit is given by
+      The charge on a capacitor in an RLC circuit is given by
 
-	  <md> Q(t) = Q_{\text{max}} e^{-Rt/2L} \cos{(\omega_{LRC} t + \phi_o)}</md>
+	  <md> Q(t) = Q_{\text{max}} e^{-Rt/2L} \cos{(\omega_{RLC} t + \phi_o)}</md>
       
 		The oscillation frequency is given by the following expression.
 
-		<md> \omega_{LRC} = \sqrt{\frac{1}{LC} - \frac{R^2}{4L^2}}</md>
+		<md> \omega_{RLC} = \sqrt{\frac{1}{LC} - \frac{R^2}{4L^2}}</md>
 
-		Note that <m>\omega_{LRC}</m> is only valid when <m>\frac{1}{LC} \gt \frac{R^2}{4L^2}</m>.
+		Note that <m>\omega_{RLC}</m> is only valid when <m>\frac{1}{LC} \gt \frac{R^2}{4L^2}</m>.
     </p>
     <p>
 		The current may be found by taking a derivative, though it is convenient to rewrite it in terms of a different phase angle:
-		<md> I(t) = I_{\text{max}} \cos{(\omega_{LRC} t + \phi_I)}</md>
+		<md> I(t) = I_{\text{max}} \cos{(\omega_{RLC} t + \phi_I)}</md>
     </p>
   </statement>
 </assumption>

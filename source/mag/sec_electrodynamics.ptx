@@ -6,6 +6,19 @@
 	<p>
 		You have now studied nearly all of the fundamental ways in which electric and magnetic fields are created, and how they impact the charges that make up the world.  Together, these equations, which are summarized below, constitute <alert>electrodynamics</alert>.
 	</p>
+
+	<corollary xml:id="vid-electrodynamics">
+	<title>Electrodynamics</title>
+	
+	<statement>
+		<p>
+			
+		</p>
+
+		<video youtube="RkMarDdV5Vw"><description><p>Summarizing the equations governing electrodynamics.</p></description></video>
+
+	</statement>
+  </corollary>
 	</introduction>
 
 	<subsubsection>
@@ -44,7 +57,7 @@
 			</p>
 			<p>
 				<md>
-					\text{(iv)~~} \oint_S \vec{B}\cdot d\vec{l} = \mu_0 I_{enclosed}
+					\text{(iv)~~} \oint_S \vec{B}\cdot d\vec{l} = \mu_0 I_{enc}
 				</md>
 			</p>
 		</sidebyside>

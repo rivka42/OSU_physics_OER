@@ -148,7 +148,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="818.72864"
-     inkscape:cy="191.42391"
+     inkscape:cy="192.43406"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -256,7 +256,7 @@
          id="tspan1-8"
          style="fill:#000000;stroke:none;stroke-width:0.79375"
          x="-321.80054"
-         y="188.65434">Amperean Loop</tspan></text>
+         y="188.65434">Amperian Loop</tspan></text>
     <path
        id="path911-9"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 4;stroke-dashoffset:0;stroke-opacity:1"
@@ -273,6 +273,19 @@
     <path
        id="path911-9-48"
        style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 4;stroke-dashoffset:0;stroke-opacity:1;opacity:0.5"
+       sodipodi:type="arc"
+       sodipodi:cx="-267.4823"
+       sodipodi:cy="134.74272"
+       sodipodi:rx="15.685851"
+       sodipodi:ry="46.089066"
+       sodipodi:start="4.712389"
+       sodipodi:end="1.5707963"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m -267.4823,88.653656 a 15.685851,46.089066 0 0 1 15.68585,46.089064 15.685851,46.089066 0 0 1 -15.68585,46.08907" />
+    <path
+       id="path911-9-48-0"
+       style="opacity:0.5;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 4;stroke-dashoffset:0;stroke-opacity:1"
        sodipodi:type="arc"
        sodipodi:cx="-267.4823"
        sodipodi:cy="134.74272"
